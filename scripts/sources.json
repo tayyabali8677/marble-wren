@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "daad-scholarship-germany",
+    "country": "Germany",
+    "name": "DAAD Scholarship",
+    "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/",
+    "note": "Already published (pilot). Kept here as the reference example."
+  },
+  {
+    "slug": "swedish-institute-scholarship-sweden",
+    "country": "Sweden",
+    "name": "Swedish Institute Scholarships for Global Professionals (SISGP)",
+    "url": "https://si.se/en/apply/scholarships/"
+  },
+  {
+    "slug": "holland-scholarship-netherlands",
+    "country": "Netherlands",
+    "name": "NL Scholarship (Holland Scholarship)",
+    "url": "https://www.studyinnl.org/finances/holland-scholarship"
+  },
+  {
+    "slug": "vanier-canada-graduate-scholarship",
+    "country": "Canada",
+    "name": "Vanier Canada Graduate Scholarships",
+    "url": "https://scholarships.gc.ca/",
+    "note": "vanier.gc.ca blocked on some networks — using scholarships.gc.ca portal instead"
+  },
+  {
+    "slug": "australia-awards-pakistan",
+    "country": "Australia",
+    "name": "Australia Awards Scholarships (Pakistan)",
+    "url": "https://www.australiaawardspakistan.org/",
+    "note": "Pakistan-specific portal — dfat.gov.au unreachable from some sandbox networks"
+  },
+  {
+    "slug": "japan-foundation-fellowship",
+    "country": "Japan",
+    "name": "Japan Foundation Fellowships & Cultural Programmes",
+    "url": "https://www.jpf.go.jp/e/program/index.html"
+  }
+]

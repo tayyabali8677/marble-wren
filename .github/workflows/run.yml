@@ -1,0 +1,73 @@
+name: Run
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      slugs:
+        description: "Specific slugs (space-separated). Leave empty to run all."
+        required: false
+        default: ""
+      unlisted:
+        description: "Hide from catalogue? (yes/no)"
+        required: false
+        default: "no"
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Scrape
+        env:
+          SLUGS: ${{ github.event.inputs.slugs }}
+        run: |
+          if [ -n "$SLUGS" ]; then
+            for slug in $SLUGS; do
+              npx tsx scripts/scrape-source.ts $slug
+            done
+          else
+            npx tsx scripts/scrape-source.ts
+          fi
+
+      - name: Generate
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          GEMINI_MODEL: gemini-flash-lite-latest
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SLUGS: ${{ github.event.inputs.slugs }}
+        run: |
+          if [ -n "$SLUGS" ]; then
+            npx tsx scripts/generate-batch.ts $SLUGS --skip-existing
+          else
+            npx tsx scripts/generate-batch.ts --all --skip-existing
+          fi
+
+      - name: Publish
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          UNLISTED: ${{ github.event.inputs.unlisted }}
+        run: |
+          FLAG=""
+          if [ "$UNLISTED" = "yes" ]; then FLAG="--unlisted"; fi
+          npx tsx scripts/publish.ts scripts/generated-batch.json $FLAG
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: batch-${{ github.run_number }}
+          path: scripts/generated-batch.json
+          retention-days: 30
