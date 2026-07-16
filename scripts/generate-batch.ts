@@ -213,15 +213,18 @@ async function generateOneWithRetry(source: Source, retries = 2): Promise<Record
 }
 
 async function getPublishedSlugsFromDB(): Promise<Set<string>> {
-  const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const key = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  // Strip BOM that PowerShell can prepend when piping secrets to gh secret set
+  const url = (process.env.NEXT_PUBLIC_SUPABASE_URL ?? "").replace(/^﻿/, "").trim();
+  const key = (process.env.SUPABASE_SERVICE_ROLE_KEY ?? "").replace(/^﻿/, "").trim();
   if (!url || !key) return new Set();
   try {
     const { createClient } = await import("@supabase/supabase-js");
     const supabase = createClient(url, key);
-    const { data } = await supabase.from("scholarships").select("slug").eq("status", "published");
+    const { data, error } = await supabase.from("scholarships").select("slug").eq("status", "published");
+    if (error) { console.warn(`  DB check failed: ${error.message} — will regenerate all`); return new Set(); }
     return new Set((data ?? []).map((r: { slug: string }) => r.slug));
-  } catch {
+  } catch (e) {
+    console.warn(`  DB check threw: ${(e as Error).message} — will regenerate all`);
     return new Set();
   }
 }
@@ -252,6 +255,12 @@ async function main() {
     }
     if (skipExisting && dbSlugs.has(slug)) {
       console.log(`  SKIP ${slug}: already published`);
+      continue;
+    }
+    // Check for scraped file before attempting generation — retrying won't help if scraping failed
+    const scrapedPath = path.join(SCRAPED_DIR, `${source.slug}.txt`);
+    if (!existsSync(scrapedPath)) {
+      console.error(`  SKIP ${slug}: no scraped file (URL may have been blocked during scrape)`);
       continue;
     }
     const entry = await generateOneWithRetry(source);
