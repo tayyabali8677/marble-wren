@@ -29,6 +29,14 @@ jobs:
 
       - run: npm ci
 
+      - name: Discover new sources
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          GEMINI_MODEL: gemini-flash-lite-latest
+          SLUGS: ${{ github.event.inputs.slugs }}
+        if: github.event.inputs.slugs == '' || github.event_name == 'schedule'
+        run: npx tsx scripts/discover.ts
+
       - name: Scrape
         env:
           SLUGS: ${{ github.event.inputs.slugs }}

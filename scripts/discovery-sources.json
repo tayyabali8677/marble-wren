@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "scholars4dev",
+    "name": "Scholars4Dev — Scholarships for Developing Countries",
+    "url": "https://www.scholars4dev.com/category/international-scholarships/",
+    "note": "Specifically curated for students from developing countries including Pakistan"
+  },
+  {
+    "slug": "opportunitydesk",
+    "name": "Opportunity Desk — International Scholarships",
+    "url": "https://opportunitydesk.org/category/scholarships/",
+    "note": "Continuously updated listing of international scholarships and fellowships"
+  },
+  {
+    "slug": "scholarship-positions",
+    "name": "Scholarship Positions — International Scholarships",
+    "url": "https://scholarship-positions.com/category/full-scholarships/",
+    "note": "Popular among Pakistani students; covers government and university scholarships worldwide"
+  },
+  {
+    "slug": "mastersportal",
+    "name": "MastersPortal — Scholarships in Europe",
+    "url": "https://www.mastersportal.eu/funding/scholarships/",
+    "note": "Comprehensive European master's scholarship listings"
+  },
+  {
+    "slug": "phdportal",
+    "name": "PhDPortal — PhD Scholarships & Fellowships",
+    "url": "https://www.phdportal.eu/funding/scholarships/",
+    "note": "PhD-specific scholarships and funded positions worldwide"
+  },
+  {
+    "slug": "afterschoolafrica",
+    "name": "After School Africa — International Scholarships",
+    "url": "https://www.afterschoolafrica.com/category/scholarships/",
+    "note": "Covers international scholarships open to developing country students"
+  },
+  {
+    "slug": "scholarships360",
+    "name": "Scholarships360 — International Scholarships",
+    "url": "https://scholarships360.org/scholarships/international-scholarships/",
+    "note": "Regularly updated international scholarship database"
+  },
+  {
+    "slug": "findaphd",
+    "name": "FindAPhD — Funded PhD Positions",
+    "url": "https://www.findaphd.com/phds/funding/",
+    "note": "Funded PhD positions and scholarships at universities worldwide"
+  },
+  {
+    "slug": "educations-com",
+    "name": "Educations.com — Scholarships Abroad",
+    "url": "https://www.educations.com/scholarships",
+    "note": "International study abroad scholarships updated regularly"
+  },
+  {
+    "slug": "hotcourses-scholarships",
+    "name": "Hotcourses Abroad — Scholarships",
+    "url": "https://www.hotcoursesabroad.com/study-abroad-info/scholarships-and-bursaries/",
+    "note": "IDP's study abroad platform — covers major international scholarship programmes"
+  }
+]
