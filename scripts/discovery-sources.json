@@ -58,5 +58,125 @@
     "name": "Hotcourses Abroad — Scholarships",
     "url": "https://www.hotcoursesabroad.com/study-abroad-info/scholarships-and-bursaries/",
     "note": "IDP's study abroad platform — covers major international scholarship programmes"
+  },
+  {
+    "slug": "scholarshipportal",
+    "name": "ScholarshipPortal — European & International Scholarships",
+    "url": "https://www.scholarshipportal.com/",
+    "note": "Large European scholarship database with filtering by country and level"
+  },
+  {
+    "slug": "youthop",
+    "name": "Youth Opportunities — Scholarships",
+    "url": "https://youthop.com/scholarships",
+    "note": "Very popular in Pakistan — covers international scholarships, fellowships, and grants"
+  },
+  {
+    "slug": "worldbank-scholarships",
+    "name": "World Bank Scholarships Program",
+    "url": "https://www.worldbank.org/en/programs/scholarships",
+    "note": "World Bank and affiliated scholarships for developing country nationals"
+  },
+  {
+    "slug": "euraxess",
+    "name": "EURAXESS — EU Research & Scholarship Opportunities",
+    "url": "https://euraxess.ec.europa.eu/jobs/funding",
+    "note": "European Commission platform listing funded research and scholarship opportunities"
+  },
+  {
+    "slug": "iefa",
+    "name": "IEFA — International Education Financial Aid",
+    "url": "https://www.iefa.org/",
+    "note": "Dedicated database of scholarships for international students studying abroad"
+  },
+  {
+    "slug": "goabroad-scholarships",
+    "name": "GoAbroad — Study Abroad Scholarships",
+    "url": "https://www.goabroad.com/scholarships-abroad",
+    "note": "Study abroad scholarships with country and program type filters"
+  },
+  {
+    "slug": "britishcouncil-scholarships",
+    "name": "British Council — Scholarships & Funding",
+    "url": "https://www.britishcouncil.org/study-work-abroad/scholarships",
+    "note": "British Council aggregated list of UK-funded scholarships including Chevening, GREAT, Newton"
+  },
+  {
+    "slug": "hec-scholarships",
+    "name": "HEC Pakistan — Scholarship Programs",
+    "url": "https://hec.gov.pk/english/scholarshipsgrants/Pages/Scholarship-Programs.aspx",
+    "note": "Pakistan Higher Education Commission — both domestic and foreign scholarships for Pakistanis"
+  },
+  {
+    "slug": "un-scholarships",
+    "name": "United Nations — Academic Impact Scholarships",
+    "url": "https://www.un.org/en/academic-impact/scholarships",
+    "note": "UN-affiliated scholarships and fellowships for students worldwide"
+  },
+  {
+    "slug": "scholarshipdb",
+    "name": "ScholarshipDB — International Scholarship Database",
+    "url": "https://scholarshipdb.net/",
+    "note": "Large constantly-updated database of international scholarships by country"
+  },
+  {
+    "slug": "studyineurope",
+    "name": "Study in Europe — Scholarships & Grants",
+    "url": "https://www.studyineurope.eu/scholarships",
+    "note": "EU-run portal listing scholarships for studying in European countries"
+  },
+  {
+    "slug": "daad-listing",
+    "name": "DAAD — All Scholarships for Foreign Students",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+    "note": "DAAD listing page covering all German scholarship programmes, not just the main DAAD award"
+  },
+  {
+    "slug": "propakistani-scholarships",
+    "name": "ProPakistani — Scholarship News",
+    "url": "https://propakistani.pk/category/education/scholarships/",
+    "note": "High-traffic Pakistani tech/news site — posts scholarship updates regularly"
+  },
+  {
+    "slug": "idp-scholarships",
+    "name": "IDP Education — Scholarships Abroad",
+    "url": "https://www.idp.com/pakistan/scholarships/",
+    "note": "IDP Pakistan portal — scholarships for Pakistani students studying abroad"
+  },
+  {
+    "slug": "scholarships-com",
+    "name": "Scholarships.com — International Scholarships",
+    "url": "https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-type/international-student-scholarships/",
+    "note": "Large US-based database with a significant international students section"
+  },
+  {
+    "slug": "studying-in-switzerland",
+    "name": "Study in Switzerland — Scholarships",
+    "url": "https://www.studyingswitzerland.ch/funding-and-scholarships/",
+    "note": "Swiss government study portal listing all scholarship options for international students"
+  },
+  {
+    "slug": "study-in-germany-portal",
+    "name": "Study in Germany — Scholarships",
+    "url": "https://www.study-in-germany.de/en/plan-your-studies/scholarships/",
+    "note": "German government portal listing all German scholarships for international students"
+  },
+  {
+    "slug": "studyaustralia",
+    "name": "Study Australia — Scholarships",
+    "url": "https://www.studyaustralia.gov.au/english/live/scholarships",
+    "note": "Australian government official study portal with full scholarship listing"
+  },
+  {
+    "slug": "educanada",
+    "name": "EduCanada — Scholarships & Funding",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Canadian government official scholarship portal for international students"
+  },
+  {
+    "slug": "nuffic-scholarships",
+    "name": "Nuffic — Dutch Scholarships for International Students",
+    "url": "https://www.nuffic.nl/en/subjects/scholarships",
+    "note": "Netherlands organisation for internationalisation in education — lists all Dutch scholarships"
   }
 ]
