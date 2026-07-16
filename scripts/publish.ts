@@ -107,7 +107,24 @@ async function main() {
     process.exit(1);
   }
 
-  console.log(`\nPublished ${data?.length ?? 0} scholarship(s) (listed=${!unlisted}).`);
+  const published = data?.length ?? 0;
+  console.log(`\nPublished ${published} scholarship(s) (listed=${!unlisted}).`);
+
+  // Trigger ISR revalidation so the website reflects new scholarships immediately
+  const revalidateUrl = process.env.REVALIDATE_URL;
+  const revalidateSecret = process.env.REVALIDATE_SECRET;
+  if (revalidateUrl && revalidateSecret && published > 0) {
+    try {
+      const r = await fetch(revalidateUrl, {
+        method: "POST",
+        headers: { "x-revalidate-token": revalidateSecret },
+      });
+      const body = await r.json();
+      console.log(`Revalidation: ${r.status} — ${JSON.stringify(body)}`);
+    } catch (e) {
+      console.warn(`Revalidation ping failed (non-fatal): ${(e as Error).message}`);
+    }
+  }
 }
 
 main();
