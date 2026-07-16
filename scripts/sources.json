@@ -37,5 +37,119 @@
     "country": "Japan",
     "name": "Japan Foundation Fellowships & Cultural Programmes",
     "url": "https://www.jpf.go.jp/e/program/index.html"
+  },
+  {
+    "slug": "commonwealth-scholarship-uk",
+    "country": "United Kingdom",
+    "name": "Commonwealth Scholarships (CSCUK)",
+    "url": "https://cscuk.fcdo.gov.uk/apply/"
+  },
+  {
+    "slug": "new-zealand-government-scholarship",
+    "country": "New Zealand",
+    "name": "New Zealand Government Scholarships for International Students",
+    "url": "https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students/"
+  },
+  {
+    "slug": "swiss-excellence-scholarship",
+    "country": "Switzerland",
+    "name": "Swiss Government Excellence Scholarships",
+    "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html"
+  },
+  {
+    "slug": "gates-cambridge-scholarship",
+    "country": "United Kingdom",
+    "name": "Gates Cambridge Scholarships",
+    "url": "https://www.gatescambridge.org/apply/"
+  },
+  {
+    "slug": "rhodes-scholarship-oxford",
+    "country": "United Kingdom",
+    "name": "Rhodes Scholarships",
+    "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/"
+  },
+  {
+    "slug": "adb-japan-scholarship",
+    "country": "Japan",
+    "name": "ADB-Japan Scholarship Program",
+    "url": "https://www.adb.org/work-with-us/careers/japan-scholarship-program"
+  },
+  {
+    "slug": "isdb-scholarship",
+    "country": "Saudi Arabia",
+    "name": "Islamic Development Bank (IsDB) Scholarship Program",
+    "url": "https://www.isdb.org/scholarship-program"
+  },
+  {
+    "slug": "norway-government-scholarship",
+    "country": "Norway",
+    "name": "Norway Government Scholarships for International Students",
+    "url": "https://www.hkdir.no/en/students/scholarships-and-financial-aid/scholarships-for-international-students"
+  },
+  {
+    "slug": "finland-government-scholarship",
+    "country": "Finland",
+    "name": "Finland Government Scholarships",
+    "url": "https://www.studyinfinland.fi/scholarships"
+  },
+  {
+    "slug": "oead-scholarship-austria",
+    "country": "Austria",
+    "name": "OeAD Scholarships for International Students",
+    "url": "https://oead.at/en/scholarships/incoming-students/"
+  },
+  {
+    "slug": "icdf-scholarship-taiwan",
+    "country": "Taiwan",
+    "name": "Taiwan ICDF International Higher Education Scholarships",
+    "url": "https://www.icdf.org.tw/wSite/lp?ctNode=30316&mp=2"
+  },
+  {
+    "slug": "czech-government-scholarship",
+    "country": "Czech Republic",
+    "name": "Czech Government Scholarships (DZS)",
+    "url": "https://www.dzs.cz/en/"
+  },
+  {
+    "slug": "italy-government-scholarship",
+    "country": "Italy",
+    "name": "Italian Government Scholarships for International Students",
+    "url": "https://www.esteri.it/en/diplomatic-network/scholarships/"
+  },
+  {
+    "slug": "ireland-government-scholarship",
+    "country": "Ireland",
+    "name": "Government of Ireland International Education Scholarships",
+    "url": "https://hea.ie/funding-governance-performance/funding/student-finance/government-of-ireland-international-education-scholarships/"
+  },
+  {
+    "slug": "spain-aecid-scholarship",
+    "country": "Spain",
+    "name": "AECID Scholarships (Spain)",
+    "url": "https://www.aecid.es/EN/becas-y-lectorados"
+  },
+  {
+    "slug": "denmark-government-scholarship",
+    "country": "Denmark",
+    "name": "Denmark Government Scholarships",
+    "url": "https://studyindenmark.dk/study-in-denmark/scholarships-and-tuition/scholarships"
+  },
+  {
+    "slug": "belgium-vlir-uos-scholarship",
+    "country": "Belgium",
+    "name": "VLIR-UOS Scholarships (Belgium)",
+    "url": "https://www.vliruos.be/en/scholarships"
+  },
+  {
+    "slug": "portugal-fct-scholarship",
+    "country": "Portugal",
+    "name": "FCT Scholarships (Portugal)",
+    "url": "https://www.fct.pt/en/support/bolsas-de-investigacao/"
+  },
+  {
+    "slug": "singapore-asean-scholarship",
+    "country": "Singapore",
+    "name": "ASEAN Scholarships (Singapore)",
+    "url": "https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships"
   }
 ]
