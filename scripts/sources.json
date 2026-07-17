@@ -1160,5 +1160,12 @@
     "country": "Netherlands",
     "url": "https://www.studyinnl.org/finances/sino-dutch-scholarship",
     "note": "Specifically for Chinese students."
+  },
+  {
+    "slug": "daad-helmut-schmidt-programme",
+    "name": "Helmut-Schmidt-Programme (Master’s Scholarships for Public Policy and Good Governance)",
+    "country": "Germany",
+    "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/helmut-schmidt-programme/",
+    "note": "Specifically for graduates from developing countries."
   }
 ]
