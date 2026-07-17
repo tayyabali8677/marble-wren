@@ -111,9 +111,9 @@ async function main() {
   console.log(`\nPublished ${published} scholarship(s) (listed=${!unlisted}).`);
 
   // Trigger ISR revalidation so the website reflects new scholarships immediately
-  const revalidateUrl = process.env.REVALIDATE_URL;
-  const revalidateSecret = process.env.REVALIDATE_SECRET;
-  if (revalidateUrl && revalidateSecret && published > 0) {
+  const revalidateUrl = (process.env.REVALIDATE_URL ?? "").replace(/^﻿/, "").trim();
+  const revalidateSecret = (process.env.REVALIDATE_SECRET ?? "").replace(/^﻿/, "").trim();
+  if (revalidateUrl && revalidateSecret) {
     try {
       const r = await fetch(revalidateUrl, {
         method: "POST",
