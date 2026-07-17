@@ -93,6 +93,7 @@ Return a single JSON object matching exactly this shape (all fields required unl
   "seoTitle": string,
   "seoDescription": string,
   "faqs": { "q": string, "a": string }[] (3-5 items),
+  "importantLinks": { "label": string, "url": string }[] (3-6 items — application portal, official scholarship page, required document checklist, partner university list, contact/embassy page; only include links explicitly mentioned in the source text),
   "sourceNotes": string
 }
 
@@ -271,8 +272,8 @@ async function main() {
   }
 
   if (!results.length) {
-    console.error("\nNo entries generated.");
-    process.exit(1);
+    console.log("\nNothing new to generate — all sources already published or scraped files unavailable. Exiting cleanly.");
+    process.exit(0);
   }
 
   writeFileSync(OUT_PATH, JSON.stringify(results, null, 2), "utf-8");
