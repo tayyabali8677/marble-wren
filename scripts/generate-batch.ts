@@ -69,7 +69,7 @@ Return a single JSON object matching exactly this shape (all fields required unl
   "name": string,
   "description": string (1-2 sentences, dense summary),
   "overview": string[] (4-6 paragraphs),
-  "type": "international" | "national",
+  "type": "international" | "national",  // "national" ONLY for Pakistani government scholarships for Pakistani students to study INSIDE Pakistan (e.g. HEC Need-Based, PEEF, Honhar, Ehsaas). Everything else — including foreign government scholarships, university scholarships, and Pakistani scholarships to study ABROAD — must be "international".
   "country": string,
   "flag": string (a single emoji flag),
   "fundingType": "fully-funded" | "partial" | "varies",
