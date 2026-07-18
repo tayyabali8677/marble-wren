@@ -1167,5 +1167,33 @@
     "country": "Germany",
     "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/helmut-schmidt-programme/",
     "note": "Specifically for graduates from developing countries."
+  },
+  {
+    "slug": "daad-helmut-schmidt-scholarship",
+    "name": "DAAD Helmut-Schmidt-Programme Master’s Scholarships",
+    "country": "Germany",
+    "url": "https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/",
+    "note": "Targeted at graduates from developing countries."
+  },
+  {
+    "slug": "mccall-macbain-scholarships",
+    "name": "The McCall MacBain Scholarships",
+    "country": "Canada",
+    "url": "https://mccallmacbainscholars.org/",
+    "note": "Open to international students for master's or professional studies at McGill University."
+  },
+  {
+    "slug": "knight-hennessy-scholars",
+    "name": "Knight-Hennessy Scholars Program",
+    "country": "United States",
+    "url": "https://knight-hennessy.stanford.edu/",
+    "note": "Fully funded graduate scholarship at Stanford University."
+  },
+  {
+    "slug": "boren-scholarships-usa",
+    "name": "Boren Scholarships",
+    "country": "United States",
+    "url": "https://www.borenawards.org/",
+    "note": "Specifically for U.S. citizens to study in world regions critical to U.S. interests."
   }
 ]
