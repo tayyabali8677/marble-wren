@@ -3,7 +3,7 @@ Title: African Development Bank Group
 
 URL Source: https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships/japan-africa-dream-scholarship
 
-Published Time: Sun, 19 Jul 2026 03:31:59 GMT
+Published Time: Sun, 19 Jul 2026 08:42:06 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -23,7 +23,7 @@ Markdown Content:
 
 
 
-*   [About Us »](https://www.afdb.org/en/about-us)
+*   [About Us](https://www.afdb.org/en/about-us)
     *           1.   [Overview](https://www.afdb.org/en/about-us/overview)
         2.   [History](https://www.afdb.org/en/about-us/corporate-information/history)
         3.   [Mission & Strategy](https://www.afdb.org/en/about-us/mission-and-strategy)
@@ -31,7 +31,7 @@ Markdown Content:
         5.   [Corporate Procurement](https://www.afdb.org/en/about-us/corporate-procurement)
         6.   [Frequently asked questions](https://www.afdb.org/en/about-us/frequently-asked-questions)
 
-*   [Countries »](https://www.afdb.org/en/countries)
+*   [Countries](https://www.afdb.org/en/countries)
     *           1.   
 [North Africa](https://www.afdb.org/en/countries/north-africa)
             1.   [Algeria](https://www.afdb.org/en/countries/north-africa/algeria)
@@ -103,7 +103,7 @@ Markdown Content:
 
         6.   
 [Non-Regional](https://www.afdb.org/en/countries/non-regional-member-countries)
-            1.   [View all »](https://www.afdb.org/en/countries/non-regional-member-countries)
+            1.   [View all](https://www.afdb.org/en/countries/non-regional-member-countries)
                 *   [Argentina](https://www.afdb.org/en/countries/non-regional-member-countries/argentina)
                 *   [Austria](https://www.afdb.org/en/countries/non-regional-member-countries/austria)
                 *   [Belgium](https://www.afdb.org/en/countries/non-regional-member-countries/belgium)
@@ -132,7 +132,7 @@ Markdown Content:
                 *   [United Kingdom](https://www.afdb.org/en/countries/non-regional-member-countries/united-kingdom)
                 *   [United States of America](https://www.afdb.org/en/countries/non-regional-member-countries/united-states-of-america)
 
-*   [News & Events »](https://www.afdb.org/en/news-and-events)
+*   [News & Events](https://www.afdb.org/en/news-and-events)
     *           1.   
 [All news](https://www.afdb.org/en/news-and-events)
             1.   [Press Releases](https://www.afdb.org/en/news-and-events/press-releases)
@@ -153,7 +153,7 @@ Markdown Content:
             3.   [Photos](https://www.afdb.org/en/news-events-videos/photos)
             4.   [Podcasts](https://www.afdb.org/en/news-events/podcasts)
 
-*   [Documents »](https://www.afdb.org/en/all-documents)
+*   [Documents](https://www.afdb.org/en/all-documents)
     *           1.   
 [Board Documents](https://www.afdb.org/en/documents/board-documents)
             1.   [Administrative Tribunal](https://www.afdb.org/en/documents/administrative-tribunal)
@@ -174,7 +174,7 @@ Markdown Content:
             6.   [Publications](https://www.afdb.org/en/documents/publications)
             7.   [Integrity & Anti-Corruption Reports](https://www.afdb.org/en/documents/integrity-anti-corruption-reports)
 
-*   [Topics & Sectors »](https://www.afdb.org/en/topics-and-sectors)
+*   [Topics & Sectors](https://www.afdb.org/en/topics-and-sectors)
     *           1.   [Initiatives & Partnerships](https://www.afdb.org/en/topics-and-sectors/initiatives-partnerships)
         2.   
 [Sectors](https://www.afdb.org/en/topics-and-sectors/sectors)
@@ -182,7 +182,7 @@ Markdown Content:
 
         3.   [Topics](https://www.afdb.org/en/topics-and-sectors/topics)
 
-*   [Projects & Operations »](https://mapafrica.afdb.org/en/)
+*   [Projects & Operations](https://mapafrica.afdb.org/en/)
     *           1.   [Financial Management](https://www.afdb.org/en/projects-and-operations/financial-management)
         2.   [Financial Products](https://www.afdb.org/en/projects-and-operations/financial-products)
         3.   [Procurement](https://www.afdb.org/en/projects-and-operations/procurement)
@@ -190,7 +190,7 @@ Markdown Content:
         5.   [Projects & Operations documents](https://www.afdb.org/en/documents/projects-operations)
         6.   [Selected Projects](https://www.afdb.org/en/projects-and-operations/selected-projects)
 
-*   [Knowledge »](https://www.afdb.org/en/knowledge)
+*   [Knowledge](https://www.afdb.org/en/knowledge)
     *           1.   [African Development Institute](https://www.afdb.org/en/african-development-institute)
         2.   [Research](https://www.afdb.org/en/knowledge/macro-economics-policy-forecasting-and-research)
         3.   [MapAfrica](https://www.afdb.org/en/projects-and-operations/mapafrica)
@@ -198,14 +198,14 @@ Markdown Content:
         5.   [Africa Information Highway](https://www.afdb.org/en/knowledge/statistics/africa-information-highway-aih)
         6.   [Publications](https://www.afdb.org/en/documents/publications)
 
-*   [Careers »](https://www.afdb.org/en/about-us/careers)
+*   [Careers](https://www.afdb.org/en/about-us/careers)
     *           1.   [Current Vacancies](https://www.afdb.org/en/about-careers/current-vacancies)
         2.   [Consultants](https://www.afdb.org/en/about-us/careers/current-vacancies/consultants)
         3.   [Employment of short term staff](https://www.afdb.org/en/about-us/careers/employment-of-short-term-staff)
         4.   [Internship Programme](https://www.afdb.org/en/careers/internship-programme)
         5.   [Young Professionals Program](https://www.afdb.org/en/about-us/careers/young-professionals-program-ypp)
 
-*   [Contacts »](https://www.afdb.org/en/general-contacts)
+*   [Contacts](https://www.afdb.org/en/general-contacts)
     *           1.   [Country Office Contacts](https://www.afdb.org/en/about-us/organisational-structure/complexes/country-regional-programs-policy/country-office-contacts)
 
 *   [News](https://www.afdb.org/en/news-and-events/news)
@@ -313,5 +313,3 @@ no body
 *   [Glossary](https://www.afdb.org/en/glossary)
 
 © 2026 [African Development Bank](https://www.afdb.org/)
-
-Back to top

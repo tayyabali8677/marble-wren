@@ -6,6 +6,8 @@ URL Source: https://www.daad.pk/en/
 Markdown Content:
 [](https://www.daad.pk/en/#)
 
+ Special announcement 
+
 [Straight to the content](https://www.daad.pk/en/#content)
 
 *   [de](https://www.daad.pk/de/)Seite auf Deutsch anzeigen
@@ -225,31 +227,7 @@ In the eyes of the DAAD, the end of a funding period marks the beginning of a lo
 
 1/4
 
-![Image 31](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
-
-©copyright &copy; HTW Berlin
-
-Advertisements by German Universities
-
-### Beyond data: MSc Project Management & Data Science - Berlin
-
-Become the data-savvy professional employers want! Bridging data and business, strong in stakeholder communication and successfully delivering projects amid constant change.
-
-[More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
-
-![Image 32](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
-
-©copyright &copy; Hochschule Heilbronn 
-
-Advertisements by German Universities
-
-### Be part of the transition to the future shape of energy
-
-Join our English-taught Bachelor of Science in Energy Systems Engineering and Management!
-
-[More on Be part of the transition to the future shape of energy](https://www.daad.pk/en/university-ad/heilbronn-hs-ba-260415/)
-
-![Image 33](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+![Image 31](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
 
 ©copyright &copy; Hochschule Reutlingen ESB Business School
 
@@ -261,19 +239,7 @@ Are you looking to study at a German university that will launch your internatio
 
 [More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
 
-![Image 34](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
-
-©copyright &copy; Coburg University of Applied Sciences and Arts
-
-Advertisements by German Universities
-
-### Level up your finance future — propel your career with our MBA in Fina...
-
-Unlock your finance and leadership potential – our premium, accredited MBA in Financial Management opens doors to top careers in Germany’s thriving market.
-
-[More on Level up your finance future — propel your career with our MBA in Financial Management!](https://www.daad.pk/en/university-ad/coburg-hs-fm-260414/)
-
-![Image 35](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
+![Image 32](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
 
 ©copyright &copy; HTW Berlin
 
@@ -285,7 +251,19 @@ Become the data-savvy professional employers want! Bridging data and business, s
 
 [More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
 
-![Image 36](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
+![Image 33](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
+
+©copyright &copy; Coburg University of Applied Sciences and Arts
+
+Advertisements by German Universities
+
+### Level up your finance future — propel your career with our MBA in Fina...
+
+Unlock your finance and leadership potential – our premium, accredited MBA in Financial Management opens doors to top careers in Germany’s thriving market.
+
+[More on Level up your finance future — propel your career with our MBA in Financial Management!](https://www.daad.pk/en/university-ad/coburg-hs-fm-260414/)
+
+![Image 34](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
 
 ©copyright &copy; Hochschule Heilbronn 
 
@@ -297,7 +275,7 @@ Join our English-taught Bachelor of Science in Energy Systems Engineering and Ma
 
 [More on Be part of the transition to the future shape of energy](https://www.daad.pk/en/university-ad/heilbronn-hs-ba-260415/)
 
-![Image 37](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+![Image 35](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
 
 ©copyright &copy; Hochschule Reutlingen ESB Business School
 
@@ -309,7 +287,19 @@ Are you looking to study at a German university that will launch your internatio
 
 [More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
 
-![Image 38](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
+![Image 36](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
+
+©copyright &copy; HTW Berlin
+
+Advertisements by German Universities
+
+### Beyond data: MSc Project Management & Data Science - Berlin
+
+Become the data-savvy professional employers want! Bridging data and business, strong in stakeholder communication and successfully delivering projects amid constant change.
+
+[More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
+
+![Image 37](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
 
 ©copyright &copy; Coburg University of Applied Sciences and Arts
 
@@ -321,17 +311,29 @@ Unlock your finance and leadership potential – our premium, accredited MBA in 
 
 [More on Level up your finance future — propel your career with our MBA in Financial Management!](https://www.daad.pk/en/university-ad/coburg-hs-fm-260414/)
 
-![Image 39](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
+![Image 38](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
 
-©copyright &copy; HTW Berlin
+©copyright &copy; Hochschule Heilbronn 
 
 Advertisements by German Universities
 
-### Beyond data: MSc Project Management & Data Science - Berlin
+### Be part of the transition to the future shape of energy
 
-Become the data-savvy professional employers want! Bridging data and business, strong in stakeholder communication and successfully delivering projects amid constant change.
+Join our English-taught Bachelor of Science in Energy Systems Engineering and Management!
 
-[More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
+[More on Be part of the transition to the future shape of energy](https://www.daad.pk/en/university-ad/heilbronn-hs-ba-260415/)
+
+![Image 39](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+
+©copyright &copy; Hochschule Reutlingen ESB Business School
+
+Advertisements by German Universities
+
+### Get a truly international education!
+
+Are you looking to study at a German university that will launch your international career? Join us at ESB Business School for a top-tier education!
+
+[More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
 
 ## Social Media
 

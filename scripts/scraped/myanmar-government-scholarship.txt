@@ -4,7 +4,6 @@ Title: ပညာရေးဝန်ကြီးဌာန
 URL Source: https://www.moe.gov.mm/my/scholarship
 
 Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 [![Image 1](https://www.moe.gov.mm/sites/default/files/moe_h4_fixed.jpg)](https://www.moe.gov.mm/my "Home")

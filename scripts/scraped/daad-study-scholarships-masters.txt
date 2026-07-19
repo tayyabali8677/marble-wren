@@ -1,12 +1,12 @@
-===== SOURCE PAGE: https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/ =====
+===== SOURCE PAGE: https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/study-scholarships-master-studies-for-all-academic-disciplines/ =====
 Title: DAAD - Deutscher Akademischer Austauschdienst
 
-URL Source: https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/
+URL Source: https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/study-scholarships-master-studies-for-all-academic-disciplines/
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[Jump to content](https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/#content)
+[Jump to content](https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/study-scholarships-master-studies-for-all-academic-disciplines/#content)
 
 [![Image 1: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service - to homepage](https://www.daad.de/_nuxt/logo-small-light.BeMXrHNY.svg)![Image 2: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service - to homepage](https://www.daad.de/_nuxt/logo-small-dark.BjXioAOO.svg)](https://www.daad.de/en/)
 
@@ -26,7 +26,9 @@ Colour switch
 
 ## Error 404 - We could not find that page
 
-![Image 3: Feet in front of arrows pointing into 3 directions](https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/%7B%22href%22:%22https:////api.daad.de//api//image//md1st//media//daad_de//fuesse-pfeile_972x547.jpg.webp%22,%22width%22:648,%22height%22:365%7D)
+![Image 3: Feet in front of arrows pointing into 3 directions](https://api.daad.de/api/image/md1st/media/daad_de/fuesse-pfeile_972x547.jpg.webp)
+
+© iStock.com / Delpixart
 
 We are continously working to extend and improve our online services for you.
 

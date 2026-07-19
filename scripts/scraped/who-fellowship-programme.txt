@@ -3,8 +3,6 @@ Title: 404
 
 URL Source: https://www.who.int/about/opportunities/fellowships
 
-Published Time: Thu, 16 Jul 2026 07:31:50 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -528,23 +526,7 @@ WHO Regional websites
 
 *   [Headlines](https://www.who.int/news-room/headlines)
 
-[New WHO guidelines: up to 45% of dementia risk could be prevented or delayed](https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed)
-
-15 July 2026
-
-News release
-
-[Global childhood immunization coverage inches forward despite conflict and hesitancy – UNICEF, WHO](https://www.who.int/news/item/15-07-2026-global-childhood-immunization-coverage-inches-forward-despite-conflict-and-hesitancy---unicef--who)
-
-15 July 2026
-
-Joint News Release
-
-[El Salvador validated by WHO as having eliminated trachoma as a public health problem](https://www.who.int/news/item/13-07-2026-el-salvador-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem)
-
-13 July 2026
-
-News release
+Loading...
 
 *   [In focus](https://www.who.int/mega-menu/emergencies/emergencies)
     *   [Cholera](https://www.who.int/mega-menu/emergencies/emergencies/cholera)

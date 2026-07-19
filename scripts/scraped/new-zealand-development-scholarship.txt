@@ -60,6 +60,8 @@ Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/types-of-manaaki-scholarships/
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/types-of-manaaki-scholarships#main)
 *   [Skip to primary navigation](https://www.mfat.govt.nz/types-of-manaaki-scholarships#primary-nav)
@@ -70,7 +72,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/types-of-manaaki-scholarships/en/page-not-found) 
 
 Search Toggle
 
@@ -217,8 +219,6 @@ Quick links
 *   [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
 # Page not found
-
-## MFAT Alerts
 
 1.   [Home](https://www.mfat.govt.nz/)
 2.   [Page not found](https://www.mfat.govt.nz/en/page-not-found)
@@ -247,20 +247,22 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/types-of-manaaki-scholarships/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/types-of-manaaki-scholarships/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
 
 
 ===== SOURCE PAGE: https://www.mfat.govt.nz/international-tertiary-students/ =====
 Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/international-tertiary-students/
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/international-tertiary-students#main)
@@ -272,7 +274,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/international-tertiary-students/en/page-not-found) 
 
 Search Toggle
 
@@ -419,8 +421,6 @@ Quick links
 *   [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
 # Page not found
-
-## MFAT Alerts
 
 1.   [Home](https://www.mfat.govt.nz/)
 2.   [Page not found](https://www.mfat.govt.nz/en/page-not-found)
@@ -449,20 +449,22 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/international-tertiary-students/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/international-tertiary-students/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
 
 
 ===== SOURCE PAGE: https://www.mfat.govt.nz/thematic-short-term-training-scholarships/ =====
 Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/thematic-short-term-training-scholarships/
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/thematic-short-term-training-scholarships#main)
@@ -474,7 +476,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/thematic-short-term-training-scholarships/en/page-not-found) 
 
 Search Toggle
 
@@ -621,8 +623,6 @@ Quick links
 *   [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
 # Page not found
-
-## MFAT Alerts
 
 1.   [Home](https://www.mfat.govt.nz/)
 2.   [Page not found](https://www.mfat.govt.nz/en/page-not-found)
@@ -651,20 +651,22 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/thematic-short-term-training-scholarships/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/thematic-short-term-training-scholarships/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
 
 
 ===== SOURCE PAGE: https://www.mfat.govt.nz/vocational-short-term-scholarships/ =====
 Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/vocational-short-term-scholarships/
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/vocational-short-term-scholarships#main)
@@ -676,7 +678,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/vocational-short-term-scholarships/en/page-not-found) 
 
 Search Toggle
 
@@ -823,8 +825,6 @@ Quick links
 *   [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
 # Page not found
-
-## MFAT Alerts
 
 1.   [Home](https://www.mfat.govt.nz/)
 2.   [Page not found](https://www.mfat.govt.nz/en/page-not-found)
@@ -853,20 +853,22 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/vocational-short-term-scholarships/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/vocational-short-term-scholarships/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
 
 
 ===== SOURCE PAGE: https://www.mfat.govt.nz/english-language-training-for-officials-scholarships/ =====
 Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/english-language-training-for-officials-scholarships/
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/english-language-training-for-officials-scholarships#main)
@@ -878,7 +880,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/english-language-training-for-officials-scholarships/en/page-not-found) 
 
 Search Toggle
 
@@ -1026,8 +1028,6 @@ Quick links
 
 # Page not found
 
-## MFAT Alerts
-
 1.   [Home](https://www.mfat.govt.nz/)
 2.   [Page not found](https://www.mfat.govt.nz/en/page-not-found)
 
@@ -1055,11 +1055,11 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/english-language-training-for-officials-scholarships/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/english-language-training-for-officials-scholarships/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)

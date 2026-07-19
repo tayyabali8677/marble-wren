@@ -92,7 +92,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Comments
+Name
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -294,7 +294,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Company
+URL
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -437,7 +437,7 @@ Schwarzman Scholars supports the expression and discussion of individual opinion
 Opinions of Scholars, faculty, staff and other program affiliates may only be expressed in their individual capacity on their own social media accounts and may not indicate or imply that individuals are speaking on behalf of or acting for the program. Similarly, self-organized events may not purport to be sanctioned or endorsed by the program.
 Reach Out
 Need more answers? Ask us a question of your own using the form below and we'll get back to you within 48 hours.
-Comments
+Instagram
 This field is for validation purposes and should be left unchanged.
 First and last name* *
 Email address* *

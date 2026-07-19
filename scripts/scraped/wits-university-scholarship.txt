@@ -3,8 +3,6 @@ Title: 404 - Wits University
 
 URL Source: https://www.wits.ac.za/postgraduate-hub/postgraduate-funding/
 
-Published Time: Fri, 03 Apr 2026 17:17:00 GMT
-
 Markdown Content:
 [![Image 3](https://www.wits.ac.za/media/wits-university-style-assets/images/wits-logo.svg)](https://www.wits.ac.za/ "University of the Witwatersrand")
 

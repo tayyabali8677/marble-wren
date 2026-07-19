@@ -705,7 +705,7 @@ Contact
 Search
 Home
 We support
-Menu sluiten
+Menu openen
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -727,7 +727,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants

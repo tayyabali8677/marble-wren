@@ -72,11 +72,7 @@ Toggle Search
 
  Search 
 
-Search courses https://www.monash.edu/search
-
-Search
-
-courses FAQs all things Monash
+Search Monash https://www.monash.edu/search
 
  See all other results 
 
@@ -214,8 +210,4 @@ Last updated: Apr 2023
 *   [Data privacy & cyber security](https://www.monash.edu/privacy-monash)
 *   [Data Consent Settings](https://www.monash.edu/scholarships/find/international#)
 
- Copyright © 2023 Monash University 
-
-We use cookies to improve your experience, but you can choose which ones we use, and opt-out at any time. You can find more information in our [Website Terms and Conditions](https://www.monash.edu/terms-and-conditions)
-
- Accept all Cookie settings
+ Copyright © 2023 Monash University

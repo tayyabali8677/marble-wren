@@ -307,8 +307,6 @@ Tracking graduate outcomes is crucial to improving the quality of education for 
 *   [Publications](https://hea.ie/resources/publications)
 *   [News](https://hea.ie/news)
 
-show search
-
 You are here:
 
 *   [Home](https://hea.ie/)
@@ -448,5 +446,3 @@ Email: info@hea.ie
 Search our Website 
 
 Submit
-
-Close Search

@@ -3,15 +3,11 @@ Title: 404 – Page not found
 
 URL Source: https://www.lunduniversity.lu.se/international-admissions/fees-and-funding/scholarships-and-grants
 
-Published Time: Sun, 19 Jul 2026 03:24:54 GMT
+Published Time: Sun, 19 Jul 2026 08:35:58 GMT
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-This website uses cookies to improve your experience as a user. By continuing to use the site, you agree to our use of cookies in accordance with our [cookie policy](https://www.lunduniversity.lu.se/about-this-website/cookie-policy).
-
-I understand No, thanks
-
 [Skip to main content](https://www.lunduniversity.lu.se/international-admissions/fees-and-funding/scholarships-and-grants#main-content)
 
 [Skip to main content](https://www.lunduniversity.lu.se/international-admissions/fees-and-funding/scholarships-and-grants#main-content)
@@ -146,7 +142,7 @@ Many thanks in advance!
 
 The lunduniversity.lu.se editorial team
 
- Last updated: 2 Apr 2026 | [editorial-team@kommunikation.lu.se](mailto:editorial-team@kommunikation.lu.se)
+ Last updated: 2 Apr 2026 | editorial-team [at] kommunikation [dot] lu [dot] se
 
 # Faculties
 

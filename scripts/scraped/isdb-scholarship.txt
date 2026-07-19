@@ -3,7 +3,7 @@ Title: Page not found | IsDB
 
 URL Source: https://www.isdb.org/scholarship-program
 
-Published Time: Sun, 19 Jul 2026 03:17:44 GMT
+Published Time: Sun, 19 Jul 2026 08:28:32 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -132,5 +132,3 @@ Accept Cookies
 *   [Sitemap](https://www.isdb.org/sitemap)
 *   [IsDB Policies](https://www.isdb.org/who-we-are/integrity/integrity-ethics-and-anti-corruption)
 *   [RSS](https://www.isdb.org/rss-feeds)
-
-![Image 1](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=2&event_id=aceaf6bc-d061-458f-9b8a-8dd06553956b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9ba279ac-0d8c-48d4-8e84-874084ca91c5&pt=Page%20not%20found%20%7C%20IsDB&tw_document_href=https%3A%2F%2Fwww.isdb.org%2Fscholarship-program&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784431066625.226183781161763&txn_id=nzxt3&type=javascript&version=2.3.54)![Image 2](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=2&event_id=aceaf6bc-d061-458f-9b8a-8dd06553956b&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=9ba279ac-0d8c-48d4-8e84-874084ca91c5&pt=Page%20not%20found%20%7C%20IsDB&tw_document_href=https%3A%2F%2Fwww.isdb.org%2Fscholarship-program&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784431066625.226183781161763&txn_id=nzxt3&type=javascript&version=2.3.54)

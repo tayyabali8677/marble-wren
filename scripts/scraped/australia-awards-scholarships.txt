@@ -3,8 +3,6 @@ Title: Australia Awards Scholarships
 
 URL Source: https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships
 
-Published Time: Sat, 18 Jul 2026 18:09:49 GMT
-
 Markdown Content:
 [Skip to main content](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#main-content)
 
@@ -289,7 +287,7 @@ The Australian Passport Office and its agents are committed to providing a secur
 
 ![Image 3: Large blue banner](https://www.dfat.gov.au/sites/default/files/blue_banner_wide.png)
 
-[Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=6248&lang=en_au;&readclass=main-content "Listen to this page using ReadSpeaker")
+[Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=6248&amp;lang=en_au;&amp;readclass=main-content "Listen to this page using ReadSpeaker")
 
 1.   [Home](https://www.dfat.gov.au/)
 2.   [People-to-people](https://www.dfat.gov.au/people-to-people)

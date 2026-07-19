@@ -3,15 +3,13 @@ Title: Page not found | African Union
 
 URL Source: https://au.int/en/scholarships
 
-Published Time: Sat, 18 Jul 2026 20:29:44 GMT
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 [Skip to main content](https://au.int/en/scholarships#main-content)
 
 ## NOW
 
-*   2026-07-17[Message du Président de la CUA à la suite du décès de SE Hassan Omar Mohamed](https://au.int/en/pressrelease/message-du-president-de-la-commission-de-lunion-africaine-se-m-mahmoud-ali-youssouf-la)
-*   2026-07-16[AUC Chairperson received by Prime Minister of the Republic of Burkina Faso](https://au.int/en/pressrelease/auc-chairperson-was-received-prime-minister-republic-burkina-faso-he-rimtalba-jean)
 *   2026-06-03[AU Leaders Stress Urgent Need for Resource Mobilization & Unity](https://au.int/en/pressrelease/african-union-leaders-stress-urgent-need-resource-mobilization-and-unity-advance)
 *   2026-06-03[Fifty Second Ordinary Session of the Permanent Representatives’ Committee](https://au.int/en/newsevent/fifty-second-52nd-ordinary-session-permanent-representatives-committee-prc)
 *   2026-05-06[Online Registration For Journalists Now Open 8th Mid-Year Coordination Meeting](https://au.int/en/node/46357)
@@ -22,8 +20,6 @@ Markdown Content:
 *   2026-07-17[First Ordinary Session Of Seventh Legislature Of The Pan-African Parliament](https://au.int/en/newsevent/first-ordinary-session-seventh-legislature-pan-african-parliament)
 *   2026-07-17[Message du Président de la CUA à la suite du décès de SE Hassan Omar Mohamed](https://au.int/en/pressrelease/message-du-president-de-la-commission-de-lunion-africaine-se-m-mahmoud-ali-youssouf-la)
 *   2026-07-16[AUC Chairperson received by Prime Minister of the Republic of Burkina Faso](https://au.int/en/pressrelease/auc-chairperson-was-received-prime-minister-republic-burkina-faso-he-rimtalba-jean)
-*   2026-06-03[AU Leaders Stress Urgent Need for Resource Mobilization & Unity](https://au.int/en/pressrelease/african-union-leaders-stress-urgent-need-resource-mobilization-and-unity-advance)
-*   2026-06-03[Fifty Second Ordinary Session of the Permanent Representatives’ Committee](https://au.int/en/newsevent/fifty-second-52nd-ordinary-session-permanent-representatives-committee-prc)
 
 *   [English](https://au.int/en/system/404)
 *   [Français](https://au.int/fr/system/404)

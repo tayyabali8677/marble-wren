@@ -3,12 +3,11 @@ Title: Page Not Found
 
 URL Source: https://www.ntu.edu.sg/education/graduate-programme/research-scholarship
 
+Published Time: Sun, 19 Jul 2026 08:40:04 GMT
+
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
-**Privacy Notice**
-This site uses cookies to offer you a better browsing experience. By continuing, you are agreeing to the use of cookies on your device as described in our [privacy policy](https://www.ntu.edu.sg/footer/ntu-privacy-statement).
-
-Close
-
 [![Image 1: NTU Logo](https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/NTU_Logo.png)](https://www.ntu.edu.sg/ "Nanyang Technological University")
 
 Toggle notification Toggle search Toggle menu
@@ -543,13 +542,13 @@ might have been moved, had its name changed or is temporarily unavailable.
 
 Let us guide you back or you can try to search for it under the A-Z directory.
 
-[![Image 2](https://www.ntu.edu.sg/media/images/default-source/research/research-news/personality-tools_web-banner83bff479-fb9d-43d4-9d49-a667d15ebbe2.jpg?sfvrsn=15ba6afc_3) ### A-Z Directory](https://www.ntu.edu.sg/footer/a-z-directory)
+[![Image 2](https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/white-dot.jpg) ### A-Z Directory](https://www.ntu.edu.sg/footer/a-z-directory)
 
-[![Image 3: Hive](https://www.ntu.edu.sg/media/images/default-source/cco/the-hived35b5919-7b6f-4b40-a40f-5fb994b2878d.jpg?sfvrsn=68137705_3) ### NTU Home page](https://www.ntu.edu.sg/)
+[![Image 3: Hive](https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/white-dot.jpg) ### NTU Home page](https://www.ntu.edu.sg/)
 
-[![Image 4: UG admissions](https://www.ntu.edu.sg/media/images/default-source/cco/admissions/badcd800-f5e3-4d21-9ff8-8308898bc18d.jpg?sfvrsn=4c5b091e_0) ### Admissions](https://www.ntu.edu.sg/admissions)
+[![Image 4: UG admissions](https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/white-dot.jpg) ### Admissions](https://www.ntu.edu.sg/admissions)
 
-[![Image 5: Researcher holding measuring equipment](https://www.ntu.edu.sg/media/images/default-source/cco/mask-group---2021-01-08t140818-537.jpg?sfvrsn=94647bf9_0) ### Research](https://www.ntu.edu.sg/research)
+[![Image 5: Researcher holding measuring equipment](https://www.ntu.edu.sg/ResourcePackages/NTU/assets/images/white-dot.jpg) ### Research](https://www.ntu.edu.sg/research)
 
 [](https://www.ntu.edu.sg/education/graduate-programme/research-scholarship#top)
 
@@ -605,5 +604,3 @@ Tel: [(65) 65138572](tel:+6565138572)
 © 2026 Nanyang Technological University
 
 #### [Equality, Diversity and Inclusion](https://www.ntu.edu.sg/about-us#edi-policy) |[Legal](https://www.ntu.edu.sg/legal)
-
-![Image 7](https://r.turn.com/r/beacon?b2=yjkb2BP0faQJFH6xYUupw14l9EGIwEir0kR5VREnZM9RfsPE-ZKrrh5YgrK8VSYnFLr8TQimYo98p8grfouwhA&cid=)
