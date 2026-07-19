@@ -30,6 +30,12 @@ jobs:
 
       - run: npm ci
 
+      - name: Update ticker strip counts
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: npx tsx scripts/update-ticker.ts
+
       - name: Check scholarship statuses
         env:
           GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}

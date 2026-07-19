@@ -106,6 +106,13 @@ jobs:
           if [ "$UNLISTED" = "yes" ]; then FLAG="--unlisted"; fi
           npx tsx scripts/publish.ts scripts/generated-batch.json $FLAG
 
+      - name: Update ticker strip counts
+        if: always()
+        env:
+          NEXT_PUBLIC_SUPABASE_URL: ${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: npx tsx scripts/update-ticker.ts
+
       - uses: actions/upload-artifact@v4
         if: always()
         with:
