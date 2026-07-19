@@ -1244,5 +1244,19 @@
     "country": "Japan",
     "url": "https://www.studyinjapan.go.jp/",
     "note": "The official government-funded scholarship program for international students."
+  },
+  {
+    "slug": "chevening-scholarships",
+    "name": "Chevening Scholarships",
+    "country": "United Kingdom",
+    "url": "https://www.chevening.org/",
+    "note": "The UK government's global scholarship programme."
+  },
+  {
+    "slug": "commonwealth-scholarships",
+    "name": "Commonwealth Scholarships",
+    "country": "United Kingdom",
+    "url": "https://cscuk.fcdo.gov.uk/",
+    "note": "Government-funded scholarships for citizens of developing Commonwealth countries."
   }
 ]
