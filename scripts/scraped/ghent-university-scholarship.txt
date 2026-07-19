@@ -1,0 +1,27 @@
+===== SOURCE PAGE: https://www.ugent.be/en/education/practical/grants.htm =====
+Title: UGent - Not Found
+
+URL Source: https://www.ugent.be/en/education/practical/grants.htm
+
+Published Time: Wed, 15 Jul 2026 08:54:54 GMT
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+## Onze excuses / Our apologies
+
+De pagina die u zonet heeft opgevraagd, bestaat niet op dit webadres. Deze pagina werd mogelijk verplaatst, vervangen of verwijderd.
+
+The page you requested does not exist at this web address. It may have been moved, replaced or deleted.
+
+### Wat kunt u doen?
+
+Als u denkt dat dit een fout is, kan u dit melden aan [de correcte helpdesk](https://helpdesk.ugent.be/contact/helpdesks.php). Gelieve de foutieve url en/of pagina die tot deze error leidde te vermelden.
+
+Wij zullen het probleem zo snel mogelijk proberen oplossen en u waar mogelijk doorsturen naar de juiste pagina.
+
+### What actions can you take?
+
+If you think this is a mistake, you can report this to [the appropriate helpdesk](https://helpdesk.ugent.be/contact/en/helpdesks.php). Please include the erroneous url and/or page that lead to this error.
+
+We will try to solve the problem as soon as possible and if applicable point you to the correct page.

@@ -1,0 +1,17 @@
+===== SOURCE PAGE: https://www.kth.se/en/studies/master/general/scholarships-1.16558 =====
+Title: The page could not be found
+
+URL Source: https://www.kth.se/en/studies/master/general/scholarships-1.16558
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+Unfortunately, this web address does not lead to a page on KTH's website. The page has probably been deleted or moved.
+
+If you have entered the address by hand, please check that it is entered correctly.
+
+*   [KTH's start page](https://www.kth.se/en)
+*   [Contact KTH](https://www.kth.se/en/om/kontakt)
+*   [Search KTH's website](https://www.kth.se/search)
+
+(Status code: 404)

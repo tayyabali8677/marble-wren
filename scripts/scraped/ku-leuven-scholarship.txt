@@ -1,0 +1,18 @@
+===== SOURCE PAGE: https://www.kuleuven.be/english/admissions/scholarship =====
+Title: This page does not seem to exist…
+
+URL Source: https://www.kuleuven.be/english/admissions/scholarship
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.
+
+If you are certain you have the correct web address but are encountering an error, please contact the [site administration](https://admin.kuleuven.be/icts/english/services/wms/need-help).
+
+Thank you.
+
+## You might have been looking for…
+
+*   [KU Leuven](https://www.kuleuven.be/english)Founded in 1425, the multidisciplinary and research-driven KU Leuven has been a centre of learning for almost six centuries.
+*   [Redirect website Admissions](https://www.kuleuven.be/english/admissions/admissions)De website admissions is geïntegreerd in de webinfo voor studenten.

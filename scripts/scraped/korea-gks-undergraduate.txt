@@ -1,0 +1,19 @@
+===== SOURCE PAGE: https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do =====
+Title: The page you requested could not be found.
+
+URL Source: https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+## ![Image 1](https://www.studyinkorea.go.kr/public/v3/images/common/logo.svg)
+
+## 404
+
+요청하신 페이지는 존재하지 않습니다.
+
+ The page you requested could not be found.
+
+3초 후 메인 페이지로 이동합니다.
+
+ Redirecting to main page in 3 seconds...

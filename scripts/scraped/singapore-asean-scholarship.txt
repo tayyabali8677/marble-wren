@@ -1,0 +1,15 @@
+===== SOURCE PAGE: https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships =====
+Title: Something's wrong
+
+URL Source: https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships
+
+Warning: Target URL returned error 403: Forbidden
+
+Markdown Content:
+Not quite sure what happened here, while you're waiting:
+
+• Try refreshing your browser, it often does the trick!
+
+ • Feel free to take a quick break and come back shortly.
+
+If it persists, email us at [optical_support@tech.gov.sg](mailto:optical_support@tech.gov.sg?subject=Encountered%20a%20website%20issue&body=Hi%20Optical%20Team%2C%0A%0AI%20encountered%20an%20error%20while%20browsing%20your%20website%20and%20wanted%20to%20flag%20it%20for%20your%20attention.%0A%0APlease%20find%20the%20details%20below:%0A%0A-%20Website%20link%3A%20%0A%5BInsert%20link%20here%5D%0A%0A-%20Date%20and%20time%20it%20happened%3A%20%0A%5BInclude%20a%20full%20screenshot%20showing%20the%20error%20screen%20and%20timestamp%5D%0A%0A-%20What%20I%20was%20doing%20at%20the%20time%3A%20%0A%5Be.g.%20Submitting%20a%20form%20%2F%20navigating%20between%20pages%20%2F%20uploading%20a%20file%5D%0A%0A-%20Browser%20%2F%20device%3A%20%0A%5Be.g.%20Chrome%20on%20Windows%2011%20%2F%20Safari%20on%20iPhone%5D%0A%0A-%20Additional%20info%20(if%20any)%3A%20%0A%5BAdd%20any%20other%20helpful%20details%5D%0A%0AHope%20this%20helps!%20Thanks%20for%20looking%20into%20it.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D).

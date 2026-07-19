@@ -1,0 +1,1756 @@
+===== SOURCE PAGE: https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students =====
+Title: Page not found | Maastricht University
+
+URL Source: https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students
+
+Published Time: Mon, 04 Apr 2022 07:23:49 GMT
+
+Markdown Content:
+![Image 1: logo](blob:http://localhost/0da6ce1f51536d6ab83029ee58d4d38f)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2)
+
+*   [Consent](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+*   [Details](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+*   [[#IABV2SETTINGS#]](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+*   [About](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+
+This website uses cookies
+
+We use cookies to analyse the traffic on our website and use the findings from such analyses to improve the user experience. On certain pages we also use, after you have given your consent, cookies to personalise content, emails and ads, but only with your consent. You can allow installation of all cookies on your device or allow necessary cookies only. View our[cookie statement](https://www.maastrichtuniversity.nl/maastricht-university-cookie-laws).
+
+[#GPC_BANNER_ICON#]
+
+[#GPC_TOAST_TEXT#]
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing** 
+
+- [x] 
+
+[Show details](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+
+Details
+
+*   
+Necessary 120- [x]    Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+
+    *   [Blueconic 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 2: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.blueconic.com/privacy-policy "Learn more about this provider Blueconic's privacy policy - opens in a new window")**AWSALB**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [Cloudflare 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 3: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cloudflare.com/privacypolicy/ "Learn more about this provider Cloudflare's privacy policy - opens in a new window")**cf.turnstile.u**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Google 7](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 4: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**test_cookie**Used to check if the user's browser supports cookies.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_GRECAPTCHA**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **_grecaptcha**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **rc::a**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **rc::b**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **rc::c**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **rc::f**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [LinkedIn 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 5: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**bcookie**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **li_gc**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [Microsoft 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-us/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**``**Used by Microsoft Power BI platform to display graphics on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Solarwinds 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 7: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.solarwinds.com/legal/privacy "Learn more about this provider Solarwinds's privacy policy - opens in a new window")**pa_enabled**Determines the device used to access the website. This allows the website to be formatted accordingly. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Stripe 3](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 8: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://stripe.com/privacy "Learn more about this provider Stripe's privacy policy - opens in a new window")**m**Determines the device used to access the website. This allows the website to be formatted accordingly. **Maximum Storage Duration**: 400 days**Type**: HTTP Cookie  **__stripe_mid**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__stripe_sid**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Vixy 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.vixyvideo.com/privacy-policy/ "Learn more about this provider Vixy's privacy policy - opens in a new window")**object(#-#-##:#:#.#)**Holds the users timezone.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [WalkInto 3](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://walkinto.in/privacypolicy "Learn more about this provider WalkInto's privacy policy - opens in a new window")**connect.sid[x2]**The cookie is necessary for secure log-in and the detection of any spam or abuse of the website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **rc::e**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [answers.maastrichtuniversity.nl challenges.cloudflare.com hscoscdn-eu1.net um50.maastrichtuniversity.nl vimeo.com 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_cfuvid[x5]**This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [app.powerbi.com event.asme.org 8](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**ARRAffinity[x4]**Used to distribute traffic to the website on several servers in order to optimise response times.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **ARRAffinitySameSite[x4]**Used to distribute traffic to the website on several servers in order to optimise response times.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [consent.cookiebot.com app.maastrichtuniversity.nl assets1-eur.mkt.dynamics.com events-sr.maastrichtuniversity.nl mediasite.maastrichtuniversity.nl 26](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**CookieConsent[x26]**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [content.powerapps.com 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**ai_session**Preserves users states across page requests.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **manifests.artifacts**Used by Microsoft Power BI platform to display graphics on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **manifests.extensions**Used by Microsoft Power BI platform to display graphics on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **manifests.products**Used by Microsoft Power BI platform to display graphics on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **manifests.tabs**Used by Microsoft Power BI platform to display graphics on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [content.powerapps.com js-eu1.hs-analytics.net 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**cookietest[x2]**This cookie is used to determine if the visitor has accepted the cookie consent box.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [developmentportal.maastrichtuniversity.nl 3](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**mx-cookie-test**This cookie determines whether the browser accepts cookies.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **originURI**This cookie is necessary for the login function on the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **xasid**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [digitaloceanspaces.com frankwatching.com hsadspixel.net hs-banner.com hscoscdn-eu1.net hs-sites-eu1.com hubspotusercontent.com hubspotusercontent-eu1.net hubspotusercontent-na1.net hubspotvideo.com knowledge.aanmelder.nl linkedin.com twitter.com vimeo.com 23](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**__cf_bm[x23]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [events-sr.maastrichtuniversity.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**ASP.NET_SessionId**Preserves the visitor's session state across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [fp.ternair.com services.crmservice.eu static.ternair.com tcl.ternairsoftware.com 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**SERVERID[x4]**This cookie is used to assign the visitor to a specific server - this function is necessary for the functionality of the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [hims.uva.nl maastrichtuniversity.blueconic.net 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**AWSALBCORS[x2]**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [img.sct.eu1.usercentrics.eu imgsct.cookiebot.com 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**1.gif[x2]**Used to count the number of sessions to the website, necessary for optimizing CMP product delivery. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [library.maastrichtuniversity.nl 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**config**This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **configE**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **url**Necessary for the website's booking functionality. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **user**Registers whether the user is logged in. This allows the website owner to make parts of the website inaccessible, based on the user's log-in status. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [library.maastrichtuniversity.nl vod.maastrichtuniversity.nl 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**wpEmojiSettingsSupports[x2]**This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [myapplication.maastrichtuniversity.nl 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_ionicstorage#_ionickv**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **_ionicstorage#local-forage-detect-blob-support**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **ng2Idle.main.expiry**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ng2Idle.main.idling**This cookie is necessary for the login function on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [scribehow.com 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_ab**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **_mf**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **id**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **__mp_opt_in_out_#**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [support.ebsco.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**BIGipServer#**Used to distribute traffic to the website on several servers in order to optimise response times.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [vacancies.maastrichtuniversity.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**JSESSIONID**Preserves users states across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [www.aanmelder.nl www.eventilo.com 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**SESS#[x2]**Preserves users states across page requests.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [www.openscience-maastricht.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**wordpress_test_cookie**Used to check if the user's browser supports cookies.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+
+*   
+Preferences 12- [x]    Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+
+    *   [Bluebillywig 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.bluebillywig.com/en/privacy-statement/ "Learn more about this provider Bluebillywig's privacy policy - opens in a new window")**masterVolume**Used by video players to remember the user's preferred sound volume.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Cookiebot 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Learn more about this provider Cookiebot's privacy policy - opens in a new window")**CookieConsentBulkSetting-#[x2]**Enables cookie consent across multiple websites**Maximum Storage Duration**: 1 year**Type**: HTML Local Storage   
+    *   [HubSpot 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**messagesUtk**Stores a unique ID string for each chat-box session. This allows the website-support to see previous issues and reconnect with the previous supporter. **Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [LinkedIn 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Pendo 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.pendo.io/pendo-blog/meet-pendos-first-data-protection-officer/ "Learn more about this provider Pendo's privacy policy - opens in a new window")**data/guide.gif/#-#-#-#-#**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [academy.maastrichtuniversity.nl www.ufl.nl 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**wp-wpml_current_language[x2]**Designates the country code that is calculated based on the user's IP address. Used to determine what language should be used for the visitor.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [scribehow.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**1**This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [umcrowd.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**locale**The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [vod.maastrichtuniversity.nl 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**current_station**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **user_route**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+
+*   
+Statistics 79- [x]    Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+
+    *   [Aanmelder.nl 6](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.aanmelder.nl/en/privacy "Learn more about this provider Aanmelder.nl's privacy policy - opens in a new window")**FPAU**Assigns a specific ID to the visitor. This allows the website to determine the number of specific user-visits for analysis and statistics.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **FPGSID**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **FPID**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **FPLC**Registers a unique ID that is used to generate statistical data on how the visitor uses the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **pageCount**Used to count the number of pages viewed by the user.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **hs-cta-interactions#cta**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [Blue Billywig 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.bluebillywig.com/privacy-statement/ "Learn more about this provider Blue Billywig's privacy policy - opens in a new window")**VMS_SESSION**Collects data on visitor interaction with the website's video-content. This data is used to make the website's video-content more relevant towards the visitor. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Google 34](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_ga[x14]**Registers a unique ID that is used to generate statistical data on how the visitor uses the website.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_ga_#[x10]**Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. **Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_gat[x3]**Used by Google Analytics to throttle request rate**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_gid[x6]**Registers a unique ID that is used to generate statistical data on how the visitor uses the website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **collect**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Hotjar 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 19: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.hotjar.com/legal/policies/privacy/ "Learn more about this provider Hotjar's privacy policy - opens in a new window")**_hjSession_#**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_hjSessionUser_#**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_hjTLDTest**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **hjActiveViewportIds**This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **hjViewportId**Saves the user's screen size in order to adjust the size of images on the website.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [HubSpot 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 20: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__hssc**Identifies if the cookie data needs to be updated in the visitor's browser.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__hssrc**Used to recognise the visitor's browser upon reentry on the website.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__hstc**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **hubspotutk**Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Leadinfo 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 21: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.leadinfo.com/en/privacy/ "Learn more about this provider Leadinfo's privacy policy - opens in a new window")**snowplowOutQueue_#_post2**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **snowplowOutQueue_#_post2.expires**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Microsoft 6](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 22: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-us/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_clck[x2]**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_clsk[x3]**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **WFESessionId**Stores data on the time spent on the website and its sub-pages, during the current session. **Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [OptinMonster 3](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 23: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://optinmonster.com/privacy/ "Learn more about this provider OptinMonster's privacy policy - opens in a new window")**omVisitsFirst**This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_omappvp**This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.**Maximum Storage Duration**: 11 years**Type**: HTTP Cookie  **_omappvs**This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Pendo 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 24: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.pendo.io/pendo-blog/meet-pendos-first-data-protection-officer/ "Learn more about this provider Pendo's privacy policy - opens in a new window")**pendo_cd**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **data/ptm.gif/4cfbcefc-fcf9-4b66-5dc6-9b0d81bb07a9**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Slack 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 25: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://slack.com/intl/en-gb/privacy-policy "Learn more about this provider Slack's privacy policy - opens in a new window")**x**Pending**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Solarwinds 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 26: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.solarwinds.com/legal/privacy "Learn more about this provider Solarwinds's privacy policy - opens in a new window")**pa**Registers the website's speed and performance. This function can be used in context with statistics and load-balancing.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Vimeo 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 27: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vimeo.com/privacy "Learn more about this provider Vimeo's privacy policy - opens in a new window")**vuid**Collects data on the user's visits to the website, such as which pages have been read.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie   
+    *   [comcrim.nl detoekomstheeftrechten.nl 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**utm_content[x2]**This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [content.powerapps.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**ai_user**Used by Microsoft Application Insights software to collect statistical usage and telemetry information. The cookie stores a unique identifier to recognize users on returning visits over time.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [fp.ternair.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**___c3_tid**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [library.maastrichtuniversity.nl 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**eui**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **key**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **socialsnap_viewed_#**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **userE**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [sc-static.net 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**u_scsid**Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **X-AB**This cookie is used by the website’s operator in context with multi-variate testing. This is a tool used to combine or change content on the website. This allows the website to find the best variation/edition of the site. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [scribehow.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**ld:#:$diagnostics**Used to monitor website performance for statistical purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [static.ternair.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**__tcl**Pending**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie   
+    *   [ta.gaconnector.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**gaconnector2_id**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   
+Marketing 106- [x]    Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+Some pages of the UM website(s) use re-marketing via Google, Facebook and any otherplatforms. Based on your visit to our website, advertisements may be shown toyou on Facebook and Instagram, the Google network and other advertisingnetworks. These providers display advertisements based on a cookie that isstored in your browser. 
+
+    *   [Meta Platforms, Inc.2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 28: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Blueconic 13](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 29: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.blueconic.com/privacy-policy "Learn more about this provider Blueconic's privacy policy - opens in a new window")**BCSessionID[x7]**Gathers information on the user’s behavior, preferences and other personal data, which is sent to a third-party marketing and analysis service, for optimization of the website’s advertisement, analysis and general traffic. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **BCRevision_#**Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **BCTempID[x5]**Gathers information on the user’s behavior, preferences and other personal data, which is sent to a third-party marketing and analysis service, for optimization of the website’s advertisement, analysis and general traffic. Without marketing consent BlueConic only enables basic anonymous functions.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Google 8](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 30: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**_gcl_au[x4]**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **activity;dc_iu=#/DFPAudiencePixel;#**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **IDE**Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie  **pagead/1p-user-list/#**Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [HubSpot 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 31: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**__ptq.gif**Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **outpost/video-embed/error.gif**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **__hmpl**Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **HUBLYTICS_EVENTS_53**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Leadinfo 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 32: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.leadinfo.com/en/privacy/ "Learn more about this provider Leadinfo's privacy policy - opens in a new window")**_li_id.#**Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_li_id.#.expires**Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_li_ses.#**Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_li_ses.#.expires**Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Microsoft 7](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 33: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_uetsid**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_uetvid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_uetsid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_uetsid_exp**Contains the expiry-date for the cookie with corresponding name. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_uetvid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_uetvid_exp**Contains the expiry-date for the cookie with corresponding name. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **MUID**Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Pendo 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 34: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.pendo.io/pendo-blog/meet-pendos-first-data-protection-officer/ "Learn more about this provider Pendo's privacy policy - opens in a new window")**pendo_tabId**Collects data on the user across websites - This data is used to make advertisement more relevant.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Slack 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 35: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://slack.com/intl/en-gb/privacy-policy "Learn more about this provider Slack's privacy policy - opens in a new window")**b**Collects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+    *   [Snap Inc.2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 36: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.snap.com/en-US/cookie-policy/ "Learn more about this provider Snap Inc.'s privacy policy - opens in a new window")**sc_at**Used by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **p**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Vimeo 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 37: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vimeo.com/privacy "Learn more about this provider Vimeo's privacy policy - opens in a new window")**orionV3#identity**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **picox#events**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **LOCAL_STORAGE_ID_PICOX_ID**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **LOCAL_STORAGE_ID_VIMEO_PLAYER**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **PLAYER_PICOX_SAMPLING_SEED**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Vixy 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 38: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.vixyvideo.com/privacy-policy/ "Learn more about this provider Vixy's privacy policy - opens in a new window")**csi**Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [WalkInto 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 39: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://walkinto.in/privacypolicy "Learn more about this provider WalkInto's privacy policy - opens in a new window")**rc::h**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **pagead/gen_204**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [YouTube 15](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 40: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **yt-icons-last-purged[x2]**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ytidb::LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **__Secure-ROLLOUT_TOKEN**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [cdn.bluebillywig.com maastrichtuniversity.bbvms.com 7](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**bb_uuid[x2]**Collects data on the user across websites - This data is used to make advertisement more relevant.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **uuid[x5]**This cookie is used to optimize ad relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [comcrim.nl detoekomstheeftrechten.nl 8](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**utm_campaign[x2]**Collects information on user preferences and/or interaction with web-campaign content - This is used on CRM-campaign-platform used by website owners for promoting events or products.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **utm_medium[x2]**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **utm_source[x2]**Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **utm_term[x2]**Determines how the user accessed the website. This information is used by the website operator in order to measure the efficiency of their marketing. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [connect.facebook.net schielandendekrimpenerwaard.nl 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_fbp[x4]**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie   
+    *   [fp.ternair.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**___c3_fingerprint31**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [imasdk.googleapis.com www.youtube-nocookie.com 4](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**TESTCOOKIESENABLED[x4]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [sc-static.net 12](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_sc_cspv**Detects which version of the website or application is currently shown to the visitor. **Maximum Storage Duration**: 13 months**Type**: HTTP Cookie  **_schn1[x2]**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **_scid[x2]**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: 13 months**Type**: HTTP Cookie  **_scid_r[x2]**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: 13 months**Type**: HTTP Cookie  **_screload[x2]**Used by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **u_sclid**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **u_sclid_r**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **u_scsid_r**Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [schielandendekrimpenerwaard.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_gtmeec**Used to temporarily store and process ecommerce-related interaction data in order to ensure reliable analytics event tracking across page loads.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [scribehow.com 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**__mpq_#_#**Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **mp_#_mixpanel**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [umcrowd.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_kentaa_session**Pending**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [water.schielandendekrimpenerwaard.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_/set_cookie**Used by server-side Google Tag Manager to set or update cookies required for analytics or marketing tags.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+
+*   Unclassified 50 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [Aanmelder.nl 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 41: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.aanmelder.nl/en/privacy "Learn more about this provider Aanmelder.nl's privacy policy - opens in a new window")**mkt_consent**Pending**Maximum Storage Duration**: 30 days**Type**: HTTP Cookie  **tos**On aanmelder platform - outside of pages used by MU**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **ga_session_duration**Pending**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **isLandingPage**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **timeSpentOnSite**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Amazon 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 42: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://aws.amazon.com/privacy/?nc1=f_pr "Learn more about this provider Amazon's privacy policy - opens in a new window")**files/2025-10-03/74eb173b-8952-434f-b451-1d68b819b609/screenshot.jpeg**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Bluebillywig 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 43: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.bluebillywig.com/ "Learn more about this provider Bluebillywig's privacy policy - opens in a new window")**userSelectedTextTrackIsoCode**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **[empty name]**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Blueconic 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 44: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.blueconic.com/privacy-policy "Learn more about this provider Blueconic's privacy policy - opens in a new window")**bc_geo_events**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Google 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 45: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+**rx_params**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **rx_session**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [HubSpot 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 46: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://legal.hubspot.com/privacy-policy "Learn more about this provider HubSpot's privacy policy - opens in a new window")**hubspot-modern-theme**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Pendo 6](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 47: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.pendo.io/pendo-blog/meet-pendos-first-data-protection-officer/ "Learn more about this provider Pendo's privacy policy - opens in a new window")**_pendo_accountId.01234567-89ab-cdef-0123-456789abcdef**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_pendo_guides_blocked.bd31187c-0a97-49e2-40df-adbb8765581e**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_pendo_meta.01234567-89ab-cdef-0123-456789abcdef**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_pendo_visitorId.bd31187c-0a97-49e2-40df-adbb8765581e**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **previous_page_loads**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **pendo-bd31187c-0a97-49e2-40df-adbb8765581e#guides**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [Vixy 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 48: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.vixyvideo.com/privacy-policy/ "Learn more about this provider Vixy's privacy policy - opens in a new window")**ima_sdk**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [WikiMedia 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)[Learn more about this provider![Image 49: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://foundation.wikimedia.org/wiki/Privacy_policy "Learn more about this provider WikiMedia's privacy policy - opens in a new window")**WMF-Uniq**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [assets.slater.app 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**hasSeenLoader**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [cdn.bluebillywig.com maastrichtuniversity.bbvms.com 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**bb_play_history[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [cdn.jsdelivr.net 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**672a16195ad2d95533e50d96#pages**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **6921965a593a027ec6437287#pages**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [cdn.kentaa.nl 2](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**entitySettings**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **kentaa-i18n**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [content.powerapps.com 3](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**GeocoderCache#objects**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **AI_buffer_1**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **AI_sentBuffer_1**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [developmentportal.maastrichtuniversity.nl 5](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**__Host-DeviceType**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__Host-Profile**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__Host-SessionTimeZoneOffset**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Host-XASSESSIONID**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **eca**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [library.maastrichtuniversity.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**swpext86386**Pending**Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [moonback.com 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**random**On aanmelder platform - outside of pages used by MU**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [myapplication.maastrichtuniversity.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**asw**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [sc-static.net 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**_ScCbts**Pending**Maximum Storage Duration**: 7 days**Type**: HTTP Cookie   
+    *   [scribehow.com 9](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**customUrls**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **flagsmithUniqueID**Pending**Maximum Storage Duration**: 10 years**Type**: HTTP Cookie  **ld:#:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ld_device_id**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **mixpanelBrowserDb#mixpanelRecordingEvents**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **mixpanelBrowserDb#mixpanelRecordingRegistry**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **mp_gen_new_tab_id_mixpanel_52e5e0805583e8a410f1ed50d8e0c049**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **mp_tab_id_mixpanel_52e5e0805583e8a410f1ed50d8e0c049**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **user-Uuid**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [whatispbl.maastrichtuniversity.nl 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**nuxt-color-mode**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [www.sharigeller.ca 1](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)**request_id**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+
+[Cross-domain consent 26](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#)
+
+Your consent applies to the following domains:
+
+List of domains your consent applies to:[um50.maastrichtuniversity.nl](https://um50.maastrichtuniversity.nl/)[whatispbl.maastrichtuniversity.nl](https://whatispbl.maastrichtuniversity.nl/)[assets-eur.mkt.dynamics.com](https://assets-eur.mkt.dynamics.com/)[comcrim.nl](https://comcrim.nl/)[assets1-eur.mkt.dynamics.com](https://assets1-eur.mkt.dynamics.com/)[intranet.maastrichtuniversity.nl](https://intranet.maastrichtuniversity.nl/)[openscience-maastricht.nl](https://openscience-maastricht.nl/)[answers.maastrichtuniversity.nl](https://answers.maastrichtuniversity.nl/)[academy.maastrichtuniversity.nl](https://academy.maastrichtuniversity.nl/)[events.maastrichtuniversity.nl](https://events.maastrichtuniversity.nl/)[studentportal.maastrichtuniversity.nl](https://studentportal.maastrichtuniversity.nl/)[mpcer.maastrichtuniversity.nl](https://mpcer.maastrichtuniversity.nl/)[roa.nl](https://roa.nl/)[www.umcrowd.nl](https://www.umcrowd.nl/)[www.ufl.nl](https://www.ufl.nl/)[developmentportal.maastrichtuniversity.nl](https://developmentportal.maastrichtuniversity.nl/)[www.maastrichtsummerschool.nl](https://www.maastrichtsummerschool.nl/)[vacancies.maastrichtuniversity.nl](https://vacancies.maastrichtuniversity.nl/)[myapplication.maastrichtuniversity.nl](https://myapplication.maastrichtuniversity.nl/)[vod.maastrichtuniversity.nl](https://vod.maastrichtuniversity.nl/)[library.maastrichtuniversity.nl](https://library.maastrichtuniversity.nl/)[aanmelder.nl](https://aanmelder.nl/)[app.maastrichtuniversity.nl](https://app.maastrichtuniversity.nl/)[detoekomstheeftrechten.nl](https://detoekomstheeftrechten.nl/)[events-sr.maastrichtuniversity.nl](https://events-sr.maastrichtuniversity.nl/)[www.maastrichtuniversity.nl](https://www.maastrichtuniversity.nl/)
+
+Cookie declaration last updated on 7/7/26 by [Cookiebot](https://www.cookiebot.com/)
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+
+You can at any time change or withdraw your consent from the [Cookie declaration](https://www.maastrichtuniversity.nl/maastricht-university-cookie-laws) on our website.
+
+Learn more about who we are, how you can contact us and how we process personal data in our [Privacy policy](https://www.maastrichtuniversity.nl/privacy-security).
+
+- [x] 
+
+**Do not sell or share my personal information** 
+
+Allow all cookies Customize Allow selection Use necessary cookies only
+
+[Skip to main content](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students#main-content)
+
+*   [Nederlands NL](https://www.maastrichtuniversity.nl/nl)
+
+[My UM](https://www.maastrichtuniversity.nl/my-um)
+
+Open menu[](https://www.maastrichtuniversity.nl/ "To the homepage of Maastricht University")[](https://www.maastrichtuniversity.nl/ "To the homepage of Maastricht University")
+
+*   [Education](https://www.maastrichtuniversity.nl/education)Open Education
+
+Education
+    *   [Discover our programmes](https://www.maastrichtuniversity.nl/study/programmes)Open Discover our programmes
+
+Discover our programmes
+        *   [Bachelor's](https://www.maastrichtuniversity.nl/education/bachelor)
+        *   [Master's](https://www.maastrichtuniversity.nl/education/master)
+        *   [Pre-master's](https://www.maastrichtuniversity.nl/education/pre-masters-programmes)
+        *   [Professionals](https://www.maastrichtuniversity.nl/education/professionals)
+        *   [Other courses](https://www.maastrichtuniversity.nl/education/courses)
+        *   [Excellence and honours programmes](https://www.maastrichtuniversity.nl/education/excellence-and-honours-programmes)
+        *   [Maastricht Summer School](https://www.maastrichtsummerschool.nl/)
+        *   [Exchange](https://www.maastrichtuniversity.nl/education/exchange)
+        *   [Rankings](https://www.maastrichtuniversity.nl/studeren/opleidingen/rankings)
+
+    *   [Get to know UM](https://www.maastrichtuniversity.nl/study/get-to-know-us)Open Get to know UM
+
+Get to know UM
+        *   [Experience UM: Events](https://www.maastrichtuniversity.nl/studeren/maak-kennis-met-um/experience-um-events)
+        *   [Information for parents](https://www.maastrichtuniversity.nl/study/get-to-know-us/information-parents)
+        *   [Problem-Based Learning](https://www.maastrichtuniversity.nl/study/get-to-know-us/engage-problem-based-learning)
+
+    *   [Admission, enrolment & tuition fees](https://www.maastrichtuniversity.nl/study/admission-enrolment)Open Admission, enrolment & tuition fees
+
+Admission, enrolment & tuition fees
+        *   [Admission](https://www.maastrichtuniversity.nl/study/admission-enrolment/applying-maastricht-university)
+        *   [Enrolment](https://www.maastrichtuniversity.nl/study/admission-enrolment/enrolment)
+        *   [Tuition fees](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/tuition-fees)
+        *   [Visa / legal residence](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/visa-legal-residence)
+        *   [Financing your studies](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies)
+        *   [Official document requests](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/official-document-requests)
+
+    *   [Support & guidance for students](https://www.maastrichtuniversity.nl/study/support)Open Support & guidance for students
+
+Support & guidance for students
+        *   [UM Student Deans](https://www.maastrichtuniversity.nl/study/support/um-student-deans)
+        *   [Study advisers](https://www.maastrichtuniversity.nl/studeren/support/study-advisers)
+        *   [Psychological support](https://www.maastrichtuniversity.nl/studeren/support/psychological-support)
+        *   [Student wellbeing](https://www.maastrichtuniversity.nl/study/support/student-wellbeing)
+        *   [Disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability)
+        *   [The InnBetween: Student Chaplaincy](https://www.maastrichtuniversity.nl/studeren/support/innbetween-student-chaplaincy)
+        *   [Support for international students](https://www.maastrichtuniversity.nl/studeren/support/support-international-students)
+        *   [Studying or interning abroad](https://www.maastrichtuniversity.nl/studeren/support/studying-or-interning-abroad)
+        *   [Career development](https://www.maastrichtuniversity.nl/study/support/career-development)
+        *   [Support for student parents](https://www.maastrichtuniversity.nl/studeren/support/support-student-parents)
+        *   [Social Safety for students](https://www.maastrichtuniversity.nl/study/support/social-safety-team-students)
+        *   [Complaints Service Point](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-service-desk-students-objections-appeals-or-complaints)
+        *   [The Student Portal](https://www.maastrichtuniversity.nl/study/support/meet-student-portal)
+
+    *   [Housing and student life](https://www.maastrichtuniversity.nl/study/student-life)Open Housing and student life
+
+Housing and student life
+        *   [Housing in Maastricht](https://www.maastrichtuniversity.nl/study/student-life/housing-maastricht)
+        *   [Housing in Venlo](https://www.maastrichtuniversity.nl/study/student-life/housing-venlo)
+        *   [Housing in Heerlen](https://www.maastrichtuniversity.nl/study/student-life/housing-heerlen)
+        *   [Support for rental issues (Huurteam Zuid-Limburg)](https://www.maastrichtuniversity.nl/studeren/studentenleven/support-rental-issues-huurteam-zuid-limburg)
+        *   [Moving? Register your new address](https://www.maastrichtuniversity.nl/studeren/studentenleven/moving-register-your-new-address)
+        *   [Coming to the Netherlands from abroad](https://www.maastrichtuniversity.nl/studeren/studentenleven/coming-netherlands-abroad)
+        *   [UM SPORTS](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you)
+        *   [Healthcare & health insurance](https://www.maastrichtuniversity.nl/study/student-life/healthcare-health-insurance)
+        *   [Getting involved at UM](https://www.maastrichtuniversity.nl/study/student-life/getting-involved-um)
+        *   [Civic engagement and volunteering](https://www.maastrichtuniversity.nl/study/student-life/civic-engagement-and-volunteering)
+        *   [Student organisations](https://www.maastrichtuniversity.nl/studeren/studentenleven/student-organisations)
+        *   [Working alongside your studies](https://www.maastrichtuniversity.nl/studeren/studentenleven/working-while-you-study)
+        *   [Budgeting for your studies](https://www.maastrichtuniversity.nl/study/student-life/cost-studying-financial-assistance)
+        *   [INKOM & introduction days](https://www.maastrichtuniversity.nl/news/inkom-2024)
+        *   [Parking](https://www.maastrichtuniversity.nl/studeren/studentenleven/parking)
+
+*   [Research](https://www.maastrichtuniversity.nl/research)Open Research
+
+Research
+    *   [Our research](https://www.maastrichtuniversity.nl/research/research-at-um)Open Our research 
+
+Our research 
+        *   [Unifying research themes](https://www.maastrichtuniversity.nl/research/research-at-um/unifying-research-themes)
+        *   [Research Information Portal](https://cris.maastrichtuniversity.nl/)
+        *   [Data Science @UM](https://www.maastrichtuniversity.nl/research/data-science-um)
+        *   [Open Science](https://www.maastrichtuniversity.nl/research/open-science)
+        *   [Integrity & ethics](https://www.maastrichtuniversity.nl/research/integrity-ethics)
+        *   [Research quality](https://www.maastrichtuniversity.nl/research/research-quality)
+        *   [Distinguished university professors](https://www.maastrichtuniversity.nl/research/distinguished-university-professors)
+        *   [Professors](https://www.maastrichtuniversity.nl/research/professors)
+        *   [Academic ceremonies](https://www.maastrichtuniversity.nl/onderzoek/onderzoek-um/academic-ceremonies)
+        *   [Maastricht Young Academy](https://www.maastrichtuniversity.nl/research/maastricht-young-academy)
+
+    *   [PhD](https://www.maastrichtuniversity.nl/research/phd)Open PhD
+
+PhD
+        *   [Paid PhD positions](https://www.maastrichtuniversity.nl/research/phd/paid-phd-positions)
+        *   [PhD training programmes](https://www.maastrichtuniversity.nl/research/phd/phd-training-programmes)
+        *   [Externally funded PhDs](https://www.maastrichtuniversity.nl/research/phd/externally-funded-phds)
+        *   [Current PhDs](https://www.maastrichtuniversity.nl/research/phd/current-phds)
+        *   [Contact](https://www.maastrichtuniversity.nl/research/phd/phd-faculty-contacts)
+        *   [Central PhD Candidates Platform](https://www.maastrichtuniversity.nl/research/phd/central-phd-candidates-platform)
+        *   [Young Researchers Academy](https://www.maastrichtuniversity.nl/research/phd/young-research-academy)
+        *   [PhD Office](https://www.maastrichtuniversity.nl/phd-office)
+
+    *   [Research institutes and themes](https://www.maastrichtuniversity.nl/research/institutes)
+    *   [Graduate schools](https://www.maastrichtuniversity.nl/research/graduate-schools)
+
+*   [About UM](https://www.maastrichtuniversity.nl/about-um)Open About UM
+
+About UM
+    *   [Our education](https://www.maastrichtuniversity.nl/about-um/education-at-um)Open Our education 
+
+Our education 
+        *   [International learning environment](https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/international-learning-environment)
+        *   [Problem-Based Learning](https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning)
+        *   [Quality assurance in education](https://www.maastrichtuniversity.nl/education/why-um/quality-assurance)
+
+    *   [Our organisation](https://www.maastrichtuniversity.nl/about-um/organisation)Open Our organisation
+
+Our organisation
+        *   [Expertise Centres](https://www.maastrichtuniversity.nl/about-um/expertise-centres)
+        *   [Faculties](https://www.maastrichtuniversity.nl/about-um/faculties)
+        *   [Other offices](https://www.maastrichtuniversity.nl/about-um/other-offices)
+        *   [Support the university](https://www.maastrichtuniversity.nl/about-um/support-university)
+        *   [Mission & strategy](https://www.maastrichtuniversity.nl/about-um/organisation/mission-strategy)
+        *   [Facts & figures](https://www.maastrichtuniversity.nl/about-um/organisation/facts-figures)
+        *   [UM’s partnerships](https://www.maastrichtuniversity.nl/um-partnerships)
+        *   [Recognitions](https://www.maastrichtuniversity.nl/about-um/recognitions)
+        *   [Participation & representation](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation)
+        *   [Local Consultative Body](https://www.maastrichtuniversity.nl/local-consultative-body)
+        *   [History](https://www.maastrichtuniversity.nl/about-um/organisation/maastricht-university-history)
+
+    *   [Our research](https://www.maastrichtuniversity.nl/research/research-at-um)
+    *   [Our values](https://www.maastrichtuniversity.nl/about-um/what-we-stand-for)Open Our values
+
+Our values
+        *   [Diversity, Equity & Inclusion+](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity)
+        *   [Sustainability](https://www.maastrichtuniversity.nl/sustainability)
+        *   [Recognition & Rewards](https://www.maastrichtuniversity.nl/about-um/what-we-stand-for/recognition-rewards)
+        *   [Social safety](https://www.maastrichtuniversity.nl/over-de-um/waar-we-voor-staan/social-safety)
+
+    *   [Working at UM](https://www.maastrichtuniversity.nl/about-um/work-at-um)Open Working at UM 
+
+Working at UM 
+        *   [Applying for a job at UM](https://www.maastrichtuniversity.nl/over-de-um/werken-bij-um/applying-job-um)
+        *   [Employment conditions and development opportunities](https://www.maastrichtuniversity.nl/about-um/work-at-um/um-employer)
+
+    *   [Staff](https://www.maastrichtuniversity.nl/about-um/people)
+    *   [Alumni](https://www.maastrichtuniversity.nl/about-um/alumni)Open Alumni
+
+Alumni
+        *   [Graduated: what’s next?](https://www.maastrichtuniversity.nl/about-um/alumni/graduated-whats-next)
+        *   [Networking](https://www.maastrichtuniversity.nl/about-um/alumni/networking)
+        *   [Lifelong development](https://www.maastrichtuniversity.nl/about-um/alumni/lifelong-development)
+        *   [Giving back](https://www.maastrichtuniversity.nl/about-um/alumni/giving-back)
+        *   [Update your data](https://www.maastrichtuniversity.nl/about-um/alumni/update-your-data)
+        *   [FAQ](https://www.maastrichtuniversity.nl/about-um/alumni/faq)
+
+*   [News & events](https://www.maastrichtuniversity.nl/news-events)Open News & events
+
+News & events
+    *   [Events](https://www.maastrichtuniversity.nl/events)
+    *   [Events archive](https://www.maastrichtuniversity.nl/past-events)
+    *   [Corporate events](https://www.maastrichtuniversity.nl/news-events/corporate-events)
+    *   [News](https://www.maastrichtuniversity.nl/news)
+    *   [Blog](https://www.maastrichtuniversity.nl/blog)
+    *   [Podcasts](https://www.maastrichtuniversity.nl/news-events/podcasts)Open Podcasts
+
+Podcasts
+        *   [In Gesprek Met...](https://www.maastrichtuniversity.nl/news-events/podcasts/gesprek-met)
+        *   [Sex, Love, Corona](https://www.maastrichtuniversity.nl/sex-love-corona-podcast)
+        *   [SBE podcast](https://open.spotify.com/show/3MyuxLesKhzDEX84ekVaPc?si=888b3ca7558d4371&nd=1)
+        *   [Café Europa](https://studioeuropamaastricht.nl/nl/project/cafe-europa-podcast-2/)
+        *   [Data Scientist MINDSETS](https://www.maastrichtuniversity.nl/news-events/podcasts/data-scientist-mindsets)
+        *   [Employed](https://www.maastrichtuniversity.nl/news-events/podcasts/employed)
+        *   [Terra Mosana taal en dialect](https://open.spotify.com/show/0jAyAqMruLnQczUqrR4bTk)
+        *   [Tussen kunst en wetenschap](https://www.maastrichtuniversity.nl/node/47546)
+        *   [Alice in Eduland](https://www.maastrichtuniversity.nl/news-events/podcasts/alice-eduland)
+        *   [CouncilCast](https://www.maastrichtuniversity.nl/news-events/podcasts/councilcast)
+        *   [Woke as science](https://www.maastrichtuniversity.nl/news-events/podcasts/woke-science)
+
+    *   [UMagazine](https://www.maastrichtuniversity.nl/news-events/umagazine)
+
+## Mobile menu main English (EN)
+
+*   [Education](https://www.maastrichtuniversity.nl/education)Open Education
+
+Education
+    *   [Discover our programmes](https://www.maastrichtuniversity.nl/study/programmes)Open Discover our programmes
+
+Discover our programmes
+        *   [Bachelor's](https://www.maastrichtuniversity.nl/education/bachelor)Open Bachelor's
+
+Bachelor's
+            *   [Bachelor’s programme](https://www.maastrichtuniversity.nl/education/bachelor/programmes)Open Bachelor’s programme
+
+Bachelor’s programme
+                *   [Minors](https://www.maastrichtuniversity.nl/education/bachelor/minors)
+
+        *   [Master's](https://www.maastrichtuniversity.nl/education/master)Open Master's
+
+Master's
+            *   [Master’s programme](https://www.maastrichtuniversity.nl/education/master/programmes)
+
+        *   [Pre-master's](https://www.maastrichtuniversity.nl/education/pre-masters-programmes)
+        *   [Professionals](https://www.maastrichtuniversity.nl/education/professionals)
+        *   [Other courses](https://www.maastrichtuniversity.nl/education/courses)
+        *   [Excellence and honours programmes](https://www.maastrichtuniversity.nl/education/excellence-and-honours-programmes)
+        *   [Maastricht Summer School](https://www.maastrichtsummerschool.nl/)
+        *   [Exchange](https://www.maastrichtuniversity.nl/education/exchange)Open Exchange
+
+Exchange
+            *   [Arts and Social Sciences](https://www.maastrichtuniversity.nl/education/exchange/fasos)
+            *   [Business and Economics](https://www.maastrichtuniversity.nl/education/exchange/sbe)
+            *   [Center for European Studies](https://www.maastrichtuniversity.nl/education/exchange/center-european-studies)
+            *   [Health, Medicine and Life Sciences](https://www.maastrichtuniversity.nl/education/exchange/fhml)
+            *   [Law](https://www.maastrichtuniversity.nl/education/exchange/law)
+            *   [Psychology and Neuroscience](https://www.maastrichtuniversity.nl/education/exchange/fpn)Open Psychology and Neuroscience
+
+Psychology and Neuroscience
+                *   [Incoming students](https://www.maastrichtuniversity.nl/education/exchange/fpn/incoming-students)Open Incoming students
+
+Incoming students
+                    *   [FPN Exchange Guide](https://www.maastrichtuniversity.nl/education/exchange/fpn/incoming-students/fpn-incoming-exchange-guide)Open FPN Exchange Guide
+
+FPN Exchange Guide
+                        *   [Academic information](https://www.maastrichtuniversity.nl/education/exchange/fpn/incoming-students/fpn-incoming-exchange-guide/academic-information)
+                        *   [Before leaving FPN](https://www.maastrichtuniversity.nl/education/exchange/fpn/incoming-students/fpn-incoming-exchange-guide/leaving-fpn)
+                        *   [Emergencies](https://www.maastrichtuniversity.nl/education/exchange/fpn/incoming-students/fpn-incoming-exchange-guide/emergencies)
+
+                *   [Outgoing students](https://www.maastrichtuniversity.nl/education/exchange/fpn/outgoing-students)
+
+            *   [Science and Engineering](https://www.maastrichtuniversity.nl/education/exchange/faculty-science-and-engineering)Open Science and Engineering
+
+Science and Engineering
+                *   [University College Maastricht (UCM)](https://www.maastrichtuniversity.nl/education/exchange/faculty-science-and-engineering/university-college-maastricht-ucm-exchange)
+                *   [Maastricht Science Programme (MSP)](https://www.maastrichtuniversity.nl/education/exchange/faculty-science-and-engineering/msp-exchange-programme)
+                *   [University College Venlo (UCV)](https://www.maastrichtuniversity.nl/support/during-your-studies/studying-abroad/important-practicalities/university-college-venlo-ucv)
+                *   [Department of Advanced Computing Sciences](https://www.maastrichtuniversity.nl/education/exchange/faculty-science-and-engineering/study-abroad)
+
+        *   [Rankings](https://www.maastrichtuniversity.nl/studeren/opleidingen/rankings)
+
+    *   [Get to know UM](https://www.maastrichtuniversity.nl/study/get-to-know-us)Open Get to know UM
+
+Get to know UM
+        *   [Experience UM: Events](https://www.maastrichtuniversity.nl/studeren/maak-kennis-met-um/experience-um-events)Open Experience UM: Events
+
+Experience UM: Events
+            *   [Bachelor's Open Day](https://www.maastrichtuniversity.nl/bachelors-open-day)
+            *   [Master’s Open Day](https://www.maastrichtuniversity.nl/master%E2%80%99s-open-day)
+            *   [Bachelor's Online Information Sessions](https://www.maastrichtuniversity.nl/online-information-sessions)
+            *   [Master's Online Information Sessions](https://www.maastrichtuniversity.nl/online-info-sessions-masters-programmes)
+            *   [Study information events](https://www.maastrichtuniversity.nl/study-information-events)
+            *   [Teenzcollege](https://www.maastrichtuniversity.nl/news-events/prospective-student-events/teenzcollege)
+            *   [Online bachelor’s videos](https://www.maastrichtuniversity.nl/study/get-to-know-us/experience-um-events/get-know-our-bachelors-programmes-home)
+
+        *   [Information for parents](https://www.maastrichtuniversity.nl/study/get-to-know-us/information-parents)
+        *   [Problem-Based Learning](https://www.maastrichtuniversity.nl/study/get-to-know-us/engage-problem-based-learning)
+
+    *   [Admission, enrolment & tuition fees](https://www.maastrichtuniversity.nl/study/admission-enrolment)Open Admission, enrolment & tuition fees
+
+Admission, enrolment & tuition fees
+        *   [Admission](https://www.maastrichtuniversity.nl/study/admission-enrolment/applying-maastricht-university)Open Admission
+
+Admission
+            *   [Free, selective and fixus programmes](https://www.maastrichtuniversity.nl/study/admission-enrolment/applying-maastricht-university/free-selective-and-fixus-bachelors)
+            *   [Handling fee](https://www.maastrichtuniversity.nl/study/admission-enrolment/aanmelden-bij-universiteit-maastricht/handling-fee)
+            *   [Using your existing DigiD from abroad](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/aanmelden-bij-universiteit-maastricht/using-your-existing-digid)
+            *   [Withdrawing your application](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/aanmelden-bij-universiteit-maastricht/withdrawing-your-application)
+
+        *   [Enrolment](https://www.maastrichtuniversity.nl/study/admission-enrolment/enrolment)Open Enrolment
+
+Enrolment
+            *   [Certified copy of your diploma and UM Graduation Statement](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/enrolment/certified-copy-your-diploma-and-um-graduation-statement)
+            *   [UM email account, UM card, Certificate of Enrolment](https://www.maastrichtuniversity.nl/study/admission-enrolment/enrolment/um-email-account-umcard-certificate-enrolment)
+            *   [Re-enrolment: bachelor’s and master’s](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/inschrijving/re-enrolment-bachelor%E2%80%99s-and-master%E2%80%99s-programmes)
+            *   [Graduation](https://www.maastrichtuniversity.nl/study/admission-enrolment/enrolment/graduation)
+            *   [Add teaching timetables to your calendar](https://www.maastrichtuniversity.nl/support/during-your-studies/your-enrolment-maastricht-university/add-teaching-timetables-your)
+            *   [Suspending your studies](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/inschrijving/suspending-your-studies)
+            *   [Terminating your studies](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/inschrijving/terminating-your-studies)
+            *   [UM regulations](https://www.maastrichtuniversity.nl/over-de-um/organisatie/codes-conduct-regulations)
+
+        *   [Tuition fees](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/tuition-fees)Open Tuition fees
+
+Tuition fees
+            *   [Additional regulations for students with a specific resident status](https://www.maastrichtuniversity.nl/study/admission-enrolment/tuition-fees/additional-tuition-fee-regulations-students-specific)
+            *   [Additional regulations for EU/EEA students following two study programmes](https://www.maastrichtuniversity.nl/study/admission-enrolment/collegegeld/additional-tuition-fee-regulations-eueea-students-following)
+            *   [Tuition fees when starting your studies in February](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/tuition-fees/tuition-fees-when-starting-your-studies-february)
+            *   [Paying tuition fees](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/collegegeld/paying-tuition-fees)
+
+        *   [Visa / legal residence](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/visa-legal-residence)Open Visa / legal residence
+
+Visa / legal residence
+            *   [Study progress requirements](https://www.maastrichtuniversity.nl/study/admission-enrolment/visa-legal-residence/study-progress-requirements)
+            *   [Applying to UM as a refugee or asylum seeker](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/visum-rechtmatig-verblijf/applying-um-refugee-or-asylum-seeker)
+
+        *   [Financing your studies](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies)Open Financing your studies
+
+Financing your studies
+            *   [Dutch student finance (DUO)](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/dutch-student-finance-duo)
+            *   [Scholarships for international students](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships)
+            *   [International financial aid](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies/country-based-financial-aid-international-students)
+            *   [Cost of living & financial assistance](https://www.maastrichtuniversity.nl/study/student-life/cost-studying-financial-assistance)
+            *   [Financial support for study delays: UM Student Support Fund](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies/financial-support-study-delays-um-student-support)
+
+        *   [Official document requests](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/official-document-requests)
+
+    *   [Support & guidance for students](https://www.maastrichtuniversity.nl/study/support)Open Support & guidance for students
+
+Support & guidance for students
+        *   [UM Student Deans](https://www.maastrichtuniversity.nl/study/support/um-student-deans)
+        *   [Study advisers](https://www.maastrichtuniversity.nl/studeren/support/study-advisers)
+        *   [Psychological support](https://www.maastrichtuniversity.nl/studeren/support/psychological-support)
+        *   [Student wellbeing](https://www.maastrichtuniversity.nl/study/support/student-wellbeing)Open Student wellbeing
+
+Student wellbeing
+            *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/wellbeing-movement)
+            *   [MoodLift](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/moodlift)
+
+        *   [Disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability)Open Disability support
+
+Disability support
+            *   [Applying for disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability/applying-disability-support)
+            *   [Tips for studying with a disability](https://www.maastrichtuniversity.nl/studeren/support/studeren-met-een-functiebeperking-chronische-ziekte/tips-studying-disability-andor)
+            *   [Disability facilities per faculty or educational unit](https://www.maastrichtuniversity.nl/studeren/support/studying-disability/disability-facilities-faculty-or-educational-unit)
+            *   [FAQ disability support](https://www.maastrichtuniversity.nl/studeren/support/studeren-met-een-functiebeperking-chronische-ziekte/faq-disability-support)
+
+        *   [The InnBetween: Student Chaplaincy](https://www.maastrichtuniversity.nl/studeren/support/innbetween-student-chaplaincy)
+        *   [Support for international students](https://www.maastrichtuniversity.nl/studeren/support/support-international-students)Open Support for international students
+
+Support for international students
+            *   [International Student Helpdesk (ISH)](https://www.maastrichtuniversity.nl/studeren/support/support-international-students/international-student-helpdesk-ish)
+            *   [International Student Welcome Day](https://www.maastrichtuniversity.nl/studeren/support/ondersteuning-voor-internationale-studenten/international-student-welcome-day)
+            *   [Buddy programme for new international students](https://www.maastrichtuniversity.nl/studeren/support/support-international-students/buddy-programme-new-international-students)
+            *   [Residence permit: extension, replacement, travel](https://www.maastrichtuniversity.nl/studeren/support/support-international-students/residence-permit-extension-replacement-travel)
+            *   [Support for asylum-seeking and refugee students](https://www.maastrichtuniversity.nl/studeren/support/ondersteuning-voor-internationale-studenten/support-students-recognized-refugee)
+
+        *   [Studying or interning abroad](https://www.maastrichtuniversity.nl/studeren/support/studying-or-interning-abroad)Open Studying or interning abroad
+
+Studying or interning abroad
+            *   [Logistics and Safety](https://www.maastrichtuniversity.nl/support/during-your-studies/studying-abroad/logistics-safety)
+            *   [Culture shock](https://www.maastrichtuniversity.nl/support/during-your-studies/studying-abroad/reverse-culture-shock)
+            *   [Practical matters](https://www.maastrichtuniversity.nl/support/during-your-studies/studying-abroad/practical-matters)
+
+        *   [Career development](https://www.maastrichtuniversity.nl/study/support/career-development)
+        *   [Support for student parents](https://www.maastrichtuniversity.nl/studeren/support/support-student-parents)
+        *   [Social Safety for students](https://www.maastrichtuniversity.nl/study/support/social-safety-team-students)Open Social Safety for students
+
+Social Safety for students
+            *   [Ombuds Officer](https://www.maastrichtuniversity.nl/concerns-complaints-point/ombuds-officer-can-help-students-and-staff)
+            *   [Sexual Safety](https://www.maastrichtuniversity.nl/sexual-safety)
+
+        *   [Complaints Service Point](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-service-desk-students-objections-appeals-or-complaints)Open Complaints Service Point
+
+Complaints Service Point
+            *   [Filing an objection](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-service-desk-students-objections-appeals-or-complaints-1)
+            *   [Filing an appeal](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-h%25C3%25A9t-loket-voor-studenten-voor-bezwaar-beroep-klacht)Open Filing an appeal
+
+Filing an appeal
+                *   [Verdicts CBE and CBHO](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-h%2525C3%2525A9t-loket-voor-studenten-voor-bezwaar-beroep)
+
+            *   [Filing a complaint](https://www.maastrichtuniversity.nl/support/during-your-studies/complaints-service-point-service-desk-students-objections-appeals-or-2)
+            *   [Step-by-step plan for filing an objection, appeal or complaint](https://www.maastrichtuniversity.nl/studeren/support/complaints-service-point-service-desk-students-objections-appeals-or-complaints-0)
+            *   [Applicable deadlines for objection, appeal or complaint](https://www.maastrichtuniversity.nl/support/during-your-studies/complaints-service-point-service-desk-students-objections-appeals-or-7)
+            *   [Reporting undesirable behaviour](https://www.maastrichtuniversity.nl/support/during-your-studies/complaints-service-point-service-desk-students-objections-appeals-or-5)
+
+        *   [The Student Portal](https://www.maastrichtuniversity.nl/study/support/meet-student-portal)Open The Student Portal
+
+The Student Portal
+            *   [For teaching staff](https://www.maastrichtuniversity.nl/study/support/meet-student-portal/what-are-implications-um-teaching-staff)
+            *   [Contact](https://www.maastrichtuniversity.nl/study/support/meet-student-portal/do-you-have-any-questions)
+
+    *   [Housing and student life](https://www.maastrichtuniversity.nl/study/student-life)Open Housing and student life
+
+Housing and student life
+        *   [Housing in Maastricht](https://www.maastrichtuniversity.nl/study/student-life/housing-maastricht)Open Housing in Maastricht
+
+Housing in Maastricht
+            *   [UM Guesthouse](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-guesthouse)
+
+        *   [Housing in Venlo](https://www.maastrichtuniversity.nl/study/student-life/housing-venlo)
+        *   [Housing in Heerlen](https://www.maastrichtuniversity.nl/study/student-life/housing-heerlen)
+        *   [Support for rental issues (Huurteam Zuid-Limburg)](https://www.maastrichtuniversity.nl/studeren/studentenleven/support-rental-issues-huurteam-zuid-limburg)
+        *   [Moving? Register your new address](https://www.maastrichtuniversity.nl/studeren/studentenleven/moving-register-your-new-address)
+        *   [Coming to the Netherlands from abroad](https://www.maastrichtuniversity.nl/studeren/studentenleven/coming-netherlands-abroad)Open Coming to the Netherlands from abroad
+
+Coming to the Netherlands from abroad
+            *   [Registering for the first time in the Netherlands](https://www.maastrichtuniversity.nl/study/student-life/coming-netherlands-abroad/registering-your-first-address-netherlands)
+            *   [Opening a Dutch bank account](https://www.maastrichtuniversity.nl/study/student-life/coming-netherlands-abroad/opening-dutch-bank-account)
+            *   [Compulsory health insurance for non-Dutch students](https://www.maastrichtuniversity.nl/study/student-life/naar-nederland-verhuizen-vanuit-het-buitenland/compulsory-health-insurance-non)
+            *   [Travelling to Maastricht](https://www.maastrichtuniversity.nl/study/student-life/coming-netherlands-abroad/travelling-maastricht)
+            *   [Working in the Netherlands as a non-Dutch student](https://www.maastrichtuniversity.nl/support/coming-netherlands-abroad/working-netherlands-non-dutch-student)
+
+        *   [UM SPORTS](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you)Open UM SPORTS
+
+UM SPORTS
+            *   [Rates](https://www.maastrichtuniversity.nl/um-sports/rates)
+            *   [UM running team](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-er-voor-jou/um-running-team)
+            *   [Climbing and bouldering](https://www.maastrichtuniversity.nl/study/student-life/um-sports-you/climbing-and-bouldering)
+            *   [Padel](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you/padel)
+            *   [Physiotherapy](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you/physiotherapy)
+            *   [Squash](https://www.maastrichtuniversity.nl/study/student-life/um-sports/squash)
+            *   [Swimming](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-er-voor-jou/swimming)
+            *   [Tennis](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you/tennis)
+            *   [Top-level sport](https://www.maastrichtuniversity.nl/node/57584/top-level-sport-maastricht-university)
+            *   [Senior sports](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you/senior-sports)
+            *   [Exercising with a disability](https://www.maastrichtuniversity.nl/support/um-sports/exercising-disability)
+            *   [Sports Council MUSST & Student sports associations](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you/student-sports-associations-sports-council-musst)
+            *   [House rules](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-er-voor-jou/house-rules-um-sports)
+            *   [Taking photos or videos](https://www.maastrichtuniversity.nl/study/student-life/um-sports/taking-photos-or-videos-um-sports)
+
+        *   [Healthcare & health insurance](https://www.maastrichtuniversity.nl/study/student-life/healthcare-health-insurance)
+        *   [Getting involved at UM](https://www.maastrichtuniversity.nl/study/student-life/getting-involved-um)Open Getting involved at UM
+
+Getting involved at UM
+            *   [Student project team](https://www.maastrichtuniversity.nl/study/student-life/getting-involved-um/student-project-team)
+            *   [Student Initiative Helpdesk](https://www.maastrichtuniversity.nl/studeren/studentenleven/getting-involved-um/student-initiative-helpdesk)
+
+        *   [Civic engagement and volunteering](https://www.maastrichtuniversity.nl/study/student-life/civic-engagement-and-volunteering)Open Civic engagement and volunteering
+
+Civic engagement and volunteering
+            *   [OmniUM dialogue platform](https://www.maastrichtuniversity.nl/study/student-life/civic-engagement-and-volunteering/omnium-dialogue-platform)
+            *   [Become a buddy for new international students](https://www.maastrichtuniversity.nl/study/student-life/civic-engagement-and-volunteering/become-buddy-new-international-students)
+
+        *   [Student organisations](https://www.maastrichtuniversity.nl/studeren/studentenleven/student-organisations)Open Student organisations
+
+Student organisations
+            *   [Overview of student organisations in Maastricht](https://www.maastrichtuniversity.nl/studeren/studentenleven/student-organisations/overview-student-organisations-maastricht)
+            *   [Supportive UM services for student organisations](https://www.maastrichtuniversity.nl/study/student-life/student-organisations/supportive-um-services-student-organisations)
+
+        *   [Working alongside your studies](https://www.maastrichtuniversity.nl/studeren/studentenleven/working-while-you-study)Open Working alongside your studies
+
+Working alongside your studies
+            *   [Student jobs at UM](https://www.maastrichtuniversity.nl/studeren/studentenleven/werken-naast-je-studie/student-jobs-um)
+
+        *   [Budgeting for your studies](https://www.maastrichtuniversity.nl/study/student-life/cost-studying-financial-assistance)Open Budgeting for your studies
+
+Budgeting for your studies
+            *   [Council and Water Boards tax](https://www.maastrichtuniversity.nl/studeren/studentenleven/budgeting-your-studies/councils-and-water-boards-tax-bsgw)
+
+        *   [INKOM & introduction days](https://www.maastrichtuniversity.nl/news/inkom-2024)
+        *   [Parking](https://www.maastrichtuniversity.nl/studeren/studentenleven/parking)
+
+*   [Research](https://www.maastrichtuniversity.nl/research)Open Research
+
+Research
+    *   [Our research](https://www.maastrichtuniversity.nl/research/research-at-um)Open Our research 
+
+Our research 
+        *   [Unifying research themes](https://www.maastrichtuniversity.nl/research/research-at-um/unifying-research-themes)
+        *   [Research Information Portal](https://cris.maastrichtuniversity.nl/)
+        *   [Data Science @UM](https://www.maastrichtuniversity.nl/research/data-science-um)Open Data Science @UM
+
+Data Science @UM
+            *   [Education](https://www.maastrichtuniversity.nl/research/data-science-um/education)
+            *   [News and activities](https://www.maastrichtuniversity.nl/research/data-science-um/news-and-activities)
+            *   [Community](https://www.maastrichtuniversity.nl/research/data-science-um/community)
+            *   [Vacancies](https://www.maastrichtuniversity.nl/research/data-science-um/community-vacancies)
+            *   [Contact](https://www.maastrichtuniversity.nl/research/data-science-um/contact)
+
+        *   [Open Science](https://www.maastrichtuniversity.nl/research/open-science)Open Open Science
+
+Open Science
+            *   [Recognition & Rewards](https://www.maastrichtuniversity.nl/about-um/what-we-stand-for/recognition-rewards)
+            *   [FAIR principles](https://www.maastrichtuniversity.nl/research/open-science/fair-principles)
+            *   [Barcelona Declaration on Open Research Information](https://www.maastrichtuniversity.nl/research/open-science/barcelona-declaration-open-research-information)
+
+        *   [Integrity & ethics](https://www.maastrichtuniversity.nl/research/integrity-ethics)Open Integrity & ethics
+
+Integrity & ethics
+            *   [Scientific integrity](https://www.maastrichtuniversity.nl/research/integrity-ethics/scientific-integrity)
+            *   [Research data management](https://www.maastrichtuniversity.nl/research/integrity-ethics/management-research-data)
+            *   [Ethics review](https://www.maastrichtuniversity.nl/research/integrity-ethics/ethics-review)
+            *   [Animal experiments](https://www.maastrichtuniversity.nl/node/46976)
+            *   [Financial conflict of interest policy](https://www.maastrichtuniversity.nl/research/integrity-ethics/financial-conflict-interest-policy-related-nih-funded-research-um)
+
+        *   [Research quality](https://www.maastrichtuniversity.nl/research/research-quality)
+        *   [Distinguished university professors](https://www.maastrichtuniversity.nl/research/distinguished-university-professors)
+        *   [Professors](https://www.maastrichtuniversity.nl/research/professors)Open Professors
+
+Professors
+            *   [Arts and Social Sciences](https://www.maastrichtuniversity.nl/research/professors/professors-faculty-arts-and-social-sciences)
+            *   [Business and Economics](https://www.maastrichtuniversity.nl/research/professors/professors-school-business-and-economics)
+            *   [Health, Medicine and Life Sciences](https://www.maastrichtuniversity.nl/research/professors/professors-faculty-health-medicine-and-life-sciences)
+            *   [Science and Engineering](https://www.maastrichtuniversity.nl/research/professors/professors-faculty-science-and-engineering)
+            *   [Law](https://www.maastrichtuniversity.nl/research/professors/professors-faculty-law)
+            *   [Psychology and Neuroscience](https://www.maastrichtuniversity.nl/research/professors/professors-faculty-psychology-and-neuroscience)
+
+        *   [Academic ceremonies](https://www.maastrichtuniversity.nl/onderzoek/onderzoek-um/academic-ceremonies)
+        *   [Maastricht Young Academy](https://www.maastrichtuniversity.nl/research/maastricht-young-academy)Open Maastricht Young Academy
+
+Maastricht Young Academy
+            *   [Projects](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/maastricht-young-academy-projects)Open Projects
+
+Projects
+                *   [Growing Up in Science](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/growing-science-series)
+                *   [Interdisciplinary grant](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/interdisciplinary-grant)
+                *   [Internationalisation](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/maastricht-young-academy-projects/internationalisation)
+                *   [Lumière × MYA](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/lumi%C3%A8re-%C3%97-mya)
+                *   [Outreach](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/outreach)
+                *   [Recognition & Rewards](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/recognition-rewards)
+                *   [Social safety](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/social-safety)
+                *   [Trainings & workshops](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/projects/trainings-workshops)
+                *   [Work pressure and well-being](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/maastricht-young-academy-projects/work-pressure-well-being)
+
+            *   [Members](https://www.maastrichtuniversity.nl/mya-members)
+            *   [Alumni](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/mya-alumni)
+            *   [Get involved](https://www.maastrichtuniversity.nl/research/maastricht-young-academy/how-get-involved)
+
+    *   [PhD](https://www.maastrichtuniversity.nl/research/phd)Open PhD
+
+PhD
+        *   [Paid PhD positions](https://www.maastrichtuniversity.nl/research/phd/paid-phd-positions)
+        *   [PhD training programmes](https://www.maastrichtuniversity.nl/research/phd/phd-training-programmes)
+        *   [Externally funded PhDs](https://www.maastrichtuniversity.nl/research/phd/externally-funded-phds)
+        *   [Current PhDs](https://www.maastrichtuniversity.nl/research/phd/current-phds)
+        *   [Contact](https://www.maastrichtuniversity.nl/research/phd/phd-faculty-contacts)
+        *   [Central PhD Candidates Platform](https://www.maastrichtuniversity.nl/research/phd/central-phd-candidates-platform)
+        *   [Young Researchers Academy](https://www.maastrichtuniversity.nl/research/phd/young-research-academy)Open Young Researchers Academy
+
+Young Researchers Academy
+            *   [Contact](https://www.maastrichtuniversity.nl/research/phd/young-researchers-academy/contact)
+            *   [Workshops](https://www.maastrichtuniversity.nl/research/phd/young-researchers-academy/workshops)
+
+        *   [PhD Office](https://www.maastrichtuniversity.nl/phd-office)
+
+    *   [Research institutes and themes](https://www.maastrichtuniversity.nl/research/institutes)
+    *   [Graduate schools](https://www.maastrichtuniversity.nl/research/graduate-schools)
+
+*   [About UM](https://www.maastrichtuniversity.nl/about-um)Open About UM
+
+About UM
+    *   [Our education](https://www.maastrichtuniversity.nl/about-um/education-at-um)Open Our education 
+
+Our education 
+        *   [International learning environment](https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/international-learning-environment)
+        *   [Problem-Based Learning](https://www.maastrichtuniversity.nl/over-de-um/onderwijs-aan-de-um/problem-based-learning)
+        *   [Quality assurance in education](https://www.maastrichtuniversity.nl/education/why-um/quality-assurance)
+
+    *   [Our organisation](https://www.maastrichtuniversity.nl/about-um/organisation)Open Our organisation
+
+Our organisation
+        *   [Expertise Centres](https://www.maastrichtuniversity.nl/about-um/expertise-centres)Open Expertise Centres
+
+Expertise Centres
+            *   [Facility Services](https://www.maastrichtuniversity.nl/about-um/service-centres/facility-services)Open Facility Services
+
+Facility Services
+                *   [Accessibility Service Point](https://www.maastrichtuniversity.nl/about-um/service-centres/facility-services/accessibility-service-point)
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/service-centres/facility-services/staff)
+
+            *   [Finance](https://www.maastrichtuniversity.nl/about-um/service-centres/finance)
+            *   [ICT Service Centre](https://www.maastrichtuniversity.nl/about-um/service-centres/ict-service-centre)Open ICT Service Centre
+
+ICT Service Centre
+                *   [ICT Facilities](https://www.maastrichtuniversity.nl/support/ict-facilities)
+                *   [We make IT work](https://www.maastrichtuniversity.nl/about-um/service-centres/ict-service-centre/we-make-it-work)
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/service-centres/ict-service-centre/staff)
+
+            *   [Student Services Centre](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre)Open Student Services Centre
+
+Student Services Centre
+                *   [Departments](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre/departments)
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre/staff)
+                *   [Access to building SSC](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre/access-building-ssc)
+
+            *   [University Library](https://www.maastrichtuniversity.nl/support/university-library)Open University Library
+
+University Library
+                *   [About the library](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/nutshell)Open About the library
+
+About the library
+                    *   [Organisation](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/about-library/organisation)
+                    *   [Partnerships](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/about-library/partnerships)
+                    *   [Staff](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/about-library/staff)
+
+                *   [Opening hours & locations](https://library.maastrichtuniversity.nl/visit/hours-locations/)
+                *   [Contact](https://umlib.nl/ayl)
+                *   [Collections](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/collections)
+                *   [Emergencies](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/using-library/emergencies)
+                *   [House rules](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/using-library/house-rules)
+                *   [Usage rules](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/using-library/usage-rules)
+
+            *   [EDLAB – Centre for Teaching & Learning](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab)Open EDLAB – Centre for Teaching & Learning
+
+EDLAB – Centre for Teaching & Learning
+                *   [Professional development for teaching & learning](https://www.maastrichtuniversity.nl/node/38946/professional-development-teaching-learning)
+                *   [Innovating education](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/innovating-education)Open Innovating education
+
+Innovating education
+                    *   [Education innovation projects](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/innovating-education/edlab-education-innovation-projects)
+                    *   [Education consultations](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/edconsult-individual-education-consults)
+
+                *   [Researching education](https://www.maastrichtuniversity.nl/education/edlab/education-research-maastricht-university)Open Researching education
+
+Researching education
+                    *   [EDLAB Education Research Sounding Board](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/education-research-maastricht-university/edlab-education-research)
+                    *   [Video series](https://www.maastrichtuniversity.nl/education/edlab/education-research-maastricht-university/education-research-collaboration-video)
+
+                *   [The CCCS principles of PBL education](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/core-principles-pbl-constructive-collaborative-contextual-and-self)
+                *   [AI & education at UM](https://www.maastrichtuniversity.nl/education/edlab/ai-education-maastricht-university)Open AI & education at UM
+
+AI & education at UM
+                    *   [Policy framework for GenAI](https://www.maastrichtuniversity.nl/file/policy-framework-generative-artificial-intelligence-12-12-2024pdf)
+                    *   [Learning Analytics](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/ai-education-maastricht-university/learning-analytics)
+
+                *   [Student Guidance at UM](https://www.maastrichtuniversity.nl/education/edlab/student-guidance)
+                *   [Global Citizenship Education](https://www.maastrichtuniversity.nl/global-citizenship-education/global-citizenship-education)
+                *   [Students' corner](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/students-corner)
+                *   [UM Education Days](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/um-education-days-2025-recap-learning-never-stops)
+                *   [edUMinded magazine](https://www.maastrichtuniversity.nl/news/edlab/eduminded)
+                *   [Contact EDLAB](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/contact-edlab)Open Contact EDLAB
+
+Contact EDLAB
+                    *   [Meet the team](https://www.maastrichtuniversity.nl/about-um/education-at-um/edlab/contact-edlab/meet-edlab-team)
+                    *   [Mural: State of Siege](https://www.maastrichtuniversity.nl/mural-navine-g-dossos-%E2%80%93-state-siege-2015)
+
+            *   [Alumni, Fundraising and UM Academy for Lifelong Development](https://www.maastrichtuniversity.nl/over-de-um/expertisecentra/alumni-fundraising-and-um-academy-lifelong-development)
+
+        *   [Faculties](https://www.maastrichtuniversity.nl/about-um/faculties)Open Faculties
+
+Faculties
+            *   [Arts and Social Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-arts-and-social-sciences)Open Arts and Social Sciences
+
+Arts and Social Sciences
+                *   [About FASoS](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/about-fasos)Open About FASoS
+
+About FASoS
+                    *   [Staff](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/about-fasos/staff)
+                    *   [Honorary doctorates](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/about-fasos/honorary-doctorates)
+                    *   [Organisation](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/about-fasos/organisation)
+
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/education)Open Education
+
+Education
+                    *   [FASoS Student Ambassadors](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/education/fasos-student-ambassadors)Open FASoS Student Ambassadors
+
+FASoS Student Ambassadors
+                        *   [Student Ambassadors Talk 2025-2026](https://www.maastrichtuniversity.nl/fasos-student-ambassadors-talk-2023-2024)
+
+                    *   [Bachelor events](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/education/bachelor-events-fasos)
+                    *   [Master events](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/education/online-master-events-fasos)
+                    *   [Video Impressions](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/education/online-events-fasos/impressions-fasos-and)
+
+                *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/research)
+                *   [Partnerships](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/partnerships)
+                *   [Departments](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments)Open Departments
+
+Departments
+                    *   [History](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-history)
+                    *   [Literature & Art](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-literature-art)
+                    *   [Philosophy](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-philosophy)
+                    *   [Political Science](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-political-science)
+                    *   [Society Studies](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/departments/department-society-studies)
+
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/contact)Open Contact
+
+Contact
+                    *   [Disability access](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/contact/disability-access-fasos)
+
+                *   [Alumni](https://www.maastrichtuniversity.nl/fasos-alumni "FASoS Alumni")
+                *   [News, events and stories](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/fasos-news-events-and-stories)
+                *   [Vacancies](https://www.maastrichtuniversity.nl/about-um/faculties/arts-and-social-sciences/vacancies)
+
+            *   [Health, Medicine and Life Sciences](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-health-medicine-and-life-sciences)Open Health, Medicine and Life Sciences
+
+Health, Medicine and Life Sciences
+                *   [About FHML](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/about-fhml)Open About FHML
+
+About FHML
+                    *   [FHML50](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/about-fhml/50-years-ahead-health)
+                    *   [Organisation](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/about-fhml/organisation)Open Organisation
+
+Organisation
+                        *   [Departments](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-departments)
+
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/education)Open Education
+
+Education
+                    *   [FHML Honours Programme](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/education/fhml-honours-programme)
+                    *   [Skillslab](https://www.maastrichtuniversity.nl/research/skillslab)
+
+                *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research)Open Research
+
+Research
+                    *   [Institutes](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/institutes)
+                    *   [Scientific Integrity](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/scientific-integrity)Open Scientific Integrity
+
+Scientific Integrity
+                        *   [Research Code Maastricht UMC+](https://www.maastrichtuniversity.nl/researchcodeMUMC)
+                        *   [Aspects of scientific integrity](https://www.maastrichtuniversity.nl/aspects-scientific-integrity)
+                        *   [Platform Scientific Integrity FHML/MUMC+](https://www.maastrichtuniversity.nl/platform-scientific-integrity-maastricht-umc)
+                        *   [Roadmaps for scientific integrity and social safety](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/scientific-integrity/roadmaps-scientific)
+                        *   [SCIentific INtegrity – In-Depth course (SCIIN-ID)](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/scientific-integrity/SCIIN-ID)
+
+                    *   [Facilities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-facilities)Open Facilities
+
+Facilities
+                        *   [Animal experiments](https://www.maastrichtuniversity.nl/proefdierkundig-onderzoek)Open Animal experiments
+
+Animal experiments
+                            *   [Legislation and regulation of animal testing](https://www.maastrichtuniversity.nl/legislation-and-regulation-animal-testing)
+                            *   [Procedure](https://www.maastrichtuniversity.nl/proefdierkundig-onderzoek/procedure)
+                            *   [Maastricht University Animal Ethics Committee](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/maastricht-university-animal-ethics)
+
+                        *   [Flow cytometry](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-facilities/flow-cytometry)Open Flow cytometry
+
+Flow cytometry
+                            *   [Equipment](https://www.maastrichtuniversity.nl/flowcytometrie/equipment)
+                            *   [Flow Cytometry Course](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-facilities/flow-cytometry-0)
+                            *   [Contact](https://www.maastrichtuniversity.nl/over-de-um/faculteiten/health-medicine-and-life-sciences/onderzoek/onderzoeksfaciliteiten-0/contact)
+
+                    *   [Services](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-services)Open Services
+
+Services
+                        *   [Grants Office](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research)Open Grants Office
+
+Grants Office
+                            *   [National funding opportunities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-0)
+                            *   [Funding Health Foundations](https://www.maastrichtuniversity.nl/funding-health-foundations)
+                            *   [Funding for mobility and travel grants](https://www.maastrichtuniversity.nl/funding-mobility-and-travel-grants)
+                            *   [Regional funding opportunities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-1)
+                            *   [European funding opportunities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-2)
+                            *   [International funding opportunities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-3)
+                            *   [Courses](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-5)
+                            *   [Internal Maastricht UMC+](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/fund-your-research-4)
+                            *   [TKI-PPS](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/tki-pps)
+
+                    *   [Procedures](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-procedures)Open Procedures
+
+Procedures
+                        *   [Ethics Review Committees](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/procedures/ethics-review-committees)
+                        *   [Nagoya Protocol](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/procedures/nagoya-protocol)
+
+                    *   [Prizes and Awards](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/prizes-and-awards)
+                    *   [Research Quality](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-office/research-quality)
+
+                *   [Facilities](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research-services-and-facilities)Open Facilities
+
+Facilities
+                    *   [Radiation Protection Unit Randwyck](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck)Open Radiation Protection Unit Randwyck
+
+Radiation Protection Unit Randwyck
+                        *   [Procedures](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-11)
+                        *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-9)Open Education
+
+Education
+                            *   [SMSR](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-2)Open SMSR
+
+SMSR
+                                *   [Programme](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-8)
+
+                            *   [TMS-VRS D](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-1)Open TMS-VRS D
+
+TMS-VRS D
+                                *   [Programme](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-7)
+
+                            *   [TMS-MR](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-12)
+                            *   [Refresher course TMS-VRS D](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-3)Open Refresher course TMS-VRS D
+
+Refresher course TMS-VRS D
+                                *   [Programme and Planning TMS-VRS D](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-0)
+
+                            *   [Refresher course RPE](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-4)Open Refresher course RPE
+
+Refresher course RPE
+                                *   [Programme and Planning CD and ACD](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-6)
+
+                            *   [Refresher course TMS Röntgen](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-randwyck-5)Open Refresher course TMS Röntgen
+
+Refresher course TMS Röntgen
+                                *   [Programme and Planning TMS-Röntgen](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-10)
+
+                        *   [Written internal approval](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-13)
+                        *   [Annual reports](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/radiation-protection-unit-14)
+                        *   [Permit and policy](https://www.maastrichtuniversity.nl/over-de-um/faculteiten/health-medicine-and-life-sciences/faciliteiten/stralingsbeschermingseenheid-15)
+
+                *   [PhD at FHML/MUMC+](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/phd-fhmlmumc)Open PhD at FHML/MUMC+
+
+PhD at FHML/MUMC+
+                    *   [PhD courses](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/phd-fhmlmumc/phd-training-programmes-fhmlmumc)
+                    *   [The Faculty PhD committee (FPC)](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/phd-fhmlmumc/faculty-phd-committee-fpc)
+
+                *   [FHML Alumni](https://www.maastrichtuniversity.nl/fhml-alumni)
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-health-medicine-and-life-sciences/contact-us-faculty-health-medicine-and)Open Contact
+
+Contact
+                    *   [Accessibility campus](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/facilities/accessibility-campus)
+
+            *   [Faculty of Law](https://www.maastrichtuniversity.nl/faculty-law)Open Faculty of Law
+
+Faculty of Law
+                *   [About the Faculty](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/about-faculty-law)Open About the Faculty
+
+About the Faculty
+                    *   [Faculty in Focus 2024](https://www.maastrichtuniversity.nl/faculty-focus-24)
+                    *   [Staff](https://www.maastrichtuniversity.nl/about-um/faculties/law/about-law/staff)
+                    *   [History](https://www.maastrichtuniversity.nl/about-um/faculties/law/about-law/history)
+                    *   [Strategy](https://www.maastrichtuniversity.nl/about-um/faculties/law/about-law/strategy-and-statistics)
+                    *   [Organisation](https://www.maastrichtuniversity.nl/about-um/faculties/law/about-law/organisation)Open Organisation
+
+Organisation
+                        *   [Student Council](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/about-faculty/organisation/student-council-faculty-law)
+
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/education)Open Education
+
+Education
+                    *   [LAW.next (Postgraduate Education)](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/education/lawnext-postgraduate-education)
+                    *   [Internships](https://www.maastrichtuniversity.nl/about-um/faculties/law/education/internships)Open Internships
+
+Internships
+                        *   [Videos](https://www.maastrichtuniversity.nl/about-um/faculties/law/education/internships/videos)
+
+                    *   [Mooting competitions and legal clinics](https://www.maastrichtuniversity.nl/about-um/faculties/law/education/mooting-competitions)Open Mooting competitions and legal clinics
+
+Mooting competitions and legal clinics
+                        *   [Mooting competitions](https://www.maastrichtuniversity.nl/about-um/faculties/law/education/mooting-competitions/mooting-competitions)
+                        *   [Legal clinics](https://www.maastrichtuniversity.nl/law/clinical-education)Open Legal clinics
+
+Legal clinics
+                            *   [Maastricht Mediation Clinic](https://www.maastrichtuniversity.nl/law/clinical-education/umncrc)
+                            *   [The Innovator’s Legal Clinic (TILC)](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/education/moot-courts-and-clinics/clinical-education/innovator%E2%80%99s)
+
+                    *   [Faculty of Law honours programmes](https://www.maastrichtuniversity.nl/faculteit-der-rechtsgeleerdheid)Open Faculty of Law honours programmes
+
+Faculty of Law honours programmes
+                        *   [Bachelor Honours Programme](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/education/faculty-law-honours-programmes/bachelor-honours-programme)
+                        *   [MaRBLe@LAW](https://www.maastrichtuniversity.nl/about-um/faculties/law/education/honours-programmes/marble)
+
+                *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/research)Open Research
+
+Research
+                    *   [Research programme](https://www.maastrichtuniversity.nl/about-law-research-programme-and-5-pillars)
+                    *   [Research institutes and research groups](https://www.maastrichtuniversity.nl/law-research-institutes)
+                    *   [Publications](https://www.maastrichtuniversity.nl/law-research-publications-0)Open Publications
+
+Publications
+                        *   [PhD theses](https://www.maastrichtuniversity.nl/research/maastricht-graduate-school-law#lawtheses)
+                        *   [Working Paper series](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/research/publications/research-paper-series)
+                        *   [Maastricht University Research Publications](https://www.maastrichtuniversity.nl/maastricht-university-research-publications)
+                        *   [Maastricht Law Series](https://www.maastrichtuniversity.nl/maastricht-law-series)
+                        *   [Maastricht Journal](https://www.maastrichtuniversity.nl/about-um/faculties/law/research/publications/maastricht-journal)
+                        *   [Law Blogs Maastricht](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/research/publications/law-blogs-maastricht)
+                        *   [Maastricht Student Law Review](https://www.maastrichtstudentlawreview.com/)
+
+                    *   [Maastricht Graduate School of Law](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/research/maastricht-graduate-school-law)
+                    *   [Projects and initiatives](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/research/projects-and-initiatives)
+
+                *   [Departments](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/departments)Open Departments
+
+Departments
+                    *   [Criminal Law and Criminology](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/criminal-law-and-criminology)Open Criminal Law and Criminology
+
+Criminal Law and Criminology
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/criminal-law-and-criminology/people)
+                        *   [Secretariat / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/criminal-law-and-criminology/secretariat)
+
+                    *   [European Law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/european-law)Open European Law
+
+European Law
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/european-law/people)
+                        *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/european-law/education)
+                        *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/european-law/research)
+                        *   [Law Support Office / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/european-law/secretariat)
+
+                    *   [Foundations of Law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/foundations-of-law)Open Foundations of Law
+
+Foundations of Law
+                        *   [People](https://www.maastrichtuniversity.nl/medewerkers-2)
+                        *   [Research](https://www.maastrichtuniversity.nl/research/maastricht-centre-law-jurisprudence)
+                        *   [Foundations of Law Colloquium](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/departments/foundations-and-methods-law/maastricht-foundations-law)
+                        *   [Secretariat / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/foundations-and-methods-law/secretariat)
+
+                    *   [International Law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/international-law)Open International Law
+
+International Law
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/international-law/people)
+                        *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/international-law/education)
+                        *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/international-law/research)
+                        *   [Law Support Office / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/international-law/secretariat)
+
+                    *   [Private Law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/private-law)Open Private Law
+
+Private Law
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/private-law/people)
+                        *   [Projects](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/private-law/projects)Open Projects
+
+Projects
+                            *   [Guliks Opper Gelre](https://www.maastrichtuniversity.nl/node/58015)
+                            *   [MARICAP](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/private-law/projects/marital-captivity-bridging-gap-between)
+
+                        *   [Secretariat / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/private-law/secretariat)
+
+                    *   [Public Law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/public-law)Open Public Law
+
+Public Law
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/public-law/employees)
+                        *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/public-law/education)
+                        *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/public-law/research)
+                        *   [Secretariat / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/public-law/secretariat)
+
+                    *   [Tax law](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/tax-law)Open Tax law
+
+Tax law
+                        *   [People](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/tax-law/staff)
+                        *   [Secretariat / Contact](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/tax-law/secretariat)
+                        *   [Maastricht Tax Symposia](https://www.maastrichtuniversity.nl/about-um/faculties/law/departments/tax-law/maastricht-tax-symposia)
+
+                *   [Alumni](https://www.maastrichtuniversity.nl/alumni-law)Open Alumni
+
+Alumni
+                    *   [Friends of the Law Faculty](https://www.maastrichtuniversity.nl/alumni-rechten/friends-law-faculty)
+
+                *   [45 Years of Law](https://www.maastrichtuniversity.nl/faculty-law/45-years-faculty-law)
+                *   [Contact us](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/contact-us)Open Contact us
+
+Contact us
+                    *   [Disability access](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-law/contact/disability-access)
+
+            *   [Science and Engineering](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering)Open Science and Engineering
+
+Science and Engineering
+                *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/research)Open Research
+
+Research
+                    *   [Research departments](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/research/research-departments)
+                    *   [FSE STEM Graduate school](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/research/fse-stem-graduate-school)
+                    *   [Science Communication Incubator](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/research/science-communication-incubator)
+                    *   [Publications](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/research/publications)
+
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering/education)Open Education
+
+Education
+                    *   [Accreditations and recognitions](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering/education/accreditations-and-recognitions)
+                    *   [FSE Student Ambassadors](https://www.maastrichtuniversity.nl/fse-ambassadors "Instagram Ambassadors FSE")
+
+                *   [News and events](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/news-and-events)
+                *   [Organisation](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/organisation)
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/contact)Open Contact
+
+Contact
+                    *   [Disability access PHS1](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/contact/disability-access-phs1)
+                    *   [Disability access Brightlands Smart Services Campus](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/contact/disability-access-brightlands-smart-services)
+                    *   [Disability access Brightlands Chemelot Campus](https://www.maastrichtuniversity.nl/about-um/faculties/science-and-engineering/contact/disability-access-brightlands-chemelot-campus)
+
+            *   [Psychology and Neuroscience](https://www.maastrichtuniversity.nl/about-um/faculties/faculty-psychology-and-neuroscience)Open Psychology and Neuroscience
+
+Psychology and Neuroscience
+                *   [About FPN](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/about-fpn)Open About FPN
+
+About FPN
+                    *   [Organisation](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/about-fpn/organisational-structure)
+
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education)Open Education
+
+Education
+                    *   [Master Events @ FPN](https://www.maastrichtuniversity.nl/fpn/mastersprogrammes)
+                    *   [Non-degree seeking students](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education/non-degree-seeking-students)Open Non-degree seeking students
+
+Non-degree seeking students
+                        *   [Contract courses](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education/non-degree-seeking-students/contract)
+                        *   [Contract education for FPN alumni](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education/non-degree-seeking-students/contract-0)
+                        *   [Subsidiary courses](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education/non-degree-seeking-students/subsidiary)
+
+                    *   [Psychology in Maastricht](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/education/psychology-maastricht)
+
+                *   [Research](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research)Open Research
+
+Research
+                    *   [ERCPN](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/ethics-review-committee-psychology-and)
+                    *   [Do you want to participate in an FPN study?](https://www.maastrichtuniversity.nl/fpn/studies)
+                    *   [M-BIC Lecture Series](https://www.maastrichtuniversity.nl/research/mbic-lectures)
+                    *   [Received grants](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/received-grants-2002)
+                    *   [Research projects at FPN](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/research-projects-fpn)Open Research projects at FPN
+
+Research projects at FPN
+                        *   [Amazone study](https://www.maastrichtuniversity.nl/fpn/amazone)Open Amazone study
+
+Amazone study
+                            *   [Amazone: Information for patients](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/amazone-study/amazone-information-patients)
+                            *   [Amazone: Information for professionals](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/amazone-study/amazone-information)
+
+                        *   [Genital Pain Project](https://www.maastrichtuniversity.nl/fpn/genitalpain)Open Genital Pain Project
+
+Genital Pain Project
+                            *   [Genital Pain Project | Survey](https://www.maastrichtuniversity.nl/fpn/genitalpain/genital-pain-project-survey)
+
+                        *   [Eetbuien de baas](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/research/beating-binge)
+                        *   [SHIFT](https://www.maastrichtuniversity.nl/fpn/shift)
+
+                *   [Departments](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/departments)Open Departments
+
+Departments
+                    *   [Methodology and Statistics](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/departments/department-methodology-and-statistics)Open Methodology and Statistics
+
+Methodology and Statistics
+                        *   [Education](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/departments/methodology-and-statistics/courses)
+
+                *   [Facilities](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/facilities)Open Facilities
+
+Facilities
+                    *   [Accessibility](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/facilities/accessibility)
+
+                *   [Events](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/events)Open Events
+
+Events
+                    *   [FPN Experience Days](https://www.maastrichtuniversity.nl/fpn/experiencedays)Open FPN Experience Days
+
+FPN Experience Days
+                        *   [Brain Science Experience Day registration form](https://www.maastrichtuniversity.nl/fpn/experiencedays/brain-science-experience-day-registration-form)
+                        *   [Psychologie/Psychology Experience Day registration form](https://www.maastrichtuniversity.nl/fpn/experiencedays/psychologiepsychology-experience-day-registration-form)
+
+                    *   [FPN Online master Q&A sessions](https://www.maastrichtuniversity.nl/fpn/qa)
+                    *   [Introduction Days at FPN](https://www.maastrichtuniversity.nl/about-um/faculties/psychology-and-neuroscience/events/introduction-days-fpn-2026)
+
+                *   [FPN Complaints & Concerns point](https://www.maastrichtuniversity.nl/fpn/ccp)
+                *   [Contact](https://www.maastrichtuniversity.nl/fpn/contact)
+
+            *   [School of Business and Economics](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics)Open School of Business and Economics
+
+School of Business and Economics
+                *   [About SBE](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe)Open About SBE
+
+About SBE
+                    *   [SBE Strategy 2026-2028](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/sbe-2025)
+                    *   [Departments and Institutes](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/departments-and-institutes)
+                    *   [Organisation and Staff](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/organisation-and-staff)
+                    *   [Working at SBE](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/working-sbe)
+                    *   [The Elinor Ostrom Fund](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/elinor-ostrom-fund)
+                    *   [Disability access](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/disability-access)
+                    *   [Contact us](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/about-sbe/contact-us)
+
+                *   [For prospective students](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/prospective-students)
+                *   [For prospective PhD candidates](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/research/phd)
+                *   [For academic partners](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/academic-partners)
+                *   [For business partners](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/business-partners)
+                *   [Executive education](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/executive-education)
+                *   [Research](https://www.maastrichtuniversity.nl/school-business-and-economics/research)Open Research
+
+Research
+                    *   [SBE spearheads](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/research/sbes-spearheads-projetcs)
+
+                *   [Alumni](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics/welcome-sbe-alumni-community)
+                *   [News](https://www.maastrichtuniversity.nl/SBE-news)
+
+        *   [Other offices](https://www.maastrichtuniversity.nl/about-um/other-offices)Open Other offices
+
+Other offices
+            *   [UM Brussels Hub](https://www.maastrichtuniversity.nl/about-um/other-offices/brusselshub)Open UM Brussels Hub
+
+UM Brussels Hub
+                *   [EU Public Affairs](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/public-affairs)
+                *   [Activities](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/events-0)Open Activities
+
+Activities
+                    *   [Events](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/events)
+                    *   [Past events](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/upcoming-past-events/past-events)Open Past events
+
+Past events
+                        *   [2024 Highlights](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/upcoming-past-events/past-events/2024-highlights)
+                        *   [2023 Highlights](https://www.maastrichtuniversity.nl/2023-highlights)
+                        *   [2022 Highlights](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-brussels/activities/past-events/2022-highlights)
+                        *   [2021 Highlights](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-brussels/activities/past-events/2021-highlights)
+
+                *   [News](https://www.maastrichtuniversity.nl/brusselshub/news)
+                *   [Education](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/education)Open Education
+
+Education
+                    *   [Part-time PhD programmes](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-brussels/education/part-time-phd-programmes)
+
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/contact)
+
+            *   [Campus Venlo](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-venlo)
+            *   [Center for European Studies](https://www.maastrichtuniversity.nl/about-um/other-offices/center-european-studies)Open Center for European Studies
+
+Center for European Studies
+                *   [About CES](https://www.maastrichtuniversity.nl/about-um/units/ces/about-ces)
+                *   [CES services](https://www.maastrichtuniversity.nl/about-um/units/ces/ces-services)
+                *   [Practical information](https://www.maastrichtuniversity.nl/education/exchange/center-european-studies#practical_information_ces)
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/other-offices/center-european-studies/contact-us)
+                *   [Vacancies CES](https://www.maastrichtuniversity.nl/about-um/other-offices/center-european-studies/vacancies-ces)
+
+            *   [Central Research Facilities FHML](https://www.maastrichtuniversity.nl/over-de-um/andere-afdelingen/central-research-facilities-fhml-cov-fhml)Open Central Research Facilities FHML
+
+Central Research Facilities FHML
+                *   [Central Culture Facilities](https://www.maastrichtuniversity.nl/centrale-onderzoeksvoorzieningen-fhml-cov-fhml/central-culture-facilities)
+                *   [Central Glass Sterilisation Department](https://www.maastrichtuniversity.nl/over-de-um/andere-afdelingen/central-research-facilities-fhml-cov-fhml/central-glass-sterilisation)
+                *   [Radio Nuclides Laboratory](https://www.maastrichtuniversity.nl/about-um/other-offices/central-research-facilities-fhml-cov-fhml/radio-nuclides-laboratory-rnl)
+                *   [Ultra Centrifuge Lab](https://www.maastrichtuniversity.nl/ultra-centrifuge-lab-ucl)
+
+            *   [Contract Research Centre](https://www.maastrichtuniversity.nl/about-um/other-offices/contract-research-centre)
+            *   [DataHub](https://www.maastrichtuniversity.nl/about-um/other-offices/datahub)
+            *   [HSB](https://www.maastrichtuniversity.nl/about-um/other-offices/hsb-0)Open HSB
+
+HSB
+                *   [Biological Safety](https://www.maastrichtuniversity.nl/about-um/other-offices/hsb/biological-safety)
+                *   [Buildings](https://www.maastrichtuniversity.nl/about-um/other-offices/hsb/buildings)
+                *   [Emergency Response Organisation](https://www.maastrichtuniversity.nl/about-um/other-offices/hsb/emergency-response-organisation)
+                *   [Health and Safety](https://www.maastrichtuniversity.nl/about-um/other-offices/hsb/organisation-health-and-safety)
+
+            *   [IDEE - Equipment Services](https://www.maastrichtuniversity.nl/about-um/other-offices/equipment-services)Open IDEE - Equipment Services
+
+IDEE - Equipment Services
+                *   [Emergency and general information](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/emergency-and-general-information)
+                *   [Purchasing equipment](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/purchasing-equipment)
+                *   [Changing service contract](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/changing-service-contract)
+                *   [Exception](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/exception)
+                *   [Equipment related problem](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/equipment-related-problem)
+                *   [Preventive maintenance](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/preventive-maintenance)
+                *   [Disposing equipment](https://www.maastrichtuniversity.nl/about-um/other-offices/instrument-services/disposing-equipment)
+
+            *   [IDEE - Research Engineering](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering)Open IDEE - Research Engineering
+
+IDEE - Research Engineering
+                *   [Quickservices](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/quickservices)
+                *   [Prototypes](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/prototypes)
+                *   [Products](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/products)
+                *   [International projects](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/international-projects)Open International projects
+
+International projects
+                    *   [i2-CoRT](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/international-projects/i2-cort)
+                    *   [WearIT4COVID](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/international-projects/wearit4covid)
+
+                *   [Expertise](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/expertise)
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/other-offices/research-engineering/contact)
+
+            *   [International Staff Support Office](https://www.maastrichtuniversity.nl/about-um/other-offices/international-staff-support-office)
+            *   [Knowledge Transfer Office](https://www.maastrichtuniversity.nl/about-um/other-offices/knowledge-transfer-office)Open Knowledge Transfer Office
+
+Knowledge Transfer Office
+                *   [BuSyBee - Hyperegio](https://www.maastrichtuniversity.nl/about-um/other-offices/knowledge-transfer-office/busybee-hyperegio)
+
+            *   [Language Centre](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre)Open Language Centre
+
+Language Centre
+                *   [About us](https://www.maastrichtuniversity.nl/over-de-um/andere-afdelingen/talencentrum/about-us)
+                *   [Course information](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre/practical-course-information)Open Course information
+
+Course information
+                    *   [Special offers](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre/course-information/subsidised-language-courses-sbe-master%E2%80%99s)
+
+                *   [PhD training courses](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre/communication-scientific-english)
+                *   [Contact](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre/contact)
+                *   [Vacancies Language Centre](https://www.maastrichtuniversity.nl/about-um/units/language-centre/vacancies)
+                *   [Disclaimer and Privacy Statement](https://www.maastrichtuniversity.nl/language-centre/disclaimer-and-privacy-statement)
+                *   [Frequently asked questions (FAQs)](https://www.maastrichtuniversity.nl/about-um/other-offices/language-centre/frequently-asked-questions-faqs)
+
+            *   [Maastricht Centre for Entrepreneurship](http://www.mc4e.nl/)
+            *   [Maastricht University Office](https://www.maastrichtuniversity.nl/about-um/other-offices/General-Executive-Affairs)Open Maastricht University Office
+
+Maastricht University Office
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/other-offices/maastricht-university-office/staff)
+
+            *   [MEMIC](https://www.maastrichtuniversity.nl/about-um/other-offices/memic)Open MEMIC
+
+MEMIC
+                *   [About MEMIC](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/about-memic)
+                *   [Partners and clients](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/partners-and-clients)
+                *   [Services & Products](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/research-data-management)Open Services & Products
+
+Services & Products
+                    *   [RDM Consultancy](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/products-and-services/datamanagement-consultancy)
+                    *   [RDM Practice](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/products-and-services/custom-software-and-apps)
+                    *   [RDM Tools](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/products-and-services/workflow-management)
+
+                *   [Staff MEMIC](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/staff-memic)
+                *   [Contact MEMIC](https://www.maastrichtuniversity.nl/about-um/other-offices/memic/contact-memic)
+
+            *   [MUNDO](https://www.maastrichtuniversity.nl/about-um/other-offices/mundo-knowledge-development)Open MUNDO
+
+MUNDO
+                *   [MUNDO Projects](https://www.maastrichtuniversity.nl/about-um/other-offices/mundo/mundo-projects)
+                *   [Knowledge for Development at UM](https://www.maastrichtuniversity.nl/about-um/other-offices/mundo/knowledge-development-um)
+                *   [Staff](https://www.maastrichtuniversity.nl/about-um/other-offices/mundo/staff)
+
+            *   [Maastricht Summer School](https://www.maastrichtuniversity.nl/about-um/other-offices/maastricht-summer-school)
+            *   [Studio Europa Maastricht](https://www.maastrichtuniversity.nl/about-um/other-offices/studio-europa-maastricht)
+            *   [Studium Generale](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale)Open Studium Generale
+
+Studium Generale
+                *   [Lectures, Debates and Talkshows](https://www.maastrichtuniversity.nl/lifeum/studium-generale/lectures%2Cdebates-and-talkshows)
+                *   [Lecture Series](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/lecture-series)
+                *   [Film and Art](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/film-theatre-and-art)
+                *   [News](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/news)
+                *   [Practical Information](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information)Open Practical Information
+
+Practical Information
+                    *   [Contact](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information/contact)
+                    *   [Locations](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information/locations)
+                    *   [Staff](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information/staff)
+                    *   [Foundation](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information/foundation)
+                    *   [Disclaimer and Privacy Statement](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/practical-information/disclaimer-and-privacy-statement)
+
+                *   [Archive](https://www.maastrichtuniversity.nl/about-um/other-offices/studium-generale/archive)
+
+            *   [UM SPORTS](https://www.maastrichtuniversity.nl/studeren/studentenleven/um-sports-you)
+            *   [Maastricht Housing](https://www.maastrichthousing.com/)
+            *   [PhD Office](https://www.maastrichtuniversity.nl/phd-office)Open PhD Office
+
+PhD Office
+                *   [FAQ](https://www.maastrichtuniversity.nl/faq-phd-candidates)
+                *   [Support for PhD Candidates](https://www.maastrichtuniversity.nl/support-phd-candidates)
+
+        *   [Support the university](https://www.maastrichtuniversity.nl/about-um/support-university)
+        *   [Mission & strategy](https://www.maastrichtuniversity.nl/about-um/organisation/mission-strategy)Open Mission & strategy
+
+Mission & strategy
+            *   [Brightlands](https://www.maastrichtuniversity.nl/about-um/organisation/mission-strategy/brightlands)
+            *   [Kennis-As Limburg](https://www.maastrichtuniversity.nl/about-um/organisation/mission-strategy/kennis-limburg)
+            *   [STEM](https://www.maastrichtuniversity.nl/about-um/organisation/mission-strategy/stem)
+
+        *   [Facts & figures](https://www.maastrichtuniversity.nl/about-um/organisation/facts-figures)
+        *   [UM’s partnerships](https://www.maastrichtuniversity.nl/um-partnerships)Open UM’s partnerships
+
+UM’s partnerships
+            *   [Networks](https://www.maastrichtuniversity.nl/um-partnerships)Open Networks
+
+Networks
+                *   [WUN](https://www.maastrichtuniversity.nl/um-world/worldwide-universities-network-wun)
+                *   [YERUN](https://www.maastrichtuniversity.nl/node/59212/young-european-research-universities-yerun)
+                *   [YUFE](https://www.maastrichtuniversity.nl/um-world/partnerships/yufe)Open YUFE
+
+YUFE
+                    *   [YUFE for students](https://www.maastrichtuniversity.nl/um-world/partnerships/yufe/yufe-students)
+                    *   [YUFE for staff](https://www.maastrichtuniversity.nl/um-world/partnerships/yufe/yufe-staff)
+                    *   [YUFE for citizens](https://www.maastrichtuniversity.nl/um-world/partnerships/yufe/yufe-citizens)
+
+                *   [EASSH](https://www.maastrichtuniversity.nl/european-alliance-social-sciences-and-humanities-eassh)
+
+            *   [Other partnerships and collaborations](https://www.maastrichtuniversity.nl/um-partnerships/partnerships-and-collaborations)
+
+        *   [Recognitions](https://www.maastrichtuniversity.nl/about-um/recognitions)
+        *   [Participation & representation](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation)Open Participation & representation
+
+Participation & representation
+            *   [Elections](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/elections)Open Elections
+
+Elections
+                *   [FAQ Elections](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/faq-elections)
+
+            *   [University Council](https://www.maastrichtuniversity.nl/node/46297/welcome-university-council)Open University Council
+
+University Council
+                *   [Get involved!](https://www.maastrichtuniversity.nl/node/46297/welkom-bij-de-universiteitsraad/get-involved)
+                *   [About the University Council](https://www.maastrichtuniversity.nl/node/59578/about-university-council)
+                *   [Members of the University Council](https://www.maastrichtuniversity.nl/over-de-um/organisatie/medezeggenschap/welcome-university-council/members-university-council)
+
+            *   [Faculty Councils](https://www.maastrichtuniversity.nl/faculty-councils)
+
+        *   [Local Consultative Body](https://www.maastrichtuniversity.nl/local-consultative-body)
+        *   [History](https://www.maastrichtuniversity.nl/about-um/organisation/maastricht-university-history)
+
+    *   [Our research](https://www.maastrichtuniversity.nl/research/research-at-um)
+    *   [Our values](https://www.maastrichtuniversity.nl/about-um/what-we-stand-for)Open Our values
+
+Our values
+        *   [Diversity, Equity & Inclusion+](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity)Open Diversity, Equity & Inclusion+
+
+Diversity, Equity & Inclusion+
+            *   [What we do](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/what-we-do)Open What we do
+
+What we do
+                *   [Action against Racism](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/what-we-do/action-against-racism-um)
+
+            *   [Our team](https://www.maastrichtuniversity.nl/about-um/diversity-equity-inclusion/our-team)Open Our team
+
+Our team
+                *   [DEI+ Advisory Council](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/about-us/di-advisory-council)
+                *   [Vacancies](https://www.maastrichtuniversity.nl/about-um/diversity-equity-inclusion/our-team/vacancy-student-assistant)
+
+            *   [Getting involved](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved)Open Getting involved
+
+Getting involved
+                *   [Networks for staff and students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students)Open Networks for staff and students
+
+Networks for staff and students
+                    *   [Female Empowerment](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/fem-female-empowerment)Open Female Empowerment
+
+Female Empowerment
+                        *   [Publications & resources](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/related-organisations/female-empowerment/publications-resources)
+
+                    *   [UM Pride](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/um-pride)
+                    *   [PAC Network](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/pac-network-parents)
+                    *   [UnliMited Network](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-network)Open UnliMited Network
+
+UnliMited Network
+                        *   [UnliMited-Students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-students)
+                        *   [UnliMited-Staff](https://www.maastrichtuniversity.nl/over-de-um/diversiteit-inclusiviteit/gerelateerde-organisaties-um/unlimited-netwerk/unlimited-staff)
+                        *   [Disability Inclusion Group](https://www.maastrichtuniversity.nl/disability-inclusion-group-dig)
+                        *   [Our stories](https://www.maastrichtuniversity.nl/node/48581/our-stories)
+                        *   [Resources & information](https://www.maastrichtuniversity.nl/resources-information)
+
+                *   [Related student organisations](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/related-studentstaff-organisations-um)Open Related student organisations
+
+Related student organisations
+                    *   [Feminists of Maastricht](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/related-organisations/feminists-maastricht)
+                    *   [ACMUS](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/related-organisations/acmus)
+                    *   [MSA Nour](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-organisations/msa-nour)
+
+            *   [Inclusive facilities](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/inclusive-facilities)Open Inclusive facilities
+
+Inclusive facilities
+                *   [Bloody Serious](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-grants/bloody-serious-addressing-period-poverty)
+
+            *   [Living Library UM50](https://www.maastrichtuniversity.nl/diversiteit/living-library-um50-openhearted-conversations-connecting-um-and-local-residents)
+            *   [DEI Education](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-education-and-social-safety)Open DEI Education
+
+DEI Education
+                *   [Inclusive language](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/inclusive-language)Open Inclusive language
+
+Inclusive language
+                    *   [Using gender pronouns in digital communication](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/inclusive-language/using-gender-pronouns-digital-communication)
+
+                *   [Inclusive vacancy guide](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-education-and-social-safety/inclusive-vacancy-texts-guide)
+                *   [Tools & workshops](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-education-and-social-safety/tools-workshops)
+                *   [Moving Conversations Toolkit](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-education-and-social-safety/moving-conversations-toolkit)
+                *   [Resources & inspiration](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-education-and-social-safety/resources-inspiration)
+
+            *   [DEI Research](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research)Open DEI Research
+
+DEI Research
+                *   [The Student Retention Study](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/student-retention-study-0)
+                *   [Diversity in Research Proposals](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/how-address-diversity-research-proposals-guide)
+                *   [Helpers and doers](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/helpers-and-doers)
+                *   [The International Classroom](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-research/international-classroom)
+
+            *   [D&I Grants](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/your-di-vision-um)Open D&I Grants
+
+D&I Grants
+                *   [Past D&I Grant winners](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-grants/past-di-grant-winners)
+
+            *   [DEI+ Academic Calendar](https://www.maastrichtuniversity.nl/diversity-academic-calendar)Open DEI+ Academic Calendar
+
+DEI+ Academic Calendar
+                *   [Dutch culture and local events](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/di-news-events/dutch-culture-and-local-events)
+
+            *   [Gender Equality Plan](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/gender-equality-plan)
+            *   [UM Cares](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/um-cares)Open UM Cares
+
+UM Cares
+                *   [UM Cares - Students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/um-cares/um-cares-students)
+                *   [UM Cares - Staff](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/um-cares/um-cares-staff)
+
+            *   [Podcast - Woke as Science](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/woke-science)
+            *   [Podcast - Diversity Dialogues](https://www.maastrichtuniversity.nl/diversiteit/diversity-dialogues)
+
+        *   [Sustainability](https://www.maastrichtuniversity.nl/sustainability)Open Sustainability
+
+Sustainability
+            *   [Sustainability Team](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-um2030-programme-team)Open Sustainability Team
+
+Sustainability Team
+                *   [Green Office](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-um2030-programme-team/um-green-office)Open Green Office
+
+Green Office
+                    *   [Sustainability Days](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days)Open Sustainability Days
+
+Sustainability Days
+                        *   [FASoS Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/fasos-faculty-day)
+                        *   [FHML Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/fhml-faculty-day)
+                        *   [FPN Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/fpn-faculty-days)
+                        *   [FSE Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/fse-faculty-day)
+                        *   [Law Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/law-faculty-week)
+                        *   [SBE Faculty Day](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-days/sbe-faculty-day)
+                        *   [Sustainability Festival](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainability-week/sustainability-festival)
+
+                *   [Green Teams](https://www.maastrichtuniversity.nl/over-de-um/duurzaamheid/sustainable-um-2030-programmateam/green-teams)
+
+            *   [Our Ambitions](https://www.maastrichtuniversity.nl/sustainability/circularity-climate-and-community)
+            *   [Our Sustainability Community](https://www.maastrichtuniversity.nl/duurzaamheid/our-sustainability-community "Sustainability blog")
+            *   [Dashboard](https://www.maastrichtuniversity.nl/duurzaamheid/sustainability-dashboard)
+            *   [Education](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-education)Open Education
+
+Education
+                *   [Minor Sustainability](https://www.maastrichtuniversity.nl/about-um/sustainability/education/minor-sustainability)
+
+            *   [Research](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-research)Open Research
+
+Research
+                *   [Seed Fund Projects](https://www.maastrichtuniversity.nl/about-um/sustainability/research/seed-fund-projects)
+
+            *   [Operations](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-operations)Open Operations
+
+Operations
+                *   [Energy and climate](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/energy-and-climate)
+                *   [Real Estate](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-operations/real-estate)
+                *   [The WELL Building standard at Tapijn](https://www.maastrichtuniversity.nl/about-um/sustainability/sustainable-operations/well-building-standard-tapijn)
+                *   [Food and catering](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/food-and-catering)
+                *   [Mobility](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/mobility)
+                *   [Biodiversity on campus](https://www.maastrichtuniversity.nl/over-de-um/duurzaamheid/duurzame-bedrijfsvoering/biodiversity-campus)Open Biodiversity on campus
+
+Biodiversity on campus
+                    *   [Biodiversity challenge](https://www.maastrichtuniversity.nl/biodiversity)
+
+                *   [Waste & circularity](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/waste-circularity)
+                *   [Procurement](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/procurement)
+                *   [Sustainable ICT](https://www.maastrichtuniversity.nl/about-um/sustainability/operations/sustainable-ict)
+                *   [Other projects](https://www.maastrichtuniversity.nl/about-um/sustainability/projects)
+
+        *   [Recognition & Rewards](https://www.maastrichtuniversity.nl/about-um/what-we-stand-for/recognition-rewards)Open Recognition & Rewards
+
+Recognition & Rewards
+            *   [FAQ's](https://www.maastrichtuniversity.nl/about-um/recognition-rewards/faq-recognition-and-rewards)
+            *   [UM Career Policy & Compass](https://www.maastrichtuniversity.nl/over-de-um/waar-we-voor-staan/erkennen-waarderen/um-career-policy-compass)
+
+        *   [Social safety](https://www.maastrichtuniversity.nl/over-de-um/waar-we-voor-staan/social-safety)Open Social safety
+
+Social safety
+            *   [Sexual safety](https://www.maastrichtuniversity.nl/sexual-safety)
+
+    *   [Working at UM](https://www.maastrichtuniversity.nl/about-um/work-at-um)Open Working at UM 
+
+Working at UM 
+        *   [Applying for a job at UM](https://www.maastrichtuniversity.nl/over-de-um/werken-bij-um/applying-job-um)
+        *   [Employment conditions and development opportunities](https://www.maastrichtuniversity.nl/about-um/work-at-um/um-employer)
+
+    *   [Staff](https://www.maastrichtuniversity.nl/about-um/people)
+    *   [Alumni](https://www.maastrichtuniversity.nl/about-um/alumni)Open Alumni
+
+Alumni
+        *   [Graduated: what’s next?](https://www.maastrichtuniversity.nl/about-um/alumni/graduated-whats-next)
+        *   [Networking](https://www.maastrichtuniversity.nl/about-um/alumni/networking)Open Networking
+
+Networking
+            *   [Alumni events](https://www.maastrichtuniversity.nl/about-um/alumni/networking/alumni-events)
+            *   [Alumni stories](https://www.maastrichtuniversity.nl/about-um/alumni/networking/alumni-stories)Open Alumni stories
+
+Alumni stories
+                *   [1 study & 3 jobs](https://www.maastrichtuniversity.nl/about-um/alumni/career/1-study-3-jobs)
+                *   [Sustainability](https://www.maastrichtuniversity.nl/about-um/alumni/networking/alumni-stories/alumni-sustainability)
+
+        *   [Lifelong development](https://www.maastrichtuniversity.nl/about-um/alumni/lifelong-development)
+        *   [Giving back](https://www.maastrichtuniversity.nl/about-um/alumni/giving-back)
+        *   [Update your data](https://www.maastrichtuniversity.nl/about-um/alumni/update-your-data)
+        *   [FAQ](https://www.maastrichtuniversity.nl/about-um/alumni/faq)
+
+*   [News & events](https://www.maastrichtuniversity.nl/news-events)Open News & events
+
+News & events
+    *   [Events](https://www.maastrichtuniversity.nl/events)
+    *   [Events archive](https://www.maastrichtuniversity.nl/past-events)
+    *   [Corporate events](https://www.maastrichtuniversity.nl/news-events/corporate-events)
+    *   [News](https://www.maastrichtuniversity.nl/news)
+    *   [Blog](https://www.maastrichtuniversity.nl/blog)
+    *   [Podcasts](https://www.maastrichtuniversity.nl/news-events/podcasts)Open Podcasts
+
+Podcasts
+        *   [In Gesprek Met...](https://www.maastrichtuniversity.nl/news-events/podcasts/gesprek-met)
+        *   [Sex, Love, Corona](https://www.maastrichtuniversity.nl/sex-love-corona-podcast)
+        *   [SBE podcast](https://open.spotify.com/show/3MyuxLesKhzDEX84ekVaPc?si=888b3ca7558d4371&nd=1)
+        *   [Café Europa](https://studioeuropamaastricht.nl/nl/project/cafe-europa-podcast-2/)
+        *   [Data Scientist MINDSETS](https://www.maastrichtuniversity.nl/news-events/podcasts/data-scientist-mindsets)
+        *   [Employed](https://www.maastrichtuniversity.nl/news-events/podcasts/employed)
+        *   [Terra Mosana taal en dialect](https://open.spotify.com/show/0jAyAqMruLnQczUqrR4bTk)
+        *   [Tussen kunst en wetenschap](https://www.maastrichtuniversity.nl/node/47546)
+        *   [Alice in Eduland](https://www.maastrichtuniversity.nl/news-events/podcasts/alice-eduland)
+        *   [CouncilCast](https://www.maastrichtuniversity.nl/news-events/podcasts/councilcast)
+        *   [Woke as science](https://www.maastrichtuniversity.nl/news-events/podcasts/woke-science)
+
+    *   [UMagazine](https://www.maastrichtuniversity.nl/news-events/umagazine)
+
+*   [Nederlands NL](https://www.maastrichtuniversity.nl/nl)
+
+[My UM](https://www.maastrichtuniversity.nl/my-um)
+
+[Search](https://www.maastrichtuniversity.nl/search)
+
+*   [Nederlands NL](https://www.maastrichtuniversity.nl/nl)
+
+[My UM](https://www.maastrichtuniversity.nl/my-um)
+
+[Search on the website](https://www.maastrichtuniversity.nl/search)
+
+[](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/scholarships-master-students)
+# Page not found
+
+## It looks like you're lost... page not found (404)
+
+The page you were trying to reach cannot be found. The link might be outdated, contain a typo, or the page may have been (re)moved.
+
+* * *
+
+## Use one of the links below to get back on track
+
+## Menu 404 page EN
+
+*   [Homepage](https://www.maastrichtuniversity.nl/home)
+*   [Education pages](https://www.maastrichtuniversity.nl/education)
+*   [Bachelor's programmes](https://www.maastrichtuniversity.nl/education/bachelor/programmes)
+*   [Master's programmes](https://www.maastrichtuniversity.nl/education/master/programmes)
+
+*   [Research pages](https://www.maastrichtuniversity.nl/research)
+*   [Support pages](https://www.maastrichtuniversity.nl/support)
+*   [Library pages](https://library.maastrichtuniversity.nl/)
+*   [Contact information](https://www.maastrichtuniversity.nl/contact)
+
+[](https://www.maastrichtuniversity.nl/ "To the homepage of Maastricht University")
+
+ UM visiting address 
+
+[Minderbroedersberg 4-6 6211 LK Maastricht](https://maps.google.com/?q=Minderbroedersberg%204-6%2C%206211%20LK%2C%20Maastricht%2C%20Netherlands)
+
+[+31 43 388 2222](tel:%2B31433882222)
+
+ UM postal address 
+
+[P.O. Box 616 6200 MD Maastricht](https://maps.google.com/?q=P.O.%20Box%20616%2C%206200%20MD%2C%20Maastricht%2C%20Netherlands)
+
+## Social media
+
+*   [Bluesky](https://bsky.app/profile/maastrichtu.bsky.social)
+*   [Facebook](https://www.facebook.com/maastricht.university)
+*   [Instagram](https://www.instagram.com/maastrichtuniversity)
+*   [LinkedIn](https://www.linkedin.com/company/maastricht-university)
+*   [TikTok](https://www.tiktok.com/@maastrichtuniversity)
+*   [YouTube](https://www.youtube.com/user/maastrichtuniversity)
+
+## Menu footer (EN)
+
+*   [Contact](https://www.maastrichtuniversity.nl/contact)
+*   [Transparency & Accountability](https://www.maastrichtuniversity.nl/transparency-accountability)
+*   [Privacy & security](https://www.maastrichtuniversity.nl/privacy-security)
+*   [Support](https://www.maastrichtuniversity.nl/support)
+*   [Feedback](mailto:webred-um@maastrichtuniversity.nl)

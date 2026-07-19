@@ -1,0 +1,106 @@
+===== SOURCE PAGE: https://study.unimelb.edu.au/find/scholarships/ =====
+Title: 404
+
+URL Source: https://study.unimelb.edu.au/find/scholarships/
+
+Markdown Content:
+[Skip to main content](https://study.unimelb.edu.au/find/scholarships/#main)
+
+1.   [Study](https://study.unimelb.edu.au/)
+2.   [Page not found](https://study.unimelb.edu.au/page-not-found-404-esi)
+
+#### Cloud vars
+
+globals_server_REQUEST_URI: /fac/scholarships
+
+globals_server_http_referer: https://study.unimelb.edu.au/find/scholarships/
+
+globals_server_script_name: /fac/scholarships
+
+globals_server_http_host: study.unimelb.edu.au
+
+# Page not found
+
+We're sorry, but we can't find the information you are looking for.
+
+## What now?
+
+*    Return to the [page you were on](https://study.unimelb.edu.au/find/scholarships/)
+*   Try a new [careers, study areas, courses or specialisations search](https://study.unimelb.edu.au/find)
+*   Try starting from the [Study home page](https://study.unimelb.edu.au/)
+
+## Problem report
+
+We've captured some technical details.
+
+You came from: https://study.unimelb.edu.au/find/scholarships/
+
+You asked for: https://study.unimelb.edu.au/scholarships
+
+Optional details
+
+Email. _If you'd like a reply, we'll need your email address_: 
+
+Comments. _Anything else you'd like to tell us?_: 
+
+How can we help?
+
+[Find a course](https://study.unimelb.edu.au/find?in_c=hcta)
+
+[How to apply](https://study.unimelb.edu.au/how-to-apply?in_c=hcta)
+
+[Support centre](https://study.unimelb.edu.au/support?in_c=hcta)
+
+[Contact us](https://study.unimelb.edu.au/support/contact?in_c=hcta)
+
+### Acknowledgement of Country
+
+We acknowledge Aboriginal and Torres Strait Islander people as the Traditional Owners of the unceded lands on which we work, learn and live. We pay respect to Elders past, present and future, and acknowledge the importance of Indigenous knowledge in the Academy.
+
+[Read about our Indigenous priorities](https://www.unimelb.edu.au/indigenous)
+
+*   [About us](https://about.unimelb.edu.au/)
+*   [Careers at Melbourne](https://about.unimelb.edu.au/careers)
+*   [Safety and respect](https://www.unimelb.edu.au/respect)
+*   [Newsroom](https://www.unimelb.edu.au/newsroom)
+*   [Contact](https://www.unimelb.edu.au/contact)
+*   [Campus locations](https://about.unimelb.edu.au/priorities-and-partnerships/campus-development/campus-locations)
+
+### Contact details
+
+Phone[13 MELB (13 6352)](tel:136352)
+
+International[+61 3 9035 5511](tel:+61390355511)
+
+Address The University of Melbourne 
+
+ Grattan Street, Parkville 
+
+ Victoria 3010 
+
+ Australia 
+
+### Connect with us
+
+*   [Visit University of Melbourne on Facebook](https://www.facebook.com/unimelb "Facebook")
+*   [Visit University of Melbourne on LinkedIn](https://www.linkedin.com/school/university-of-melbourne "LinkedIn")
+*   [Visit University of Melbourne on Instagram](https://www.instagram.com/unimelb "Instagram")
+*   [Visit University of Melbourne on WeChat](https://www.unimelb.edu.au/alumni/support-resources/contact-us/wechat "WeChat")
+*   [Visit University of Melbourne on TikTok](https://www.tiktok.com/@unimelb "TikTok")
+
+![Image 1: The University of Melbourne logo](blob:http://localhost/e231ab8b68bdb3c39dae3f519a5e73d3)
+
+*   [Emergency](https://safety.unimelb.edu.au/emergency)
+*   [Terms and privacy](https://www.unimelb.edu.au/legal)
+*   [Accessibility](https://www.unimelb.edu.au/accessibility)
+*   [Privacy](https://about.unimelb.edu.au/strategy/governance/compliance-obligations/privacy)
+
+The University of Melbourne (Australian University) **PRV12150**
+
+CRICOS: **00116K**
+
+ABN: **84 002 705 224**
+
+This site uses and shares cookies and similar technologies to personalise your experience, advertise to you where you have opted in and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. [Visit our Privacy Statement](https://www.unimelb.edu.au/disclaimer/online-privacy) for further information.
+
+ Accept cookies Cookie preferences
