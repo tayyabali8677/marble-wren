@@ -1,9 +1,31 @@
 ===== SOURCE PAGE: https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pela.aspx?lang=eng =====
-Title: https://www.educanada.ca/wcmglobal/http_codes/img/wmms-blk.svg
+Title: We couldn't find that Web page (Error 404)
 
 URL Source: https://www.educanada.ca/scholarships-bourses/can/institutions/elap-pela.aspx?lang=eng
 
-Published Time: Tue, 22 May 2018 17:38:16 GMT
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-A 143x34 small image, likely a logo, icon or avatar
+## EduCanada
+
+### We couldn't find that Web page
+
+**Error 404**
+
+We're sorry you ended up here. Sometimes a page gets moved or deleted, but hopefully we can help you find what you're looking for. What next?
+
+*   Return to the [EduCanada](https://www.educanada.ca/index.aspx?lang=eng) home page
+*   Return to the [International Scholarships](https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng) home page
+*   [Contact us](https://www.educanada.ca/contact_us-contactez_nous.aspx?lang=eng) so we can help you
+
+## ÉduCanada
+
+### Nous ne pouvons trouver cette page Web
+
+**Erreur 404**
+
+Nous sommes désolés que vous ayez abouti ici. Il arrive parfois qu’une page ait été déplacée ou supprimée. Heureusement, nous pouvons vous aider à trouver ce que vous cherchez. Que faire?
+
+*   Retournez à la page d’accueil d'[ÉduCanada](https://www.educanada.ca/index.aspx?lang=fra)
+*   Retournez à la page d'accueil des [bourses internationales](https://www.educanada.ca/scholarships-bourses/index.aspx?lang=fra)
+*   [Communiquez avec nous](https://www.educanada.ca/contact_us-contactez_nous.aspx?lang=fra) pour obtenir de l’aide

@@ -3,8 +3,6 @@ Title: Page not found | African Union
 
 URL Source: https://au.int/en/scholarships
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [Skip to main content](https://au.int/en/scholarships#main-content)
 

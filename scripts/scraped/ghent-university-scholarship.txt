@@ -3,8 +3,6 @@ Title: UGent - Not Found
 
 URL Source: https://www.ugent.be/en/education/practical/grants.htm
 
-Published Time: Wed, 15 Jul 2026 08:54:54 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

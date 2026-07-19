@@ -216,4 +216,4 @@ Markdown Content:
 
 © 2024. Кыргыз Республикасынын агартуу министрлиги
 
-[![Image 52: WWW.NET.KG](http://www.net.kg/img.php?id=7284&refer=&page=https%3A//edu.gov.kg/en/&c=yes&java=now&razresh=1280x1280&cvet=24&jscript=1.3&rand=0.9784164323776547)](http://www.net.kg/stat.php?id=7284&fromsite=7284)
+[![Image 52: WWW.NET.KG](http://www.net.kg/img.php?id=7284&refer=&page=https%3A//edu.gov.kg/en/&c=yes&java=now&razresh=1280x1280&cvet=24&jscript=1.3&rand=0.3760908062846925)](http://www.net.kg/stat.php?id=7284&fromsite=7284)

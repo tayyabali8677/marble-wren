@@ -3,6 +3,10 @@ Title: ご指定のページが見つかりません／Not Found｜JICA
 
 URL Source: https://www.jica.go.jp/english/our_work/capacity_building/scholarship/index.html
 
+Published Time: Thu, 09 Jul 2026 05:38:27 GMT
+
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [](https://www.jica.go.jp/english/our_work/capacity_building/scholarship/index.html)
 
@@ -14,6 +18,14 @@ Markdown Content:
 *   [![Image 4: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Volunteers.svg) for Volunteers JICA海外協力隊希望者の方](https://www.jica.go.jp/forvolunteers/)
 *   [![Image 5: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Investors.svg) for Investors 投資家の方](https://www.jica.go.jp/forinvestors/)
 
+## ユーザー別メニュー
+
+*   [![Image 6: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Researchers.svg) for Researchers 大学・シンクタンク・コンサルタント・研究者・調査者の方](https://www.jica.go.jp/forresearchers/)
+*   [![Image 7: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Partners.svg) for Partners NGO・NPO・市民団体・自治体・民間ビジネスパートナーの方](https://www.jica.go.jp/forpartners/)
+*   [![Image 8: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Education.svg) for Education 教員・学生・どなたでも](https://www.jica.go.jp/foreducation/)
+*   [![Image 9: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Volunteers.svg) for Volunteers JICA海外協力隊希望者の方](https://www.jica.go.jp/forvolunteers/)
+*   [![Image 10: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Investors.svg) for Investors 投資家の方](https://www.jica.go.jp/forinvestors/)
+
 閉じる
 
  JICAウェブサイトでは、提供するサービス向上のため、クッキー（Cookie）を使用しております。
@@ -22,17 +34,15 @@ Markdown Content:
 
 閉じる
 
-# [![Image 6: jica](https://www.jica.go.jp/assets/img/logo.png)![Image 7: 独立行政法人 国際協力機構](https://www.jica.go.jp/assets/img/logo2.png)](https://www.jica.go.jp/)[![Image 8: jica](https://www.jica.go.jp/assets/img/logo-1-sp.svg)![Image 9: 独立行政法人 国際協力機構](https://www.jica.go.jp/assets/img/logo-2-sp.svg)](https://www.jica.go.jp/)
+# [![Image 11: jica](https://www.jica.go.jp/assets/img/logo.png)![Image 12: 独立行政法人 国際協力機構](https://www.jica.go.jp/assets/img/logo2.png)](https://www.jica.go.jp/)[![Image 13: jica](https://www.jica.go.jp/assets/img/logo-1-sp.svg)![Image 14: 独立行政法人 国際協力機構](https://www.jica.go.jp/assets/img/logo-2-sp.svg)](https://www.jica.go.jp/)
 
 MENU 閉じる
 
-*   ![Image 10: 言語切替](https://www.jica.go.jp/assets/img/icon/ico-lang.svg)
+*   ![Image 15: 言語切替](https://www.jica.go.jp/assets/img/icon/ico-lang.svg)
 *   [JP](https://www.jica.go.jp/index.html)
 *   [EN](https://www.jica.go.jp/english/index.html)
 *   [FR](https://www.jica.go.jp/french/index.html)
 *   [ES](https://www.jica.go.jp/spanish/index.html)
-
-[×](javascript:void(0) "検索ボックスをクリア")
 
 *    JICAについて 
     *   ## [JICAについて トップ](https://www.jica.go.jp/about/) 
@@ -84,7 +94,7 @@ MENU 閉じる
 
 ## ユーザー別メニュー
 
-[![Image 11](https://www.jica.go.jp/assets/img/menu/user/thumb_Researchers.svg) for Researchers 大学・シンクタンク・コンサルタント・研究者・調査者の方](https://www.jica.go.jp/forresearchers/)[![Image 12](https://www.jica.go.jp/assets/img/menu/user/thumb_Partners.svg) for Partners NGO・NPO・市民団体・自治体・民間ビジネスパートナーの方](https://www.jica.go.jp/forpartners/)[![Image 13](https://www.jica.go.jp/assets/img/menu/user/thumb_Education.svg) for Education 教員・学生・どなたでも](https://www.jica.go.jp/foreducation/)[![Image 14](https://www.jica.go.jp/assets/img/menu/user/thumb_Volunteers.svg) for Volunteers JICA海外協力隊希望者の方](https://www.jica.go.jp/forvolunteers/)[![Image 15](https://www.jica.go.jp/assets/img/menu/user/thumb_Investors.svg) for Investors 投資家の方](https://www.jica.go.jp/forinvestors/)
+[![Image 16](https://www.jica.go.jp/assets/img/menu/user/thumb_Researchers.svg) for Researchers 大学・シンクタンク・コンサルタント・研究者・調査者の方](https://www.jica.go.jp/forresearchers/)[![Image 17](https://www.jica.go.jp/assets/img/menu/user/thumb_Partners.svg) for Partners NGO・NPO・市民団体・自治体・民間ビジネスパートナーの方](https://www.jica.go.jp/forpartners/)[![Image 18](https://www.jica.go.jp/assets/img/menu/user/thumb_Education.svg) for Education 教員・学生・どなたでも](https://www.jica.go.jp/foreducation/)[![Image 19](https://www.jica.go.jp/assets/img/menu/user/thumb_Volunteers.svg) for Volunteers JICA海外協力隊希望者の方](https://www.jica.go.jp/forvolunteers/)[![Image 20](https://www.jica.go.jp/assets/img/menu/user/thumb_Investors.svg) for Investors 投資家の方](https://www.jica.go.jp/forinvestors/)
 
 [寄附について](https://www.jica.go.jp/activities/schemes/partner/private/kifu/index.html)
 
@@ -98,7 +108,7 @@ JICA公式アカウント
 *   [](https://www.facebook.com/jicapr)
 *   [](https://www.youtube.com/user/jicachannel1)
 *   [](https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-)
-*   [![Image 16](https://www.jica.go.jp/assets/icon/sns/ico-instagram.png)](https://www.instagram.com/jica_pr/)
+*   [![Image 21](https://www.jica.go.jp/assets/icon/sns/ico-instagram.png)](https://www.instagram.com/jica_pr/)
 *   [](https://jica-gov.note.jp/)
 
 *   [寄附について](https://www.jica.go.jp/activities/schemes/partner/private/kifu/index.html)
@@ -106,9 +116,7 @@ JICA公式アカウント
 *   [よくある質問](https://www.jica.go.jp/faq/)
 *   [お問い合わせ](https://www.jica.go.jp/inquiry/)
 
-[×](javascript:void(0) "検索ボックスをクリア")
-
-*   ![Image 17: 言語切替](https://www.jica.go.jp/assets/img/icon/ico-lang.svg)
+*   ![Image 22: 言語切替](https://www.jica.go.jp/assets/img/icon/ico-lang.svg)
 *   [JP](https://www.jica.go.jp/index.html)
 *   [EN](https://www.jica.go.jp/english/index.html)
 *   [FR](https://www.jica.go.jp/french/index.html)
@@ -116,7 +124,7 @@ JICA公式アカウント
 
 *   JICAについて
 
-[![Image 18](https://www.jica.go.jp/assets/img/megamenu-001.png) JICAについて トップ ![Image 19](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/about) 
+[![Image 23](https://www.jica.go.jp/assets/img/megamenu-001.png) JICAについて トップ ![Image 24](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/about) 
 
 ## [理事長あいさつ](https://www.jica.go.jp/about/president/) 
 
@@ -164,11 +172,11 @@ JICA公式アカウント
 
 ## [DXの取り組み](https://www.jica.go.jp/about/dx/)
 
-![Image 20: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 25: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
 *   事業について
 
-[![Image 21](https://www.jica.go.jp/assets/img/megamenu-002.png) 事業について トップ ![Image 22](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/activities) 
+[![Image 26](https://www.jica.go.jp/assets/img/megamenu-002.png) 事業について トップ ![Image 27](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/activities) 
 
 ## [プロジェクト情報](https://www.jica.go.jp/activities/project_list/)
 
@@ -227,11 +235,11 @@ JICA公式アカウント
     *   [環境社会配慮](https://www.jica.go.jp/about/policy/environment/guideline.html)
     *   [工事安全対策への取り組み](https://www.jica.go.jp/activities/schemes/oda_safety/index.html)
 
-![Image 23: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 28: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
 *   海外での取り組み
 
-[![Image 24](https://www.jica.go.jp/assets/img/megamenu-003.png) 海外での取り組み トップ ![Image 25](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/overseas) 
+[![Image 29](https://www.jica.go.jp/assets/img/megamenu-003.png) 海外での取り組み トップ ![Image 30](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/overseas) 
 
 ## [国ごとの協力方針・分析](https://www.jica.go.jp/overseas/index.html#anchor7)
 
@@ -374,11 +382,11 @@ JICA公式アカウント
         *   [モルドバ](https://www.jica.go.jp/overseas/moldova/index.html)
         *   [モンテネグロ](https://www.jica.go.jp/overseas/montenegro/index.html)
 
-![Image 26: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 31: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
 *   日本国内での取り組み
 
-[![Image 27](https://www.jica.go.jp/assets/img/megamenu-004.png) 日本国内での取り組み トップ ![Image 28](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/domestic) 
+[![Image 32](https://www.jica.go.jp/assets/img/megamenu-004.png) 日本国内での取り組み トップ ![Image 33](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/domestic) 
 
 ## [JICAが行う国内事業について](https://www.jica.go.jp/domestic/cooperation/index.html) 
 
@@ -414,11 +422,11 @@ JICA公式アカウント
 
 ## [各都道府県のJICA窓口（国際協力推進員）](https://www.jica.go.jp/domestic/#anchor3)
 
-![Image 29: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 34: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
 *   ニュース・広報
 
-[![Image 30](https://www.jica.go.jp/assets/img/megamenu-005.png) ニュース・広報 トップ ![Image 31](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/information) 
+[![Image 35](https://www.jica.go.jp/assets/img/megamenu-005.png) ニュース・広報 トップ ![Image 36](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/information) 
 
 ## [お知らせ・ニュース](https://www.jica.go.jp/information/index.html#top)
 
@@ -445,11 +453,11 @@ JICA公式アカウント
     *   [動画](https://www.jica.go.jp/information/movie/)
     *   [公式SNS一覧](https://www.jica.go.jp/information/social/)
 
-![Image 32: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 37: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
 *   国際協力について
 
-[![Image 33](https://www.jica.go.jp/assets/img/megamenu-006.png) 国際協力について トップ ![Image 34](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/cooperation) 
+[![Image 38](https://www.jica.go.jp/assets/img/megamenu-006.png) 国際協力について トップ ![Image 39](https://www.jica.go.jp/assets/img/megamenu_arrow.svg)](https://www.jica.go.jp/cooperation) 
 
 ## [知りたい](https://www.jica.go.jp/cooperation/#anchor1)
 
@@ -496,14 +504,14 @@ JICA公式アカウント
 
 ## [詳しく調べたい](https://www.jica.go.jp/cooperation/#anchor8)
 
-![Image 35: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
+![Image 40: close](https://www.jica.go.jp/assets/img/close_btn_primary.svg)
 
-*   [![Image 36](https://www.jica.go.jp/assets/img/lowerLaout/ico-twitter.svg#ico-twitter)](https://twitter.com/jica_direct)
-*   [![Image 37](https://www.jica.go.jp/assets/img/lowerLaout/ico-facebook.svg#ico-facebook)](https://www.facebook.com/jicapr)
-*   [![Image 38](https://www.jica.go.jp/assets/img/lowerLaout/ico-youtube.svg#ico-youtube)](https://www.youtube.com/user/jicachannel1)
-*   [![Image 39](https://www.jica.go.jp/assets/img/lowerLaout/ico-linkedin.svg#ico-linkedin)](https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-)
-*   [![Image 40](https://www.jica.go.jp/assets/img/lowerLaout/ico-instagram.png)](https://www.instagram.com/jica_pr/)
-*   [![Image 41](https://www.jica.go.jp/assets/img/lowerLaout/ico-note.svg#ico-note)](https://jica-gov.note.jp/)
+*   [![Image 41](https://www.jica.go.jp/assets/img/lowerLaout/ico-twitter.svg#ico-twitter)](https://twitter.com/jica_direct)
+*   [![Image 42](https://www.jica.go.jp/assets/img/lowerLaout/ico-facebook.svg#ico-facebook)](https://www.facebook.com/jicapr)
+*   [![Image 43](https://www.jica.go.jp/assets/img/lowerLaout/ico-youtube.svg#ico-youtube)](https://www.youtube.com/user/jicachannel1)
+*   [![Image 44](https://www.jica.go.jp/assets/img/lowerLaout/ico-linkedin.svg#ico-linkedin)](https://jp.linkedin.com/company/japan-international-cooperation-agency-jica-)
+*   [![Image 45](https://www.jica.go.jp/assets/img/lowerLaout/ico-instagram.png)](https://www.instagram.com/jica_pr/)
+*   [![Image 46](https://www.jica.go.jp/assets/img/lowerLaout/ico-note.svg#ico-note)](https://jica-gov.note.jp/)
 
 scroll
 
@@ -511,14 +519,6 @@ scroll
 2.   ご指定のページが見つかりません／Not Found
 
 # ご指定のページが見つかりません／Not Found
-
-## ユーザー別メニュー
-
-*   [![Image 42: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Researchers.svg) for Researchers 大学・シンクタンク・コンサルタント・研究者・調査者の方](https://www.jica.go.jp/forresearchers/)
-*   [![Image 43: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Partners.svg) for Partners NGO・NPO・市民団体・自治体・民間ビジネスパートナーの方](https://www.jica.go.jp/forpartners/)
-*   [![Image 44: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Education.svg) for Education 教員・学生・どなたでも](https://www.jica.go.jp/foreducation/)
-*   [![Image 45: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Volunteers.svg) for Volunteers JICA海外協力隊希望者の方](https://www.jica.go.jp/forvolunteers/)
-*   [![Image 46: サムネイル](https://www.jica.go.jp/assets/img/menu/user/thumb_Investors.svg) for Investors 投資家の方](https://www.jica.go.jp/forinvestors/)
 
 ご指定のページは移動したか、削除された可能性があります。
 

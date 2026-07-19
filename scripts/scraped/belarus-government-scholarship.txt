@@ -3,8 +3,6 @@ Title: 404
 
 URL Source: https://studyinbelarus.by/en/
 
-Published Time: Tue, 24 Feb 2026 16:22:54 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -22,9 +20,9 @@ Markdown Content:
 
 [RU](https://studyinbelarus.by/ru/)
 
-![Image 3](https://optim.tildacdn.biz/tild3963-3561-4663-b639-313531653230/-/resize/960x/-/format/webp/6342468.jpg.webp)
+![Image 3](https://thb.tildacdn.biz/tild3963-3561-4663-b639-313531653230/-/empty/6342468.jpg)
 
-[![Image 4](https://optim.tildacdn.biz/tild3235-3064-4633-b431-636262656638/-/resize/144x/-/format/webp/studyinbelarus_logo_.png.webp)](http://studyinbelarus.by/)
+[![Image 4](https://thb.tildacdn.biz/tild3235-3064-4633-b431-636262656638/-/empty/studyinbelarus_logo_.png)](http://studyinbelarus.by/)
 
 © 2025 [studyinbelarus.by](http://studyinbelarus.by/)
 
@@ -42,28 +40,28 @@ Markdown Content:
 
 [http://studyinbelarus.by/](http://studyinbelarus.by/)
 
-![Image 5](https://optim.tildacdn.biz/tild3736-3132-4161-b133-633466303737/-/resize/66x/-/format/webp/white-10.png.webp)
+![Image 5](https://thb.tildacdn.biz/tild3736-3132-4161-b133-633466303737/-/resize/20x/white-10.png)
 
-![Image 6](https://optim.tildacdn.biz/tild3532-3132-4266-b834-366566356562/-/resize/42x/-/format/webp/white-03.png.webp)
+![Image 6](https://thb.tildacdn.biz/tild3532-3132-4266-b834-366566356562/-/resize/20x/white-03.png)
 
-![Image 7](https://optim.tildacdn.biz/tild3963-3834-4762-a265-613237616665/-/resize/54x/-/format/webp/white-05.png.webp)
+![Image 7](https://thb.tildacdn.biz/tild3963-3834-4762-a265-613237616665/-/resize/20x/white-05.png)
 
-![Image 8](https://optim.tildacdn.biz/tild3866-3666-4332-a639-343936393765/-/resize/129x/-/format/webp/white-02.png.webp)
+![Image 8](https://thb.tildacdn.biz/tild3866-3666-4332-a639-343936393765/-/resize/20x/white-02.png)
 
-![Image 9](https://optim.tildacdn.biz/tild3365-6662-4838-a331-326161333539/-/resize/200x/-/format/webp/white-04.png.webp)
+![Image 9](https://thb.tildacdn.biz/tild3365-6662-4838-a331-326161333539/-/resize/20x/white-04.png)
 
-![Image 10](https://optim.tildacdn.biz/tild6362-3366-4438-b438-363239613439/-/resize/92x/-/format/webp/white-09.png.webp)
+![Image 10](https://thb.tildacdn.biz/tild6362-3366-4438-b438-363239613439/-/resize/20x/white-09.png)
 
-![Image 11](https://optim.tildacdn.biz/tild3230-3562-4130-b531-313037363966/-/resize/183x/-/format/webp/white-06.png.webp)
+![Image 11](https://thb.tildacdn.biz/tild3230-3562-4130-b531-313037363966/-/resize/20x/white-06.png)
 
-![Image 12](https://optim.tildacdn.biz/tild6631-3366-4735-a638-643132346637/-/resize/97x/-/format/webp/white-07.png.webp)
+![Image 12](https://thb.tildacdn.biz/tild6631-3366-4735-a638-643132346637/-/resize/20x/white-07.png)
 
-![Image 13](https://optim.tildacdn.biz/tild3865-3338-4038-b865-663538303538/-/resize/37x/-/format/webp/white-08.png.webp)
+![Image 13](https://thb.tildacdn.biz/tild3865-3338-4038-b865-663538303538/-/resize/20x/white-08.png)
 
-![Image 14](https://optim.tildacdn.biz/tild3562-3039-4435-b434-633033323164/-/resize/205x/-/format/webp/white-01.png.webp)
+![Image 14](https://thb.tildacdn.biz/tild3562-3039-4435-b434-633033323164/-/resize/20x/white-01.png)
 
 Продолжая работу с сайтом, Вы разрешаете использование cookie-файлов.
 
 OK
 
-- [x] [Telegram](https://studyinbelarus.by/en/@study_belarus)[Messenger](https://studyinbelarus.by/en/)[WhatsApp](https://wa.me/375296309308)
+- [x] [Telegram](https://studyinbelarus.by/en/@study_belarus)[Messenger](https://studyinbelarus.by/en/)[WhatsApp](https://wa.me/+375296309308)

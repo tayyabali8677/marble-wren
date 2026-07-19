@@ -26,9 +26,7 @@ Colour switch
 
 ## Error 404 - We could not find that page
 
-![Image 3: Feet in front of arrows pointing into 3 directions](https://api.daad.de/api/image/md1st/media/daad_de/fuesse-pfeile_972x547.jpg.webp)
-
-© iStock.com / Delpixart
+![Image 3: Feet in front of arrows pointing into 3 directions](https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/%7B%22href%22:%22https:////api.daad.de//api//image//md1st//media//daad_de//fuesse-pfeile_972x547.jpg.webp%22,%22width%22:648,%22height%22:365%7D)
 
 We are continously working to extend and improve our online services for you.
 

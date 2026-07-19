@@ -3,8 +3,6 @@ Title: Page not found
 
 URL Source: https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students/
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 *   [Skip to main content](https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students#main)
 *   [Skip to primary navigation](https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students#primary-nav)
@@ -15,7 +13,7 @@ Markdown Content:
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
-*   Language[English](https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students/en/page-not-found) 
+*   Language[English](https://www.mfat.govt.nz/en/page-not-found) 
 
 Search Toggle
 
@@ -190,11 +188,11 @@ Phone[+64 4 439 8000](tel:006444398000)
 
 [Follow us](https://www.mfat.govt.nz/en/follow-us)
 
-[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
+[![Image 3: Safe Travel. ](https://www.mfat.govt.nz/resources/img/logos/logo-safe-travel.png)](https://www.safetravel.govt.nz/)
 
 *   [Copyright](https://www.mfat.govt.nz/en/copyright)
 *   [Privacy](https://www.mfat.govt.nz/en/privacy)
 *   [Terms of use](https://www.mfat.govt.nz/en/terms-of-use)
 *   [www.govt.nz](https://www.govt.nz/)
 
-[![Image 4: New Zealand Government](https://www.mfat.govt.nz/en/study-and-training/scholarships/new-zealand-government-scholarships-for-international-students/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)
+[![Image 4: New Zealand Government](https://www.mfat.govt.nz/resources/img/logos/NZGovt-logo-expanded-white.png) / Te Kāwanatanga o Aotearoa](https://www.govt.nz/)

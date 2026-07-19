@@ -6,88 +6,26 @@ URL Source: https://www.fao.org/partnerships/resources/detail/en/c/1307614/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[العربية](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/ar/)
-
-[中文](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/zh/)
-
-[english11](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/en/)
-
-[Русский](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/ru/)
-
-[Español](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/es/)
-
-# [![Image 1](https://www.fao.org/partnerships/resources/detail/en/c/1307614/fileadmin/templates/faoweb/images/FAO-logo.png)](https://www.fao.org/partnerships/resources/detail/en/c/1307614/home/en/ "FAO homepage")
-
-*   [About FAO](https://www.fao.org/partnerships/resources/detail/en/c/1307614/about/en/)
-*   [In Action](https://www.fao.org/partnerships/resources/detail/en/c/1307614/in-action/en/)
-*   [Countries](https://www.fao.org/partnerships/resources/detail/en/c/1307614/countries/en/)
-*   [Themes](https://www.fao.org/partnerships/resources/detail/en/c/1307614/themes/en/)
-*   [Media](https://www.fao.org/partnerships/resources/detail/en/c/1307614/news/en/)
-*   [Publications](https://www.fao.org/partnerships/resources/detail/en/c/1307614/publications/en/)
-*   [Statistics](https://www.fao.org/partnerships/resources/detail/en/c/1307614/statistics/en/)
-*   [Partnerships](https://www.fao.org/partnerships/resources/detail/en/c/1307614/partnerships/en/)
-
-# الصفحة المطلوبة غير موجودة
+## الصفحة المطلوبة غير موجودة
 
 عذراً و لكن يبدو أن الصفحة التي طلبتها قد تغير عنوانها أو غير موجودة. الرجاء استخدام مربع البحث للعثور على المعلومات المطلوبة .
 
-# 网页未找到
+## 网页未找到
 
 您正在寻找的网页或者被移除或者不再存在。请使用搜索框获取您正在寻找的信息。
 
-# Page not found
+## Page not found
 
 The page you are looking for has either been moved or no longer exists. Please use the search box to find the information you are looking for.
 
-# Page non trouvée
+## Page non trouvée
 
 Nous sommes désolés, la page que vous cherchez a été déplacée ou peut-être effacée. Vous pouvez accéder à l'information désirée grâce à notre moteur de recherche.
 
-# Страница не найдена
+## Страница не найдена
 
 Запрошенная страница была перемещена или удалена. Чтобы найти необходимую информацию, воспользуйтесь строкой поиска.
 
-# Página no encontrada
+## Página no encontrada
 
 La página a la que intenta acceder ha sido cambiada de lugar o no existe. Por favor, use la herramienta de búsquedas para encontrar la información deseada.
-
-*   [Contact us](https://www.fao.org/contact-us/en/)
-*   [Terms and Conditions](https://www.fao.org/contact-us/terms/en/)
-*   [Scam Alert](https://www.fao.org/contact-us/scam-alert/en/)
-*   [Report fraud](https://www.fao.org/contact-us/report-fraud/en/)
-
-*   [Employment](https://www.fao.org/employment/en/)
-*   [Procurement](https://www.fao.org/unfao/procurement/general-information/en/)
-*   [Governing Bodies](https://www.fao.org/unfao/govbodies/gsbhome/gsb-home/en/)
-*   [Office of the Inspector General](https://www.fao.org/aud/en/)
-*   [Evaluation](https://www.fao.org/evaluation/oed-home/en/)
-*   [Legal and Ethics Office](https://www.fao.org/legal/home/legal-office/en/)
-
-#### FAO Departments and Offices
-
-*   [Agriculture and Consumer Protection](https://www.fao.org/ag/portal/ag-home/en/)
-*   [Economic and Social Development](https://www.fao.org/economic/es-home/en/)
-*   [Fisheries and Aquaculture](https://www.fao.org/fishery)
-*   [Forestry](https://www.fao.org/forestry)
-*   [Technical Cooperation](https://www.fao.org/tc)
-
-*   [Regional Office for Africa](https://www.fao.org/africa/en/)
-*   [Regional Office for Asia and the Pacific](https://www.fao.org/asiapacific/en/)
-*   [Regional Office for Europe and Central Asia](https://www.fao.org/europe/en/)
-*   [Regional Office for Latin America and the Caribbean](https://www.fao.org/americas/en/)
-*   [Regional Office for the Near East and North Africa](https://www.fao.org/neareast/en/)
-*   [Country Offices](https://www.fao.org/about/who-we-are/worldwide-offices/en/#c207632)
-
-#### Follow us on
-
-[![Image 2: facebook](https://www.fao.org/uploads/RTEmagicC_facebook_26.png.png)](https://www.facebook.com/pages/Food-and-Agriculture-Organization-of-the-United-Nations-FAO/46370758585?ref=mf)[![Image 3: flickr](https://www.fao.org/uploads/RTEmagicC_flickr_23.png.png)](http://www.flickr.com/photos/faonews/collections/)[![Image 4: Google+](https://www.fao.org/uploads/RTEmagicC_c6270bed47.png.png)](https://plus.google.com/+UNFAO/?rel=author)[![Image 5: Instagram](https://www.fao.org/uploads/RTEmagicC_456950478f.png.png)](https://instagram.com/unfao)[![Image 6: LinkedIn](https://www.fao.org/uploads/RTEmagicC_linkedin_07.png.png)](http://www.linkedin.com/company/fao)
-
-[![Image 7: RSS news feeds](https://www.fao.org/uploads/RTEmagicC_rss_19.png.png)](https://www.fao.org/news/rss-feed/en/ "Opens internal link in current window")[![Image 8: SlideShare](https://www.fao.org/uploads/RTEmagicC_433b8859a8.png.png)](http://www.slideshare.net/FAOoftheUN)[![Image 9: SoundCloud](https://www.fao.org/uploads/RTEmagicC_2e22811972.png.png)](https://soundcloud.com/unfao)[![Image 10: Twitter](https://www.fao.org/uploads/RTEmagicC_twitter_01.png.png)](https://twitter.com/FAOnews/lists/fao-twitter-accounts)[![Image 11: YouTube](https://www.fao.org/uploads/RTEmagicC_youtube_40.png.png)](https://www.youtube.com/user/FAOVideo)
-
-#### Download our App
-
-![Image 12](https://www.fao.org/fileadmin/templates/faoweb/images/icons/download-app-icon-55x81px.png)[![Image 13](https://www.fao.org/fileadmin/templates/faoweb/images/icons/applestore-icon-127x38px.png)](http://itunes.apple.com/us/app/faonow/id877618174?ls=1&mt=8 "App Store")
-
-[![Image 14](https://www.fao.org/fileadmin/templates/faoweb/images/icons/googleplay-icon-127x38px.png)](https://play.google.com/store/apps/details?id=org.fao.mobile "Google Play")
-
-[© FAO,](https://www.fao.org/contact-us/terms/en/)

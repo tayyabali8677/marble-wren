@@ -240,7 +240,7 @@ The Australian National University acknowledges, celebrates and pays our respect
 
 TEQSA Provider ID: PRV12002 (Australian University) CRICOS Provider Code: 00120C ABN: 52 234 063 906
 
-![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=e11e2602-9218-4345-bf8e-3135bcd58253&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=79ef1bd7-a7cf-4199-afd6-29f6a82bf662&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-undergraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450327996.397083142822949050&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=e11e2602-9218-4345-bf8e-3135bcd58253&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=79ef1bd7-a7cf-4199-afd6-29f6a82bf662&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-undergraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450327996.397083142822949050&txn_id=l6551&type=javascript&version=2.3.54)
+![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=699125d4-1fbb-479d-8d7c-c85bce892f77&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4fef5088-cc0c-4ce8-81cc-872dd1c01015&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-undergraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468436149.977035064449556565&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=699125d4-1fbb-479d-8d7c-c85bce892f77&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=4fef5088-cc0c-4ce8-81cc-872dd1c01015&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-undergraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468436149.977035064449556565&txn_id=l6551&type=javascript&version=2.3.54)
 
 We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
 
@@ -357,7 +357,7 @@ The Australian National University acknowledges, celebrates and pays our respect
 
 TEQSA Provider ID: PRV12002 (Australian University) CRICOS Provider Code: 00120C ABN: 52 234 063 906
 
-![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=6c31b13f-2261-4249-a348-8117c96a0528&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a46d9cf0-3fcf-4519-a986-4a990f8d505c&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-postgraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450335226.274604659789980365&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=6c31b13f-2261-4249-a348-8117c96a0528&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=a46d9cf0-3fcf-4519-a986-4a990f8d505c&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-postgraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450335226.274604659789980365&txn_id=l6551&type=javascript&version=2.3.54)
+![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=d283ffd9-52a5-4b49-9c4c-be7d87079005&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=285acd53-f1b2-4695-b022-0b68329ea2d4&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-postgraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468442704.819576024416837654&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=d283ffd9-52a5-4b49-9c4c-be7d87079005&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=285acd53-f1b2-4695-b022-0b68329ea2d4&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fdomestic-postgraduate&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468442704.819576024416837654&txn_id=l6551&type=javascript&version=2.3.54)
 
 We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
 
@@ -474,7 +474,7 @@ The Australian National University acknowledges, celebrates and pays our respect
 
 TEQSA Provider ID: PRV12002 (Australian University) CRICOS Provider Code: 00120C ABN: 52 234 063 906
 
-![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=24c4021c-9f36-4952-8b87-1818db5bb081&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fcb1113e-16db-43b6-a316-491c336eb4c6&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Finternational-applications&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450342571.252925951240737748&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=24c4021c-9f36-4952-8b87-1818db5bb081&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=fcb1113e-16db-43b6-a316-491c336eb4c6&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Finternational-applications&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450342571.252925951240737748&txn_id=l6551&type=javascript&version=2.3.54)
+![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=76928ea6-3b73-41fa-b29a-33c843ce88cf&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5819f3f4-9737-4f69-8169-27a2b73393ab&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Finternational-applications&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468450173.613413126328627229&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=76928ea6-3b73-41fa-b29a-33c843ce88cf&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=5819f3f4-9737-4f69-8169-27a2b73393ab&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Finternational-applications&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468450173.613413126328627229&txn_id=l6551&type=javascript&version=2.3.54)
 
 We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
 
@@ -523,6 +523,8 @@ Confirm my choices
 Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/postgraduate-research
+
+Published Time: Sun, 19 Jul 2026 13:40:51 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -591,49 +593,7 @@ The Australian National University acknowledges, celebrates and pays our respect
 
 TEQSA Provider ID: PRV12002 (Australian University) CRICOS Provider Code: 00120C ABN: 52 234 063 906
 
-![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=72f327d2-2447-4457-866d-3a91856925a9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=186bfcb1-2875-46f5-bfb3-a60e640c3250&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fpostgraduate-research&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450349707.572499051561727292&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=72f327d2-2447-4457-866d-3a91856925a9&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=186bfcb1-2875-46f5-bfb3-a60e640c3250&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fpostgraduate-research&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450349707.572499051561727292&txn_id=l6551&type=javascript&version=2.3.54)
-
-We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
-
-Cookie settings Accept all
-
-![Image 10: Company Logo](https://cdn-au.onetrust.com/logos/static/ot_company_logo.png)
-
-## Cookie Settings
-
-We recommend enabling all cookies to provide you with the optimal experience while visiting our website.
-
-#### Essential Cookies
-
-Always Active
-
-These cookies are required for basic site functionality and are always enabled. Analytics cookies are used to record anonymous site usage data. No personally identifiable data is collected.
-
-#### Marketing Cookies
-
-- [x] Marketing Cookies 
-
-These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
-
-### Cookie List
-
-Clear
-
-- [x] checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Confirm my choices
-
-[![Image 11: Powered by Onetrust](https://cdn-au.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=23d09e6e-fab5-4b01-a9f6-48e012dfb655&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=611c0c85-14c4-4e19-abc9-9276a61fa309&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fpostgraduate-research&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468456245.636876782846728813&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=23d09e6e-fab5-4b01-a9f6-48e012dfb655&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=611c0c85-14c4-4e19-abc9-9276a61fa309&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply%2Fpostgraduate-research&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468456245.636876782846728813&txn_id=l6551&type=javascript&version=2.3.54)
 
 
 ===== SOURCE PAGE: https://www.anu.edu.au/apply =====
@@ -706,7 +666,7 @@ The Australian National University acknowledges, celebrates and pays our respect
 
 TEQSA Provider ID: PRV12002 (Australian University) CRICOS Provider Code: 00120C ABN: 52 234 063 906
 
-![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=26140c59-ab30-465a-bc86-bb4e7738abd0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88adb894-2f98-4862-a059-4bcfcf6abf7e&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450355907.387016265149425232&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=26140c59-ab30-465a-bc86-bb4e7738abd0&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=88adb894-2f98-4862-a059-4bcfcf6abf7e&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784450355907.387016265149425232&txn_id=l6551&type=javascript&version=2.3.54)
+![Image 8](https://t.co/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=452f52fa-bf76-40c3-b600-0f638d1909fa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cbb3fe0b-3b35-4470-973d-f718f6e14abd&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468465797.74680164380217874&txn_id=l6551&type=javascript&version=2.3.54)![Image 9](https://analytics.twitter.com/i/adsct?bci=1&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=1&event_id=452f52fa-bf76-40c3-b600-0f638d1909fa&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=cbb3fe0b-3b35-4470-973d-f718f6e14abd&pt=Page%20not%20found%20%7C%20Australian%20National%20University&tw_document_href=https%3A%2F%2Fwww.anu.edu.au%2Fapply&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&twpid=tw.1784468465797.74680164380217874&txn_id=l6551&type=javascript&version=2.3.54)
 
 We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
 
