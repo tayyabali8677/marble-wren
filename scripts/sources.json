@@ -1223,5 +1223,26 @@
     "country": "Switzerland",
     "url": "https://www.who.int/careers/internships",
     "note": "International organization internship program."
+  },
+  {
+    "slug": "qatar-government-scholarships",
+    "name": "Qatar Government Scholarships",
+    "country": "Qatar",
+    "url": "https://www.mohe.gov.qa/",
+    "note": "Official portal for Qatar Ministry of Education and Higher Education scholarship programs."
+  },
+  {
+    "slug": "united-nations-nippon-foundation-fellowship",
+    "name": "United Nations Nippon Foundation Fellowship",
+    "country": "United States",
+    "url": "https://www.un.org/oceans/content/nippon-foundation-fellowship-programme",
+    "note": "Administered by the United Nations Division for Ocean Affairs and the Law of the Sea."
+  },
+  {
+    "slug": "embassy-of-japan-scholarships",
+    "name": "MEXT Scholarship (Embassy of Japan)",
+    "country": "Japan",
+    "url": "https://www.studyinjapan.go.jp/",
+    "note": "The official government-funded scholarship program for international students."
   }
 ]
