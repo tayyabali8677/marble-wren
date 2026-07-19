@@ -21,7 +21,13 @@ const RELEVANT_KEYWORDS = [
   "deadline", "requirement", "document", "how-to", "criteria", "grant", "stipend",
 ];
 
-const UA = { headers: { "User-Agent": "Mozilla/5.0 (compatible; ResearchBot/1.0)" } };
+const UA = {
+  headers: {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+  },
+};
 
 function htmlToText(html: string): string {
   return html
@@ -66,13 +72,41 @@ function extractLinks(html: string, baseUrl: string): string[] {
   return Array.from(links);
 }
 
+async function fetchDirect(url: string): Promise<{ html: string; text: string } | null> {
+  try {
+    const res = await fetch(url, { ...UA, signal: AbortSignal.timeout(15000) });
+    if (!res.ok) return null;
+    const contentType = res.headers.get("content-type") || "";
+    if (!contentType.includes("text/html")) return null;
+    const html = await res.text();
+    return { html, text: htmlToText(html) };
+  } catch {
+    return null;
+  }
+}
+
+async function fetchViaJina(url: string): Promise<{ html: string; text: string } | null> {
+  try {
+    const jinaUrl = `https://r.jina.ai/${url}`;
+    const res = await fetch(jinaUrl, {
+      headers: { "Accept": "text/plain", "User-Agent": UA.headers["User-Agent"] },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!res.ok) return null;
+    const text = await res.text();
+    if (text.length < 200) return null;
+    // Jina returns markdown — treat it as both html and text
+    return { html: text, text };
+  } catch {
+    return null;
+  }
+}
+
 async function fetchPage(url: string): Promise<{ html: string; text: string } | null> {
-  const res = await fetch(url, UA);
-  if (!res.ok) return null;
-  const contentType = res.headers.get("content-type") || "";
-  if (!contentType.includes("text/html")) return null;
-  const html = await res.text();
-  return { html, text: htmlToText(html) };
+  const direct = await fetchDirect(url);
+  if (direct && direct.text.length > 200) return direct;
+  console.log(`  Direct fetch failed or too short, trying Jina reader...`);
+  return fetchViaJina(url);
 }
 
 async function scrapeOne(source: Source) {

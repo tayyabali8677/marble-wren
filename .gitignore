@@ -2,5 +2,4 @@ node_modules/
 dist/
 .env
 .env.local
-scripts/scraped/
 scripts/generated-batch.json
