@@ -1195,5 +1195,33 @@
     "country": "United States",
     "url": "https://www.borenawards.org/",
     "note": "Specifically for U.S. citizens to study in world regions critical to U.S. interests."
+  },
+  {
+    "slug": "un-nippon-foundation-fellowship",
+    "name": "United Nations Nippon Foundation Fellowship",
+    "country": "United States",
+    "url": "https://www.un.org/oceans/content/nippon-foundation-fellowship-programme",
+    "note": "Managed by the United Nations Division for Ocean Affairs and the Law of the Sea."
+  },
+  {
+    "slug": "us-fulbright-student-program",
+    "name": "US Fulbright Student Program",
+    "country": "United States",
+    "url": "https://foreign.fulbrightonline.org/",
+    "note": "Government-funded program; applicants should check their local Fulbright Commission or US Embassy website in their home country."
+  },
+  {
+    "slug": "ireland-kader-asmal-fellowships",
+    "name": "Ireland Kader Asmal Fellowships",
+    "country": "Ireland",
+    "url": "https://www.irishaidfellowships.ie/",
+    "note": "Government-funded program specifically for South African students, but often listed under international development schemes."
+  },
+  {
+    "slug": "who-internship-programme",
+    "name": "WHO Internship Programme",
+    "country": "Switzerland",
+    "url": "https://www.who.int/careers/internships",
+    "note": "International organization internship program."
   }
 ]
