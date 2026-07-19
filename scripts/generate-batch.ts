@@ -87,7 +87,7 @@ Return a single JSON object matching exactly this shape (all fields required unl
   "timeline": { "phase": string, "date": string, "note"?: string }[],
   "countryNote": string (optional),
   "officialWebsite": string,
-  "status": "open" | "closed" | "upcoming" | "to-be-confirmed",
+  "status": "open" | "upcoming" | "to-be-confirmed",  // NEVER use "closed" — you cannot verify the current intake status from a static page. Use "open" only if the source explicitly states applications are currently open. Use "upcoming" if a future opening date is stated. Use "to-be-confirmed" in all other cases.
   "featured": false,
   "tags": string[],
   "seoTitle": string,
