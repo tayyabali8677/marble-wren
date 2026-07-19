@@ -178,5 +178,23 @@
     "name": "Nuffic — Dutch Scholarships for International Students",
     "url": "https://www.nuffic.nl/en/subjects/scholarships",
     "note": "Netherlands organisation for internationalisation in education — lists all Dutch scholarships"
+  },
+  {
+    "slug": "brightscholarship",
+    "name": "Bright Scholarship — Continuously Updated Scholarships",
+    "url": "https://brightscholarship.com/",
+    "note": "Frequently updated scholarship listing site covering international and government-funded programmes"
+  },
+  {
+    "slug": "brightscholarship-international",
+    "name": "Bright Scholarship — International Scholarships",
+    "url": "https://brightscholarship.com/category/international-scholarships/",
+    "note": "Category page for international scholarships on BrightScholarship — new posts added continuously"
+  },
+  {
+    "slug": "brightscholarship-fully-funded",
+    "name": "Bright Scholarship — Fully Funded Scholarships",
+    "url": "https://brightscholarship.com/category/fully-funded-scholarships/",
+    "note": "Fully funded scholarships category on BrightScholarship — high-value programmes for international students"
   }
 ]
