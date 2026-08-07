@@ -1,4 +1,5 @@
 name: Status Check
+# daily scholarship status verification
 
 on:
   schedule:
