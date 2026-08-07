@@ -1258,5 +1258,61 @@
     "country": "United Kingdom",
     "url": "https://cscuk.fcdo.gov.uk/",
     "note": "Government-funded scholarships for citizens of developing Commonwealth countries."
+  },
+  {
+    "slug": "taiwan-government-scholarship",
+    "name": "Taiwan Government Scholarship for International Students 2027",
+    "country": "Taiwan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "british-chevening-scholarship",
+    "name": "British Chevening Scholarship 2027",
+    "country": "United Kingdom",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "asia-pacific-university-mext-scholarship",
+    "name": "Asia Pacific University MEXT Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "tu-berlin-daad-epos-scholarship",
+    "name": "TU Berlin DAAD EPOS Scholarship 2027",
+    "country": "Germany",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "european-commission-blue-book-traineeship",
+    "name": "European Commission Blue Book Traineeship 2027",
+    "country": "Belgium",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "aim-adb-japan-scholarship",
+    "name": "AIM ADB–Japan Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "lester-b-pearson-international-scholarship",
+    "name": "Lester B Pearson International Scholarship 2027",
+    "country": "Canada",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "murdoch-university-rtp-scholarships",
+    "name": "Murdoch University RTP Scholarships 2027",
+    "country": "Australia",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
   }
 ]
