@@ -398,6 +398,8 @@ Wuhan University
 Hong Kong S.A.R.
 Chinese University of Hong Kong
 University of Hong Kong
+Indonesia
+Universitas Indonesia
 Singapore
 Nanyang Technological University
 National University of Singapore
@@ -1137,6 +1139,8 @@ Wuhan University
 Hong Kong S.A.R.
 Chinese University of Hong Kong
 University of Hong Kong
+Indonesia
+Universitas Indonesia
 Singapore
 Nanyang Technological University
 National University of Singapore

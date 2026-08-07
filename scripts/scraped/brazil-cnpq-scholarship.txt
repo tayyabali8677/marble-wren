@@ -107,6 +107,7 @@ Competências
 Procedimentos e Processos Correcionais
 Legislação
 Informes
+Informes
 Relatório de Gestão
 Certidão Negativa
 Denúncias e Representações
@@ -264,9 +265,9 @@ Serviços em destaque do govbr
 Serviços recomendados para você
 Serviços mais acessados do govbr
 1
-Consultar Meu Imposto de Renda
-2
 Assinatura Eletrônica
+2
+Consultar Meu Imposto de Renda
 3
 Entregar Meu Imposto de Renda
 4
@@ -274,10 +275,13 @@ Consultar restituição do imposto de renda
 5
 Consultar dados do Cadastro Único
 6
-Novo Desenrola Brasil - Famílias
+Consultar CPF
 Serviços em destaque do govbr
 Outros
 Tela Brasil
+Vida Financeira
+Novo
+Renegociação de Dívidas - Famílias
 Crimes
 Celular Seguro
 Assistência Direta
@@ -288,49 +292,56 @@ Fechar
 Fechar
 Fechar
 Info
-Bolsas de Produtividade: CNPq divulga resultado final
-Bolsas têm início previsto para agosto de 2026; confira a lista de aprovados.
-Saiba mais sobre Bolsas de Produtividade: CNPq divulga resultado final
-Profix-CB: FAPs de 8 estados já lançaram chamadas de fixação de doutores; confira os editais
-Programa de Apoio à Fixação de Doutores no Brasil - Conhecimento Brasil tem 27 FAPs participando da iniciativa
-Saiba mais sobre Profix-CB: FAPs de 8 estados já lançaram chamadas de fixação de doutores; confira os editais
-Chamada Universal 2026 está com inscrições abertas até 03/08
-Recursos são oriundos do orçamento do FNDCT e do CNPq; pelo menos 30% do valor irá para Norte, Nordeste e Centro-Oeste.
-Saiba mais sobre Chamada Universal 2026 está com inscrições abertas até 03/08
+Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
+Programa tem gestão compartilhada entre CNPq, Ministério das Relações Exteriores e Capes.
+Saiba mais sobre Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
+Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09
+Limite de financiamento por projeto será de R$ 200 mil, em bolsas de 2.100 euros com duração de 1 a 12 meses.
+Saiba mais sobre Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09
+Chamada de Apoio a Eventos de Promoção do Empreendedorismo e da Inovação: 2ª rodada tem inscrições abertas até 18/09
+Rodada é valida para propostas de eventos entre 01/01/2027 e 30/06/2027; objetivo é apoiar a realização de eventos conferências, congressos, seminários, fóruns, entre outros eventos nacionais e internacionais.
+Saiba mais sobre Chamada de Apoio a Eventos de Promoção do Empreendedorismo e da Inovação: 2ª rodada tem inscrições abertas até 18/09
+Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia: inscrições abertas até 18/09
+Iniciativa tem como objetivo apoiar projetos de pesquisa nas áreas de biotecnologia para saúde humana, agropecuária, ambiental e industrial; recursos são do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT).
+Saiba mais sobre Chamada de apoio à pesquisa, desenvolvimento e inovação em biotecnologia: inscrições abertas até 18/09
+Prêmio Mulheres e Ciência do CNPq: terceira edição tem inscrições abertas até 10/09
+Saiba mais sobre Prêmio Mulheres e Ciência do CNPq: terceira edição tem inscrições abertas até 10/09
 Chamada ProÁfrica 2026 investe em redes de pesquisadores brasileiros e africanos; inscrições até 31/08
 Com recursos do FNDCT, ação oferecerá bolsas tanto para pesquisadores brasileiros em países da África, quanto de pesquisadores africanos no Brasil.
 Saiba mais sobre Chamada ProÁfrica 2026 investe em redes de pesquisadores brasileiros e africanos; inscrições até 31/08
 Endometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08
 Projetos devem estar incluídos em uma das seguintes linhas temáticas: Causa e Prevenção; Diagnóstico; Tratamento; Biorepositório e Impacto Social.
 Saiba mais sobre Endometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08
+Profix-CB: FAPs de 8 estados já lançaram chamadas de fixação de doutores; confira os editais
+Programa de Apoio à Fixação de Doutores no Brasil - Conhecimento Brasil tem 27 FAPs participando da iniciativa
+Saiba mais sobre Profix-CB: FAPs de 8 estados já lançaram chamadas de fixação de doutores; confira os editais
 Ver essa foto no Instagram
 Um post compartilhado por CNPq | Defeso Eleitoral (@cnpq_oficial_2)
+Educação e Pesquisa
+Endometriose e saúde menstrual: chamada pública financiará pesquisas para desenvolver tratamentos acessíveis pelo SUS; inscrições até 12/08
+Projetos devem estar incluídos em uma das seguintes linhas temáticas: Causa e Prevenção; Diagnóstico; Tratamento; Biorepositório e Impacto Social.
+10/07/2026 15h56
 Educação e Pesquisa
 Programa de Apoio à Popularização Científica nos Estados e no DF terá inscrições até 15/08
 Propostas devem contemplar ações em eixos como iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências e comunicação pública da ciência
 02/07/2026 15h56
+Ciência e Tecnologia
+Programa Asas para o Futuro pretende qualificar profissionalmente jovens mulheres; inscrições até 10/08
+Iniciativa é realizada por meio de parceria entre CNPq e Ministério das Mulheres; chamada é voltada a jovens mulheres de 15 a 29 anos, preferencialmente negras, indígenas, quilombolas, em situação de vulnerabilidade social e econômica.
+17/06/2026 15h28
 Educação e Pesquisa
-Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
-Programa tem gestão compartilhada entre CNPq, Ministério das Relações Exteriores e Capes.
-10/07/2026 16h15
+Chamada conjunta Brasil-França para pesquisas em ciências humanas e meio ambiente divulga projetos aprovados
+03/08/2026 16h07
 Educação e Pesquisa
 Chamada Atlânticas enviará ao exterior cientistas negras, indígenas, quilombolas e ciganas; inscrições até 30/09
-Chamada é iniciativa conjunta entre CNPq, Ministério da Igualdade Racial e Ministério das Mulheres. As bolsas concedidas pela chamada deverão ser implementadas entre março de 2027 e dezembro de 2028.
 30/06/2026 13h17
-Ciência e Tecnologia
-Cota de importações para pesquisa científica - Nota do CNPq
-13/07/2026 11h49
-Saúde e Vigilância Sanitária
-Chamada apoia pesquisas que gerem evidências científicas para tomada de decisões em saúde pública; inscrições até 29/07
-30/06/2026 13h00
 Educação e Pesquisa
-Imersão Científica 2027 do Programa Futuras Cientistas está com inscrições abertas até 15/07
-13/07/2026 18h22
+João Alziro Herz da Jornada - Nota de pesar
+05/08/2026 17h17
 Chamadas Públicas
 Abertas para Submissão
 Análise em Andamento
 Resultados Publicados
-Chamada CNPq/FNDCT nº 06/2026 – UNIVERSAL
 Chamada CNPq/Decit-SCTIE-MS Nº 18/2026 - Avaliações de Políticas, Programas, Projetos e Ações em Saúde
 Chamada CNPq/MinC nº 17/2026 - Apoio ao funcionamento de incubadoras voltadas à Economia Criativa
 Chamada Pública MCTI/CNPq/MIR/MMulheres/MPI Nº 20/2026 Atlânticas - Programa Beatriz Nascimento de Mulheres na Ciência
@@ -339,7 +350,6 @@ Chamamento Público CNPq/FNDCT/MCTI Nº 01/2026 Para Participação no Programa 
 Chamada Pública CNPq/CAPES/MRE N° 16/2026 - Programa de Estudantes-Convênio de Pós-Graduação (PEC-PG)
 Chamada Pública CNPq/MCTI nº 15/2026 - Programa de Cooperação Afro-Brasileira em Ciência e Tecnologia - PROAFRICA
 Chamada CNPq/MCTI nº 25/2026 - Endometriose e Saúde Menstrual
-Chamada Pública CNPq N° 07/2026 - Programa Institucional de Bolsas de Pós-Graduação (PIBPG)
 CNPq em Dados
 2,8 bi
 Aplicados em Fomento (2025 | todas as fontes)
@@ -478,6 +488,7 @@ Corregedoria
 Competências
 Procedimentos e Processos Correcionais
 Legislação
+Informes
 Informes
 Relatório de Gestão
 Certidão Negativa
@@ -682,6 +693,7 @@ Corregedoria
 Competências
 Procedimentos e Processos Correcionais
 Legislação
+Informes
 Informes
 Relatório de Gestão
 Certidão Negativa
@@ -930,6 +942,7 @@ Competências
 Procedimentos e Processos Correcionais
 Legislação
 Informes
+Informes
 Relatório de Gestão
 Certidão Negativa
 Denúncias e Representações
@@ -1134,6 +1147,7 @@ Competências
 Procedimentos e Processos Correcionais
 Legislação
 Informes
+Informes
 Relatório de Gestão
 Certidão Negativa
 Denúncias e Representações
@@ -1296,15 +1310,19 @@ link para Copiar para área de transferência
 Publicado em
 01/01/2016 06h57
 Atualizado em
-17/07/2026 17h16
+04/08/2026 11h45
 Nesta seção você pode ler e baixar os documentos relativos às atividades de trabalho da Comissão de Integridade na Atividade Científica. Confira:
-Portaria 2664/2026  de 6 de março de 2026 - Política de Integridade na Atividade Científica do CNPq .
+Arcabouço legal
+Portaria 2664/2026 de 6 de março de 2026 - Política de Integridade na Atividade Científica do CNPq .
 Instrução Normativa - CNPq Nº 16, de 17 de abril de 2026 .
+Documentos históricos
 Resolução Normativa Nº: 006/2012  (revogada)
 Portaria Nº: 091/2012  (revogada)
 Carta do Presidente  (Glaucius Oliva)
 Primeiro  Relatório da Comissão de Integridade de Pesquisa do CNPq
+Publicação de sentença
 Sentença - Retratação conforme Processo Judicial nº 0001150-37.2014.4.01.3823 , 5ª VARA - BRASÍLIA  (publicado em 17/07/2026)
+Fato ocorrido em 2014.
 O Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) , por intermédio de sua Comissão de Integridade na Atividade Científica (CIAC) , publica cópia da sentença proferida no Processo Judicial nº 0001150-37.2014.4.01.3823 , 5ª VARA - BRASÍLIA, transitada em julgado, em cumprimento à obrigação de fazer determinada pelo Poder Judiciário.
 O encaminhamento desta decisão tem por finalidade dar cumprimento à determinação judicial de retratação perante as instituições que constaram da petição inicial como destinatárias das comunicações relacionadas aos fatos então apurados.
 Registra-se que a decisão judicial reconheceu a ocorrência de vício procedimental na condução da apuração administrativa, em razão da inobservância do contraditório e da ampla defesa, motivo pelo qual determinou, entre outras providências, o encaminhamento da decisão às instituições indicadas, para fins de retratação.
@@ -1392,6 +1410,7 @@ Corregedoria
 Competências
 Procedimentos e Processos Correcionais
 Legislação
+Informes
 Informes
 Relatório de Gestão
 Certidão Negativa
@@ -1802,6 +1821,7 @@ Competências
 Procedimentos e Processos Correcionais
 Legislação
 Informes
+Informes
 Relatório de Gestão
 Certidão Negativa
 Denúncias e Representações
@@ -2084,6 +2104,7 @@ Competências
 Procedimentos e Processos Correcionais
 Legislação
 Informes
+Informes
 Relatório de Gestão
 Certidão Negativa
 Denúncias e Representações
@@ -2287,6 +2308,7 @@ Corregedoria
 Competências
 Procedimentos e Processos Correcionais
 Legislação
+Informes
 Informes
 Relatório de Gestão
 Certidão Negativa
@@ -2541,6 +2563,7 @@ Corregedoria
 Competências
 Procedimentos e Processos Correcionais
 Legislação
+Informes
 Informes
 Relatório de Gestão
 Certidão Negativa

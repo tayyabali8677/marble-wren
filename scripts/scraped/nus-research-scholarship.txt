@@ -38,7 +38,6 @@ Financial Aid
 Student Research Assistant Scheme (SRA)
 Short Term Work Scheme (STW)
 Graduate Communication Support Space
-Graduate Peer Student Supporters
 Student Experience
 3MT Three Minute Thesis
 NUS Graduate School Partnership with Industry Scheme for Graduate Research Talent
@@ -88,7 +87,6 @@ Financial Aid
 Student Research Assistant Scheme (SRA)
 Short Term Work Scheme (STW)
 Graduate Communication Support Space
-Graduate Peer Student Supporters
 Student Experience
 3MT Three Minute Thesis
 NUS Graduate School Partnership with Industry Scheme for Graduate Research Talent
@@ -105,15 +103,11 @@ Outstanding Graduate Mentor Award
 Maintenance mode
 Page is under maintenance, sorry for the inconvenience caused!​
 Browse Our Scholarships
+Financial support for graduate study and research at NUS — from tuition coverage to monthly stipends, offered by the University and its partners.
+More Filters
 Qualification
 Nationality
-Filters
-Back to top
-More Filters
 Provider
-Host Faculty
-Programme
-Scholarship Name
 Home
 New Scholarships
 National University of Singapore
@@ -123,11 +117,6 @@ Contact Us
 &copy; National University of Singapore . All Rights Reserved.
 Legal
 Branding guidelines
-Adjust Profile Photo
-Position your image inside the 300 x 300 square frame.
-Zoom
-Cancel
-Apply Crop
 
 ===== SOURCE PAGE: https://nusgs.nus.edu.sg/scholarships/ =====
 New Scholarships : NUS Graduate School (NUSGS)
@@ -169,7 +158,6 @@ Financial Aid
 Student Research Assistant Scheme (SRA)
 Short Term Work Scheme (STW)
 Graduate Communication Support Space
-Graduate Peer Student Supporters
 Student Experience
 3MT Three Minute Thesis
 NUS Graduate School Partnership with Industry Scheme for Graduate Research Talent
@@ -219,7 +207,6 @@ Financial Aid
 Student Research Assistant Scheme (SRA)
 Short Term Work Scheme (STW)
 Graduate Communication Support Space
-Graduate Peer Student Supporters
 Student Experience
 3MT Three Minute Thesis
 NUS Graduate School Partnership with Industry Scheme for Graduate Research Talent
@@ -236,15 +223,11 @@ Outstanding Graduate Mentor Award
 Maintenance mode
 Page is under maintenance, sorry for the inconvenience caused!​
 Browse Our Scholarships
+Financial support for graduate study and research at NUS — from tuition coverage to monthly stipends, offered by the University and its partners.
+More Filters
 Qualification
 Nationality
-Filters
-Back to top
-More Filters
 Provider
-Host Faculty
-Programme
-Scholarship Name
 Home
 New Scholarships
 National University of Singapore
@@ -254,8 +237,3 @@ Contact Us
 &copy; National University of Singapore . All Rights Reserved.
 Legal
 Branding guidelines
-Adjust Profile Photo
-Position your image inside the 300 x 300 square frame.
-Zoom
-Cancel
-Apply Crop

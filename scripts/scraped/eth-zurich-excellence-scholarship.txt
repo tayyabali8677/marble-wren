@@ -13,6 +13,7 @@ Alumni Association
 Staffnet
 Login
 Search
+Search
 en
 EN
 DE
@@ -25,13 +26,9 @@ English
 Deutsch
 You are here
 Homepage
-chevron_right
 Studies
-chevron_right
 Financial
-chevron_right
 Scholarships
-chevron_right
 Excellence Scholarship
 Excellence Scholarship & Opportunity Programme
 ETH Zurich supports excellent Master's students (no MAS) with the following scholarship programme:
@@ -43,6 +40,7 @@ This also applies for ETH Bachelor students for a consecutive Master programme.
 2. Please make sure to be reachable under the telephone number specified in your CV as the selection process might include a phone/VC interview in February. If your are not available during that time, please inform the study programme coordinator.
 If you are already enrolled in a Master's degree programme at ETH Zurich, or hold a Master degree, you are not eligible for ESOP.
 For an ESOP Scholarship you must apply within the first application window.
+November 1 - 30 (12.59 MEZ)
 In addition to the documents for the Master admission you will need to upload a pre-proposal for your master thesis ( Download guidelines_preproposal (PDF, 86 KB) ).
 The pre-proposal for the Master's thesis must be developed by yourself and use established scientific citation practice.
 Plagiarism, negligent or intentional misinformation will lead to exclusion from the admission process or - if discovered later - to the revocation of the admission and of any scholarship.
@@ -137,6 +135,7 @@ Alumni Association
 Staffnet
 Login
 Search
+Search
 en
 EN
 DE
@@ -149,11 +148,8 @@ English
 Deutsch
 You are here
 Homepage
-chevron_right
 Studies
-chevron_right
 Financial
-chevron_right
 Scholarships
 Scholarships
 ETH Zurich offers social scholarships for Bachelor and Master studies as well as merit-based excellence scholarships for Master studies insofar the study is your first education and you do not have a degree on the same level.

@@ -29,6 +29,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -69,6 +70,7 @@ About TU Delft
 Menu openen
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -291,6 +293,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -332,6 +335,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -372,6 +376,7 @@ About TU Delft
 Menu openen
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -484,6 +489,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -525,6 +531,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -546,6 +553,7 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
+PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -554,6 +562,7 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
+Getting started in business
 Community
 Menu openen
 Alumni
@@ -565,6 +574,7 @@ About TU Delft
 Menu openen
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -650,6 +660,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -711,7 +722,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -727,7 +738,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
@@ -792,12 +803,12 @@ of
 August
 16
 22
-OWEE/IP Hoodie Campaign
+OWee/IP Hoodie Campaign
 October
 07
 Delft Female Impact Community Annual Event
 November
-01
+11
 Information session on Bequests to Science
 More events
 Delft University Fund
@@ -881,6 +892,7 @@ Science Centre
 Over TU Delft
 Zoek medewerkers
 Contact
+Locaties
 Voor pers
 Actueel
 Agenda
@@ -891,7 +903,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -922,6 +934,7 @@ Over TU Delft
 Menu openen
 Zoek medewerkers
 Contact
+Locaties
 Voor pers
 Actueel
 Agenda
@@ -1144,6 +1157,7 @@ Science Centre
 Over TU Delft
 Zoek medewerkers
 Contact
+Locaties
 Voor pers
 Actueel
 Agenda
@@ -1185,6 +1199,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -1225,6 +1240,7 @@ About TU Delft
 Menu openen
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar
@@ -1447,6 +1463,7 @@ Science Centre
 About TU Delft
 Find employees
 Contact
+Locations
 Press room
 Current
 Calendar

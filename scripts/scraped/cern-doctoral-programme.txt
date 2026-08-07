@@ -27,7 +27,7 @@ See open positions by Field of Work
 Programme overview
 The Doctoral Student Programme at CERN is an exceptional opportunity designed for PhD students to engage in cutting-edge research at one of the world&#8217;s most prestigious scientific institutions. As a participant, you are given the chance to collaborate with leading scientists and engineers, contributing to projects that push the boundaries of human knowledge.
 In addition to the technical and research experience, CERN&#8217;s Doctoral Student Programme offers a vibrant, multicultural environment, with students and professionals from all over the world. This diversity fosters a rich exchange of ideas and perspectives, further enhancing the learning experience.
-This programme is now closed. We will reopen applications on 6 August. Please check back then for the updated vacancy announcement, or create a job alert to be notified when applications reopen.
+This programme is now closed. We will reopen applications on 6 August. Please check back then for the updated vacancy announcement, or create a job alert to be notified when applications reopen.
 What we offer
 A monthly net allowance of 3907 Swiss Francs.
 Coverage by CERN’s comprehensive Health Insurance scheme (the contribution will be automatically deducted from your allowance).
@@ -78,7 +78,7 @@ Here is a sneak peek of the eligibility criteria and recruitment process
 Eligibility Criteria
 Nationality
 You are a national of a CERN Member or Associate Member State.
-Currently, we cannot consider applications from Pakistani and Lithuanian nationals for positions with a 2026 start date, as the ceiling defined under Article II.5 of the Associate Membership Agreement has been reached.
+Currently, we cannot consider applications from Pakistani, Lithuanian, Latvian, Cypriot and Croatian nationals, as the ceiling defined under Article II.5 of the Associate Membership Agreement has been reached.
 Our Member and Associate Member States
 Specific requirement
 Your university must accept that the research you conduct at CERN contributes to your doctoral thesis in one of CERN&#8217;s fields of work (science, technology, engineering, mathematics, etc.)
@@ -141,24 +141,24 @@ Software Engineering and IT
 Experience level
 Entry level
 0 - 2 year(s)
-10
+13
 Experienced
 > 6 years
-20
+37
 Mid-Level
 2 - 6 years
-17
+7
 Student
 1
 Profile
 Administrative
-5
+9
 Engineering
-23
+35
 Research
-19
+11
 Technical
-15
+13
 More filters
 More filters
 Filter by
