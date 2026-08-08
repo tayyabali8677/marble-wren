@@ -197,7 +197,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: e0020c8c1d94a1c23c3196de873b759f
+This is the Trace Id: 76333f4d4fd257b79831509297d7975f
 Skip to main content
 Education
 Azure for education
@@ -217,18 +217,18 @@ Learning Accelerators
 Learning tools
 Social-emotional learning
 K12 education leaders
-Higher education
-IT Pro
+Higher education leaders
+IT leaders
 Educators
 Students
+Education blog
+Education events
 Frequently asked questions
 Learn Educator Center
 Resource Center
 Contact Sales
-How to buy
 Shop for home
 Why Microsoft Education
-Français
 Contact a sales partner
 HOW TO BUY
 Get help choosing the right Microsoft technology for your school or student</h1> ">
@@ -255,7 +255,7 @@ Office 365 Education
 Microsoft donates Office 365 Education to eligible institutions at no cost, enabling students and educators to sign up for web versions of familiar products and AI tools for free.
 Learn more
 Microsoft 365 Copilot Chat
-Enhance learning experiences through AI-powered Copilot Chat, built into familiar products such as Microsoft Edge and Microsoft 365 Education.
+Enhance learning experiences through AI-powered Copilot Chat, built into familiar products such as Microsoft Edge and Microsoft 365 Education.
 Learn more
 Microsoft Intune
 Intune helps simplify the set up and management of devices for students and teachers.
@@ -320,10 +320,10 @@ What are the pricing options for Microsoft 365 Education and Office 365?
 Both Microsoft 365 Education and Office 365 Education have various pricing options for schools. View the product comparison table and contact a sales partner to discuss your school’s needs.
 02/
 How do I get Microsoft Office 365 Education?
-Microsoft donates Office 365 Education for the classroom to eligible institutions at no cost to ensure all students have access to tools for learning and building skills for the future. Office 365 Education provides web versions of Word, Excel, PowerPoint, OneNote, Microsoft Teams, and Microsoft 365 Copilot Chat, plus additional AI-based tools for work and learning. Enter your school email address to get started . If you’re a school seeking additional assistance in signing up your school for Microsoft Office 365, Contact a sales partner .
+Microsoft donates  Office 365 Education  for the classroom to eligible institutions at no cost to ensure all students have access to tools for learning and building skills for the future. Office 365 Education provides web versions of Word, Excel, PowerPoint, OneNote, Microsoft Teams, and Microsoft 365 Copilot Chat, plus additional AI-based tools for work and learning. Enter your school email address  to get started . If you’re a school seeking additional assistance in signing up your school for Microsoft Office 365,  Contact a sales partner .
 03/
 How can I get a Microsoft Education discount?
-For the latest discounts and offers, students and educators can visit the Microsoft Store with an active Microsoft account. (A Microsoft account is an email address and password that you use with Outlook.com (Hotmail), Office, OneDrive, Skype, Xbox, and/or Windows.) If you don’t have an active Microsoft account, see the Microsoft Store for discount details .
+Students and educators are eligible for a 10% discount on select items in the Microsoft Store with an active Microsoft account. (A Microsoft account is an email address and password that you use with Outlook.com (Hotmail), Office, OneDrive, Skype, Xbox, and/or Windows.) If you don’t have an active Microsoft account, see the Microsoft Store for discount details .
 Resources
 Microsoft Learn Educator Center</h2> ">
 Microsoft Learn Educator Center
@@ -340,39 +340,42 @@ Explore school stories
 Follow Microsoft Education
 Surface Pro
 Surface Laptop
+Surface Laptop Ultra
+Surface RTX Spark Dev Box
 Copilot for organizations
 Copilot for personal use
-AI in Windows
 Explore Microsoft products
 Windows 11 apps
 Account profile
 Download Center
-Microsoft Store Support
+Microsoft Store support
 Returns
 Order tracking
+Certified Refurbished
 Microsoft Store Promise
+Flexible Payments
 Microsoft in education
 Devices for education
 Microsoft Teams for Education
 Microsoft 365 Education
-Office Education
+How to buy for your school
 Educator training and development
 Deals for students and parents
-Azure for students
+AI for education
 Microsoft AI
 Microsoft Security
-Azure
 Dynamics 365
 Microsoft 365
-Microsoft Advertising
-Microsoft 365 Copilot
+Microsoft Power Platform
 Microsoft Teams
+Microsoft 365 Copilot
+Small Business
+Azure
 Microsoft Developer
 Microsoft Learn
 Support for AI marketplace apps
 Microsoft Tech Community
 Microsoft Marketplace
-Microsoft Power Platform
 Software companies
 Visual Studio
 Careers
@@ -383,7 +386,7 @@ Investors
 Diversity and inclusion
 Accessibility
 Sustainability
-English (Canada)
+English (United States)
 Your Privacy Choices Opt-Out Icon
 Your Privacy Choices
 Your Privacy Choices Opt-Out Icon
@@ -398,7 +401,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98 =====
 ISV Success | Software Development Companies
-This is the Trace Id: 7299e0dae4426356ee3898ae5635546e
+This is the Trace Id: 1f683410837ee860897b9be55cc954de
 Skip to main content
 Software Development Companies
 Develop your solution
@@ -463,48 +466,48 @@ Included</h3> ">
 Included
 Core package</h3> ">
 Core package
-USD$126,000 (USD) value for the first year [1]
+$126,000 (USD) value for the first year [1]
 All partners gain access to this package upon joining ISV Success to publish an application to Marketplace.
 Expanded package</h3> ">
 Expanded package
-USD$151,000 (USD) value for the first year [2]
+$151,000 (USD) value for the first year [2]
 Based on prior performance and a desire to transact on Marketplace, partners can receive invitations for these additional benefits.
 Advanced package</h3> ">
 Advanced package
-USD$176,000 (USD) value for the first year [3]
+$176,000 (USD) value for the first year [3]
 Based on Certified Software Designation (CSD) status, partners get access to this package upon enrolling in ISV Success.
 Developer sandbox of cloud credits
 Microsoft Azure Sponsorship credits
-USD$5,000 (USD)
-USD$25,000 (USD)
-USD$50,000 (USD)
+$5,000 (USD)
+$25,000 (USD)
+$50,000 (USD)
 Azure Standard Support Plan
-USD$1,200 (USD)
-USD$1,200 (USD)
-USD$1,200 (USD)
+$1,200 (USD)
+$1,200 (USD)
+$1,200 (USD)
 Dynamics 365 sandbox
-USD$40,500 (USD)
-USD$40,500 (USD)
-USD$40,500 (USD)
+$40,500 (USD)
+$40,500 (USD)
+$40,500 (USD)
 Microsoft 365 E5 developer subscription
 Best in class developer tools
 GitHub Enterprise Cloud
 20 seats,
-USD$5,040 (USD)
+$5,040 (USD)
 20 seats,
-USD$5,040 (USD)
+$5,040 (USD)
 20 seats,
-USD$5,040 (USD)
+$5,040 (USD)
 GitHub Copilot
-USD$5,000 (USD)
-USD$5,000 (USD)
-Visual Studio Enterprise
+$5,000 (USD)
+$5,000 (USD)
+Microsoft Visual Studio Enterprise IDE
 25 seats,
-USD$75,000 (USD)
+$75,000 (USD)
 25 seats,
-USD$75,000 (USD)
+$75,000 (USD)
 25 seats,
-USD$75,000 (USD)
+$75,000 (USD)
 Limited Access features for Azure AI services
 Skilling & certification vouchers
 GitHub Copilot Certification
@@ -512,14 +515,14 @@ Microsoft Certified: Azure AI Fundamentals
 Microsoft Certified: Azure AI Engineer Associate
 Microsoft Certified: Azure Data Scientist Associate
 1:1 Technical advisory hours
-Development and publishing consults [popover:]
+[popover:Development and publishing consults]
 3 hours
 50 hours
 50 hours
 Business enablement
 Webinars and workshops
 Cash incentives
-USD$150,000 (USD)
+$150,000 (USD)
 Previous Slide Next Slide
 Success stories
 Businesses accelerate their success by partnering with Microsoft</h2> ">
@@ -641,12 +644,12 @@ Expand all
 Collapse all
 01/
 How does ISV Success support AI application development?
-ISV Success provides resources for building AI-powered apps with Azure AI Foundry, access to Azure Cognitive Services, and training sessions for using AI tools. Copilot developers can also take advantage of additional software company support, including events, expert consultations, and product benefits.
+ISV Success provides resources for building AI-powered apps with Microsoft Foundry, access to Azure Cognitive Services, and training sessions for using AI tools. Copilot developers can also take advantage of additional software company support, including events, expert consultations, and product benefits.
 Learn more
 02/
 Who’s eligible for ISV Success benefits and what’s the duration?
 Software development companies who are building business-to-business (B2B) applications on the Microsoft Cloud and intend to publish through Microsoft Marketplace are eligible for ISV Success benefits—free for 12 months with no commitment to renew.
-After 12 months, participants are eligible for a discounted renewal package with a USD$1,500 (USD) annual fee.
+After 12 months, participants are eligible for a discounted renewal package with a $1,550 (USD) annual fee.
 Apply now
 03/
 Can benefits from ISV Success be combined with other programs?
@@ -654,7 +657,7 @@ Yes, ISV Success benefits can complement other Microsoft offerings. You can�
 Learn more
 04/
 What are the criteria for additional ISV Success benefits?
-For renewal, you need to continue developing B2B apps, meet publication requirements, and maintain your Microsoft AI Cloud Partner Program status. The annual renewal fee for the Core Package is USD$1,500 (USD).
+For renewal, you need to continue developing B2B apps, meet publication requirements, and maintain your Microsoft AI Cloud Partner Program status. The annual renewal fee for the Core Package is $1,550 (USD).
 For the Expanded Package, you’ll be invited by your ISV Success Engagement Manager based on performance criteria and intent to transact through Marketplace.
 Learn more
 05/
@@ -686,46 +689,49 @@ Ask questions, discover insights, and unlock key information to help you master 
 Join the community
 Visit Knowledge Center
 [1]
-Core: USD$1,500 (USD) yearly renewal fee.
+Core: $1,550 (USD) yearly renewal fee.
 [2]
-Expanded: USD$4,000 USD$1,500 (USD) yearly renewal fee, limited time.
+Expanded: $4,000 $1,550 (USD) yearly renewal fee, limited time.
 [3]
 Advanced: No cost.
 Surface Pro
 Surface Laptop
+Surface Laptop Ultra
+Surface RTX Spark Dev Box
 Copilot for organizations
 Copilot for personal use
-AI in Windows
 Explore Microsoft products
 Windows 11 apps
 Account profile
 Download Center
-Microsoft Store Support
+Microsoft Store support
 Returns
 Order tracking
+Certified Refurbished
 Microsoft Store Promise
+Flexible Payments
 Microsoft in education
 Devices for education
 Microsoft Teams for Education
 Microsoft 365 Education
-Office Education
+How to buy for your school
 Educator training and development
 Deals for students and parents
-Azure for students
+AI for education
 Microsoft AI
 Microsoft Security
-Azure
 Dynamics 365
 Microsoft 365
-Microsoft Advertising
-Microsoft 365 Copilot
+Microsoft Power Platform
 Microsoft Teams
+Microsoft 365 Copilot
+Small Business
+Azure
 Microsoft Developer
 Microsoft Learn
 Support for AI marketplace apps
 Microsoft Tech Community
 Microsoft Marketplace
-Microsoft Power Platform
 Software companies
 Visual Studio
 Careers
@@ -736,16 +742,19 @@ Investors
 Diversity and inclusion
 Accessibility
 Sustainability
-English (Canada)
+English (United States)
 Your Privacy Choices Opt-Out Icon
 Your Privacy Choices
 Your Privacy Choices Opt-Out Icon
 Your Privacy Choices
 Consumer Health Privacy
+Sitemap
 Contact Microsoft
 Privacy
 Manage cookies
 Terms of use
 Trademarks
+Safety & eco
+Recycling
 About our ads
 hidden
