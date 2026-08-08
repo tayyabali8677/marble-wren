@@ -51,7 +51,6 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
-PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -60,7 +59,6 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
-Getting started in business
 Community
 Menu openen
 Alumni
@@ -69,7 +67,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -557,7 +555,6 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
-PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -566,7 +563,6 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
-Getting started in business
 Community
 Menu openen
 Alumni
@@ -575,7 +571,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -726,7 +722,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu sluiten
+Menu openen
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -746,7 +742,7 @@ Menu openen
 News
 Agenda
 Grants
-Menu openen
+Menu sluiten
 Students
 Researchers
 Alumni
@@ -907,7 +903,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu sluiten
+Menu openen
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -935,7 +931,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu openen
+Menu sluiten
 Zoek medewerkers
 Contact
 Locaties
@@ -1225,7 +1221,6 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
-PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -1234,7 +1229,6 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
-Getting started in business
 Community
 Menu openen
 Alumni
@@ -1243,7 +1237,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
