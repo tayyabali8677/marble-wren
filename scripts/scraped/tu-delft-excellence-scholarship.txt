@@ -51,6 +51,7 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
+PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -59,6 +60,7 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
+Getting started in business
 Community
 Menu openen
 Alumni
@@ -1221,6 +1223,7 @@ Menu openen
 Societal challenges
 Faculties and institutes
 Research facilities
+PhDs
 Stories
 Awarded Prizes & Grants
 Innovation & Impact
@@ -1229,6 +1232,7 @@ Business collaboration
 Pioneering Tech
 Entrepreneurship
 Project Cases
+Getting started in business
 Community
 Menu openen
 Alumni
