@@ -1314,5 +1314,33 @@
     "country": "Australia",
     "url": "https://brightscholarship.com/",
     "note": "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
+  },
+  {
+    "slug": "mext-scholarship-japan",
+    "name": "Asia Pacific University MEXT Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+  },
+  {
+    "slug": "daad-epos-scholarship-germany",
+    "name": "TU Berlin DAAD EPOS Scholarship 2027",
+    "country": "Germany",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+  },
+  {
+    "slug": "lester-b-pearson-scholarship-canada",
+    "name": "Lester B Pearson International Scholarship 2027",
+    "country": "Canada",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+  },
+  {
+    "slug": "murdoch-university-rtp-scholarships-australia",
+    "name": "Murdoch University RTP Scholarships 2027",
+    "country": "Australia",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
   }
 ]
