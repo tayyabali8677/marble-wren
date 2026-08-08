@@ -1342,5 +1342,12 @@
     "country": "Australia",
     "url": "https://brightscholarship.com/",
     "note": "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+  },
+  {
+    "slug": "faculty-mobility-for-partnership-building-program",
+    "name": "Faculty Mobility for Partnership Building Program",
+    "country": "Canada",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Found via EduCanada international scholarships portal"
   }
 ]
