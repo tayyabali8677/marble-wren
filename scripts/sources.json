@@ -1363,5 +1363,12 @@
     "country": "Belgium",
     "url": "https://brightscholarship.com/",
     "note": "Extracted from Bright Scholarship aggregator listing; specific official apply URL not present in raw text."
+  },
+  {
+    "slug": "lester-b-pearson-international-scholarship-canada",
+    "name": "Lester B. Pearson International Scholarship 2027",
+    "country": "Canada",
+    "url": "https://future.utoronto.ca/pearson/",
+    "note": "Extracted from Youth Opportunities listing."
   }
 ]
