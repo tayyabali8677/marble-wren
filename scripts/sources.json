@@ -1349,5 +1349,19 @@
     "country": "Canada",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Found via EduCanada international scholarships portal"
+  },
+  {
+    "slug": "erasmus-plus-netherlands",
+    "name": "Erasmus+",
+    "country": "Netherlands",
+    "url": "https://www.erasmusplus.nl",
+    "note": "Managed by Nuffic as the Dutch National Agency"
+  },
+  {
+    "slug": "belgium-government-ares-scholarship",
+    "name": "Belgium Government ARES Scholarship 2027-28",
+    "country": "Belgium",
+    "url": "https://brightscholarship.com/",
+    "note": "Extracted from Bright Scholarship aggregator listing; specific official apply URL not present in raw text."
   }
 ]
