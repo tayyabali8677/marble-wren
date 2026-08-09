@@ -1370,5 +1370,82 @@
     "country": "Canada",
     "url": "https://future.utoronto.ca/pearson/",
     "note": "Extracted from Youth Opportunities listing."
+  },
+  {
+    "slug": "daad-research-grants-doctoral-germany",
+    "name": "DAAD Research Grants (Doctoral)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Requires specific research proposal and German university host."
+  },
+  {
+    "slug": "daad-graduate-school-scholarship-gssp-germany",
+    "name": "DAAD Graduate School Scholarship (GSSP)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Check DAAD website for participating graduate schools."
+  },
+  {
+    "slug": "daad-wise-internship-stipend-germany",
+    "name": "DAAD WISE (Working Internships in Science and Engineering)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "For Bachelor's students in 4th/5th year."
+  },
+  {
+    "slug": "daad-helmut-schmidt-program-germany",
+    "name": "DAAD Helmut-Schmidt Program (Public Policy)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Masters scholarships for public policy, law, economics, and social sciences."
+  },
+  {
+    "slug": "deutschlandstipendium-germany",
+    "name": "Deutschlandstipendium",
+    "country": "Germany",
+    "url": "https://www.deutschlandstipendium.de",
+    "note": "Applied for directly through the German university."
+  },
+  {
+    "slug": "heinrich-boll-foundation-scholarship-germany",
+    "name": "Heinrich Böll Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.boell.de",
+    "note": "For Masters and PhD with emphasis on social justice, ecology, and democracy."
+  },
+  {
+    "slug": "friedrich-ebert-foundation-scholarship-germany",
+    "name": "Friedrich Ebert Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.fes.de",
+    "note": "For Masters and PhD with focus on social democracy and civic engagement."
+  },
+  {
+    "slug": "konrad-adenauer-foundation-scholarship-germany",
+    "name": "Konrad Adenauer Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.kas.de",
+    "note": "For Masters and PhD with conservative values and civic engagement orientation."
+  },
+  {
+    "slug": "friedrich-naumann-foundation-scholarship-germany",
+    "name": "Friedrich Naumann Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.freiheit.org",
+    "note": "Focus on liberal values, entrepreneurship, and individual freedom."
+  },
+  {
+    "slug": "rosa-luxemburg-foundation-scholarship-germany",
+    "name": "Rosa Luxemburg Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.rosalux.de",
+    "note": "Progressive social and political focus, open to international students."
+  },
+  {
+    "slug": "erasmus-mundus-joint-master-scholarships-europe",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "Europe",
+    "url": "https://erasmus-mundus.eu",
+    "note": "Fully funded two-year Master's programs across multiple European universities."
   }
 ]
