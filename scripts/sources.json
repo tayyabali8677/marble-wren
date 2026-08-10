@@ -1447,5 +1447,12 @@
     "country": "Europe",
     "url": "https://erasmus-mundus.eu",
     "note": "Fully funded two-year Master's programs across multiple European universities."
+  },
+  {
+    "slug": "imf-jispa-phd-scholarships",
+    "name": "IMF JISPA PhD Scholarships 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "Extracted from Bright Scholarship aggregator listing."
   }
 ]
