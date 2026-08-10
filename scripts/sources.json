@@ -1461,5 +1461,19 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "Extracted from aggregator page; specific official IMF/JISPA link needs to be verified."
+  },
+  {
+    "slug": "daad-wise-internship-germany",
+    "name": "DAAD WISE (Working Internships in Science and Engineering)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "General DAAD portal link."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters-europe",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "Europe",
+    "url": "https://erasmus-mundus.eu",
+    "note": "Fully funded two-year Master's programs across multiple European universities."
   }
 ]
