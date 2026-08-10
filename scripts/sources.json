@@ -1454,5 +1454,12 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "Extracted from Bright Scholarship aggregator listing."
+  },
+  {
+    "slug": "imf-jispa-phd-scholarships-japan",
+    "name": "IMF JISPA PhD Scholarships 2027 in Japan",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "Extracted from aggregator page; specific official IMF/JISPA link needs to be verified."
   }
 ]
