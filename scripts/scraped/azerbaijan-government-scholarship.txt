@@ -73,21 +73,28 @@ The Minister of Science and Education met with the Secretary-General of the OTS
 The Minister of Science and Education meets with his Kazakh counterpart
 09.06.2026 - 10:19
 All news
+11/08/2026
+? Təhsil sənədləri artıq myGov-da!
+? Təhsil haqqında dövlət nümunəli sənədlər artıq mygov platformasında əlçatandır.
+? 2026-cı il məzunları təhsil müəssisələri tərəfindən imzalanmış elektron təhsil sənədlərini mygov (web) → “Təhsil məlumatlarım” → “Elektron təhsil sənədlərim” bölməsindən əldə edə bilərlər.
+? Elektron sənədin üzərindəki QR kodu oxudaraq və ya edu.gov.az saytının “Sənəd yoxlama” bölməsində sənədin nömrəsi və doğum tarixini daxil etməklə sənədin həqiqiliyini yoxlamaq mümkündür.
+? Yaxın günlərdə elektron təhsil sənədləri mygov mobil tətbiqində də əlçatan olacaq.
+?Təhsil sənədləri artıq rəqəmsal formatda — daha rahat və əlçatan.
+#ElmvəTəhsilNazirliyi #EduGovAz #TSİİ #mygov
+More
+11/08/2026
+? Türkiyə- Azərbaycan Universiteti - iki ölkə, bir universitet, sonsuz imkanlar
+? Türkiyənin Orta Doğu Tekniki Universiteti (ODTÜ), İstanbul Tekniki Universiteti (İTÜ) və Hacettepe Universitetlərinin tədris proqramları əsasında, Azərbaycan Texniki Universitetinin (AzTU) tərəfdaşlığı ilə fəaliyyət göstərən Türkiyə-Azərbaycan Universiteti beynəlxalq akademik təcrübəni müasir təhsil imkanları ilə birləşdirir.
+? İngilis dilində tədris, iki fərqli diplom, müasir laboratoriyalar və real sənaye mühitində təcrübə tələbələrə qlobal standartlara uyğun akademik və peşəkar inkişaf imkanları yaradır.
+✨ Türkiyə-Azərbaycan Universiteti sadəcə bilik öyrətmir, gələcəyi formalaşdırır!
+#TAU #ODTÜ #İTÜ #Hacettepe #AzTU #mühəndislik #engineering
+Orta Dogu Teknik Universitesi
+İTÜ
+Hacettepe Üniversitesi
+Azərbaycan Texniki Universiteti
+More
 10/08/2026
 ? Müəllimlərin işə qəbulu üzrə müsabiqənin ümumi vakansiya seçimi mərhələsinə başlanılır
-More
-10/08/2026
-? “Təhsil TV” yeni saytı ilə fəaliyyətini genişləndirir
-? Azərbaycan Respublikasında təhsil sahəsində ilk internet televiziya platforması olan “Təhsil TV” yeni rəsmi saytını istifadəyə verib. tehsil.tv ünvanında fəaliyyət göstərən platforma təhsil sahəsində baş verən yeniliklərin, xəbərlərin, video materialların, verilişlərin və canlı yayımların vahid rəqəmsal məkanda təqdim olunmasına imkan yaradır.
-? Yeni platformanın əsas məqsədi təhsil sahəsində baş verən prosesləri daha operativ və əlçatan formada ictimaiyyətə çatdırmaq, şagird, tələbə, müəllim və valideynlərin keyfiyyətli təhsil məzmununa çıxış imkanlarını genişləndirməkdir.
-Ətraflı: https://edu.gov.az/az/news-and-updates/23268-1
-#ElmvəTəhsilNazirliyi #EduGovAz #EduAz #TəhsilTV
-More
-07/08/2026
-Avqustun 7-də məktəbəqədər təhsil sahəsində valideyn–dövlət–özəl əməkdaşlığı əsasında maliyyələşmə müsabiqəsi ilə bağlı özəl məktəbəqədər təhsil müəssisələrinin nümayəndələri ilə görüş keçirilib.
-Görüşdə elm və təhsil nazirinin müavini Kənan Kərimzadə valideyn–dövlət–özəl əməkdaşlığı əsasında maliyyələşmə mexanizminin özəl sahibkarlar üçün yeni təşviq imkanları yaratmaqla məktəbəqədər təhsilin əhatəliliyinin genişləndirilməsinə xidmət etdiyini bildirib. Qeyd edib ki, məktəbəqədər təhsilin əhatəliliyinin artırılması qarşıya qoyulan əsas hədəflərdəndir və bu layihənin həyata keçirilməsi məktəbəqədər təhsilə çıxış imkanlarının genişlənməsinə müsbət təsir göstərəcək.
-Ətraflı: https://edu.gov.az/az/news-and-updates/23267-1
-#ElmvəTəhsilNazirliyi #EduGovAz #EduAz #MəktəbəqədərTəhsil
 More
 President of the Republic of Azerbaijan
 First Vice-President of the Republic of Azerbaijan
@@ -327,7 +334,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 2
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı

@@ -131,7 +131,7 @@ Missing the first deadline means your scholarship application won’t be reviewe
 TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
-Faculty specific scholarships, academic period 2026-2028
+Faculty specific scholarships, academic period 2027-2029
 Electrical Engineering, Mathematics and Computer Science
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
@@ -471,7 +471,7 @@ Contact
 Search
 Home
 We support
-Menu openen
+Menu sluiten
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -750,7 +750,7 @@ Missing the first deadline means your scholarship application won’t be reviewe
 TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
-Faculty specific scholarships, academic period 2026-2028
+Faculty specific scholarships, academic period 2027-2029
 Electrical Engineering, Mathematics and Computer Science
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
@@ -985,7 +985,7 @@ Missing the first deadline means your scholarship application won’t be reviewe
 TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
-Faculty specific scholarships, academic period 2026-2028
+Faculty specific scholarships, academic period 2027-2029
 Electrical Engineering, Mathematics and Computer Science
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
