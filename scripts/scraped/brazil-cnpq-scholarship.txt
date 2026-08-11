@@ -292,9 +292,9 @@ Fechar
 Fechar
 Fechar
 Info
-Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
-Programa tem gestão compartilhada entre CNPq, Ministério das Relações Exteriores e Capes.
-Saiba mais sobre Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
+Programa Asas para o Futuro oferece bolsas para qualificação profissional de jovens mulheres; inscrições porrogadas até 31/08
+Iniciativa é realizada por meio de parceria entre CNPq e Ministério das Mulheres; chamada é voltada a jovens mulheres de 15 a 29 anos, preferencialmente negras, indígenas, quilombolas, em situação de vulnerabilidade social e econômica.
+Saiba mais sobre Programa Asas para o Futuro oferece bolsas para qualificação profissional de jovens mulheres; inscrições porrogadas até 31/08
 Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09
 Limite de financiamento por projeto será de R$ 200 mil, em bolsas de 2.100 euros com duração de 1 a 12 meses.
 Saiba mais sobre Chamada CNPq/ERC financiará pesquisas em cooperação entre brasileiros e europeus; inscrições até 30/09
@@ -325,10 +325,10 @@ Educação e Pesquisa
 Programa de Apoio à Popularização Científica nos Estados e no DF terá inscrições até 15/08
 Propostas devem contemplar ações em eixos como iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências e comunicação pública da ciência
 02/07/2026 15h56
-Ciência e Tecnologia
-Programa Asas para o Futuro pretende qualificar profissionalmente jovens mulheres; inscrições até 10/08
-Iniciativa é realizada por meio de parceria entre CNPq e Ministério das Mulheres; chamada é voltada a jovens mulheres de 15 a 29 anos, preferencialmente negras, indígenas, quilombolas, em situação de vulnerabilidade social e econômica.
-17/06/2026 15h28
+Educação e Pesquisa
+Programa PEC-PG oferece bolsas de mestrado e doutorado para estudantes estrangeiros; instituições devem submeter propostas até 13/08
+Programa tem gestão compartilhada entre CNPq, Ministério das Relações Exteriores e Capes.
+10/07/2026 16h15
 Educação e Pesquisa
 Chamada conjunta Brasil-França para pesquisas em ciências humanas e meio ambiente divulga projetos aprovados
 03/08/2026 16h07

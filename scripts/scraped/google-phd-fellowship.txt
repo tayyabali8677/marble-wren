@@ -489,7 +489,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-402
+399
 Audio Processing
 17
 Climate and Sustainability
@@ -499,11 +499,11 @@ Compilers
 Computer Architecture
 21
 Data Management
-106
+104
 Data Mining and Modeling
 283
 Distributed Systems and Parallel Computing
-275
+272
 Economics and Electronic Commerce
 79
 Education Innovation
@@ -511,25 +511,25 @@ Education Innovation
 General Science
 151
 Hardware and Architecture
-128
+127
 Health & Bioscience
-114
+113
 Human-Computer Interaction and Visualization
-284
+285
 Information Retrieval and the Web
-185
+184
 Machine Intelligence
-1008
+1004
 Machine Learning
 191
 Machine Perception
-428
+425
 Machine Translation
-70
+67
 Mobile Systems
 86
 Natural Language Processing
-487
+484
 Networking
 135
 Operating Systems
@@ -543,12 +543,12 @@ Robotics
 Security, Privacy and Abuse Prevention
 183
 Software Engineering
-261
+262
 Software Systems
-217
+216
 Speech Processing
-159
-1 - 30 of 2203 researchers
+156
+1 - 30 of 2200 researchers
 chip template
 Remove
 Martín Abadi
@@ -584,9 +584,8 @@ Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
+Anmol Agarwal
+Natural Language Processing
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -595,8 +594,9 @@ Machine Learning
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
-Anmol Agarwal
-Natural Language Processing
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -605,19 +605,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Shreya Agrawal
 General Science
 Machine Intelligence
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,13 +651,13 @@ Information Retrieval and the Web
 Mustaq Ahmed
 Algorithms and Theory
 Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
-Zafarali Ahmed
-Machine Intelligence
 1
 2
 3
