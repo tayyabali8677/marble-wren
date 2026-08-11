@@ -1482,5 +1482,26 @@
     "country": "European Union",
     "url": "https://www.erasmus-mundus.eu",
     "note": "Applies across multiple European countries."
+  },
+  {
+    "slug": "griffith-university-vice-chancellors-international-scholarship-australia",
+    "name": "Griffith University Vice Chancellor’s International Scholarship 2026",
+    "country": "Australia",
+    "url": "https://www.griffith.edu.au/international/scholarships/vice-chancellors-international-scholarship",
+    "note": "Extracted from Youth Opportunities listing for Griffith University"
+  },
+  {
+    "slug": "eui-scholarship",
+    "name": "EUI Scholarship",
+    "country": "Netherlands",
+    "url": "https://www.nuffic.nl/en/subjects/scholarships",
+    "note": "Mentioned on the Nuffic programmes page"
+  },
+  {
+    "slug": "cultural-agreements",
+    "name": "Cultural Agreements",
+    "country": "Netherlands",
+    "url": "https://www.nuffic.nl/en/subjects/scholarships",
+    "note": "Mentioned on the Nuffic programmes page"
   }
 ]
