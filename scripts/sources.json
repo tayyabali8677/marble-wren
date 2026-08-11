@@ -1503,5 +1503,19 @@
     "country": "Netherlands",
     "url": "https://www.nuffic.nl/en/subjects/scholarships",
     "note": "Mentioned on the Nuffic programmes page"
+  },
+  {
+    "slug": "griffith-university-vice-chancellors-international-scholarship",
+    "name": "Griffith University Vice Chancellor’s International Scholarship 2026",
+    "country": "Australia",
+    "url": "https://www.griffith.edu.au/international/scholarships",
+    "note": "Extracted from Youth Opportunities listing for Australian scholarships."
+  },
+  {
+    "slug": "daad-epos-scholarship",
+    "name": "Fully Funded!!! DAAD EPOS Scholarship 2027",
+    "country": "Germany",
+    "url": "https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/",
+    "note": "Extracted from Youth Opportunities listing for German scholarships."
   }
 ]
