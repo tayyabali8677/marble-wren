@@ -14,7 +14,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Business collaboration
 Pioneering Tech
@@ -52,7 +51,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Menu openen
 Business collaboration
@@ -67,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -130,82 +128,11 @@ FAQ
 FREQUENTLY ASKED QUESTIONS
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc programme Scholarships Academic period 2026-2028
+TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
 Faculty specific scholarships, academic period 2026-2028
-Applied Sciences
-QuTech Scholarship
-Number of scholarships QuTech offers full scholarships for excellent international students interested in an MSc track in quantum or the MSc Quantum Information Science & Technology. The Scholarship covers full tuition fees for the MSc programme and contributes to the living expenses for two years.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email between mid-March and begin-Juni 2026.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form .
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Electrical Engineering, Mathematics and Computer Science
-QuTech Scholarship
-Number of scholarships QuTech offers up to 6 full scholarships. Two for each roadmap: Fault-tolerant Quantum Computing, Quantum Internet and Networked Computing, and Topological Quantum Computing.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
 Eligibility
@@ -215,7 +142,10 @@ Application deadline 1 December 2025 (23:59 CET)
 Granting
 Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses
+Extent of Scholarship
+Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
 Procedure
 ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
 1. Complete your MSc application (check the admission requirements )
@@ -278,7 +208,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Business collaboration
 Pioneering Tech
@@ -320,7 +249,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Business collaboration
 Pioneering Tech
@@ -358,7 +286,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Menu openen
 Business collaboration
@@ -373,7 +300,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -474,176 +401,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
-
-===== SOURCE PAGE: https://www.tudelft.nl/en/research/awarded-prizes-grants =====
-Awarded Prizes & Grants
-Activate high contrast
-To main content
-TU Delft homepage
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Awarded Prizes & Grants
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
-Students & Education
-Menu openen
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Menu openen
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Awarded Prizes & Grants
-Innovation & Impact
-Menu openen
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Menu openen
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Nederlands
-Activate high contrast
-Close menu
-Search
-Close search
-Grants & Grantees
-Delft University of Technology
-Research
-Awarded Prizes & Grants
-Awarded Prizes and Personal Grants
-Many TU Delft researchers enjoy national and international recognition for their leading scientific work. Their research is acknowledged through prestigious awards, appointments, and competitive research grants. TU Delft takes pride in these remarkable achievements. On this page, we highlight a selection of the national and international grants, awards, and appointments received.
-Prizes
-Personal Grants
-News
-16 July 2026
-Fifteen Veni grants for leading TU Delft researchers
-The Dutch Research Council (NWO) has awarded 15 Veni grants to TU Delft researchers across the various domains of Science (ENW), Social Sciences and Humanities (SSH) and Applied and Engineering Sciences (AES). Each researcher will receive a maximum of 320,000 euros.
-01 July 2026
-Senthil Chandrasegaran receives Comenius Fellowship grant
-Assistant Professor Senthil Chandrasegaran’s project, “Reframing AI for Design Students Using Guided Reinvention”, has been selected to receive a Comenius Teaching Fellowship grant.
-23 June 2026
-Leading ERC Advanced Grant awarded to three TU Delft researchers
-The European Research Council (ERC) has announced the winners of its latest Advanced Grants competition. TU Delft scientists Stan Brouns, Gary Steele and Fulvio Scarano receive this prestigious award of 2.5 million euros per grant. The Advanced Grant competition is one of the most prestigious and competitive funding schemes in the EU. It gives senior researchers the opportunity to pursue ambitious, curiosity-driven projects that could lead to major scientific breakthroughs. The new grants are part of the EU’s Horizon Europe programme.
-Alle nieuwsberichten
-Delft University of Technology
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-The Netherlands
-Contact and accessibility
-Disclaimer
-Privacy & Security
-Reading assistant BrowseAloud
-Vacancies
-Intranet
-Student portal
-Donate
-Press room
-TU Delft homepage
-Activate high contrast
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Business collaboration
 Pioneering Tech
@@ -875,7 +632,6 @@ Faculteiten en instituten
 Onderzoeksfaciliteiten
 PhDs
 Stories
-Gewonnen Prijzen & Beurzen
 Innovatie & Impact
 Zakelijk samenwerken
 Pioneering Tech
@@ -914,7 +670,6 @@ Faculteiten en instituten
 Onderzoeksfaciliteiten
 PhDs
 Stories
-Gewonnen Prijzen & Beurzen
 Innovatie & Impact
 Menu openen
 Zakelijk samenwerken
@@ -992,82 +747,11 @@ FAQ
 FREQUENTLY ASKED QUESTIONS
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc programme Scholarships Academic period 2026-2028
+TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
 Faculty specific scholarships, academic period 2026-2028
-Applied Sciences
-QuTech Scholarship
-Number of scholarships QuTech offers full scholarships for excellent international students interested in an MSc track in quantum or the MSc Quantum Information Science & Technology. The Scholarship covers full tuition fees for the MSc programme and contributes to the living expenses for two years.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email between mid-March and begin-Juni 2026.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form .
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Electrical Engineering, Mathematics and Computer Science
-QuTech Scholarship
-Number of scholarships QuTech offers up to 6 full scholarships. Two for each roadmap: Fault-tolerant Quantum Computing, Quantum Internet and Networked Computing, and Topological Quantum Computing.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
 Eligibility
@@ -1077,7 +761,10 @@ Application deadline 1 December 2025 (23:59 CET)
 Granting
 Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses
+Extent of Scholarship
+Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
 Procedure
 ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
 1. Complete your MSc application (check the admission requirements )
@@ -1140,7 +827,6 @@ Faculteiten en instituten
 Onderzoeksfaciliteiten
 PhDs
 Stories
-Gewonnen Prijzen & Beurzen
 Innovatie & Impact
 Zakelijk samenwerken
 Pioneering Tech
@@ -1182,7 +868,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Business collaboration
 Pioneering Tech
@@ -1220,7 +905,6 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
 Innovation & Impact
 Menu openen
 Business collaboration
@@ -1235,7 +919,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -1298,82 +982,11 @@ FAQ
 FREQUENTLY ASKED QUESTIONS
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc programme Scholarships Academic period 2026-2028
+TU Delft MSc Programme Scholarships – Academic Period 2027–2029
 Justus & Louise van Effen
 Excellence Scholarships
 Faculty specific scholarships, academic period 2026-2028
-Applied Sciences
-QuTech Scholarship
-Number of scholarships QuTech offers full scholarships for excellent international students interested in an MSc track in quantum or the MSc Quantum Information Science & Technology. The Scholarship covers full tuition fees for the MSc programme and contributes to the living expenses for two years.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email between mid-March and begin-Juni 2026.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form .
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Electrical Engineering, Mathematics and Computer Science
-QuTech Scholarship
-Number of scholarships QuTech offers up to 6 full scholarships. Two for each roadmap: Fault-tolerant Quantum Computing, Quantum Internet and Networked Computing, and Topological Quantum Computing.
-Eligibility
-Excellent international students, specifically interested in quantum technology, and (conditionally) admitted to one of the 2-year Regular TU Delft's MSc programmes:
-- Quantum Information Science and Technology (QIST)
-- Applied Physics,
-- Computer Science,
-- Electrical Engineering,
-- Computer Engineering, or
-- Embedded Systems
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor's degree. QuTech will select the candidates giving strong preference for external students and underrepresented groups in (quantum) sciences and engineering.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Students can choose a MSc project at QuTech, and when receiving a 9 (90%) or higher for their MSc thesis project, they will be offered a PhD position at QuTech.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information QuTech
 Faculty scholarship: Microelectronics
 Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
 Eligibility
@@ -1383,7 +996,10 @@ Application deadline 1 December 2025 (23:59 CET)
 Granting
 Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses
+Extent of Scholarship
+Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
 Procedure
 ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
 1. Complete your MSc application (check the admission requirements )
@@ -1446,7 +1062,227 @@ Societal challenges
 Faculties and institutes
 Research facilities
 Stories
-Awarded Prizes & Grants
+Innovation & Impact
+Business collaboration
+Pioneering Tech
+Entrepreneurship
+Project Cases
+Community
+Alumni
+Campus Life
+Events
+Social safety
+Science Centre
+About TU Delft
+Find employees
+Contact
+Locations
+Press room
+Current
+Calendar
+Library
+Jobs
+Organisation
+Strategy
+University Fund
+Search
+
+===== SOURCE PAGE: https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships =====
+Justus & Louise van Effen Excellence Scholarships
+Activate high contrast
+To main content
+TU Delft homepage
+Students & Education
+Programmes
+Admission and Application
+Study Programme Orientation
+Student portal
+Lifelong Learning
+Research
+Societal challenges
+Faculties and institutes
+Research facilities
+Stories
+Innovation & Impact
+Business collaboration
+Pioneering Tech
+Entrepreneurship
+Project Cases
+Community
+Alumni
+Campus Life
+Events
+Social safety
+Science Centre
+About TU Delft
+Find employees
+Contact
+Locations
+Press room
+Current
+Calendar
+Library
+Jobs
+Organisation
+Strategy
+University Fund
+Search
+Students & Education
+Menu openen
+Programmes
+Admission and Application
+Study Programme Orientation
+Student portal
+Lifelong Learning
+Research
+Menu openen
+Societal challenges
+Faculties and institutes
+Research facilities
+Stories
+Innovation & Impact
+Menu openen
+Business collaboration
+Pioneering Tech
+Entrepreneurship
+Project Cases
+Community
+Menu openen
+Alumni
+Campus Life
+Events
+Social safety
+Science Centre
+About TU Delft
+Menu sluiten
+Find employees
+Contact
+Locations
+Press room
+Current
+Calendar
+Library
+Jobs
+Organisation
+Strategy
+University Fund
+facebook
+instagram
+youtube
+linkedin
+whatsapp
+whatsapp
+Nederlands
+Activate high contrast
+Close menu
+Search
+Close search
+Delft University of Technology
+Students & Education
+Study Programme Orientation
+Practical matters
+Scholarships
+Justus & Louise van Effen Excellence Scholarships
+Open menu
+Admission Letter received: What’s next?
+Tuition Fee & Finances
+Scholarships
+Justus & Louise van Effen Excellence Scholarships
+Scholarships from other providers
+FAQ
+Housing
+Visa & Residence Permit
+Insurance and healthcare
+Guidance
+Introduction period
+Associations
+Preparation: Courses and Summer School
+City of Delft
+Elite sports and study
+Justus & Louise van Effen Excellence Scholarships
+At TU Delft a number of scholarships are available for excellent international applicants. Justus & Louise Van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues.
+The Foundation Justus & Louise van Effen was established with the aim of stimulating excellent international MSc students and financially supporting them in their wish to study at TU Delft.
+Number of scholarships 2 per faculty
+Eligibility
+You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
+You are not eligible for the Justus & Louise van Effen Excellence Scholarships if:
+You are a TU Delft bachelor’s student (even if you are an international student).
+You are an international student applying for a TU Delft MSc programme who has obtained their bachelor's degree at a Dutch University.
+You have already started your MSc studies at TU Delft (the scholarship is only for new, incoming students).
+Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
+You have submitted a complete MSc application before the scholarship deadline.
+Application deadline 1 December 2026 (23:59 CET)
+Granting
+Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+Receiving the scholarship is conditional on the student fulfilling all admission criteria.
+Extent of Scholarship
+Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
+Procedure
+ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
+1. Complete your MSc application (check the admission requirements)
+2. Upload the Scholarship Application Form
+3. Upload two reference letters
+o You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirement .
+And/or
+o You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
+o You can combine both procedures. E.g. 1 upload and 1 referee request.
+o Reference letters will not be considered if you have already submitted your application.
+o Reference letters will not be accepted after the Scholarship deadline.
+4. Upload the English language certificate
+Please note that all applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application (if required).
+PLEASE NOTE
+All documents required for the scholarship must be submitted together with the MSc Application. After submission no additional documents can be uploaded.
+Student Story
+Ömer Taha Döver (24) is a master’s student at TU Delft, the Netherlands where he is pursuing a degree in Strategic Product Design. Originally from Istanbul, Turkey, he was awarded the Justus and Louise van Effen Excellence Scholarship by the Justus and Louise van Effen Foundation. Before embarking on his graduate studies, Ömer earned a Bachelor's degree from Istanbul Technical University and gained valuable experience working as a strategist in purpose-driven innovation for a year. He also completed an exchange program at TU Delft during his undergraduate studies, which sparked his passion for design and innovation. Ömer's design work has been recognized with numerous awards & accolades, and has been featured in exhibitions by leading organizations in the design and innovation fields. He is committed to using his skills and knowledge to make a positive impact on society and create a sustainable future.
+Click here to view his testimonial.
+Student Story
+Berkay Onur Türk (he/him/his) is an alumnus of TU Delft's Technology, Policy and Management faculty. Born in Turkey in 1997, Berkay received a full scholarship based on merit to pursue his high school studies at American Collegiate Institute (ACI) in his home country. He subsequently pursued a bachelor's degree in Industrial Engineering, with a minor in Economics, at Boğaziçi University in Istanbul. During his undergraduate studies in 2019, Berkay spent six months as an exchange student at Eindhoven University of Technology in the Netherlands. Berkay returned to the Netherlands in 2020 as a recipient of Justus and Louise van Effen Excellence Scholarship, which allowed him to pursue his master’s studies at TU Delft. While completing his master's degree in Complex Systems Engineering and Management, Berkay also worked as a student assistant at the faculty of Technology, Policy and Management. In addition, he was elected as a member of the Faculty Student Council (FSC) in his second year of studies. Upon graduating cum laude from the master's program, Berkay embarked on his career as a strategy consultant. However, his passion for advancing the impact of education on society led him to take on a new challenge as a Project Manager at Eindhoven University of Technology.
+Click here to view his testimonial.
+Student Story
+Mythili is currently studying in the department of Mechanical Engineering at TU Delft. She completed her undergraduate degree in Mechanical engineering in India, and went on to complete an MSc in Acoustical engineering at the University of Southampton, UK. Having developed an interest in biomechanics through her master’s project which involved cochlear mechanics, she worked as a researcher in the same area for a few years in India. Mythili is keen on continuing a career in research and was awarded the Justus and Louise van Effen excellence scholarship in 2022 to study Biomedical engineering at TU Delft.
+Click here to view her testimonial.
+Student Story
+Adalberto de Paula , hailing from Brazil and born in 1992, is an alumnus of TU Delft Faculty of Architecture & the Built Environment. His remarkable accomplishments during his bachelor's studies at the Federal University of Mato Grosso do Sul led him to earn the Justus and Louise van Effen Excellence Scholarship. This achievement came after gaining four years of professional experience as an Architect in São Paulo. Throughout his undergraduate journey, he secured two additional scholarships that provided him with the opportunity to partake in architectural exchange programs at the University of Wisconsin Milwaukee, the University of New Mexico, and the Federal University of Rio Grande do Sul. For his TU Delft master's degree in Building Technology, Adalberto delved into researching automated strategies for computational design and digital fabrication. This research aimed to facilitate the advancement of robotic construction methods for discrete timber components used in housing. Adalberto's design prowess has garnered him award nominations and acknowledgments while has been prominently featured in exhibitions at innovation-focused events associated with TU Delft. Upon completing his education, Adalberto is committed to leveraging his expertise to drive positive, circular impacts on society and contribute significantly to the establishment of a sustainable future.
+Click here to view his testimonial.
+Share this page:
+Facebook
+Linkedin
+Twitter
+Email
+WhatsApp
+Share this page
+Delft University of Technology
+facebook
+instagram
+youtube
+linkedin
+whatsapp
+whatsapp
+Postbus 5
+2600 AA Delft
+The Netherlands
+Contact and accessibility
+Disclaimer
+Privacy & Security
+Reading assistant BrowseAloud
+Vacancies
+Intranet
+Student portal
+Donate
+Press room
+TU Delft homepage
+Activate high contrast
+Students & Education
+Programmes
+Admission and Application
+Study Programme Orientation
+Student portal
+Lifelong Learning
+Research
+Societal challenges
+Faculties and institutes
+Research facilities
+Stories
 Innovation & Impact
 Business collaboration
 Pioneering Tech
