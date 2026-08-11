@@ -62,8 +62,8 @@ Apply
 Subscribe to
 Language
 Boren Scholars and Fellows study a wide range of critical languages , including Arabic, Mandarin Chinese, Portuguese, Russian, and Swahili. Boren Awards are available to students of all proficiency levels who are committed to enhancing their skills.
-Culture
-Boren Scholars and Fellows from diverse fields of study immerse themselves in the cultures in world regions underrepresented in study abroad, including Africa, Asia, Eurasia, Latin America, and the Middle East.
+Region
+Boren Scholars and Fellows from diverse fields of study immerse themselves in world regions underrepresented in study abroad, including Africa, Asia, Eurasia, Latin America, and the Middle East.
 Service
 Boren Awards alumni are committed to public service , working in positions critical to U.S. national security throughout the Federal Government, including the Departments of State, War, and Homeland Security.
 Programs
@@ -661,11 +661,9 @@ Boren Scholarships Award Amounts:
 25-52 weeks overseas: $25,000
 Boren Fellowships Award Amounts:
 12-24 weeks overseas: $12,500
-Summer domestic + 12-24 weeks overseas: $17,500
 25-52 weeks overseas: $25,000
-Summer domestic + 25-52 weeks overseas: $30,000
 RFLI (Regional Flagship Language Initiatives) Award Amounts:
-RFLI Scholars & Fellows (AFLI, SEAFLI):
+RFLI Scholars & Fellows:
 Approved summer domestic cost PLUS
 $12,500 for 12-24 weeks overseas or
 $25,000 for 25-52 weeks overseas
