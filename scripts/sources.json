@@ -1524,5 +1524,12 @@
     "country": "Germany",
     "url": "https://www.daad.de",
     "note": "Check DAAD website for participating graduate schools."
+  },
+  {
+    "slug": "mexican-agency-for-international-development-cooperation-projects",
+    "name": "Mexican Agency for International Development Cooperation (AMEXCID) Call for Projects",
+    "country": "Mexico",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Mentioned in the features section for Canadian Indigenous Academic Groups, funded by the Government of Mexico."
   }
 ]
