@@ -25,7 +25,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
@@ -89,9 +88,8 @@ Watch our introductory webinar to learn the basics of the Boren Awards applicati
 Review the official selection criteria .
 STEP 3 - CHOOSE A PROGRAM
 Apply for a Regional Flagship Language Initiative
-Regional Flagship Language Initiatives offer Boren Scholars and Boren Fellows carefully-selected, credit-bearing language courses during the summer (domestic) and fall (overseas), with the option to continue overseas study into the spring:
+Regional Flagship Language Initiative offers Boren Scholars and Boren Fellows carefully-selected, credit-bearing language courses during the summer (domestic) and fall (overseas), with the option to continue overseas study into the spring:
 The African Flagship Languages Initiative (AFLI) for the study of French , Swahili , Akan/Twi , Wolof , or Zulu
-The Southeast Asian Flagship Languages Initiative (SEAFLI) for the study of Indonesian, Thai, Vietnamese
 -OR-
 Select/Design Your Own Study Program
 STEP 4 - REFLECT ON PROFESSIONAL GOALS
@@ -152,7 +150,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
@@ -241,7 +238,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
@@ -278,9 +274,8 @@ Selecting an Eligible Study Program
 Apply
 The Boren Awards fund the intensive study of language and culture abroad by U.S. undergraduate or graduate students. All eligible applicants have the option to either apply for a Regional Flagship Language Initiative or select/design their own study program.
 Apply for a Regional Flagship Language Initiative
-Boren Awards Regional Flagship Language Initiatives offer undergraduate Boren Scholars and graduate Boren Fellows carefully-selected, credit-bearing language courses during the summer (domestic) and fall (overseas), with the option to continue overseas study into the spring. In 2027, the Regional Flagship Language Initiatives include:
+Boren Awards Regional Flagship Language Initiative offers undergraduate Boren Scholars and graduate Boren Fellows carefully-selected, credit-bearing language courses during the summer (domestic) and fall (overseas), with the option to continue overseas study into the spring.
 The African Flagship Languages Initiative (AFLI) for the study of French , Swahili , Akan/Twi , Wolof , or Zulu
-The Southeast Asian Flagship Language Initiative (SEAFLI) for the study of Indonesian, Thai, and Vietnamese
 -OR-
 Select/Design Your Own Study Program -- See Below
 Contents
@@ -292,7 +287,6 @@ Budget Guidelines
 Preferred Overseas Destinations
 Field of Study
 Graduate-Level Research & Study ( Boren Fellows Only)
-Summer Domestic Option ( Boren Fellows Only)
 NOTE Regarding Proposed Overseas Plans
 Basic Eligibility Requirements
 The majority of eligible students will apply for Boren Awards to fund overseas language study programs that they have identified themselves. Program design guidelines differ slightly where noted for undergraduate Boren Scholars and graduate Boren Fellows .
@@ -364,7 +358,7 @@ Boren Awards Preferred Languages
 · Hebrew
 · Hindi
 · Hungarian
-· Indonesian - SEAFLI *
+· Indonesian
 · Japanese
 · Javanese
 · Kannada
@@ -396,18 +390,18 @@ Boren Awards Preferred Languages
 · Tajik
 · Tamil
 · Telegu
-· Thai - SEAFLI *
+· Thai
 · Turkmen
 · Turkish
 · Uighur
 · Ukrainian
 · Urdu
 · Uzbek
-· Vietnamese - SEAFLI *
+· Vietnamese
 · Wolof - AFLI *
 · Yoruba
 · Zulu - AFLI *
-*Boren Awards funding for these languages is also available outside of AFLI and SEAFLI.
+*Boren Awards funding for these languages is also available outside of AFLI.
 **All languages indigenous to preferred overseas destinations in Africa are preferred languages for the Boren Awards
 ǂ Special Note on French and Spanish
 French is a preferred language only through the African Flagship Languages Initiative , which is appropriate for students at the intermediate-high (ILR 1+ in Speaking) or greater proficiency level in French. For all other applicants, study of French is only permissible for advanced speakers (ILR 2 or greater in Speaking) of the language, or at the intermediate level (ILR 1 or greater in Speaking) if enrolled in a STEM field.
@@ -560,14 +554,6 @@ Research: Boren Fellows are encouraged to conduct research related to graduate t
 Boren Fellows with sufficiently advanced skills in the target language may be able to conduct any of the above activities in that language. They are also encouraged to supplement those activities with language courses or tutoring. If advanced language immersion or supplemental tutoring are part of the proposed program, applicants should make this explicit in the study program description .
 Applicants proposing internships, other classroom study, or research are strongly advised to secure letters of affiliation from overseas host institutions or faculty and attach them to their applications.
 All elements of the proposed program -- language study, internships, other classroom study, or research -- should be tied to U.S. national security and public service in the application essays.
-Summer Domestic Option (Independent Boren Fellows Only)
-The Boren Fellowships offer $5,000 for in-person, summer intensive language study. If requested, the maximum total combined domestic and overseas award amount is $30,000. Domestic study is entirely optional , but may be useful preparation for Boren Fellows whose overseas program requires that they arrive at their overseas destination with strong language skills.
-Domestic funding is limited to the summer immediately before the applicant’s proposed program overseas . Therefore, in order to be eligible for domestic funding, the applicant must have an overseas program that starts no later than September 30 . Additional rules for domestic study include:
-Boren Fellows may receive domestic funding for study at their own institution or other U.S. academic institutions.
-Domestic funding must be for the primary language the applicant plans to study while overseas.
-Domestic funding for tutors, commercial services, and/or self-study guides will not be provided.
-Domestic funding is for in-person language classes only. Boren will not fund virtual programs nor other academic coursework, internships, or research conducted in the United States.
-Applicants planning on taking language classes at their home university or in their local area are eligible to utilize funding for tuition and fees only. Applicants planning domestic summer intensive language study in a different geographic area will also be eligible for room and board funding. The Boren Fellowship does not cover travel or relocation expenses associated with domestic funding.
 NOTE Regarding Proposed Overseas Plans
 You may adjust the program(s) indicated on your application at any time, as long as your adjusted program is for the same language in the same country that you originally proposed. It must also be of roughly the same language acquisition intensity (i.e. you cannot propose a program with 30 weekly contact hours of language acquisition and then change it to a program with only 15 weekly contact hours of language acquisition.
 If selected for a Boren Scholarship, all overseas program proposals will be reviewed and approved by your Boren Program Advisor to ensure that the program meets Boren Award requirements and is in compliance with Executive Orders . You may be asked to adjust your overseas plans to ensure you are meeting all requirements for Boren funding. This includes the number of weekly language hours, internship(s) and/or research performed during your Boren funded overseas program.
@@ -616,7 +602,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
@@ -748,7 +733,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
@@ -837,7 +821,6 @@ Fields of Study
 Award Types
 Self-Identified Programs
 African Flagship Languages Initiative
-Southeast Asian Languages Initiative
 The Language Flagship
 Master of Professional Studies in Persian
 Boren for ROTC
