@@ -1517,5 +1517,12 @@
     "country": "Germany",
     "url": "https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/",
     "note": "Extracted from Youth Opportunities listing for German scholarships."
+  },
+  {
+    "slug": "daad-gssp-germany",
+    "name": "DAAD Graduate School Scholarship (GSSP)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Check DAAD website for participating graduate schools."
   }
 ]
