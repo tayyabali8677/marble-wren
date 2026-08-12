@@ -210,7 +210,7 @@ Not all courses are available in all regions listed.
 02
 Eligibility
 To be eligible for a Thematic Short Term Training Scholarship, you must be a citizen from:
-Pacific: Cook Islands, Federated States of Micronesia, Fiji, Frensh Pacific Territories (French Polynesia, New Caledonia, Wallis and Futuna), Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Timor-Leste, Tokelau, Tuvalu, Vanuatu.
+Pacific: Cook Islands, Federated States of Micronesia, Fiji, Frensh Pacific Territories (French Polynesia, New Caledonia, Wallis and Futuna), Kiribati, Marshall Islands, Naoero, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Timor-Leste, Tokelau, Tuvalu, Vanuatu.
 ASEAN: Brunei, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Viet Nam.
 Africa: Ethiopia, Ghana, Kenya, Nigeria, Rwanda, Egypt, Tunisia, Algeria, Botswana, Lesotho, Malawi, Mauritius, Namibia, South Africa, Tanzania, Zambia, Zimbabwe.
 Latin America and Caribbean: Argentina, Belize, Brazil, Colombia, Costa Rica, Cuba, Dominica, Ecuador, El Salvador, Grenada, Guatemala, Guyuna, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Venezuela.
@@ -301,7 +301,7 @@ NB: Not all courses are open to all countries
 To apply you must meet all eligibility criteria
 To apply for a Vocational Short Term Training Scholarship, applicants must;
 Be a citizen of one of the following countries or territories:
-Federated States of Micronesia, Fiji, French Polynesia, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Timor-Leste, Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna.
+Federated States of Micronesia, Fiji, French Polynesia, Kiribati, Marshall Islands, Naoero, New Caledonia, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Timor-Leste, Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna.
 Have lived in their country of citizenship for at least two years or more.
 Exception for diplomatic corps and their family: A member of the diplomatic corps or a dependent of a member of the diplomatic corps, living outside their own country, can apply for a scholarship.
 Not be a citizen or permanent resident of any of the following countries:

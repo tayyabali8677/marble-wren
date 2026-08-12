@@ -126,13 +126,13 @@ Selection base: Academic merit
 Open for applications Requires application
 A Start in Life
 Number offered: 60
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 ACSPRI Fellowship Program
 Open for applications Requires application
 ACTION Trust Honours Scholarship
 Number offered: 2
 Selection base: Academic merit
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
 Open for applications Requires application
 Alan and Helen Ross Forestry Education Scholarship
@@ -431,13 +431,13 @@ Selection base: Academic merit
 Open for applications Requires application
 A Start in Life
 Number offered: 60
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 ACSPRI Fellowship Program
 Open for applications Requires application
 ACTION Trust Honours Scholarship
 Number offered: 2
 Selection base: Academic merit
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
 Open for applications Requires application
 Alan and Helen Ross Forestry Education Scholarship
@@ -593,10 +593,10 @@ Alexander McTaggart Honours Scholarship
 Number offered: 1
 Value: $10,000 per annum.
 Selection base: Academic merit
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 American Australian Association Arts Fund
 Selection base: Academic merit, Financial hardship, Indigenous
-Open for applications Requires application
+Open for applications Requires application EXTERNAL SCHOLARSHIP
 American Australian Association Graduate Education Fund
 Selection base: Academic merit, Financial hardship, Indigenous
 Open for applications Requires application
