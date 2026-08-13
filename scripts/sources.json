@@ -1531,5 +1531,12 @@
     "country": "Mexico",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Mentioned in the features section for Canadian Indigenous Academic Groups, funded by the Government of Mexico."
+  },
+  {
+    "slug": "belgium-ares-scholarship",
+    "name": "Belgium Government ARES Scholarship 2027-28 for International Students",
+    "country": "Belgium",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is derived from the aggregator since no direct official link was embedded in the text."
   }
 ]
