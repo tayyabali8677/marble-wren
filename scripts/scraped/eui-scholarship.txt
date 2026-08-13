@@ -779,6 +779,7 @@ Uitwisseling in het voortgezet onderwijs
 Lesmateriaal voortgezet onderwijs
 Docent aan het woord (vo)
 Europees Talenlabel
+Global Education Week
 Het programma Erasmus+
 Regio-adviseurs voor het voortgezet onderwijs: jouw contact in de buurt
 Uitwisseling of talenreis organiseren
@@ -875,7 +876,6 @@ Algemene voorwaarden
 Algemene voorwaarden
 Copyright
 Toegankelijkheidsverklaring
-Disclaimer
 Gedragscode integriteit
 Integriteitsbeleid
 Privacyverklaring Stichting Nuffic
@@ -919,6 +919,7 @@ Uitwisseling in het voortgezet onderwijs
 Lesmateriaal voortgezet onderwijs
 Docent aan het woord (vo)
 Europees Talenlabel
+Global Education Week
 Het programma Erasmus+
 Regio-adviseurs voor het voortgezet onderwijs: jouw contact in de buurt
 Uitwisseling of talenreis organiseren
@@ -1026,7 +1027,6 @@ Over Nuffic
 Algemene voorwaarden
 Copyright
 Toegankelijkheidsverklaring
-Disclaimer
 Gedragscode integriteit
 Integriteitsbeleid
 Privacyverklaring Stichting Nuffic
@@ -1344,6 +1344,7 @@ Uitwisseling in het voortgezet onderwijs
 Lesmateriaal voortgezet onderwijs
 Docent aan het woord (vo)
 Europees Talenlabel
+Global Education Week
 Het programma Erasmus+
 Regio-adviseurs voor het voortgezet onderwijs: jouw contact in de buurt
 Uitwisseling of talenreis organiseren
@@ -1440,7 +1441,6 @@ Algemene voorwaarden
 Algemene voorwaarden
 Copyright
 Toegankelijkheidsverklaring
-Disclaimer
 Gedragscode integriteit
 Integriteitsbeleid
 Privacyverklaring Stichting Nuffic
@@ -1484,6 +1484,7 @@ Uitwisseling in het voortgezet onderwijs
 Lesmateriaal voortgezet onderwijs
 Docent aan het woord (vo)
 Europees Talenlabel
+Global Education Week
 Het programma Erasmus+
 Regio-adviseurs voor het voortgezet onderwijs: jouw contact in de buurt
 Uitwisseling of talenreis organiseren
@@ -1591,7 +1592,6 @@ Over Nuffic
 Algemene voorwaarden
 Copyright
 Toegankelijkheidsverklaring
-Disclaimer
 Gedragscode integriteit
 Integriteitsbeleid
 Privacyverklaring Stichting Nuffic
