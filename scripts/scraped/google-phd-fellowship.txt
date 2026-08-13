@@ -616,16 +616,16 @@ Distributed Systems and Parallel Computing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
-Priyanka Agrawal
+Shreya Agrawal
+General Science
 Machine Intelligence
-Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
+Priyanka Agrawal
 Machine Intelligence
+Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,6 +651,13 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Zafarali Ahmed
+Machine Intelligence
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
 Mustaq Ahmed
 Algorithms and Theory
 Networking
@@ -658,13 +665,6 @@ Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
-+2 more
-Zafarali Ahmed
-Machine Intelligence
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
 +2 more
 1
 2
