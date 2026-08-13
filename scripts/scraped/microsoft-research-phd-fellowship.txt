@@ -197,7 +197,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 0c34c12916f8226de39d73d4075cbc19
+This is the Trace Id: 85761918ff158bcd4b8dc004da3b61d4
 Skip to main content
 Education
 Azure for education
@@ -401,7 +401,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98 =====
 ISV Success | Software Development Companies
-This is the Trace Id: 8a8a4af32f184ab45925b28c3c873c09
+This is the Trace Id: d785da1acaf78505c5263d7345107d17
 Skip to main content
 Software Development Companies
 Develop your solution
@@ -422,7 +422,8 @@ Monetize and grow apps & agents
 Knowledge Center
 Events
 View all resources
-Innovate rapidly with ISV Success</h1> ">
+Innovate rapidly with ISV Success</h1>
+">
 Innovate rapidly with ISV Success
 Take your software development company to the next level with ISV Success. Build and publish applications and agents faster with powerful AI developer tools, consultations, and technical guidance—then grow your sales through Microsoft Marketplace.
 Join now
@@ -433,10 +434,13 @@ What’s included
 Success stories
 Related offers
 FAQ
-Join now Sign in
-Join now Sign in
+Join now
+Sign in
+Join now
+Sign in
 Benefits
-Accelerate development—and your business—with Microsoft</h2> ">
+Accelerate development—and your business—with Microsoft</h2>
+">
 Accelerate development—and your business—with Microsoft
 Turn software into sales
 Collaborate with Microsoft sellers and more than 500,000 partners to expand your reach and accelerate deal opportunities through Microsoft Marketplace.
@@ -451,7 +455,8 @@ Get 1:1 support from experts and 24/7 access to the Azure Support Plan, includin
 Learn from fellow innovators
 Connect with software development communities to ask questions and learn from other builders.
 Eligibility
-Are you eligible for benefits?</h2> ">
+Are you eligible for benefits?</h2>
+">
 Are you eligible for benefits?
 To participate in ISV Success partner companies must:
 Have an application or agent in development.
@@ -459,20 +464,25 @@ Give the app or agent a business-to-business (B2B) focus.
 Intend to publish the app or agent to Marketplace.
 Join Microsoft AI Cloud Partner Program.
 What’s included
-Exclusive rewards for software companies</h2> ">
+Exclusive rewards for software companies</h2>
+">
 Exclusive rewards for software companies
 Enroll now
-Included</h3> ">
+Included</h3>
+">
 Included
-Core package</h3> ">
+Core package</h3>
+">
 Core package
 $126,000 (USD) value for the first year [1]
 All partners gain access to this package upon joining ISV Success to publish an application to Marketplace.
-Expanded package</h3> ">
+Expanded package</h3>
+">
 Expanded package
 $151,000 (USD) value for the first year [2]
 Based on prior performance and a desire to transact on Marketplace, partners can receive invitations for these additional benefits.
-Advanced package</h3> ">
+Advanced package</h3>
+">
 Advanced package
 $176,000 (USD) value for the first year [3]
 Based on Certified Software Designation (CSD) status, partners get access to this package upon enrolling in ISV Success.
@@ -523,9 +533,11 @@ Business enablement
 Webinars and workshops
 Cash incentives
 $150,000 (USD)
-Previous Slide Next Slide
+Previous Slide
+Next Slide
 Success stories
-Businesses accelerate their success by partnering with Microsoft</h2> ">
+Businesses accelerate their success by partnering with Microsoft</h2>
+">
 Businesses accelerate their success by partnering with Microsoft
 Learn how software companies use exclusive offerings to innovate without having extensive AI expertise or increasing operational costs.
 Previous Slide
@@ -537,21 +549,28 @@ Year-over-year sales growth on Marketplace
 ~70 meetings per week
 With Microsoft Data & AI Specialists
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Azure</h4> ">
+Azure</h4>
+">
 Azure
-Read their story Watch now
+Read their story
+Watch now
 “The deal flow is raising Softools’s profile across Microsoft in a crowded marketplace …, and we anticipate new business through this engagement.”
 Vipul Lakhani, Chief Commercial Officer
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Azure</h4> ">
+Azure</h4>
+">
 Azure
 Read their story
 “[We grew] into a collaborative work management solution provider entirely within [Microsoft] Teams … in 50 different international markets.”
@@ -559,11 +578,14 @@ Ross Mardell, Technical Director
 <6 weeks
 Transactable app published on Marketplace
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Azure</h4> ">
+Azure</h4>
+">
 Azure
 Read their story
 “The ongoing accessibility and support [from ISV Success] has been a game changer for us.”
@@ -573,11 +595,14 @@ Platformed on Azure
 >1,000
 Trial downloads from Marketplace
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Azure</h4> ">
+Azure</h4>
+">
 Azure
 Read their story
 &#34;Microsoft is the only cloud provider that understands [our] struggles to create, publish, promote, and scale our products in [Microsoft] Marketplace.”
@@ -587,26 +612,33 @@ Year-over-year growth
 >10 million
 Continuous hours of zero interruptions
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Marketplace Rewards</h4> ">
+Marketplace Rewards</h4>
+">
 Marketplace Rewards
 Read their story
 “Signly chose Microsoft Azure because of its diversity, inclusion, and accessibility. It’s important that we empower people in their communication needs.”
 Tim Scannell, Ambassador
 Products and services
-ISV Success</h4> ">
+ISV Success</h4>
+">
 ISV Success
-Microsoft Marketplace</h4> ">
+Microsoft Marketplace</h4>
+">
 Microsoft Marketplace
-Azure</h4> ">
+Azure</h4>
+">
 Azure
 Read their story
 Back to CUSTOMER STORIES section
 Related offers
-Other ways to elevate your software success</h2> ">
+Other ways to elevate your software success</h2>
+">
 Other ways to elevate your software success
 Discover how Microsoft helps software startups and companies build momentum, lead with innovation, and accelerate success, regardless of the business stage they’re in.
 Related Offers
@@ -614,7 +646,8 @@ Related Offers
 Try Azure for free
 Marketplace Rewards
 Microsoft for Startups
-Build your first agent and AI app, fast</h3> ">
+Build your first agent and AI app, fast</h3>
+">
 Free Azure Trial
 Build your first agent and AI app, fast
 Spin up your project in minutes with a ready-to-code environment that’s fully customizable and works seamlessly with Visual Studio Code and GitHub.
@@ -622,22 +655,27 @@ Free credits included to get your proof of concept off the ground.
 Azure templates help you develop your app so that best practices are built in.
 Integrated tools let you build your way, whether you're prototyping or scaling.
 Try Azure for free
-Tap into benefits no matter how you choose to publish</h3> ">
+Tap into benefits no matter how you choose to publish</h3>
+">
 Earn more through Marketplace
 Tap into benefits no matter how you choose to publish
 Access a suite of powerful benefits to help grow and scale your solution through Microsoft Marketplace.
 Earn Azure credits to help close deals and boost your Marketplace performance.
 Get personalized marketplace listing optimization and featured placement in Microsoft Marketplace.
 Engage with Microsoft sellers and receive promotions through the Microsoft blog and social media accounts.
-Activate now Learn more
-Build boldly with AI-ready startup guidance</h3> ">
+Activate now
+Learn more
+Build boldly with AI-ready startup guidance</h3>
+">
 Build and scale your startup
 Build boldly with AI-ready startup guidance
 Microsoft for Startups helps founders build intelligent apps and agents with free Azure credits, AI tools, and go-to-market resources.
 Free Azure credits to help you get started building quickly.
 Access AI tools for software development startups.
 Get resources to help your startup build fast, scale smart, sell more.
-Get started Learn more Back to tabs
+Get started
+Learn more
+Back to tabs
 FAQ
 Frequently asked questions
 Expand all
@@ -674,7 +712,8 @@ Does ISV Success support professional services?
 ISV Success supports software development companies that offer transactable professional services only if the service is attached to a transactable app owned by the same software company. Publishing a professional service alone does not qualify for enrollment or renewal.
 For Marketplace Rewards, Marketplace Billed Sales (MBS) from professional services will not count towards the MBS tier. Only MBS from transactable apps will unlock Marketplace Rewards benefits.
 Learn more
-Continue your journey</h2> ">
+Continue your journey</h2>
+">
 Continue your journey
 Not sure where to start?
 Get personalized resources and step-by-step guidance from app advisor.
