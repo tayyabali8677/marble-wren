@@ -1538,5 +1538,26 @@
     "country": "Belgium",
     "url": "https://brightscholarship.com/",
     "note": "URL is derived from the aggregator since no direct official link was embedded in the text."
+  },
+  {
+    "slug": "fao-young-professionals-program",
+    "name": "FAO Young Professionals Program 2026",
+    "country": "International",
+    "url": "https://www.fao.org/employment/young-professionals-programme/en/",
+    "note": "Major international organization program from the Food and Agriculture Organization."
+  },
+  {
+    "slug": "ohchr-indigenous-fellowship",
+    "name": "OHCHR Indigenous Fellowship 2027",
+    "country": "Switzerland",
+    "url": "https://www.ohchr.org/en/indigenous-peoples/indigenous-fellowship-programme",
+    "note": "UN human rights fellowship program based in Switzerland."
+  },
+  {
+    "slug": "mitacs-globalink-research-internship",
+    "name": "Mitacs Globalink Research Internship (GRI) 2027",
+    "country": "Canada",
+    "url": "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship",
+    "note": "Government-backed research internship program in Canada for international undergraduates."
   }
 ]
