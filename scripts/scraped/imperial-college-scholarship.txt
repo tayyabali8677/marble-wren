@@ -24,6 +24,7 @@ Skip to section navigation
 Global site navigation
 Study
 Course search
+Subjects
 Apply
 Fees and funding
 Student life
@@ -54,6 +55,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -1831,7 +1833,7 @@ Home, Full time
 Academic year
 2026/2027
 Application deadline
-03/08/2026 Closed
+16/08/2026
 Undergraduate
 Mercedes-AMG PETRONAS Scholarship
 Award value
@@ -2120,7 +2122,7 @@ Home, Overseas, Full time
 Academic year
 2026/2027
 Application deadline
-14/08/2026
+14/08/2026 Closed
 Postgraduate doctoral
 PhD Studentship in Health Analytics and Modelling
 Award value
@@ -2933,7 +2935,7 @@ Application deadline
 No matching results
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services
@@ -3004,6 +3006,7 @@ Skip to section navigation
 Global site navigation
 Study
 Course search
+Subjects
 Apply
 Fees and funding
 Student life
@@ -3034,6 +3037,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -3332,9 +3336,9 @@ How to apply for undergraduate study
 How to apply for postgraduate taught (Master's) study
 How to apply for doctoral study
 Are you an Imperial offer holder?
-Important: Changes to UK Student visas for some nationalities
-The UK Government has introduced a new &ldquo;visa emergency brake&rdquo; affecting Student visas for nationals of Afghanistan, Cameroon, Myanmar and Sudan from 26 March 2026.
-Read more
+Got your A-level results?
+Check our guidance to find out what happens next
+Exam results next steps
 We are a global top 10 university in London
 View our league table rankings
 Ranked No. 2 in the World
@@ -3435,7 +3439,7 @@ Request information
 Pause motion
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services
@@ -3506,6 +3510,7 @@ Skip to section navigation
 Global site navigation
 Study
 Course search
+Subjects
 Apply
 Fees and funding
 Student life
@@ -3536,6 +3541,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -3889,7 +3895,7 @@ Contact us
 Pause motion
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services

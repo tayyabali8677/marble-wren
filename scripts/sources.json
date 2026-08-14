@@ -1016,7 +1016,7 @@
     },
     {
         "slug":  "daad-helmut-schmidt-scholarship-germany",
-        "name":  "DAAD Helmut-Schmidt-Programme MasterÃ¢â‚¬â„¢s Scholarships",
+        "name":  "DAAD Helmut-Schmidt-Programme Masterâ€™s Scholarships",
         "country":  "Germany",
         "url":  "https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/",
         "note":  "Official DAAD program for public policy and good governance."
@@ -1072,14 +1072,14 @@
     },
     {
         "slug":  "daad-study-scholarships-masters",
-        "name":  "Study Scholarships Ã¢â‚¬â€œ Master Studies for All Academic Disciplines",
+        "name":  "Study Scholarships â€“ Master Studies for All Academic Disciplines",
         "country":  "Germany",
         "url":  "https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/study-scholarships-master-studies-for-all-academic-disciplines/",
         "note":  "General DAAD scholarship for international graduates."
     },
     {
         "slug":  "daad-research-grants-doctoral",
-        "name":  "Research Grants Ã¢â‚¬â€œ Doctoral Programmes in Germany",
+        "name":  "Research Grants â€“ Doctoral Programmes in Germany",
         "country":  "Germany",
         "url":  "https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/research-grants-doctoral-programmes-in-germany/",
         "note":  "Targeted at doctoral candidates and young academics."
@@ -1163,14 +1163,14 @@
     },
     {
         "slug":  "daad-helmut-schmidt-programme",
-        "name":  "Helmut-Schmidt-Programme (MasterÃ¢â‚¬â„¢s Scholarships for Public Policy and Good Governance)",
+        "name":  "Helmut-Schmidt-Programme (Masterâ€™s Scholarships for Public Policy and Good Governance)",
         "country":  "Germany",
         "url":  "https://www.daad.de/en/study-and-research-in-germany/scholarships/detail/helmut-schmidt-programme/",
         "note":  "Specifically for graduates from developing countries."
     },
     {
         "slug":  "daad-helmut-schmidt-scholarship",
-        "name":  "DAAD Helmut-Schmidt-Programme MasterÃ¢â‚¬â„¢s Scholarships",
+        "name":  "DAAD Helmut-Schmidt-Programme Masterâ€™s Scholarships",
         "country":  "Germany",
         "url":  "https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-helmut-schmidt/",
         "note":  "Targeted at graduates from developing countries."
@@ -1296,7 +1296,7 @@
     },
     {
         "slug":  "aim-adb-japan-scholarship",
-        "name":  "AIM ADBÃ¢â‚¬â€œJapan Scholarship 2027",
+        "name":  "AIM ADBâ€“Japan Scholarship 2027",
         "country":  "Japan",
         "url":  "https://brightscholarship.com/",
         "note":  "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
@@ -1316,958 +1316,312 @@
         "note":  "URL derived from Bright Scholarship aggregator page as no direct official apply URL was provided in text."
     },
     {
-        "slug":  "buddy4study-india",
-        "name":  "Buddy4Study Ã¢â‚¬â€œ India\u0027s Largest Scholarship Platform",
-        "country":  "India",
-        "url":  "https://www.buddy4study.com/scholarships"
-    },
-    {
-        "slug":  "national-scholarship-portal-india",
-        "name":  "National Scholarship Portal (NSP) Ã¢â‚¬â€œ Government of India",
-        "country":  "India",
-        "url":  "https://scholarships.gov.in/"
-    },
-    {
-        "slug":  "vidyasaarathi-india",
-        "name":  "Vidyasaarathi India Scholarship Portal",
-        "country":  "India",
-        "url":  "https://www.vidyasaarathi.co.in/"
-    },
-    {
-        "slug":  "a2z-scholarships-india",
-        "name":  "A2Z Scholarships India",
-        "country":  "India",
-        "url":  "https://a2zscholarships.com/"
-    },
-    {
-        "slug":  "jagranjosh-scholarships",
-        "name":  "Jagran Josh Ã¢â‚¬â€œ Scholarship Listings",
-        "country":  "India",
-        "url":  "https://www.jagranjosh.com/scholarships"
-    },
-    {
-        "slug":  "careerindia-scholarships",
-        "name":  "CareerIndia Scholarship Listings",
-        "country":  "India",
-        "url":  "https://www.careerindia.com/scholarships/"
-    },
-    {
-        "slug":  "successcds-scholarships",
-        "name":  "SuccessCDS Scholarship Guide",
-        "country":  "India",
-        "url":  "https://www.successcds.net/scholarships/"
-    },
-    {
-        "slug":  "scholarshipsindia-com",
-        "name":  "ScholarshipsIndia.com",
-        "country":  "India",
-        "url":  "https://scholarshipsindia.com/"
-    },
-    {
-        "slug":  "easyshiksha-scholarships",
-        "name":  "EasyShiksha Scholarship Listings",
-        "country":  "India",
-        "url":  "https://easyshiksha.com/scholarships/"
-    },
-    {
-        "slug":  "shiksha-study-abroad-scholarships",
-        "name":  "Shiksha.com Study Abroad Scholarships",
-        "country":  "India",
-        "url":  "https://www.shiksha.com/study-abroad/scholarships"
-    },
-    {
-        "slug":  "careers360-scholarships",
-        "name":  "Careers360 Scholarship Listings",
-        "country":  "India",
-        "url":  "https://www.careers360.com/scholarships"
-    },
-    {
-        "slug":  "collegedekho-scholarships",
-        "name":  "CollegeDekho Scholarship Listings",
-        "country":  "India",
-        "url":  "https://www.collegedekho.com/articles/top-scholarships-in-india/"
-    },
-    {
-        "slug":  "toprankers-scholarships",
-        "name":  "TopRankers Scholarship Guide",
-        "country":  "India",
-        "url":  "https://www.toprankers.com/scholarships"
-    },
-    {
-        "slug":  "indiafellowships-net",
-        "name":  "IndiaFellowships.net Ã¢â‚¬â€œ Fellowships and Scholarships",
-        "country":  "India",
-        "url":  "https://indiafellowships.net/"
-    },
-    {
-        "slug":  "scholarshipsads-pk",
-        "name":  "ScholarshipsAds.com Ã¢â‚¬â€œ Pakistan Scholarship Aggregator",
-        "country":  "Pakistan",
-        "url":  "https://www.scholarshipsads.com/"
-    },
-    {
-        "slug":  "ilmkidunya-scholarships",
-        "name":  "Ilmkidunya Scholarship Portal (Pakistan)",
-        "country":  "Pakistan",
-        "url":  "https://www.ilmkidunya.com/scholarships"
-    },
-    {
-        "slug":  "taleem360-scholarships",
-        "name":  "Taleem360 Scholarship Listings",
-        "country":  "Pakistan",
-        "url":  "https://taleem360.com/category/scholarships/"
-    },
-    {
-        "slug":  "pakischolarship-com",
-        "name":  "PakiScholarship.com Ã¢â‚¬â€œ Pakistan Scholarships",
-        "country":  "Pakistan",
-        "url":  "https://pakischolarship.com/"
-    },
-    {
-        "slug":  "govtscholarships-pk",
-        "name":  "GovtScholarships.pk Ã¢â‚¬â€œ Pakistani Government Scholarships",
-        "country":  "Pakistan",
-        "url":  "https://govtscholarships.pk/"
-    },
-    {
-        "slug":  "pakeducation-scholarships",
-        "name":  "PakEducation.com Scholarship Listings",
-        "country":  "Pakistan",
-        "url":  "https://www.pakeducation.com/scholarships/"
-    },
-    {
-        "slug":  "studyabroadpakistan-com",
-        "name":  "StudyAbroadPakistan.com Scholarship Guide",
-        "country":  "Pakistan",
-        "url":  "https://www.studyabroadpakistan.com/"
-    },
-    {
-        "slug":  "scholarshipsforum-pk",
-        "name":  "ScholarshipsForum.pk",
-        "country":  "Pakistan",
-        "url":  "https://scholarshipsforum.pk/"
-    },
-    {
-        "slug":  "scholarship-positions-com",
-        "name":  "Scholarship-Positions.com Ã¢â‚¬â€œ International Scholarship Listings",
-        "country":  "International",
-        "url":  "https://scholarship-positions.com/"
-    },
-    {
-        "slug":  "scholarshipdesk-com",
-        "name":  "ScholarshipDesk.com Ã¢â‚¬â€œ International Scholarships",
-        "country":  "International",
-        "url":  "https://www.scholarshipdesk.com/"
-    },
-    {
-        "slug":  "scholarshipfellow-com",
-        "name":  "ScholarshipFellow.com",
-        "country":  "International",
-        "url":  "https://scholarshipfellow.com/"
-    },
-    {
-        "slug":  "scholarshipbee-com",
-        "name":  "ScholarshipBee.com Ã¢â‚¬â€œ International Scholarship Listings",
-        "country":  "International",
-        "url":  "https://scholarshipbee.com/"
-    },
-    {
-        "slug":  "opportunitiesforafricans-scholarships",
-        "name":  "Opportunities for Africans Ã¢â‚¬â€œ Scholarships",
-        "country":  "Africa",
-        "url":  "https://www.opportunitiesforafricans.com/category/scholarships/"
-    },
-    {
-        "slug":  "futurethinkerz-scholarships",
-        "name":  "FutureThinkerz Scholarship Listings",
-        "country":  "International",
-        "url":  "https://futurethinkerz.com/category/scholarship/"
-    },
-    {
-        "slug":  "scholarshindia-org",
-        "name":  "ScholarshipsIndia.org Ã¢â‚¬â€œ International Scholarship Listings",
-        "country":  "India",
-        "url":  "https://scholarshipsindia.org/"
-    },
-    {
-        "slug":  "scholarshipmonk-com",
-        "name":  "ScholarshipMonk Ã¢â‚¬â€œ International Scholarship Database",
-        "country":  "International",
-        "url":  "https://www.scholarshipmonk.com/"
-    },
-    {
-        "slug":  "winscholarship-in",
-        "name":  "WinScholarship.in Ã¢â‚¬â€œ India Scholarship Listings",
-        "country":  "India",
-        "url":  "https://www.winscholarship.in/"
-    },
-    {
-        "slug":  "scholarshipspoint-com",
-        "name":  "ScholarshipsPoint.com Ã¢â‚¬â€œ Scholarship Database",
-        "country":  "International",
-        "url":  "https://www.scholarshipspoint.com/"
-    },
-    {
-        "slug":  "scholarshiproar-com",
-        "name":  "ScholarshipRoar Ã¢â‚¬â€œ International Scholarships",
-        "country":  "International",
-        "url":  "https://scholarshiproar.com/"
-    },
-    {
-        "slug":  "studyoverseas-in",
-        "name":  "StudyOverseas.com Ã¢â‚¬â€œ Scholarships Abroad",
-        "country":  "India",
-        "url":  "https://www.studyoverseas.com/scholarships/"
-    },
-    {
-        "slug":  "opportunitydesk-scholarships",
-        "name":  "Opportunity Desk Ã¢â‚¬â€œ International Scholarships",
-        "country":  "International",
-        "url":  "https://opportunitydesk.org/category/scholarships/"
-    },
-    {
-        "slug":  "scholarshipscorner-net",
-        "name":  "ScholarshipsCorner.net Ã¢â‚¬â€œ Fully Funded Scholarships",
-        "country":  "International",
-        "url":  "https://scholarshipscorner.net/"
-    },
-    {
-        "slug":  "scholarships4dev-com",
-        "name":  "Scholars4Dev Ã¢â‚¬â€œ Scholarships for Developing Countries",
-        "country":  "International",
-        "url":  "https://www.scholars4dev.com/"
-    },
-    {
-        "slug":  "scholarshipdb-net",
-        "name":  "ScholarshipDB.net Ã¢â‚¬â€œ International Scholarship Database",
-        "country":  "International",
-        "url":  "https://scholarshipdb.net/"
-    },
-    {
-        "slug":  "abroadscholarships-in",
-        "name":  "AbroadScholarships.in Ã¢â‚¬â€œ Study Abroad Scholarship Listings",
-        "country":  "India",
-        "url":  "https://abroadscholarships.in/"
-    },
-    {
-        "slug":  "scholarshipstuff-net",
-        "name":  "ScholarshipStuff.net Ã¢â‚¬â€œ International Scholarships",
-        "country":  "International",
-        "url":  "https://scholarshipstuff.net/"
-    },
-    {
-        "slug":  "scholarshiphunter-com",
-        "name":  "ScholarshipHunter.com",
-        "country":  "International",
-        "url":  "https://www.scholarshiphunter.com/"
-    },
-    {
-        "slug":  "scholarshipplanet-info",
-        "name":  "ScholarshipPlanet.info",
-        "country":  "International",
-        "url":  "https://www.scholarshipplanet.info/"
-    },
-    {
-        "slug":  "scholarshiplead-com",
-        "name":  "ScholarshipLead.com Ã¢â‚¬â€œ Scholarship Database",
-        "country":  "International",
-        "url":  "https://www.scholarshiplead.com/"
-    },
-    {
-        "slug":  "scholarshipcafe-com",
-        "name":  "ScholarshipCafe.com",
-        "country":  "International",
-        "url":  "https://www.scholarshipcafe.com/"
-    },
-    {
-        "slug":  "allopportunities-com",
-        "name":  "AllOpportunities.com Ã¢â‚¬â€œ Scholarships and Fellowships",
-        "country":  "International",
-        "url":  "https://allopportunities.com/"
-    },
-    {
-        "slug":  "studyabroad-pk",
-        "name":  "StudyAbroad.pk Ã¢â‚¬â€œ Pakistan Study Abroad Scholarships",
-        "country":  "Pakistan",
-        "url":  "https://studyabroad.pk/scholarships/"
-    },
-    {
-        "slug":  "educationist-pk",
-        "name":  "Educationist.pk Ã¢â‚¬â€œ Pakistani Scholarship Portal",
-        "country":  "Pakistan",
-        "url":  "https://www.educationist.pk/scholarships/"
-    },
-    {
-        "slug":  "stipendium-hungaricum",
-        "name":  "Stipendium Hungaricum Scholarship Programme (Hungary)",
-        "country":  "Hungary",
-        "url":  "https://stipendiumhungaricum.hu/"
-    },
-    {
-        "slug":  "turkiye-burslari-scholarships",
-        "name":  "TÃƒÂ¼rkiye Scholarships (YTB) Ã¢â‚¬â€œ Turkish Government",
-        "country":  "Turkey",
-        "url":  "https://www.turkiyeburslari.gov.tr/"
-    },
-    {
-        "slug":  "marshall-scholarship-uk",
-        "name":  "Marshall Scholarship (UK Government)",
-        "country":  "United Kingdom",
-        "url":  "https://www.marshallscholarship.org/"
-    },
-    {
-        "slug":  "scotland-saltire-scholarship",
-        "name":  "Scotland Saltire Scholarship",
-        "country":  "United Kingdom",
-        "url":  "https://www.scotland.org/study/saltire-scholarships"
-    },
-    {
-        "slug":  "estonia-archimedes-scholarships",
-        "name":  "Estonian Government Scholarships (Archimedes Foundation)",
-        "country":  "Estonia",
-        "url":  "https://www.archimedes.ee/en/scholarships/"
-    },
-    {
-        "slug":  "romania-cnfis-scholarship",
-        "name":  "Romanian Government Scholarships (CNFIS)",
-        "country":  "Romania",
-        "url":  "https://www.cnfis.ro/burse-guvernamentale/"
-    },
-    {
-        "slug":  "taiwan-moe-scholarship",
-        "name":  "Taiwan Ministry of Education Scholarship (MOE)",
-        "country":  "Taiwan",
-        "url":  "https://scholarship.moe.gov.tw/"
-    },
-    {
-        "slug":  "malaysia-jpa-scholarship",
-        "name":  "Malaysia JPA Public Service Department Scholarship",
-        "country":  "Malaysia",
-        "url":  "https://www.jpa.gov.my/index.php/perkhidmatan/biasiswa"
-    },
-    {
-        "slug":  "philippines-ched-scholarship",
-        "name":  "Philippines CHED International Student Scholarship",
-        "country":  "Philippines",
-        "url":  "https://www.ched.gov.ph/"
-    },
-    {
-        "slug":  "nigeria-federal-scholarship-board",
-        "name":  "Nigeria Federal Government Scholarship Board",
-        "country":  "Nigeria",
-        "url":  "https://fgscholarship.gov.ng/"
-    },
-    {
-        "slug":  "ghana-scholarships-secretariat",
-        "name":  "Ghana Scholarships Secretariat",
-        "country":  "Ghana",
-        "url":  "https://scholarships.gov.gh/"
-    },
-    {
-        "slug":  "rwanda-education-board",
-        "name":  "Rwanda Education Board Government Scholarships",
-        "country":  "Rwanda",
-        "url":  "https://www.reb.rw/"
-    },
-    {
-        "slug":  "ethiopia-moe-scholarships",
-        "name":  "Ethiopian Government Scholarship Programme (MoE)",
-        "country":  "Ethiopia",
-        "url":  "https://www.moe.gov.et/"
-    },
-    {
-        "slug":  "kenya-hef-scholarship",
-        "name":  "Kenya Higher Education Loans Board \u0026 Government Scholarships",
-        "country":  "Kenya",
-        "url":  "https://www.helb.co.ke/"
-    },
-    {
-        "slug":  "tanzania-government-scholarship",
-        "name":  "Tanzania Commission for Universities Government Scholarships",
-        "country":  "Tanzania",
-        "url":  "https://www.tcu.go.tz/"
-    },
-    {
-        "slug":  "uganda-government-scholarship",
-        "name":  "Uganda Government Scholarships (Ministry of Education)",
-        "country":  "Uganda",
-        "url":  "https://www.education.go.ug/"
-    },
-    {
-        "slug":  "botswana-government-scholarship",
-        "name":  "Botswana Government Scholarship Programme (Tertiary Education)",
-        "country":  "Botswana",
-        "url":  "https://www.hrdc.org.bw/scholarships"
-    },
-    {
-        "slug":  "zambia-government-scholarship",
-        "name":  "Zambia Government Bursaries and Scholarships",
-        "country":  "Zambia",
-        "url":  "https://www.highereducation.gov.zm/"
-    },
-    {
-        "slug":  "saudi-sacm-scholarship",
-        "name":  "Saudi Arabian Cultural Mission (SACM) Scholarship",
-        "country":  "Saudi Arabia",
-        "url":  "https://www.sacm.org.sa/"
-    },
-    {
-        "slug":  "kaust-fellowship-saudi",
-        "name":  "KAUST Fellowship Ã¢â‚¬â€œ King Abdullah University of Science \u0026 Technology",
-        "country":  "Saudi Arabia",
-        "url":  "https://www.kaust.edu.sa/en/study/financial-support"
-    },
-    {
-        "slug":  "kfupm-scholarship-saudi",
-        "name":  "KFUPM Scholarship Ã¢â‚¬â€œ King Fahd University of Petroleum \u0026 Minerals",
-        "country":  "Saudi Arabia",
-        "url":  "https://www.kfupm.edu.sa/"
-    },
-    {
-        "slug":  "bhutan-rcsc-scholarship",
-        "name":  "Royal Government of Bhutan Scholarship (RCSC)",
-        "country":  "Bhutan",
-        "url":  "https://www.rcsc.gov.bt/"
-    },
-    {
-        "slug":  "maldives-higher-education-scholarship",
-        "name":  "Maldives Higher Education Scholarships (MoHE)",
-        "country":  "Maldives",
-        "url":  "https://www.mohe.gov.mv/"
-    },
-    {
-        "slug":  "bangladesh-ugc-scholarship",
-        "name":  "Bangladesh University Grants Commission Scholarship",
-        "country":  "Bangladesh",
-        "url":  "https://ugc.gov.bd/"
-    },
-    {
-        "slug":  "peru-pronabec-scholarship",
-        "name":  "Peru PRONABEC Beca 18 Scholarship",
-        "country":  "Peru",
-        "url":  "https://www.pronabec.gob.pe/"
-    },
-    {
-        "slug":  "ecuador-senescyt-scholarship",
-        "name":  "Ecuador SENESCYT Government Scholarship",
-        "country":  "Ecuador",
-        "url":  "https://www.senescyt.gob.ec/"
-    },
-    {
-        "slug":  "bolivia-government-scholarship",
-        "name":  "Bolivia Government Scholarship Programme (AGETIC)",
-        "country":  "Bolivia",
-        "url":  "https://www.educacion.gob.bo/"
-    },
-    {
-        "slug":  "uruguay-government-scholarship",
-        "name":  "Uruguay Government Scholarship (MEC)",
-        "country":  "Uruguay",
-        "url":  "https://www.mec.gub.uy/innovaportal/v/11078/1/mecweb/becas.html"
-    },
-    {
-        "slug":  "malta-government-scholarship",
-        "name":  "Malta Government Scholarship Scheme",
-        "country":  "Malta",
-        "url":  "https://education.gov.mt/en/Scholarships/Pages/StudyBursary.aspx"
-    },
-    {
-        "slug":  "iceland-rannis-scholarship",
-        "name":  "Rannis Icelandic Government Scholarship",
-        "country":  "Iceland",
-        "url":  "https://en.rannis.is/"
-    },
-    {
-        "slug":  "oic-scholarship-programme",
-        "name":  "Organisation of Islamic Cooperation (OIC) Scholarship Programme",
-        "country":  "International",
-        "url":  "https://www.oic-oci.org/page/?p_id=53\u0026p_ref=27\u0026lan=en"
-    },
-    {
-        "slug":  "eco-scholarship-programme",
-        "name":  "Economic Cooperation Organization (ECO) Scholarship",
-        "country":  "International",
-        "url":  "https://eco.int/en/page/scholarships"
-    },
-    {
-        "slug":  "saarc-cultural-scholarships",
-        "name":  "SAARC Cultural Centre Scholarships",
-        "country":  "South Asia",
-        "url":  "https://www.saarccultural.org/"
-    },
-    {
-        "slug":  "oas-scholarship-programme",
-        "name":  "Organization of American States (OAS) Scholarship Programme",
-        "country":  "Americas",
-        "url":  "https://www.oas.org/en/scholarships/"
-    },
-    {
-        "slug":  "humboldt-foundation-fellowship",
-        "name":  "Alexander von Humboldt Foundation Research Fellowship",
+        "slug":  "mext-scholarship-japan",
+        "name":  "Asia Pacific University MEXT Scholarship 2027",
+        "country":  "Japan",
+        "url":  "https://brightscholarship.com/",
+        "note":  "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+    },
+    {
+        "slug":  "daad-epos-scholarship-germany",
+        "name":  "TU Berlin DAAD EPOS Scholarship 2027",
         "country":  "Germany",
-        "url":  "https://www.humboldt-foundation.de/en/"
+        "url":  "https://brightscholarship.com/",
+        "note":  "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+    },
+    {
+        "slug":  "lester-b-pearson-scholarship-canada",
+        "name":  "Lester B Pearson International Scholarship 2027",
+        "country":  "Canada",
+        "url":  "https://brightscholarship.com/",
+        "note":  "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+    },
+    {
+        "slug":  "murdoch-university-rtp-scholarships-australia",
+        "name":  "Murdoch University RTP Scholarships 2027",
+        "country":  "Australia",
+        "url":  "https://brightscholarship.com/",
+        "note":  "URL derived from Bright Scholarship aggregator page as no specific external apply URL was present in text."
+    },
+    {
+        "slug":  "faculty-mobility-for-partnership-building-program",
+        "name":  "Faculty Mobility for Partnership Building Program",
+        "country":  "Canada",
+        "url":  "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+        "note":  "Found via EduCanada international scholarships portal"
+    },
+    {
+        "slug":  "erasmus-plus-netherlands",
+        "name":  "Erasmus+",
+        "country":  "Netherlands",
+        "url":  "https://www.erasmusplus.nl",
+        "note":  "Managed by Nuffic as the Dutch National Agency"
+    },
+    {
+        "slug":  "belgium-government-ares-scholarship",
+        "name":  "Belgium Government ARES Scholarship 2027-28",
+        "country":  "Belgium",
+        "url":  "https://brightscholarship.com/",
+        "note":  "Extracted from Bright Scholarship aggregator listing; specific official apply URL not present in raw text."
+    },
+    {
+        "slug":  "lester-b-pearson-international-scholarship-canada",
+        "name":  "Lester B. Pearson International Scholarship 2027",
+        "country":  "Canada",
+        "url":  "https://future.utoronto.ca/pearson/",
+        "note":  "Extracted from Youth Opportunities listing."
+    },
+    {
+        "slug":  "daad-research-grants-doctoral-germany",
+        "name":  "DAAD Research Grants (Doctoral)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "Requires specific research proposal and German university host."
+    },
+    {
+        "slug":  "daad-graduate-school-scholarship-gssp-germany",
+        "name":  "DAAD Graduate School Scholarship (GSSP)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "Check DAAD website for participating graduate schools."
+    },
+    {
+        "slug":  "daad-wise-internship-stipend-germany",
+        "name":  "DAAD WISE (Working Internships in Science and Engineering)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "For Bachelor\u0027s students in 4th/5th year."
+    },
+    {
+        "slug":  "daad-helmut-schmidt-program-germany",
+        "name":  "DAAD Helmut-Schmidt Program (Public Policy)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "Masters scholarships for public policy, law, economics, and social sciences."
+    },
+    {
+        "slug":  "deutschlandstipendium-germany",
+        "name":  "Deutschlandstipendium",
+        "country":  "Germany",
+        "url":  "https://www.deutschlandstipendium.de",
+        "note":  "Applied for directly through the German university."
+    },
+    {
+        "slug":  "heinrich-boll-foundation-scholarship-germany",
+        "name":  "Heinrich BÃ¶ll Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.boell.de",
+        "note":  "For Masters and PhD with emphasis on social justice, ecology, and democracy."
+    },
+    {
+        "slug":  "friedrich-ebert-foundation-scholarship-germany",
+        "name":  "Friedrich Ebert Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.fes.de",
+        "note":  "For Masters and PhD with focus on social democracy and civic engagement."
+    },
+    {
+        "slug":  "konrad-adenauer-foundation-scholarship-germany",
+        "name":  "Konrad Adenauer Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.kas.de",
+        "note":  "For Masters and PhD with conservative values and civic engagement orientation."
+    },
+    {
+        "slug":  "friedrich-naumann-foundation-scholarship-germany",
+        "name":  "Friedrich Naumann Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.freiheit.org",
+        "note":  "Focus on liberal values, entrepreneurship, and individual freedom."
+    },
+    {
+        "slug":  "rosa-luxemburg-foundation-scholarship-germany",
+        "name":  "Rosa Luxemburg Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.rosalux.de",
+        "note":  "Progressive social and political focus, open to international students."
+    },
+    {
+        "slug":  "erasmus-mundus-joint-master-scholarships-europe",
+        "name":  "Erasmus Mundus Joint Master Scholarships",
+        "country":  "Europe",
+        "url":  "https://erasmus-mundus.eu",
+        "note":  "Fully funded two-year Master\u0027s programs across multiple European universities."
+    },
+    {
+        "slug":  "imf-jispa-phd-scholarships",
+        "name":  "IMF JISPA PhD Scholarships 2027",
+        "country":  "Japan",
+        "url":  "https://brightscholarship.com/",
+        "note":  "Extracted from Bright Scholarship aggregator listing."
+    },
+    {
+        "slug":  "imf-jispa-phd-scholarships-japan",
+        "name":  "IMF JISPA PhD Scholarships 2027 in Japan",
+        "country":  "Japan",
+        "url":  "https://brightscholarship.com/",
+        "note":  "Extracted from aggregator page; specific official IMF/JISPA link needs to be verified."
+    },
+    {
+        "slug":  "daad-wise-internship-germany",
+        "name":  "DAAD WISE (Working Internships in Science and Engineering)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "General DAAD portal link."
+    },
+    {
+        "slug":  "erasmus-mundus-joint-masters-europe",
+        "name":  "Erasmus Mundus Joint Master Scholarships",
+        "country":  "Europe",
+        "url":  "https://erasmus-mundus.eu",
+        "note":  "Fully funded two-year Master\u0027s programs across multiple European universities."
+    },
+    {
+        "slug":  "erasmus-mundus-joint-master-scholarships",
+        "name":  "Erasmus Mundus Joint Master Scholarships",
+        "country":  "European Union",
+        "url":  "https://www.erasmus-mundus.eu",
+        "note":  "Applies across multiple European countries."
+    },
+    {
+        "slug":  "griffith-university-vice-chancellors-international-scholarship-australia",
+        "name":  "Griffith University Vice Chancellorâ€™s International Scholarship 2026",
+        "country":  "Australia",
+        "url":  "https://www.griffith.edu.au/international/scholarships/vice-chancellors-international-scholarship",
+        "note":  "Extracted from Youth Opportunities listing for Griffith University"
+    },
+    {
+        "slug":  "eui-scholarship",
+        "name":  "EUI Scholarship",
+        "country":  "Netherlands",
+        "url":  "https://www.nuffic.nl/en/subjects/scholarships",
+        "note":  "Mentioned on the Nuffic programmes page"
+    },
+    {
+        "slug":  "cultural-agreements",
+        "name":  "Cultural Agreements",
+        "country":  "Netherlands",
+        "url":  "https://www.nuffic.nl/en/subjects/scholarships",
+        "note":  "Mentioned on the Nuffic programmes page"
+    },
+    {
+        "slug":  "griffith-university-vice-chancellors-international-scholarship",
+        "name":  "Griffith University Vice Chancellorâ€™s International Scholarship 2026",
+        "country":  "Australia",
+        "url":  "https://www.griffith.edu.au/international/scholarships",
+        "note":  "Extracted from Youth Opportunities listing for Australian scholarships."
+    },
+    {
+        "slug":  "daad-epos-scholarship",
+        "name":  "Fully Funded!!! DAAD EPOS Scholarship 2027",
+        "country":  "Germany",
+        "url":  "https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/",
+        "note":  "Extracted from Youth Opportunities listing for German scholarships."
+    },
+    {
+        "slug":  "daad-gssp-germany",
+        "name":  "DAAD Graduate School Scholarship (GSSP)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de",
+        "note":  "Check DAAD website for participating graduate schools."
+    },
+    {
+        "slug":  "mexican-agency-for-international-development-cooperation-projects",
+        "name":  "Mexican Agency for International Development Cooperation (AMEXCID) Call for Projects",
+        "country":  "Mexico",
+        "url":  "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+        "note":  "Mentioned in the features section for Canadian Indigenous Academic Groups, funded by the Government of Mexico."
+    },
+    {
+        "slug":  "belgium-ares-scholarship",
+        "name":  "Belgium Government ARES Scholarship 2027-28 for International Students",
+        "country":  "Belgium",
+        "url":  "https://brightscholarship.com/",
+        "note":  "URL is derived from the aggregator since no direct official link was embedded in the text."
+    },
+    {
+        "slug":  "fao-young-professionals-program",
+        "name":  "FAO Young Professionals Program 2026",
+        "country":  "International",
+        "url":  "https://www.fao.org/employment/young-professionals-programme/en/",
+        "note":  "Major international organization program from the Food and Agriculture Organization."
+    },
+    {
+        "slug":  "ohchr-indigenous-fellowship",
+        "name":  "OHCHR Indigenous Fellowship 2027",
+        "country":  "Switzerland",
+        "url":  "https://www.ohchr.org/en/indigenous-peoples/indigenous-fellowship-programme",
+        "note":  "UN human rights fellowship program based in Switzerland."
+    },
+    {
+        "slug":  "mitacs-globalink-research-internship",
+        "name":  "Mitacs Globalink Research Internship (GRI) 2027",
+        "country":  "Canada",
+        "url":  "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship",
+        "note":  "Government-backed research internship program in Canada for international undergraduates."
+    },
+    {
+        "slug":  "daad-scholarships-india",
+        "name":  "DAAD Scholarships (India)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de/",
+        "note":  "General DAAD portal; specific program pages should be targeted based on study level."
+    },
+    {
+        "slug":  "deutschlandstipendium",
+        "name":  "Deutschlandstipendium",
+        "country":  "Germany",
+        "url":  "https://www.deutschlandstipendium.de/",
+        "note":  "Applied for directly through individual German universities."
+    },
+    {
+        "slug":  "erasmus-mundus-scholarships",
+        "name":  "Erasmus Mundus Joint Master Scholarships",
+        "country":  "European Union",
+        "url":  "https://www.erasmus-mundus.eu/",
+        "note":  "Funded by the European Union, covers multiple European countries."
+    },
+    {
+        "slug":  "daad-wise-internship-stipend",
+        "name":  "DAAD WISE (Working Internships in Science and Engineering)",
+        "country":  "Germany",
+        "url":  "https://www.daad.de/",
+        "note":  "Specific internship funding for Bachelor\u0027s students."
+    },
+    {
+        "slug":  "heinrich-boll-foundation-scholarship",
+        "name":  "Heinrich BÃ¶ll Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.boell.de/",
+        "note":  "Political foundation scholarship open to international Masters and PhD students."
+    },
+    {
+        "slug":  "friedrich-ebert-foundation-scholarship",
+        "name":  "Friedrich Ebert Foundation Scholarship",
+        "country":  "Germany",
+        "url":  "https://www.fes.de/",
+        "note":  "SPD-aligned political foundation scholarship for international students."
     },
     {
         "slug":  "konrad-adenauer-foundation-scholarship",
-        "name":  "Konrad-Adenauer-Stiftung (KAS) Scholarships",
+        "name":  "Konrad Adenauer Foundation Scholarship",
         "country":  "Germany",
-        "url":  "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/scholarships"
+        "url":  "https://www.kas.de/",
+        "note":  "CDU-aligned political foundation scholarship."
     },
     {
-        "slug":  "studienstiftung-des-deutschen-volkes",
-        "name":  "Studienstiftung des deutschen Volkes Ã¢â‚¬â€œ German Academic Scholarship Foundation",
+        "slug":  "friedrich-naumann-foundation-scholarship",
+        "name":  "Friedrich Naumann Foundation Scholarship",
         "country":  "Germany",
-        "url":  "https://www.studienstiftung.de/en/"
+        "url":  "https://www.freiheit.org/",
+        "note":  "FDP-aligned political foundation scholarship focusing on liberal values and entrepreneurship."
     },
     {
-        "slug":  "evangelisches-studienwerk-villigst",
-        "name":  "Evangelisches Studienwerk Villigst Scholarship",
+        "slug":  "rosa-luxemburg-foundation-scholarship",
+        "name":  "Rosa Luxemburg Foundation Scholarship",
         "country":  "Germany",
-        "url":  "https://www.evstudienwerk.de/"
-    },
-    {
-        "slug":  "cusanuswerk-scholarship",
-        "name":  "Cusanuswerk Catholic Academic Scholarship (Germany)",
-        "country":  "Germany",
-        "url":  "https://www.cusanuswerk.de/"
-    },
-    {
-        "slug":  "avicenna-studienwerk-scholarship",
-        "name":  "Avicenna Studienwerk Ã¢â‚¬â€œ Scholarship for Muslim Students in Germany",
-        "country":  "Germany",
-        "url":  "https://www.avicenna-studienwerk.de/"
-    },
-    {
-        "slug":  "jsps-postdoctoral-fellowship",
-        "name":  "JSPS Postdoctoral Fellowship for Research in Japan",
-        "country":  "Japan",
-        "url":  "https://www.jsps.go.jp/english/e-fellow/"
-    },
-    {
-        "slug":  "rotary-yoneyama-fellowship",
-        "name":  "Rotary Yoneyama Memorial Foundation Scholarship (Japan)",
-        "country":  "Japan",
-        "url":  "https://www.rotary-yoneyama.or.jp/en/"
-    },
-    {
-        "slug":  "kyoto-university-scholarships",
-        "name":  "Kyoto University International Scholarships",
-        "country":  "Japan",
-        "url":  "https://www.kyoto-u.ac.jp/en/education-campus/scholarships"
-    },
-    {
-        "slug":  "tokyo-university-scholarships",
-        "name":  "University of Tokyo International Scholarships",
-        "country":  "Japan",
-        "url":  "https://www.u-tokyo.ac.jp/en/prospective-students/scholarships.html"
-    },
-    {
-        "slug":  "osaka-university-scholarships",
-        "name":  "Osaka University International Scholarships",
-        "country":  "Japan",
-        "url":  "https://www.osaka-u.ac.jp/en/international/inbound/scholarship"
-    },
-    {
-        "slug":  "waseda-university-scholarships",
-        "name":  "Waseda University International Student Scholarships",
-        "country":  "Japan",
-        "url":  "https://www.waseda.jp/top/en/academics/scholarship"
-    },
-    {
-        "slug":  "gks-graduate-program-korea",
-        "name":  "Global Korea Scholarship (GKS) Graduate Program",
-        "country":  "South Korea",
-        "url":  "https://www.studyinkorea.go.kr/en/sub/gks/allnew_graduate.do"
-    },
-    {
-        "slug":  "posco-tj-park-scholarship",
-        "name":  "POSCO TJ Park Foundation Scholarship (Korea)",
-        "country":  "South Korea",
-        "url":  "https://www.postf.org/eng/"
-    },
-    {
-        "slug":  "seoul-national-university-scholarship",
-        "name":  "Seoul National University International Scholarships",
-        "country":  "South Korea",
-        "url":  "https://oia.snu.ac.kr/"
-    },
-    {
-        "slug":  "kaist-international-scholarship",
-        "name":  "KAIST International Student Scholarship",
-        "country":  "South Korea",
-        "url":  "https://admission.kaist.ac.kr/intl-graduate/"
-    },
-    {
-        "slug":  "yonsei-university-scholarship",
-        "name":  "Yonsei University International Scholarships",
-        "country":  "South Korea",
-        "url":  "https://www.yonsei.ac.kr/sc/admission/scholarship.jsp"
-    },
-    {
-        "slug":  "korea-foundation-fellowship",
-        "name":  "Korea Foundation Fellowship for Korean Studies",
-        "country":  "South Korea",
-        "url":  "https://www.kf.or.kr/kf/main.do"
-    },
-    {
-        "slug":  "marshall-scholarship-usa",
-        "name":  "Marshall Scholarship Program (for US Citizens to UK)",
-        "country":  "United Kingdom",
-        "url":  "https://www.marshallscholarship.org/"
-    },
-    {
-        "slug":  "mitchell-scholarship-ireland",
-        "name":  "George J. Mitchell Scholarship (Ireland)",
-        "country":  "Ireland",
-        "url":  "https://www.us-irelandalliance.org/mitchellscholarship"
-    },
-    {
-        "slug":  "luce-scholars-program",
-        "name":  "Luce Scholars Program Ã¢â‚¬â€œ Asia (Henry Luce Foundation)",
-        "country":  "USA",
-        "url":  "https://www.hluce.org/programs/luce-scholars/"
-    },
-    {
-        "slug":  "aauw-international-fellowships",
-        "name":  "AAUW International Fellowships (Women)",
-        "country":  "USA",
-        "url":  "https://www.aauw.org/resources/programs/fellowships-grants/current-competitions/international-fellowships/"
-    },
-    {
-        "slug":  "thomas-pickering-fellowship",
-        "name":  "Thomas R. Pickering Foreign Affairs Fellowship",
-        "country":  "USA",
-        "url":  "https://pickeringfellowship.org/"
-    },
-    {
-        "slug":  "charles-rangel-fellowship",
-        "name":  "Charles B. Rangel International Affairs Fellowship",
-        "country":  "USA",
-        "url":  "https://rangelprogram.org/"
-    },
-    {
-        "slug":  "scoville-peace-fellowship",
-        "name":  "Herbert Scoville Jr. Peace Fellowship",
-        "country":  "USA",
-        "url":  "https://scoville.org/"
-    },
-    {
-        "slug":  "truman-scholarship",
-        "name":  "Harry S. Truman Scholarship Foundation",
-        "country":  "USA",
-        "url":  "https://www.truman.gov/"
-    },
-    {
-        "slug":  "educationusa-opportunity-funds",
-        "name":  "EducationUSA Opportunity Funds Program",
-        "country":  "USA",
-        "url":  "https://educationusa.state.gov/opportunity-funds"
-    },
-    {
-        "slug":  "harvard-international-financial-aid",
-        "name":  "Harvard University International Financial Aid",
-        "country":  "USA",
-        "url":  "https://college.harvard.edu/financial-aid"
-    },
-    {
-        "slug":  "yale-international-financial-aid",
-        "name":  "Yale University Financial Aid for International Students",
-        "country":  "USA",
-        "url":  "https://finaid.yale.edu/"
-    },
-    {
-        "slug":  "princeton-international-financial-aid",
-        "name":  "Princeton University Financial Aid for International Students",
-        "country":  "USA",
-        "url":  "https://financialaid.princeton.edu/"
-    },
-    {
-        "slug":  "georgetown-university-financial-aid",
-        "name":  "Georgetown University International Financial Aid",
-        "country":  "USA",
-        "url":  "https://finaid.georgetown.edu/"
-    },
-    {
-        "slug":  "johns-hopkins-sais-financial-aid",
-        "name":  "Johns Hopkins SAIS International Scholarships",
-        "country":  "USA",
-        "url":  "https://sais.jhu.edu/admissions/financial-aid"
-    },
-    {
-        "slug":  "loreal-unesco-women-science",
-        "name":  "L\u0027OrÃƒÂ©al-UNESCO For Women in Science International Awards",
-        "country":  "International",
-        "url":  "https://www.loreal.com/en/commitments-and-philanthropy/for-women-in-science/"
-    },
-    {
-        "slug":  "peo-international-peace-scholarship",
-        "name":  "P.E.O. International Peace Scholarship (Women Graduate Students)",
-        "country":  "International",
-        "url":  "https://www.peointernational.org/peo-international-peace-scholarship"
-    },
-    {
-        "slug":  "amelia-earhart-fellowship-zonta",
-        "name":  "Amelia Earhart Fellowship Ã¢â‚¬â€œ Zonta International (Women in Aerospace)",
-        "country":  "International",
-        "url":  "https://www.zonta.org/WhatWeDo/InternationalServicePrograms/AmeliaEarhart"
-    },
-    {
-        "slug":  "aker-scholarship-norway",
-        "name":  "Aker Scholarship (Norway)",
-        "country":  "Norway",
-        "url":  "https://www.akerscholarship.no/"
-    },
-    {
-        "slug":  "google-scholarship-programs",
-        "name":  "Google Scholarship Programs Ã¢â‚¬â€œ Build Your Future with Google",
-        "country":  "International",
-        "url":  "https://buildyourfuture.withgoogle.com/scholarships"
-    },
-    {
-        "slug":  "meta-phd-fellowship",
-        "name":  "Meta PhD Fellowship Program",
-        "country":  "USA",
-        "url":  "https://research.facebook.com/fellowship/"
-    },
-    {
-        "slug":  "qualcomm-innovation-fellowship",
-        "name":  "Qualcomm Innovation Fellowship",
-        "country":  "USA",
-        "url":  "https://www.qualcomm.com/research/university-relations/innovation-fellowship"
-    },
-    {
-        "slug":  "adobe-research-fellowship",
-        "name":  "Adobe Research Fellowship",
-        "country":  "USA",
-        "url":  "https://research.adobe.com/fellowship/"
-    },
-    {
-        "slug":  "nvidia-graduate-fellowship",
-        "name":  "NVIDIA Graduate Fellowship Program",
-        "country":  "USA",
-        "url":  "https://www.nvidia.com/en-us/research/graduate-fellowships/"
-    },
-    {
-        "slug":  "ibm-phd-fellowship",
-        "name":  "IBM PhD Fellowship Program",
-        "country":  "USA",
-        "url":  "https://research.ibm.com/university/awards/fellowships.html"
-    },
-    {
-        "slug":  "tony-elumelu-foundation-entrepreneurship",
-        "name":  "Tony Elumelu Foundation Entrepreneurship Programme",
-        "country":  "Africa",
-        "url":  "https://www.tonyelumelufoundation.org/"
-    },
-    {
-        "slug":  "aims-nexteinstein-scholarship",
-        "name":  "AIMS Next Einstein Initiative Ã¢â‚¬â€œ African Mathematical Sciences",
-        "country":  "Africa",
-        "url":  "https://nexteinstein.org/"
-    },
-    {
-        "slug":  "african-leadership-university-scholarship",
-        "name":  "African Leadership University (ALU) Scholarship",
-        "country":  "Africa",
-        "url":  "https://alueducation.com/"
-    },
-    {
-        "slug":  "mtn-foundation-scholarship",
-        "name":  "MTN Foundation Scholarship (Sub-Saharan Africa)",
-        "country":  "Africa",
-        "url":  "https://www.mtnfoundation.co.za/scholarship-programme/"
-    },
-    {
-        "slug":  "qatar-foundation-scholarships",
-        "name":  "Qatar Foundation Scholarships and Student Support",
-        "country":  "Qatar",
-        "url":  "https://www.qf.org.qa/"
-    },
-    {
-        "slug":  "amideast-scholarships-fellowships",
-        "name":  "AMIDEAST Scholarships and Fellowships (Middle East \u0026 North Africa)",
-        "country":  "International",
-        "url":  "https://www.amideast.org/scholarships-and-fellowships"
-    },
-    {
-        "slug":  "confucius-institute-scholarship",
-        "name":  "Confucius Institute Scholarship (Chinese Language Programme)",
-        "country":  "China",
-        "url":  "https://cis.chinese.cn/"
-    },
-    {
-        "slug":  "central-european-university-scholarship",
-        "name":  "Central European University (CEU) Scholarships",
-        "country":  "Austria",
-        "url":  "https://www.ceu.edu/scholarships"
-    },
-    {
-        "slug":  "eui-florence-scholarships",
-        "name":  "European University Institute Florence Scholarships",
-        "country":  "Italy",
-        "url":  "https://www.eui.eu/ServicesAndAdmin/AcademicService/Grants-and-Financial-Support"
-    },
-    {
-        "slug":  "sciences-po-paris-scholarships",
-        "name":  "Sciences Po Paris International Scholarships",
-        "country":  "France",
-        "url":  "https://www.sciencespo.fr/en/study-at-sciences-po/scholarships"
-    },
-    {
-        "slug":  "tu-munich-international-scholarships",
-        "name":  "Technical University of Munich (TUM) International Scholarships",
-        "country":  "Germany",
-        "url":  "https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/"
-    },
-    {
-        "slug":  "lmu-munich-international-scholarships",
-        "name":  "LMU Munich International Scholarships",
-        "country":  "Germany",
-        "url":  "https://www.lmu.de/en/study/all-degrees-and-programs/fees-and-financial-support/scholarships/"
-    },
-    {
-        "slug":  "aub-scholarships-beirut",
-        "name":  "American University of Beirut (AUB) Financial Aid and Scholarships",
-        "country":  "Lebanon",
-        "url":  "https://www.aub.edu.lb/financialaid/"
-    },
-    {
-        "slug":  "inlaks-shivdasani-foundation",
-        "name":  "Inlaks Shivdasani Foundation Scholarships (India)",
-        "country":  "India",
-        "url":  "https://www.inlaksfoundation.org/"
-    },
-    {
-        "slug":  "narotam-sekhsaria-scholarship",
-        "name":  "Narotam Sekhsaria Foundation Scholarship (India)",
-        "country":  "India",
-        "url":  "https://www.nsscholarship.in/"
-    },
-    {
-        "slug":  "kc-mahindra-scholarship",
-        "name":  "K.C. Mahindra Education Trust Scholarship (India)",
-        "country":  "India",
-        "url":  "https://www.kcmet.org/"
-    },
-    {
-        "slug":  "tata-trust-scholarship",
-        "name":  "Tata Trusts Scholarship Programme (India)",
-        "country":  "India",
-        "url":  "https://www.tatatrusts.org/our-work/individual-grants/education-grants"
-    },
-    {
-        "slug":  "dst-inspire-fellowship-india",
-        "name":  "DST-INSPIRE Fellowship (India Ã¢â‚¬â€œ Science Research)",
-        "country":  "India",
-        "url":  "https://www.inspire-dst.gov.in/"
-    },
-    {
-        "slug":  "ugc-junior-research-fellowship-india",
-        "name":  "UGC Junior Research Fellowship (JRF) Ã¢â‚¬â€œ India",
-        "country":  "India",
-        "url":  "https://ugcnetonline.in/"
-    },
-    {
-        "slug":  "csir-net-fellowship-india",
-        "name":  "CSIR-NET Junior Research Fellowship (India)",
-        "country":  "India",
-        "url":  "https://csirhrdg.res.in/"
-    },
-    {
-        "slug":  "pm-research-fellowship-india",
-        "name":  "Prime Minister\u0027s Research Fellowship (PMRF) Ã¢â‚¬â€œ India",
-        "country":  "India",
-        "url":  "https://www.pmrf.in/"
-    },
-    {
-        "slug":  "nstfdc-scholarship-india",
-        "name":  "NSTFDC Scholarship for Safai Karamcharis (India)",
-        "country":  "India",
-        "url":  "https://nstfdc.in/en/"
-    },
-    {
-        "slug":  "goingmerry-scholarships",
-        "name":  "Going Merry International Scholarship Platform",
-        "country":  "International",
-        "url":  "https://www.goingmerry.com/scholarships"
-    },
-    {
-        "slug":  "bold-org-scholarships",
-        "name":  "Bold.org International Scholarships Database",
-        "country":  "International",
-        "url":  "https://bold.org/scholarships/"
-    },
-    {
-        "slug":  "scholarshipamerica-org",
-        "name":  "Scholarship America",
-        "country":  "USA",
-        "url":  "https://scholarshipamerica.org/"
-    },
-    {
-        "slug":  "topuniversities-scholarship-finder",
-        "name":  "QS TopUniversities Scholarship Finder",
-        "country":  "International",
-        "url":  "https://www.topuniversities.com/student-info/scholarship-advice/scholarship-finder"
-    },
-    {
-        "slug":  "mastersportal-scholarships",
-        "name":  "MastersPortal Ã¢â‚¬â€œ Scholarships in Europe",
-        "country":  "European Union",
-        "url":  "https://www.mastersportal.eu/funding/scholarships/"
-    },
-    {
-        "slug":  "phdportal-scholarships",
-        "name":  "PhDPortal Ã¢â‚¬â€œ PhD Scholarships and Fellowships",
-        "country":  "International",
-        "url":  "https://www.phdportal.eu/funding/scholarships/"
-    },
-    {
-        "slug":  "findamasters-scholarships",
-        "name":  "FindAMasters Ã¢â‚¬â€œ Masters Scholarships and Funding",
-        "country":  "International",
-        "url":  "https://www.findamasters.com/scholarships/"
-    },
-    {
-        "slug":  "findaphd-scholarships",
-        "name":  "FindAPhD Ã¢â‚¬â€œ PhD Scholarships and Funding",
-        "country":  "International",
-        "url":  "https://www.findaphd.com/phds/funding/"
-    },
-    {
-        "slug":  "afterschoolafrica-scholarships",
-        "name":  "AfterSchoolAfrica Ã¢â‚¬â€œ International Scholarships",
-        "country":  "Africa",
-        "url":  "https://www.afterschoolafrica.com/category/scholarships/"
-    },
-    {
-        "slug":  "youthop-scholarships",
-        "name":  "Youth Opportunities Ã¢â‚¬â€œ Scholarships",
-        "country":  "International",
-        "url":  "https://youthop.com/scholarships"
-    },
-    {
-        "slug":  "unesco-fellowships-programme",
-        "name":  "UNESCO Fellowships Programme",
-        "country":  "International",
-        "url":  "https://www.unesco.org/en/fellowships"
-    },
-    {
-        "slug":  "unitar-fellowship-programme",
-        "name":  "UNITAR Fellowship and Training Programme",
-        "country":  "International",
-        "url":  "https://www.unitar.org/"
-    },
-    {
-        "slug":  "mitacs-globalink-internship",
-        "name":  "Mitacs Globalink Research Internship (Canada)",
-        "country":  "Canada",
-        "url":  "https://www.mitacs.ca/our-programs/globalink-research-internship-students/"
-    },
-    {
-        "slug":  "lester-b-pearson-scholarship",
-        "name":  "Lester B. Pearson International Scholarship (University of Toronto)",
-        "country":  "Canada",
-        "url":  "https://future.utoronto.ca/pearson/"
+        "url":  "https://www.rosalux.de/",
+        "note":  "Left-aligned political foundation scholarship open to international students."
     },
     {
         "slug":  "chegg-scholarship-search",

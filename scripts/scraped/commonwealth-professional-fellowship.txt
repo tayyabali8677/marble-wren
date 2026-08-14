@@ -1,16 +1,11 @@
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-professional-fellowships/ =====
 Commonwealth Fellowships – information for UK host organisations - Commonwealth Scholarship Commission in the UK
-About us
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -21,15 +16,20 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
 Commonwealth Fellowships – information for UK host organisations
 by Alumni Team | Mar 7, 2023
@@ -61,18 +61,18 @@ Please be aware that host applications for ODA eligible countries are now closed
 If you wish to submit an application to host a fellowship for non- ODA country applicants, please complete an application by Thursday 27 August 2026 .
 Applications must be submitted via the CSC&#8217;s online application form. Please s ee the &#8216;Eligible countries&#8217; tab for full details.
 These fellowships are offered under six development themes:
-Science and technology for development.
-Improving population health, health systems and capacity.
-Promoting innovation and entrepreneurship.
-Strengthening peace, security and governance.
-Strengthening resilience and response to crises.
-Access, inclusion and opportunity.
+Science and technology for development
+Improving population health, health systems and capacity
+Promoting innovation and entrepreneurship
+Strengthening peace, security and governance
+Strengthening resilience and response to crises
+Access, inclusion and opportunity
 Professional Fellowships in 2026/27  must:
-Begin in March 2027.
-Be between six weeks and three months duration.
+Begin in March 2027
+Be between six weeks and three months duration
 Academic Fellowships in 2026/27 must:
-Begin in March 2027.
-Be of three months duration.
+Begin in March 2027
+Be of three months duration
 Host eligibility and guidelines
 Professional Fellowships
 Eligible organisations can apply to host between two and five Commonwealth Professional Fellows.   To bid under the Professional Fellowships strand, prospective host organisations must:
@@ -88,8 +88,8 @@ Be from a department within a UK university registered with the Office for Stude
 Design a clear three-month programme of academic skills update, knowledge exchange and networking with a view to establishing future collaboration. Visits to, and periods of experience with, relevant UK organisations are particularly encouraged. Attendance at short courses or conferences during the Fellowship is acceptable, providing that this can be justified within the selection criteria and that attendance is not the main focus of the Fellowship.
 Be able to identify up to two Fellows who they wish to nominate, through existing networks or wider advertising. The CSC will decide on the final selection of Fellows for each host department.
 Ensure every effort is made to achieve a balance in nominations across genders, where two Fellows are being nominated.
-Note, there should not be more than one bid received from any UK university department.
-Prospective hosts for the Academic and Professional Fellowships Strands should also note:
+Please note, there should not be more than one bid received from any UK university department.
+Prospective hosts for the Academic and Professional Fellowships strands should also note:
 The Commonwealth Fellowship scheme does not support programmes that require General Medical Council registration.
 Fellowships must be UK-based for their full duration.
 Host organisations/departments are responsible for obtaining any Disclosure and Barring Service (DBS) or ‘good character’ checks that may be required.
@@ -109,9 +109,9 @@ Provide at least two references, one of which must be from their current employe
 Not have undertaken a Commonwealth Fellowship previously.
 Be available to undertake their fellowship from the prescribed date.
 The CSC aims to identify talented individuals who have the potential to make change. We are committed to a policy of equal opportunity and non-discrimination, and encourage applications from a diverse range of candidates. For further information on the support available to Fellows with a disability, see the CSC disability support statement .
-Further information is available on Commonwealth Professional Fellowships – Information for prospective candidates .
+Further information is available on Commonwealth Fellowships – Information for prospective candidates .
 Eligible countries
-Non ODA eligible countries (approximately 10-15 Fellowships on offer):
+Non-ODA eligible countries (approximately 10-15 Fellowships on offer):
 Anguilla
 Antigua and Barbuda
 Australia
@@ -133,7 +133,7 @@ St Kitts and Nevis
 Trinidad and Tobago
 Turks and Caicos Islands
 Financial assistance
-Each Fellowship provides:
+Each fellowship provides:
 Approved return airfare from the Fellow’s home country to the UK.
 Reimbursement of the standard visa application fee.
 Stipend (living allowance) payable monthly (or pro rata) for the duration of the award at the rate of £2,218 per month, or £2,753 per month for those at organisations in the London metropolitan area (rates quoted at 2025/26 levels).
@@ -167,7 +167,7 @@ Stage   5:  Nominees will be considered by the CSC selection committee and
 Results are expected to be communicated in November/December 2026.
 Completing host application form
 Applications for prospective hosts for non-ODA country fellowships are now open and will close on Thursday 27 August 2026 at 16:00 BST .
-Applications must be made using the   CSC’s online application system
+Applications must be made using the CSC’s online application system
 A representative of all organisations/departments wishing to apply will need to register to use our online system and receive a passkey from the CSC to access the application system. To complete the full registration, please send a request to cfp@cscuk.org.uk .
 In the application form, host organisations must provide:
 Information on how you meet the eligibility criteria, including providing a link to your latest published accounts.
@@ -199,7 +199,7 @@ Development impact
 Candidate potential
 For full details see the  Selection Criteria for Assessment of Applications .
 Roles and responsibilities
-The CSC and its Secretariat at the Association of Commonwealth Universities (ACU) are responsible for selecting candidates and administering the scheme, including:
+The CSC and its Secretariat at The Association of Commonwealth Universities (ACU) are responsible for selecting candidates and administering the scheme, including:
 Liaising with the host organisation about the dates and details of the Fellowship.
 Notifying successful Fellows that they have been provisionally selected (selected for an award subject to the CSC agreeing terms of admission with the host organisation).
 Issuing a formal Notification of Award (NoA) and Confirmation of Award (CoA) to each Fellow outlining the terms and conditions of the award.
@@ -310,17 +310,12 @@ Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/ =====
 Scholarships and Fellowships - Commonwealth Scholarship Commission in the UK
-About us
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -331,15 +326,20 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
 Scholarships and Fellowships
 Our work combines sustainable development with the UK national interest, by supporting innovators and leaders of the future from across the Commonwealth and attracting outstanding talent to the UK’s universities.
@@ -368,7 +368,7 @@ Shared Master’s Scholarships are offered at selected UK universities for selec
 Read More About the Scholarship
 Click for Information on UK University bidding
 Distance Learning Master’s Scholarships
-This programme is currently paused and will not be running in 2026.
+This programme is currently paused and will not be running in 2026 or 2027.
 Distance Learning Master’s Scholarships offer a selection of Master’s courses through participating universities for those who may not be able to travel outside of their country.
 Split-site PhD Scholarships
 This programme is currently paused and will not be running in 2026 or 2027.
@@ -447,17 +447,12 @@ Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/alumni/acef/ =====
 Alumni Community Engagement Fund (ACEF) - Commonwealth Scholarship Commission in the UK
-About us
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -468,15 +463,20 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
 Alumni Community Engagement Fund (ACEF)
 The Alumni Community Engagement Fund champions small, locally driven actions that spark long-lasting, positive change on a wider scale.
@@ -571,17 +571,12 @@ Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/apply/uk-universities/ =====
 CSC Partners - Commonwealth Scholarship Commission in the UK
-About us
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -592,15 +587,20 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
 CSC Partners
 Commonwealth Scholarships play an important role in attracting the brightest talent to UK universities, providing them with access to a world-class university education. Through these awards, universities are able to build long-term research collaborations and academic partnerships with other institutions across the Commonwealth. The CSC works with various partners in order to offer awards to people across the Commonwealth.
@@ -659,17 +659,12 @@ Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/scholarships-filter-search/ =====
 Scholarships Filter Search - Commonwealth Scholarship Commission in the UK
-About us
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -680,15 +675,20 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
 Apply for Scholarships
 Select a country from the drop-down menu below to see which Commonwealth Scholarships are available to you.
@@ -699,12 +699,12 @@ Strengthening resilience and response to crises
 Improving population health, health systems and capacity
 Strengthening global peace, security and governance
 Access, inclusion and opportunity
-All Scholarships are part-funded by UK Host universities .
+All Scholarships are part-funded by UK host universities .
 We are aware of an organisation naming themselves the ‘Commonwealth Exchange Scholarship Council’ who have listed various Commonwealth Scholarship programmes (which are funded by FCDO) on its website. Please be aware this is not an official partner organisation for the Commonwealth Scholarship Commission nor the Association of Commonwealth Universities.
 With various Commonwealth Scholarship programmes opening for applications over the coming weeks, we would like to remind prospective applicants to use only the official CSC website and systems when applying.
 Applications for Commonwealth Scholarships are only managed directly by the CSC which can be accessed via the application pages on the CSC website: https://cscuk.fcdo.gov.uk/
 Please be cautious of third-party websites requesting personal information or supporting documentation. The CSC will never ask applicants to attend in-person screening events as part of its scholarship selection process, and supporting documentation should only be submitted through the official application system.
-Choose your country from the drop-down menu below to find out your eligibility for the various Commonwealth Scholarship programmes .
+Choose your country from the drop-down menu below to find out your eligibility for the various Commonwealth Scholarship and Fellowship programmes .
 Select Country
 All Countries Anguilla Antigua and Barbuda Australia Bahamas Bangladesh Barbados Belize Bermuda Botswana British Virgin Islands Brunei Darussalam Cameroon Canada Cayman Islands Cyprus Dominica Eswatini Falkland Islands Fiji Gabon Ghana Gibraltar Grenada Guyana India Jamaica Kenya Kiribati Lesotho Malawi Malaysia Maldives Malta Mauritius Montserrat Mozambique Namibia Nauru New Zealand Nigeria Pakistan Papua New Guinea Rwanda Saint Helena Saint Kitts and Nevis Saint Lucia Saint Vincent and the Grenadines Samoa Seychelles Sierra Leone Singapore Solomon Islands South Africa Sri Lanka Tanzania The Gambia Togo Tonga Trinidad and Tobago Turks and Caicos Islands Tuvalu Uganda Vanuatu Zambia
 Copyright Notice | Financial Accountability | Contact Us
@@ -755,18 +755,13 @@ SAVE & ACCEPT
 Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-fellowships-information-for-candidates/ =====
-Commonwealth Fellowships Information For Candidates - Commonwealth Scholarship Commission in the UK
-About us
+Commonwealth Fellowships – information for candidates - Commonwealth Scholarship Commission in the UK
 Scholarships and Fellowships
-Development Themes
-Evaluation and Monitoring
-Time Limited Programmes
-Strategy 2025-28
-Current Scholars &#038; Fellows
-Regional Networks
-Student Wellbeing
+Current Scholars
+Regional networks
+Student wellbeing
 Programme Officers
-Handbook, Policies and Forms
+Handbook, policies and forms
 Alumni
 Personal and professional resources
 Alumni associations
@@ -777,19 +772,24 @@ CSC Research Impact Awards
 Mentoring Programme
 Alumni Community Engagement Fund
 Update your details
+About us
 News
 Events
+Development Themes
+Evaluation and monitoring
+Time Limited Programmes
+Strategy 2025-28
 Partners
-UK Universities
+UK universities
 National nominating agencies
-NGOs and Charitable Bodies
-Professional Fellowship Host Organisations
+NGOs and charitable bodies
+Fellowship host organisations
 Academic Advisers
-Apply
+Find a scholarship
 Select Page
-Commonwealth Fellowships Information For Candidates
+Commonwealth Fellowships – information for candidates
 by Simon Longley | Jul 24, 2026
-Commonwealth Fellowships Information For Candidates
+Commonwealth Fellowships – information for candidates
 Overview
 Host organisation programmes
 How to apply
@@ -877,7 +877,7 @@ Website: causewaycoastandglens.gov.uk
 Programme detail and eligibility
 Back to list of host organisations
 Christ Apostolic Church – House of Prayer UK – Professional Fellowships
-Proposed programme dates: 14/02/2027 to 29/03/2026
+Proposed programme dates: 14/02/2027 to 29/03/2027
 Priority theme: Science and technology for development
 Recruiting from an established network: No
 Website: cacahouseofprayer.org
@@ -897,7 +897,7 @@ Recruiting from an established network: No
 Programme detail and eligibility
 Back to list of host organisations
 Imperial College London – Academic Fellowships
-Proposed programme dates: 10/02/2027 to 08/05/2026
+Proposed programme dates: 10/02/2027 to 08/05/2027
 Priority theme: Science and technology for development
 Recruiting from an established network: Yes
 Website: imperial.ac.uk/imperial-global-development-lab
@@ -970,7 +970,7 @@ Website: bradford.ac.uk/ict
 Programme detail and eligibility
 Back to list of host organisations
 University of East London – School of Health, Sport and Bioscience – Professional Fellowships
-Proposed programme dates: 15/02/2027 to 14/05/2026
+Proposed programme dates: 15/02/2027 to 14/05/2027
 Priority theme: Science and technology for development
 Recruiting from an established network: No
 Website: uel.ac.uk/about/our-schools/school-health-sport-bioscience

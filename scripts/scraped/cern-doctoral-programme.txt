@@ -120,48 +120,35 @@ Show filters
 Filter by
 Fields of Work
 Currently, there are no open positions for these Fields of Work
-Applied Physics
-0
 Civil Engineering
 0
-Data Science & Data Analytics
-0
-Electrical or Electronics Engineering
-0
 Health, Safety and Environment
-0
-Material and Surface Science
-0
-Mathematics
-0
-Mechanical Engineering
-0
-Software Engineering and IT
 0
 Experience level
 Entry level
 0 - 2 year(s)
-13
+0
 Experienced
 > 6 years
-37
+0
 Mid-Level
 2 - 6 years
-7
+0
 Student
 1
 Profile
 Administrative
-9
+0
 Engineering
-35
+0
 Research
-11
+1
 Technical
-13
+0
 More filters
 More filters
 Filter by
+Fields of Work
 Experience level
 Entry level
 0 - 2 year(s)
@@ -203,34 +190,57 @@ Team supervision
 Possible recruitment of Non Member State nationals
 Apply ( 0 )
 Delete all filters
+Fields of Work
+Roles
+Applied Physics
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Data Science & Data Analytics
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Electrical or Electronics Engineering
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Material and Surface Science
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Mathematics
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Mechanical Engineering
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Software Engineering and IT
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
 Sorry, no job openings match your search.
 There are no open positions for the Doctoral Studentship for these Fields of Work
-Applied Physics
-Be the first to hear about new open roles in Applied Physics
-Create an alert
 Civil Engineering
 Be the first to hear about new open roles in Civil Engineering
 Create an alert
-Data Science & Data Analytics
-Be the first to hear about new open roles in Data Science & Data Analytics
-Create an alert
-Electrical or Electronics Engineering
-Be the first to hear about new open roles in Electrical or Electronics Engineering
-Create an alert
 Health, Safety and Environment
 Be the first to hear about new open roles in Health, Safety and Environment
-Create an alert
-Material and Surface Science
-Be the first to hear about new open roles in Material and Surface Science
-Create an alert
-Mathematics
-Be the first to hear about new open roles in Mathematics
-Create an alert
-Mechanical Engineering
-Be the first to hear about new open roles in Mechanical Engineering
-Create an alert
-Software Engineering and IT
-Be the first to hear about new open roles in Software Engineering and IT
 Create an alert
 Find the perfect programme for you
 What&#8217;s your domain?
