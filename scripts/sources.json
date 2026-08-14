@@ -1559,5 +1559,68 @@
     "country": "Canada",
     "url": "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship",
     "note": "Government-backed research internship program in Canada for international undergraduates."
+  },
+  {
+    "slug": "daad-scholarships-india",
+    "name": "DAAD Scholarships (India)",
+    "country": "Germany",
+    "url": "https://www.daad.de/",
+    "note": "General DAAD portal; specific program pages should be targeted based on study level."
+  },
+  {
+    "slug": "deutschlandstipendium",
+    "name": "Deutschlandstipendium",
+    "country": "Germany",
+    "url": "https://www.deutschlandstipendium.de/",
+    "note": "Applied for directly through individual German universities."
+  },
+  {
+    "slug": "erasmus-mundus-scholarships",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "European Union",
+    "url": "https://www.erasmus-mundus.eu/",
+    "note": "Funded by the European Union, covers multiple European countries."
+  },
+  {
+    "slug": "daad-wise-internship-stipend",
+    "name": "DAAD WISE (Working Internships in Science and Engineering)",
+    "country": "Germany",
+    "url": "https://www.daad.de/",
+    "note": "Specific internship funding for Bachelor's students."
+  },
+  {
+    "slug": "heinrich-boll-foundation-scholarship",
+    "name": "Heinrich Böll Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.boell.de/",
+    "note": "Political foundation scholarship open to international Masters and PhD students."
+  },
+  {
+    "slug": "friedrich-ebert-foundation-scholarship",
+    "name": "Friedrich Ebert Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.fes.de/",
+    "note": "SPD-aligned political foundation scholarship for international students."
+  },
+  {
+    "slug": "konrad-adenauer-foundation-scholarship",
+    "name": "Konrad Adenauer Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.kas.de/",
+    "note": "CDU-aligned political foundation scholarship."
+  },
+  {
+    "slug": "friedrich-naumann-foundation-scholarship",
+    "name": "Friedrich Naumann Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.freiheit.org/",
+    "note": "FDP-aligned political foundation scholarship focusing on liberal values and entrepreneurship."
+  },
+  {
+    "slug": "rosa-luxemburg-foundation-scholarship",
+    "name": "Rosa Luxemburg Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.rosalux.de/",
+    "note": "Left-aligned political foundation scholarship open to international students."
   }
 ]
