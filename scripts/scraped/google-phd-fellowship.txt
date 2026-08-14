@@ -521,15 +521,15 @@ General Science
 Hardware and Architecture
 127
 Health & Bioscience
-113
+114
 Human-Computer Interaction and Visualization
 285
 Information Retrieval and the Web
 183
 Machine Intelligence
-1003
+1004
 Machine Learning
-191
+192
 Machine Perception
 425
 Machine Translation
@@ -556,7 +556,7 @@ Software Systems
 216
 Speech Processing
 156
-1 - 30 of 2199 researchers
+1 - 30 of 2200 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,24 +587,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Anmol Agarwal
-Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -613,6 +613,9 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
@@ -623,9 +626,6 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,16 +651,16 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Zafarali Ahmed
-Machine Intelligence
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems

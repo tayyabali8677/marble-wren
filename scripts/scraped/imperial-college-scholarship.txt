@@ -55,6 +55,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -2121,7 +2122,7 @@ Home, Overseas, Full time
 Academic year
 2026/2027
 Application deadline
-14/08/2026
+14/08/2026 Closed
 Postgraduate doctoral
 PhD Studentship in Health Analytics and Modelling
 Award value
@@ -2934,7 +2935,7 @@ Application deadline
 No matching results
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services
@@ -3036,6 +3037,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -3437,7 +3439,7 @@ Request information
 Pause motion
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services
@@ -3539,6 +3541,7 @@ President
 Provost and Deputy President
 Council
 Imperial Strategy
+League tables and rankings
 Imperial Global
 Sustainable Imperial
 School of Convergence Science
@@ -3892,7 +3895,7 @@ Contact us
 Pause motion
 Useful Links
 Popular links
-Blackboard
+Canvas
 Contact the Service Desk
 Jobs
 Library services
