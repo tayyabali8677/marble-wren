@@ -49,10 +49,24 @@ jobs:
           git add scripts/sources.json
           if git diff --staged --quiet; then
             echo "No new sources discovered — sources.json unchanged."
-          else
-            git commit -m "auto: add discovered scholarship sources [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "auto: add discovered scholarship sources [skip ci]"
+          # SEO Nightly and later steps of this same run also push to master, so
+          # a push landing between our fetch and push gets rejected. That is a
+          # race, not a failure: rebase onto whatever landed and retry a few
+          # times rather than killing the pipeline (and skipping Generate).
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash origin master || true
+            if git push origin master; then
+              echo "Pushed discovered sources on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push attempt ${attempt} lost a race, retrying..."
+            sleep $(( (RANDOM % 8) + 2 ))
+          done
+          echo "Could not push discovered sources after 5 attempts."
+          exit 1
 
       - name: Scrape
         env:
@@ -73,10 +87,23 @@ jobs:
           git add scripts/scraped/
           if git diff --staged --quiet; then
             echo "No new scraped files to commit."
-          else
-            git commit -m "auto: persist scraped source files [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "auto: persist scraped source files [skip ci]"
+          # Same race guard as above. This is the step that failed the 06:21 run
+          # on a rejected push, which skipped Generate/Publish and shipped zero
+          # scholarships for that cycle, so the retry matters most here.
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash origin master || true
+            if git push origin master; then
+              echo "Pushed scraped files on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push attempt ${attempt} lost a race, retrying..."
+            sleep $(( (RANDOM % 8) + 2 ))
+          done
+          echo "Could not push scraped files after 5 attempts."
+          exit 1
 
       - name: Generate
         id: generate
