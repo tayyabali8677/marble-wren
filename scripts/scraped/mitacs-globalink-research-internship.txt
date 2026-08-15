@@ -6,32 +6,10 @@ News &#038; Events
 Français
 Get Started
 Menu
-Who We Are
-Strategic Plan 2026-2030
-Where We Invest
-What We Do
-Equity, Diversity, and Inclusion
-Careers
-About
-Who We Serve
-Business
-Not-for-Profit
-Professor
-Student & Postdoc
-Sectors
-Advanced Manufacturing
-Artificial Intelligence
-Cleantech
-Cybersecurity
-Health and Life Sciences
-Information Technologies
-Quantum
-Services
-Connecting to Talent
-Financial Support
-Managing Innovation
-Training Opportunities
 Programs
+About
+Strategic Plan 2026-2030
+About Mitacs
 Impact
 Innovation Insights
 Completed Projects
@@ -291,6 +269,18 @@ Technology (B. Tech)
 Minimum cumulative grade point average: 70%
 Language proficiency exam requirements:  No
 Additional requirements: No
+Ireland - 2027 Cohort Eligibility
+Partner(s): Higher Education Authority &#8211;  Higher Education Authority
+Citizenship requirement:  No
+Eligible institutions in Ireland : View eligibility list for Ireland  – no other institutions can be added
+Eligible applicants:
+Full-time undergraduate students or combined undergraduate-Master’s program
+Earliest graduation date (i.e. applicants cannot graduate before): December 31, 2028
+Latest graduation date (i.e. applicants cannot graduate after): December 31, 2029
+Eligible discipline: All disciplines
+Minimum cumulative grade point average: 60% (Minimum 2.1 Honours average)
+Language proficiency exam requirements: No
+Additional requirements:  No
 Jordan - 2027 Cohort Eligibility
 Partner(s):  Ministry of Digital Economy and Entrepreneurship &#8211;   https://www.modee.gov.jo/Default/En
 Citizenship requirements: Yes; Jordanian citizen
@@ -680,15 +670,14 @@ Student &#038; Postdoc
 Colleges and Polytechnic
 Partner with us
 Explore
-What We Do
-Where We Invest
 Mitacs Innovation Awards
 Indigenous Pathways
+Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
 Company
-About Mitacs: Building a Strong and Resilient Canadian Economy
+About Mitacs
 Mitacs Advisors
 Strategic Plan
 Annual Report
@@ -697,7 +686,6 @@ Careers
 Stewardship
 Resources
 Innovation Insights
-Completed Projects
 News and Events
 Media Kit
 Training
@@ -717,32 +705,10 @@ News &#038; Events
 Français
 Get Started
 Menu
-Who We Are
-Strategic Plan 2026-2030
-Where We Invest
-What We Do
-Equity, Diversity, and Inclusion
-Careers
-About
-Who We Serve
-Business
-Not-for-Profit
-Professor
-Student & Postdoc
-Sectors
-Advanced Manufacturing
-Artificial Intelligence
-Cleantech
-Cybersecurity
-Health and Life Sciences
-Information Technologies
-Quantum
-Services
-Connecting to Talent
-Financial Support
-Managing Innovation
-Training Opportunities
 Programs
+About
+Strategic Plan 2026-2030
+About Mitacs
 Impact
 Innovation Insights
 Completed Projects
@@ -990,6 +956,17 @@ India &#8211; 2027 Cohort Eligibility
 Partner(s):   All India Council for Technical Education –  aicte.gov.in
 Eligible institutions:
 India AICTE &#8211; Eligible institutions
+Ireland &#8211; 2027 Cohort Eligibility
+Partner(s):  Higher Education Authority –  Higher Education Authority
+Eligible institutions:
+Atlantic Technological University
+Institute of Art, Design and Technology
+Maynooth University
+Munster Technological University
+RCSI University of Medicine and Health Sciences
+Technological University of the Shannon
+Technological University Dublin
+University College Dublin
 Jordan &#8211; 2027 Cohort Eligibility
 Partner(s):  Ministry of Digital Economy and Entrepreneurship &#8211;   https://www.modee.gov.jo/Default/En
 Eligible institutions:  All Jordanian universities
@@ -1178,15 +1155,14 @@ Student &#038; Postdoc
 Colleges and Polytechnic
 Partner with us
 Explore
-What We Do
-Where We Invest
 Mitacs Innovation Awards
 Indigenous Pathways
+Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
 Company
-About Mitacs: Building a Strong and Resilient Canadian Economy
+About Mitacs
 Mitacs Advisors
 Strategic Plan
 Annual Report
@@ -1195,7 +1171,6 @@ Careers
 Stewardship
 Resources
 Innovation Insights
-Completed Projects
 News and Events
 Media Kit
 Training
@@ -1215,32 +1190,10 @@ News &#038; Events
 Français
 Get Started
 Menu
-Who We Are
-Strategic Plan 2026-2030
-Where We Invest
-What We Do
-Equity, Diversity, and Inclusion
-Careers
-About
-Who We Serve
-Business
-Not-for-Profit
-Professor
-Student & Postdoc
-Sectors
-Advanced Manufacturing
-Artificial Intelligence
-Cleantech
-Cybersecurity
-Health and Life Sciences
-Information Technologies
-Quantum
-Services
-Connecting to Talent
-Financial Support
-Managing Innovation
-Training Opportunities
 Programs
+About
+Strategic Plan 2026-2030
+About Mitacs
 Impact
 Innovation Insights
 Completed Projects
@@ -1488,6 +1441,17 @@ India &#8211; 2027 Cohort Eligibility
 Partner(s):   All India Council for Technical Education –  aicte.gov.in
 Eligible institutions:
 India AICTE &#8211; Eligible institutions
+Ireland &#8211; 2027 Cohort Eligibility
+Partner(s):  Higher Education Authority –  Higher Education Authority
+Eligible institutions:
+Atlantic Technological University
+Institute of Art, Design and Technology
+Maynooth University
+Munster Technological University
+RCSI University of Medicine and Health Sciences
+Technological University of the Shannon
+Technological University Dublin
+University College Dublin
 Jordan &#8211; 2027 Cohort Eligibility
 Partner(s):  Ministry of Digital Economy and Entrepreneurship &#8211;   https://www.modee.gov.jo/Default/En
 Eligible institutions:  All Jordanian universities
@@ -1676,15 +1640,14 @@ Student &#038; Postdoc
 Colleges and Polytechnic
 Partner with us
 Explore
-What We Do
-Where We Invest
 Mitacs Innovation Awards
 Indigenous Pathways
+Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
 Company
-About Mitacs: Building a Strong and Resilient Canadian Economy
+About Mitacs
 Mitacs Advisors
 Strategic Plan
 Annual Report
@@ -1693,7 +1656,6 @@ Careers
 Stewardship
 Resources
 Innovation Insights
-Completed Projects
 News and Events
 Media Kit
 Training
@@ -1713,32 +1675,10 @@ News &#038; Events
 Français
 Get Started
 Menu
-Who We Are
-Strategic Plan 2026-2030
-Where We Invest
-What We Do
-Equity, Diversity, and Inclusion
-Careers
-About
-Who We Serve
-Business
-Not-for-Profit
-Professor
-Student & Postdoc
-Sectors
-Advanced Manufacturing
-Artificial Intelligence
-Cleantech
-Cybersecurity
-Health and Life Sciences
-Information Technologies
-Quantum
-Services
-Connecting to Talent
-Financial Support
-Managing Innovation
-Training Opportunities
 Programs
+About
+Strategic Plan 2026-2030
+About Mitacs
 Impact
 Innovation Insights
 Completed Projects
@@ -1838,15 +1778,14 @@ Student &#038; Postdoc
 Colleges and Polytechnic
 Partner with us
 Explore
-What We Do
-Where We Invest
 Mitacs Innovation Awards
 Indigenous Pathways
+Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
 Company
-About Mitacs: Building a Strong and Resilient Canadian Economy
+About Mitacs
 Mitacs Advisors
 Strategic Plan
 Annual Report
@@ -1855,7 +1794,6 @@ Careers
 Stewardship
 Resources
 Innovation Insights
-Completed Projects
 News and Events
 Media Kit
 Training

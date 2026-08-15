@@ -274,11 +274,6 @@ Odwiedź nas
 Deklaracja dostępności
 Przewiń do góry
 &times;
-&times;
-Uwaga! Informujemy, że w piątek, 14 sierpnia, biuro NAWA będzie nieczynne.
-Zapraszamy do kontaktu od poniedziałku, 17 sierpnia 2026 r.
-Warning! Please note that the NAWA office will be closed on Friday, August the 14th 2026.
-We will be available again from Monday, August the 17th 2026 r.
 
 ===== SOURCE PAGE: https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/wspolne-projekty-badawcze/faq-czeste-pytania =====
 FAQ - najczęściej zadawane pytania - NAWA
@@ -661,11 +656,6 @@ Odwiedź nas
 Deklaracja dostępności
 Przewiń do góry
 &times;
-&times;
-Uwaga! Informujemy, że w piątek, 14 sierpnia, biuro NAWA będzie nieczynne.
-Zapraszamy do kontaktu od poniedziałku, 17 sierpnia 2026 r.
-Warning! Please note that the NAWA office will be closed on Friday, August the 14th 2026.
-We will be available again from Monday, August the 17th 2026 r.
 
 ===== SOURCE PAGE: https://nawa.gov.pl/wspolpraca-i-wymiana-miedzynarodowa/stypendia-i-granty-z-zagranicy =====
 Stypendia i granty z zagranicy - NAWA
@@ -934,13 +924,6 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-IWW 2027 Writers-in-Residence Programme: rezydencja pisarska w Hongkongu
-16.07.2026 - 14.08.2026
-International Writers’ Workshop (IWW) at Hong Kong Baptist University prowadzi nabór do 2027 Writers-in-Residence Programme, rezydencji pisarskiej zaplanowanej od 26 lutego do 25 marca 2027 r. w Hongkongu. Program zakończy się IWW Literary Festival pod hasłem „Inheritance”; osoby aplikujące mogą, ale nie muszą, odnieść się do tego tematu w swojej twórczości.
-Szczegóły
-16
-Lip
-2026
 IEG Fellowships for Doctoral Students – stypendia doktoranckie w Niemczech
 16.07.2026 - 15.08.2026
 IEG Fellowships for Doctoral Students to program stypendialny Leibniz-Institut für Europäische Geschichte (IEG) w Mainz dla doktorantów i doktorantek pracujących nad projektami z historii Europy, historii religii lub innych dyscyplin historycznych. Aktualny nabór dotyczy pobytu rozpoczynającego się od marca 2027 roku lub później.
@@ -965,6 +948,13 @@ Lip
 ERC Advanced Grant 2026 – granty badawcze dla liderów nauki
 16.07.2026 - 27.08.2026
 ERC Advanced Grant to grant Europejskiej Rady ds. Badań Naukowych dla doświadczonych, uznanych liderów i liderek badań, którzy chcą zrealizować ambitny i przełomowy projekt naukowy. Program działa w formule bottom-up, dlatego wnioski mogą dotyczyć dowolnej dziedziny badań, bez z góry określonych priorytetów tematycznych.
+Szczegóły
+16
+Lip
+2026
+Program stypendialny PLus – Aktywny Student 2026
+16.07.2026 - 30.08.2026
+„Program stypendialny PLus – Aktywny Student” to wsparcie dla osób polskiego pochodzenia studiujących za granicą, w krajach swojego zamieszkania. Nabór dotyczy roku kalendarzowego 2026 i prowadzony jest jako nabór podstawowy, czyli pierwszy etap programu.
 Szczegóły
 Start
 Poprzedni
@@ -997,11 +987,6 @@ Odwiedź nas
 Deklaracja dostępności
 Przewiń do góry
 &times;
-&times;
-Uwaga! Informujemy, że w piątek, 14 sierpnia, biuro NAWA będzie nieczynne.
-Zapraszamy do kontaktu od poniedziałku, 17 sierpnia 2026 r.
-Warning! Please note that the NAWA office will be closed on Friday, August the 14th 2026.
-We will be available again from Monday, August the 17th 2026 r.
 
 ===== SOURCE PAGE: https://nawa.gov.pl/apostille-i-legalizacja/jak-uzyskac-apostille =====
 FAQ - Najczęściej zadawane pytania - NAWA
@@ -1344,11 +1329,6 @@ Odwiedź nas
 Deklaracja dostępności
 Przewiń do góry
 &times;
-&times;
-Uwaga! Informujemy, że w piątek, 14 sierpnia, biuro NAWA będzie nieczynne.
-Zapraszamy do kontaktu od poniedziałku, 17 sierpnia 2026 r.
-Warning! Please note that the NAWA office will be closed on Friday, August the 14th 2026.
-We will be available again from Monday, August the 17th 2026 r.
 
 ===== SOURCE PAGE: https://nawa.gov.pl/uznawalnosc/faq-najczesciej-zadawane-pytania =====
 FAQ - najczęściej zadawane pytania - NAWA
@@ -1862,8 +1842,3 @@ Odwiedź nas
 Deklaracja dostępności
 Przewiń do góry
 &times;
-&times;
-Uwaga! Informujemy, że w piątek, 14 sierpnia, biuro NAWA będzie nieczynne.
-Zapraszamy do kontaktu od poniedziałku, 17 sierpnia 2026 r.
-Warning! Please note that the NAWA office will be closed on Friday, August the 14th 2026.
-We will be available again from Monday, August the 17th 2026 r.

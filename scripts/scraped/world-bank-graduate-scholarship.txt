@@ -1,0 +1,785 @@
+===== SOURCE PAGE: https://www.worldbank.org/en/about/careers/programs-and-internships =====
+Career Talent Programs: Interships, Young Professionals | World Bank Group
+Home
+https://www.worldbank.org/ext/en/home
+Careers
+https://www.worldbank.org/ext/en/careers
+Talent Programs
+https://www.worldbank.org/ext/en/careers/talent-programs
+Default alt
+Talent Programs
+large
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+transparent-white-components, overlay-banner, position-bottom, image-height-680
+Launch Your Career with Us
+Explore our recruitment programs designed for current students and recent graduates.  These programs offer you hands-on experience, global exposure, and the opportunity to contribute to solutions that improve lives worldwide.
+lp-heading-top-xxhuge
+lp-heading-bottom-xxhuge
+Young Professionals Program (YPP)
+large
+The Young Professionals Program (YPP)  is the World Bank Group’s premier leadership development program for high performing professionals with a passion for global development. Participants gain hands on experience, global exposure, and the opportunity to contribute directly to projects shaping development outcomes worldwide.
+Learn More
+https://www.worldbank.org/ext/en/careers/talent-programs/young-professionals-program
+Default alt
+More in this section
+Overview
+Careers
+Talent Programs
+Hiring Process
+Benefits
+FAQs
+sec-swoosh
+sec-swoosh-none
+style
+heading-vertical, bg-white, transparent-white-components, border-radius-top-y-80, heading-v2, grid-colum-space-m-xxlarge, image-3by2, border-radius-medium, add-style
+sec-spacing
+section-regular
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-5
+col1-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12
+col2-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12 heading-center
+col2-blocks
+lp-heading
+col3-class
+col-lg-4 col-md-4 col-sm-12 col-xs-12
+col3-blocks
+lp-heading
+accordion
+col4-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col5-class
+col-lg-7 col-md-7 col-sm-12 col-xs-12
+col5-blocks
+custom-image
+Default alt
+WBG Pioneers
+large
+WBG Pioneers, the World Bank Group’s Internship Program, offers undergraduate and postgraduate students a high impact learning experience at the heart of global development. Participants gain hands on experience in a diverse and dynamic environment, contribute fresh perspectives and innovative ideas, and connect with international professionals working to end poverty on a livable planet.
+Learn More
+https://www.worldbank.org/ext/en/careers/talent-programs/wbg-pioneers
+style
+grid, heading-vertical, image-caption, border-radius-medium, grid-revarse-1023, grid-colum-space-m-xxlarge, image-3by2
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-3
+col1-class
+col-lg-7 col-md-7 col-sm-12 col-xs-12
+col1-blocks
+custom-image
+col2-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col3-class
+col-lg-4 col-md-4 col-sm-12 col-xs-12
+col3-blocks
+lp-heading
+Partnership Programs
+large
+lp-heading-bottom-xlarge
+style
+grid
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+no-grid
+false
+col-ctrl
+col-1
+col1-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12
+col1-blocks
+lp-heading
+col2-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col2-blocks
+custom-image
+custom-text
+col3-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col3-blocks
+custom-image
+custom-text
+http://www.worldbank.org/ext/en/careers/talent-programs/wbg-explorers
+WBG Explorers
+https://www.worldbank.org/ext/en/careers/talent-programs/wbg-fellowship-program
+WBG Fellowship Program
+https://www.worldbank.org/ext/en/careers/talent-programs/mna-fellows-program
+MNA Fellowship Program
+https://www.worldbank.org/ext/en/careers/talent-programs/donor-funded-program
+Donor Funded Staff Program
+style
+grid
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-1
+col1-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12
+col1-blocks
+image-with-link
+enable-swiper
+true
+slides-per-view
+col2class
+arrows-position
+swiper-arrows-left-bottom
+desktopView
+lp__flex_card_2col
+Default alt
+See yourself in our mission
+large
+Search Open Positions
+https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+Join our Talent Network
+https://worldbankgroup.csod.com/ATS/careersite/da.aspx?routename=ATS/CareerSite/ConnectWithUsForm&#x26;site=1&#x26;c=worldbankgroup&#x26;v=1
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+default, overlay-banner, image-height-660, heading-center, heading-vertical, transparent-white-components, z-index-99, heading-v2
+
+===== SOURCE PAGE: https://www.worldbank.org/ext/en/careers/benefits =====
+Careers: Benefits | World Bank Group
+Home
+https://www.worldbank.org/ext/en/home
+Careers
+https://www.worldbank.org/ext/en/careers
+Benefits
+https://www.worldbank.org/ext/en/careers/benefits
+Default alt
+Benefits
+large
+Search Open Positions
+https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+transparent-white-components, overlay-banner, position-bottom, image-height-680
+Our mission starts with our people
+large
+Our commitment to improving lives around the world extends to our own community. Our benefits support overall well-being for you and your family, at any stage of your career, wherever work takes you.
+false
+lp-heading-top-xxhuge
+lp-heading-bottom-xxhuge
+Financial Benefits
+large
+We invest in your financial well-being so you can focus on the work that matters. These benefits are designed to support you today while helping you plan confidently for the future.
+lp-heading-bottom-xlarge
+false
+Competitive salary
+f1
+We offer internationally competitive salaries based on your professional experience and level of education. Our salary ranges are revised annually, using both private sector and public sector comparators in each country where staff are located. Special adjustments may be made to address compensation issues caused by high inflation.
+Pension plan
+f2
+The World Bank Group sponsors a comprehensive retirement savings plan for all staff, which may be converted into a monthly pension upon retirement based on eligible years of service. Staff make regular contributions to the plan, and the World Bank Group provides a generous match. Staff also have the option of participating in the World Bank Group 401(k) plan or Country Office Savings Plan.
+Mandatory Retirement Age:  At the World Bank Group, staff must retire by their 67th birthday. All contracts and appointments must end before this age, and applications from candidates who have reached 67 will be declined.
+Financial wellness education
+f3
+The World Bank Group offers financial wellness education, a financial assistance program with five types of loans (general, emergency, settling-in, education, and housing), and identify protection services, including fraud alert and credit monitoring.
+Default alt
+More in this section
+Overview
+Careers
+Talent Programs
+Hiring Process
+Benefits
+FAQs
+sec-swoosh
+sec-swoosh-none
+style
+grid, heading-vertical, heading-v2, image-1by1, bg-white, transparent-white-components, border-radius-top-y-80, add-style
+sec-spacing
+section-regular
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-5
+col1-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12
+col2-class
+col-lg-12 col-md-12 col-sm-12 col-xs-12 heading-center
+col2-blocks
+lp-heading
+col3-class
+col-lg-5 col-md-5 col-sm-12 col-xs-12 medium-spacing-xxlarge
+col3-blocks
+lp-heading
+accordion
+col4-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col5-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col5-blocks
+custom-image
+Career Growth &#x26; Professional Development
+Your growth fuels our mission. Here, you’ll find opportunities at every stage of your career to deepen your expertise, stretch into new roles, and learn from colleagues across regions and disciplines.
+lp-heading-bottom-xlarge
+Default alt
+false
+Build a long and rewarding career
+cg1
+At the World Bank Group, your career is a journey of growth. We offer opportunities to expand your expertise, take on new challenges, and build a career with lasting impact.
+Make a measurable impact
+cg2
+Contribute to a mission to end extreme poverty and boost shared prosperity on a livable planet. Your work will help deliver real results through global projects that combine knowledge, financing, and expertise.
+Mentorship programs
+cg3
+Staff and consultants have access to various mentorship programs such as MentorConnect (a self-service mentoring program). The Y2Y (Youth2Youth) Mentoring Program focuses on special mentoring for staff under 35.
+Cutting-edge learning programs
+cg4
+Access to cutting-edge learning helps staff accelerate their skills and contribute more strongly to WBG’s continued success. Staff have access to hundreds of courses offered in-person and online (at your own pace) on a broad range of topics from language courses to leadership development, and various other business skills.
+style
+grid, heading-vertical, heading-v2, image-1by1, bg-white, grid-colum-space-m, border-radius-medium, grid-revarse-1023
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-3
+col1-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col1-blocks
+custom-image
+col2-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col3-class
+col-lg-5 col-md-5 col-sm-12 col-xs-12
+col3-blocks
+lp-heading
+accordion
+col4-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col5-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col5-blocks
+custom-image
+Health &#x26; Wellness
+large
+Our health and wellness benefits support your physical, mental, and emotional well-being, with global coverage and services that help you stay grounded, and ready for the work ahead.
+lp-heading-bottom-xlarge
+false
+Health care coverage
+hw1
+The World Bank Group health plan is among the strongest benefits we offer. Headquarters-recruited staff and their eligible family members (including domestic partners) may choose from three comprehensive medical coverage and dental insurance benefit plans, with no pre-existing condition exclusions if enrolled within 60 days of start date. Staff recruited to the Country Office are eligible for a comprehensive medical/dental benefits plan for themselves and eligible family members, including domestic partners.
+Travel and on-site health services
+hw2
+Our on-site Health and Safety Directorate (HSD) at headquarters provides consultation and clinical services related to work assignments, such as travel medicine and pre-assignment medical clearance. We also offer a Health Promotion Program with ongoing activities to encourage good health habits for staff and their families.
+Fitness centers &#x26; personal training
+hw3
+To promote and maintain good health and well-being, we offer a fitness center at headquarters, fully supplied with state-of-the-art exercise equipment, locker rooms, showers, saunas, and exercise studios. The fitness center offers daily classes including yoga, cycling, karate, zumba, pilates, and other programs to promote and preserve the good health, morale, and productivity of staff.  Personal trainers are available to keep workouts fresh, fuel motivation, and make exercise fun and exciting.
+Life, accident &#x26; other insurance
+hw4
+We provide all staff with basic life and accident insurance at no cost. Headquarters-recruited staff can elect additional life and accident insurance coverage at their own expense. Disability and worker's compensation coverage is provided to all staff at no cost.
+Default alt
+style
+grid, heading-vertical, heading-v2, image-1by1, bg-white, border-radius-medium, grid-colum-space-m-xxlarge
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-3
+col1-class
+col-lg-5 col-md-5 col-sm-12 col-xs-12
+col1-blocks
+lp-heading
+accordion
+col2-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col3-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col3-blocks
+custom-image
+col4-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col5-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col5-blocks
+custom-image
+Family Support &#x26; Flexibility
+large
+Life outside of work matters. We offer programs that help you balance personal needs with professional purpose, wherever your career takes you.
+lp-heading-bottom-xlarge
+/content/dam/theworldbankgroupasset/corporate/fragment/careers/en/chatbot
+Default alt
+bottom center
+false
+Work-life balance &#x26; flexible arrangements
+fs1
+WBG strives to help staff achieve balance in their work and personal lives. We encourage staff to work one day per week from home and offer flexible work arrangements that include programs such as telecommuting, reduced work schedules, flextime, job sharing, and home-based work. These arrangements are offered at the hiring manager’s discretion and are based on the needs of the business and of the individual.
+Relocation, Resettlement, &#x26; Expatriate support
+fs2
+For staff appointed to positions subject to international recruitment, WBG pays relocation benefits upon appointment and resettlement benefits upon end of employment.  Moreover, WBG supports families in their search for homes and schools. We provide strong support for internationally recruited staff and Third Country Nationals working in local country offices. This includes relocation and resettlement benefits, as well as mobility premiums and global mobility benefits, for certain staff.
+World Bank Family Network
+fs3
+The World Bank Family Network (WBFN) is a volunteer-driven organization of spouses and partners of World Bank Group staff with a presence at Headquarters and across 50+ Country Office locations. The Network recognizes that families in transition are best supported by other families who have gone through similar experiences. The WBFN shares helpful relocation information with members in both the Washington, D.C. area and abroad, and offers a supportive network through social, cultural, educational, and advocacy programs.
+Childcare
+fs4
+We recognize that childcare is a top concern for many staff and are proud to offer the World Bank Group Children's Center as an option to address these needs at Headquarters. Backup childcare is also available to staff who need emergency or temporary childcare. The World Bank Group also offers ​​​​a child planning benefit designed that can be used to reimburse staff for eligible expenses related to adoption, surrogacy, and child planning.
+Lactation room
+fs5
+Rooms for nursing mothers are available in a number of WBG offices.  These include special soft seating, breast pumps, fridges, and mothers-only digital access.
+Generous leave policies
+fs6
+To promote work-life balance, we have generous leave policies, including 26 days of annual leave and 15 days of sick leave per year for new staff. We support staff with families through our parental leave program, which offers 100 days for primary and 50 days for secondary caregivers after the birth of a child or following adoption of a child less than 12 years old.
+With approval, staff may be granted (one day) of administrative leave per year to volunteer with a non-profit organization of their choice. We also offer compensatory leave in times of intensive and prolonged overtime work following operational travel, and emergency leave is offered in certain situations. Up to ten days per year of short-term family leave are available to staff who need time to care for family members due to illness or unavailable dependent care services.
+Finally, the World Bank Group provides a global end-of-year closure of all offices between December 26 and December 31 to allow all staff to fully disconnect from work and enjoy time with their loved ones.
+National holidays
+fs7
+The World Bank Group grants most federally recognized national holidays for staff working at Headquarters and most national holidays for Country Office staff.
+style
+grid, heading-vertical, heading-v2, image-1by1, bg-white, grid-colum-space-m, border-radius-medium, grid-revarse-1023
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+no-grid
+false
+col-ctrl
+col-3
+col1-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col1-blocks
+custom-image
+col2-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col3-class
+col-lg-5 col-md-5 col-sm-12 col-xs-12
+col3-blocks
+lp-heading
+accordion
+col4-class
+col-lg-1 col-md-1 col-sm-12 col-xs-12
+col5-class
+col-lg-6 col-md-6 col-sm-12 col-xs-12
+col5-blocks
+custom-image
+What makes us special
+We’re more than colleagues. We’re a global community that supports one another, shares life beyond work, and finds connection in the mission we serve.
+sec-spacing
+section-none
+sec-spacing-bottom
+section-xxhuge
+style
+default, heading-v2, bg-white
+sec-width
+false
+enable-swiper
+false
+slides-per-view
+lp__slide_1
+arrows-position
+swiper-arrows-center-bottom
+Default alt
+See yourself in our mission
+large
+Search Open Positions
+https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+Join our Talent Network
+https://worldbankgroup.csod.com/ATS/careersite/da.aspx?routename=ATS/CareerSite/ConnectWithUsForm&#x26;site=1&#x26;c=worldbankgroup&#x26;v=1
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+default, overlay-banner, image-height-660, heading-center, heading-vertical, transparent-white-components, z-index-99, heading-v2
+
+===== SOURCE PAGE: https://www.worldbank.org/ext/en/careers/faqs =====
+Careers: Frequently Asked Questions (FAQs) | World Bank Group
+Home
+https://www.worldbank.org/ext/en/home
+Careers
+https://www.worldbank.org/ext/en/careers
+FAQs
+https://www.worldbank.org/ext/en/careers/faqs
+Default alt
+FAQs
+large
+Search Open Positions
+https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+transparent-white-components, image-height-680, position-bottom, overlay-banner
+More in this section
+Overview
+Careers
+Talent Programs
+Hiring Process
+Benefits
+FAQs
+col-xs-12
+col-sm-12
+col-md-1
+col-lg-1
+col-xs-12
+col-sm-12
+col-md-10
+col-lg-10
+Have questions about careers at World Bank Group?
+What are the different appointment types at the World Bank?
+Ask Now
+Searching...
+As with any AI, results may be inaccurate or misleading. Please explore responsibly and apply judgment before incorporating into your work.
+Ask another question
+https://webapi.worldbank.org/api/globalsearch/google/answer
+Searching our knowledge base...
+Something went wrong. Please try again.
+Show More
+Show Less
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+wbgcolumn
+col-xs-12
+col-sm-12
+col-md-1
+col-lg-1
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-8
+col-lg-8
+false
+FAQ
+Why should I consider working for the World Bank Group?
+Working for the World Bank Group gives you a chance to have a real impact on people’s lives. We offer global careers in a diverse work environment.
+How should I start my job search with the World Bank Group?
+All jobs are advertised on the World Bank Group’s Careers website . We also advertise on LinkedIn.
+Can I send in my CV to be considered for any possible future opening?
+Due to the volume of applications we receive, we cannot accept unsolicited applications for unspecified roles. However, you can join our talent community and be informed about upcoming World Bank career events.
+How can I be notified about new vacancies that fit my profile?
+We recommend you register for job alerts in your specific area of interest and expertise. When those jobs are advertised, you will be alerted.
+How long are jobs advertised online?
+We typically advertise jobs for two weeks.
+How important is a Statement of Interest?
+The Statement of Interest (SOI) is very important. Selection committees read the SOI carefully to understand the applicant’s motivation and experience. Your SOI should be tailored to the position to which you are applying and should help the reader understand your unique qualifications.
+How important are the application screening questions?
+Applicant screening questions are an important part of the longlisting process. If candidates give false responses to the screening questions, we will reject that application.
+Recruitment &#x26; Application Process
+large
+lp-heading-top-xxhuge
+lp-heading-bottom-xlarge
+false
+How do I apply for a job at the World Bank Group?  Where can I find job openings?
+You can find current vacancies on the WBG Careers site under “Current Openings.” These include positions in Washington, D.C. and in country/regional offices. All applications must be submitted online through the system. The WBG does not accept applications sent by email or mail.
+How can I figure out which roles are the best fit for my background?
+The WBG is a large, complex institution. A good starting point is to determine whether your expertise aligns more with Operations (technical, country-facing, sector work) or corporate functions (HR, IT, communications, finance, etc.).
+How do I create a profile/account on the career website?
+Go to the WBG Careers page → Current Opportunities → Sign In / Create Profile.
+If you have never applied before, click Create Profile and follow the steps to set up your account.
+How can I search for jobs and set job alerts?
+Use keywords or filters on the Careers site. If you do not find a suitable position, set up a job alert to receive email notifications when matching roles are posted.
+How can I check the status of my application?
+Log in to the vendor’s system using the same credentials you used when submitting your documents.
+Will I get updates on my application?
+You will receive an acknowledgment upon submission. At longlist you should be informed that you are under review and/or longlisted. shortlisted candidates receive further communication about interviews from a recruiter or hiring team members. Recruitment can take several months, and status updates will appear in your application portal once the process is complete.
+Can I edit my application after submission?
+After submission, you may only update contact information. If withdrawn, you cannot reapply to the same requisition.
+What should I do if I experience technical issues during application?
+Retry later. Issues may be caused by internet connection, firewall, or file size. If problems persist, email hrweb@worldbank.org with the job number and screenshots.
+What is the application closing time?
+All vacancies close at 11:59 p.m. UTC. Please check your time zone when applying.
+How long does the hiring process take?
+Typically, 2–3 months from job posting to selection stage.
+Why was I not shortlisted or why haven't I heard back?
+Our recruitment process is highly competitive, and individual feedback is not provided. If you do not receive any communication within 2–3 months, it usually indicates that the recruitment process has advanced without your application being shortlisted.
+Can I contact HR or recruiters directly?
+Individual contact details cannot be shared. If you are shortlisted, a recruiter or hiring team member will reach out.
+Programs &#x26; Opportunities
+large
+lp-heading-top-xxhuge
+lp-heading-bottom-xlarge
+false
+What recruitment or staffing programs does the WBG offer?
+Programs include:
+World Bank Group Internship Program
+Global Secondment Program (GSP)
+Donor-Funded Staffing Program (DFSP)
+Young Professionals Program (YPP)
+We also offer various temporary/consulting appointments and staff positions, where you can find on our career website.
+How are job grades structured at the WBG?
+The WBG uses 10 grade levels across three streams:
+Administrative (GA–GD): usually requires a bachelor’s degree. (e.g., Team Assistants, Program Assistants)
+Professional &#x26; Technical (GE–GJ): usually requires a master’s degree or a PhD, with work experience. (e.g., Economists, Specialists, Investment Officers)
+Managerial (GH–GJ): Managers, Directors, Vice Presidents
+Is there a limit to how many times I can apply?
+There is no limit but apply thoughtfully. Tailor your CV to the job description and avoid submitting multiple similar applications in a short period.
+What is the difference between international and local appointments?
+International: USD salary. Global expertise and mobility are essential.
+Local: Salary in local currency.
+Both offer competitive benefits.
+Are internships available? When are applications open?
+The World Bank Group Internship Program opens annually from January to February. Details are available on the internship section.
+What is the Young Professionals Program (YPP)? Am I eligible?
+The YPP is a competitive leadership pipeline program for young professionals passionate about international development. Eligibility includes:
+Master’s degree or equivalent
+Fluency in English
+Relevant professional experience
+Candidates are selected for academic excellence, professional experience, and leadership potential.
+What consulting or temporary opportunities exist?
+Extended Term Temporary (ETT): equivalent of GA–GD, 90 day minimum, renewable, 3-year cumulative lifetime cap.
+Extended Term Consultant (ETC): equivalent of GE+ level, 90 day minimum, renewable, 3-year cumulative lifetime cap.
+These opportunities are advertised under ‘Current Job Openings’.
+What is the WBG culture like?
+The WBG is guided by five core values: Impact, Integrity, Respect, Teamwork, Innovation.
+Impact – We help our clients solve their greatest development challenges.
+Integrity – We do what is right.
+Respect – We care for our people, our clients, our partners and our planet.
+Teamwork – We work together to achieve our goals.
+Innovation – We learn and adapt to find better ways of doing things.
+These values shape how staff work with clients and colleagues and support the institution’s development mission.
+Do you have jobs in my country/region?
+Search by location on the Careers site. If no results appear, set up job alerts.
+Are there jobs in specific fields (finance, IT, environment, etc.)?
+Yes. Use keyword search and set job alerts for your technical area.
+Do I need to be a citizen of a member country?
+Yes. You must be a national of a WBG member country: https://www.worldbank.org/en/about/leadership/members
+What visa or work authorization is required?
+U.S. roles: Non-U.S. citizens need either permanent residency or a G4 visa (sponsored by the WBG).
+Country offices: You must meet the local country’s requirements for international organizations. Please note that for GA-GD and ETT appointments, preference will be given to new hires who are: 1) nationals of the duty station, 2) legal residents, 3) or otherwise have legal presence in the duty station independent of any employer (excluding World Bank Group sponsorship), and who are authorized to work in the duty station.
+Is there an age limit for Young Professionals Program (YPP) or other positions?
+No. The only requirement is meeting the necessary years of professional experience (for YPP and specific jobs).
+Benefits &#x26; Policies
+large
+lp-heading-top-xxhuge
+lp-heading-bottom-xlarge
+false
+What benefits does the WBG offer to staff and families?
+WBG provides comprehensive global benefits from the first day of employment, supporting staff throughout their career and retirement. Benefits are designed with flexibility to meet diverse needs of staff and their families.
+Do Extended Term Consultants (ETC) receive benefits or health insurance?
+Yes. ETCs receive partial benefits, including health insurance, leave and a 15% premium paid at termination.
+Can the spouse or partner of a WBG staff member work at the WBG?
+Yes, if they meet normal selection standards.
+Restrictions apply:
+No direct or indirect supervision
+No roles that create routine professional conflict
+Can I work at the WBG if my relatives are working?
+A staff member is required to inform Human Resources if that staff learns that a close relative is working at or applying for a position with the World Bank Group. This applies to close relatives who perform services for the WBG under a WBG appointment or as an employee of a firm, and to the close relatives of Executive Directors, Alternate Executive Directors, and Senior Advisors to the Executive Director.
+Category of Relatives who are not eligible for employment:
+Mother, father, son, daughter.
+Sister, brother, half-sister, half-brother.
+Aunt, uncle, niece, nephew.
+Interview &#x26; Screening
+large
+lp-heading-top-xxhuge
+lp-heading-bottom-xlarge
+false
+How can I prepare for an interview?
+Confirm logistics: time, interviewer names, location/platform
+Test virtual links 15 minutes early / plan transport for in-person
+Read WBG mission, values, and the job description
+Prepare examples using the STAR method (Situation, Task, Action, Results)
+Review your CV and responsibilities
+Prepare questions for the interviewer
+Dress in business attire
+Be clear, concise, and stay on point
+What should I include in the Statement of Interest or cover letter?
+Keep it under one page. Include:
+Your motivation for applying
+Why you are interested in the role/team
+How your skills and experience match the job
+Any relevant leadership or impact examples
+Disability Inclusive Hiring and Accessible Career
+large
+lp-heading-top-xxhuge
+lp-heading-bottom-xlarge
+false
+Can I request disability-related adjustments during the recruitment process?
+Yes. WBG provides disability-related adjustments at any stage of the recruitment process. You can indicate your need for adjustments when applying or contact our recruitment team at any time during the process.
+Will disclosing my need for recruitment accommodation or adjustment affect my application?
+Not at all. Adjustment requests are handled confidentially and separately from your application review. Your request will not impact how your qualifications are assessed.
+Who handles accommodation or adjustment requests at WBG?
+Our dedicated Accommodations Center of Excellence (COE) coordinates accommodations for candidates and staff, ensuring privacy, professionalism, and tailored support.
+What support is available if I’m hired?
+New staff can request workplace accommodation such as assistive technology, ergonomic equipment, flexible hours, or home-based work to support their success from day one.
+Does WBG support neurodiverse applicants and staff?
+Yes. We recognize neurodiversity as a valuable aspect of cognitive diversity. We work with candidates to understand their preferred communication styles, work environments, and any adjustments needed to succeed in interviews or roles.
+Is accommodation also provided for temporary conditions or health issues?
+Yes. We provide accommodations to support staff and candidates managing temporary injuries, medical treatment, or recovery.
+I’m a caregiver for a person with a disability. What support is available for me?
+WBG offers flexible work arrangements and leave policies for staff with caregiving responsibilities. We recognize the unique challenges caregivers face and are committed to supporting work-life balance.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+sec-spacing
+section-regular
+sec-spacing-bottom
+padding-campaigns-sections
+sec-swoosh
+sec-swoosh-none
+style
+default, heading-vertical, bg-white, border-radius-top-y-80, transparent-white-components
+
+===== SOURCE PAGE: https://www.worldbank.org/ext/en/careers/talent-programs/donor-funded-program =====
+Donor Funded Staffing Program (DFSP) | World Bank Group
+Home
+https://www.worldbank.org/ext/en/home
+Careers
+https://www.worldbank.org/ext/en/careers
+Talent Programs
+https://www.worldbank.org/ext/en/careers/talent-programs
+Donor Funded Staffing Program (DFSP)
+https://www.worldbank.org/ext/en/careers/talent-programs/donor-funded-program
+false
+Default alt
+top center
+Donor Funded Staffing Program (DFSP)
+large
+false
+lp-heading-bottom-none
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+transparent-white-components, overlay-banner, image-height-680, position-bottom
+sec-inside-container
+false
+About the Program
+About the Program
+About the Program
+About the Program
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-8
+col-lg-8
+The World Bank Group’s Donor Funded Staffing Program (DFSP) is financed by donor governments. The objective of the DFSP is to contribute to the World Bank's diversity targets and capacity building efforts through the recruitment of junior and mid-career professionals in headquarters and country offices.
+The program allows donors and the World Bank Group to leverage their development agendas more strategically.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+Program Features
+Program Features
+Program Features
+Program Features
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-8
+col-lg-8
+Salaries and benefits are 100% funded by DFSP donors. Participating donors are Australia, Austria, Belgium, Benin, Cote d’Ivoire, Denmark, Finland, France, Germany (including GIZ), Hungary, Iceland, Israel, Italy, Japan, Korea, Norway, Sweden, and Switzerland.
+Participation is coordinated between partner countries and the World Bank Group. DFSP-eligible positions are advertised by the donor countries at a national level (by ministries, government agencies, etc.) and qualified candidates are put forward by donors. The World Bank Group makes all final hiring decisions.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+Eligibility
+Eligibility
+Eligibility
+Eligibility
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-8
+col-lg-8
+Junior Professional Officers (JPOs):
+Master’s degree with a minimum of three years of relevant experience.
+Fluency in English is essential. Fluency in another World Bank language is desirable (Arabic, Chinese, French, Portuguese, Russian and Spanish).
+Grade Level: UC (ungraded)
+Mid-career Professionals :
+Master’s degree and a minimum of five years of relevant experience (depending on grade level).
+Fluency in English is essential. Fluency in another World Bank language is desirable (Arabic, Chinese, French, Portuguese, Russian and Spanish).
+Grade: GF Level and above.
+Terms and Conditions
+An applicant must be a national of the donor country. Candidates with dual citizenship must indicate this information in their application. For candidates with U.S. dual citizenship, the U.S. citizenship prevails.
+Participants are assigned to World Bank Group headquarters in Washington, D.C. or to a country office.
+Donor funding is available for up to three years (additional funding is potentially available from the World Bank Group.
+DFSP participants will be governed by the same HR rules and policies as any other World Bank Group staff.
+Program participants can apply to any open vacancies.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+Application
+Application
+Application
+Application
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-8
+col-lg-8
+Application
+Positions are advertised by the donor country.
+col-xs-12
+col-sm-12
+col-md-2
+col-lg-2
+col-xs-12
+col-sm-12
+col-md-12
+col-lg-12
+/content/dam/theworldbankgroupasset/corporate/fragment/careers/en/chatbot
+sec-spacing
+section-xhuge
+sec-spacing-bottom
+padding-campaigns-sections
+sec-swoosh
+sec-swoosh-none
+style
+default, bg-white, border-radius-top-y-80, text-align-center
+Default alt
+See yourself in our mission
+large
+Search Open Positions
+https://worldbankgroup.csod.com/ux/ats/careersite/1/home?c=worldbankgroup
+Join our Talent Network
+https://worldbankgroup.csod.com/ATS/careersite/da.aspx?routename=ATS/CareerSite/ConnectWithUsForm&#x26;site=1&#x26;c=worldbankgroup&#x26;v=1
+sec-spacing
+section-none
+sec-spacing-bottom
+section-none
+style
+overlay-banner, image-height-660, heading-v2, z-index-99, heading-vertical, heading-center, transparent-white-components
+sec-inside-container
+false
