@@ -11,6 +11,15 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
+# One SEO Nightly at a time. A manual dispatch and the cron firing close
+# together would otherwise both push reports and race each other. A second run
+# waits for the first rather than cancelling it, so an in-flight night's work is
+# never thrown away. This does not cover the separate "Run" workflow, which is
+# why the commit step also retries its push.
+concurrency:
+  group: seo-nightly
+  cancel-in-progress: false
+
 jobs:
   nightly:
     runs-on: ubuntu-latest
@@ -134,11 +143,24 @@ jobs:
           git add reports/
           if git diff --staged --quiet; then
             echo "No new reports."
-          else
-            git commit -m "seo reports $(date +%Y-%m-%d) [skip ci]"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -m "seo reports $(date +%Y-%m-%d) [skip ci]"
+          # Another workflow (or a concurrent nightly) pushing to master between
+          # our fetch and our push gets the push rejected. That is a race, not a
+          # failure, so rebase onto whatever landed and try again a few times
+          # with jittered backoff rather than emailing a red run over it.
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase --autostash origin master || true
+            if git push origin master; then
+              echo "Pushed reports on attempt ${attempt}."
+              exit 0
+            fi
+            echo "Push attempt ${attempt} lost a race, retrying..."
+            sleep $(( (RANDOM % 8) + 2 ))
+          done
+          echo "Could not push reports after 5 attempts."
+          exit 1
 
       - name: Send digest
         if: always()
