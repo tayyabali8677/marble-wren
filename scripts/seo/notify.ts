@@ -114,10 +114,11 @@ async function main() {
   const canonical = readReport(`canonical-audit-${date}.md`);
   const imageSeo = readReport(`image-seo-${date}.md`);
   const serp = readReport(`serp-tracker-${date}.md`);
+  const backlinks = readReport(`backlink-monitor-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
     internalLinks, striking, duplicates, factDrift, decay, titleMeta, mismatch, eeat, canonical,
-    imageSeo, serp];
+    imageSeo, serp, backlinks];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -324,6 +325,15 @@ async function main() {
       needsDecision: false,
     });
   }
+
+  // A lost backlink often takes ranking with it, so it leads the backlink
+  // findings and asks for a look. New domains inform, since some are spam worth
+  // disavowing rather than genuine links.
+  const lostLinks = section(backlinks, "Lost Referring Domains");
+  if (lostLinks) sections.push({ title: "Lost backlinks", body: lostLinks, needsDecision: true });
+
+  const newLinks = section(backlinks, "New Referring Domains");
+  if (newLinks) sections.push({ title: "New backlinks", body: newLinks, needsDecision: false });
 
   const decisions = sections.filter((s) => s.needsDecision).length;
 

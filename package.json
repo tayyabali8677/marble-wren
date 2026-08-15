@@ -25,6 +25,7 @@
     "canonical-audit": "tsx scripts/seo/canonical-audit.ts",
     "image-seo": "tsx scripts/seo/image-seo.ts",
     "serp-tracker": "tsx scripts/seo/serp-tracker.ts",
+    "backlink-monitor": "tsx scripts/seo/backlink-monitor.ts",
     "notify": "tsx scripts/seo/notify.ts"
   },
   "dependencies": {

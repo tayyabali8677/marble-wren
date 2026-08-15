@@ -151,6 +151,15 @@ jobs:
           SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
         run: npx tsx scripts/seo/serp-tracker.ts
 
+      # Reads its own backlink snapshot from the committed reports directory and
+      # writes the fresh one back, so it must run before the commit step. Dormant
+      # and exits clean when BING_WEBMASTER_API_KEY is unset.
+      - name: Backlink monitor
+        if: always()
+        env:
+          BING_WEBMASTER_API_KEY: ${{ secrets.BING_WEBMASTER_API_KEY }}
+        run: npx tsx scripts/seo/backlink-monitor.ts
+
       - name: Commit reports
         if: always()
         run: |
