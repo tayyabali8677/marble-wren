@@ -9,6 +9,11 @@
     "seo-gap": "tsx scripts/seo/seo-gap-agent.ts",
     "indexing": "tsx scripts/seo/indexing-monitor.ts",
     "zero-click": "tsx scripts/seo/zero-click.ts",
+    "link-health": "tsx scripts/seo/link-health.ts",
+    "thin-content": "tsx scripts/seo/thin-content.ts",
+    "schema-audit": "tsx scripts/seo/schema-audit.ts",
+    "vitals": "tsx scripts/seo/vitals.ts",
+    "ctr-outliers": "tsx scripts/seo/ctr-outliers.ts",
     "notify": "tsx scripts/seo/notify.ts"
   },
   "dependencies": {

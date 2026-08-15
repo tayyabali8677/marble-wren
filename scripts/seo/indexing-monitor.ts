@@ -112,7 +112,7 @@ async function main() {
   }
 
   const date = new Date().toISOString().split("T")[0];
-  let report = `# Indexing Monitor Report — ${date}\n\n`;
+  let report = `# Indexing Monitor Report: ${date}\n\n`;
   report += `**Property:** ${SITE_URL}\n`;
   report += `**Total URLs in sitemap:** ${allUrls.length}\n`;
   report += `**URLs checked:** ${urlsToCheck.length}\n`;

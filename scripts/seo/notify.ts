@@ -98,8 +98,14 @@ async function main() {
   const gap = readReport(`seo-gap-${date}.md`);
   const zeroClick = readReport(`zero-click-${date}.md`);
   const indexing = readReport(`indexing-${date}.md`);
+  const linkHealth = readReport(`link-health-${date}.md`);
+  const thinContent = readReport(`thin-content-${date}.md`);
+  const schema = readReport(`schema-audit-${date}.md`);
+  const vitals = readReport(`vitals-${date}.md`);
+  const ctr = readReport(`ctr-outliers-${date}.md`);
 
-  if (!gap && !zeroClick && !indexing) {
+  const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr];
+  if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
   }
@@ -133,6 +139,45 @@ async function main() {
   const noData = section(zeroClick, "No Search Console Data");
   if (noData) {
     sections.push({ title: "Never appeared in search", body: noData, needsDecision: true });
+  }
+
+  // Anything below is only present when the agent actually found something, so
+  // a quiet night produces a short digest rather than a wall of "0 found".
+  const dead = section(linkHealth, "Pages Not Returning 200");
+  if (dead) sections.push({ title: "Dead pages", body: dead, needsDecision: true });
+
+  const redirects = section(linkHealth, "Sitemap URLs That Redirect");
+  if (redirects) sections.push({ title: "Sitemap redirects", body: redirects, needsDecision: true });
+
+  const brokenLinks = section(linkHealth, "Broken Internal Links");
+  if (brokenLinks) sections.push({ title: "Broken links", body: brokenLinks, needsDecision: true });
+
+  const placeholder = section(thinContent, "Placeholder Text Live");
+  if (placeholder) sections.push({ title: "Placeholder text live", body: placeholder, needsDecision: true });
+
+  const thin = section(thinContent, "Thin Pages");
+  if (thin) sections.push({ title: "Thin pages", body: thin, needsDecision: false });
+
+  const brokenSchema = section(schema, "Broken JSON-LD");
+  if (brokenSchema) sections.push({ title: "Broken structured data", body: brokenSchema, needsDecision: true });
+
+  const incompleteSchema = section(schema, "Missing Required Properties");
+  if (incompleteSchema) {
+    sections.push({ title: "Incomplete structured data", body: incompleteSchema, needsDecision: true });
+  }
+
+  const poorVitals = section(vitals, "Poor Metrics");
+  if (poorVitals) sections.push({ title: "Core Web Vitals", body: poorVitals, needsDecision: true });
+
+  // The CTR report has one heading per page, so there is no single section to
+  // lift. The count from the header is enough for a digest.
+  const outliers = countAfter(ctr, /\*\*Underperforming:\*\* (\d+)/);
+  if (outliers > 0) {
+    sections.push({
+      title: "CTR outliers",
+      body: `## CTR outliers\n\n${outliers} first-page queries earn far fewer clicks than their position normally does. Title and description rewrites are listed per page in the full report.`,
+      needsDecision: true,
+    });
   }
 
   const decisions = sections.filter((s) => s.needsDecision).length;

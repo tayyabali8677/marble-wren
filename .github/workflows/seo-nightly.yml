@@ -1,9 +1,10 @@
 name: SEO Nightly
 
-# One job rather than three, so the digest at the end can read all three
-# reports. Every step after the first is `if: always()` and the slow indexing
-# step has its own timeout, so one agent failing or running long still leaves
-# the rest of the night's work intact.
+# One job rather than one per agent, so the digest at the end can read every
+# report and so the crawl-based agents share a single crawl. Every step after
+# the first is `if: always()` and the slow ones have their own timeouts, so one
+# agent failing or running long still leaves the rest of the night's work
+# intact.
 
 on:
   schedule:
@@ -47,6 +48,34 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/indexing-monitor.ts
+
+      # The next three share one crawl of the site. link-health runs first so it
+      # fills the cache the other two read.
+      - name: Link health
+        if: always()
+        run: npx tsx scripts/seo/link-health.ts
+
+      - name: Thin and placeholder content
+        if: always()
+        run: npx tsx scripts/seo/thin-content.ts
+
+      - name: Structured data audit
+        if: always()
+        run: npx tsx scripts/seo/schema-audit.ts
+
+      - name: Core Web Vitals
+        if: always()
+        timeout-minutes: 20
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          PAGESPEED_API_KEY: ${{ secrets.PAGESPEED_API_KEY }}
+        run: npx tsx scripts/seo/vitals.ts
+
+      - name: CTR outliers
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/ctr-outliers.ts
 
       - name: Commit reports
         if: always()

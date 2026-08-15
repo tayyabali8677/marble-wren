@@ -3,3 +3,4 @@ dist/
 .env
 .env.local
 scripts/generated-batch.json
+.crawl-cache/
