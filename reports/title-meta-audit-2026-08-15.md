@@ -25,30 +25,30 @@ Wider than about 580px, so the end gets cut in results. Put the differentiator f
 | Page | Width | Text |
 |---|---|---|
 | /scholarships/national | 582px | National Scholarships for Pakistani Students 2026 - HEC, PEEF, Honhar / Titans Abroad |
-| /blog/moe-listed-universities-china-complete-list | 619px | MOE Listed Universities in China - Complete 2026 List for Pakistani Students / Titans Abroad |
-| /scholarships/international | 598px | International Scholarships 2026 - Fully Funded Study Abroad Opportunities / Titans Abroad |
-| /blog/mbbs-in-russia-vs-china-comparison | 602px | MBBS in Russia vs China - Which is Better for Pakistani Students in 2026? / Titans Abroad |
 | /blog/how-to-apply-for-mbbs-in-china-2026 | 583px | How to Apply for MBBS in China in 2026 - Complete Step-by-Step Guide / Titans Abroad |
+| /blog/mbbs-in-russia-vs-china-comparison | 602px | MBBS in Russia vs China - Which is Better for Pakistani Students in 2026? / Titans Abroad |
 | /blog/digiskills-pakistan-free-courses-guide-2026 | 702px | DigiSkills Pakistan 2026 - Free Government IT Courses With Certificates (Complete Guide) / Titans Ab |
-| /blog/documents-checklist-international-scholarships-pakistan-2026 | 714px | Documents Required for International Scholarships from Pakistan - Complete 2026 Checklist / Titans A |
-| /blog/best-pmdc-approved-universities-georgia-2026 | 722px | Best PMDC/NMC/BMDC-Approved Universities in Georgia for MBBS 2026 — Complete Guide / Titans Abroad |
+| /scholarships/international | 598px | International Scholarships 2026 - Fully Funded Study Abroad Opportunities / Titans Abroad |
 | /blog/ef-set-english-test-guide-pakistan-2026 | 589px | EF SET English Test - Free Certificate for Scholarship Applications 2026 / Titans Abroad |
+| /blog/documents-checklist-international-scholarships-pakistan-2026 | 714px | Documents Required for International Scholarships from Pakistan - Complete 2026 Checklist / Titans A |
 | /blog/mbbs-georgia-vs-china-comparison-2026 | 693px | MBBS in Georgia vs China 2026 — Which is Better? (Pakistan, India & Bangladesh Guide) / Titans Abroa |
-| /blog/mbbs-abroad-bangladeshi-students-georgia-china-2026 | 740px | MBBS Abroad for Bangladeshi Students 2026 — BMDC Approved Universities in Georgia & China / Titans A |
-| /blog/cost-of-living-tbilisi-pakistan-students-2026 | 823px | Cost of Living in Tbilisi for South Asian Students 2026 — Full Monthly Budget (Pakistan, India & Ban |
-| /blog/mbbs-at-azerbaijan-medical-university-baku-guide-2026 | 611px | MBBS at Azerbaijan Medical University (AMU) Baku — Complete Guide 2026 / Titans Abroad |
 | /blog/georgia-student-visa-d5-guide-pakistani-students-2026 | 752px | Georgia Student Visa (D5) 2026 — Step-by-Step Guide for Pakistani, Indian & Bangladeshi Students / T |
+| /blog/moe-listed-universities-china-complete-list | 619px | MOE Listed Universities in China - Complete 2026 List for Pakistani Students / Titans Abroad |
+| /blog/best-pmdc-approved-universities-georgia-2026 | 722px | Best PMDC/NMC/BMDC-Approved Universities in Georgia for MBBS 2026 — Complete Guide / Titans Abroad |
+| /blog/cost-of-living-tbilisi-pakistan-students-2026 | 823px | Cost of Living in Tbilisi for South Asian Students 2026 — Full Monthly Budget (Pakistan, India & Ban |
 | /blog/mbbs-in-georgia-for-indian-students-2026 | 650px | MBBS in Georgia for Indian Students 2026 — NEET, NMC, Fees & Top Universities / Titans Abroad |
+| /blog/mbbs-abroad-bangladeshi-students-georgia-china-2026 | 740px | MBBS Abroad for Bangladeshi Students 2026 — BMDC Approved Universities in Georgia & China / Titans A |
+| /blog/mbbs-at-azerbaijan-medical-university-baku-guide-2026 | 611px | MBBS at Azerbaijan Medical University (AMU) Baku — Complete Guide 2026 / Titans Abroad |
 | /blog/mbbs-in-azerbaijan-nsu-complete-guide-2026 | 633px | MBBS in Azerbaijan 2026 — Nakhchivan State University (NSU) Complete Guide / Titans Abroad |
 | /blog/mbbs-in-azerbaijan-universities-comparison-2026 | 606px | MBBS in Azerbaijan — NSU vs AMU vs Khazar University Comparison 2026 / Titans Abroad |
-| /mbbs-in-china/non-moe/shandong-first-medical-university | 1103px | Shandong First Medical University (SDFMU) - MBBS, BDS, Pharmacy, Nursing & Biotechnology in China /  |
 | /mbbs-in-china/non-moe/jiujiang-university | 739px | Jiujiang University (JJU) - MBBS & BDS in China / Fee Structure, Eligibility & Admissions 2026 / Tit |
+| /mbbs-in-china/non-moe/shandong-first-medical-university | 1103px | Shandong First Medical University (SDFMU) - MBBS, BDS, Pharmacy, Nursing & Biotechnology in China /  |
 | /mbbs-in-china/non-moe/henan-university | 717px | Henan University (HU) - MBBS & BDS in China / Fee Structure, Eligibility & Admissions 2026 / Titans  |
-| /mbbs-in-china/non-moe/changchun-university-of-chinese-medicine | 853px | Changchun University of Chinese Medicine (CCU) - MBBS in China / Fee Structure, Eligibility & Admiss |
+| /mbbs-in-china/non-moe/sun-yat-sen-university | 919px | Sun Yat-sen University (SYSU) - Clinical Medicine in China (Chinese-Medium) / Study Guide for Intern |
 | /mbbs-in-china/non-moe/binzhou-medical-university | 753px | Binzhou Medical University (BMU) - MBBS in China / Fee Structure, Eligibility & Admissions 2026 / Ti |
+| /mbbs-in-china/non-moe/changchun-university-of-chinese-medicine | 853px | Changchun University of Chinese Medicine (CCU) - MBBS in China / Fee Structure, Eligibility & Admiss |
 | /mbbs-in-china/non-moe/chifeng-university | 688px | Chifeng University (CFU) - MBBS in China / Fee Structure, Eligibility & Admissions 2026 / Titans Abr |
 | /mbbs-in-china/non-moe/gannan-medical-university | 703px | Gannan Medical University - MBBS in China / Fee Structure, Eligibility & Admissions 2026 / Titans Ab |
-| /mbbs-in-china/non-moe/sun-yat-sen-university | 919px | Sun Yat-sen University (SYSU) - Clinical Medicine in China (Chinese-Medium) / Study Guide for Intern |
 
 *141 more.*
 
@@ -67,30 +67,30 @@ Wider than about 920px. The cut usually lands mid sentence.
 | Page | Width | Text |
 |---|---|---|
 | / | 1276px | Pakistan's trusted MBBS abroad consultancy. Expert guidance for studying medicine in China, Russia,  |
-| /mbbs-in-china/universities | 1045px | Browse all Chinese universities offering MBBS, BDS, Nursing, Pharmacy, AI and more. MOE-listed, PMDC |
-| /mbbs-in-china/bds | 929px | English-taught BDS programs at MOE-listed Chinese universities - PMDC approved, WHO recognized. Comp |
 | /mbbs-in-china/moe-listed | 1336px | Browse all MOE-listed Chinese universities for MBBS. Preferred for CSC government scholarships, full |
 | /mbbs-in-azerbaijan/universities | 1452px | Compare all MBBS universities in Azerbaijan — Nakhchivan State University (NSU), Azerbaijan Medical  |
-| /mbbs-in-azerbaijan | 1780px | Complete guide to MBBS in Azerbaijan for Pakistani, Indian, and Bangladeshi students — Nakhchivan St |
 | /mbbs-in-azerbaijan/blogs | 1212px | In-depth guides about MBBS in Azerbaijan — Nakhchivan State University (NSU), fees, WHO recognition, |
+| /mbbs-in-azerbaijan | 1780px | Complete guide to MBBS in Azerbaijan for Pakistani, Indian, and Bangladeshi students — Nakhchivan St |
+| /mbbs-in-china/universities | 1045px | Browse all Chinese universities offering MBBS, BDS, Nursing, Pharmacy, AI and more. MOE-listed, PMDC |
 | /mbbs-in-georgia | 1328px | Complete guide to MBBS in Georgia for Pakistani, Indian, and Bangladeshi students — EU-standard educ |
-| /blog | 927px | In-depth guides, scholarship walkthroughs, university comparisons, and student stories about studyin |
-| /student-reviews | 985px | Real reviews from Pakistani, Indian, and Bangladeshi students who studied MBBS abroad through Titans |
-| /apply-now | 1269px | Start your MBBS abroad application today. Free consultation, PMDC/PMC-approved universities, guided  |
-| /scholarships/national | 1135px | National scholarships for Pakistani students - HEC Need-Based, PEEF Special Quota, Honhar Punjab Sch |
+| /mbbs-in-china/bds | 929px | English-taught BDS programs at MOE-listed Chinese universities - PMDC approved, WHO recognized. Comp |
 | /scholarships | 1357px | Browse fully funded and partial scholarships for international students - CSC China, Russian Governm |
+| /scholarships/national | 1135px | National scholarships for Pakistani students - HEC Need-Based, PEEF Special Quota, Honhar Punjab Sch |
+| /student-reviews | 985px | Real reviews from Pakistani, Indian, and Bangladeshi students who studied MBBS abroad through Titans |
+| /blog | 927px | In-depth guides, scholarship walkthroughs, university comparisons, and student stories about studyin |
 | /how-to-apply | 1093px | Step-by-step guide to applying for MBBS abroad through Titans Abroad. Free consultation, document ch |
-| /blog/moe-listed-universities-china-complete-list | 1056px | All 45 MOE-listed universities offering MBBS in China, with city, founding year, and annual tuition. |
-| /scholarships/international | 1321px | Fully funded international scholarships - CSC China, Russian Government, GKS Korea, Stipendium Hunga |
 | /about | 1712px | Learn about Titans Abroad — Pakistan's trusted MBBS abroad consultancy. Started in 2024 within Prep  |
-| /blog/mbbs-in-russia-vs-china-comparison | 1140px | China has a published approval list and a standard entrance exam. Russia has neither. That single st |
+| /apply-now | 1269px | Start your MBBS abroad application today. Free consultation, PMDC/PMC-approved universities, guided  |
 | /blog/how-to-apply-for-mbbs-in-china-2026 | 1070px | Everything you need to know about applying for MBBS in China: eligibility, documents, admission time |
-| /blog/mbbs-in-russia-cis-guide-2026 | 1328px | Russia, Kazakhstan, Azerbaijan, Kyrgyzstan, Uzbekistan, Belarus - six countries, one region. Compare |
+| /blog/mbbs-in-russia-vs-china-comparison | 1140px | China has a published approval list and a standard entrance exam. Russia has neither. That single st |
 | /blog/digiskills-pakistan-free-courses-guide-2026 | 1861px | Pakistan's largest free IT training program by the Ministry of IT & Telecom offers 300,000 seats acr |
-| /blog/documents-checklist-international-scholarships-pakistan-2026 | 1273px | The master document checklist for Pakistani students applying for international scholarships in 2026 |
-| /blog/ibcc-mofa-attestation-guide-2026 | 1142px | A step-by-step guide to getting your Matric, FSc, and degree documents attested by IBCC and MOFA for |
 | /blog/mbbs-in-china-complete-guide-2026 | 1349px | Everything Pakistani students need to know about MBBS in China: MOE recognition, fees, CSC scholarsh |
-| /blog/best-pmdc-approved-universities-georgia-2026 | 1469px | Which Georgian universities are PMDC, NMC, and BMDC approved for MBBS? A complete guide for Pakistan |
+| /blog/mbbs-in-georgia-complete-guide-2026 | 1289px | Georgia offers WHO, PMDC/PMC, and GMC recognized MBBS degrees in English, with no entrance exam, fas |
+| /blog/mbbs-in-russia-cis-guide-2026 | 1328px | Russia, Kazakhstan, Azerbaijan, Kyrgyzstan, Uzbekistan, Belarus - six countries, one region. Compare |
+| /scholarships/international | 1321px | Fully funded international scholarships - CSC China, Russian Government, GKS Korea, Stipendium Hunga |
+| /blog/ibcc-mofa-attestation-guide-2026 | 1142px | A step-by-step guide to getting your Matric, FSc, and degree documents attested by IBCC and MOFA for |
+| /blog/ef-set-english-test-guide-pakistan-2026 | 1325px | The EF SET is a free online English proficiency test that gives you a CEFR score and downloadable ce |
+| /blog/documents-checklist-international-scholarships-pakistan-2026 | 1273px | The master document checklist for Pakistani students applying for international scholarships in 2026 |
 
 *456 more.*
 
@@ -100,11 +100,11 @@ The title shares no substantial word with the page's H1, which usually means a t
 
 | Page | Width | Text |
 |---|---|---|
-| /student-reviews | 329px | Student Reviews — Titans Abroad / Titans Abroad |
-| /success-stories | 374px | Student Success Stories - Titans Abroad / Titans Abroad |
-| /apply-now | 462px | Apply Now - Free MBBS Consultation / Titans Abroad / Titans Abroad |
 | /scholarships | 564px | Scholarships 2026 - Fully Funded & Partial International Scholarships / Titans Abroad |
+| /success-stories | 374px | Student Success Stories - Titans Abroad / Titans Abroad |
+| /student-reviews | 329px | Student Reviews — Titans Abroad / Titans Abroad |
 | /about | 272px | About Us - Titans Abroad / Titans Abroad |
+| /apply-now | 462px | Apply Now - Free MBBS Consultation / Titans Abroad / Titans Abroad |
 | /contact | 308px | Contact Us - Free Consultation / Titans Abroad |
 | /scholarships/east-africa-scholarship | 510px | Japan-Africa Dream Scholarship (JADS) for Kenyan Students / Titans Abroad |
 | /scholarships/studyinfinland-full | 435px | Study in Finland Scholarships and Funding Guide / Titans Abroad |
@@ -121,8 +121,8 @@ The same title on more than one page. In a result list these are indistinguishab
 - **"toyohashi university of technology mext scholarship 2027 japan | titans abroad"** on 2 pages: /scholarships/toyohashi-mext-scholarship-japan, /scholarships/mext-scholarship-toyohashi-university-of-technology-japan
 - **"european commission blue book traineeship 2027 in europe (fully funded) | titans abroad"** on 2 pages: /scholarships/european-commission-blue-book-traineeship-europe, /scholarships/european-commission-blue-book-traineeship
 - **"erasmus mundus scholarship program 2027 in europe (fully funded) | titans abroad"** on 2 pages: /scholarships/erasmus-mundus-scholarship-program, /scholarships/erasmus-mundus-scholarship-europe
-- **"tu berlin daad epos scholarship 2027 germany (fully funded) | titans abroad"** on 2 pages: /scholarships/daad-epos-scholarship-tu-berlin, /scholarships/tu-berlin-daad-epos-scholarship
 - **"schwarzman scholars master’s program at tsinghua university 2027 | titans abroad"** on 2 pages: /scholarships/schwarzman-scholars-masters-program-china, /scholarships/schwarzman-scholars-masters-program-tsinghua-university
+- **"tu berlin daad epos scholarship 2027 germany (fully funded) | titans abroad"** on 2 pages: /scholarships/daad-epos-scholarship-tu-berlin, /scholarships/tu-berlin-daad-epos-scholarship
 - **"asia pacific university mext scholarship 2027 in japan (fully funded) | titans abroad"** on 2 pages: /scholarships/mext-scholarship-apia-japan, /scholarships/asia-pacific-university-mext-scholarship
 - **"belgium government ares scholarship 2027-28 (fully funded) | titans abroad"** on 2 pages: /scholarships/belgium-government-ares-scholarship, /scholarships/belgium-government-ares-scholarship-belgium
 - **"imf jispa phd scholarships 2027 in japan (fully funded) | titans abroad"** on 2 pages: /scholarships/imf-jispa-phd-scholarships, /scholarships/imf-jispa-phd-scholarships-japan
