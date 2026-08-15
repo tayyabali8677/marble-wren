@@ -9,21 +9,48 @@ const DAYS = 28;
 const MIN_IMPRESSIONS = 5;
 const MIN_POSITION = 8;
 const MAX_POSITION = 20;
-const GEMINI_MODEL = "gemini-2.0-flash";
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
 
+// Same key rotation the scholarship generator uses: on a quota 429, fall through
+// to the next key instead of losing the suggestion.
 async function callGemini(prompt: string): Promise<string> {
   const keys = (process.env.GEMINI_API_KEYS || "").split(",").map((k) => k.trim()).filter(Boolean);
-  const key = keys[Math.floor(Math.random() * keys.length)];
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${key}`,
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] }),
+  if (keys.length === 0) return "";
+
+  for (let i = 0; i < keys.length; i++) {
+    const res = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${keys[i]}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.4 },
+        }),
+      }
+    );
+
+    if (res.status === 429) {
+      console.warn(`  Key ${i + 1}/${keys.length} hit quota, trying next...`);
+      continue;
     }
-  );
-  const data = (await res.json()) as any;
-  return data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+
+    if (!res.ok) {
+      console.error(`  Gemini ${res.status}: ${(await res.text()).slice(0, 300)}`);
+      return "";
+    }
+
+    const data = (await res.json()) as any;
+    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+    if (!text) {
+      console.error(`  Gemini returned no text: ${JSON.stringify(data).slice(0, 300)}`);
+      return "";
+    }
+    return text;
+  }
+
+  console.error("  All Gemini keys hit quota.");
+  return "";
 }
 
 async function main() {
@@ -113,7 +140,11 @@ Write a short, helpful FAQ-style content section (2-3 questions and answers, 150
 
       try {
         const suggestion = await callGemini(prompt);
-        report += `\n### Suggested Content to Add\n\n${suggestion}\n\n`;
+        if (suggestion.trim()) {
+          report += `\n### Suggested Content to Add\n\n${suggestion.trim()}\n\n`;
+        } else {
+          report += `\n*Content suggestion unavailable*\n\n`;
+        }
         await new Promise((r) => setTimeout(r, 1000));
       } catch {
         report += `\n*Content suggestion unavailable*\n\n`;
