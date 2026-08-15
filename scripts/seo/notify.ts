@@ -107,9 +107,14 @@ async function main() {
   const striking = readReport(`striking-distance-${date}.md`);
   const duplicates = readReport(`duplicate-content-${date}.md`);
   const factDrift = readReport(`fact-drift-${date}.md`);
+  const decay = readReport(`content-decay-${date}.md`);
+  const titleMeta = readReport(`title-meta-audit-${date}.md`);
+  const mismatch = readReport(`query-page-mismatch-${date}.md`);
+  const eeat = readReport(`eeat-audit-${date}.md`);
+  const canonical = readReport(`canonical-audit-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
-    internalLinks, striking, duplicates, factDrift];
+    internalLinks, striking, duplicates, factDrift, decay, titleMeta, mismatch, eeat, canonical];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -210,6 +215,80 @@ async function main() {
     sections.push({
       title: "Striking distance",
       body: `## Striking distance\n\n${inRange} queries rank at position 8 to 20, worth roughly ${upside} clicks a month if they reached position 5. Per-page rewrites are in the full report.`,
+      needsDecision: false,
+    });
+  }
+
+  // A page that had real search presence and dropped to zero is closer to a
+  // deindexing than an outranking, so it leads the decay findings.
+  const vanished = section(decay, "Stopped Appearing Entirely");
+  if (vanished) sections.push({ title: "Stopped appearing in search", body: vanished, needsDecision: true });
+
+  const losingGround = countAfter(decay, /sustained decline:\*\* (\d+)/);
+  if (losingGround > 0) {
+    sections.push({
+      title: "Content decay",
+      body: `## Content decay\n\n${losingGround} pages lost meaningful ground versus the previous 28 days. The ones whose average position slipped are being outranked rather than falling with the season. Full breakdown in the report.`,
+      needsDecision: false,
+    });
+  }
+
+  // Two pages with the same title are indistinguishable in a result list, so a
+  // reader has no reason to pick one. That is worth a decision.
+  const dupeTitles = section(titleMeta, "Duplicate Titles");
+  if (dupeTitles) sections.push({ title: "Duplicate titles", body: dupeTitles, needsDecision: true });
+
+  const missingDesc = countAfter(titleMeta, /Missing a description:\*\* (\d+)/);
+  const truncatedTitles = countAfter(titleMeta, /Titles that will be truncated:\*\* (\d+)/);
+  if (missingDesc > 0 || truncatedTitles > 0) {
+    sections.push({
+      title: "Titles and descriptions",
+      body: `## Titles and descriptions\n\n${truncatedTitles} titles are wide enough to be truncated in results, and ${missingDesc} pages have no meta description. Per-page widths and text are in the full report.`,
+      needsDecision: false,
+    });
+  }
+
+  // The wrong page winning a query is a redirect-the-signal decision, distinct
+  // from the consolidation decision cannibalization asks for.
+  const wrongPage = countAfter(mismatch, /a better page exists:\*\* (\d+)/);
+  if (wrongPage > 0) {
+    const groups = countAfter(mismatch, /wrong-page groups:\*\* (\d+)/);
+    sections.push({
+      title: "Wrong page ranking",
+      body: `## Wrong page ranking\n\n${wrongPage} queries rank a page when another page on the site answers them better, across ${groups} page pairs. Each is a title, heading and internal-link fix rather than a merge. Pairs are listed in the full report.`,
+      needsDecision: true,
+    });
+  }
+
+  // A page in the sitemap that tells Google not to index it is a live
+  // contradiction suppressing a page meant to rank.
+  const noindexed = section(canonical, "Noindex On A Page In The Sitemap");
+  if (noindexed) sections.push({ title: "Noindex in sitemap", body: noindexed, needsDecision: true });
+
+  const canonProblems = section(canonical, "Canonical Problems");
+  if (canonProblems) sections.push({ title: "Canonical problems", body: canonProblems, needsDecision: true });
+
+  const deadInSitemap = section(canonical, "Sitemap Entries That Do Not Return 200");
+  if (deadInSitemap) sections.push({ title: "Dead sitemap entries", body: deadInSitemap, needsDecision: true });
+
+  // Site-wide trust gaps and a missing-canonical sweep are standing states
+  // rather than fresh breakage, so they inform without inflating the decision
+  // count every single night.
+  const missingCanonical = countAfter(canonical, /Missing a canonical tag:\*\* (\d+)/);
+  if (missingCanonical > 20) {
+    sections.push({
+      title: "Canonical tags",
+      body: `## Canonical tags\n\n${missingCanonical} pages declare no canonical tag. Google will assume each is its own canonical, but declaring it removes ambiguity across trailing-slash and query-string variants. A one-line addition to the shared layout covers the whole site.`,
+      needsDecision: false,
+    });
+  }
+
+  const noDate = countAfter(eeat, /No visible date:\*\* (\d+)/);
+  const noAuthor = countAfter(eeat, /No named author:\*\* (\d+)/);
+  if (noDate > 0 || noAuthor > 0) {
+    sections.push({
+      title: "Trust signals",
+      body: `## Trust signals\n\nThis is YMYL content, where Google weighs who wrote a page and when it was checked. ${noAuthor} substantial pages carry no named author and ${noDate} show no visible update date. Adding a reviewer byline and a "last updated" stamp to the article template closes most of this at once.`,
       needsDecision: false,
     });
   }

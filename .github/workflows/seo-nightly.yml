@@ -49,8 +49,8 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/indexing-monitor.ts
 
-      # The next six share one crawl of the site. link-health runs first so it
-      # fills the cache the rest read.
+      # The next several share one crawl of the site. link-health runs first so
+      # it fills the cache the rest read.
       - name: Link health
         if: always()
         run: npx tsx scripts/seo/link-health.ts
@@ -78,6 +78,18 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/fact-drift.ts
 
+      - name: Titles and meta descriptions
+        if: always()
+        run: npx tsx scripts/seo/title-meta-audit.ts
+
+      - name: E-E-A-T signals
+        if: always()
+        run: npx tsx scripts/seo/eeat-audit.ts
+
+      - name: Canonical and indexability
+        if: always()
+        run: npx tsx scripts/seo/canonical-audit.ts
+
       - name: Core Web Vitals
         if: always()
         timeout-minutes: 20
@@ -97,6 +109,20 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/striking-distance.ts
+
+      - name: Content decay
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/content-decay.ts
+
+      # Reads Search Console and the shared crawl, so it runs after the crawl
+      # group has filled the cache.
+      - name: Query-to-page mismatch
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/query-page-mismatch.ts
 
       - name: Commit reports
         if: always()
