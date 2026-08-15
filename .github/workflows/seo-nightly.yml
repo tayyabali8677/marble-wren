@@ -53,12 +53,14 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase || true
+          # Commit before pulling. Rebase refuses to run with the reports
+          # unstaged, and a push landing on master mid-run is normal.
           git add reports/
           if git diff --staged --quiet; then
             echo "No new reports."
           else
             git commit -m "seo reports $(date +%Y-%m-%d) [skip ci]"
+            git pull --rebase
             git push
           fi
 
