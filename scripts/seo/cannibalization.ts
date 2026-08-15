@@ -114,8 +114,9 @@ export function renderConflicts(scan: ConflictScan): string {
 
   let out = `## Keyword Cannibalization (${conflicts.length})\n\n`;
   out += `Out of ${multiPageQueries} queries served by more than one page, these are genuine contests.\n\n`;
-  out += `Queries where more than one of our pages is competing. Pick the primary page, then point an internal `;
-  out += `link at it from each of the others using the query itself as the anchor text.\n\n`;
+  out += `Queries where more than one of our pages is competing. The agent links each losing page to the `;
+  out += `primary using the query as anchor text, so these are already handled unless the publish step says `;
+  out += `otherwise. Listed here so the choice of primary is visible and reversible.\n\n`;
 
   for (const c of conflicts.slice(0, 20)) {
     out += `### "${c.query}"\n\n`;
@@ -126,7 +127,7 @@ export function renderConflicts(scan: ConflictScan): string {
     for (const o of c.others) {
       out += `| Link to primary | ${o.page} | ${o.position.toFixed(1)} | ${o.impressions} | ${o.clicks} |\n`;
     }
-    out += `\n**Action:** add an internal link from ${c.others.length === 1 ? "the page" : "each page"} above to `;
+    out += `\n**Linked:** ${c.others.length === 1 ? "the page" : "each page"} above now points to `;
     out += `${c.primary.page} with anchor text "${c.query}".\n\n`;
   }
 

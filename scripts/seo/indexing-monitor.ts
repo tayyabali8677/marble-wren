@@ -7,8 +7,12 @@ import { fetchSitemapEntries } from "./sitemap";
 
 const SITE_URL = "https://titansabroad.org/";
 const SITEMAP_URL = "https://titansabroad.org/sitemap.xml";
-const MAX_URLS_TO_CHECK = 300;
-const DELAY_MS = 300;
+// The Inspection API allows 2000 calls a day, so the whole sitemap fits well
+// inside quota. The old 300 cap existed because serial checks took about nine
+// seconds each. Four at a time covers everything in roughly a third of the
+// time and stays far under the per-minute limit.
+const MAX_URLS_TO_CHECK = Number(process.env.MAX_URLS_TO_CHECK || 2000);
+const CONCURRENCY = 4;
 
 async function fetchSitemapUrls(): Promise<string[]> {
   return (await fetchSitemapEntries(SITEMAP_URL)).map((e) => e.url);
@@ -46,13 +50,9 @@ async function main() {
   const crawledNotIndexed: UrlStatus[] = [];
   const errors: { url: string; error: string }[] = [];
 
-  for (let i = 0; i < urlsToCheck.length; i++) {
-    const url = urlsToCheck[i];
+  let completed = 0;
 
-    if (i % 20 === 0 && i > 0) {
-      console.log(`Progress: ${i}/${urlsToCheck.length}`);
-    }
-
+  async function inspect(url: string): Promise<void> {
     try {
       const res = await searchconsole.urlInspection.index.inspect({
         requestBody: {
@@ -61,15 +61,19 @@ async function main() {
         },
       });
 
-      const result = res.data.inspectionResult;
-      const idx = result?.indexStatusResult;
+      const idx = res.data.inspectionResult?.indexStatusResult;
       const verdict = idx?.verdict ?? "UNKNOWN";
       const indexingState = idx?.indexingState ?? "UNKNOWN";
       const coverageState = idx?.coverageState ?? "";
-      const lastCrawl = idx?.lastCrawlTime ?? undefined;
-      const robotsTxtState = idx?.robotsTxtState ?? undefined;
 
-      const status: UrlStatus = { url, verdict, indexingState, coverageState, lastCrawl, robotsTxtState };
+      const status: UrlStatus = {
+        url,
+        verdict,
+        indexingState,
+        coverageState,
+        lastCrawl: idx?.lastCrawlTime ?? undefined,
+        robotsTxtState: idx?.robotsTxtState ?? undefined,
+      };
 
       if (verdict === "PASS") {
         indexed.push(status);
@@ -82,8 +86,22 @@ async function main() {
       errors.push({ url, error: err.message?.slice(0, 120) ?? "unknown" });
     }
 
-    await new Promise((r) => setTimeout(r, DELAY_MS));
+    completed++;
+    if (completed % 25 === 0) {
+      console.log(`Progress: ${completed}/${urlsToCheck.length}`);
+    }
   }
+
+  // Workers pull from one shared queue, so a slow URL does not stall a whole
+  // batch the way fixed-size chunks would.
+  const queue = [...urlsToCheck];
+  await Promise.all(
+    Array.from({ length: CONCURRENCY }, async () => {
+      for (let url = queue.shift(); url; url = queue.shift()) {
+        await inspect(url);
+      }
+    })
+  );
 
   // Resubmit sitemaps to signal Google
   try {
