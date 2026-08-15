@@ -5,11 +5,15 @@
   "scripts": {
     "scrape": "tsx scripts/scrape-source.ts",
     "generate": "tsx scripts/generate-batch.ts",
-    "publish": "tsx scripts/publish.ts"
+    "publish": "tsx scripts/publish.ts",
+    "seo-gap": "tsx scripts/seo/seo-gap-agent.ts",
+    "indexing": "tsx scripts/seo/indexing-monitor.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
     "dotenv": "^16.4.5",
+    "google-auth-library": "^9.15.0",
+    "googleapis": "^144.0.0",
     "undici": "^6.19.2"
   },
   "devDependencies": {

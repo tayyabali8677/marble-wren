@@ -1,0 +1,41 @@
+name: SEO Gap Agent
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  seo-gap:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - run: npm ci
+
+      - name: Run SEO gap analysis
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+        run: npx tsx scripts/seo/seo-gap-agent.ts
+
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add reports/
+          if git diff --staged --quiet; then
+            echo "No new report."
+          else
+            git commit -m "seo gap report $(date +%Y-%m-%d) [skip ci]"
+            git push
+          fi
