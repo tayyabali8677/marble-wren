@@ -495,132 +495,31 @@ Download
 Sorted by
 name ascending order
 name descending order
-Last update :2025/09/18
+Last update :2026/06/16
 Scholarship
+Reduction of enrollment fee
+Reduction of examination fee
+Reduction and exception of tuition
 Other
-Aichi Scholarship Program
-Aichi Prefectural Government ／Aichi Prefectural Government
+International Student Scholarship Graduate School of Health Innovation <Master&#039;s Course>
+Kanagawa University of Human Services ／Kanagawa University of Human Services
 Academic level:
 Master's degree program
-Graduate research students
-Last update :2021/07/28
-Scholarship
+Last update :2026/06/06
 Reduction and exception of tuition
-ASU Alumni Scholarship
-Aichi Shukutoku University ／Aichi Shukutoku University
+Meiji University Grant for Academic Excellence for Privately Financed International Students
+Meiji University ／Meiji University
 Academic level:
 Doctoral degree program
 Master's degree program
+Professional degree program
 Bachelor's degree program
-University Japanese programs
 Last update :2026/04/24
 Reduction of enrollment fee
 Reduction and exception of tuition
 Special Scholarships for Privately Financed International Students
 Aichi Toho University ／Aichi Toho University
 Academic level:
-Bachelor's degree program
-Last update :2021/07/13
-Reduction and exception of tuition
-International　student　tuition　reduction　and　exemption　system
-Aikoku　Gakuen　University ／Aikoku　Gakuen　University
-Academic level:
-Bachelor's degree program
-Last update :2025/09/18
-Scholarship
-Akebono Foundation Scholarship
-Akebono Foundation ／Akebono Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Professional degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-College of technology
-High school students
-Last update :2023/08/03
-Reduction and exception of tuition
-Tuition Exemption
-Akita University ／Akita University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Last update :2023/08/03
-Reduction of enrollment fee
-Admission fee Exemption/Postponement
-Akita University ／Akita University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Last update :2023/08/03
-Scholarship
-Academic Subsidies
-Akita University ／Akita University
-Academic level:
-Bachelor's degree program
-Last update :2021/07/26
-Reduction and exception of tuition
-AUA Tuition Reduction/Exemption System
-Akita University of Art ／Akita University of Art
-Academic level:
-Doctoral degree program
-Master's degree program
-Last update :2025/09/18
-Scholarship
-Atsumi International Foundation Scholarship
-Atsumi International Foundation ／Atsumi International Foundation
-Academic level:
-Doctoral degree program
-Last update :2025/09/18
-Scholarship
-JAPAN STUDY SUPPORT Scholarships
-Benesse Corporation ／Benesse Corporation
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Last update :2025/09/18
-Scholarship
-JAPAN STUDY SUPPORT Scholarships
-Benesse Corporation ／Benesse Corporation
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Last update :2021/07/29
-Reduction and exception of tuition
-Biwako Seikei Sport College Tuition Reduction and Exemption for Privately Financed International Students
-Biwako Seikei Sport College ／Biwako Seikei Sport College
-Academic level:
-Master's degree program
-Bachelor's degree program
-Last update :2021/07/22
-Scholarship
-Reduction of enrollment fee
-BFGU Scholarship
-Bunka Fashion Graduate University ／Bunka Fashion Graduate University
-Academic level:
-Professional degree program
-Last update :2021/07/26
-Reduction and exception of tuition
-Remission of Tuition Fees for Self-Funded International Students of Bunka Gakuen University
-Bunka Gakuen University ／Bunka Gakuen University
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Last update :2021/07/27
-Reduction of examination fee
-Qualification acquisition fee reduction system
-Chiba University of Commerce ／Chiba University of Commerce
-Academic level:
-Master's degree program
-Professional degree program
 Bachelor's degree program
 Last update :2025/11/11
 Reduction and exception of tuition
@@ -630,64 +529,164 @@ Academic level:
 Master's degree program
 Professional degree program
 Bachelor's degree program
-Last update :2021/08/05
-Reduction and exception of tuition
-Chikushi Jogakuen Univ. Tuition Waiver Program for International Students
-Chikushi Jogakuen University ／Chikushi Jogakuen University
+Last update :2025/11/10
+Scholarship
+KGU International Student Scholarship （Tentative Selection Prior to Enrollment）
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
+Doctoral degree program
 Master's degree program
+Professional degree program
+Last update :2025/11/10
+Scholarship
+KGU International Student Scholarship （Selection after University Entrance）
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
+Doctoral degree program
+Master's degree program
+Professional degree program
+Last update :2025/11/10
+Reduction and exception of tuition
+Tuition Reduction for Privately Funded International Students
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
+Doctoral degree program
+Master's degree program
+Professional degree program
+Last update :2025/11/10
+Scholarship
+School of Policy Studies Scholarship for International Students
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
 Bachelor's degree program
-Last update :2021/07/14
+Last update :2025/11/10
+Scholarship
+KGU Academic Scholarship for International Students (for second-year students and above)
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
+Bachelor's degree program
+Last update :2025/11/10
+Scholarship
+KGU Pre-enrollment Reserved Scholarship for International Students (for first-year students)
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
+Bachelor's degree program
+Last update :2025/11/09
+Reduction of enrollment fee
+Reduction of examination fee
+Reduction and exception of tuition
+Scholarship for International Students
+Miyazaki International University ／Miyazaki International University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/08
+Reduction and exception of tuition
+Tuition Fees Waiver
+Hokkaido University ／Hokkaido University
+Academic level:
+Doctoral degree program
+Doctoral program with five-year system
+Master's degree program
+Professional degree program
+Bachelor's degree program
+Last update :2025/11/08
+Reduction of enrollment fee
+Entrance Fee Waiver
+Hokkaido University ／Hokkaido University
+Academic level:
+Doctoral degree program
+Doctoral program with five-year system
+Master's degree program
+Professional degree program
+Bachelor's degree program
+Last update :2025/11/08
 Scholarship
 Reduction of enrollment fee
+Reduction of examination fee
 Reduction and exception of tuition
-Chubu Gakuin University Scholarship
-Chubu Gakuin University ／Chubu Gakuin University
-Academic level:
-Bachelor's degree program
-Last update :2025/11/04
-Scholarship
-Chukyo University Scholarship for International Students
-Chukyo University ／Chukyo University
+Hokkaido University Special Grant Program for Self-Supported International Students
+Hokkaido University ／Hokkaido University
 Academic level:
 Doctoral degree program
 Master's degree program
-Bachelor's degree program
-Last update :2025/09/18
-Scholarship
-Graduate Scholarship for Non-Japanese Women to Study in Japan
-College Women&#039;s Association of Japan (CWAJ) ／College Women&#039;s Association of Japan (CWAJ)
-Academic level:
-Doctoral degree program
-Last update :2021/07/28
+Last update :2025/11/08
+Reduction of enrollment fee
+Reduction of examination fee
 Reduction and exception of tuition
-Dokkyo Medical University financial aid program for privately funded international student
-Dokkyo Medical University ／Dokkyo Medical University
+Other
+Hokkaido University Special Grant Program for Self-supported International Students (Graduate School of Chemical Sciences and Engineering)
+Hokkaido University ／Hokkaido University
 Academic level:
 Doctoral degree program
-Last update :2021/07/13
+Last update :2025/11/08
+Reduction of enrollment fee
+MJSP Scholarship Program
+Hokkaido University ／Hokkaido University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/07
+Scholarship
+Reduction of enrollment fee
+Reduction of examination fee
 Reduction and exception of tuition
-Tuition Reduction
-Doshisha Women's College of Liberal Arts ／Doshisha Women's College of Liberal Arts
+Other
+Special Scholarship Program (SSP)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Scholarship
+Scholarship A (Doctoral Program)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Scholarship
+Scholarship B (Doctoral Program)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Reduction and exception of tuition
+Partial Tuition-Waiver Scholarships for International Students
+Josai International University ／Josai International University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+College of Science and Technology Scholarship
+Nihon University ／Nihon University
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Last update :2021/07/13
+Last update :2025/11/06
 Scholarship
-Taketo and Kiyone Sakamoto Scholarship
-Doshisha Women's College of Liberal Arts ／Doshisha Women's College of Liberal Arts
+College of Humanities and Sciences Scholarship
+Nihon University ／Nihon University
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Last update :2021/07/13
+Last update :2025/11/06
 Scholarship
-Taketo Sakamoto Scholarship
-Doshisha Women's College of Liberal Arts ／Doshisha Women's College of Liberal Arts
+College of Industrial Technology Scholarship
+Nihon University ／Nihon University
 Academic level:
 Doctoral degree program
 Master's degree program
+Bachelor's degree program
+Last update :2025/11/06
+Reduction and exception of tuition
+University fee reduction and exemption systems for new international students（utsunomiya)
+Teikyo University ／Teikyo University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+Sendai Shirayuri Women&#039;s College Scholarship
+Sendai Shirayuri Women&#039;s College ／Sendai Shirayuri Women&#039;s College
+Academic level:
 Bachelor's degree program
 1
 2
