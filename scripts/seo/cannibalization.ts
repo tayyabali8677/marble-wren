@@ -28,6 +28,28 @@ const MIN_IMPRESSIONS_PER_PAGE = 3;
 // Below this the second page is not really competing, just occasionally shown.
 const MIN_SHARE = 0.15;
 
+export type ConflictScan = {
+  conflicts: Conflict[];
+  // Queries served by more than one page before any threshold is applied.
+  // Kept so a zero result can be told apart from a broken detector.
+  multiPageQueries: number;
+};
+
+export function scanConflicts(rows: QueryPageRow[]): ConflictScan {
+  const pagesPerQuery = new Map<string, Set<string>>();
+  for (const row of rows) {
+    const query = row.keys?.[0];
+    const page = row.keys?.[1];
+    if (!query || !page) continue;
+    const set = pagesPerQuery.get(query) ?? new Set<string>();
+    set.add(page);
+    pagesPerQuery.set(query, set);
+  }
+  const multiPageQueries = [...pagesPerQuery.values()].filter((s) => s.size > 1).length;
+
+  return { conflicts: findConflicts(rows), multiPageQueries };
+}
+
 export function findConflicts(rows: QueryPageRow[]): Conflict[] {
   const byQuery = new Map<string, Competitor[]>();
 
@@ -79,12 +101,19 @@ export function findConflicts(rows: QueryPageRow[]): Conflict[] {
   return conflicts.sort((a, b) => b.totalImpressions - a.totalImpressions);
 }
 
-export function renderConflicts(conflicts: Conflict[]): string {
+export function renderConflicts(scan: ConflictScan): string {
+  const { conflicts, multiPageQueries } = scan;
+
   if (conflicts.length === 0) {
-    return `## Keyword Cannibalization\n\nNo conflicts found. No query has two of our pages meaningfully competing for it.\n\n---\n\n`;
+    let out = `## Keyword Cannibalization\n\nNo conflicts found. `;
+    out += `${multiPageQueries} ${multiPageQueries === 1 ? "query is" : "queries are"} served by more than one page, `;
+    out += `but none has a second page holding at least ${Math.round(MIN_SHARE * 100)}% of the impressions `;
+    out += `with ${MIN_IMPRESSIONS_PER_PAGE}+ of its own.\n\n---\n\n`;
+    return out;
   }
 
   let out = `## Keyword Cannibalization (${conflicts.length})\n\n`;
+  out += `Out of ${multiPageQueries} queries served by more than one page, these are genuine contests.\n\n`;
   out += `Queries where more than one of our pages is competing. Pick the primary page, then point an internal `;
   out += `link at it from each of the others using the query itself as the anchor text.\n\n`;
 
