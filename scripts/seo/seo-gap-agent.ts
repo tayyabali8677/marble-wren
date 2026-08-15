@@ -60,6 +60,23 @@ async function callGemini(prompt: string, jsonMode = false): Promise<string> {
 
 type GeneratedFaq = { keyword: string; question: string; answer: string };
 
+// The prompt tells the model not to invent numbers. It sometimes does anyway,
+// and a wrong eligibility percentage or fee on a consultancy site is the one
+// mistake an unsupervised writer must not be able to make. Anything matching
+// these still lands in the report for review, it just does not go live.
+const RISKY_CLAIM = [
+  /\b\d+(\.\d+)?\s*(?:%|percent|percentage)/i,
+  /\b(?:rs\.?|pkr|usd|\$|€|£|¥|rmb|yuan|rubles?|lari|aed)\s*[\d,]/i,
+  /[\d,]+\s*(?:rupees|dollars|yuan|rmb|rubles?|lari|lakh|crore)/i,
+  /\b(?:deadline|last date|closing date)\b[^.]*\b\d/i,
+  /\branked?\b[^.]*\b(?:#\s*\d|\d+(?:st|nd|rd|th)\b|top\s+\d)/i,
+  /\b\d+(?:st|nd|rd|th)\s+(?:in|among|worldwide|globally)\b/i,
+];
+
+function hasRiskyClaim(answer: string): boolean {
+  return RISKY_CLAIM.some((re) => re.test(answer));
+}
+
 // The model is asked for JSON, but a stray code fence or a bad entry should
 // cost one page's suggestion, not the whole run.
 function parseFaqJson(raw: string): GeneratedFaq[] {
@@ -158,6 +175,7 @@ async function main() {
 
   // Path to FAQ entries the agent wants to push live this run.
   const candidates: Record<string, FaqEntry[]> = {};
+  let heldForReview = 0;
 
   for (const [page, keywords] of topPages) {
     const top5 = keywords.slice(0, 5);
@@ -183,7 +201,7 @@ Keywords this page is almost ranking for (position 8-20): ${kwList}
 Write 2 or 3 FAQ entries that directly answer what someone searching those keywords wants to know. Rules:
 - Write in the simple English Pakistani students actually use when searching.
 - Each answer is 40 to 70 words, factual and specific. No marketing filler.
-- Do not invent fees, dates, deadlines, or rankings. If a specific number is not something you can state confidently, describe the process instead.
+- Never state a fee, tuition amount, percentage, eligibility mark, deadline, or ranking. Not even an approximate one. Describe the process or the requirement in words instead. An answer containing any such number will be discarded.
 - The question should read like a real search, not a headline.
 
 Return ONLY a JSON array in this exact shape:
@@ -199,17 +217,26 @@ Return ONLY a JSON array in this exact shape:
             top5.map((k) => [k.keys![0].toLowerCase(), k.position ?? 0])
           );
 
-          candidates[path] = parsed.map((f) => ({
-            keyword: f.keyword,
-            question: f.question,
-            answer: f.answer,
-            addedAt: date,
-            positionAtGeneration: positionByKeyword.get(f.keyword.toLowerCase()) ?? 0,
-          }));
+          const safe = parsed.filter((f) => !hasRiskyClaim(f.answer));
+          const held = parsed.filter((f) => hasRiskyClaim(f.answer));
+          heldForReview += held.length;
+
+          if (safe.length > 0) {
+            candidates[path] = safe.map((f) => ({
+              keyword: f.keyword,
+              question: f.question,
+              answer: f.answer,
+              addedAt: date,
+              positionAtGeneration: positionByKeyword.get(f.keyword.toLowerCase()) ?? 0,
+            }));
+          }
 
           report += `\n### Generated FAQ\n\n`;
-          for (const f of parsed) {
+          for (const f of safe) {
             report += `**Q: ${f.question}**\n\nA: ${f.answer}\n\n`;
+          }
+          for (const f of held) {
+            report += `**Q: ${f.question}** (held for review, states a number)\n\nA: ${f.answer}\n\n`;
           }
         } else {
           report += `\n*Content suggestion unavailable*\n\n`;
@@ -235,6 +262,10 @@ Return ONLY a JSON array in this exact shape:
     publishSection += `\n`;
   } else {
     publishSection += `Nothing published${result.reason ? `: ${result.reason}` : ""}.\n\n`;
+  }
+  if (heldForReview > 0) {
+    publishSection += `${heldForReview} answer${heldForReview === 1 ? " was" : "s were"} held back for stating a fee, percentage, deadline, or ranking. `;
+    publishSection += `They are in the section below marked "held for review". Check the number, then paste the answer in by hand if it is right.\n\n`;
   }
   if (result.skipped > 0) {
     publishSection += `${result.skipped} candidate${result.skipped === 1 ? "" : "s"} skipped (already published, or over the per-run cap).\n\n`;

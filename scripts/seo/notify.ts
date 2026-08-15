@@ -97,7 +97,11 @@ async function main() {
 
   const published = section(gap, "Auto-Published");
   if (published) {
-    sections.push({ title: "Published overnight", body: published, needsDecision: false });
+    sections.push({
+      title: "Published overnight",
+      body: published,
+      needsDecision: published.includes("held back"),
+    });
   }
 
   const conflicts = section(gap, "Keyword Cannibalization");
