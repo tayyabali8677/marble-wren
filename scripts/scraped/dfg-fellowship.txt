@@ -1,0 +1,4879 @@
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin/ =====
+Walter Benjamin Programme | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Funding Opportunities
+All Funding Programmes
+Walter Benjamin Programme
+Walter Benjamin Programme
+Further Information
+Forms and Guideline s
+FAQ: Walter Benjamin Programm e
+elan - Electronic proposal submissio n
+The Walter Benjamin Programme enables researchers in the postdoctoral training phase to independently conduct their own research project at a location of their choice.
+The project can be carried out at a research institution in Germany or abroad, with the host institution providing support for the project.
+Important note
+Before submitting your proposal, please clarify with the host institution whether the fellowship funding can be administered in accordance with DFG regulations ( DFG form 2.0 0 (interner Link) ). Please note that the fellowship is paid exclusively to the funding recipient and not into an account of the host institution.
+Note on Walter Benjamin fellowships
+French legislation allows postdoctoral fellowships at research institutions in France for a maximum period of 12 months. Enquiries with the French Ministry of Higher Education, Research and Innovation (Ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation, MESRI) have indicated, however, that fellowships may be granted for a period of up to 24 months if the postdoctoral researcher moves to another institution in France after 12 months. Please bear this in mind when planning a stay in France under the Walter Benjamin Programme. If applicable, both institutions must already have been confirmed at the time of proposal submission.
+{ disableAnimation = false }, 100);
+window.addEventListener('hashchange', () => checkAnchor());
+"
+>
+Information about the Programme
+Purpose
+By securing funding for their own research project, particularly qualified postdoctoral researchers pave the way for the next stages of their increasingly independent research career and exercise autonomy. The programme thus promotes early research careers with the aim of fostering the mobility and thematic development that are crucial in this career phase; therefore, the programme generally requires that the applicant change his or her research institution.
+Eligibility Requirements
+Only postdoctoral researchers at an early career phase are eligible to apply to this programme. The project may not be based at an entity that is for-profit or that does not permit the publication of findings in a generally accessible form.
+Special provisions apply for individuals applying for a Walter Benjamin fellowship (abroad):
+Funding abroad can only be provided if researchers are integrated into Germany’s academic research system. This is the case if, immediately prior to submitting a proposal, they have worked as a researcher in Germany for a continuous period of at least three years during their doctoral and/or postdoctoral phase.
+If researchers are already based abroad, funding can be provided abroad if they have completed the majority of their schooling and higher education in Germany and, as of proposal time, have not spent more than three years abroad for research purposes after completing their doctorate in Germany or abroad.
+Furthermore, they must not have worked longer than one year at the host institution selected for the Walter Benjamin fellowship as of proposal time.
+Type and Extent of Funding
+This depends on the choice of module. Abroad, funding is provided as a fellowship, whereas in Germany, as a position under the staff category “postdoctoral researcher and comparable” (or temporary substitute position usually under the staff category “medical research assistant”). Combining both is also possible. Regardless of your choice of module, an allowance will be provided for direct project costs, travel expenses and publication costs and, where applicable, increased publication costs (literature).
+The fellowship comprises a monthly basic amount and, where applicable, foreign allowances, cost-of-living allowance, travel allowance as well as benefits for fellowship recipients with children. You can use the Award Calculato r (interner Link) to determine how much funding you are likely to be awarded.
+It is expected that further requirements are covered by the institution at which the project is based. In particular for the project implementation in Germany, the host researchers are expected to support the project and the career development.
+Funding Duration
+As a rule, the funding duration is up to two years.
+Forms and Guidelines
+All guidelines, templates and further forms for this programme can be found in the Forms and Guideline s (interner Link) .
+{ disableAnimation = false }, 100);
+window.addEventListener('hashchange', () => checkAnchor());
+"
+>
+Proposal Deadlines
+Proposals may be submitted at any time.
+{ disableAnimation = false }, 100);
+window.addEventListener('hashchange', () => checkAnchor());
+"
+>
+Discussion Platform for Fellows Abroad
+Fellows located abroad can exchange information on all aspects of their fellowship via a mailing list of the Discussion Platfor m (interner Link) (in German only).
+{ disableAnimation = false }, 100);
+window.addEventListener('hashchange', () => checkAnchor());
+"
+>
+Refugee Researchers
+Refugee researchers can submit a proposal for their own project to be carried out in Germany under the Walter Benjamin Programme (Walter Benjamin position ). The DFG-form ( dfg-form 55.0 6 (interner Link) ) presents guidelines for the proposal submission under the Walter Benjamin Programme by refugee researchers. Read more about the support for Refugee Researcher s (interner Link) .
+{ disableAnimation = false }, 100);
+window.addEventListener('hashchange', () => checkAnchor());
+"
+>
+Contact
+Proposals
+Additional information on the proposal process can be obtained from the relevant programme staf f (interner Link) .
+Procedural questions can be directed to procedures-researchcareers@dfg.d e (externer Link) .
+Please also have a look at the detailed information on the FAQ s (interner Link) .
+During Your Fellowship (Contact Persons at the Fellowship Office)
+In case of questions or for further information on financial management, please contact the Fellowship Offic e (Download) .
+Videos
+Our portraying film "Kick-Start for postdocs" shows who the DFG-funded researchers are, what their research is about and what they say about the funding they receive. In the explanatory video you learn who can apply for funding in the Walter Benjamin Programme, what the funding conditions are, and what helps when preparing a proposal.
+View video
+Faces: The Walter Benjamin Programme of the DFG
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+View video
+Das Walter Benjamin-Programm (with English subtitles)
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+Further Information
+Flyer Walter Benjamin Programm e (Download)
+To the website "How the DFG Supports Research Careers " (interner Link)
+Info Talks on DFG Funding Opportunities for Research Career s (interner Link)
+Last updated:
+6 March 2026
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
+
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/proposal-funding-process/faq =====
+FAQ – Frequently Asked Questions | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Proposal and Funding Process
+FAQ
+&copy; Adobe Stock
+FAQ – Frequently Asked Questions
+The following FAQs were compiled to assist prospective applicants in submitting proposals to the DFG and to make the DFG’s procedures transparent. They provide information on various DFG funding programmes and serve to complement existing guidelines and instructions.
+ELAN (DFG User Account)
+Elan – Information for applicants, reviewers and committee member s (interner Link)
+Questions about Proposal Preparation and Proposal Submission
+General questions about preparing a proposa l (interner Link)
+General questions on eligibilit y (interner Link)
+FAQ on CV s (interner Link)
+Information relating to special personal circumstance s (interner Link)
+FAQ on Lists of publication s (interner Link)
+Questions and information from certain scientific disciplines
+Humanities and Social Science s (interner Link)
+Life Science s (interner Link)
+Natural Science s (interner Link)
+Review, Assessment and Decision
+Questions about the Review Proces s (interner Link)
+FAQs on the subject classification system, subject area allocation and interdisciplinarit y (interner Link)
+DFG Committee s (interner Link)
+After the Decision/Current projects
+Questions about current project s (interner Link)
+Changes and delays in the course of a projec t (interner Link)
+Information relating to special personal circumstance s (interner Link)
+Questions about CO2 Compensatio n (interner Link)
+End of project and final repor t (interner Link)
+Individual Grants Programmes
+Walter Benjamin-Programm e (interner Link)
+Research Fellowship s (interner Link)
+Emmy Noether Programm e (interner Link)
+Heisenberg Programm e (interner Link)
+Temporary Positions for Principal Investigator s (interner Link)
+Knowledge transfer project s (interner Link)
+Trilateral transfer project s (interner Link)
+Transfer FH/HAW PLU S (interner Link)
+Coordinated Programmes
+Research Training Group s (interner Link)
+Collaborative Research Centre s (interner Link)
+Research Units Funding Lin e (interner Link)
+Special Funding Initiatives
+National Research Data Infrastructur e (interner Link)
+Research Infrastructure
+Open Acces s (interner Link)
+Open Access Publication Fundin g (interner Link)
+Infrastructures for Scholarly Publishin g (Download)
+Information Infrastructures for Research Dat a (interner Link)
+Funding Programme “Coordinating Roles and Responsibilities in Information Infrastructures” (VIGO ) (interner Link)
+International
+Internationa l (interner Link)
+Lead Agency Procedure with Switzerland, Austria and Luxembour g (interner Link)
+Weave Lead Agency Procedur e (interner Link)
+Funding Opportunity for Dutch-German Basic Research Projects (NWO – DFG ) (interner Link)
+ANR-DFG French-German Collaboration for Joint Projects in Natural, Life and Engineering Science s (interner Link)
+Principles and Framework Conditions
+Implementation of the Code "Guidelines for Safeguarding Good Research Practice " (externer Link)
+Handling of Research Dat a (interner Link)
+Publishin g (interner Link)
+Subject Area Structure and Interdisciplinarit y (interner Link)
+Last updated:
+10 August 2026
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
+
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding =====
+Funding | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Research Funding
+&copy; DFG
+Quick links
+All Funding Programmes
+Compact overvie w
+Forms and Guidelines
+(in German only )
+Individual Grants Programmes
+A How-To-Guid e
+Funding
+&copy; Adobe Stock
+Funding Opportunities
+&copy; Adobe Stock
+Special Funding Initiatives
+&copy; iStock
+Things to Know about the Proposal and Funding Process
+&copy; Adobe Stock
+Contact Persons at the DFG Head Office
+&copy; Adobe Stock
+FAQ on Proposal Preparation
+&copy; DFG
+elan portal
+Last updated:
+17 January 2025
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
+
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities =====
+Funding Opportunities | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Funding Opportunities
+Funding Opportunities
+All Funding Programmes
+&copy; Adobe Stock
+Scientific Prizes
+&copy; Adobe Stock
+What funding opportunities does the DFG offer for all career phases?
+&copy; Adobe Stock
+Calls for Proposals
+Research Vessels
+&copy; Adobe Stock
+Funding in an International Context
+&copy; Adobe Stock
+Cooperation with Individual Countries and Regions
+Last updated:
+20 January 2025
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
+
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/programmes =====
+All Funding Programmes | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Funding Opportunities
+All Funding Programmes
+All Funding Programmes
+Information on DFG funding opportunities and programme forms and guidelines
+Funding Opportunities
+Structure of Funding Portfolio
+View:
+Alphabetically sorted by
+a
+Albert Maucher Prize in Geoscience
+F orms and Guidelines
+Category: Prizes
+b
+Bernd Rendel Prize in Geoscience
+F orms and Guidelines
+Category: Prizes
+c
+Centres for Advanced Studies in Humanities and Social Sciences
+F orms and Guidelines
+Category: Individuals
+Clinical Research Units
+F orms and Guidelines
+Category: Individuals
+Clinical Trials
+F orms and Guidelines
+Category: Individuals
+Clusters of Excellence
+F orms and Guidelines
+Category: Institutions
+Collaborative Research Centres / Transregios
+F orms and Guidelines
+Category: Institutions
+Communicator Award
+Category: Prizes
+Coordinating Roles and Responsibilities in Information Infrastructures
+F orms and Guidelines
+Category: Individuals
+Copernicus Award
+F orms and Guidelines
+Category: Prizes
+Core Facilities
+F orms and Guidelines
+Category: Institutions
+d
+DFG Research Centres
+F orms and Guidelines
+Category: Institutions
+Digitisation and Indexing
+F orms and Guidelines
+Category: Individuals
+Discipline-Specific Information Services
+F orms and Guidelines
+Category: Individuals
+e
+Emmy Noether Programme
+F orms and Guidelines
+Category: Individuals
+e-Research Technologies
+F orms and Guidelines
+Category: Individuals
+g
+Gottfried Wilhelm Leibniz Prize
+F orms and Guidelines
+Category: Prizes
+h
+Heinz Maier-Leibnitz Prize
+F orms and Guidelines
+Category: Prizes
+Heisenberg Programme
+F orms and Guidelines
+Category: Individuals
+i
+Individual Research Grants
+F orms and Guidelines
+Category: Individuals
+Information Infrastructures for Research Data
+F orms an Guidelines
+Category: Individuals
+Infrastructures for Scholarly Publishing
+F orms and Guidelines
+Category: Individuals
+Initiation of International Collaboration
+F orms and Guidelines
+Category: Individuals
+International Scientific Events
+F orms and Guidelines
+Category: Individuals
+m
+Major Instrumentation Initiatives
+F orms and Guidelines
+Category: Institutions
+Major Research Instrumentation
+F orms and Guidelines
+Category: Institutions
+n
+National Research Data Infrastructure
+F orms and Guidelines
+Category: Institutions
+New Instrumentation for Research
+F orms and Guidelines
+Category: Individuals
+o
+Open Access Publication Funding
+F orms and Guidelines
+Category: Institutions
+p
+Package Proposals
+F orms and Guidelines
+Category: Individuals
+Priority Programmes
+F orms and Guidelines
+Category: Individuals
+Project Academies
+F orms and Guidelines
+Category: Individuals
+r
+Reinhart Koselleck Projects
+F orms and Guidelines
+Category: Individuals
+Research Fellowships
+F orms and Guidelines
+Category: Individuals
+Research Impulses
+F orms and Guidelines
+Category: Institutions
+Research Software Infrastructures
+F orms an Guidelines
+Category: Individuals
+(International) Research Training Groups
+F orms and Guidelines
+Category: Institutions
+Research Units
+F orms and Guidelines
+Category: Individuals
+s
+Scientific Networks
+F orms and Guidelines
+Category: Individuals
+State Major Instrumentation
+F orms and Guidelines
+Category: Institutions
+u
+Ursula M. Händel Animal Welfare Prize
+F orms and Guidelines
+Category: Prizes
+v
+von Kaven Award
+F orms and Guidelines
+Category: Prizes
+w
+Walter Benjamin Programme
+F orms and Guidelines
+Category: Individuals
+Workshops for Early Career Investigators
+F orms and Guidelines
+Category: Individuals
+Proposal submitted by Individuals
+Proposal submitted by Institutions
+Prizes
+View:
+Funding focus
+Proposal submitted by
+Individuals
+Funding focus: Investigators
+Walter Benjamin Programme
+F orms and Guidelines
+Research Fellowships
+F orms and Guidelines
+Emmy Noether Programme
+F orms and Guidelines
+Heisenberg Programme
+F orms and Guidelines
+Funding focus: Themes
+Individual Research Grants
+F orms and Guidelines
+Reinhart Koselleck Projects
+F orms and Guidelines
+Package Proposals
+F orms and Guidelines
+Initiation of International Collaboration
+F orms and Guidelines
+Research Units
+F orms and Guidelines
+Clinical Research Units
+F orms and Guidelines
+Clinical Trials
+F orms and Guidelines
+Priority Programmes
+F orms and Guidelines
+Funding focus: Forum
+Centres for Advanced Studies in Humanities and Social Sciences
+F orms and Guidelines
+Scientific Networks
+F orms and Guidelines
+Workshops for Early Career Investigators
+F orms and Guidelines
+Project Academies
+F orms and Guidelines
+International Scientific Events
+F orms and Guidelines
+Funding focus: Infrastructure
+New Instrumentation for Research
+F orms and Guidelines
+Discipline-Specific Information Services
+F orms and Guidelines
+Information Infrastructures for Research Data
+F orms an Guidelines
+Infrastructures for Scholarly Publishing
+F orms and Guidelines
+e-Research Technologies
+F orms and Guidelines
+Digitisation and Indexing
+F orms and Guidelines
+Coordinating Roles and Responsibilities in Information Infrastructures
+F orms and Guidelines
+Research Software Infrastructures
+F orms an Guidelines
+Proposal submitted by
+Institutions
+Funding focus: Themes
+Collaborative Research Centres / Transregios
+F orms and Guidelines
+Funding focus: Forum
+(International) Research Training Groups
+F orms and Guidelines
+DFG Research Centres
+F orms and Guidelines
+Clusters of Excellence
+F orms and Guidelines
+Research Impulses
+F orms and Guidelines
+Funding focus: Infrastructure
+Major Research Instrumentation
+F orms and Guidelines
+State Major Instrumentation
+F orms and Guidelines
+Major Instrumentation Initiatives
+F orms and Guidelines
+Core Facilities
+F orms and Guidelines
+Open Access Publication Funding
+F orms and Guidelines
+National Research Data Infrastructure
+F orms and Guidelines
+Scientific
+Prizes
+Funding focus: Investigators
+Gottfried Wilhelm Leibniz Prize
+F orms and Guidelines
+Heinz Maier-Leibnitz Prize
+F orms and Guidelines
+Communicator Award
+Copernicus Award
+F orms and Guidelines
+Albert Maucher Prize in Geoscience
+F orms and Guidelines
+Bernd Rendel Prize in Geoscience
+F orms and Guidelines
+Ursula M. Händel Animal Welfare Prize
+F orms and Guidelines
+von Kaven Award
+F orms and Guidelines
+Structure of Funding Portfolio
+The DFG funding portfolio includes a wide range of funding instruments for research projects and research infrastructures. A distinction is made between funding for individual researchers and funding for institutions, according to the requirements and objectives of the research to be conducted. Individuals can also be nominated for research prizes.
+Most of the DFG’s funding instruments are designed to support research projects. These instruments are grouped into seven funding focuses (an eighth funding focus encompasses prizes). Grants centre on either research career development, or the research theme and the way in which it is addressed or the infrastructures required to address it. As far as possible, funding opportunities are aligned with the needs of researchers and are designed to reflect the research approaches used in the various academic research disciplines and communities. They also enable or facilitate diverse forms of cooperation between institutions, locations and disciplines. Funding awarded to research institutions also helps to enhance their core areas and structures from an academic and infrastructural standpoint.
+Last updated:
+27 May 2026
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
+
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/prizes =====
+Scientific Prizes | DFG
+Open menu
+Close menu
+1}">
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link main-nav__link--first">
+About Us
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+About Us
+About the DFG &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Alliance of Science Organisations in Germany
+Statutory Bodies &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Contact Persons at Higher Education Institutions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Head Office &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+International Cooperation &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funding
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funding
+Funding Opportunities &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Special Funding Initiatives &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Things to Know about the Proposal and Funding Process &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Basics and Topics
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Basics and Topics
+Basics and Principles of Funding &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Resilience of Research
+Digital Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publication and Communication &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Scientific Commissions &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+Funded Projects
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+Funded Projects
+Prizewinners &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Current Projects and Programmes in GEPRIS &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Research Information Systems &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+1"
+@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
+:aria-controls="$id('main-menu')"
+class="main-nav__link ">
+News
+2}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
+Close menu
+Back
+News
+News and Current Topics &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Facts and Figures &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Publications &#xFEFF;
+3}"
+x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
+Close menu
+Back
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Go to Main Navigation
+Go to Search
+Go to Main Area
+GEPRIS
+GERiT
+RIsources
+Elan
+Press
+DE
+bluesky
+mastodon
+instagram
+linkedIn
+youtube
+Open search
+Search
+Close search
+Search text
+Search
+FAQ - Frequently asked questions &#xFEFF;
+About Us
+See overview &#xFEFF;
+Close menu
+About the DFG
+What is the DFG?
+Statutes
+History
+Annual Report
+Key Figures Portal
+Alliance of Science Organisations in Germany
+Statutory Bodies
+General Assembly
+Executive Committee
+Senate
+Joint Committee
+Review Boards
+Contact Persons at Higher Education Institutions
+Liaison Officers
+Liaisons at Non-Member Organisations
+Head Office
+Contacts A-Z
+Programme Contacts
+Berlin Office
+Career
+Executive Board
+International Cooperation
+International Activities
+European Research Policy
+News from the Offices Abroad
+Representation Abroad
+Funding
+See overview &#xFEFF;
+Close menu
+Funding Opportunities
+All Funding Programmes
+Scientific Prizes
+How the DFG Supports Research Careers
+Calls for Proposals
+Research Vessels
+Funding in an International Context
+Cooperation with Individual Countries and Regions
+Special Funding Initiatives
+Global Minds Initiative Germany
+Excellence Strategy
+National Research Data Infrastructure
+Funding for UAS
+Knowledge Transfer
+Refugee Researchers
+Clinician Scientist Programmes
+Funding Relatet to AI
+Secure Data Repositories and Data Resilience
+Things to Know about the Proposal and Funding Process
+Forms and Guidelines
+Funding Acknowledgements
+Principles of Eligibility
+Individual Grants Programmes - How-To
+Decision Making Process
+Information for Reviewers
+Subject Area Structure and Interdisciplinarity
+Final reports
+Programme Contacts
+FAQ
+The elan Portal
+Basics and Topics
+See overview &#xFEFF;
+Close menu
+Basics and Principles of Funding
+Good Research Practice
+Equity and Diversity
+Security-Relevant Research
+Sustainability Guide for Research Processes
+Diversity Dimensions in Research
+Resilience of Research
+Digital Topics
+Artificial Intelligence
+Open Access
+Handling of Research Data
+Handling of research software
+Dialogue Process on Digital Research Practice
+Publication and Communication
+Academic Publishing
+Citizen Participation
+Science Communication
+Scientific Commissions
+Food Safety
+Health Hazards
+Animal Research
+Genetic Research
+Clinical Research
+Biological Diversity
+Transformation of Agricultural and Food Systems
+Pandemic Research
+German Committee for Sustainability Research
+Funded Projects
+See overview &#xFEFF;
+Close menu
+Prizewinners
+Gottfried Wilhelm Leibniz Prize
+Heinz Maier-Leibnitz Prize
+Communicator Award
+von Kaven Award
+Bernd Rendel Prize
+Ursula M. Händel Prize
+Copernicus Award
+Albert Maucher Prize in Geoscience
+Europa Prize
+Current Projects and Programmes in GEPRIS
+Collaborative Research Centres
+Research Training Groups
+Priority Programmes
+Research Units
+Clinical Research Units
+Centres for Advanced Studies in Humanities and Social Sciences
+Clusters of Excellence
+Research Information Systems
+GEPRIS
+GERiT
+RIsources
+Portal Research Integrity
+News
+See overview &#xFEFF;
+Close menu
+News and Current Topics
+Press Releases
+Information for Researchers
+News from the Offices Abroad
+Press Contact
+Newsletter
+Facts and Figures
+Annual Report
+Funding Atlas
+Evaluation, Studies and Monitoring
+Key Figures Portal
+Publications
+Magazine „german research"
+Statements and Position Papers
+Speeches
+Information Material
+DFG
+Funding
+Funding Opportunities
+Scientific Prizes
+Scientific Prizes
+The DFG awards prizes to scientists and academics in recognition of their outstanding research achievements.
+Gottfried Wilhelm Leibniz Priz e (interner Link)
+The Gottfried Wilhelm Leibniz Programme awards prizes to scientists and academics for their outstanding achievements in the field of research.
+Heinz Maier-Leibnitz Priz e (interner Link)
+The Heinz Maier-Leibnitz Prize is a distinction for early career researchers and provides further incentive for excellent achievements in their research work.
+Communicator Awar d (interner Link)
+The “Communicator Award – Science Award of the Donors' Association" is awarded by the DFG. This personal award, worth €50,000, is given to researchers who have communicated their scientific findings to the public with exceptional success.
+von Kaven Awar d (interner Link)
+The von Kaven Award is presented each year to an outstanding EU-based mathematician.
+Bernd Rendel Priz e (interner Link)
+The Bernd Rendel Prize is awarded annually by the DFG to qualified early career geoscientists who do not yet hold a doctorate. Criteria for the selection of awardees are quality and originality of the research as well as the scientific potential of the candidates.
+Ursula M. Händel Priz e (interner Link)
+The Ursula M. Händel-Prize recognises scientists who have made exemplary and sustained efforts to improve the welfare of animals in research.
+Copernicus Awar d (interner Link)
+The Copernicus Award is conferred every two years to two researchers, one in Germany and one in Poland, for outstanding achievements in German-Polish research cooperation. It is conferred jointly by the DFG and the Foundation for Polish Science (Fundacja na rzecz Nauki Polskiej, FNP).
+Albert Maucher Prize in Geoscienc e (interner Link)
+The Albert Maucher Prize in Geoscience is awarded once every three years to early career researchers in recognition of outstanding research findings and original approaches. Researchers who already have a full professorship cannot be nominated.
+Last updated:
+27 June 2024
+Information Systems and Websites
+Portal Research Integrity
+GEPRIS
+GERiT
+RIsources
+Service
+Press Contact
+FAQ
+Career
+Informant Portal
+Logo und Corporate Design
+RSS Feeds
+Accessibility
+Services and Information for Persons with Disabilities
+Accessibility Statement
+Report a Barrier
+DFG Newsletter
+Receive news from the DFG directly in your mailbox.
+Subscribe
+© 2026 DFG
+Imprint
+Privacy Policy
+Cookie Settings
+Contact
+Service
+Cookie-Settings
+Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
+We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
+For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
+You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
+Accept statistical cookies
+Continue without statistical cookies
+{ showButton = false; }, 3000)
+">
+Go to the top of the page
+Share
