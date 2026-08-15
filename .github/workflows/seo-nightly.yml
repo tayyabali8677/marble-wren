@@ -49,8 +49,8 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/indexing-monitor.ts
 
-      # The next three share one crawl of the site. link-health runs first so it
-      # fills the cache the other two read.
+      # The next six share one crawl of the site. link-health runs first so it
+      # fills the cache the rest read.
       - name: Link health
         if: always()
         run: npx tsx scripts/seo/link-health.ts
@@ -62,6 +62,21 @@ jobs:
       - name: Structured data audit
         if: always()
         run: npx tsx scripts/seo/schema-audit.ts
+
+      - name: Internal link graph
+        if: always()
+        run: npx tsx scripts/seo/internal-links.ts
+
+      # Pairwise comparison of every page against every other, so it is the
+      # slowest of the crawl-based agents by a distance.
+      - name: Near-duplicate content
+        if: always()
+        timeout-minutes: 15
+        run: npx tsx scripts/seo/duplicate-content.ts
+
+      - name: Fact drift
+        if: always()
+        run: npx tsx scripts/seo/fact-drift.ts
 
       - name: Core Web Vitals
         if: always()
@@ -76,6 +91,12 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/ctr-outliers.ts
+
+      - name: Striking distance
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/striking-distance.ts
 
       - name: Commit reports
         if: always()

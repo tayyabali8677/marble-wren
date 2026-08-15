@@ -103,8 +103,13 @@ async function main() {
   const schema = readReport(`schema-audit-${date}.md`);
   const vitals = readReport(`vitals-${date}.md`);
   const ctr = readReport(`ctr-outliers-${date}.md`);
+  const internalLinks = readReport(`internal-links-${date}.md`);
+  const striking = readReport(`striking-distance-${date}.md`);
+  const duplicates = readReport(`duplicate-content-${date}.md`);
+  const factDrift = readReport(`fact-drift-${date}.md`);
 
-  const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr];
+  const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
+    internalLinks, striking, duplicates, factDrift];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -177,6 +182,35 @@ async function main() {
       title: "CTR outliers",
       body: `## CTR outliers\n\n${outliers} first-page queries earn far fewer clicks than their position normally does. Title and description rewrites are listed per page in the full report.`,
       needsDecision: true,
+    });
+  }
+
+  // Fact drift goes near the top of the digest in spirit: a wrong number on a
+  // page about someone's medical degree matters more than a ranking.
+  const leftovers = section(factDrift, "Template Leftovers Live");
+  if (leftovers) sections.push({ title: "Template text live", body: leftovers, needsDecision: true });
+
+  const contradictions = section(factDrift, "Contradicting Counts");
+  if (contradictions) sections.push({ title: "Contradicting numbers", body: contradictions, needsDecision: true });
+
+  const badRanges = section(factDrift, "Fee Ranges Narrower Than Reality");
+  if (badRanges) sections.push({ title: "Fee ranges understated", body: badRanges, needsDecision: true });
+
+  const twins = section(duplicates, "Effectively The Same Page");
+  if (twins) sections.push({ title: "Duplicate pages", body: twins, needsDecision: true });
+
+  const orphans = section(internalLinks, "Orphan Pages");
+  if (orphans) sections.push({ title: "Orphan pages", body: orphans, needsDecision: false });
+
+  // Striking distance is opportunity rather than breakage, so it reports a
+  // number and a pointer instead of asking for a decision.
+  const inRange = countAfter(striking, /position \d+ to \d+:\*\* (\d+)/);
+  if (inRange > 0) {
+    const upside = countAfter(striking, /reached position 5:\*\* (\d+)/);
+    sections.push({
+      title: "Striking distance",
+      body: `## Striking distance\n\n${inRange} queries rank at position 8 to 20, worth roughly ${upside} clicks a month if they reached position 5. Per-page rewrites are in the full report.`,
+      needsDecision: false,
     });
   }
 

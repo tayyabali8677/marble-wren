@@ -14,6 +14,10 @@
     "schema-audit": "tsx scripts/seo/schema-audit.ts",
     "vitals": "tsx scripts/seo/vitals.ts",
     "ctr-outliers": "tsx scripts/seo/ctr-outliers.ts",
+    "internal-links": "tsx scripts/seo/internal-links.ts",
+    "striking-distance": "tsx scripts/seo/striking-distance.ts",
+    "duplicate-content": "tsx scripts/seo/duplicate-content.ts",
+    "fact-drift": "tsx scripts/seo/fact-drift.ts",
     "notify": "tsx scripts/seo/notify.ts"
   },
   "dependencies": {
