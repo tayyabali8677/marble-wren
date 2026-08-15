@@ -99,6 +99,14 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/canonical-audit.ts
 
+      # Reads the shared crawl for alt and dimension coverage, then makes a
+      # bounded HEAD pass over the distinct image URLs to weigh them, so it has
+      # its own timeout in case a slow host stalls the size checks.
+      - name: Image SEO
+        if: always()
+        timeout-minutes: 15
+        run: npx tsx scripts/seo/image-seo.ts
+
       - name: Core Web Vitals
         if: always()
         timeout-minutes: 20
@@ -132,6 +140,16 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: npx tsx scripts/seo/query-page-mismatch.ts
+
+      # Derives its keyword list from Search Console, then reads the live SERP
+      # through Serper. Dormant and exits clean when SERPER_API_KEY is unset, so
+      # it is wired in now and starts working the night a key is added.
+      - name: Competitor SERP tracker
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+        run: npx tsx scripts/seo/serp-tracker.ts
 
       - name: Commit reports
         if: always()

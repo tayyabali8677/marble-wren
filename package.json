@@ -23,6 +23,8 @@
     "query-page-mismatch": "tsx scripts/seo/query-page-mismatch.ts",
     "eeat-audit": "tsx scripts/seo/eeat-audit.ts",
     "canonical-audit": "tsx scripts/seo/canonical-audit.ts",
+    "image-seo": "tsx scripts/seo/image-seo.ts",
+    "serp-tracker": "tsx scripts/seo/serp-tracker.ts",
     "notify": "tsx scripts/seo/notify.ts"
   },
   "dependencies": {

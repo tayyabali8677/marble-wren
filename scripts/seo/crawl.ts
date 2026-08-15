@@ -16,7 +16,7 @@ const CONCURRENCY = 6;
 const TIMEOUT_MS = 20000;
 // Bump when CrawledPage gains a field, so a cache written by the old shape is
 // not read back with the new fields silently undefined.
-const SCHEMA = "v2";
+const SCHEMA = "v3";
 
 export type CrawledPage = {
   url: string;
@@ -44,6 +44,9 @@ export type CrawledPage = {
   h1: string[];
   /** Text of every h2 and h3, in document order. */
   headings: string[];
+  /** Every <img> on the page. src is absolute; dims is true when both width
+   *  and height attributes are present, which is what prevents layout shift. */
+  images: Array<{ src: string; alt: string | null; dims: boolean }>;
   error?: string;
 };
 
@@ -91,6 +94,45 @@ function headingsOf(html: string, tags: string): string[] {
   return [...html.matchAll(re)].map((m) => textOf(m[2])).filter(Boolean);
 }
 
+function attr(tag: string, name: string): string | null {
+  const m = tag.match(new RegExp(`\\b${name}=["']([^"']*)["']`, "i"));
+  return m ? m[1] : null;
+}
+
+/**
+ * Every img on the page. A missing alt attribute and a present-but-empty one are
+ * different things: empty alt is a deliberate "this is decorative" and is
+ * correct, a missing attribute is an oversight, so null is kept distinct from "".
+ * Next.js renders responsive images through srcset, so the largest candidate in
+ * srcset is preferred over src when present, since that is what actually ships.
+ */
+function imagesOf(html: string, url: string): CrawledPage["images"] {
+  const out: CrawledPage["images"] = [];
+  for (const m of html.matchAll(/<img\b[^>]*>/gi)) {
+    const tag = m[0];
+    const rawAlt = attr(tag, "alt");
+    const srcset = attr(tag, "srcset");
+    let src = attr(tag, "src");
+    if (srcset) {
+      const last = srcset.split(",").pop()?.trim().split(/\s+/)[0];
+      if (last) src = last;
+    }
+    if (!src || src.startsWith("data:")) continue;
+    let abs = src;
+    try {
+      abs = new URL(decodeEntities(src), url).toString();
+    } catch {
+      // Keep the raw value if it will not resolve; the agent can still flag it.
+    }
+    out.push({
+      src: abs,
+      alt: rawAlt === null ? null : decodeEntities(rawAlt).trim(),
+      dims: attr(tag, "width") !== null && attr(tag, "height") !== null,
+    });
+  }
+  return out;
+}
+
 async function fetchPage(url: string, lastmod?: string): Promise<CrawledPage> {
   const base: CrawledPage = {
     url,
@@ -108,6 +150,7 @@ async function fetchPage(url: string, lastmod?: string): Promise<CrawledPage> {
     robots: "",
     h1: [],
     headings: [],
+    images: [],
   };
 
   try {
@@ -143,6 +186,7 @@ async function fetchPage(url: string, lastmod?: string): Promise<CrawledPage> {
     base.externalLinks = [...new Set(hrefs.filter((h) => /^https?:/.test(h) && !h.startsWith(origin)))];
     base.h1 = headingsOf(html, "h1");
     base.headings = headingsOf(html, "h2|h3");
+    base.images = imagesOf(html, url);
     base.jsonLd = [...html.matchAll(/<script[^>]*application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)].map(
       (m) => m[1].trim()
     );

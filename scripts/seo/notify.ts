@@ -112,9 +112,12 @@ async function main() {
   const mismatch = readReport(`query-page-mismatch-${date}.md`);
   const eeat = readReport(`eeat-audit-${date}.md`);
   const canonical = readReport(`canonical-audit-${date}.md`);
+  const imageSeo = readReport(`image-seo-${date}.md`);
+  const serp = readReport(`serp-tracker-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
-    internalLinks, striking, duplicates, factDrift, decay, titleMeta, mismatch, eeat, canonical];
+    internalLinks, striking, duplicates, factDrift, decay, titleMeta, mismatch, eeat, canonical,
+    imageSeo, serp];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -289,6 +292,35 @@ async function main() {
     sections.push({
       title: "Trust signals",
       body: `## Trust signals\n\nThis is YMYL content, where Google weighs who wrote a page and when it was checked. ${noAuthor} substantial pages carry no named author and ${noDate} show no visible update date. Adding a reviewer byline and a "last updated" stamp to the article template closes most of this at once.`,
+      needsDecision: false,
+    });
+  }
+
+  // A multi-megabyte image, especially one hotlinked live from another server,
+  // is felt directly on a phone connection and is worth a decision. Coverage
+  // gaps (alt, dimensions, dated formats) are a standing state that informs.
+  const heavyImages = section(imageSeo, "Heavy Images");
+  if (heavyImages) sections.push({ title: "Heavy images", body: heavyImages, needsDecision: true });
+
+  const missingDims = countAfter(imageSeo, /layout shift risk\):\*\* (\d+)/);
+  const datedFormats = countAfter(imageSeo, /where WebP\/AVIF would be smaller:\*\* (\d+)/);
+  if (missingDims > 0 || datedFormats > 0) {
+    sections.push({
+      title: "Image coverage",
+      body: `## Image coverage\n\n${missingDims} images ship without width and height, which allows layout shift, and ${datedFormats} sizeable images are in a dated format where WebP or AVIF would be smaller. Both are template-level fixes. Per-image detail is in the full report.`,
+      needsDecision: false,
+    });
+  }
+
+  // The SERP tracker is competitive intelligence rather than breakage, so it
+  // informs the content plan without asking for a nightly decision. When the
+  // key is unset the report has no sections and nothing lifts here.
+  const rivals = section(serp, "Rivals Who Keep Beating Us");
+  if (rivals) {
+    const outranked = countAfter(serp, /Outranked or absent:\*\* (\d+)/);
+    sections.push({
+      title: "Competitors",
+      body: `${rivals}\n\nWe are outranked or absent on ${outranked} of the tracked keywords. The per-keyword breakdown is in the full report.`,
       needsDecision: false,
     });
   }
