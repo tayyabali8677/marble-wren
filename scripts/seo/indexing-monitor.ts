@@ -2,6 +2,7 @@ import { google } from "googleapis";
 import { GoogleAuth } from "google-auth-library";
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
+import { parseServiceAccount } from "./service-account";
 
 const SITE_URL = "https://titansabroad.org/";
 const SITEMAP_URL = "https://titansabroad.org/sitemap.xml";
@@ -43,7 +44,7 @@ type UrlStatus = {
 };
 
 async function main() {
-  const serviceAccount = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT!);
+  const serviceAccount = parseServiceAccount(process.env.GOOGLE_SERVICE_ACCOUNT!);
 
   const auth = new GoogleAuth({
     credentials: serviceAccount,
