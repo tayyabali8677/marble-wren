@@ -23,15 +23,15 @@ Fix or unpublish these. A page telling visitors the content is coming is worse t
 | /mbbs-in-china/ai | "Content Coming Soon" | 437 | 0d |
 | /mbbs-in-china/nursing | "Content Coming Soon" | 436 | 0d |
 | /mbbs-in-china/computer-science | "Content Coming Soon" | 435 | 0d |
-| /mbbs-in-russia/kyrgyzstan | "Coming Soon" | 437 | 0d |
 | /mbbs-in-russia/russia | "Coming Soon" | 443 | 0d |
 | /mbbs-in-russia/uzbekistan | "Coming Soon" | 436 | 0d |
+| /mbbs-in-russia/kyrgyzstan | "Coming Soon" | 437 | 0d |
 | /mbbs-in-russia/kazakhstan | "Coming Soon" | 439 | 0d |
 | /mbbs-in-russia/belarus | "Coming Soon" | 439 | 0d |
 | /mbbs-in-russia/universities/russian-national-research-medical-university | "coming soon" | 455 | 0d |
+| /success-stories/sara-russia-mbbs-journey | "content coming soon" | 452 | 0d |
 | /success-stories/ahmed-csc-scholarship-china | "content coming soon" | 458 | 0d |
 | /success-stories/bilal-georgia-mbbs | "content coming soon" | 451 | 0d |
-| /success-stories/sara-russia-mbbs-journey | "content coming soon" | 452 | 0d |
 
 ## Phrase On An Otherwise Full Page (5)
 
