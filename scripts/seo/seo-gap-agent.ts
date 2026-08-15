@@ -3,6 +3,7 @@ import { GoogleAuth } from "google-auth-library";
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import { parseServiceAccount } from "./service-account";
+import { findConflicts, renderConflicts } from "./cannibalization";
 
 const SITE_URL = "https://titansabroad.org/";
 const DAYS = 28;
@@ -108,12 +109,20 @@ async function main() {
 
   console.log(`Found ${opportunities.length} opportunities across ${Object.keys(byPage).length} pages. Generating content suggestions...`);
 
+  const conflicts = findConflicts(rows);
+  console.log(`Cannibalization conflicts: ${conflicts.length}`);
+
   const date = fmt(new Date());
-  let report = `# SEO Gap Report — ${date}\n\n`;
+  let report = `# SEO Gap Report: ${date}\n\n`;
   report += `**Property:** ${SITE_URL}\n`;
   report += `**Period:** Last ${DAYS} days\n`;
   report += `**Total opportunities:** ${opportunities.length} keywords across ${Object.keys(byPage).length} pages\n`;
+  report += `**Cannibalization conflicts:** ${conflicts.length}\n`;
   report += `**Showing top:** ${topPages.length} pages by total impressions\n\n---\n\n`;
+
+  report += renderConflicts(conflicts);
+
+  report += `## Near-Miss Keywords (position ${MIN_POSITION} to ${MAX_POSITION})\n\n`;
 
   for (const [page, keywords] of topPages) {
     const top5 = keywords.slice(0, 5);

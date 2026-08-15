@@ -3,6 +3,7 @@ import { GoogleAuth } from "google-auth-library";
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import { parseServiceAccount } from "./service-account";
+import { fetchSitemapEntries } from "./sitemap";
 
 const SITE_URL = "https://titansabroad.org/";
 const SITEMAP_URL = "https://titansabroad.org/sitemap.xml";
@@ -10,27 +11,7 @@ const MAX_URLS_TO_CHECK = 300;
 const DELAY_MS = 300;
 
 async function fetchSitemapUrls(): Promise<string[]> {
-  const res = await fetch(SITEMAP_URL);
-  if (!res.ok) throw new Error(`Failed to fetch sitemap: ${res.status}`);
-  const xml = await res.text();
-
-  const urls: string[] = [];
-
-  // Handle sitemap index (multiple sitemaps)
-  const sitemapMatches = [...xml.matchAll(/<sitemap>[\s\S]*?<loc>(.*?)<\/loc>/g)];
-  if (sitemapMatches.length > 0) {
-    for (const match of sitemapMatches) {
-      const subRes = await fetch(match[1].trim());
-      const subXml = await subRes.text();
-      const subMatches = [...subXml.matchAll(/<url>[\s\S]*?<loc>(.*?)<\/loc>/g)];
-      urls.push(...subMatches.map((m) => m[1].trim()));
-    }
-  } else {
-    const urlMatches = [...xml.matchAll(/<url>[\s\S]*?<loc>(.*?)<\/loc>/g)];
-    urls.push(...urlMatches.map((m) => m[1].trim()));
-  }
-
-  return [...new Set(urls)];
+  return (await fetchSitemapEntries(SITEMAP_URL)).map((e) => e.url);
 }
 
 type UrlStatus = {

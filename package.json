@@ -7,7 +7,8 @@
     "generate": "tsx scripts/generate-batch.ts",
     "publish": "tsx scripts/publish.ts",
     "seo-gap": "tsx scripts/seo/seo-gap-agent.ts",
-    "indexing": "tsx scripts/seo/indexing-monitor.ts"
+    "indexing": "tsx scripts/seo/indexing-monitor.ts",
+    "zero-click": "tsx scripts/seo/zero-click.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
@@ -17,6 +18,7 @@
     "undici": "^6.19.2"
   },
   "devDependencies": {
+    "@types/node": "^26.2.0",
     "tsx": "^4.16.2",
     "typescript": "^5.5.3"
   }
