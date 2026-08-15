@@ -4,6 +4,7 @@ import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import { parseServiceAccount } from "./service-account";
 import { scanConflicts, renderConflicts } from "./cannibalization";
+import { publishFaqs, toPathname, type FaqEntry } from "./publish-faqs";
 
 const SITE_URL = "https://titansabroad.org/";
 const DAYS = 28;
@@ -14,7 +15,7 @@ const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-flash-lite-latest";
 
 // Same key rotation the scholarship generator uses: on a quota 429, fall through
 // to the next key instead of losing the suggestion.
-async function callGemini(prompt: string): Promise<string> {
+async function callGemini(prompt: string, jsonMode = false): Promise<string> {
   const keys = (process.env.GEMINI_API_KEYS || "").split(",").map((k) => k.trim()).filter(Boolean);
   if (keys.length === 0) return "";
 
@@ -26,7 +27,10 @@ async function callGemini(prompt: string): Promise<string> {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.4 },
+          generationConfig: {
+            temperature: 0.4,
+            ...(jsonMode ? { responseMimeType: "application/json" } : {}),
+          },
         }),
       }
     );
@@ -52,6 +56,34 @@ async function callGemini(prompt: string): Promise<string> {
 
   console.error("  All Gemini keys hit quota.");
   return "";
+}
+
+type GeneratedFaq = { keyword: string; question: string; answer: string };
+
+// The model is asked for JSON, but a stray code fence or a bad entry should
+// cost one page's suggestion, not the whole run.
+function parseFaqJson(raw: string): GeneratedFaq[] {
+  const cleaned = raw.trim().replace(/^```(?:json)?/i, "").replace(/```$/, "").trim();
+  if (!cleaned) return [];
+
+  let parsed: unknown;
+  try {
+    parsed = JSON.parse(cleaned);
+  } catch {
+    console.error("  Could not parse FAQ JSON from model output.");
+    return [];
+  }
+
+  if (!Array.isArray(parsed)) return [];
+
+  return parsed
+    .filter((f: any) => f && typeof f.question === "string" && typeof f.answer === "string")
+    .map((f: any) => ({
+      keyword: typeof f.keyword === "string" ? f.keyword.trim() : "",
+      question: f.question.trim(),
+      answer: f.answer.trim(),
+    }))
+    .filter((f) => f.keyword && f.question.length > 10 && f.answer.length > 40);
 }
 
 async function main() {
@@ -124,6 +156,9 @@ async function main() {
 
   report += `## Near-Miss Keywords (position ${MIN_POSITION} to ${MAX_POSITION})\n\n`;
 
+  // Path to FAQ entries the agent wants to push live this run.
+  const candidates: Record<string, FaqEntry[]> = {};
+
   for (const [page, keywords] of topPages) {
     const top5 = keywords.slice(0, 5);
     const totalImpressions = keywords.reduce((s, r) => s + (r.impressions ?? 0), 0);
@@ -140,28 +175,73 @@ async function main() {
 
     if (process.env.GEMINI_API_KEYS) {
       const kwList = top5.map((k) => k.keys![0]).join(", ");
-      const prompt = `You are an SEO content writer for TitansAbroad.org, a Pakistani MBBS abroad consultancy helping students study medicine in China, Russia, and other countries.
+      const prompt = `You are an SEO content writer for TitansAbroad.org, a Pakistani MBBS abroad consultancy helping students study medicine in China, Russia, Georgia, and other countries.
 
 Page URL: ${page}
 Keywords this page is almost ranking for (position 8-20): ${kwList}
 
-Write a short, helpful FAQ-style content section (2-3 questions and answers, 150-200 words total) that naturally covers these keywords. Write in simple English that Pakistani students would search for. Do not add headings like "FAQ Section" — just the Q&A pairs using "**Q: ...**" and "**A: ...**" format.`;
+Write 2 or 3 FAQ entries that directly answer what someone searching those keywords wants to know. Rules:
+- Write in the simple English Pakistani students actually use when searching.
+- Each answer is 40 to 70 words, factual and specific. No marketing filler.
+- Do not invent fees, dates, deadlines, or rankings. If a specific number is not something you can state confidently, describe the process instead.
+- The question should read like a real search, not a headline.
+
+Return ONLY a JSON array in this exact shape:
+[{"keyword": "<which of the listed keywords this answers>", "question": "...", "answer": "..."}]`;
 
       try {
-        const suggestion = await callGemini(prompt);
-        if (suggestion.trim()) {
-          report += `\n### Suggested Content to Add\n\n${suggestion.trim()}\n\n`;
+        const suggestion = await callGemini(prompt, true);
+        const parsed = parseFaqJson(suggestion);
+
+        if (parsed.length > 0) {
+          const path = toPathname(page);
+          const positionByKeyword = new Map(
+            top5.map((k) => [k.keys![0].toLowerCase(), k.position ?? 0])
+          );
+
+          candidates[path] = parsed.map((f) => ({
+            keyword: f.keyword,
+            question: f.question,
+            answer: f.answer,
+            addedAt: date,
+            positionAtGeneration: positionByKeyword.get(f.keyword.toLowerCase()) ?? 0,
+          }));
+
+          report += `\n### Generated FAQ\n\n`;
+          for (const f of parsed) {
+            report += `**Q: ${f.question}**\n\nA: ${f.answer}\n\n`;
+          }
         } else {
           report += `\n*Content suggestion unavailable*\n\n`;
         }
         await new Promise((r) => setTimeout(r, 1000));
-      } catch {
+      } catch (err: any) {
+        console.error(`  FAQ generation failed for ${page}: ${err.message}`);
         report += `\n*Content suggestion unavailable*\n\n`;
       }
     }
 
     report += `---\n\n`;
   }
+
+  const result = await publishFaqs(candidates);
+  console.log(`Publish: ${result.published} published, ${result.skipped} skipped${result.reason ? ` (${result.reason})` : ""}`);
+
+  let publishSection = `## Auto-Published\n\n`;
+  if (result.published > 0) {
+    publishSection += `Pushed **${result.published}** new FAQ ${result.published === 1 ? "answer" : "answers"} to ${result.paths.length} `;
+    publishSection += `${result.paths.length === 1 ? "page" : "pages"}. Vercel redeploys on the push, so these are live.\n\n`;
+    for (const p of result.paths) publishSection += `- ${p}\n`;
+    publishSection += `\n`;
+  } else {
+    publishSection += `Nothing published${result.reason ? `: ${result.reason}` : ""}.\n\n`;
+  }
+  if (result.skipped > 0) {
+    publishSection += `${result.skipped} candidate${result.skipped === 1 ? "" : "s"} skipped (already published, or over the per-run cap).\n\n`;
+  }
+  publishSection += `---\n\n`;
+
+  report = report.replace("## Keyword Cannibalization", publishSection + "## Keyword Cannibalization");
 
   const reportsDir = join(process.cwd(), "reports");
   if (!existsSync(reportsDir)) mkdirSync(reportsDir, { recursive: true });

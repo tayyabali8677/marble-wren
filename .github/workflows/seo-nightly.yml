@@ -1,0 +1,72 @@
+name: SEO Nightly
+
+# One job rather than three, so the digest at the end can read all three
+# reports. Every step after the first is `if: always()` and the slow indexing
+# step has its own timeout, so one agent failing or running long still leaves
+# the rest of the night's work intact.
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - run: npm ci
+
+      - name: Gap analysis and auto-publish
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+        run: npx tsx scripts/seo/seo-gap-agent.ts
+
+      - name: Zero-click analysis
+        if: always()
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/zero-click.ts
+
+      - name: Indexing monitor
+        if: always()
+        timeout-minutes: 60
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: npx tsx scripts/seo/indexing-monitor.ts
+
+      - name: Commit reports
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
+          git add reports/
+          if git diff --staged --quiet; then
+            echo "No new reports."
+          else
+            git commit -m "seo reports $(date +%Y-%m-%d) [skip ci]"
+            git push
+          fi
+
+      - name: Send digest
+        if: always()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npx tsx scripts/seo/notify.ts
