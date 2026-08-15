@@ -34,6 +34,17 @@ function section(report: string | null, heading: string): string | null {
   return (next === -1 ? rest : rest.slice(0, next)).trim();
 }
 
+/**
+ * Keeps a section readable in an email. A 289-row table is a report, not a
+ * digest, so long sections are cut off with a pointer to the full file.
+ */
+function clamp(text: string, maxLines = 18): string {
+  const lines = text.split("\n");
+  if (lines.length <= maxLines) return text;
+  const dropped = lines.length - maxLines;
+  return `${lines.slice(0, maxLines).join("\n")}\n\n*${dropped} more rows in the full report.*`;
+}
+
 function countAfter(text: string | null, pattern: RegExp): number {
   const m = text?.match(pattern);
   return m ? parseInt(m[1], 10) : 0;
@@ -132,7 +143,7 @@ async function main() {
     : `**${decisions} ${decisions === 1 ? "item needs" : "items need"} your decision.**\n\n`;
 
   for (const s of sections) {
-    body += `${s.body}\n\n`;
+    body += `${clamp(s.body)}\n\n`;
   }
 
   body += `---\n\nFull reports: [\`reports/\`](https://github.com/${REPO}/tree/master/reports)\n`;
