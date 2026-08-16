@@ -85,10 +85,9 @@ Centre for Continuing Education
 KVPY
 Social Events
 Arting Science
-Metamorphosis in Church Art
 Campus Life
 Did You know?
-IISc is built on land that was donated by the Maharajah of Mysore.
+The first J N Tata lecture was delivered by J.Bhabha in 29-03-1952 and endowed by the Dorab Tata Trust.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -277,16 +276,16 @@ Other Central Institutions
 121 Ghani Khan Choudhury Institute of Engineering & Technology(GKCIET), Malda, West Bengal
 122 Central Institute of Technology (CIT), Kokrajhar, Assam
 General Information
-Giving to IISc
-Give to IISc
-Major benefactors
-Development & Alumni Affairs
+Research
+Research Highlights
+Accolades
+IISc in the News
+more&#8230;
 Arting Science
-Evolutionary conservation of cyclic nucleotide phosphodiesterases
+Twin Paradox in Phad
 Campus Life
-Blue-throated Blue Flycatcher
 Did You know?
-Prof. Satish Dhawan held the Directorship of IISc and Chairship of ISRO simultaneously
+Quality improvement program initiated in 1971.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -749,14 +748,15 @@ TOTAL (1st year)
 20,800
 * to be paid in the first year only
 General Information
-International Relations
-Collaborative Research
-Exchange Programmes
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
-Mycobacterial enzymes: Mechanisms of cAMP synthesis and degradation
+Twin Paradox in Phad
 Campus Life
 Did You know?
-IISc was established in 1909, but its Foundation Stone was laid only in 1911.
+Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -915,16 +915,17 @@ OCI/PIO (I) candidates are treated as Indian nationals but can only apply under 
 Can an OCI/PIO candidate apply in both categories (OCI/PIO (F) and OCI/PIO (I))?
 No. Candidates must choose only one category while applying. If an OCI/PIO candidate is found to have applied under both OCI/PIO (F) and OCI/PIO (I), their application will be cancelled due to the use of unfair means.
 General Information
-Research
-Research Highlights
+IISc in Numbers
+Faculty Members: 433
+Students: 3754
+Courses: 1068
 Accolades
-IISc in the News
 more&#8230;
 Arting Science
-Animal Evolution in Gond art
+Guanylyl Cyclase C in the Gut
 Campus Life
 Did You know?
-Morse code signalling was first introduced in Electrical laboratory course  in 1926 and  taught by Mr.Locke.
+IISc is built on land that was donated by the Maharajah of Mysore.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1059,15 +1060,15 @@ Updating National Entrance Test Results after Application Submission
 The results of certain National Entrance Tests (e.g., GATE, JAM, etc.) may not be available at the time of application submission. Applicants are required to provide the available details, such as roll number/ paper, while the score/rank/result fields may be left blank.
 After submitting the application, applicants will be permitted to update only their National Entrance Test results through the Applicant Dashboard. The update must be completed within three days of the declaration of results for consideration during evaluation. Failure to update the details within the stipulated time will render the application ineligible under the respective mode of entry. No requests or representations for updates will be entertained after the deadline.
 General Information
-Admissions
-Course Programmes
-Research Programmes
-more&#8230;
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
 Mycobacterial enzymes: Mechanisms of cAMP synthesis and degradation
 Campus Life
 Did You know?
-Establishment of placement Bureau &#8211; 1971
+Prof. G. N. Ramachanrdan, who discovered triple helix structure of collagen and developed the eponymous Map for proteins, worked at IISc and helped establish Molecular Biophysics Unit
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1310,14 +1311,16 @@ The Authorities of Colleges/Universities may please write to the Public Relation
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 Navigate in IISc
 General Information
-Alumni
-Development & Alumni Affairs
-IISc&#8217;s Alumni Portal
+Outreach
+IIScPress
+Centre for Continuing Education
+KVPY
+Social Events
 Arting Science
 Actor Critic
 Campus Life
 Did You know?
-The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
+The first computer the IBM 360-44 was acquired and installed by the Institute and became operational in May 1971.
 Artsy Research
 Navigate in IISc
 Resources
