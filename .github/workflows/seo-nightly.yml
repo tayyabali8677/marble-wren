@@ -11,13 +11,14 @@ on:
     - cron: "0 2 * * *"
   workflow_dispatch:
 
-# One SEO Nightly at a time. A manual dispatch and the cron firing close
-# together would otherwise both push reports and race each other. A second run
-# waits for the first rather than cancelling it, so an in-flight night's work is
-# never thrown away. This does not cover the separate "Run" workflow, which is
-# why the commit step also retries its push.
+# One master-writing workflow at a time. Both this and the "Run" content
+# pipeline commit and push to master, so they share one concurrency group:
+# whichever starts second queues until the first finishes instead of racing its
+# push. cancel-in-progress is false so an in-flight run is never thrown away
+# (this also covers a manual dispatch firing alongside the cron). The commit
+# steps keep their push retry loops as a backstop for anything outside Actions.
 concurrency:
-  group: seo-nightly
+  group: marble-wren-master-writes
   cancel-in-progress: false
 
 jobs:

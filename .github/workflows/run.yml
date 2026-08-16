@@ -14,6 +14,14 @@ on:
         required: false
         default: "no"
 
+# Shared with SEO Nightly. Both workflows commit and push to master, so they
+# take turns on one concurrency group rather than racing each other's push. A
+# run that starts while the other is going waits for it to finish; nothing is
+# cancelled, so no scrape or report cycle is thrown away.
+concurrency:
+  group: marble-wren-master-writes
+  cancel-in-progress: false
+
 jobs:
   pipeline:
     runs-on: ubuntu-latest
