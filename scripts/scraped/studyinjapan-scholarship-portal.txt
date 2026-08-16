@@ -495,207 +495,197 @@ Download
 Sorted by
 name ascending order
 name descending order
-Last update :2025/09/18
-Scholarship
-LSH Asia Scholarship
-（NPO）LSH Asia Scholarship Foundation ／（NPO）LSH Asia Scholarship Foundation
-Academic level:
-Japanese language institutions
-Last update :2025/09/18
-Scholarship
-Other
-YKK Leaders 21
-Yoshida Scholarship Foundation ／Yoshida Scholarship Foundation
-Academic level:
-Master's degree program
-Last update :2025/09/18
-Scholarship
-YONEX Sports Foundation Scholarship
-YONEX Sports Foundation ／YONEX Sports Foundation
-Academic level:
-High school students
-Last update :2025/09/18
-Scholarship
-YONEX Sports Foundation Scholarship
-YONEX Sports Foundation ／YONEX Sports Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Junior Colleges
-Last update :2021/09/08
+Last update :2026/06/16
 Scholarship
 Reduction of enrollment fee
-Reduction and exception of tuition
-The Yokkaichi University Scholarships by Special Attributes for Privately-Financed International Students
-Yokkaichi University ／Yokkaichi University
-Academic level:
-Bachelor's degree program
-Last update :2021/09/08
-Scholarship
-Reduction of enrollment fee
+Reduction of examination fee
 Reduction and exception of tuition
 Other
-The Yokkaichi University Special Scholarships for Privately-Financed International Students
-Yokkaichi University ／Yokkaichi University
+International Student Scholarship Graduate School of Health Innovation <Master&#039;s Course>
+Kanagawa University of Human Services ／Kanagawa University of Human Services
 Academic level:
+Master's degree program
+Last update :2026/06/06
+Reduction and exception of tuition
+Meiji University Grant for Academic Excellence for Privately Financed International Students
+Meiji University ／Meiji University
+Academic level:
+Doctoral degree program
+Master's degree program
+Professional degree program
 Bachelor's degree program
-Last update :2021/09/08
-Scholarship
+Last update :2026/04/24
 Reduction of enrollment fee
 Reduction and exception of tuition
-The Yokkaichi University Honors Scholarships for Privately-Financed International Students
-Yokkaichi University ／Yokkaichi University
+Special Scholarships for Privately Financed International Students
+Aichi Toho University ／Aichi Toho University
 Academic level:
 Bachelor's degree program
-Last update :2025/09/18
-Scholarship
-Yamaoka Scholarship Foundation Scholarship
-Yamaoka Scholarship Foundation ／Yamaoka Scholarship Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Last update :2021/08/04
+Last update :2025/11/11
 Reduction and exception of tuition
-Tuition Fee Exemption System
-Yamagata Prefectural Yonezawa University of Nutrition Sciences ／Yamagata Prefectural Yonezawa University of Nutrition Sciences
+Tuition reduction system
+Chiba University of Commerce ／Chiba University of Commerce
 Academic level:
+Master's degree program
+Professional degree program
 Bachelor's degree program
-Last update :2025/09/18
+Last update :2025/11/10
 Scholarship
-Yamagata Prefectural Scholarship for Privately Financed Foreign Students
-Yamagata Pref. ／Yamagata Pref.
+KGU International Student Scholarship （Tentative Selection Prior to Enrollment）
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
 Doctoral degree program
 Master's degree program
 Professional degree program
-Bachelor's degree program
-University Japanese programs
-Junior Colleges
-Specialized Training Colleges
-College of technology
-Japanese language institutions
-Last update :2025/09/18
+Last update :2025/11/10
 Scholarship
-Watanuki International Scholarship Foundation Scholarship
-Watanuki International Scholarship Foundation ／Watanuki International Scholarship Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Last update :2021/07/06
-Scholarship
-Reserved Scholarship for Successful International Examinees
-WASEDA University ／WASEDA University
+KGU International Student Scholarship （Selection after University Entrance）
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
 Doctoral degree program
 Master's degree program
 Professional degree program
-Last update :2021/07/14
-Scholarship
-Azusa Ono Memorial Scholarship
-WASEDA University ／WASEDA University
+Last update :2025/11/10
+Reduction and exception of tuition
+Tuition Reduction for Privately Funded International Students
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
 Doctoral degree program
 Master's degree program
 Professional degree program
-Bachelor's degree program
-Last update :2023/05/30
+Last update :2025/11/10
 Scholarship
-Matsumoto Kaoru International Scholarship
-WASEDA University ／WASEDA University
+School of Policy Studies Scholarship for International Students
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
 Bachelor's degree program
-Last update :2021/07/14
+Last update :2025/11/10
 Scholarship
-Mori Masakatsu Memorial Foundation for Foreign Students
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Bachelor's degree program
-Last update :2023/05/30
-Scholarship
-Yasui Magotsuke･Tani memorial Foundation for Foreign Students
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Bachelor's degree program
-Last update :2021/07/14
-Scholarship
-Waseda University's 125th anniversary, Tahara Soichiro International Student Scholarship
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Bachelor's degree program
-Last update :2021/07/14
-Scholarship
-Okuma Memorial Scholarship
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Bachelor's degree program
-Last update :2023/05/30
-Scholarship
-CPA Tomonkai (Waseda Alumni) Scholarship
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Master's degree program
-Professional degree program
-Bachelor's degree program
-Last update :2021/07/14
-Scholarship
-Chen Wei Qian Scholarship
-WASEDA University ／WASEDA University
+KGU Academic Scholarship for International Students (for second-year students and above)
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
 Academic level:
 Bachelor's degree program
-Last update :2021/07/14
+Last update :2025/11/10
+Scholarship
+KGU Pre-enrollment Reserved Scholarship for International Students (for first-year students)
+Kwansei Gakuin University (KGU) ／Kwansei Gakuin University (KGU)
+Academic level:
+Bachelor's degree program
+Last update :2025/11/09
 Reduction of enrollment fee
-Waseda University Partial Tuition-Waiver Scholarship for Privately Financed International Students
-WASEDA University ／WASEDA University
+Reduction of examination fee
+Reduction and exception of tuition
+Scholarship for International Students
+Miyazaki International University ／Miyazaki International University
 Academic level:
-Master's degree program
-Professional degree program
 Bachelor's degree program
-Last update :2023/05/30
-Scholarship
-Scholarship for Fostering Researchers in Doctoral Programs
-WASEDA University ／WASEDA University
-Academic level:
-Doctoral degree program
-Doctoral program with five-year system
-Last update :2023/05/30
-Scholarship
-Waseda Korean Alumni Scholarship
-WASEDA University ／WASEDA University
+Last update :2025/11/08
+Reduction and exception of tuition
+Tuition Fees Waiver
+Hokkaido University ／Hokkaido University
 Academic level:
 Doctoral degree program
 Doctoral program with five-year system
 Master's degree program
 Professional degree program
 Bachelor's degree program
-Last update :2021/07/14
+Last update :2025/11/08
+Reduction of enrollment fee
+Entrance Fee Waiver
+Hokkaido University ／Hokkaido University
+Academic level:
+Doctoral degree program
+Doctoral program with five-year system
+Master's degree program
+Professional degree program
+Bachelor's degree program
+Last update :2025/11/08
 Scholarship
-Yamada Taikichi and Asa Scholarship
-WASEDA University ／WASEDA University
+Reduction of enrollment fee
+Reduction of examination fee
+Reduction and exception of tuition
+Hokkaido University Special Grant Program for Self-Supported International Students
+Hokkaido University ／Hokkaido University
+Academic level:
+Doctoral degree program
+Master's degree program
+Last update :2025/11/08
+Reduction of enrollment fee
+Reduction of examination fee
+Reduction and exception of tuition
+Other
+Hokkaido University Special Grant Program for Self-supported International Students (Graduate School of Chemical Sciences and Engineering)
+Hokkaido University ／Hokkaido University
+Academic level:
+Doctoral degree program
+Last update :2025/11/08
+Reduction of enrollment fee
+MJSP Scholarship Program
+Hokkaido University ／Hokkaido University
 Academic level:
 Bachelor's degree program
-Last update :2023/05/30
+Last update :2025/11/07
 Scholarship
-School of Political Science and Economics Global Leader International Student Scholarship (for incoming students)
-WASEDA University ／WASEDA University
+Reduction of enrollment fee
+Reduction of examination fee
+Reduction and exception of tuition
+Other
+Special Scholarship Program (SSP)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Scholarship
+Scholarship A (Doctoral Program)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Scholarship
+Scholarship B (Doctoral Program)
+Kochi University of Technology ／Kochi University of Technology
+Academic level:
+Doctoral degree program
+Last update :2025/11/07
+Reduction and exception of tuition
+Partial Tuition-Waiver Scholarships for International Students
+Josai International University ／Josai International University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+College of Science and Technology Scholarship
+Nihon University ／Nihon University
+Academic level:
+Doctoral degree program
+Master's degree program
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+College of Humanities and Sciences Scholarship
+Nihon University ／Nihon University
+Academic level:
+Doctoral degree program
+Master's degree program
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+College of Industrial Technology Scholarship
+Nihon University ／Nihon University
+Academic level:
+Doctoral degree program
+Master's degree program
+Bachelor's degree program
+Last update :2025/11/06
+Reduction and exception of tuition
+University fee reduction and exemption systems for new international students（utsunomiya)
+Teikyo University ／Teikyo University
+Academic level:
+Bachelor's degree program
+Last update :2025/11/06
+Scholarship
+Sendai Shirayuri Women&#039;s College Scholarship
+Sendai Shirayuri Women&#039;s College ／Sendai Shirayuri Women&#039;s College
 Academic level:
 Bachelor's degree program
 1
