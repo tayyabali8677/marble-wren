@@ -1,0 +1,11 @@
+# Content Decay: 2026-08-17
+
+**Recent window:** 2026-07-17 to 2026-08-14
+**Compared against:** 2026-06-18 to 2026-07-16
+**Pages in sustained decline:** 0
+**Pages that stopped appearing entirely:** 0
+
+No page with a real audience lost meaningful ground between the two windows. Nothing is decaying fast enough to act on yet.
+
+---
+
