@@ -3435,5 +3435,12 @@
     "country": "Europe",
     "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
     "note": "Extracted from Bright Scholarship aggregator page; official EC MSCA portal applies."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters-scholarship-europe",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "Europe",
+    "url": "https://www.erasmus-mundus.eu",
+    "note": "Specific program consortia handle applications."
   }
 ]
