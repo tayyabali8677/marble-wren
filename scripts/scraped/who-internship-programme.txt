@@ -289,11 +289,15 @@ WHO
 ===== SOURCE PAGE: https://www.who.int/mega-menu/emergencies/who-in-emergencies/funding =====
 Funding
 Skip to main content
-World Health Organization
 Global
 Regions
-World Health Organization
 WHO Regional websites
+Africa
+Americas
+South-East Asia
+Europe
+Eastern Mediterranean
+Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
@@ -807,8 +811,10 @@ WHO
 ===== SOURCE PAGE: https://www.who.int/mega-menu/about-us/who-funding/investment-case =====
 Invest in WHO
 Skip to main content
+World Health Organization
 Global
 Regions
+World Health Organization
 WHO Regional websites
 Africa
 Americas
