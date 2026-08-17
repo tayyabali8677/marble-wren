@@ -302,7 +302,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres
@@ -816,7 +816,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres
@@ -1326,7 +1326,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres
@@ -1839,7 +1839,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres
@@ -2341,7 +2341,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres
@@ -2837,7 +2837,7 @@ Research security and compliance
 Research resources
 Research ethics
 Publishing, communication and profiles
-Research project support
+Research contacts
 Research impact and engagement
 He Korowai Mātauranga
 Transdisciplinary research, collaboration, and research centres

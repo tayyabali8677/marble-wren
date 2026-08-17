@@ -113,7 +113,6 @@ Conferences & events
 Careers
 Blog
 About
-Search
 Google PhD fellowship program
 Google PhD Fellowships directly support graduate students as they pursue their PhD.
 play silent looping video
@@ -497,7 +496,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-399
+398
 Audio Processing
 17
 Climate and Sustainability
@@ -527,17 +526,17 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 183
 Machine Intelligence
-1004
+1003
 Machine Learning
 192
 Machine Perception
-425
+424
 Machine Translation
 67
 Mobile Systems
 86
 Natural Language Processing
-483
+482
 Networking
 135
 Operating Systems
@@ -556,7 +555,7 @@ Software Systems
 216
 Speech Processing
 156
-1 - 30 of 2200 researchers
+1 - 30 of 2198 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,6 +586,17 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Anmol Agarwal
 Natural Language Processing
 Shashank Agarwal
@@ -594,17 +604,6 @@ Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -613,19 +612,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
-Shreya Agrawal
-General Science
-Machine Intelligence
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
+Shreya Agrawal
+General Science
+Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,6 +650,8 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
@@ -664,8 +665,6 @@ Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
-Zafarali Ahmed
-Machine Intelligence
 1
 2
 3
