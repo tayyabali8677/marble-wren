@@ -276,7 +276,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -577,7 +577,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -950,7 +950,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -1251,7 +1251,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -1608,7 +1608,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -1909,7 +1909,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -2287,7 +2287,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -2588,7 +2588,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -2940,7 +2940,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -3241,7 +3241,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -3620,7 +3620,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
@@ -3921,7 +3921,7 @@ VUB merchandise
 Digital alumni card
 Event support
 Career inspiration
-Do you need a copy of your diploma?
+Administrative support for former students
 Strong alumni network
 VUB alumni network
 VUB alumni associations
