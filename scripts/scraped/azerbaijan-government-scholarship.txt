@@ -323,14 +323,14 @@ Hesabat formaları
 SABAH qrupları layihəsi
 “STUDY IN AZERBAIJAN” layihəsi
 Qısa xülasə
-Hesabat jurnalı
+Hesabat
 SUALIM VAR Elektron sənəd yoxlanışı
 Əlaqə
 az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 5
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı

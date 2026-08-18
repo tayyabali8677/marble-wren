@@ -922,12 +922,13 @@ Science policy
 Science Diplomacy
 TWAS Advisory Committee on COVID-19
 Past Projects
-UN Scientific Advisory Board
-S4D4C
-Solar Radiation Management Governance Initiative
-CATALYST Project
 Big Data
+CATALYST Project
 Global Research Council
+S4D4C
+Science in Exile Initiative
+Solar Radiation Management Governance Initiative
+UN Scientific Advisory Board
 Publications
 Annual Reports
 Newsletters
@@ -977,12 +978,13 @@ Science policy
 Science Diplomacy
 TWAS Advisory Committee on COVID-19
 Past Projects
-UN Scientific Advisory Board
-S4D4C
-Solar Radiation Management Governance Initiative
-CATALYST Project
 Big Data
+CATALYST Project
 Global Research Council
+S4D4C
+Science in Exile Initiative
+Solar Radiation Management Governance Initiative
+UN Scientific Advisory Board
 Publications
 Annual Reports
 Newsletters
@@ -1030,12 +1032,13 @@ Science policy
 Science Diplomacy
 TWAS Advisory Committee on COVID-19
 Past Projects
-UN Scientific Advisory Board
-S4D4C
-Solar Radiation Management Governance Initiative
-CATALYST Project
 Big Data
+CATALYST Project
 Global Research Council
+S4D4C
+Science in Exile Initiative
+Solar Radiation Management Governance Initiative
+UN Scientific Advisory Board
 Publications
 Annual Reports
 Newsletters
@@ -1133,12 +1136,13 @@ Science policy
 Science Diplomacy
 TWAS Advisory Committee on COVID-19
 Past Projects
-UN Scientific Advisory Board
-S4D4C
-Solar Radiation Management Governance Initiative
-CATALYST Project
 Big Data
+CATALYST Project
 Global Research Council
+S4D4C
+Science in Exile Initiative
+Solar Radiation Management Governance Initiative
+UN Scientific Advisory Board
 Publications
 Annual Reports
 Newsletters

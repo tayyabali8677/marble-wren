@@ -92,7 +92,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Email
+URL
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -294,7 +294,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Instagram
+Company
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -385,7 +385,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Name
+Comments
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -559,7 +559,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Facebook
+Email
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *

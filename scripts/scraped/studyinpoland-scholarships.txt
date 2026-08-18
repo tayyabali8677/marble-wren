@@ -82,21 +82,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-scholarship
-USA
-EHEF
-RSG!P
 research
-internationalisation
+coronavirus
+RSG!P
 engineering
-Science without Borders
-Erasmus
 Ukraine
-Brazil
-university
 grant
 China
-coronavirus
+internationalisation
+scholarship
+Erasmus
+USA
+university
+EHEF
+Science without Borders
+Brazil
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/how-to-apply =====
@@ -217,20 +217,20 @@ Poland
 Tel. +48 22 390 35 00
 News tag cloud
 coronavirus
-Brazil
-internationalisation
-RSG!P
-USA
-engineering
-Erasmus
-research
-China
-EHEF
-scholarship
-Science without Borders
-grant
 university
+Science without Borders
+research
+RSG!P
 Ukraine
+Brazil
+engineering
+scholarship
+internationalisation
+Erasmus
+China
+grant
+USA
+EHEF
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/scholarships =====
@@ -317,21 +317,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-China
-research
-RSG!P
 coronavirus
-internationalisation
-Erasmus
+grant
 Science without Borders
 engineering
-EHEF
-USA
-scholarship
-Ukraine
-grant
-Brazil
 university
+research
+China
+scholarship
+internationalisation
+USA
+Erasmus
+EHEF
+RSG!P
+Ukraine
+Brazil
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/lane-kirkland-scholarship-program =====
@@ -494,21 +494,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
+USA
+scholarship
 RSG!P
-coronavirus
-Ukraine
+Brazil
 EHEF
-internationalisation
-Science without Borders
-engineering
-grant
 China
 research
-Erasmus
-Brazil
+internationalisation
+Science without Borders
 university
-scholarship
-USA
+coronavirus
+grant
+Erasmus
+Ukraine
+engineering
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/visegrad-scholarship-programme =====
@@ -583,21 +583,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-Science without Borders
 Erasmus
-coronavirus
-RSG!P
-Ukraine
-Brazil
-USA
-China
-university
-internationalisation
-scholarship
-research
-EHEF
 grant
 engineering
+RSG!P
+Brazil
+China
+scholarship
+Science without Borders
+university
+research
+internationalisation
+USA
+EHEF
+coronavirus
+Ukraine
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/stefan-banach-nawa-programme =====
@@ -684,19 +684,19 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
+Brazil
+internationalisation
+university
+Erasmus
+coronavirus
 USA
+engineering
 scholarship
+Science without Borders
+China
+Ukraine
+RSG!P
+EHEF
 research
 grant
-Science without Borders
-Brazil
-EHEF
-China
-Erasmus
-university
-internationalisation
-coronavirus
-engineering
-RSG!P
-Ukraine
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
