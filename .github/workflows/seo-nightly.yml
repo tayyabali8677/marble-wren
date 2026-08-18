@@ -92,6 +92,10 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/title-meta-audit.ts
 
+      - name: Accessibility audit
+        if: always()
+        run: npx tsx scripts/seo/accessibility-audit.ts
+
       - name: E-E-A-T signals
         if: always()
         run: npx tsx scripts/seo/eeat-audit.ts

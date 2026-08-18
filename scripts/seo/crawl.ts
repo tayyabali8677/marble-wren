@@ -16,7 +16,7 @@ const CONCURRENCY = 6;
 const TIMEOUT_MS = 20000;
 // Bump when CrawledPage gains a field, so a cache written by the old shape is
 // not read back with the new fields silently undefined.
-const SCHEMA = "v3";
+const SCHEMA = "v4";
 
 export type CrawledPage = {
   url: string;
@@ -32,6 +32,12 @@ export type CrawledPage = {
   links: string[];
   /** Hrefs pointing off-site, as absolute URLs. Kept for citation checks. */
   externalLinks: string[];
+  /** Every <a href> on the page paired with its visible text, in document
+   *  order. Separate from links/externalLinks (which dedupe and drop text)
+   *  because link-text quality checks need the text kept with its href. */
+  anchors: Array<{ href: string; text: string }>;
+  /** The lang attribute on <html>, lowercased. Empty when absent. */
+  lang: string;
   /** Raw contents of every ld+json block. */
   jsonLd: string[];
   title: string;
@@ -143,6 +149,8 @@ async function fetchPage(url: string, lastmod?: string): Promise<CrawledPage> {
     words: 0,
     links: [],
     externalLinks: [],
+    anchors: [],
+    lang: "",
     jsonLd: [],
     title: "",
     metaDescription: "",
@@ -184,6 +192,21 @@ async function fetchPage(url: string, lastmod?: string): Promise<CrawledPage> {
     base.words = base.text ? base.text.split(/\s+/).length : 0;
     base.links = [...new Set(hrefs.filter((h) => h.startsWith(origin)))];
     base.externalLinks = [...new Set(hrefs.filter((h) => /^https?:/.test(h) && !h.startsWith(origin)))];
+    base.anchors = [...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/gi)]
+      .map((m) => {
+        const tag = m[0];
+        const href = attr(tag, "href");
+        if (!href || href.startsWith("#") || href.startsWith("mailto:") || href.startsWith("tel:")) return null;
+        let abs = href;
+        try {
+          abs = new URL(decodeEntities(href), url).toString();
+        } catch {
+          // Keep the raw value; the agent can still flag it.
+        }
+        return { href: abs, text: textOf(tag) };
+      })
+      .filter((a): a is { href: string; text: string } => a !== null);
+    base.lang = (extract(html, /<html\b[^>]*\blang=["']([^"']*)["']/i) || "").toLowerCase().trim();
     base.h1 = headingsOf(html, "h1");
     base.headings = headingsOf(html, "h2|h3");
     base.images = imagesOf(html, url);

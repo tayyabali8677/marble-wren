@@ -109,6 +109,7 @@ async function main() {
   const factDrift = readReport(`fact-drift-${date}.md`);
   const decay = readReport(`content-decay-${date}.md`);
   const titleMeta = readReport(`title-meta-audit-${date}.md`);
+  const a11y = readReport(`accessibility-audit-${date}.md`);
   const mismatch = readReport(`query-page-mismatch-${date}.md`);
   const eeat = readReport(`eeat-audit-${date}.md`);
   const canonical = readReport(`canonical-audit-${date}.md`);
@@ -117,7 +118,7 @@ async function main() {
   const backlinks = readReport(`backlink-monitor-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
-    internalLinks, striking, duplicates, factDrift, decay, titleMeta, mismatch, eeat, canonical,
+    internalLinks, striking, duplicates, factDrift, decay, titleMeta, a11y, mismatch, eeat, canonical,
     imageSeo, serp, backlinks];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
@@ -248,6 +249,29 @@ async function main() {
     sections.push({
       title: "Titles and descriptions",
       body: `## Titles and descriptions\n\n${truncatedTitles} titles are wide enough to be truncated in results, and ${missingDesc} pages have no meta description. Per-page widths and text are in the full report.`,
+      needsDecision: false,
+    });
+  }
+
+  // A missing lang attribute or bare alt-less image is a real WCAG failure,
+  // not a ranking nicety, so both lead the accessibility findings.
+  const missingLangCount = countAfter(a11y, /Missing an html lang attribute:\*\* (\d+)/);
+  if (missingLangCount > 0) {
+    sections.push({
+      title: "Missing lang attribute",
+      body: `## Missing lang attribute\n\n${missingLangCount} pages declare no html lang attribute, so a screen reader has to guess the page's language. Affected pages are listed in the full report.`,
+      needsDecision: true,
+    });
+  }
+
+  const noAltImages = section(a11y, "Images With No Alt Attribute");
+  if (noAltImages) sections.push({ title: "Images with no alt attribute", body: noAltImages, needsDecision: true });
+
+  const vagueLinkCount = countAfter(a11y, /Links with vague text:\*\* (\d+)/);
+  if (vagueLinkCount > 0) {
+    sections.push({
+      title: "Vague link text",
+      body: `## Vague link text\n\n${vagueLinkCount} links use text like "click here" or "read more" that tells a screen reader user nothing when tabbing through the page's links out of context. Per-page detail is in the full report.`,
       needsDecision: false,
     });
   }
