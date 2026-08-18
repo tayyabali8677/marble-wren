@@ -12,12 +12,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -137,12 +137,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
@@ -526,12 +526,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -651,12 +651,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
@@ -1036,12 +1036,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -1161,12 +1161,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
@@ -1549,12 +1549,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -1674,12 +1674,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
@@ -2051,12 +2051,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -2176,12 +2176,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
@@ -2547,12 +2547,12 @@ Canvas
 Staff intranet
 Open application menu
 Students
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
@@ -2672,12 +2672,12 @@ Main Menu
 Ngā tauira Students
 Ngā tauira Students
 Tools
+Change my password
 Student Services Online
 Class search
 Canvas
 Concur
 Student email
-Change my password
 MyCDES+ (job board)
 Resources
 Centre for Innovation and Entrepreneurship
