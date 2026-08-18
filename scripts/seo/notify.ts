@@ -116,10 +116,11 @@ async function main() {
   const imageSeo = readReport(`image-seo-${date}.md`);
   const serp = readReport(`serp-tracker-${date}.md`);
   const backlinks = readReport(`backlink-monitor-${date}.md`);
+  const sitemapRobots = readReport(`sitemap-robots-audit-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
     internalLinks, striking, duplicates, factDrift, decay, titleMeta, a11y, mismatch, eeat, canonical,
-    imageSeo, serp, backlinks];
+    imageSeo, serp, backlinks, sitemapRobots];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -166,6 +167,14 @@ async function main() {
 
   const brokenLinks = section(linkHealth, "Broken Internal Links");
   if (brokenLinks) sections.push({ title: "Broken links", body: brokenLinks, needsDecision: true });
+
+  // A dead application-portal or university link sits on the page where a
+  // student is trying to take the one action that matters, so this leads
+  // ahead of the general broken-internal-links finding in spirit.
+  const brokenExternalLinks = section(linkHealth, "Broken External Links");
+  if (brokenExternalLinks) {
+    sections.push({ title: "Broken external links", body: brokenExternalLinks, needsDecision: true });
+  }
 
   const placeholder = section(thinContent, "Placeholder Text Live");
   if (placeholder) sections.push({ title: "Placeholder text live", body: placeholder, needsDecision: true });
@@ -358,6 +367,13 @@ async function main() {
 
   const newLinks = section(backlinks, "New Referring Domains");
   if (newLinks) sections.push({ title: "New backlinks", body: newLinks, needsDecision: false });
+
+  // A sitemap URL blocked by robots.txt is a live contradiction in what we
+  // tell Google, the same shape of finding as the noindex-in-sitemap check.
+  const blockedInSitemap = section(sitemapRobots, "Sitemap URLs Blocked By Robots.txt");
+  if (blockedInSitemap) {
+    sections.push({ title: "Sitemap blocked by robots.txt", body: blockedInSitemap, needsDecision: true });
+  }
 
   const decisions = sections.filter((s) => s.needsDecision).length;
 

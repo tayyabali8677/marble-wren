@@ -21,6 +21,7 @@
     "content-decay": "tsx scripts/seo/content-decay.ts",
     "title-meta-audit": "tsx scripts/seo/title-meta-audit.ts",
     "accessibility-audit": "tsx scripts/seo/accessibility-audit.ts",
+    "sitemap-robots-audit": "tsx scripts/seo/sitemap-robots-audit.ts",
     "query-page-mismatch": "tsx scripts/seo/query-page-mismatch.ts",
     "eeat-audit": "tsx scripts/seo/eeat-audit.ts",
     "canonical-audit": "tsx scripts/seo/canonical-audit.ts",

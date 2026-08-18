@@ -78,6 +78,29 @@ function hasRiskyClaim(answer: string): boolean {
   return RISKY_CLAIM.some((re) => re.test(answer));
 }
 
+// Blocks any answer that names a third-party scholarship, aggregator, or
+// "matching service" brand, since these get spoken of the same way whether
+// they are a real funder or a lead-gen site that just resembles one, and this
+// unsupervised writer has no way to tell the difference. Add a name here the
+// moment it turns out to be a scam-adjacent aggregator rather than a real
+// funder; there is no separate list to maintain, just this array.
+const ENTITY_BLOCKLIST = [
+  /scholarshipowl/i,
+  /scholarships\.com/i,
+  /fastweb/i,
+  /unigo/i,
+  /niche\.com/i,
+];
+
+// A holdback here does not mean the named thing is fake, only that nobody has
+// vetted it, so it should not reach a student's screen on an LLM's say-so
+// alone. If a real, verified scholarship or funder needs to be named
+// routinely, add it to an explicit allowlist here rather than removing this
+// check, so the default stays "hold and review" instead of "publish and hope".
+function namesUnvettedEntity(answer: string): boolean {
+  return ENTITY_BLOCKLIST.some((re) => re.test(answer));
+}
+
 // The model is asked for JSON, but a stray code fence or a bad entry should
 // cost one page's suggestion, not the whole run.
 function parseFaqJson(raw: string): GeneratedFaq[] {
@@ -228,8 +251,8 @@ Return ONLY a JSON array in this exact shape:
             top5.map((k) => [k.keys![0].toLowerCase(), k.position ?? 0])
           );
 
-          const safe = parsed.filter((f) => !hasRiskyClaim(f.answer));
-          const held = parsed.filter((f) => hasRiskyClaim(f.answer));
+          const safe = parsed.filter((f) => !hasRiskyClaim(f.answer) && !namesUnvettedEntity(f.answer));
+          const held = parsed.filter((f) => hasRiskyClaim(f.answer) || namesUnvettedEntity(f.answer));
           heldForReview += held.length;
 
           if (safe.length > 0) {
@@ -247,7 +270,10 @@ Return ONLY a JSON array in this exact shape:
             report += `**Q: ${f.question}**\n\nA: ${f.answer}\n\n`;
           }
           for (const f of held) {
-            report += `**Q: ${f.question}** (held for review, states a number)\n\nA: ${f.answer}\n\n`;
+            const reason = namesUnvettedEntity(f.answer)
+              ? "held for review, names an unvetted third-party scholarship or aggregator"
+              : "held for review, states a number";
+            report += `**Q: ${f.question}** (${reason})\n\nA: ${f.answer}\n\n`;
           }
         } else if (pageText) {
           report += `\n*Page already covers these keywords, nothing written.*\n\n`;
@@ -311,8 +337,8 @@ Return ONLY a JSON array in this exact shape:
     publishSection += `${alreadyCovered === 1 ? "its" : "their"} near-miss keywords, so nothing was written for ${alreadyCovered === 1 ? "it" : "them"}.\n\n`;
   }
   if (heldForReview > 0) {
-    publishSection += `${heldForReview} answer${heldForReview === 1 ? " was" : "s were"} held back for stating a fee, percentage, deadline, or ranking. `;
-    publishSection += `They are in the section below marked "held for review". Check the number, then paste the answer in by hand if it is right.\n\n`;
+    publishSection += `${heldForReview} answer${heldForReview === 1 ? " was" : "s were"} held back for stating a fee, percentage, deadline, ranking, or naming an unvetted third-party scholarship or aggregator. `;
+    publishSection += `They are in the section below marked "held for review". Check the claim, then paste the answer in by hand if it is right.\n\n`;
   }
   if (result.faqsSkipped > 0) {
     publishSection += `${result.faqsSkipped} candidate${result.faqsSkipped === 1 ? "" : "s"} skipped (already published, or over the per-run cap).\n\n`;

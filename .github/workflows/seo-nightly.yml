@@ -96,6 +96,10 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/accessibility-audit.ts
 
+      - name: Sitemap and robots.txt consistency
+        if: always()
+        run: npx tsx scripts/seo/sitemap-robots-audit.ts
+
       - name: E-E-A-T signals
         if: always()
         run: npx tsx scripts/seo/eeat-audit.ts
