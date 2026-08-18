@@ -81,10 +81,6 @@ Romania and Republic of Moldova
 EN
 DE
 RO
-Bulgaria
-Bulgaria and North Macedonia
-EN
-DE
 Istanbul
 Türkiye
 EN
@@ -99,15 +95,20 @@ Prague
 Central Europe
 EN
 DE
-Tbilisi
-South Caucasus
-Vilnius
+Sofia
+Bulgaria
 EN
 DE
+Tbilisi
+South Caucasus
 EN
 DE
 KA
 HY
+Vilnius
+Baltic States
+EN
+DE
 Middle East and North Africa
 Middle East and North Africa
 Through our seven offices in the MENA Region, we actively promote the political debate to support innovative liberal approaches and solutions. Our projects are liberal platforms on which the Foundation&#039;s partners from the Gulf to the Levant and the entire southern side of the Mediterranean can provide creative impulses and discuss geopolitical issues.
@@ -414,10 +415,6 @@ Romania and Republic of Moldova
 EN
 DE
 RO
-Bulgaria
-Bulgaria and North Macedonia
-EN
-DE
 Istanbul
 Türkiye
 EN
@@ -432,15 +429,20 @@ Prague
 Central Europe
 EN
 DE
-Tbilisi
-South Caucasus
-Vilnius
+Sofia
+Bulgaria
 EN
 DE
+Tbilisi
+South Caucasus
 EN
 DE
 KA
 HY
+Vilnius
+Baltic States
+EN
+DE
 Middle East and North Africa
 Middle East and North Africa
 Through our seven offices in the MENA Region, we actively promote the political debate to support innovative liberal approaches and solutions. Our projects are liberal platforms on which the Foundation&#039;s partners from the Gulf to the Levant and the entire southern side of the Mediterranean can provide creative impulses and discuss geopolitical issues.

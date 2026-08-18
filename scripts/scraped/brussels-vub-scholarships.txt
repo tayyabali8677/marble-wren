@@ -672,7 +672,7 @@ Pleinlaan 2 - 1050 Brussel - Belgium
 Privacy policy Contact
 Search
 
-===== SOURCE PAGE: https://www.vub.be/index%2ephp/en/studying-vub/apply-and-enrol-vub =====
+===== SOURCE PAGE: https://www.vub.be/en/studying-vub/apply-and-enrol-vub =====
 Apply and enrol at VUB | Vrije Universiteit Brussel
 Skip to main content
 Study
@@ -1330,7 +1330,7 @@ Pleinlaan 2 - 1050 Brussel - Belgium
 Privacy policy Contact
 Search
 
-===== SOURCE PAGE: https://www.vub.be/index%2ephp/en/studying-vub/apply-and-enrol-vub/application-and-enrolment =====
+===== SOURCE PAGE: https://www.vub.be/en/studying-vub/apply-and-enrol-vub/application-and-enrolment =====
 Application and enrolment | Vrije Universiteit Brussel
 Skip to main content
 Study
@@ -2009,7 +2009,7 @@ Pleinlaan 2 - 1050 Brussel - Belgium
 Privacy policy Contact
 Search
 
-===== SOURCE PAGE: https://www.vub.be/index%2ephp/en/studying-vub/apply-and-enrol-vub/admission-requirements-and-deadlines =====
+===== SOURCE PAGE: https://www.vub.be/en/studying-vub/apply-and-enrol-vub/admission-requirements-and-deadlines =====
 Admission requirements and deadlines | Vrije Universiteit Brussel
 Skip to main content
 Study
@@ -2662,7 +2662,7 @@ Pleinlaan 2 - 1050 Brussel - Belgium
 Privacy policy Contact
 Search
 
-===== SOURCE PAGE: https://www.vub.be/index%2ephp/en/studying-vub/apply-and-enrol-vub/enrolled-now-what =====
+===== SOURCE PAGE: https://www.vub.be/en/studying-vub/apply-and-enrol-vub/enrolled-now-what =====
 Enrolled, now what? | Vrije Universiteit Brussel
 Skip to main content
 Study
@@ -3342,7 +3342,7 @@ Pleinlaan 2 - 1050 Brussel - Belgium
 Privacy policy Contact
 Search
 
-===== SOURCE PAGE: https://www.vub.be/index%2ephp/en/studying-vub/apply-and-enrol-vub/entry-exam-and-positioning-tests =====
+===== SOURCE PAGE: https://www.vub.be/en/studying-vub/apply-and-enrol-vub/entry-exam-and-positioning-tests =====
 Entry exam and positioning tests | Vrije Universiteit Brussel
 Skip to main content
 Study

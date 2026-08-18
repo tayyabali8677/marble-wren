@@ -52,7 +52,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -287,7 +287,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -477,7 +477,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -555,6 +555,16 @@ Annual Report
 Item 1
 of
 3
+August
+17
+20
+A warm welcome to new students: get your TU Delft hoodie!
+October
+07
+Delft Female Impact Community Annual Event
+November
+11
+Information session on Bequests to Science
 More events
 Delft University Fund
 linkedin
@@ -647,7 +657,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -674,7 +684,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -896,7 +906,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -909,7 +919,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1131,7 +1141,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
