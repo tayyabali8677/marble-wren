@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -555,16 +555,6 @@ Annual Report
 Item 1
 of
 3
-August
-17
-20
-A warm welcome to new students: get your TU Delft hoodie!
-October
-07
-Delft Female Impact Community Annual Event
-November
-11
-Information session on Bequests to Science
 More events
 Delft University Fund
 linkedin
@@ -919,7 +909,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations

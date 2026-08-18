@@ -197,7 +197,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 653139616e5992ffd258dfd870b41752
+This is the Trace Id: d72f7b8dd8ccaf34c974a977b3cb51d8
 Skip to main content
 Education
 Azure for education
@@ -401,7 +401,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98 =====
 ISV Success | Software Development Companies
-This is the Trace Id: badf095bea2bf2599c0edfea4fcac1c2
+This is the Trace Id: c1b61cdbc6c63ee1ba569346d916d36d
 Skip to main content
 Software Development Companies
 Develop your solution

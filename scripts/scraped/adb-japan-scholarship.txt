@@ -132,7 +132,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -483,7 +483,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -586,7 +586,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -596,7 +596,7 @@ Tonga
 Tuvalu
 Vanuatu
 See subregional operations in the Pacific
-Developing members: Afghanistan, Armenia, Azerbaijan, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Cook Islands, People’s Republic of China, Georgia, India, Indonesia, Fiji, Hong Kong, China, Kazakhstan, Kiribati, the Republic of Korea, Kyrgyz Republic, Lao People’s Democratic Republic, Malaysia, Maldives, Marshall Islands, Federated States of Micronesia, Mongolia, Myanmar, Nauru, Nepal, Niue, Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, Solomon Islands, Sri Lanka, Taipei,China, Tajikistan, Thailand, Timor-Leste, Tonga, Türkiye, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu, Viet Nam
+Developing members: Afghanistan, Armenia, Azerbaijan, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, Cook Islands, People’s Republic of China, Georgia, India, Indonesia, Fiji, Hong Kong, China, Kazakhstan, Kiribati, the Republic of Korea, Kyrgyz Republic, Lao People’s Democratic Republic, Malaysia, Maldives, Marshall Islands, Federated States of Micronesia, Mongolia, Myanmar, Naoero, Nepal, Niue, Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, Solomon Islands, Sri Lanka, Taipei,China, Tajikistan, Thailand, Timor-Leste, Tonga, Türkiye, Turkmenistan, Tuvalu, Uzbekistan, Vanuatu, Viet Nam
 By making any designation of or reference to a particular territory or geographical area, or by using the term "country" in the website, ADB does not intend to make any judgment as to the legal or other status of any territory or area. Boundaries, colors, denominations or any other information shown on maps do not imply, on the part of ADB, any judgment on the legal status of any territory, or any endorsement or acceptance of such boundaries, colors, denominations, or information.
 Some members enter a new phase in their relationship with ADB as defined under the Classification and Graduation Policy .
 Country Planning Documents
@@ -628,7 +628,7 @@ Maldives
 Marshall Islands
 Mongolia
 Myanmar
-Nauru
+Naoero
 Nepal
 Pakistan
 Palau
@@ -834,7 +834,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -952,6 +952,8 @@ Jocelyn Munsayac
 Director for Southeast Asia, OSFG
 Beatrice Gomez
 Director for the Pacific and Interregional Private Sector Operations, OSFG
+Felix Oku
+Advisor and Head, Management Grievance Redress Service
 Subscriber Services
 Subscribe to ADB's Newsletters, Alerts and RSS feeds.
 Connect with Us:
@@ -1126,7 +1128,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -1929,7 +1931,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
