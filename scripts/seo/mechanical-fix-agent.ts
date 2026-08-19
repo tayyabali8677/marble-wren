@@ -30,13 +30,6 @@ const UNIVERSITY_FILES: Record<string, string> = {
   "mbbs-in-georgia": "data/universities/georgia.ts",
   "mbbs-in-azerbaijan": "data/universities/azerbaijan.ts",
 };
-const COUNTRY_NAMES: Record<string, string> = {
-  "mbbs-in-china": "China",
-  "mbbs-in-russia": "Russia",
-  "mbbs-in-georgia": "Georgia",
-  "mbbs-in-azerbaijan": "Azerbaijan",
-};
-
 function isSafeForTsString(s: string): boolean {
   return !/["`\r\n]/.test(s);
 }
@@ -247,7 +240,7 @@ async function main() {
     });
     const countryKey = Object.keys(UNIVERSITY_FILES).find((k) => UNIVERSITY_FILES[k] === cand.countryFile);
     if (countryKey) {
-      checks.push({ path: `/${countryKey}`, expected: COUNTRY_NAMES[countryKey] });
+      checks.push({ path: `/${countryKey}`, expected: draftAlt });
     }
   }
 
