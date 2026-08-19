@@ -88,6 +88,17 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/fact-drift.ts
 
+      - name: Fee range corrections
+        if: always()
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_FEECHECK: ${{ vars.SEO_AUTOPUSH_FEECHECK }}
+          MAX_FEE_FIXES_PER_RUN: "10"
+        run: npx tsx scripts/seo/fee-verify-agent.ts
+
       - name: Titles and meta descriptions
         if: always()
         run: npx tsx scripts/seo/title-meta-audit.ts
@@ -95,6 +106,16 @@ jobs:
       - name: Accessibility audit
         if: always()
         run: npx tsx scripts/seo/accessibility-audit.ts
+
+      - name: Mechanical SEO fixes
+        if: always()
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_MECHANICAL: ${{ vars.SEO_AUTOPUSH_MECHANICAL }}
+          MAX_MECHANICAL_FIXES_PER_RUN: "10"
+        run: npx tsx scripts/seo/mechanical-fix-agent.ts
 
       - name: Sitemap and robots.txt consistency
         if: always()
@@ -107,6 +128,15 @@ jobs:
       - name: Canonical and indexability
         if: always()
         run: npx tsx scripts/seo/canonical-audit.ts
+
+      - name: Sitemap entry corrections
+        if: always()
+        env:
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_SITEMAP: ${{ vars.SEO_AUTOPUSH_SITEMAP }}
+          MAX_SITEMAP_FIXES_PER_RUN: "20"
+        run: npx tsx scripts/seo/sitemap-fix-agent.ts
 
       # Reads the shared crawl for alt and dimension coverage, then makes a
       # bounded HEAD pass over the distinct image URLs to weigh them, so it has
