@@ -78,7 +78,13 @@ async function main() {
     report += `| Page | Image |\n|---|---|\n`;
     for (const f of missingAlt.slice(0, MAX_REPORTED)) {
       const filename = f.src.split("/").pop()?.slice(0, 60) || f.src;
-      report += `| ${f.path} | [${filename}](${f.src}) |\n`;
+      // URLs are percent-encoded for `(`/`)` so they don't break the markdown-link syntax
+      // the report is parsed with; decode before using for exact-string matching against
+      // source files. Brackets in the filename are encoded too so the link text can't
+      // prematurely close the `[...]` span.
+      const safeHref = f.src.replace(/\(/g, "%28").replace(/\)/g, "%29");
+      const safeFilename = filename.replace(/\[/g, "%5B").replace(/\]/g, "%5D");
+      report += `| ${f.path} | [${safeFilename}](${safeHref}) |\n`;
     }
     if (missingAlt.length > MAX_REPORTED) report += `\n*${missingAlt.length - MAX_REPORTED} more.*\n`;
     report += `\n`;
