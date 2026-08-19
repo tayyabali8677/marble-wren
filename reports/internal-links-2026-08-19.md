@@ -32,21 +32,14 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 **Already mentions it, does not link to it:**
 
 - /
-- /scholarships/documents/ibcc-mofa-attestation
-- /scholarships/documents/international-scholarship-documents-checklist
 - /scholarships/documents/ef-set-english-test
 - /scholarships/documents/how-to-write-statement-of-purpose
+- /scholarships/documents/ibcc-mofa-attestation
+- /scholarships/documents/csc-scholarship-documents-checklist
 
 ### /mbbs-in-china/non-moe/shandong-first-medical-university
 
 **Subject:** Shandong First Medical University (SDFMU)
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /mbbs-in-china/non-moe/henan-university
-
-**Subject:** Henan University (HU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -58,9 +51,23 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
+### /mbbs-in-china/non-moe/henan-university
+
+**Subject:** Henan University (HU)
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
 ### /mbbs-in-china/non-moe/changchun-university-of-chinese-medicine
 
 **Subject:** Changchun University of Chinese Medicine (CCU)
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /mbbs-in-china/non-moe/guilin-medical-university
+
+**Subject:** Guilin Medical University (GLMU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -88,8 +95,8 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 - /mbbs-in-china/non-moe/guizhou-medical-university
 - /mbbs-in-china/non-moe/north-sichuan-medical-university
-- /mbbs-in-china/non-moe/shandong-second-medical-university
 - /mbbs-in-china/non-moe/shenyang-medical-college
+- /mbbs-in-china/non-moe/shandong-second-medical-university
 - /mbbs-in-china/non-moe/zhejiang-chinese-medical-university
 
 ### /mbbs-in-china/non-moe/chifeng-university
@@ -102,6 +109,13 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 ### /mbbs-in-china/non-moe/guangdong-pharmaceutical-university
 
 **Subject:** Guangdong Pharmaceutical University (GDPU)
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /mbbs-in-china/non-moe/hebei-university
+
+**Subject:** Hebei University (HBU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -120,20 +134,6 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/hebei-university
-
-**Subject:** Hebei University (HBU)
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /mbbs-in-china/non-moe/hubei-university-of-arts-and-science
-
-**Subject:** Hubei University of Arts and Science (HBUAS)
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
 ### /mbbs-in-china/non-moe/hebei-university-of-engineering
 
 **Subject:** Hebei University of Engineering (HBUE)
@@ -141,16 +141,16 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/guilin-medical-university
+### /mbbs-in-china/non-moe/hubei-polytechnic-university
 
-**Subject:** Guilin Medical University (GLMU)
+**Subject:** Hubei Polytechnic University (HBPU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/hubei-polytechnic-university
+### /mbbs-in-china/non-moe/hubei-university-of-arts-and-science
 
-**Subject:** Hubei Polytechnic University (HBPU)
+**Subject:** Hubei University of Arts and Science (HBUAS)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -176,9 +176,20 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/jinggangshan-university
+### /mbbs-in-china/non-moe/jining-medical-university
 
-**Subject:** Jinggangshan University (JGSU)
+**Subject:** Jining Medical University
+**Editorial inbound:** 0
+**Already mentions it, does not link to it:**
+
+- /mbbs-in-china/non-moe/guangdong-pharmaceutical-university
+- /mbbs-in-china/non-moe/north-china-university-of-science-and-technology
+- /mbbs-in-china/non-moe/youjiang-medical-university-for-nationalities
+- /mbbs-in-china/non-moe/bengbu-medical-college
+
+### /mbbs-in-china/non-moe/north-sichuan-medical-university
+
+**Subject:** North Sichuan Medical University (NSMU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -190,23 +201,19 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
+### /mbbs-in-china/non-moe/jinggangshan-university
+
+**Subject:** Jinggangshan University (JGSU)
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
 ### /mbbs-in-china/non-moe/kunming-university-of-science-and-technology
 
 **Subject:** Kunming University of Science and Technology (KUST)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /mbbs-in-china/non-moe/jining-medical-university
-
-**Subject:** Jining Medical University
-**Editorial inbound:** 0
-**Already mentions it, does not link to it:**
-
-- /mbbs-in-china/non-moe/guangdong-pharmaceutical-university
-- /mbbs-in-china/non-moe/north-china-university-of-science-and-technology
-- /mbbs-in-china/non-moe/youjiang-medical-university-for-nationalities
-- /mbbs-in-china/non-moe/bengbu-medical-college
 
 ### /mbbs-in-china/non-moe/nanchang-university
 
@@ -222,16 +229,9 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/north-sichuan-medical-university
+### /mbbs-in-china/non-moe/qiqihar-medical-university
 
-**Subject:** North Sichuan Medical University (NSMU)
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /mbbs-in-china/non-moe/panzhihua-university
-
-**Subject:** Panzhihua University (PZHU)
+**Subject:** Qiqihar Medical University (QMU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -243,9 +243,9 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/qiqihar-medical-university
+### /mbbs-in-china/non-moe/shenyang-medical-college
 
-**Subject:** Qiqihar Medical University (QMU)
+**Subject:** Shenyang Medical College (SYMC)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -257,16 +257,9 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/shenyang-medical-college
+### /mbbs-in-china/non-moe/panzhihua-university
 
-**Subject:** Shenyang Medical College (SYMC)
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /mbbs-in-china/non-moe/university-of-south-china
-
-**Subject:** University of South China (USC)
+**Subject:** Panzhihua University (PZHU)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -278,13 +271,6 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/yanan-university
-
-**Subject:** Yan'an University
-**Editorial inbound:** 0
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
 ### /mbbs-in-china/non-moe/xinxiang-medical-university
 
 **Subject:** Xinxiang / Henan Medical University (XXMU)
@@ -292,9 +278,9 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-china/non-moe/yangtze-university
+### /mbbs-in-china/non-moe/university-of-south-china
 
-**Subject:** Yangtze University (YU)
+**Subject:** University of South China (USC)
 **Editorial inbound:** 0
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -306,32 +292,25 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
+### /mbbs-in-china/non-moe/yanan-university
+
+**Subject:** Yan'an University
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /mbbs-in-china/non-moe/yichun-university
+
+**Subject:** Yichun University (YCU)
+**Editorial inbound:** 0
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
 *14 more in the same state.*
 
 ## Weakly Linked Pages (396)
 
 One or two editorial links each. Worth strengthening where the page matters.
-
-### /blog/mbbs-in-china-complete-guide-2026
-
-**Subject:** MBBS
-**Editorial inbound:** 2
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /blog/mbbs-in-russia-vs-china-comparison
-
-**Subject:** MBBS
-**Editorial inbound:** 1
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /blog/digiskills-pakistan-free-courses-guide-2026
-
-**Subject:** DigiSkills Pakistan 2026
-**Editorial inbound:** 1
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
 ### /blog/moe-listed-universities-china-complete-list
 
@@ -343,7 +322,14 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 - /mbbs-in-china/moe-listed
 - /
 - /scholarships/national
-- /mbbs-in-georgia
+- /mbbs-in-georgia/universities
+
+### /blog/mbbs-in-russia-vs-china-comparison
+
+**Subject:** MBBS
+**Editorial inbound:** 1
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
 ### /blog/mbbs-in-russia-cis-guide-2026
 
@@ -352,9 +338,16 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /blog/mbbs-in-georgia-complete-guide-2026
+### /blog/mbbs-in-china-complete-guide-2026
 
 **Subject:** MBBS
+**Editorial inbound:** 2
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /blog/digiskills-pakistan-free-courses-guide-2026
+
+**Subject:** DigiSkills Pakistan 2026
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -367,23 +360,16 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 - /
 
-### /blog/georgia-student-visa-d5-guide-pakistani-students-2026
-
-**Subject:** Georgia Student Visa (D5) 2026: Step
-**Editorial inbound:** 2
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /blog/mbbs-georgia-vs-china-comparison-2026
+### /blog/mbbs-in-georgia-complete-guide-2026
 
 **Subject:** MBBS
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /blog/best-pmdc-approved-universities-georgia-2026
+### /blog/mbbs-georgia-vs-china-comparison-2026
 
-**Subject:** Best PMDC/NMC/BMDC
+**Subject:** MBBS
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -395,23 +381,23 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /blog/mbbs-in-georgia-for-indian-students-2026
+### /blog/georgia-student-visa-d5-guide-pakistani-students-2026
 
-**Subject:** MBBS
-**Editorial inbound:** 1
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /blog/mbbs-at-azerbaijan-medical-university-baku-guide-2026
-
-**Subject:** MBBS at Azerbaijan Medical University (AMU) Baku: Complete Guide 2026
+**Subject:** Georgia Student Visa (D5) 2026: Step
 **Editorial inbound:** 2
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /blog/mbbs-abroad-bangladeshi-students-georgia-china-2026
+### /blog/best-pmdc-approved-universities-georgia-2026
 
-**Subject:** MBBS Abroad for Bangladeshi Students 2026: BMDC Approved Universities
+**Subject:** Best PMDC/NMC/BMDC
+**Editorial inbound:** 1
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /blog/mbbs-in-georgia-for-indian-students-2026
+
+**Subject:** MBBS
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -423,17 +409,19 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /mbbs-in-georgia/universities/tbilisi-state-medical-university
+### /blog/mbbs-abroad-bangladeshi-students-georgia-china-2026
 
-**Subject:** Tbilisi State Medical University
+**Subject:** MBBS Abroad for Bangladeshi Students 2026: BMDC Approved Universities
+**Editorial inbound:** 1
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /blog/mbbs-at-azerbaijan-medical-university-baku-guide-2026
+
+**Subject:** MBBS at Azerbaijan Medical University (AMU) Baku: Complete Guide 2026
 **Editorial inbound:** 2
-**Already mentions it, does not link to it:**
 
-- /mbbs-in-georgia/universities/new-vision-university
-- /mbbs-in-georgia/universities/ilia-state-university
-- /mbbs-in-georgia/universities/georgian-technical-university
-- /student-reviews
-- /apply-now
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
 ### /mbbs-in-georgia/universities/kutaisi-international-university
 
@@ -446,6 +434,18 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 - /mbbs-in-georgia/universities/georgian-technical-university
 - /student-reviews
 - /blog/mbbs-georgia-vs-china-comparison-2026
+
+### /mbbs-in-georgia/universities/tbilisi-state-medical-university
+
+**Subject:** Tbilisi State Medical University
+**Editorial inbound:** 2
+**Already mentions it, does not link to it:**
+
+- /mbbs-in-georgia/universities/new-vision-university
+- /mbbs-in-georgia/universities/ilia-state-university
+- /mbbs-in-georgia/universities/georgian-technical-university
+- /student-reviews
+- /apply-now
 
 ### /scholarships/kazakhstan-government-scholarship
 
@@ -468,13 +468,6 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/fulbright-scholarship-usa
-
-**Subject:** Fulbright Foreign Student Program (USA)
-**Editorial inbound:** 1
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
 ### /scholarships/brunei-darussalam-government-scholarship
 
 **Subject:** Brunei Darussalam Government Scholarship (BDGS) 2026
@@ -485,6 +478,13 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 ### /scholarships/cuba-government-scholarship-mbbs
 
 **Subject:** Cuba Government Scholarship
+**Editorial inbound:** 1
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /scholarships/fulbright-scholarship-usa
+
+**Subject:** Fulbright Foreign Student Program (USA)
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -510,13 +510,6 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/doha-institute-scholarship-qatar
-
-**Subject:** Doha Institute Qatar Scholarship
-**Editorial inbound:** 2
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
 ### /scholarships/ista-phd-scholarship-austria
 
 **Subject:** ISTA Austria PhD Scholarship
@@ -524,16 +517,23 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/saarc-scholarship-bangladesh-mbbs
+### /scholarships/hbku-scholarship-qatar
 
-**Subject:** SAARC
+**Subject:** HBKU Scholarship Qatar 2026
 **Editorial inbound:** 2
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/hbku-scholarship-qatar
+### /scholarships/doha-institute-scholarship-qatar
 
-**Subject:** HBKU Scholarship Qatar 2026
+**Subject:** Doha Institute Qatar Scholarship
+**Editorial inbound:** 2
+
+No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /scholarships/saarc-scholarship-bangladesh-mbbs
+
+**Subject:** SAARC
 **Editorial inbound:** 2
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -552,16 +552,16 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/alkhidmat-academic-scholarship
+### /scholarships/islamic-university-madinah-scholarship
 
-**Subject:** Alkhidmat Foundation Scholarship Pakistan
+**Subject:** Islamic University of Madinah (IUM) Scholarship 2026
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/islamic-university-madinah-scholarship
+### /scholarships/alkhidmat-academic-scholarship
 
-**Subject:** Islamic University of Madinah (IUM) Scholarship 2026
+**Subject:** Alkhidmat Foundation Scholarship Pakistan
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -573,16 +573,9 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/diyanat-burslari-scholarship-turkey
+### /scholarships/diya-pakistan-scholarship
 
-**Subject:** Diyanat Burslari Scholarship Turkey
-**Editorial inbound:** 2
-
-No other page mentions this subject, so a link needs new copy rather than a hyperlink.
-
-### /scholarships/lums-nop-scholarship-pakistan
-
-**Subject:** LUMS National Outreach Program (NOP)
+**Subject:** DIYA Pakistan Scholarship
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
@@ -594,12 +587,20 @@ No other page mentions this subject, so a link needs new copy rather than a hype
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
 
-### /scholarships/diya-pakistan-scholarship
+### /scholarships/lums-nop-scholarship-pakistan
 
-**Subject:** DIYA Pakistan Scholarship
+**Subject:** LUMS National Outreach Program (NOP)
 **Editorial inbound:** 1
 
 No other page mentions this subject, so a link needs new copy rather than a hyperlink.
+
+### /scholarships/unicef-internship-2026
+
+**Subject:** UNICEF Internship Program
+**Editorial inbound:** 1
+**Already mentions it, does not link to it:**
+
+- /scholarships/unicef-fellowship
 
 ### /scholarships/cm-it-internship-punjab-pakistan
 

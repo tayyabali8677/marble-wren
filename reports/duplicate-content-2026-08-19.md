@@ -39,15 +39,15 @@ Not yet a filtering risk, but these pages are competing to say the same thing. W
 | 24% | /scholarships/kent-university-scholarship | /scholarships/sheffield-merit-scholarship |
 | 24% | /scholarships/cardiff-university-scholarship | /scholarships/sheffield-merit-scholarship |
 | 24% | /scholarships/daad-helmut-schmidt-scholarship | /scholarships/daad-helmut-schmidt-scholarship-germany |
-| 23% | /mbbs-in-china/non-moe/gannan-medical-university | /mbbs-in-china/non-moe/guilin-medical-university |
+| 23% | /mbbs-in-china/non-moe/guilin-medical-university | /mbbs-in-china/non-moe/gannan-medical-university |
 | 23% | /scholarships/manchester-international-scholarship | /scholarships/cardiff-university-scholarship |
 | 23% | /mbbs-in-china/non-moe/gannan-medical-university | /mbbs-in-china/non-moe/guangdong-pharmaceutical-university |
 | 23% | /scholarships/manchester-international-scholarship | /scholarships/kent-university-scholarship |
 | 23% | /mbbs-in-china/non-moe/hebei-university-of-engineering | /mbbs-in-china/non-moe/jiamusi-university |
 | 23% | /scholarships/nottingham-excellence-scholarship | /scholarships/sheffield-merit-scholarship |
 | 23% | /scholarships/lse-scholarship | /scholarships/sheffield-merit-scholarship |
+| 22% | /mbbs-in-china/non-moe/guilin-medical-university | /mbbs-in-china/non-moe/guangdong-pharmaceutical-university |
 | 22% | /mbbs-in-china/non-moe/gannan-medical-university | /mbbs-in-china/non-moe/guizhou-medical-university |
-| 22% | /mbbs-in-china/non-moe/guangdong-pharmaceutical-university | /mbbs-in-china/non-moe/guilin-medical-university |
 | 22% | /scholarships/ucl-global-scholarship | /scholarships/lse-scholarship |
 | 22% | /scholarships/ucl-global-scholarship | /scholarships/kent-university-scholarship |
 | 22% | /scholarships/ucl-global-scholarship | /scholarships/cardiff-university-scholarship |
