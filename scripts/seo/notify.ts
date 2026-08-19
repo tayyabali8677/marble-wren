@@ -34,6 +34,12 @@ function section(report: string | null, heading: string): string | null {
   return (next === -1 ? rest : rest.slice(0, next)).trim();
 }
 
+/** Strips the leading "## Heading" line off a section() result, leaving just the body. */
+function stripHeading(text: string): string {
+  const nl = text.indexOf("\n");
+  return nl === -1 ? "" : text.slice(nl + 1).trim();
+}
+
 /**
  * Keeps a section readable in an email. A 289-row table is a report, not a
  * digest, so long sections are cut off with a pointer to the full file.
@@ -123,7 +129,7 @@ async function main() {
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
     internalLinks, striking, duplicates, factDrift, decay, titleMeta, a11y, mismatch, eeat, canonical,
-    imageSeo, serp, backlinks, sitemapRobots];
+    imageSeo, serp, backlinks, sitemapRobots, mechanicalFixes, feeFixes, sitemapFixes];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -141,10 +147,12 @@ async function main() {
   }
 
   const autoPushedParts = [
-    section(mechanicalFixes, "Auto-Published"),
-    section(feeFixes, "Auto-Published"),
-    section(sitemapFixes, "Auto-Published"),
-  ].filter((s): s is string => !!s && !s.includes("None this run."));
+    { label: "Mechanical fixes", text: section(mechanicalFixes, "Auto-Published") },
+    { label: "Fee range corrections", text: section(feeFixes, "Auto-Published") },
+    { label: "Sitemap corrections", text: section(sitemapFixes, "Auto-Published") },
+  ]
+    .filter((p): p is { label: string; text: string } => !!p.text && !p.text.includes("None this run."))
+    .map((p) => `**${p.label}:**\n${stripHeading(p.text)}`);
 
   if (autoPushedParts.length > 0) {
     sections.push({
