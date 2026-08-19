@@ -36,4 +36,11 @@ describe("applyExactReplace", () => {
     expect(result.ok).toBe(false);
     if (!result.ok) expect(result.reason).toBe("not unique");
   });
+
+  it("treats the replacement string literally, not as a $-pattern template", () => {
+    const src = 'fee: "$5,500",';
+    const result = applyExactReplace(src, '"$5,500"', '"$$6,000"');
+    expect(result.ok).toBe(true);
+    if (result.ok) expect(result.text).toBe('fee: "$$6,000",');
+  });
 });

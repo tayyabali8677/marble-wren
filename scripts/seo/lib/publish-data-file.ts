@@ -19,7 +19,7 @@ export function applyExactReplace(src: string, find: string, replace: string): R
   const occurrences = src.split(find).length - 1;
   if (occurrences === 0) return { ok: false, reason: "not found" };
   if (occurrences > 1) return { ok: false, reason: "not unique" };
-  return { ok: true, text: src.replace(find, replace) };
+  return { ok: true, text: src.replace(find, () => replace) };
 }
 
 export type DataFileEdit = {
