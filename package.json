@@ -28,6 +28,7 @@
     "image-seo": "tsx scripts/seo/image-seo.ts",
     "serp-tracker": "tsx scripts/seo/serp-tracker.ts",
     "backlink-monitor": "tsx scripts/seo/backlink-monitor.ts",
+    "mechanical-fix": "tsx scripts/seo/mechanical-fix-agent.ts",
     "notify": "tsx scripts/seo/notify.ts",
     "test": "vitest run"
   },
