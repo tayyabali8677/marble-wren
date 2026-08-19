@@ -91,12 +91,29 @@ async function main() {
 
   // Redirects inside the sitemap. The sitemap should list final URLs, not URLs
   // that bounce, or crawl budget is spent following hops.
-  const redirected = ok.filter((p) => normalise(p.finalUrl) !== normalise(p.url));
+  const allRedirected = ok.filter((p) => normalise(p.finalUrl) !== normalise(p.url));
+
+  // A redirect that lands off-domain hands toPath() a foreign URL's structure,
+  // which happens to look like a same-domain path once the origin is stripped.
+  // sitemap-fix-agent.ts trusts this table's "lands on" column verbatim and
+  // writes it straight into the site's own sitemap, so a fabricated path here
+  // is not just a cosmetic reporting bug, it is a write-time hazard. These are
+  // kept out of the redirect table entirely and reported separately below, in
+  // a section sitemap-fix-agent.ts's table-row parser does not read.
+  const isOffDomain = (p: CrawledPage) => {
+    try {
+      return new URL(p.finalUrl).origin !== SITE_ORIGIN;
+    } catch {
+      return true;
+    }
+  };
+  const redirected = allRedirected.filter((p) => !isOffDomain(p));
+  const offDomainRedirects = allRedirected.filter(isOffDomain);
 
   const date = new Date().toISOString().split("T")[0];
   const total =
     broken.length + errored.length + noindex.length + canonicalIssues.length +
-    clusters.length + redirected.length + missingCanonical;
+    clusters.length + redirected.length + offDomainRedirects.length + missingCanonical;
 
   let report = `# Canonical And Indexability: ${date}\n\n`;
   report += `**Sitemap URLs crawled:** ${pages.length}\n`;
@@ -164,6 +181,18 @@ async function main() {
     report += `\n`;
   }
 
+  if (offDomainRedirects.length > 0) {
+    report += `## Sitemap Redirects Landing Off-Domain (${offDomainRedirects.length})\n\n`;
+    report += `These sitemap URLs redirect somewhere off titansabroad.org entirely. That is not a `;
+    report += `path to correct the sitemap with, it is a broken or hijacked URL, so these are left `;
+    report += `out of the redirect table above and need a human look rather than an automated fix.\n\n`;
+    for (const p of offDomainRedirects.slice(0, MAX_REPORTED)) {
+      report += `- ${toPath(p.url)} redirects to ${p.finalUrl}\n`;
+    }
+    if (offDomainRedirects.length > MAX_REPORTED) report += `\n*${offDomainRedirects.length - MAX_REPORTED} more.*\n`;
+    report += `\n`;
+  }
+
   if (missingCanonical > 0) {
     report += `## Missing A Canonical Tag (${missingCanonical})\n\n`;
     report += `Not fatal, since Google will assume the page is its own canonical, but declaring `;
@@ -175,7 +204,7 @@ async function main() {
   report += `---\n\n`;
   writeReport("canonical-audit", report);
   console.log(
-    `noindex: ${noindex.length} | canonical issues: ${canonicalIssues.length} | dead in sitemap: ${broken.length + errored.length} | redirects: ${redirected.length}`
+    `noindex: ${noindex.length} | canonical issues: ${canonicalIssues.length} | dead in sitemap: ${broken.length + errored.length} | redirects: ${redirected.length} | off-domain redirects: ${offDomainRedirects.length}`
   );
 }
 

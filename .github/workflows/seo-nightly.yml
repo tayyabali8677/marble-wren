@@ -24,7 +24,18 @@ concurrency:
 jobs:
   nightly:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    # The capped steps alone (Indexing monitor 60 + Near-duplicate content 15
+    # + Fee range corrections 35 + Mechanical SEO fixes 35 + Sitemap entry
+    # corrections 65 + Image SEO 15 + Core Web Vitals 20) sum to 245 minutes,
+    # so the job-level timeout must clear that on its own before any of the
+    # ~18 uncapped steps (npm ci, the crawl-based audits, the digest, etc.)
+    # get a minute of headroom. 300 gives ~55 minutes of slack for those and
+    # stays well under GitHub Actions' 360-minute hard cap for hosted
+    # runners. Whenever a step's own timeout-minutes changes, re-check this
+    # sum still fits — GitHub Actions kills the whole job the instant this
+    # elapses, mid-step, regardless of what any individual step's timeout
+    # allows.
+    timeout-minutes: 300
     permissions:
       contents: write
       issues: write
@@ -88,6 +99,25 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/fact-drift.ts
 
+      # verifyAndMaybeRollback now runs its checks concurrently via
+      # Promise.all rather than sequentially, so the typical case is ~180s
+      # (one polling round) regardless of MAX_FEE_FIXES_PER_RUN, not the old
+      # N x 3 minute sequential worst case. 35 is kept as a generous upper
+      # bound (not a tight estimate) so a runaway verification loop still
+      # can't run past the job's overall timeout-minutes with the commit
+      # already live and unreverted.
+      - name: Fee range corrections
+        if: always()
+        timeout-minutes: 35
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_FEECHECK: ${{ vars.SEO_AUTOPUSH_FEECHECK }}
+          MAX_FEE_FIXES_PER_RUN: "10"
+        run: npx tsx scripts/seo/fee-verify-agent.ts
+
       - name: Titles and meta descriptions
         if: always()
         run: npx tsx scripts/seo/title-meta-audit.ts
@@ -95,6 +125,22 @@ jobs:
       - name: Accessibility audit
         if: always()
         run: npx tsx scripts/seo/accessibility-audit.ts
+
+      # Same verification shape as the fee-range step above: checks run
+      # concurrently via Promise.all, so the typical case is ~180s regardless
+      # of MAX_MECHANICAL_FIXES_PER_RUN. 35 is a generous upper bound, capped
+      # well short of the job's overall timeout-minutes so this step can't be
+      # killed mid-verification with an unreverted commit already live.
+      - name: Mechanical SEO fixes
+        if: always()
+        timeout-minutes: 35
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_MECHANICAL: ${{ vars.SEO_AUTOPUSH_MECHANICAL }}
+          MAX_MECHANICAL_FIXES_PER_RUN: "10"
+        run: npx tsx scripts/seo/mechanical-fix-agent.ts
 
       - name: Sitemap and robots.txt consistency
         if: always()
@@ -107,6 +153,21 @@ jobs:
       - name: Canonical and indexability
         if: always()
         run: npx tsx scripts/seo/canonical-audit.ts
+
+      # Same verification shape as the fee-range step above: checks run
+      # concurrently via Promise.all, so the typical case is ~180s regardless
+      # of MAX_SITEMAP_FIXES_PER_RUN=20. 65 is a generous upper bound (with a
+      # small buffer) so this step can't be killed mid-loop with an
+      # unreverted commit already live.
+      - name: Sitemap entry corrections
+        if: always()
+        timeout-minutes: 65
+        env:
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_SITEMAP: ${{ vars.SEO_AUTOPUSH_SITEMAP }}
+          MAX_SITEMAP_FIXES_PER_RUN: "20"
+        run: npx tsx scripts/seo/sitemap-fix-agent.ts
 
       # Reads the shared crawl for alt and dimension coverage, then makes a
       # bounded HEAD pass over the distinct image URLs to weigh them, so it has

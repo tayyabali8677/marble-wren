@@ -28,7 +28,11 @@
     "image-seo": "tsx scripts/seo/image-seo.ts",
     "serp-tracker": "tsx scripts/seo/serp-tracker.ts",
     "backlink-monitor": "tsx scripts/seo/backlink-monitor.ts",
-    "notify": "tsx scripts/seo/notify.ts"
+    "mechanical-fix": "tsx scripts/seo/mechanical-fix-agent.ts",
+    "fee-verify": "tsx scripts/seo/fee-verify-agent.ts",
+    "sitemap-fix": "tsx scripts/seo/sitemap-fix-agent.ts",
+    "notify": "tsx scripts/seo/notify.ts",
+    "test": "vitest run"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.45.0",
@@ -40,6 +44,7 @@
   "devDependencies": {
     "@types/node": "^26.2.0",
     "tsx": "^4.16.2",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "vitest": "^2.1.0"
   }
 }
