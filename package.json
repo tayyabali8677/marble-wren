@@ -30,6 +30,7 @@
     "backlink-monitor": "tsx scripts/seo/backlink-monitor.ts",
     "mechanical-fix": "tsx scripts/seo/mechanical-fix-agent.ts",
     "fee-verify": "tsx scripts/seo/fee-verify-agent.ts",
+    "sitemap-fix": "tsx scripts/seo/sitemap-fix-agent.ts",
     "notify": "tsx scripts/seo/notify.ts",
     "test": "vitest run"
   },
