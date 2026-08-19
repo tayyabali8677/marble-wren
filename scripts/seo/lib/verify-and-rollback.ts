@@ -35,12 +35,22 @@ export async function pollUntilVerified(
   return false;
 }
 
-export type VerifyOutcome = { path: string; verified: boolean; reverted: boolean };
+export type VerifyOutcome = {
+  path: string;
+  verified: boolean;
+  reverted: boolean;
+  revertError?: string;
+};
 
 /**
  * Verifies each pushed change is actually live, and reverts the whole
  * commit if any one of them isn't — an edit that only half-applied
  * (some pages fixed, one broken) shouldn't stay on main partially wrong.
+ *
+ * If the revert attempt itself throws (git conflict, push race, network
+ * failure), the failure is surfaced on each outcome's `revertError` rather
+ * than propagating — this is the safety net's own failure mode, so callers
+ * need a structured signal instead of an unhandled exception.
  */
 export async function verifyAndMaybeRollback(
   checks: Array<{ path: string; expected: string }>,
@@ -55,8 +65,16 @@ export async function verifyAndMaybeRollback(
 
   const anyFailed = outcomes.some((o) => !o.verified);
   if (anyFailed) {
-    await revertCommit(repoDir, commitSha);
-    for (const o of outcomes) o.reverted = true;
+    try {
+      await revertCommit(repoDir, commitSha);
+      for (const o of outcomes) o.reverted = true;
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      for (const o of outcomes) {
+        o.reverted = false;
+        o.revertError = message;
+      }
+    }
   }
 
   return outcomes;
