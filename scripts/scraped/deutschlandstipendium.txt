@@ -1023,7 +1023,7 @@ Frau
 Herr
 Divers
 Name: *
-Vorname: *
+Vorname:
 E-Mail-Adresse: *
 E-Mail-Adresse (Wiederholung): *
 Ihr Anliegen
