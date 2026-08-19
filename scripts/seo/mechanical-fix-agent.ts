@@ -17,7 +17,16 @@ import { callGemini } from "./lib/gemini";
 import { withinCap } from "./lib/guardrails";
 import { findObjectLiteral } from "./lib/find-object-literal";
 import { publishDataFileEdits, type DataFileEdit } from "./lib/publish-data-file";
-import { verifyAndMaybeRollback } from "./lib/verify-and-rollback";
+import { verifyAndMaybeRollback, type VerifyOutcome } from "./lib/verify-and-rollback";
+
+function formatVerifyLine(o: VerifyOutcome): string {
+  if (o.verified) return `- ${o.path}: verified live`;
+  if (o.revertError) {
+    return `- ${o.path}: PUSHED BUT VERIFICATION FAILED AND AUTO-REVERT ALSO FAILED (${o.revertError}) — MANUAL REVIEW NEEDED`;
+  }
+  if (o.reverted) return `- ${o.path}: reverted (verification failed)`;
+  return `- ${o.path}: not verified`;
+}
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_MECHANICAL_FIXES_PER_RUN = Number(process.env.MAX_MECHANICAL_FIXES_PER_RUN || 10);
@@ -31,7 +40,7 @@ const UNIVERSITY_FILES: Record<string, string> = {
   "mbbs-in-azerbaijan": "data/universities/azerbaijan.ts",
 };
 function isSafeForTsString(s: string): boolean {
-  return !/["`\r\n]/.test(s);
+  return !/["`\r\n\\]/.test(s);
 }
 
 function readReport(name: string): string {
@@ -48,7 +57,7 @@ function section(report: string, heading: string): string {
 }
 
 type ScholarshipCandidate = { slug: string; missingTitle: boolean; missingDescription: boolean };
-type AltCandidate = { countryFile: string; imageSrc: string };
+type AltCandidate = { countryFile: string; imageSrc: string; path: string };
 
 function parseScholarshipCandidates(titleMetaReport: string): ScholarshipCandidate[] {
   const byySlug = new Map<string, ScholarshipCandidate>();
@@ -85,7 +94,7 @@ function parseAltCandidates(accessibilityReport: string): AltCandidate[] {
     // the un-encoded url string literals in data/universities/*.ts
     const imageSrc = m[2].replace(/%28/g, "(").replace(/%29/g, ")");
     const countryPrefix = Object.keys(UNIVERSITY_FILES).find((p) => path.startsWith(`/${p}/`));
-    if (countryPrefix) out.push({ countryFile: UNIVERSITY_FILES[countryPrefix], imageSrc });
+    if (countryPrefix) out.push({ countryFile: UNIVERSITY_FILES[countryPrefix], imageSrc, path });
   }
   return out;
 }
@@ -154,7 +163,7 @@ async function main() {
   const edits: DataFileEdit[] = [];
   const checks: Array<{ path: string; expected: string }> = [];
   const heldBack: string[] = [];
-  let budget = MAX_MECHANICAL_FIXES_PER_RUN;
+  const budget = MAX_MECHANICAL_FIXES_PER_RUN;
 
   for (const cand of scholarshipCandidates) {
     if (!withinCap(edits.length + 1, budget)) break;
@@ -179,7 +188,12 @@ async function main() {
       continue;
     }
     if (cand.missingTitle && draft.title && titleMatch) {
-      if (isSafeForTsString(draft.title)) {
+      if (!isSafeForTsString(draft.title)) {
+        heldBack.push(`${cand.slug}: Gemini draft for seoTitle contained an unsafe character, held back`);
+      } else if (!withinCap(edits.length + 1, budget)) {
+        heldBack.push(`${cand.slug}: seoTitle held back, run is at its edit cap`);
+        break;
+      } else {
         edits.push({
           file: SCHOLARSHIPS_FILE,
           find: `seoTitle: "${currentTitle}"`,
@@ -187,12 +201,15 @@ async function main() {
           description: `scholarship ${cand.slug}: seoTitle`,
         });
         checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.title });
-      } else {
-        heldBack.push(`${cand.slug}: Gemini draft for seoTitle contained an unsafe character, held back`);
       }
     }
     if (cand.missingDescription && draft.description && descMatch) {
-      if (isSafeForTsString(draft.description)) {
+      if (!isSafeForTsString(draft.description)) {
+        heldBack.push(`${cand.slug}: Gemini draft for seoDescription contained an unsafe character, held back`);
+      } else if (!withinCap(edits.length + 1, budget)) {
+        heldBack.push(`${cand.slug}: seoDescription held back, run is at its edit cap`);
+        break;
+      } else {
         edits.push({
           file: SCHOLARSHIPS_FILE,
           find: `seoDescription: "${currentDescription}"`,
@@ -200,8 +217,6 @@ async function main() {
           description: `scholarship ${cand.slug}: seoDescription`,
         });
         checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.description });
-      } else {
-        heldBack.push(`${cand.slug}: Gemini draft for seoDescription contained an unsafe character, held back`);
       }
     }
   }
@@ -238,10 +253,7 @@ async function main() {
       replace: `alt: "${draftAlt}"`,
       description: `university photo ${cand.imageSrc}: alt text`,
     });
-    const countryKey = Object.keys(UNIVERSITY_FILES).find((k) => UNIVERSITY_FILES[k] === cand.countryFile);
-    if (countryKey) {
-      checks.push({ path: `/${countryKey}`, expected: draftAlt });
-    }
+    checks.push({ path: cand.path, expected: draftAlt });
   }
 
   const result = await publishDataFileEdits(edits, [SCHOLARSHIPS_FILE, ...Object.values(UNIVERSITY_FILES)], `seo: mechanical fixes (${TODAY})`);
