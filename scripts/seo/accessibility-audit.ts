@@ -77,7 +77,8 @@ async function main() {
     report += `image as decorative. A screen reader reads the filename aloud instead.\n\n`;
     report += `| Page | Image |\n|---|---|\n`;
     for (const f of missingAlt.slice(0, MAX_REPORTED)) {
-      report += `| ${f.path} | ${f.src.split("/").pop()?.slice(0, 60) || f.src} |\n`;
+      const filename = f.src.split("/").pop()?.slice(0, 60) || f.src;
+      report += `| ${f.path} | [${filename}](${f.src}) |\n`;
     }
     if (missingAlt.length > MAX_REPORTED) report += `\n*${missingAlt.length - MAX_REPORTED} more.*\n`;
     report += `\n`;
