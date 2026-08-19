@@ -3449,5 +3449,12 @@
     "country": "Canada",
     "url": "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship",
     "note": "Major international research internship funded by the Canadian government."
+  },
+  {
+    "slug": "educanada-international-scholarships",
+    "name": "EduCanada International Scholarships for international applicants",
+    "country": "Canada",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Main search portal for government-funded scholarships for international students to study in Canada."
   }
 ]
