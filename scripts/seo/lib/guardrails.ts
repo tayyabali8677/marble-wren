@@ -18,6 +18,7 @@ export function parseDollarRange(text: string): DollarRange | null {
   const low = Number(m[1].replace(/,/g, ""));
   const high = Number(m[2].replace(/,/g, ""));
   if (!Number.isFinite(low) || !Number.isFinite(high)) return null;
+  if (low > high) return null;
   return { low, high };
 }
 
@@ -35,6 +36,14 @@ function withinTolerance(a: number, b: number): boolean {
 
 export function dollarRangesAgree(ranges: DollarRange[]): boolean {
   if (ranges.length < 2) return false;
-  const [first, ...rest] = ranges;
-  return rest.every((r) => withinTolerance(r.low, first.low) && withinTolerance(r.high, first.high));
+  for (let i = 0; i < ranges.length; i++) {
+    for (let j = i + 1; j < ranges.length; j++) {
+      const a = ranges[i];
+      const b = ranges[j];
+      if (!withinTolerance(a.low, b.low) || !withinTolerance(a.high, b.high)) {
+        return false;
+      }
+    }
+  }
+  return true;
 }
