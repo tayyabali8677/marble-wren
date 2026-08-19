@@ -18,6 +18,29 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_FEE_FIXES_PER_RUN = Number(process.env.MAX_FEE_FIXES_PER_RUN || 10);
 const ENABLED = (process.env.SEO_AUTOPUSH_FEECHECK || "").toLowerCase() === "on";
 
+// The site being edited. A source hosted here can't count as independent
+// verification of a number this agent is about to write back onto its own
+// page, so any result on this host (or a subdomain of it) is excluded before
+// the 2-source agreement check ever sees it. Matches the OWN_HOST convention
+// used elsewhere in scripts/seo (e.g. serp-tracker.ts, image-seo.ts).
+const OWN_HOST = "titansabroad.org";
+
+// Two sources agreeing is only meaningful if at least one of them is likely
+// to actually know the fact, not just repeat it. Generic blogs and SEO
+// content mills routinely scrape each other's tuition figures, so require
+// at least one agreeing source to be an academic (.edu / .ac.<cc>) or
+// government (.gov / .gov.<cc>) domain — the kind of domain an official
+// university or education-ministry page would use.
+const AUTHORITATIVE_HOST_RE = /\.(edu|gov|ac)(\.[a-z]{2,3})?$/i;
+
+function isOwnHost(hostname: string): boolean {
+  return hostname === OWN_HOST || hostname.endsWith(`.${OWN_HOST}`);
+}
+
+function isAuthoritativeHost(hostname: string): boolean {
+  return AUTHORITATIVE_HOST_RE.test(hostname);
+}
+
 const COUNTRY_FILES: Record<string, string> = {
   China: "app/mbbs-in-china/page.tsx",
   Russia: "app/mbbs-in-russia/page.tsx",
@@ -96,10 +119,20 @@ async function findAgreedRange(country: string): Promise<DollarRange | null> {
       }
       return { range, hostname };
     })
-    .filter((r): r is { range: DollarRange; hostname: string } => r !== null);
+    .filter((r): r is { range: DollarRange; hostname: string } => r !== null)
+    // The site being edited can't verify its own claim.
+    .filter((r) => !isOwnHost(r.hostname));
   const ranges = withRanges.map((r) => r.range);
   const distinctHosts = new Set(withRanges.map((r) => r.hostname));
-  if (ranges.length < 2 || distinctHosts.size < 2 || !dollarRangesAgree(ranges)) return null;
+  const hasAuthoritativeSource = withRanges.some((r) => isAuthoritativeHost(r.hostname));
+  if (
+    ranges.length < 2 ||
+    distinctHosts.size < 2 ||
+    !hasAuthoritativeSource ||
+    !dollarRangesAgree(ranges)
+  ) {
+    return null;
+  }
   return ranges[0];
 }
 
