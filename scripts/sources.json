@@ -3442,5 +3442,12 @@
     "country": "Europe",
     "url": "https://www.erasmus-mundus.eu",
     "note": "Specific program consortia handle applications."
+  },
+  {
+    "slug": "mitacs-globalink-research-internship-canada",
+    "name": "Mitacs Globalink Research Internship (GRI)",
+    "country": "Canada",
+    "url": "https://www.mitacs.ca/en/programs/globalink/globalink-research-internship",
+    "note": "Major international research internship funded by the Canadian government."
   }
 ]
