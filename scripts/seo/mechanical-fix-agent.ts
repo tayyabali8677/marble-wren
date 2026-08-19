@@ -30,6 +30,16 @@ const UNIVERSITY_FILES: Record<string, string> = {
   "mbbs-in-georgia": "data/universities/georgia.ts",
   "mbbs-in-azerbaijan": "data/universities/azerbaijan.ts",
 };
+const COUNTRY_NAMES: Record<string, string> = {
+  "mbbs-in-china": "China",
+  "mbbs-in-russia": "Russia",
+  "mbbs-in-georgia": "Georgia",
+  "mbbs-in-azerbaijan": "Azerbaijan",
+};
+
+function isSafeForTsString(s: string): boolean {
+  return !/["`\r\n]/.test(s);
+}
 
 function readReport(name: string): string {
   const path = join("reports", `${name}-${TODAY}.md`);
@@ -90,6 +100,7 @@ function parseAltCandidates(accessibilityReport: string): AltCandidate[] {
 async function fetchRawFile(path: string, token: string): Promise<string | null> {
   const res = await fetch(`https://raw.githubusercontent.com/tayyabali123/titans-abroad/main/${path}`, {
     headers: { Authorization: `token ${token}` },
+    signal: AbortSignal.timeout(15_000),
   });
   if (!res.ok) return null;
   return res.text();
@@ -175,22 +186,30 @@ async function main() {
       continue;
     }
     if (cand.missingTitle && draft.title && titleMatch) {
-      edits.push({
-        file: SCHOLARSHIPS_FILE,
-        find: `seoTitle: "${currentTitle}"`,
-        replace: `seoTitle: "${draft.title}"`,
-        description: `scholarship ${cand.slug}: seoTitle`,
-      });
-      checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.title });
+      if (isSafeForTsString(draft.title)) {
+        edits.push({
+          file: SCHOLARSHIPS_FILE,
+          find: `seoTitle: "${currentTitle}"`,
+          replace: `seoTitle: "${draft.title}"`,
+          description: `scholarship ${cand.slug}: seoTitle`,
+        });
+        checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.title });
+      } else {
+        heldBack.push(`${cand.slug}: Gemini draft for seoTitle contained an unsafe character, held back`);
+      }
     }
     if (cand.missingDescription && draft.description && descMatch) {
-      edits.push({
-        file: SCHOLARSHIPS_FILE,
-        find: `seoDescription: "${currentDescription}"`,
-        replace: `seoDescription: "${draft.description}"`,
-        description: `scholarship ${cand.slug}: seoDescription`,
-      });
-      checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.description });
+      if (isSafeForTsString(draft.description)) {
+        edits.push({
+          file: SCHOLARSHIPS_FILE,
+          find: `seoDescription: "${currentDescription}"`,
+          replace: `seoDescription: "${draft.description}"`,
+          description: `scholarship ${cand.slug}: seoDescription`,
+        });
+        checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.description });
+      } else {
+        heldBack.push(`${cand.slug}: Gemini draft for seoDescription contained an unsafe character, held back`);
+      }
     }
   }
 
@@ -216,12 +235,20 @@ async function main() {
       heldBack.push(`${cand.imageSrc}: Gemini draft failed`);
       continue;
     }
+    if (!isSafeForTsString(draftAlt)) {
+      heldBack.push(`${cand.imageSrc}: Gemini draft for alt text contained an unsafe character, held back`);
+      continue;
+    }
     edits.push({
       file: cand.countryFile,
       find: `alt: "${altMatch[1]}"`,
       replace: `alt: "${draftAlt}"`,
       description: `university photo ${cand.imageSrc}: alt text`,
     });
+    const countryKey = Object.keys(UNIVERSITY_FILES).find((k) => UNIVERSITY_FILES[k] === cand.countryFile);
+    if (countryKey) {
+      checks.push({ path: `/${countryKey}`, expected: COUNTRY_NAMES[countryKey] });
+    }
   }
 
   const result = await publishDataFileEdits(edits, [SCHOLARSHIPS_FILE, ...Object.values(UNIVERSITY_FILES)], `seo: mechanical fixes (${TODAY})`);
@@ -247,4 +274,7 @@ ${heldLines.length ? heldLines.join("\n") : "None this run."}
   writeReport("mechanical-fixes", body);
 }
 
-main();
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
