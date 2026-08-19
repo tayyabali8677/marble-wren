@@ -24,7 +24,18 @@ concurrency:
 jobs:
   nightly:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    # The capped steps alone (Indexing monitor 60 + Near-duplicate content 15
+    # + Fee range corrections 35 + Mechanical SEO fixes 35 + Sitemap entry
+    # corrections 65 + Image SEO 15 + Core Web Vitals 20) sum to 245 minutes,
+    # so the job-level timeout must clear that on its own before any of the
+    # ~18 uncapped steps (npm ci, the crawl-based audits, the digest, etc.)
+    # get a minute of headroom. 300 gives ~55 minutes of slack for those and
+    # stays well under GitHub Actions' 360-minute hard cap for hosted
+    # runners. Whenever a step's own timeout-minutes changes, re-check this
+    # sum still fits — GitHub Actions kills the whole job the instant this
+    # elapses, mid-step, regardless of what any individual step's timeout
+    # allows.
+    timeout-minutes: 300
     permissions:
       contents: write
       issues: write
@@ -88,10 +99,13 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/fact-drift.ts
 
-      # verifyAndMaybeRollback polls each pushed fix for up to 3 minutes, so at
-      # MAX_FEE_FIXES_PER_RUN=10 this step's worst case is ~30 minutes; capped
-      # here so a runaway verification loop can't run past the job's overall
-      # timeout-minutes with the commit already live and unreverted.
+      # verifyAndMaybeRollback now runs its checks concurrently via
+      # Promise.all rather than sequentially, so the typical case is ~180s
+      # (one polling round) regardless of MAX_FEE_FIXES_PER_RUN, not the old
+      # N x 3 minute sequential worst case. 35 is kept as a generous upper
+      # bound (not a tight estimate) so a runaway verification loop still
+      # can't run past the job's overall timeout-minutes with the commit
+      # already live and unreverted.
       - name: Fee range corrections
         if: always()
         timeout-minutes: 35
@@ -112,10 +126,11 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/accessibility-audit.ts
 
-      # Same verification-polling shape as the fee-range step above: up to 10
-      # checks x 3 minutes each, capped well short of the job's overall
-      # timeout-minutes so this step can't be killed mid-verification with an
-      # unreverted commit already live.
+      # Same verification shape as the fee-range step above: checks run
+      # concurrently via Promise.all, so the typical case is ~180s regardless
+      # of MAX_MECHANICAL_FIXES_PER_RUN. 35 is a generous upper bound, capped
+      # well short of the job's overall timeout-minutes so this step can't be
+      # killed mid-verification with an unreverted commit already live.
       - name: Mechanical SEO fixes
         if: always()
         timeout-minutes: 35
@@ -139,10 +154,11 @@ jobs:
         if: always()
         run: npx tsx scripts/seo/canonical-audit.ts
 
-      # Same verification-polling shape as the fee-range step above, but at
-      # MAX_SITEMAP_FIXES_PER_RUN=20 the worst case is ~60 minutes; capped
-      # here (with a small buffer) so this step can't be killed mid-loop with
-      # an unreverted commit already live.
+      # Same verification shape as the fee-range step above: checks run
+      # concurrently via Promise.all, so the typical case is ~180s regardless
+      # of MAX_SITEMAP_FIXES_PER_RUN=20. 65 is a generous upper bound (with a
+      # small buffer) so this step can't be killed mid-loop with an
+      # unreverted commit already live.
       - name: Sitemap entry corrections
         if: always()
         timeout-minutes: 65

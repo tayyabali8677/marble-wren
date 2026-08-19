@@ -37,17 +37,84 @@ const OWN_HOST = "titansabroad.org";
 // Two sources agreeing is only meaningful if at least one of them is likely
 // to actually know the fact, not just repeat it. Generic blogs and SEO
 // content mills routinely scrape each other's tuition figures, so require
-// at least one agreeing source to be an academic (.edu / .ac.<cc>) or
-// government (.gov / .gov.<cc>) domain — the kind of domain an official
-// university or education-ministry page would use.
-const AUTHORITATIVE_HOST_RE = /\.(edu|gov|ac)(\.[a-z]{2,3})?$/i;
+// at least one agreeing source to be an academic (.edu / .edu.<cc> / .ac.<cc>)
+// or government (.gov) domain — the kind of domain an official university or
+// education-ministry page would use.
+//
+// This can't be a single loose regex: `.edu` and `.gov` are themselves real
+// TLDs (a hostname either ends in exactly `.edu`/`.gov`, or it doesn't — there
+// is no legitimate `.edu.com` or `.gov.com`), while `.ac` is only ever a
+// second-level label in front of a genuine two-letter country-code TLD (e.g.
+// `.ac.uk`, `.ac.in`). A naive `(\.[a-z]{2,3})?` suffix would happily match
+// spoofs like `fake.ac.com` or `fake.gov.com`, so the country-code piece is
+// checked against a real ISO 3166-1 alpha-2 list instead of "any 2-3 letters".
+const EDU_EXACT_RE = /\.edu$/i;
+const GOV_EXACT_RE = /\.gov$/i;
+const EDU_CC_RE = /\.edu\.([a-z]{2})$/i;
+const AC_CC_RE = /\.ac\.([a-z]{2})$/i;
+
+// ISO 3166-1 alpha-2 country codes, lowercase. Used to validate the country
+// component of .edu.<cc> and .ac.<cc> hosts so an arbitrary 2-letter string
+// (or a fake TLD that happens to be 2-3 letters) can't pass as "authoritative".
+//
+// "uk" is included alongside the strict ISO list even though the United
+// Kingdom's ISO 3166-1 alpha-2 code is technically "gb" — its country-code
+// TLD is the long-standing exception ".uk" (not ".gb"), and ".ac.uk" is a
+// real, common academic domain suffix (e.g. soton.ac.uk) that would otherwise
+// be wrongly rejected.
+const ISO_3166_ALPHA2 = new Set([
+  "ad", "ae", "af", "ag", "ai", "al", "am", "ao", "aq", "ar", "as", "at", "au", "aw", "ax", "az",
+  "ba", "bb", "bd", "be", "bf", "bg", "bh", "bi", "bj", "bl", "bm", "bn", "bo", "bq", "br", "bs",
+  "bt", "bv", "bw", "by", "bz",
+  "ca", "cc", "cd", "cf", "cg", "ch", "ci", "ck", "cl", "cm", "cn", "co", "cr", "cu", "cv", "cw",
+  "cx", "cy", "cz",
+  "de", "dj", "dk", "dm", "do", "dz",
+  "ec", "ee", "eg", "eh", "er", "es", "et",
+  "fi", "fj", "fk", "fm", "fo", "fr",
+  "ga", "gb", "gd", "ge", "gf", "gg", "gh", "gi", "gl", "gm", "gn", "gp", "gq", "gr", "gs", "gt",
+  "gu", "gw", "gy",
+  "hk", "hm", "hn", "hr", "ht", "hu",
+  "id", "ie", "il", "im", "in", "io", "iq", "ir", "is", "it",
+  "je", "jm", "jo", "jp",
+  "ke", "kg", "kh", "ki", "km", "kn", "kp", "kr", "kw", "ky", "kz",
+  "la", "lb", "lc", "li", "lk", "lr", "ls", "lt", "lu", "lv", "ly",
+  "ma", "mc", "md", "me", "mf", "mg", "mh", "mk", "ml", "mm", "mn", "mo", "mp", "mq", "mr", "ms",
+  "mt", "mu", "mv", "mw", "mx", "my", "mz",
+  "na", "nc", "ne", "nf", "ng", "ni", "nl", "no", "np", "nr", "nu", "nz",
+  "om",
+  "pa", "pe", "pf", "pg", "ph", "pk", "pl", "pm", "pn", "pr", "ps", "pt", "pw", "py",
+  "qa",
+  "re", "ro", "rs", "ru", "rw",
+  "sa", "sb", "sc", "sd", "se", "sg", "sh", "si", "sj", "sk", "sl", "sm", "sn", "so", "sr", "ss",
+  "st", "sv", "sx", "sy", "sz",
+  "tc", "td", "tf", "tg", "th", "tj", "tk", "tl", "tm", "tn", "to", "tr", "tt", "tv", "tw", "tz",
+  "ua", "ug", "uk", "um", "us", "uy", "uz",
+  "va", "vc", "ve", "vg", "vi", "vn", "vu",
+  "wf", "ws",
+  "ye", "yt",
+  "za", "zm", "zw",
+]);
 
 function isOwnHost(hostname: string): boolean {
   return hostname === OWN_HOST || hostname.endsWith(`.${OWN_HOST}`);
 }
 
+function isRealCountryCode(cc: string): boolean {
+  return ISO_3166_ALPHA2.has(cc.toLowerCase());
+}
+
 function isAuthoritativeHost(hostname: string): boolean {
-  return AUTHORITATIVE_HOST_RE.test(hostname);
+  const host = hostname.toLowerCase();
+
+  if (EDU_EXACT_RE.test(host) || GOV_EXACT_RE.test(host)) return true;
+
+  const eduCcMatch = host.match(EDU_CC_RE);
+  if (eduCcMatch && isRealCountryCode(eduCcMatch[1])) return true;
+
+  const acCcMatch = host.match(AC_CC_RE);
+  if (acCcMatch && isRealCountryCode(acCcMatch[1])) return true;
+
+  return false;
 }
 
 const COUNTRY_FILES: Record<string, string> = {
