@@ -487,6 +487,7 @@ Conferences & events
 Careers
 Blog
 About
+Search
 People
 Our researchers drive advancements in computer science through both fundamental and applied research.
 Our researchers drive advancements in computer science through both fundamental and applied research.
@@ -510,25 +511,25 @@ Data Management
 Data Mining and Modeling
 283
 Distributed Systems and Parallel Computing
-272
+271
 Economics and Electronic Commerce
 79
 Education Innovation
 34
 General Science
-151
+152
 Hardware and Architecture
-127
+126
 Health & Bioscience
-114
+115
 Human-Computer Interaction and Visualization
 285
 Information Retrieval and the Web
 183
 Machine Intelligence
-1003
+1004
 Machine Learning
-193
+194
 Machine Perception
 423
 Machine Translation
@@ -552,7 +553,7 @@ Security, Privacy and Abuse Prevention
 Software Engineering
 262
 Software Systems
-216
+215
 Speech Processing
 156
 1 - 30 of 2198 researchers
@@ -586,24 +587,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
-Anmol Agarwal
-Natural Language Processing
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
+Anmol Agarwal
+Natural Language Processing
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -612,19 +613,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
+Shreya Agrawal
+General Science
+Machine Intelligence
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
-Machine Intelligence
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -653,17 +654,17 @@ Distributed Systems and Parallel Computing
 Mustaq Ahmed
 Algorithms and Theory
 Networking
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
 Zafarali Ahmed
 Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
++2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
 +2 more
 1
 2
