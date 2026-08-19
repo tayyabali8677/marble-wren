@@ -117,6 +117,9 @@ async function main() {
   const serp = readReport(`serp-tracker-${date}.md`);
   const backlinks = readReport(`backlink-monitor-${date}.md`);
   const sitemapRobots = readReport(`sitemap-robots-audit-${date}.md`);
+  const mechanicalFixes = readReport(`mechanical-fixes-${date}.md`);
+  const feeFixes = readReport(`fee-fixes-${date}.md`);
+  const sitemapFixes = readReport(`sitemap-fixes-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
     internalLinks, striking, duplicates, factDrift, decay, titleMeta, a11y, mismatch, eeat, canonical,
@@ -134,6 +137,20 @@ async function main() {
       title: "Published overnight",
       body: published,
       needsDecision: published.includes("held back"),
+    });
+  }
+
+  const autoPushedParts = [
+    section(mechanicalFixes, "Auto-Published"),
+    section(feeFixes, "Auto-Published"),
+    section(sitemapFixes, "Auto-Published"),
+  ].filter((s): s is string => !!s && !s.includes("None this run."));
+
+  if (autoPushedParts.length > 0) {
+    sections.push({
+      title: "Auto-pushed overnight",
+      body: clamp(autoPushedParts.join("\n\n"), 18),
+      needsDecision: false,
     });
   }
 
