@@ -38,4 +38,23 @@ describe("findObjectLiteral", () => {
     const result = findObjectLiteral(src, 'slug: "x"')!;
     expect(result.text).toBe('{ slug: "x", note: "uses a { brace } inline" }');
   });
+
+  it("does not get confused by a stray brace inside a line comment (forward scan)", () => {
+    const src = `[{\n slug: "v",\n // legacy note: uses a stray }\n val: 1,\n },\n { slug: "next" },\n]`;
+    const result = findObjectLiteral(src, 'slug: "v"')!;
+    expect(result).not.toBeNull();
+    expect(result.text).toBe('{\n slug: "v",\n // legacy note: uses a stray }\n val: 1,\n }');
+  });
+
+  it("does not get confused by a stray brace inside a string before the anchor (backward scan)", () => {
+    const src = `[{ note: "closing brace } stray", slug: "target-one" }, { slug: "other" }]`;
+    const result = findObjectLiteral(src, 'slug: "target-one"');
+    expect(result).not.toBeNull();
+    expect(result!.text).toBe('{ note: "closing brace } stray", slug: "target-one" }');
+  });
+
+  it("returns null when the anchor is ambiguous (occurs more than once)", () => {
+    const src = `[{ slug: "dup", a: 1 }, { slug: "dup", a: 2 }]`;
+    expect(findObjectLiteral(src, 'slug: "dup"')).toBeNull();
+  });
 });
