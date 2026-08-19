@@ -234,14 +234,14 @@ Nicht zum Nulltarif , 04.09.2026
 : Diskussion/Vortrag
 04.09.2026 18:00 Uhr Berlin
 Finanzbedarfe einer umfassenden Verkehrswende und Ansätze der Gegenfinanzierung
+Traditionen des Antimilitarismus in ihrer Aktualität , 17.09 bis 18.09.2026
+: Tagung/Konferenz
+17.09 - 18.09.&#8203;2026 Berlin
+Marc-Bloch-Forum
 feminist futures II: Feministisch vergesellschaften , 25.09 bis 27.09.2026
 : Tagung/Konferenz
 25.09 - 27.09.&#8203;2026 Bochum
 Her mit dem ganzen Leben!
-Reproduktive Gerechtigkeit im autoritären Kapitalismus? , 11.12.2026
-: Tagung/Konferenz
-11.12.2026 15:45 Uhr Berlin
-Pronatalismus, Big Tech und Politiken um assistierte Fortpflanzung
 Sozialstaat: Die Kettensäge ist angeworfen
 : Analyse | 01.06.2026
 Die Bundesregierung plant den größten Angriff auf den Sozialstaat seit der Agenda 2010 und fährt&hellip;
@@ -999,7 +999,24 @@ Bewerben können Sie sich für ein Studienstipendium für inländische Studieren
 Bitte informieren Sie sich vorab auf unseren Seiten über die Fördervoraussetzungen für ein Studienstipendium bzw. Promotionsstipendium .
 Viel Erfolg bei der Bewerbung
 Das Studienwerk
-Hier finden Sie ab 20. August 2026 den Link zur neuen Bewerbungsrunde.
+Das Portal schließt am 1. Oktober 2026 um 23:59 Uhr. Bitte schließen Sie Ihre Bewerbung rechtzeitig ab, damit die Übertragung der Bewerbungsunterlagen erfolgreich in unser System erfolgen kann.
+Wenn Sie Ihre Bewerbung abgeschickt haben, können Sie nicht mehr auf das Portal zugreifen. Die Kommunikation erfolgt dann per E-Mail.
+Bitte beachten Sie, dass Sie sich für das richtige Stipendium bewerben. Warten Sie bitte mit dem Absenden der Bewerbung, bis Sie alle nötigen Dokumente hochgeladen haben, die Sie einreichen müssen. Es können keine Unterlagen nachgereicht werden!
+Hier finden Sie den Link zu unserem Bewerbungsportal.
+Zum Bewerbungsportal
+Sollte Ihre Universität nicht auswählbar sein, tragen Sie bitte „KEINE UNI/FH“ ein.
+Sollte Ihr Fach nicht auswählbar sein, tragen Sie bitte „andere Fachrichtung“ ein.
+Zwei-Faktor-Authentifizierung für die Anmeldung im Portal nötig
+Zweistufige Überprüfung (2FA) im Bewerbungsportal
+Um Ihr Benutzerkonto und Ihre Daten bestmöglich zu schützen, nutzen wir ab dem 19. August 2026 die Zwei-Faktor-Authentisierung (2FA). Die nachfolgenden Informationen erhalten Sie bei erstmaliger Anmeldung ab dem 19. August 2026 im Bewerbungsportal.
+Neben Ihrem Passwort benötigen Sie künftig einen zeitlich begrenzten Sicherheitscode von Ihrem Smartphone, um sich anzumelden.
+So funktioniert die Einrichtung:
+App installieren: Laden Sie eine Authenticator-App auf Ihr Smartphone herunter (falls noch nicht vorhanden).
+Wir empfehlen Authy, Microsoft Authenticator oder Google Authenticator. Diese findest du kostenlos im App Store (iOS) oder Google Play Store (Android).
+QR-Code scannen: Öffnen Sie die App auf Ihrem Smartphone und wählen „Konto hinzufügen“ oder das „+“-Symbol. Wählen Sie „Anderes Konto (Google, Facebook etc.)“ oder „QR-Code scannen“. Halten Sie die Kamera des Handys auf den angezeigten QR-Code.
+Konto verknüpfen: Sobald der QR-Code erkannt wurde, erscheint in der App ein neues Konto. Dort wird nun alle 30 Sekunden ein neuer 6-stelliger Zahlencode angezeigt.
+Freischalten: Geben Sie den aktuell in der App angezeigten Code in das untenstehende Feld ein und klicken auf „OK“, um die 2FA für Ihr Konto zu aktivieren.
+Anmeldungen: Bei allen zukünftigen Anmeldungen werden Sie nach Login/Passwort Eingaben nach einem 6-stelligen Zahlencode gefragt.
 Hier finden Sie immer Informationen zum aktuellen Stand des Bewerbungsverfahrens
 Bewerbungsschluss 01.10.2026
 wenn Sie Ihre Bewerbung vollständig ausgefüllt haben, erhalten Sie eine Bestätigung per E-Mail
