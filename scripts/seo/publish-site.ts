@@ -285,8 +285,8 @@ export async function publishToSite(
     writeFileSync(linkPath, LINK_HEADER + JSON.stringify(existingLinks, null, 2) + LINK_FOOTER, "utf-8");
   }
 
-  git(repo, ["config", "user.name", "seo-agent[bot]"]);
-  git(repo, ["config", "user.email", "seo-agent@users.noreply.github.com"]);
+  git(repo, ["config", "user.name", "tayyabali123"]);
+  git(repo, ["config", "user.email", "muhammadtayyabali868@gmail.com"]);
   git(repo, ["add", FAQ_FILE, LINK_FILE]);
 
   if (!git(repo, ["status", "--porcelain"]).trim()) {
