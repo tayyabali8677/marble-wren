@@ -25,6 +25,16 @@ const COUNTRY_FILES: Record<string, string> = {
   Azerbaijan: "app/mbbs-in-azerbaijan/page.tsx",
 };
 
+// Must match fact-drift.ts's COUNTRIES prefixes exactly, so a candidate is
+// only accepted when it was actually detected on the hub page this agent is
+// about to edit — not some other page that merely mentioned the country.
+const HUB_PATHS: Record<string, string> = {
+  China: "/mbbs-in-china/",
+  Russia: "/mbbs-in-russia/",
+  Georgia: "/mbbs-in-georgia/",
+  Azerbaijan: "/mbbs-in-azerbaijan/",
+};
+
 function readReport(name: string): string {
   const path = join("reports", `${name}-${TODAY}.md`);
   return existsSync(path) ? readFileSync(path, "utf-8") : "";
@@ -38,38 +48,58 @@ function section(report: string, heading: string): string {
   return next === -1 ? rest : rest.slice(0, next);
 }
 
-type FeeCandidate = { page: string; country: string; claimed: string; actually: string };
+type FeeCandidate = { page: string; country: string; claimed: string; actually: string; raw: string };
 
 function parseFeeCandidates(factDriftReport: string): FeeCandidate[] {
   const block = section(factDriftReport, "Fee Ranges Narrower Than Reality");
-  const rowRe = /\|\s*(\S+)\s*\|\s*(China|Russia|Georgia|Azerbaijan)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|/g;
+  const rowRe = /\|\s*(\S+)\s*\|\s*(China|Russia|Georgia|Azerbaijan)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*[^|]+?\s*\|\s*`([^`]+)`\s*\|/g;
   const out: FeeCandidate[] = [];
   let m: RegExpExecArray | null;
   while ((m = rowRe.exec(block))) {
-    out.push({ page: m[1], country: m[2], claimed: m[3].trim(), actually: m[4].trim() });
+    out.push({ page: m[1], country: m[2], claimed: m[3].trim(), actually: m[4].trim(), raw: m[5].trim() });
   }
   return out;
 }
 
-async function serperSearch(query: string, apiKey: string): Promise<string[]> {
-  const res = await fetch("https://google.serper.dev/search", {
-    method: "POST",
-    headers: { "X-API-KEY": apiKey, "Content-Type": "application/json" },
-    body: JSON.stringify({ q: query, num: 5 }),
-    signal: AbortSignal.timeout(20_000),
-  });
-  if (!res.ok) return [];
-  const data = (await res.json()) as any;
-  const organic = (data?.organic || []) as Array<{ snippet?: string }>;
-  return organic.map((o) => o.snippet || "").filter(Boolean);
+async function serperSearch(query: string, apiKey: string): Promise<Array<{ snippet: string; link: string }>> {
+  try {
+    const res = await fetch("https://google.serper.dev/search", {
+      method: "POST",
+      headers: { "X-API-KEY": apiKey, "Content-Type": "application/json" },
+      body: JSON.stringify({ q: query, num: 5 }),
+      signal: AbortSignal.timeout(20_000),
+    });
+    if (!res.ok) return [];
+    const data = (await res.json()) as any;
+    const organic = (data?.organic || []) as Array<{ snippet?: string; link?: string }>;
+    return organic
+      .filter((o) => o.snippet && o.link)
+      .map((o) => ({ snippet: o.snippet as string, link: o.link as string }));
+  } catch {
+    return [];
+  }
 }
 
 async function findAgreedRange(country: string): Promise<DollarRange | null> {
   const apiKey = process.env.SERPER_API_KEY;
   if (!apiKey) return null;
-  const snippets = await serperSearch(`MBBS in ${country} tuition fee per year USD official`, apiKey);
-  const ranges = snippets.map(parseDollarRange).filter((r): r is DollarRange => r !== null);
-  if (ranges.length < 2 || !dollarRangesAgree(ranges)) return null;
+  const results = await serperSearch(`MBBS in ${country} tuition fee per year USD official`, apiKey);
+  const withRanges = results
+    .map((r) => {
+      const range = parseDollarRange(r.snippet);
+      if (!range) return null;
+      let hostname: string;
+      try {
+        hostname = new URL(r.link).hostname;
+      } catch {
+        return null;
+      }
+      return { range, hostname };
+    })
+    .filter((r): r is { range: DollarRange; hostname: string } => r !== null);
+  const ranges = withRanges.map((r) => r.range);
+  const distinctHosts = new Set(withRanges.map((r) => r.hostname));
+  if (ranges.length < 2 || distinctHosts.size < 2 || !dollarRangesAgree(ranges)) return null;
   return ranges[0];
 }
 
@@ -99,6 +129,7 @@ async function main() {
   const checks: Array<{ path: string; expected: string }> = [];
   const heldBack: string[] = [];
   const budget = MAX_FEE_FIXES_PER_RUN;
+  const agreedByCountry = new Map<string, DollarRange | null>();
 
   for (const cand of candidates) {
     if (!withinCap(edits.length + 1, budget)) break;
@@ -107,7 +138,17 @@ async function main() {
       heldBack.push(`${cand.page}: no known hub-page file for ${cand.country}`);
       continue;
     }
-    const agreed = await findAgreedRange(cand.country);
+    if (cand.page !== HUB_PATHS[cand.country]) {
+      heldBack.push(`${cand.page}: drift was found on a non-hub page, not ${HUB_PATHS[cand.country]} — skipping to avoid editing the wrong file`);
+      continue;
+    }
+    let agreed: DollarRange | null;
+    if (agreedByCountry.has(cand.country)) {
+      agreed = agreedByCountry.get(cand.country)!;
+    } else {
+      agreed = await findAgreedRange(cand.country);
+      agreedByCountry.set(cand.country, agreed);
+    }
     if (!agreed) {
       heldBack.push(`${cand.page}: could not find 2 independent sources agreeing on a ${cand.country} fee range`);
       continue;
@@ -115,9 +156,9 @@ async function main() {
     const newValue = formatRange(agreed);
     edits.push({
       file,
-      find: `"${cand.claimed}"`,
-      replace: `"${newValue}"`,
-      description: `${cand.country} hub page fee range: ${cand.claimed} -> ${newValue}`,
+      find: cand.raw,
+      replace: newValue,
+      description: `${cand.country} hub page fee range: ${cand.raw} -> ${newValue}`,
     });
     checks.push({ path: cand.page, expected: newValue });
   }

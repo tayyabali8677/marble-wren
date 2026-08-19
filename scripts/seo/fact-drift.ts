@@ -55,7 +55,7 @@ const PROXIMITY = 200;
 // A dollar figure counts as an annual fee only when "year" is nearby, which
 // keeps one-off charges and six-year totals out of the range.
 const ANNUAL_FEE = /\$\s?(\d{1,3}(?:,\d{3})+|\d{4,6})(?=[^$]{0,40}?(?:per year|a year|\/\s?yr|annual))/gi;
-const RANGE_CLAIM = /\$\s?(\d{1,3}(?:,\d{3})+|\d{4,6})\s*(?:-|to|–)\s*\$\s?(\d{1,3}(?:,\d{3})+|\d{4,6})\s*(?:\/\s?yr|per year|a year|annual)/gi;
+const RANGE_CLAIM = /(\$\s?(\d{1,3}(?:,\d{3})+|\d{4,6})\s*(?:-|to|–)\s*\$\s?(\d{1,3}(?:,\d{3})+|\d{4,6}))\s*(?:\/\s?yr|per year|a year|annual)/gi;
 
 const money = (n: number) => `$${n.toLocaleString("en-US")}`;
 const num = (s: string) => parseInt(s.replace(/,/g, ""), 10);
@@ -113,6 +113,7 @@ async function main() {
     claimed: [number, number];
     observed: [number, number];
     sampled: number;
+    raw: string;
   };
   const rangeFindings: RangeFinding[] = [];
 
@@ -135,13 +136,13 @@ async function main() {
         const named = COUNTRIES.filter(([c]) => nearby.includes(c)).map(([c]) => c);
         if (named.length !== 1 || named[0] !== country) continue;
 
-        const claimed: [number, number] = [num(m[1]), num(m[2])];
+        const claimed: [number, number] = [num(m[2]), num(m[3])];
         // Only flag a claim that is narrower than reality. A range wider than
         // what we publish is cautious, not wrong.
         const understatesTop = claimed[1] < observed[1] * 0.9;
         const overstatesFloor = claimed[0] > observed[0] * 1.1;
         if (understatesTop || overstatesFloor) {
-          rangeFindings.push({ country, path: toPath(page.url), claimed, observed, sampled: fees.length });
+          rangeFindings.push({ country, path: toPath(page.url), claimed, observed, sampled: fees.length, raw: m[1] });
         }
       }
     }
@@ -191,10 +192,10 @@ async function main() {
     report += `## Fee Ranges Narrower Than Reality (${rangeFindings.length})\n\n`;
     report += `A summary range that does not cover the fees on the pages beneath it. Someone `;
     report += `budgeting from the summary will be short.\n\n`;
-    report += `| Page | Country | Claimed | Actually spans | Fees sampled |\n|---|---|---|---|---|\n`;
+    report += `| Page | Country | Claimed | Actually spans | Fees sampled | Raw |\n|---|---|---|---|---|---|\n`;
     for (const f of rangeFindings.slice(0, 20)) {
       report += `| ${f.path} | ${f.country} | ${money(f.claimed[0])} to ${money(f.claimed[1])} | `;
-      report += `${money(f.observed[0])} to ${money(f.observed[1])} | ${f.sampled} |\n`;
+      report += `${money(f.observed[0])} to ${money(f.observed[1])} | ${f.sampled} | \`${f.raw}\` |\n`;
     }
     report += `\n`;
   }
