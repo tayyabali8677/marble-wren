@@ -12,7 +12,16 @@ import { join } from "node:path";
 import { writeReport } from "./crawl";
 import { withinCap } from "./lib/guardrails";
 import { publishDataFileEdits, type DataFileEdit } from "./lib/publish-data-file";
-import { verifyAndMaybeRollback } from "./lib/verify-and-rollback";
+import { verifyAndMaybeRollback, type VerifyOutcome } from "./lib/verify-and-rollback";
+
+function formatVerifyLine(o: VerifyOutcome): string {
+  if (o.verified) return `- ${o.path}: verified live`;
+  if (o.revertError) {
+    return `- ${o.path}: PUSHED BUT VERIFICATION FAILED AND AUTO-REVERT ALSO FAILED (${o.revertError}) — MANUAL REVIEW NEEDED`;
+  }
+  if (o.reverted) return `- ${o.path}: reverted (verification failed)`;
+  return `- ${o.path}: not verified`;
+}
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_SITEMAP_FIXES_PER_RUN = Number(process.env.MAX_SITEMAP_FIXES_PER_RUN || 20);
@@ -100,18 +109,36 @@ async function main() {
       replace: newEntry,
       description: `sitemap: ${cand.listed} -> ${cand.landsOn}`,
     });
+    // Every check here targets the same /sitemap.xml path (just a different
+    // expected substring), so downstream correlation must go by array index,
+    // not by path — a path-keyed map would collide across candidates.
     checks.push({ path: "/sitemap.xml", expected: `${BASE}${cand.landsOn}` });
   }
 
   const result = await publishDataFileEdits(edits, [SITEMAP_FILE], `seo: sitemap entry corrections (${TODAY})`);
 
   let verifyLines: string[] = [];
+  const outcomeByEdit = new Map<DataFileEdit, VerifyOutcome>();
   if (result.commitSha && result.repoDir && checks.length > 0) {
     const outcomes = await verifyAndMaybeRollback(checks, result.repoDir, result.commitSha);
-    verifyLines = outcomes.map((o) => `- ${o.path}: ${o.verified ? "verified live" : o.reverted ? "reverted (verification failed)" : "not verified"}`);
+    verifyLines = outcomes.map(formatVerifyLine);
+    // checks (and therefore outcomes) were built in the same order as edits.
+    edits.forEach((e, i) => outcomeByEdit.set(e, outcomes[i]));
   }
 
-  const publishedLines = result.applied.map((e) => `- ${e.description}`);
+  // An edit that was committed still shows up here even if it failed
+  // verification and got reverted (or the revert itself failed) — annotate it
+  // so "Auto-Published" alone never reads as a clean success for those.
+  const publishedLines = result.applied.map((e) => {
+    const outcome = outcomeByEdit.get(e);
+    if (!outcome || outcome.verified) return `- ${e.description}`;
+    const marker = outcome.revertError
+      ? " [PUSHED BUT ROLLBACK FAILED — STILL LIVE, NEEDS MANUAL REVIEW]"
+      : outcome.reverted
+        ? " [REVERTED]"
+        : " [NOT VERIFIED]";
+    return `- ${e.description}${marker}`;
+  });
   const heldLines = [...heldBack, ...result.skipped.map((s) => `${s.edit.description}: ${s.reason}`)];
 
   const body = `# Sitemap Fix Agent

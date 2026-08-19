@@ -164,6 +164,16 @@ async function main() {
   const checks: Array<{ path: string; expected: string }> = [];
   const heldBack: string[] = [];
   const budget = MAX_MECHANICAL_FIXES_PER_RUN;
+  // edits and checks are pushed in lockstep below — one checks entry per
+  // edit, same order — so edits[i] always corresponds to checks[i] (and,
+  // once verified, to outcomes[i]). That correlation is used later to flag a
+  // "published" line whose push didn't actually stay live. (Two edits can
+  // share the same page path — e.g. a scholarship's title and description —
+  // so correlating by index rather than by path avoids conflating them.)
+  function pushEdit(edit: DataFileEdit, check: { path: string; expected: string }) {
+    edits.push(edit);
+    checks.push(check);
+  }
 
   for (const cand of scholarshipCandidates) {
     if (!withinCap(edits.length + 1, budget)) break;
@@ -194,13 +204,15 @@ async function main() {
         heldBack.push(`${cand.slug}: seoTitle held back, run is at its edit cap`);
         break;
       } else {
-        edits.push({
-          file: SCHOLARSHIPS_FILE,
-          find: `seoTitle: "${currentTitle}"`,
-          replace: `seoTitle: "${draft.title}"`,
-          description: `scholarship ${cand.slug}: seoTitle`,
-        });
-        checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.title });
+        pushEdit(
+          {
+            file: SCHOLARSHIPS_FILE,
+            find: `seoTitle: "${currentTitle}"`,
+            replace: `seoTitle: "${draft.title}"`,
+            description: `scholarship ${cand.slug}: seoTitle`,
+          },
+          { path: `/scholarships/${cand.slug}`, expected: draft.title }
+        );
       }
     }
     if (cand.missingDescription && draft.description && descMatch) {
@@ -210,13 +222,15 @@ async function main() {
         heldBack.push(`${cand.slug}: seoDescription held back, run is at its edit cap`);
         break;
       } else {
-        edits.push({
-          file: SCHOLARSHIPS_FILE,
-          find: `seoDescription: "${currentDescription}"`,
-          replace: `seoDescription: "${draft.description}"`,
-          description: `scholarship ${cand.slug}: seoDescription`,
-        });
-        checks.push({ path: `/scholarships/${cand.slug}`, expected: draft.description });
+        pushEdit(
+          {
+            file: SCHOLARSHIPS_FILE,
+            find: `seoDescription: "${currentDescription}"`,
+            replace: `seoDescription: "${draft.description}"`,
+            description: `scholarship ${cand.slug}: seoDescription`,
+          },
+          { path: `/scholarships/${cand.slug}`, expected: draft.description }
+        );
       }
     }
   }
@@ -247,24 +261,41 @@ async function main() {
       heldBack.push(`${cand.imageSrc}: Gemini draft for alt text contained an unsafe character, held back`);
       continue;
     }
-    edits.push({
-      file: cand.countryFile,
-      find: `alt: "${altMatch[1]}"`,
-      replace: `alt: "${draftAlt}"`,
-      description: `university photo ${cand.imageSrc}: alt text`,
-    });
-    checks.push({ path: cand.path, expected: draftAlt });
+    pushEdit(
+      {
+        file: cand.countryFile,
+        find: `alt: "${altMatch[1]}"`,
+        replace: `alt: "${draftAlt}"`,
+        description: `university photo ${cand.imageSrc}: alt text`,
+      },
+      { path: cand.path, expected: draftAlt }
+    );
   }
 
   const result = await publishDataFileEdits(edits, [SCHOLARSHIPS_FILE, ...Object.values(UNIVERSITY_FILES)], `seo: mechanical fixes (${TODAY})`);
 
   let verifyLines: string[] = [];
+  const outcomeByEdit = new Map<DataFileEdit, VerifyOutcome>();
   if (result.commitSha && result.repoDir && checks.length > 0) {
     const outcomes = await verifyAndMaybeRollback(checks, result.repoDir, result.commitSha);
-    verifyLines = outcomes.map((o) => `- ${o.path}: ${o.verified ? "verified live" : o.reverted ? "reverted (verification failed)" : "not verified"}`);
+    verifyLines = outcomes.map(formatVerifyLine);
+    // checks (and therefore outcomes) were built in the same order as edits.
+    edits.forEach((e, i) => outcomeByEdit.set(e, outcomes[i]));
   }
 
-  const publishedLines = result.applied.map((e) => `- ${e.description}`);
+  // An edit that was committed still shows up here even if it failed
+  // verification and got reverted (or the revert itself failed) — annotate it
+  // so "Auto-Published" alone never reads as a clean success for those.
+  const publishedLines = result.applied.map((e) => {
+    const outcome = outcomeByEdit.get(e);
+    if (!outcome || outcome.verified) return `- ${e.description}`;
+    const marker = outcome.revertError
+      ? " [PUSHED BUT ROLLBACK FAILED — STILL LIVE, NEEDS MANUAL REVIEW]"
+      : outcome.reverted
+        ? " [REVERTED]"
+        : " [NOT VERIFIED]";
+    return `- ${e.description}${marker}`;
+  });
   const heldLines = [...heldBack, ...result.skipped.map((s) => `${s.edit.description}: ${s.reason}`)];
 
   const body = `# Mechanical Fix Agent

@@ -12,7 +12,16 @@ import { join } from "node:path";
 import { writeReport } from "./crawl";
 import { withinCap, parseDollarRange, dollarRangesAgree, type DollarRange } from "./lib/guardrails";
 import { publishDataFileEdits, applyExactReplace, type DataFileEdit } from "./lib/publish-data-file";
-import { verifyAndMaybeRollback } from "./lib/verify-and-rollback";
+import { verifyAndMaybeRollback, type VerifyOutcome } from "./lib/verify-and-rollback";
+
+function formatVerifyLine(o: VerifyOutcome): string {
+  if (o.verified) return `- ${o.path}: verified live`;
+  if (o.revertError) {
+    return `- ${o.path}: PUSHED BUT VERIFICATION FAILED AND AUTO-REVERT ALSO FAILED (${o.revertError}) — MANUAL REVIEW NEEDED`;
+  }
+  if (o.reverted) return `- ${o.path}: reverted (verification failed)`;
+  return `- ${o.path}: not verified`;
+}
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const MAX_FEE_FIXES_PER_RUN = Number(process.env.MAX_FEE_FIXES_PER_RUN || 10);
@@ -187,24 +196,40 @@ async function main() {
       continue;
     }
     const newValue = formatRange(agreed);
-    edits.push({
+    const edit: DataFileEdit = {
       file,
       find: cand.raw,
       replace: newValue,
       description: `${cand.country} hub page fee range: ${cand.raw} -> ${newValue}`,
-    });
+    };
+    edits.push(edit);
     checks.push({ path: cand.page, expected: newValue });
   }
 
   const result = await publishDataFileEdits(edits, Object.values(COUNTRY_FILES), `seo: fee range corrections (${TODAY})`);
 
   let verifyLines: string[] = [];
+  const outcomeByEdit = new Map<DataFileEdit, VerifyOutcome>();
   if (result.commitSha && result.repoDir && checks.length > 0) {
     const outcomes = await verifyAndMaybeRollback(checks, result.repoDir, result.commitSha);
-    verifyLines = outcomes.map((o) => `- ${o.path}: ${o.verified ? "verified live" : o.reverted ? "reverted (verification failed)" : "not verified"}`);
+    verifyLines = outcomes.map(formatVerifyLine);
+    // checks (and therefore outcomes) were built in the same order as edits.
+    edits.forEach((e, i) => outcomeByEdit.set(e, outcomes[i]));
   }
 
-  const publishedLines = result.applied.map((e) => `- ${e.description}`);
+  // An edit that was committed still shows up here even if it failed
+  // verification and got reverted (or the revert itself failed) — annotate it
+  // so "Auto-Published" alone never reads as a clean success for those.
+  const publishedLines = result.applied.map((e) => {
+    const outcome = outcomeByEdit.get(e);
+    if (!outcome || outcome.verified) return `- ${e.description}`;
+    const marker = outcome.revertError
+      ? " [PUSHED BUT ROLLBACK FAILED — STILL LIVE, NEEDS MANUAL REVIEW]"
+      : outcome.reverted
+        ? " [REVERTED]"
+        : " [NOT VERIFIED]";
+    return `- ${e.description}${marker}`;
+  });
   const heldLines = [...heldBack, ...result.skipped.map((s) => `${s.edit.description}: ${s.reason}`)];
 
   const body = `# Fee Verify Agent

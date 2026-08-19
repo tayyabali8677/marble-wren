@@ -17,7 +17,7 @@ import { join } from "path";
 const REPO = process.env.GITHUB_REPOSITORY || "tayyabali123/marble-wren";
 const OWNER = REPO.split("/")[0];
 
-type Section = { title: string; body: string; needsDecision: boolean };
+type Section = { title: string; body: string; needsDecision: boolean; maxLines?: number };
 
 function readReport(name: string): string | null {
   const path = join(process.cwd(), "reports", name);
@@ -146,19 +146,46 @@ async function main() {
     });
   }
 
-  const autoPushedParts = [
-    { label: "Mechanical fixes", text: section(mechanicalFixes, "Auto-Published") },
-    { label: "Fee range corrections", text: section(feeFixes, "Auto-Published") },
-    { label: "Sitemap corrections", text: section(sitemapFixes, "Auto-Published") },
-  ]
-    .filter((p): p is { label: string; text: string } => !!p.text && !p.text.includes("None this run."))
-    .map((p) => `**${p.label}:**\n${stripHeading(p.text)}`);
+  // Verification is read alongside Auto-Published (not just Auto-Published
+  // alone) so a push that failed verification and got reverted — or worse,
+  // failed verification and failed to revert too — is visible in the digest
+  // itself, rather than only inside the raw report file. A reader who only
+  // sees "Auto-Published" has no way to tell a clean push from one that was
+  // rolled back or is still live with a known-bad value.
+  const autoPushedSources = [
+    { label: "Mechanical fixes", report: mechanicalFixes },
+    { label: "Fee range corrections", report: feeFixes },
+    { label: "Sitemap corrections", report: sitemapFixes },
+  ];
+
+  const autoPushedParts = autoPushedSources
+    .map((s) => ({
+      label: s.label,
+      published: section(s.report, "Auto-Published"),
+      verification: section(s.report, "Verification"),
+    }))
+    .filter((p) => !!p.published && !p.published.includes("None this run."))
+    .map((p) => {
+      // Each source's own budget stays small so three sources together don't
+      // blow past the section-level cap applied below.
+      let text = `**${p.label}:**\n${clamp(stripHeading(p.published!), 10)}`;
+      if (p.verification) {
+        text += `\n*Verification:*\n${clamp(stripHeading(p.verification), 8)}`;
+      }
+      return text;
+    });
 
   if (autoPushedParts.length > 0) {
     sections.push({
       title: "Auto-pushed overnight",
-      body: clamp(autoPushedParts.join("\n\n"), 18),
-      needsDecision: false,
+      body: autoPushedParts.join("\n\n"),
+      needsDecision: autoPushedSources.some(
+        (s) => !!section(s.report, "Verification")?.includes("MANUAL REVIEW NEEDED")
+      ),
+      // Larger than the default 18 since this section now carries both the
+      // Auto-Published and Verification content per source, but still capped
+      // so a bad night doesn't balloon the email.
+      maxLines: 42,
     });
   }
 
@@ -408,7 +435,7 @@ async function main() {
     : `**${decisions} ${decisions === 1 ? "item needs" : "items need"} your decision.**\n\n`;
 
   for (const s of sections) {
-    body += `${clamp(s.body)}\n\n`;
+    body += `${clamp(s.body, s.maxLines ?? 18)}\n\n`;
   }
 
   body += `---\n\nFull reports: [\`reports/\`](https://github.com/${REPO}/tree/master/reports)\n`;
