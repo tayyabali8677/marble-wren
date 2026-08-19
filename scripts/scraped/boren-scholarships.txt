@@ -272,7 +272,7 @@ Hiring Officials
 Search
 Selecting an Eligible Study Program
 Apply
-The Boren Awards fund the intensive study of language and culture abroad by U.S. undergraduate or graduate students. All eligible applicants have the option to either apply for a Regional Flagship Language Initiative or select/design their own study program.
+The Boren Awards fund the intensive study of language abroad by U.S. undergraduate or graduate students. All eligible applicants have the option to either apply for a Regional Flagship Language Initiative or select/design their own study program.
 Apply for a Regional Flagship Language Initiative
 Boren Awards Regional Flagship Language Initiative offers undergraduate Boren Scholars and graduate Boren Fellows carefully-selected, credit-bearing language courses during the summer (domestic) and fall (overseas), with the option to continue overseas study into the spring.
 The African Flagship Languages Initiative (AFLI) for the study of French , Swahili , Akan/Twi , Wolof , or Zulu
@@ -299,7 +299,7 @@ Planning to study in an overseas destination of which they are not a citizen
 Matriculated for the duration of their Boren Awards-funded program in an undergraduate or graduate degree program located within the United States and accredited by a body recognized by the U.S. Department of Education
 (For ROTC cadets and midshipmen and members of the military Reserves or National Guard) In inactive, non-drilling status for the duration of their Boren Awards-funded program
 In addition to these basic eligibility criteria, the Boren Awards give preference to programs based on their duration , focus on intensive study of a preferred language in a preferred overseas destination , the applicant’s field of study , and to applicants with longer-term interest in a federal career .
-Boren Fellows have additional guidelines for self-designed research, internship, and study programs. They are also eligible to receive funding for in-person domestic summer language programs immediately prior to their overseas study.
+Boren Fellows have additional guidelines for self-designed research, internship, and study programs.
 A specific subset of Boren Scholarships applicants already enrolled in The Language Flagship may receive funding for their Capstone year abroad. They use the same application as other applicants.
 Matriculation & Academic Credit
 Boren Scholars and Fellows must remain matriculated in a degree program at a U.S. post-secondary institution for the duration of their Boren Awards-funded program . To prove matriculation, grantees will be required to submit a signed matriculation form or may also submit a letter from a dean or registrar at their home institution stating that their graduation date will occur after the completion of their Boren Scholarship or Fellowship.
@@ -312,7 +312,7 @@ Direct enrollment in a foreign university or independent language school
 In addition to reviewing study abroad opportunities available through their home institutions, applicants may consult search engines for international study programs such as IIEPassport.org , GoAbroad.com , and GoOverseas.com . (Note that some information on these websites may be out of date. Applicants should confirm program details and costs directly with their providers.)
 Applicants are strongly encouraged to contact their Boren Awards Campus Representative as early as possible in the application process to discuss how to ensure compatibility between their proposed Boren Awards-funded program and their institution’s matriculation requirements. Campus Representatives and administrators with questions about Boren Awards matriculation requirements are encouraged to contact us at boren@iieus.org or 1-800-618-NSEP (6737).
 Duration & Maximum Awards
-The Boren Awards promote long-term linguistic and cultural immersion. Proposed programs of two or more semesters are strongly encouraged. Preference will be given to Boren Awards applicants proposing overseas programs of at least 25 weeks’ duration. The minimum duration of an eligible program is 12 weeks for most Boren Awards applicants. (A special exception to this rule exists for undergraduate STEM majors, who may propose summer programs of 8 weeks or longer -- see below ).
+The Boren Awards promote long-term linguistic immersion and regional experience. Proposed programs of two or more semesters are strongly encouraged. Preference will be given to Boren Awards applicants proposing overseas programs of at least 25 weeks’ duration. The minimum duration of an eligible program is 12 weeks for most Boren Awards applicants. (A special exception to this rule exists for undergraduate STEM majors, who may propose summer programs of 8 weeks or longer -- see below ).
 Boren Awards funding in the 2027 application cycle may be applied to programs starting as early as June, 2027 or as late as March 1, 2028. ( Note: Funding for program expenses incurred after May 31, 2028 is contingent upon availability and cannot be guaranteed at the time of award. Confirmation of availability of funds for study beyond May 31, 2028 will be communicated to recipients in Spring 2028.)
 Boren Awards funding must cover a continuous period of overseas study. Short mid-program trips out of the overseas destination of study are allowed but will need to be pre-approved by IIE. Multiple, sequential programs in the same language and overseas destination are eligible for Boren Awards funding and may be necessary to reach the desired award threshold.
 Study tours of several overseas countries, such as a semester at sea, are not eligible for Boren Awards funding.
@@ -323,7 +323,6 @@ Boren Scholarships Award Amounts:
 Boren Fellowships Award Amounts:
 12-24 weeks: $12,500
 25-52 weeks: $25,000
-Boren Fellows have the option to apply for a domestic summer intensive language courses taken in-person. See further guidance below .
 The total award amounts are based on the duration of overseas study as listed in the application and approved by Boren. However, financial aid from other sources applied to the overseas study program must be reported and may affect the total Boren Awards grant. Student loans will not affect the grant. See the Boren Scholarships application instructions and Boren Fellowships application instructions for additional guidance.
 Budget Guidelines
 Boren Scholarships and Fellowship funding is designed to cover the majority of an awardee’s overseas expenses. The award is not all-inclusive. Applicants and awardees are encouraged to understand the budget guidelines click here .
@@ -334,7 +333,7 @@ Boren Fellows must have a serious and significant language component in their ov
 The Boren Awards do not have a minimum proficiency requirement for most languages ǂ . We recognize that courses in many of the preferred languages listed below are not available at most colleges and universities. There is also no maximum proficiency limit for the Boren Awards; many grantees begin their Boren Awards-funded study at an already-advanced level. Whatever their starting proficiency level, applicants should select language programs appropriate to their level and set realistic goals for improving their proficiency.
 Languages should be studied in a preferred overseas destination where they are spoken by a significant portion of the population.
 In very few cases, Boren Awards may be granted to applicants studying non-preferred languages indigenous to preferred overseas destinations. Applicants seeking such awards must make an especially strong argument for the value of their language study to U.S. national security and public service in their application essays.
-Applicants should propose an overseas program and plan that makes the most sense for them in order to reach their language and culture learning goals. Applicants may view a list of recent language programs that Boren recipients have studied through. This list reflects on recent award years and is not inclusive; rather, it is provided as a starting point and resource for applicants.
+Applicants should propose an overseas program and plan that makes the most sense for them in order to reach their language learning goals. Applicants may view a list of recent language programs that Boren recipients have studied through. This list reflects on recent award years and is not inclusive; rather, it is provided as a starting point and resource for applicants.
 Boren Awards Preferred Languages
 · African Languages**
 · Akan/Twi - AFLI *
@@ -680,7 +679,7 @@ Boren and IIE reserve the right to audit award recipients to ensure Boren fundin
 If you have questions about your budget, please reach out to your Boren advisor. Requests for an increase to awards, up to the maximums listed above, are contingent upon availability of funds and approval of requested costs.
 FAQ
 What if I have some extra funding in my budget?
-Consider supplementing your overseas program with a tutor or language partner! This offers an opportunity to learn specialized vocabulary, practice speaking, and can provide additional opportunities for insight into both the language and culture.
+Consider supplementing your overseas program with a tutor or language partner! This offers an opportunity to learn specialized vocabulary, practice speaking, and can provide additional opportunities for insight into the language.
 If you ultimately have Boren funding that is not able to be used for eligible study abroad expenses, please contact your Boren advisor to determine how to return the unspent funding.
 Am I allowed to receive financial aid or other scholarships if I accept the Boren Scholarship or Fellowship?
 Yes, as long as the funding doesn’t overlap.
@@ -773,7 +772,7 @@ Yes, students who are currently enrolled in The Language Flagship undergraduate 
 2. I am a community college student. Is this program for me?
 Yes. Community college students - both two-year and transfer - are particularly encouraged to apply for the Boren Scholarship. If you are a transfer student who would like to study abroad next fall and/or spring, you should apply from your community college, indicating to which institution you will transfer.
 3. Must I study overseas? Could an online program count as my proposed Boren program?
-Yes. The Boren Awards fund overseas study. There are some programs that incorporate summer domestic components like the Regional Flagship Languages Initiative and the optional summer domestic award for Fellows, however, Boren is not for online programs. All proposed study should occur in the overseas destination where applicants can experience the culture and learn the language in an immersive environment.
+Yes. The Boren Awards fund overseas study. There are some programs that incorporate summer domestic components like the Regional Flagship Languages Initiative , however, Boren is not for online programs. All proposed study should occur in the overseas destination where applicants can learn the language in an immersive environment.
 4. I have never traveled or studied abroad before. Should I apply?
 Yes. In fact, you are encouraged to apply! One of the objectives of the Boren Scholarship is to expand international educational opportunities for students who have not studied abroad and who may require financial assistance to do so. Please work closely with your study abroad office and your Boren campus representative who can provide support as you apply for scholarship assistance. You can also contact IIE at boren@iieus.org or 1-800-618-NSEP (6737) with questions about the application process.
 Find Your Campus Representative
@@ -865,7 +864,7 @@ Yes, we recognize that it may be difficult to receive a letter of overseas affil
 4. Can I use my Boren Fellowship to work or participate in an internship overseas?
 You can participate in an internship if it is an integrated and meaningful component of your academic program. Please note that language acquisition should be the primary goal for your overseas Boren program. You may not accept paid employment while abroad. In addition, you cannot intern with U.S. or foreign government agencies.
 5. Can I study the same language in two different overseas destination while on my Boren Fellowship?
-No. Boren encourages both language and culture immersion so you must spend your entire Boren Fellowship in the same overseas destination. You are allowed to travel outside of your destination for a limited number of days, and should inform with your Boren advisor of any travel requests while overseas. You may however, study in two different cities within the same overseas destination.
+No. Boren encourages language immersion so you must spend your entire Boren Fellowship in the same overseas destination. You are allowed to travel outside of your destination for a limited number of days, and should inform with your Boren advisor of any travel requests while overseas. You may however, study in two different cities within the same overseas destination.
 Find Your Campus Representative
 Search Now
 Am I Eligible?
