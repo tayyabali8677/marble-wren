@@ -57,11 +57,21 @@ export async function verifyAndMaybeRollback(
   repoDir: string,
   commitSha: string
 ): Promise<VerifyOutcome[]> {
-  const outcomes: VerifyOutcome[] = [];
-  for (const check of checks) {
-    const verified = await pollUntilVerified(check.path, check.expected);
-    outcomes.push({ path: check.path, verified, reverted: false });
-  }
+  // Checks run concurrently rather than sequentially: each one polls for up
+  // to 180s on its own, so a sequential loop over N checks takes up to N x 3
+  // minutes of wall-clock time (worst case ~60 minutes at the sitemap
+  // agent's cap of 20 checks). Running them in parallel bounds worst-case
+  // wall-clock time to ~180s regardless of how many checks there are, so a
+  // job-level timeout is far less likely to land mid-verification with a bad
+  // commit already pushed and no revert having run. Outcomes are all
+  // collected before any revert decision is made, so this is safe even
+  // though checks no longer complete in a fixed order.
+  const outcomes: VerifyOutcome[] = await Promise.all(
+    checks.map(async (check) => {
+      const verified = await pollUntilVerified(check.path, check.expected);
+      return { path: check.path, verified, reverted: false };
+    })
+  );
 
   const anyFailed = outcomes.some((o) => !o.verified);
   if (anyFailed) {
