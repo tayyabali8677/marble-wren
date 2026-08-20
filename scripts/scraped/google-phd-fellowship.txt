@@ -507,11 +507,11 @@ Compilers
 Computer Architecture
 21
 Data Management
-104
+105
 Data Mining and Modeling
 283
 Distributed Systems and Parallel Computing
-271
+272
 Economics and Electronic Commerce
 79
 Education Innovation
@@ -556,7 +556,7 @@ Software Systems
 215
 Speech Processing
 156
-1 - 30 of 2198 researchers
+1 - 30 of 2199 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,24 +587,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
-Anmol Agarwal
-Natural Language Processing
-Shashank Agarwal
+Alekh Agarwal
 Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
+Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Anmol Agarwal
+Natural Language Processing
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -613,9 +613,6 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Shreya Agrawal
 General Science
 Machine Intelligence
@@ -626,6 +623,9 @@ Robotics
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
