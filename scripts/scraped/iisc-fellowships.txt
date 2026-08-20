@@ -86,9 +86,10 @@ Courses: 1068
 Accolades
 more&#8230;
 Arting Science
+Human Evolution in Warli
 Campus Life
 Did You know?
-Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
+Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -277,14 +278,14 @@ Other Central Institutions
 121 Ghani Khan Choudhury Institute of Engineering & Technology(GKCIET), Malda, West Bengal
 122 Central Institute of Technology (CIT), Kokrajhar, Assam
 General Information
-Giving to IISc
-Give to IISc
-Major benefactors
-Development & Alumni Affairs
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
-Guanylyl Cyclase C in the Gut
+Actor Critic
 Campus Life
-Cattle Egret
+Tendril Art
 Did You know?
 Quality improvement program initiated in 1971.
 Artsy Research
@@ -749,15 +750,15 @@ TOTAL (1st year)
 20,800
 * to be paid in the first year only
 General Information
-Challakere Campus
-Skill Development Centre
-Talent Development Centre
-Campus Development
+Admissions
+Course Programmes
+Research Programmes
+more&#8230;
 Arting Science
-Animal Evolution in Gond art
 Campus Life
+Frozen in flight: Australian Banded Bee near a Matchstick
 Did You know?
-Club house constitution was set up on 16 th November, 1924 with the Maharaja as its Patron.  Formal opening was on 16 th March 1925.
+Morse code signalling was first introduced in Electrical laboratory course  in 1926 and  taught by Mr.Locke.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -922,8 +923,9 @@ Talent Development Centre
 Campus Development
 Arting Science
 Campus Life
+Winter @ IISc
 Did You know?
-Establishment of placement Bureau &#8211; 1971
+May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1058,17 +1060,16 @@ Updating National Entrance Test Results after Application Submission
 The results of certain National Entrance Tests (e.g., GATE, JAM, etc.) may not be available at the time of application submission. Applicants are required to provide the available details, such as roll number/ paper, while the score/rank/result fields may be left blank.
 After submitting the application, applicants will be permitted to update only their National Entrance Test results through the Applicant Dashboard. The update must be completed within three days of the declaration of results for consideration during evaluation. Failure to update the details within the stipulated time will render the application ineligible under the respective mode of entry. No requests or representations for updates will be entertained after the deadline.
 General Information
-Research
-Research Highlights
-Accolades
-IISc in the News
-more&#8230;
+Challakere Campus
+Skill Development Centre
+Talent Development Centre
+Campus Development
 Arting Science
-Metamorphosis in Church Art
+Accretion in Warli
 Campus Life
-Swach IISc Abhiyan
+Nature&#8217;s Diamonds
 Did You know?
-Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
+May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1311,15 +1312,15 @@ The Authorities of Colleges/Universities may please write to the Public Relation
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 Navigate in IISc
 General Information
-International Relations
-Collaborative Research
-Exchange Programmes
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
-Twin Paradox in Phad
+FBG Devices
 Campus Life
-Tendril Art
 Did You know?
-Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
+Establishment of placement Bureau &#8211; 1971
 Artsy Research
 Navigate in IISc
 Resources
