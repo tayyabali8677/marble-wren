@@ -1415,7 +1415,7 @@ Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
-Nauru
+Naoero
 Niue
 Palau
 Papua New Guinea
@@ -1631,6 +1631,9 @@ Annual achievements in ADB's cofinancing operations for current and prospective 
 ADB Sustainability Reports
 Information on ADB's continued work in promoting environmentally sustainable and inclusive growth and reducing its corporate footprint, in accordance to the Global Reporting Initiative's reporting guidelines.
 Focus on Climate Change
+18 Aug 2026
+| Papers and Briefs
+Advancing Climate Adaptation in Nationally Determined Contributions (NDC 3.0): Progress, Challenges, and the Way Forward for Asia and the Pacific
 23 Jul 2026
 | Statutory Reports and Official Records
 Community Resilience Partnership Program Trust Fund Annual Report 2025
@@ -1640,9 +1643,6 @@ The Climate-Resilient Energy Imperative: Adaptation Benefits and Actions for All
 07 Jul 2026
 | Papers and Briefs
 Economic Policy Uncertainty and Carbon Emissions in Emerging Markets
-03 Jul 2026
-| Reports
-Satellite Earth Observation: A Compendium of Capabilities and Applications for Development
 More climate change publications
 Depository Library Program
 ADB partners with well-established libraries across the region who have agreed to house ADB's digital publications and to promote their use among a diverse group of users.

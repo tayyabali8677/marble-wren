@@ -293,7 +293,7 @@ Fechar
 Fechar
 Info
 Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
-Iniciativa tem parceria do MCTI e visa inserir mestres e doutores em empresas de pequeno e médio porte; duração máxima do apoio é de 30 meses, com contrapartida das empresas de 20% do valor do projeto. Ao menos 30% do investimento irá para N, NE e CO.
+Iniciativa tem parceria do MCTI e visa inserir mestres e doutores em microempresas, pequenas empresas e startups; duração máxima do apoio é de 30 meses, com contrapartida das empresas de 20% do valor do projeto. Ao menos 30% do investimento irá para N, NE e CO.
 Saiba mais sobre Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
 Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
 Ação do CNPq conta com parceria da CAPES e busca fortalecer a pesquisa, o empreendedorismo e a inovação nas Instituições Científicas, Tecnológicas e de Inovação.
