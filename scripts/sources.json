@@ -3456,5 +3456,19 @@
     "country": "Canada",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Main search portal for government-funded scholarships for international students to study in Canada."
+  },
+  {
+    "slug": "world-bank-govTech-ai-bootcamp-south-korea",
+    "name": "World Bank GovTech AI Bootcamp 2026 in South Korea",
+    "country": "South Korea",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from aggregator listing page as no external official application URL was explicitly provided in the text."
+  },
+  {
+    "slug": "world-trade-organization-internship-switzerland",
+    "name": "World Trade Organization Internship 2027 in Switzerland",
+    "country": "Switzerland",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from aggregator listing page as no external official application URL was explicitly provided in the text."
   }
 ]
