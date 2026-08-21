@@ -1318,7 +1318,6 @@ The University of Law
 University of Leeds
 University of Leicester
 University of Liverpool
-University of Liverpool Online
 University of London Worldwide
 University of Manchester
 University of Northampton
@@ -1567,10 +1566,12 @@ Stipend
 Travel tuition
 Tuition fees
 Varies
-Clear Show all 154 results
+Clear Show all 153 results
 Funding
 Scholarships
 Law
+Postgraduate Law Scholarships
+Here are 154 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.
 30% Final Year Undergraduate Continuation Scholarship
 University of East Anglia UEA
 Award criteria:
@@ -1580,14 +1581,6 @@ Funding amount:
 Deadline:
 Not specified
 Request info Visit website
-Filter ( 0 )
-Reset
-Scholarship FAQs
-What is a scholarship?
-Where do scholarships come from?
-What are scholarships awarded for?
-Can you have multiple scholarships?
-Do you have to pay scholarships back?
 International Early Payment Awards (September Start)
 University of East Anglia UEA
 Award criteria:
@@ -1634,5 +1627,11 @@ Request info Visit website
 5
 ...
 26
-Postgraduate Law Scholarships
-Here are 154 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.
+Scholarship FAQs
+Filter ( 0 )
+Reset
+What is a scholarship?
+Where do scholarships come from?
+What are scholarships awarded for?
+Can you have multiple scholarships?
+Do you have to pay scholarships back?
