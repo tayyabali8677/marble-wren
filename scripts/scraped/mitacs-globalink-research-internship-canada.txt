@@ -92,7 +92,7 @@ Environmental Tech.
 Brazil - 2027 Cohort Eligibility
 Partner(s):  Fundação Araucária &#8211;  https://www.fappr.pr.gov.br/
 Citizenship requirement: Yes; Brazilian citizen
-Eligible institutions in Brazil : All Science, Technology and Innovation Institutions (ICTs) and universities located in the State of Paraná, Brazil, with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
+Eligible institutions in Brazil : Only public, Technology and Innovation Institutions (ICTs) or private non-profit ICTs as defined under Paraná State Law No. 20,541/2021 with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
 Note: If you cannot find your home institution on the drop-down menu, email  [email&#160;protected]  and we will determine if it can be added to the list
 Eligible applicants:
 Full-time undergraduate students or combined undergraduate-Master’s program. Applicants must at least be enrolled in the second year of their program.
@@ -168,6 +168,7 @@ Eligible institutions in Finland: All Finnish higher education institutions (uni
 Note: If you cannot find your home institution on the drop-down menu, email  [email&#160;protected] , and we will determine if it can be added to the list
 Eligible applicants:
 Full-time undergraduate students or combined undergraduate-Master’s program
+After the completion of the Mitacs program students must have a minimum of one semester and a maximum of three semesters remaining in their degree when they return to Finland.
 Eligible discipline: All disciplines
 Minimum cumulative grade point average: 4.0/5.0 (approximately equivalent to 80%)
 Language proficiency exam requirements:  No
