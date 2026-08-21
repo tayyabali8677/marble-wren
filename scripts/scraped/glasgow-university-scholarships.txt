@@ -271,7 +271,7 @@ FindAPhD: all our funded programmes and projects currently advertised on FindAPh
 Financial aid for current students
 How to apply for a scholarship
 Alumni discount
-A 20% tuition fee discount to eligible self-funded alumni starting a postgraduate taught (PGT) Masters or postgraduate research (PGR) programme in the 2026/27 academic year.
+A tuition fee discount for eligible self-funded alumni starting a postgraduate taught (PGT) Masters or postgraduate research (PGR) programme in the 2026/27 academic year.
 University of Sanctuary
 We offer a range of bursaries and scholarships to students who are displaced and conflict effected. Scholarships ae available for both international applicants and those based in the UK.
 International Postgraduate Taught Scholarship Reception 25/26
@@ -605,7 +605,7 @@ FindAPhD: all our funded programmes and projects currently advertised on FindAPh
 Financial aid for current students
 How to apply for a scholarship
 Alumni discount
-A 20% tuition fee discount to eligible self-funded alumni starting a postgraduate taught (PGT) Masters or postgraduate research (PGR) programme in the 2026/27 academic year.
+A tuition fee discount for eligible self-funded alumni starting a postgraduate taught (PGT) Masters or postgraduate research (PGR) programme in the 2026/27 academic year.
 University of Sanctuary
 We offer a range of bursaries and scholarships to students who are displaced and conflict effected. Scholarships ae available for both international applicants and those based in the UK.
 International Postgraduate Taught Scholarship Reception 25/26

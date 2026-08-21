@@ -164,6 +164,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication
@@ -511,6 +512,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication
@@ -880,6 +882,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication
@@ -1264,6 +1267,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication
@@ -1643,6 +1647,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication
@@ -2064,6 +2069,7 @@ Climate Science
 Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
+Cosmetics
 Creative Writing
 Criminology
 Digital Media and Communication

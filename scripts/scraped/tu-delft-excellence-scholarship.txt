@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -300,7 +300,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -477,7 +477,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -497,7 +497,7 @@ Menu openen
 News
 Agenda
 Grants
-Menu sluiten
+Menu openen
 Students
 Researchers
 Alumni
@@ -667,7 +667,7 @@ Onderzoeksfaciliteiten
 PhDs
 Stories
 Innovatie & Impact
-Menu openen
+Menu sluiten
 Zakelijk samenwerken
 Pioneering Tech
 Ondernemerschap
@@ -680,7 +680,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -915,7 +915,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1150,7 +1150,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
