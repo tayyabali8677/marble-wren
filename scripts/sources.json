@@ -3470,5 +3470,26 @@
     "country": "Switzerland",
     "url": "https://brightscholarship.com/",
     "note": "URL derived from aggregator listing page as no external official application URL was explicitly provided in the text."
+  },
+  {
+    "slug": "schwarzman-scholars-program-china",
+    "name": "Schwarzman Scholars Master’s Program at Tsinghua University",
+    "country": "China",
+    "url": "https://www.schwarzmanscholars.org/",
+    "note": "Fully-funded master's program open to international applicants."
+  },
+  {
+    "slug": "model-organization-of-american-states-high-schools",
+    "name": "45th Model Organization of American States (MOAS) for High Schools",
+    "country": "United States",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Extracted from EduCanada features page, hosted by the Organization of American States."
+  },
+  {
+    "slug": "swiss-government-excellence-scholarships",
+    "name": "Swiss Government Excellence Scholarships",
+    "country": "Switzerland",
+    "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+    "note": "Extracted based on official Swiss government scholarship program listings."
   }
 ]
