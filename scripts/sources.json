@@ -3491,5 +3491,12 @@
     "country": "Switzerland",
     "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
     "note": "Extracted based on official Swiss government scholarship program listings."
+  },
+  {
+    "slug": "schwarzman-scholars-master-program-china",
+    "name": "Schwarzman Scholars Master’s Program at Tsinghua University",
+    "country": "China",
+    "url": "https://www.schwarzmanscholars.org/",
+    "note": "Extracted from Youth Opportunities listing."
   }
 ]
