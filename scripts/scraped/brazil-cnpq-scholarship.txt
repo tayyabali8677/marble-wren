@@ -329,9 +329,9 @@ Chamada conjunta Brasil-França para pesquisas em ciências humanas e meio ambie
 Ciência e Tecnologia
 Programa Asas para o Futuro oferece bolsas para qualificação profissional de jovens mulheres; inscrições porrogadas até 31/08
 17/06/2026 15h28
-Ciência e Tecnologia
-Indisponibilidade de plataformas no dia 22 de agosto - Nota do CNPq
-21/08/2026 15h51
+Educação e Pesquisa
+Carolina Joana da Silva - Nota de pesar
+17/08/2026 17h00
 Chamadas Públicas
 Abertas para Submissão
 Análise em Andamento
@@ -1709,7 +1709,7 @@ Rejeitar
 Fale Agora
 Refazer a busca
 
-===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/profix-cb-16-fundacoes-de-amparo-a-pesquisa-ja-lancaram-chamada-do-programa?_authenticator=8e18aa8539065e1e82a75cff7f9c21783667f03a =====
+===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/profix-cb-16-fundacoes-de-amparo-a-pesquisa-ja-lancaram-chamada-do-programa =====
 Profix-CB: FAPs de 16 estados já lançaram chamadas de fixação de doutores; confira os editais — Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Ir para o
 Conteúdo
@@ -1983,14 +1983,14 @@ link para Copiar para área de transferência
 Publicado em
 14/07/2026 10h59
 Atualizado em
-21/08/2026 17h58
+23/08/2026 10h23
 Pesquisadora em laboratório
 - Foto:
 DC Studio - Magnific.com
-Das 27 fundações de amparo à pesquisa  (FAPs) que aderiram ao Programa de Apoio à Fixação de Doutores no Brasil - Conhecimento Brasil (Profix-CB), 23 já têm acordos assinados com o CNPq e 16 já lançaram chamadas ou editais para o programa.
+Das 27 fundações de amparo à pesquisa  (FAPs) que aderiram ao Programa de Apoio à Fixação de Doutores no Brasil - Conhecimento Brasil (Profix-CB), 16 já lançaram chamadas ou editais para o programa.
 O Profix tem como objetivo incentivar a fixação a doutores em áreas estratégicas de ciência, tecnologia e inovação para estados e Distrito Federal. A iniciativa prevê a seleção de propostas apresentadas pelas FAPs estaduais e distrital, que serão responsáveis pela implementação do programa em seus respectivos territórios, por meio de chamadas ou editais públicos.
-O CNPq oferecerá bolsas de fixação de doutores no valor de R$ 13 mil, enquanto a Capes disponibilizará uma bolsa de mestrado e/ou doutorado por projeto. Adicionalmente, as FAPs são obrigadas a oferecer contrapartidas, de acordo com a disponibilidade orçamentária de cada uma.
-As oito fundações de amparo à pesquisa que já publicaram editais ou chamadas foram:
+O CNPq oferecerá bolsas de fixação de doutores no valor de R$ 13 mil, enquanto a Capes disponibilizará uma bolsa de mestrado e/ou doutorado por projeto. Adicionalmente, as FAPs se comprometem a oferecer contrapartidas, de acordo com a disponibilidade orçamentária de cada uma.
+Confira as fundações de amparo à pesquisa que já publicaram editais ou chamadas:
 AM
 Fundação de Amparo à Pesquisa do Estado do Amazonas
 Edital prevê até 26 projetos apoiados pelo Profix/CB.
@@ -2000,6 +2000,18 @@ Edital prevê até 20 projetos apoiados pelo Profix/CB.
 CE
 Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
 Edital prevê o apoio a até 36 projetos pelo Profix/CB.
+GO
+Fundação de Amparo à Pesquisa do Estado de Goiás
+Edital prevê o apoio a até 30 projetos pelo Profix/CB.
+MA
+Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão
+Edital prevê o apoio a até 30 projetos pelo Profix/CB.
+MT
+Fundação de Amparo à Pesquisa do Estado de Mato Grosso
+Edital prevê o apoio a até 24 projetos pelo Profix/CB.
+MS
+Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul
+Edital prevê o apoio a até 26 projetos pelo Profix/CB.
 PA
 - Fundação Amazônia de Amparo a Estudos e Pesquisas do Pará
 Chamada financiará até 35 projetos pelo Profix/CB .
@@ -2012,27 +2024,15 @@ Edital prevê até 39 projetos apoiados pelo Profix/CB.
 PI
 Fundação de Amparo à Pesquisa do Estado do Piauí
 Edital prevê apoio para até 24 projetos pelo Profix/CB.
-SE
-Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe
-Edital prevê apoiar até 24 projetos pelo Profix/CB.
-MA
-Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão
-Edital prevê o apoio a até 30 projetos pelo Profix/CB.
-MT
-Fundação de Amparo à Pesquisa do Estado de Mato Grosso
-Edital prevê o apoio a até 24 projetos pelo Profix/CB.
-MS
-Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul
-Edital prevê o apoio a até 26 projetos pelo Profix/CB.
 RR
 Fundação de Amparo à Pesquisa do Estado de Roraima
 Edital prevê o apoio a até 30 projetos pelo Profix/CB.
 RS
 Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul
 Edital prevê o apoio a até 61 projetos pelo Profix/CB
-GO
-Fundação de Amparo à Pesquisa do Estado de Goiás
-Edital prevê o apoio a até 30 projetos pelo Profix/CB.
+SE
+Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe
+Edital prevê apoiar até 24 projetos pelo Profix/CB.
 SP
 Fundação de Amparo à Pesquisa do Estado de São Paulo
 Chamada financiará até 100 projetos pelo Profix/CB.
