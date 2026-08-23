@@ -3505,5 +3505,19 @@
     "country": "United States",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Mentioned as a feature on the EduCanada portal; hosted by the OAS."
+  },
+  {
+    "slug": "swiss-government-excellence-scholarships-switzerland",
+    "name": "Swiss Government Excellence Scholarships 2027-28",
+    "country": "Switzerland",
+    "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+    "note": "Extracted from Bright Scholarship listing, official URL sourced from Swiss State Secretariat for Education, Research and Innovation (SERI)."
+  },
+  {
+    "slug": "czech-government-scholarship-czech-republic",
+    "name": "Czech Government Scholarship 2027",
+    "country": "Czech Republic",
+    "url": "https://www.msmt.cz/eu-and-international-affairs/government-scholarships-developing-countries",
+    "note": "Official scholarship program offered by the Ministry of Education, Youth and Sports of the Czech Republic."
   }
 ]
