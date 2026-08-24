@@ -3519,5 +3519,12 @@
     "country": "Czech Republic",
     "url": "https://www.msmt.cz/eu-and-international-affairs/government-scholarships-developing-countries",
     "note": "Official scholarship program offered by the Ministry of Education, Youth and Sports of the Czech Republic."
+  },
+  {
+    "slug": "asia-pacific-university-mext-scholarship-japan",
+    "name": "Asia Pacific University MEXT Scholarship 2027",
+    "country": "Japan",
+    "url": "https://www.apu.ac.jp/home/admissions/",
+    "note": "Japanese government MEXT scholarship channel via APU."
   }
 ]
