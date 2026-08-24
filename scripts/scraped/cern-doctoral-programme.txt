@@ -27,7 +27,6 @@ See open positions by Field of Work
 Programme overview
 The Doctoral Student Programme at CERN is an exceptional opportunity designed for PhD students to engage in cutting-edge research at one of the world&#8217;s most prestigious scientific institutions. As a participant, you are given the chance to collaborate with leading scientists and engineers, contributing to projects that push the boundaries of human knowledge.
 In addition to the technical and research experience, CERN&#8217;s Doctoral Student Programme offers a vibrant, multicultural environment, with students and professionals from all over the world. This diversity fosters a rich exchange of ideas and perspectives, further enhancing the learning experience.
-This programme is now closed. We will reopen applications on 6 August. Please check back then for the updated vacancy announcement, or create a job alert to be notified when applications reopen.
 What we offer
 A monthly net allowance of 3907 Swiss Francs.
 Coverage by CERN’s comprehensive Health Insurance scheme (the contribution will be automatically deducted from your allowance).
@@ -46,33 +45,37 @@ Civil Engineering
 Civil Engineering
 Creating an inspiring and welcoming environment for CERN&#039;s scientific community by managing and developing CERN&#039;s buildings and infrastructures.
 Explore this career
-Data Science & Data Analytics
-Data Science & Data Analytics
-Our Data Analytics and Data Science experts transform massive datasets from large physics experiments into valuable insights leveraging cutting-edge algorithms and computational tools to drive innovation across various fields.
+Data Science, AI & Analytics
+Data Science, AI & Analytics
+Data powers discovery. We transform complex information into insights, intelligence and innovation that accelerate science and improve CERN&#039;s operations.
 Explore this career
-Electrical or Electronics Engineering
-Electrical or Electronics Engineering
-Pivotal in designing, developing, and maintaining the sophisticated systems that power our cutting-edge experiments.
+Electrical Engineering
+Electrical Engineering
+Powering the world&#039;s most advanced scientific facilities. We design, operate and innovate the electrical systems that make CERN&#039;s research possible.
 Explore this career
-Health, Safety and Environment
-Health, Safety and Environment
+Electronics Engineering
+Electronics Engineering
+Precision electronics are at the heart of every discovery. We design the intelligent systems that measure, control and capture the signals shaping modern physics.
+Explore this career
+Health, Safety, Environment & Sustainability
+Health, Safety, Environment & Sustainability
 Playing a pivotal role in ensuring the well-being of our people and the sustainability of our operations.
 Explore this career
-Material and Surface Science
-Material and Surface Science
-Developing and maintaining advanced materials and surfaces essential for the optimal performance of particle accelerators.
-Explore this career
-Mathematics
-Mathematics
-Mathematics at CERN provides the essential language and tools that underpin theoretical models, data analysis, and algorithm development. From simulating high-energy collisions to optimizing detector performance, mathematical methods drive innovation across all areas of particle physics research.
+Chemical, Materials & Process Engineering
+Chemical, Materials & Process Engineering
+From advanced materials to innovative processes, we develop the technologies that enable CERN&#039;s scientific and engineering achievements.
 Explore this career
 Mechanical Engineering
 Mechanical Engineering
 Mechanical Engineering at CERN is crucial to advancing technology and enabling cutting-edge scientific discoveries. Our engineers design, build, and maintain sophisticated machinery, complex accelerator systems and experimental facilities that power some of the world’s most complex and impactful experiments.
 Explore this career
-Software Engineering and IT
-Software Engineering and IT
+Information Technologies
+Information Technologies
 Software is crucial to CERN&#039;s mission of producing particle beams for physics experiments, coordinating thousands of devices through a sophisticated accelerator control system. Our engineers and technicians develop software across all layers, from embedded real-time systems to micro-service-based backend servers and user interfaces. We leverage mainstream, open-source technologies such as Linux, Docker, Kubernetes, Java, Python, and Kafka, ensuring our knowledge is broadly applicable beyond CERN.
+Explore this career
+Technology Transfer & Innovation
+Technology Transfer & Innovation
+Innovation doesn&#039;t stop at the laboratory. We transform CERN&#039;s technologies and expertise into real-world solutions that create impact far beyond particle physics.
 Explore this career
 Here is a sneak peek of the eligibility criteria and recruitment process
 Eligibility Criteria
@@ -122,7 +125,9 @@ Fields of Work
 Currently, there are no open positions for these Fields of Work
 Civil Engineering
 0
-Health, Safety and Environment
+Health, Safety, Environment & Sustainability
+0
+Technology Transfer & Innovation
 0
 Experience level
 Entry level
@@ -178,7 +183,6 @@ HSE – Health & Safety and Environment
 IPT – Industry, Procurement and Knowledge Transfer
 IR – International Relations
 IT – Information Technology
-OSI - Organizational Support and Improvement
 RCS - Research & Computing Sector
 SCE – Site and Civil Engineering
 SO - Site Operations
@@ -198,25 +202,31 @@ Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
 12 to 36 month contract
 Fully Onsite
-Data Science & Data Analytics
+Chemical, Materials & Process Engineering
 Create an alert
 Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
 12 to 36 month contract
 Fully Onsite
-Electrical or Electronics Engineering
+Data Science, AI & Analytics
 Create an alert
 Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
 12 to 36 month contract
 Fully Onsite
-Material and Surface Science
+Electrical Engineering
 Create an alert
 Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
 12 to 36 month contract
 Fully Onsite
-Mathematics
+Electronics Engineering
+Create an alert
+Doctoral Student Programme 2027-1
+TSC-2027-1/DOCT
+12 to 36 month contract
+Fully Onsite
+Information Technologies
 Create an alert
 Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
@@ -228,19 +238,16 @@ Doctoral Student Programme 2027-1
 TSC-2027-1/DOCT
 12 to 36 month contract
 Fully Onsite
-Software Engineering and IT
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
 Sorry, no job openings match your search.
 There are no open positions for the Doctoral Studentship for these Fields of Work
 Civil Engineering
 Be the first to hear about new open roles in Civil Engineering
 Create an alert
-Health, Safety and Environment
-Be the first to hear about new open roles in Health, Safety and Environment
+Health, Safety, Environment & Sustainability
+Be the first to hear about new open roles in Health, Safety, Environment & Sustainability
+Create an alert
+Technology Transfer & Innovation
+Be the first to hear about new open roles in Technology Transfer & Innovation
 Create an alert
 Find the perfect programme for you
 What&#8217;s your domain?
@@ -342,17 +349,24 @@ Applied Physics
 Experimental Physics
 Theoretical Physics
 Engineering
+Chemical, Materials & Process Engineering
 Civil Engineering
-Data Science & Data Analytics
-Electrical or Electronics Engineering
-Health, Safety and Environment
-Material and Surface Science
-Mathematics
+Data Science, AI & Analytics
+Electrical Engineering
+Electronics Engineering
+Health, Safety, Environment & Sustainability
+Information Technologies
 Mechanical Engineering
-Software Engineering and IT
 Campus, Organisational and Corporate Services
-International Relations
-Support Services (Finance, HR, Legal, Procurement)
+Administration
+Communication & Stakeholder Engagement
+Facilities & Infrastructure Management
+Finance, Control & Audit
+Human Resources
+Logistics & Transport
+Procurement
+Site Security
+Technology Transfer & Innovation
 Experience level
 Entry level
 Experienced

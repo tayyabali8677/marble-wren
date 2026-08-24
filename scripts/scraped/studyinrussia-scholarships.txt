@@ -57,43 +57,136 @@ Degree program Enter at least 2 characters
 University
 University Enter at least 2 characters
 Find
-Russian Federation
-155 universities 10362 degree programs
-Russian Federation
+Number of universities featured on the portal: 155
+Number of universities featured on the portal: 155
 Nothing found, try changing the query
-More about us
-About the project
-World-class campuses
-How to get into a Russian university
+How to apply to a Russian university
 1
-Choose a field of study and a university
-Russian universities offer many professions that are in demand on the international labor market. To learn about available study programs, visit the section Universities .
+Choose your level of education
+International applicants can enroll in bachelor’s, specialist, master’s, postgraduate, residency, and assistantship-internship programs.
+Learn more about education levels
 2
-Learn about university admission options
-Foreign citizens can study on a tuition-paid or government-funded basis. You can learn more about admission requirements in the section How to get into a Russian university for free .
+Language of instruction
+At most Russian universities, international students study in Russian. Some universities also offer programs taught in English.
+To learn Russian and prepare for university admission, international applicants can take Russian language courses or study at a university’s preparatory faculty .
 3
-Read the admission rules and prepare your documents
-You can read the admission rules and deadlines on the university website. Pay attention to the list of documents: education documents require recognition and must also be translated into Russian and notarized.
+Explore your admission options
+International applicants can enroll at Russian universities:
+tuition-free (state-funded):
+through the general competition , under the Russian Government quota , or as an Olympiad winner or prize-winner ;
+on a tuition-paid basis:
+using Unified State Exam results or entrance examinations administered by the university. Application deadlines
 4
-Submit your documents to the university
-You can submit documents to a university online through government systems (if you are abroad, use the app ruID , if you are in Russia - through the service «Online university admission» ) or through university systems, as well as in person or by post.
+Choose a university and field of study
+Browse the list of universities
+Choose a field of study from the list
+Choose a promising field of study
+Some universities offer dual-degree programs
 5
-Take the entrance tests
-Take the university entrance exams. You can find detailed information about exams on the university page or on the portal «Online university admission» .
+Prepare your documents
+As a rule, you will need the following documents to apply. Check the exact list on the website of the university you plan to apply to.
+Passport
+Education certificate or diploma
+Documents confirming eligibility for tuition-free study
+Russian language test certificate (if available)
+Documents confirming individual achievements (if applicable)
+Preparatory faculty completion certificate (if available)
+3 × 4 cm photograph
 6
-Submit your consent to enrollment
-You are participating in the general competition. Submit your consent to enrollment, and if you study on a tuition-paid basis, sign an education contract. The contract must be paid for enrollment.
+Submit your application
+Ways to apply
+ruID app
+“Apply to University Online” super service on Gosuslugi
+University electronic information system
+By post — send the documents to the university by registered mail
+In person — bring the documents to the admissions office of your chosen university Submit your documents
 7
-Enrollment
-In your personal account on the portal «Super Service» information about enrollment will appear. Come to study within the dates set by the university.
+Entrance examinations
+You must complete entrance examinations when applying to a university.
+Unified State Exam (EGE) results may be submitted as entrance examination results. EGE results from the previous five years are accepted, except for basic-level mathematics.
+If you do not have valid EGE results in the required subjects, you can take entrance examinations administered by the university. Check the dates, subjects, and format with your chosen university in advance.
+For citizens of the Republic of Belarus
+If you do not have EGE results in the relevant subjects, you may use Centralized Testing (CT) or Centralized Exam (CE) results. CT and CE results are valid for two years.
 8
-Arrival
-If you do not need a visa, notify the university and border services through the service ruID . If you need a visa, arrange a study invitation through the university.
+Track the competitive lists and submit your enrollment consent
+For tuition-free admission:
+Rank your preferred study programs.
+Track the competitive lists.
+Choose a university.
+Submit your enrollment consent.
+Enrollment consent is required specifically for tuition-free admission. You can submit it through the ruID app, the “Apply to University Online” super service, in person at the university, or by registered mail. Submit your consent to a university where your ranking is safely within the admission threshold. Do not wait until the last day.
+For tuition-paid admission , signing an agreement with the university is the key final step instead of submitting enrollment consent.
+Enrollment consent deadlines
+Tuition-paid study (all education levels): according to the university’s admission rules.
+Tuition-free study:
+bachelor’s and specialist programs: 5 August, 12:00 Moscow time — enrollment consent deadline;
+master’s programs: 24 August, 12:00 Moscow time — enrollment consent deadline.
 9
-Get to work!
-Congratulations on arriving in Russia and starting the academic year!
-How to study for free in Russia?
-There are several options through which a foreigner can enroll in a Russian university for free. The rules of individual universities can be found in the "Universities" section Go to the section
+Enrollment
+Enrollment information is provided according to how you submitted your documents:
+If you applied through the ruID app or the “Apply to University Online” super service on Gosuslugi: an enrollment notification will appear in your personal account.
+If you applied through the university’s electronic information system: enrollment information will be posted in your personal account or on the university’s official website, where the lists of enrolled students are published.
+If you submitted your documents in person at the university admissions office or by post: check the result with the admissions office or on the university’s official website.
+Enrollment order publication dates
+Tuition-paid study (all education levels): according to the university’s admission rules — approximately 29–31 August.
+Tuition-free study:
+bachelor’s and specialist programs: 7 August — enrollment orders are published;
+master’s programs: 25 August — enrollment orders are published.
+10
+Arrival in Russia
+Prepare the documents needed to cross the border. Visa-free and visa-based entry are subject to different requirements.
+If you do not need a student visa
+Notify the university of your arrival date.
+Complete the entry application in the ruID app.
+Present your identity document at the border.
+If you need a student visa
+Obtain an invitation from the university.
+Apply for a student visa at a Russian Ministry of Foreign Affairs consular office in your country.
+Your international passport must remain valid for more than 18 months on the date you enter Russia.
+11
+Start your studies
+🧑‍🎓
+Congratulations on your admission!
+Confirm your timetable and begin classes by the date set by your university.
+Application deadlines
+Tuition-paid study (all education levels) and postgraduate programs
+According to the university’s admission rules.
+Tuition-free study:
+Bachelor’s and specialist programs:
+20 June — document submission opens. Applicants may apply to a university before receiving their education documents.
+Document submission closes:
+no earlier than 10 July and no later than 20 July — for applicants taking entrance examinations administered by the university;
+25 July at 17:00 in the local time of the region where the university or its branch is located — for applicants who do not need to take entrance examinations.
+Master’s programs
+20 June — document submission opens for the main enrollment stage;
+no later than 20 August — document submission closes for the main enrollment stage.
+Competitive lists
+If you submitted your documents:
+through the ruID app or the “Apply to University Online” super service on Gosuslugi
+Open the “Competitive Lists” section.
+Choose the university, field of study, and specific competition group.
+Select “Find me” — your row in the ranking will be highlighted and marked with a green “This is you” label.
+through the university’s electronic information systems
+A unique code is assigned after you submit your documents. It appears in the system and is used to check your application status. You can view the competitive lists in your personal account, in the relevant system, or on the university’s official website using the unique code.
+in person through the university admissions office
+After you submit your documents, an admissions officer will give you a unique code. You can use it to find yourself in the competitive lists on the university’s official website.
+through a postal operator
+University staff will provide your unique code by phone, email, or registered letter. You can use the code to check your status on the university’s official website.
+Outstanding graduates
+Adriana Michelle Sanchez Pozo
+Cardiologist. Teacher
+Sajid Kadiri
+Owner and head of a law firm
+Monica Lockman
+Prima ballerina of Ireland
+Nguyen Thi Phuong Thao
+President and CEO of VietJet Air
+Bu Dacca Baidaa
+Author of two invention patents
+Stefan Dürr
+Founder of EcoNiva, one of the world&#039;s largest raw milk producers
+Maxim Al-Turi
+RT TV correspondent
 Stories of our graduates
 Amir
 Egypt
@@ -124,13 +217,14 @@ Palestine
 Education in Russia has opened many doors for me: from medicine to public diplomacy. I have gone through all stages of medical education and am currently preparing to defend my dissertation for the degree of Candidate of Medical Sciences.
 Over the years of studying, I was fortunate to combine the study of theory with practice, including during my work during the spread of the coronavirus infection. I was able not only to apply the acquired knowledge but also to better understand the nature of the human soul, to more deeply realize my calling to help people.
 I am proud that I managed to contribute to the development and strengthening of ties between Russian universities and countries of the Arab world, to become a participant and organizer of major international forums and congresses, to travel throughout Russia: from Kaliningrad to Vladivostok.
-Россия
-22 марта 2024
-4.0
-&laquo;Образование &mdash; это ключ к развитию не только ума, но и души. В нашем университете мы стремимся не только к формированию профессионалов, но и к воспитанию личностей, способных изменить мир к лучшему.&raquo;
-Наша компания — это вдохновение, инновации и качество. Мы специализируемся на разработке уникальных решений в сфере технологий и маркетинга, помогая бизнесам достигать новых высот. Наша команда профессионалов с опытом работы в различных отраслях обеспечивает индивидуальный подход к каждому проекту. Мы стремимся создавать долгосрочные партнерства и приносить результат, который превышает ожидания клиентов.
+More about the project
 About the project
-World-class campuses
+4.0
+About the project
+Study programs
+Fields of study
+Loading
+Something went wrong.
 Gateway to Russia. Multimedia portal about the Russian language, history, and culture of Russia History of Russia National Tourism Brand of Russia World Alumni Association Project of the Moscow Government on the employment of foreign specialists
 Post office
 info@studyinrussia.ru
