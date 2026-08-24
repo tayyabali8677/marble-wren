@@ -471,7 +471,7 @@ Contact
 Search
 Home
 We support
-Menu openen
+Menu sluiten
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -555,12 +555,17 @@ Annual Report
 Item 1
 of
 3
+August
+31
+Event
+Opening Academic Year 2026-2027
+September
+09
+Event
+12.5 years TGV: Open Day for residents of Delft and the surrounding area
 October
 07
 Delft Female Impact Community Annual Event
-November
-11
-Information session on Bequests to Science
 More events
 Delft University Fund
 linkedin
