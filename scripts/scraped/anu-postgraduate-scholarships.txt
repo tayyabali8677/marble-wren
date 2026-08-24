@@ -105,7 +105,7 @@ Health, medicine & psychology
 Law, governance & policy
 Security, international affairs & Asia-Pacific studies
 Science, technology, engineering & mathematics
-419 results for you
+421 results for you
 Open for applications Automatic consideration FEATURED
 ANU International Achievement Award
 Value: 20%, 25% or 50% off tuition fees for up to 4 years.
@@ -132,6 +132,11 @@ Open for applications Requires application
 ACTION Trust Honours Scholarship
 Number offered: 2
 Selection base: Academic merit
+Open for applications Requires application
+ACTION Trust Scholarship
+Number offered: 2
+Value: Variable
+Selection base: Academic merit
 Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
 Open for applications Requires application
@@ -139,11 +144,6 @@ Alan and Helen Ross Forestry Education Scholarship
 Number offered: 1
 Value: $100,000 per annum.
 Selection base: Academic merit
-Open for applications Requires application
-Aleksander Varga Memorial Bursary
-Number offered: 1
-Value: $5,000 per annum. 1 bursary of $5,000
-Selection base: Financial hardship, Regional, rural or remote
 Pagination
 Current page
 1
@@ -254,10 +254,14 @@ Boost your degree with travel grants, academic merit prizes, exchange bursaries,
 Scholarships for alumni
 Access prestigious postgraduate research stipends, international exchange fellowships, and lifelong learning awards.
 Featured scholarships
+ANU Vice-Chancellor Scholars Program
+SPOTLIGHT
+ANU Vice-Chancellor Scholars Program
+The ANU Vice-Chancellor Scholars Program is a major investment in making an ANU education more accessible. It provides eligible domestic undergraduate and postgraduate students with financial and practical support to overcome barriers, transition to university and thrive at ANU. Learn more
 Tuckwell Scholarship
 SPOTLIGHT
 Tuckwell Scholarship
-The Tuckwell Scholarship Program is the most transformational undergraduate scholarship program in Australia. Every year, we offer 25 talented school-leavers the opportunity to fulfil their potential by actively participating in the very best that ANU has to offer. Apply now
+The Tuckwell Scholarship Program is the most transformational undergraduate scholarship program in Australia. Every year, we offer 25 talented school-leavers the opportunity to fulfil their potential by actively participating in the very best that ANU has to offer. Learn more
 Previous
 Next
 ANU Vice-Chancellor’s International Achievement Award
@@ -410,7 +414,7 @@ Health, medicine & psychology
 Law, governance & policy
 Security, international affairs & Asia-Pacific studies
 Science, technology, engineering & mathematics
-419 results for you
+421 results for you
 Open for applications Automatic consideration FEATURED
 ANU International Achievement Award
 Value: 20%, 25% or 50% off tuition fees for up to 4 years.
@@ -437,6 +441,11 @@ Open for applications Requires application
 ACTION Trust Honours Scholarship
 Number offered: 2
 Selection base: Academic merit
+Open for applications Requires application
+ACTION Trust Scholarship
+Number offered: 2
+Value: Variable
+Selection base: Academic merit
 Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
 Open for applications Requires application
@@ -444,11 +453,6 @@ Alan and Helen Ross Forestry Education Scholarship
 Number offered: 1
 Value: $100,000 per annum.
 Selection base: Academic merit
-Open for applications Requires application
-Aleksander Varga Memorial Bursary
-Number offered: 1
-Value: $5,000 per annum. 1 bursary of $5,000
-Selection base: Financial hardship, Regional, rural or remote
 Pagination
 Current page
 1
@@ -587,7 +591,12 @@ Health, medicine & psychology
 Law, governance & policy
 Security, international affairs & Asia-Pacific studies
 Science, technology, engineering & mathematics
-419 results for you
+421 results for you
+Open for applications Requires application
+Aleksander Varga Memorial Bursary
+Number offered: 1
+Value: $5,000 per annum. 1 bursary of $5,000
+Selection base: Financial hardship, Regional, rural or remote
 Open for applications Requires application
 Alexander McTaggart Honours Scholarship
 Number offered: 1
@@ -618,11 +627,6 @@ Open for applications Requires application
 ANU Art Collection Scholarship
 Number offered: 1
 Selection base: Academic merit, Indigenous
-Open for applications Automatic consideration
-ANU Changing Futures Scholarship
-Number offered: 38
-Value: $8,000 per annum.
-Selection base: Personal illness/Disability, Indigenous, Refugee/Humanitarian
 Open for applications Automatic consideration
 ANU College of Arts & Social Sciences Honours Scholarship
 Number offered: 10
@@ -768,7 +772,7 @@ Health, medicine & psychology
 Law, governance & policy
 Security, international affairs & Asia-Pacific studies
 Science, technology, engineering & mathematics
-419 results for you
+421 results for you
 Open for applications Automatic consideration
 ANU College of Arts and Social Sciences Academic Excellence Masters Scholarship
 Number offered: 10
@@ -953,7 +957,7 @@ Health, medicine & psychology
 Law, governance & policy
 Security, international affairs & Asia-Pacific studies
 Science, technology, engineering & mathematics
-419 results for you
+421 results for you
 Open for applications Automatic consideration
 ANU HDR Fee Merit Scholarship
 Value: -
@@ -978,7 +982,8 @@ Selection base: Academic merit, Financial hardship, Indigenous
 Open for applications Requires application
 ANU Law Global Alumni Scholars Grant
 Number offered: 4
-Selection base: Academic merit, Financial hardship
+Value: up to $4,000
+Selection base: Academic merit, Financial hardship, Regional, rural or remote
 Open for applications Requires application
 ANU Law Study Bursary
 Number offered: 50

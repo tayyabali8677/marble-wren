@@ -487,6 +487,7 @@ Conferences & events
 Careers
 Blog
 About
+Search
 People
 Our researchers drive advancements in computer science through both fundamental and applied research.
 Our researchers drive advancements in computer science through both fundamental and applied research.
@@ -510,7 +511,7 @@ Data Management
 Data Mining and Modeling
 283
 Distributed Systems and Parallel Computing
-273
+274
 Economics and Electronic Commerce
 79
 Education Innovation
@@ -526,7 +527,7 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 183
 Machine Intelligence
-1004
+1005
 Machine Learning
 195
 Machine Perception
@@ -544,18 +545,18 @@ Operating Systems
 Quantum Computing
 65
 Responsible AI
-82
+83
 Robotics
 73
 Security, Privacy and Abuse Prevention
 184
 Software Engineering
-261
+262
 Software Systems
-216
+217
 Speech Processing
 156
-1 - 30 of 2198 researchers
+1 - 30 of 2199 researchers
 chip template
 Remove
 Martín Abadi
@@ -586,24 +587,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Alekh Agarwal
+Sameer Agarwal
 Algorithms and Theory
-Machine Intelligence
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
+Machine Perception
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Anmol Agarwal
 Natural Language Processing
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -619,12 +620,12 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -650,20 +651,20 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Zafarali Ahmed
-Machine Intelligence
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
 Mustaq Ahmed
 Algorithms and Theory
 Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
++2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
 +2 more
 1
 2
