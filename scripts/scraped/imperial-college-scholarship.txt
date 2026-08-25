@@ -80,7 +80,6 @@ For schools
 Alumni
 Home
 Study navigation
-icon card - dev testing
 Course search
 Subjects
 Apply
@@ -3064,7 +3063,6 @@ For schools
 Alumni
 Home
 Study navigation
-icon card - dev testing
 Course search
 Subjects
 Apply
@@ -3570,7 +3568,6 @@ For schools
 Alumni
 Home
 Study navigation
-icon card - dev testing
 Course search
 Subjects
 Apply

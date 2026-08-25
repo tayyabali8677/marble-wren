@@ -33,7 +33,7 @@ Soundcloud
 Instagram
 Flickr
 RSS
-Unser Magazin böll.thema - jetzt neu!
+Magazin böll.thema
 Wir, die Republik
 Die Krisen sind zahlreich, die Unsicherheiten gro&szlig;. In dieser Ausgabe des Magazins B&ouml;ll.Thema fragen wir, was unsere liberale Republik ausmacht, wie wir sie gemeinsam st&auml;rken k&ouml;nnen und welche Verantwortung wir als B&uuml;rgerinnen und B&uuml;rger daf&uuml;r tragen.
 Jetzt lesen!
@@ -60,13 +60,6 @@ Gotha und das Gl&uuml;ck
 Veranstaltung
 Freitag, 04. September 2026
 in Gotha
-08
-September
-Wahlen in Israel
-Online-Diskussion
-Dienstag, 08. September 2026
-Eine polarisierte Gesellschaft ringt um die Gestaltung ihrer Zukunft
-Livestream
 09
 September
 Ingwar Perowanowitsch: Cycling Cities &ndash; Die leise Revolution der St&auml;dte
@@ -98,7 +91,7 @@ in Berlin
 September
 "Weil wir Frauen sind."
 Ausstellung
-Montag, 28. September 2026 &ndash; Samstag, 14. November 2026
+Montag, 28. September 2026 &ndash; Sonntag, 15. November 2026
 in Berlin
 Afghanische Aktivistinnen erz&auml;hlen von Mut und Widerstand
 05
@@ -111,11 +104,18 @@ Zwischen Fortschritt und neuer Gewalt
 Livestream
 05
 Oktober
-Auf dem Weg zu einer global gerechten Kreislaufwirtschaft
+Kreislaufwirtschaft zwischen Rohstoffsouver&auml;nit&auml;t und globaler Gerechtigkeit
 Podiumsdiskussion
 Montag, 05. Oktober 2026
 Wo stehen wir und wo m&uuml;ssen wir hin?
 Livestream
+05
+Oktober
+Antifaschistische Wirtschaftspolitik
+Buchvorstellung und Diskussion
+Montag, 05. Oktober 2026
+in Berlin
+Isabella M. Weber diskutiert mit Ines Schwerdtner, Andreas Audretsch und Tim Kl&uuml;ssendorf. Natascha Freundel vom rbb moderiert.
 Livestream
 Wir übertragen zahlreiche Veranstaltungen und Konferenzen live.
 böll.programm
@@ -191,9 +191,6 @@ Grüner Wirtschaftstag 2026
 Demokratie beginnt lokal: Lokaljournalismus in Baden-Württemberg stärken
 Sechs Thesen für ein wirtschaftlich souveränes Europa
 Feminism Now! Preis für feministisches Engagement
-Neuerscheinung
-Böll.Fakten über Atomenergie: Über Funktionsweisen und Risiken einer umstrittenen Technologie
-Jetzt bestellen!
 Internationale Zusammenarbeit
 Globalisierung und Transformation
 Internationale Umweltpolitik

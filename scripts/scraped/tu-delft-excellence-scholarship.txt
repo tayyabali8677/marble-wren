@@ -39,7 +39,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -274,7 +274,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -471,7 +471,7 @@ Contact
 Search
 Home
 We support
-Menu sluiten
+Menu openen
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -502,7 +502,7 @@ Students
 Researchers
 Alumni
 About us
-Menu openen
+Menu sluiten
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -894,7 +894,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1129,7 +1129,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation

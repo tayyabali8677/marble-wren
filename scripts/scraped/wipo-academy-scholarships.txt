@@ -28,8 +28,8 @@ Negotiation & Decision-Making
 IP Cooperation
 Innovation Support
 Public-Private Partnerships
-AI Tools & Services
 The Organization
+WIPO and Artificial Intelligence
 Working at WIPO
 Accountability
 Patents
@@ -135,18 +135,19 @@ Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO Translate
-Speech-to-Text
-Classification Assistant
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
 Staff Positions
 Affiliated Personnel Positions
 Procurement
@@ -331,8 +332,8 @@ Negotiation & Decision-Making
 IP Cooperation
 Innovation Support
 Public-Private Partnerships
-AI Tools & Services
 The Organization
+WIPO and Artificial Intelligence
 Working at WIPO
 Accountability
 Patents
@@ -438,18 +439,19 @@ Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO Translate
-Speech-to-Text
-Classification Assistant
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
 Staff Positions
 Affiliated Personnel Positions
 Procurement
@@ -1014,8 +1016,8 @@ Negotiation & Decision-Making
 IP Cooperation
 Innovation Support
 Public-Private Partnerships
-AI Tools & Services
 The Organization
+WIPO and Artificial Intelligence
 Working at WIPO
 Accountability
 Patents
@@ -1121,18 +1123,19 @@ Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO Translate
-Speech-to-Text
-Classification Assistant
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
 Staff Positions
 Affiliated Personnel Positions
 Procurement
@@ -1216,8 +1219,8 @@ Negotiation & Decision-Making
 IP Cooperation
 Innovation Support
 Public-Private Partnerships
-AI Tools & Services
 The Organization
+WIPO and Artificial Intelligence
 Working at WIPO
 Accountability
 Patents
@@ -1323,18 +1326,19 @@ Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO Translate
-Speech-to-Text
-Classification Assistant
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
 Staff Positions
 Affiliated Personnel Positions
 Procurement
@@ -1382,8 +1386,8 @@ Negotiation & Decision-Making
 IP Cooperation
 Innovation Support
 Public-Private Partnerships
-AI Tools & Services
 The Organization
+WIPO and Artificial Intelligence
 Working at WIPO
 Accountability
 Patents
@@ -1489,18 +1493,19 @@ Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO Translate
-Speech-to-Text
-Classification Assistant
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
 Staff Positions
 Affiliated Personnel Positions
 Procurement
