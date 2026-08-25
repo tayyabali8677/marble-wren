@@ -3533,5 +3533,11 @@
     "country": "Qatar",
     "url": "https://www.dohainstitute.edu.en/en/ProspectiveStudent/Admissions/Pages/FinancialAid.aspx",
     "note": "Extracted from Bright Scholarship listing page text"
+  },
+  {
+    "slug": "daad-graduate-school-scholarship-germany",
+    "name": "DAAD Graduate School Scholarship (GSSP)",
+    "country": "Germany",
+    "url": "https://www.daad.de"
   }
 ]
