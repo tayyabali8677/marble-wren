@@ -286,7 +286,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School
@@ -800,7 +800,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School
@@ -1310,7 +1310,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School
@@ -1823,7 +1823,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School
@@ -2325,7 +2325,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School
@@ -2821,7 +2821,7 @@ University research centres
 Auckland Bioengineering Institute
 Liggins Institute
 Centres of Research Excellence
-Other research centres
+Research platforms
 Research by faculty
 Arts and Education
 Business School

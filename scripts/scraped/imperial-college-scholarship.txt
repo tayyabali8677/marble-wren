@@ -80,6 +80,7 @@ For schools
 Alumni
 Home
 Study navigation
+icon card - dev testing
 Course search
 Subjects
 Apply
@@ -2984,6 +2985,7 @@ Log in
 Apply | Study | Imperial College London
 Skip to main content
 View accessibility support page
+Skip to filters
 Search
 Search
 Menu
@@ -3062,6 +3064,7 @@ For schools
 Alumni
 Home
 Study navigation
+icon card - dev testing
 Course search
 Subjects
 Apply
@@ -3488,6 +3491,7 @@ Log in
 Fees and funding | Study | Imperial College London
 Skip to main content
 View accessibility support page
+Skip to filters
 Search
 Search
 Menu
@@ -3566,6 +3570,7 @@ For schools
 Alumni
 Home
 Study navigation
+icon card - dev testing
 Course search
 Subjects
 Apply
