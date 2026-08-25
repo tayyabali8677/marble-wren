@@ -3526,5 +3526,12 @@
     "country": "Japan",
     "url": "https://www.apu.ac.jp/home/admissions/",
     "note": "Japanese government MEXT scholarship channel via APU."
+  },
+  {
+    "slug": "doha-institute-for-graduate-studies-scholarships-qatar",
+    "name": "Doha Institute for Graduate Studies Scholarships 2027",
+    "country": "Qatar",
+    "url": "https://www.dohainstitute.edu.en/en/ProspectiveStudent/Admissions/Pages/FinancialAid.aspx",
+    "note": "Extracted from Bright Scholarship listing page text"
   }
 ]
