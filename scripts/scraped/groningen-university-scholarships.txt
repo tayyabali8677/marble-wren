@@ -153,7 +153,7 @@ Facility Management
 Corporate Communication
 Calendar
 Disclaimer & Copyright Privacy Cookies Login
-Functional
+Essential
 Provides basic functions and uses anonymized cookies.
 Standard
 Provides optimal operation and uses video cookies, among others.
@@ -368,7 +368,7 @@ Facility Management
 Corporate Communication
 Calendar
 Disclaimer & Copyright Privacy Cookies Login
-Functional
+Essential
 Provides basic functions and uses anonymized cookies.
 Standard
 Provides optimal operation and uses video cookies, among others.
@@ -575,7 +575,7 @@ Facility Management
 Corporate Communication
 Calendar
 Disclaimer & Copyright Privacy Cookies Login
-Functional
+Essential
 Provides basic functions and uses anonymized cookies.
 Standard
 Provides optimal operation and uses video cookies, among others.
@@ -747,7 +747,7 @@ Facility Management
 Corporate Communication
 Calendar
 Disclaimer & Copyright Privacy Cookies Login
-Functional
+Essential
 Provides basic functions and uses anonymized cookies.
 Standard
 Provides optimal operation and uses video cookies, among others.

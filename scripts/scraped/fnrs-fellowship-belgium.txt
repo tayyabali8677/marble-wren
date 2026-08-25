@@ -365,39 +365,6 @@ SVS
 Published on 23 June 2026
 See all
 Calls and Fundings
-SHS
-In progress
-FRESH 2026 - Human Sciences Research Fund (Fonds pour la Recherche en Sciences Humaines)
-Category
-Research Mandates, Fellowships, ...
-Profile
-PhD (R1)
-Opening
-02 July 2026
-14:00
-Closing
-25 August 2026
-14:00
-Periodicity
-Annual
-Read more about FRESH 2026 - Human Sciences Research Fund (Fonds pour la Recherche en Sciences Humaines)
-SVS
-SEN
-In progress
-FRIA 2026 - Fund for Research Training in Industry and Agriculture (Fonds pour la Formation à la Recherche dans l&#039;Industrie et dans l&#039;Agriculture)
-Category
-Research Mandates, Fellowships, ...
-Profile
-PhD (R1)
-Opening
-02 July 2026
-14:00
-Closing
-25 August 2026
-14:00
-Periodicity
-Annual
-Read more about FRIA 2026 - Fund for Research Training in Industry and Agriculture (Fonds pour la Formation à la Recherche dans l&#039;Industrie et dans l&#039;Agriculture)
 FNRS.awards
 SVS
 In progress
@@ -546,6 +513,17 @@ PhD (R1),
 Postdoc (R2),
 Permanent research status (R3) and Senior research position (R4)
 Read more about Scientific meeting abroad (OUT)
+SVS
+SEN
+SHS
+Sustainability
+Ongoing
+Organization of a scientific meeting
+Category
+Dissemination & Exchange
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Read more about Organization of a scientific meeting
 Mobility
 SVS
 SEN
@@ -560,6 +538,19 @@ PhD (R1),
 Postdoc (R2),
 Permanent research status (R3) and Senior research position (R4)
 Read more about Stay Abroad/Summer Workshops or Courses (OUT)
+SVS
+SEN
+SHS
+Sustainability
+Ongoing
+Contact Groups
+Category
+Dissemination & Exchange
+Profile
+PhD (R1),
+Postdoc (R2),
+Permanent research status (R3) and Senior research position (R4)
+Read more about Contact Groups
 See all
 Télévie 2026: A massive thank you!
 The 2026 edition raised €13,459,073.87 for cancer research — a record since the launch of the initiative.
