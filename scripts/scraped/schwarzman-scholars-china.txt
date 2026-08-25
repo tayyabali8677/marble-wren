@@ -92,7 +92,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-URL
+Comments
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -294,7 +294,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Company
+Comments
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -346,19 +346,19 @@ Schwarzman Scholars U.S./Global Application Walkthrough
 Attend Livestream
 Upcoming Events
 Info Sessions
-Sep 1
+Aug 31
 Advice from the Schwarzman Scholars Admissions Team
 Stream
 11:00 a.m. EDT
 Learn More
 Application Walkthroughs
-Aug 19
+Aug 18
 Schwarzman Scholars U.S./Global Application Walkthrough
 Stream
 2:00 p.m. EDT
 Learn More
 Info Sessions
-Aug 10
+Aug 9
 An Introduction to Schwarzman Scholars
 Stream
 9:00 a.m. EDT
@@ -385,7 +385,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Email
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
@@ -528,7 +528,7 @@ Schwarzman Scholars supports the expression and discussion of individual opinion
 Opinions of Scholars, faculty, staff and other program affiliates may only be expressed in their individual capacity on their own social media accounts and may not indicate or imply that individuals are speaking on behalf of or acting for the program. Similarly, self-organized events may not purport to be sanctioned or endorsed by the program.
 Reach Out
 Need more answers? Ask us a question of your own using the form below and we'll get back to you within 48 hours.
-X/Twitter
+Company
 This field is for validation purposes and should be left unchanged.
 First and last name* *
 Email address* *
@@ -559,7 +559,7 @@ Press
 Other
 Stay Connected
 Join our mailing list to receive updates with news about the program, Scholars, and our broader community.
-Name
+Phone
 This field is for validation purposes and should be left unchanged.
 First Name* *
 Last Name* *
