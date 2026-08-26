@@ -58,8 +58,8 @@ Degree program Enter at least 2 characters
 University
 University Enter at least 2 characters
 Find
-Number of universities featured on the portal: 155
-Number of universities featured on the portal: 155
+Number of universities featured on the portal: 157
+Number of universities featured on the portal: 157
 Nothing found, try changing the query
 How to apply to a Russian university
 1
@@ -220,8 +220,10 @@ Over the years of studying, I was fortunate to combine the study of theory with 
 I am proud that I managed to contribute to the development and strengthening of ties between Russian universities and countries of the Arab world, to become a participant and organizer of major international forums and congresses, to travel throughout Russia: from Kaliningrad to Vladivostok.
 More about the project
 About the project
+Testimonials
 4.0
 About the project
+Watch video
 Study programs
 Fields of study
 Loading

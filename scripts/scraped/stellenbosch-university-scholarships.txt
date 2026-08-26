@@ -15,7 +15,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -32,7 +32,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -77,6 +77,10 @@ Bellville Park campus registration
 International students registration
 Top stories
 Discover stories of our pursuit of impactful solutions, building learning communities that leverage the latest technologies, and our exceptional people.
+Opinion and features
+Women’s Month: Women want to live with dignity, safety, and equality
+On National Women’s Day, we focused on key issues that continue to affect women in South Africa. As Women’s Month draws to a close, experts at Stellenbosch...
+Read more
 Impact
 Dr Tara Southey brings climate intelligence to farmers
 Over the coming months, South Africa could start to experience the effects of the developing El Niño weather system that will likely bring hotter and drier...
@@ -85,6 +89,10 @@ Impact
 Lt Dipuo Moilwa turns endurance into a life of service
 There was a moment early in Lt Dipuo Moilwa’s military career when she was very close to giving up. Carrying a rucksack weighing 25 kg during a long endurance...
 Read more
+Opinion and features
+AARTO: What you need to know about SA’s new traffic infringement system
+AARTO, which is the Administrative Adjudication of Road Traffic Offences, is a system intended for altering the way in which certain traffic violations are...
+Read more
 Events
 Basic services remain a test of equality for women
 A Women’s Day commemoration at Stellenbosch University’s (SU) Faculty of Law turned attention to a question at the heart of South Africa’s constitutional...
@@ -92,14 +100,6 @@ Read more
 Awards and milestones
 SU women researchers shine at national Women in Science Awards
 Research excellence at Stellenbosch University (SU) was again in the spotlight when some of the institution’s talented women scientists were honoured with the...
-Read more
-Media release
-Better prevention and support strategies needed to address cyberbullying among SA teens
-Cyberbullying may not only affect teenagers’ emotional well-being, but also their motivation and academic performance. We therefore need prevention and support...
-Read more
-Media release
-Delecia Davids makes history with prestigious Einstein Fellowship
-Delecia Davids is still flustered when she shares the big news: She has become the first South African academic to receive the prestigious Einstein Fellowship...
 Read more
 More stories
 Research and Innovation
@@ -176,7 +176,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -193,7 +193,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -238,6 +238,10 @@ Bellville Park campus registration
 International students registration
 Top stories
 Discover stories of our pursuit of impactful solutions, building learning communities that leverage the latest technologies, and our exceptional people.
+Opinion and features
+Women’s Month: Women want to live with dignity, safety, and equality
+On National Women’s Day, we focused on key issues that continue to affect women in South Africa. As Women’s Month draws to a close, experts at Stellenbosch...
+Read more
 Impact
 Dr Tara Southey brings climate intelligence to farmers
 Over the coming months, South Africa could start to experience the effects of the developing El Niño weather system that will likely bring hotter and drier...
@@ -246,6 +250,10 @@ Impact
 Lt Dipuo Moilwa turns endurance into a life of service
 There was a moment early in Lt Dipuo Moilwa’s military career when she was very close to giving up. Carrying a rucksack weighing 25 kg during a long endurance...
 Read more
+Opinion and features
+AARTO: What you need to know about SA’s new traffic infringement system
+AARTO, which is the Administrative Adjudication of Road Traffic Offences, is a system intended for altering the way in which certain traffic violations are...
+Read more
 Events
 Basic services remain a test of equality for women
 A Women’s Day commemoration at Stellenbosch University’s (SU) Faculty of Law turned attention to a question at the heart of South Africa’s constitutional...
@@ -253,14 +261,6 @@ Read more
 Awards and milestones
 SU women researchers shine at national Women in Science Awards
 Research excellence at Stellenbosch University (SU) was again in the spotlight when some of the institution’s talented women scientists were honoured with the...
-Read more
-Media release
-Better prevention and support strategies needed to address cyberbullying among SA teens
-Cyberbullying may not only affect teenagers’ emotional well-being, but also their motivation and academic performance. We therefore need prevention and support...
-Read more
-Media release
-Delecia Davids makes history with prestigious Einstein Fellowship
-Delecia Davids is still flustered when she shares the big news: She has become the first South African academic to receive the prestigious Einstein Fellowship...
 Read more
 More stories
 Research and Innovation

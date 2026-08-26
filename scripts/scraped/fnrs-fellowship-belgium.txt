@@ -368,6 +368,24 @@ Calls and Fundings
 FNRS.awards
 SVS
 In progress
+Clone of Baillet Latour Biomedical Award 2027 : call for applications
+Category
+Awards & Philanthropic Funding
+Profile
+Postdoc (R2),
+Permanent research status (R3) and Senior research position (R4)
+Opening
+15 June 2026
+14:00
+Closing
+14 September 2026
+23:59
+Periodicity
+Annual
+Read more about Clone of Baillet Latour Biomedical Award 2027 : call for applications
+FNRS.awards
+SVS
+In progress
 Baillet Latour Biomedical Award 2027 : call for applications
 Category
 Awards & Philanthropic Funding
@@ -513,17 +531,6 @@ PhD (R1),
 Postdoc (R2),
 Permanent research status (R3) and Senior research position (R4)
 Read more about Scientific meeting abroad (OUT)
-SVS
-SEN
-SHS
-Sustainability
-Ongoing
-Organization of a scientific meeting
-Category
-Dissemination & Exchange
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Read more about Organization of a scientific meeting
 Mobility
 SVS
 SEN
