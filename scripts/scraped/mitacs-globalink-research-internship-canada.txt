@@ -239,7 +239,9 @@ Students should have at least 1 semester remaining in their undergraduate degree
 India - 2027 Cohort Eligibility
 Partner(s):  All India Council for Technical Education &#8211; aicte.gov.in
 Citizenship requirement:  Yes; Indian Nationals only
-Eligible institutions in India: View eligibility list for India – no other institutions can be added.  If your institution is not listed, you are not eligible to apply.
+Eligible institutions in India: View eligibility list for India – no other institutions can be added.
+&#8211; If your institution is not listed, you are not eligible to apply.
+&#8211; At this time, applicants from Indian Institutes of Technology (IITs) are not eligible to participate in the 2027 GRI program.
 Eligible applicants:
 Full-time undergraduate students or combined undergraduate-Master’s program
 Eligible discipline:
@@ -913,6 +915,8 @@ India &#8211; 2027 Cohort Eligibility
 Partner(s):   All India Council for Technical Education –  aicte.gov.in
 Eligible institutions:
 India AICTE &#8211; Eligible institutions
+&#8211; If your institution is not listed, you are not eligible to apply.
+&#8211; At this time, applicants from Indian Institutes of Technology (IITs) are not eligible to participate in the 2027 GRI program.
 Ireland &#8211; 2027 Cohort Eligibility
 Partner(s):  Higher Education Authority –  Higher Education Authority
 Eligible institutions:
@@ -1376,6 +1380,8 @@ India &#8211; 2027 Cohort Eligibility
 Partner(s):   All India Council for Technical Education –  aicte.gov.in
 Eligible institutions:
 India AICTE &#8211; Eligible institutions
+&#8211; If your institution is not listed, you are not eligible to apply.
+&#8211; At this time, applicants from Indian Institutes of Technology (IITs) are not eligible to participate in the 2027 GRI program.
 Ireland &#8211; 2027 Cohort Eligibility
 Partner(s):  Higher Education Authority –  Higher Education Authority
 Eligible institutions:
