@@ -587,21 +587,21 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Anmol Agarwal
+Natural Language Processing
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
-Anmol Agarwal
-Natural Language Processing
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
@@ -654,6 +654,11 @@ Distributed Systems and Parallel Computing
 Mustaq Ahmed
 Algorithms and Theory
 Networking
+Tousif Ahmed
+Human-Computer Interaction and Visualization
+Mobile Systems
+Responsible AI
++2 more
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
@@ -661,11 +666,6 @@ Information Retrieval and the Web
 +2 more
 Zafarali Ahmed
 Machine Intelligence
-Tousif Ahmed
-Human-Computer Interaction and Visualization
-Mobile Systems
-Responsible AI
-+2 more
 1
 2
 3

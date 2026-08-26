@@ -497,88 +497,70 @@ name ascending order
 name descending order
 Last update :2026/08/19
 Scholarship
-Yamagata Prefectural Scholarship for Privately Financed Foreign Students
-Yamagata Pref.
+LSH Asia Scholarship
+（NPO）LSH Asia Scholarship Foundation
 Academic level:
-Doctoral degree program
-Master's degree program
-Professional degree program
-Bachelor's degree program
-University Japanese programs
-Junior Colleges
-Specialized Training Colleges
-College of technology
 Japanese language institutions
 Last update :2026/08/19
 Scholarship
-Akebono Foundation Scholarship [Pre-Arrival Admission]
-Akebono Foundation
+Other
+YKK Leaders 21 [Pre-Arrival Admission]
+Yoshida Scholarship Foundation
 Academic level:
-Doctoral degree program
 Master's degree program
-Professional degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-College of technology
+Last update :2026/08/19
+Scholarship
+YONEX Sports Foundation Scholarship
+YONEX Sports Foundation
+Academic level:
 High school students
 Last update :2026/08/19
 Scholarship
-SGH Foundation Scholarship
-SGH Foundation
-Academic level:
-Bachelor's degree program
-Last update :2026/08/19
-Scholarship
-The Korea Educational Foundation Scholarship
-The Korea Educational Foundation
-Academic level:
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-The Korea Educational Foundation Scholarship
-The Korea Educational Foundation
+YONEX Sports Foundation Scholarship
+YONEX Sports Foundation
 Academic level:
 Doctoral degree program
 Master's degree program
-Last update :2026/08/19
+Bachelor's degree program
+Junior Colleges
+Last update :2021/09/08
 Scholarship
+Reduction of enrollment fee
+Reduction and exception of tuition
+The Yokkaichi University Scholarships by Special Attributes for Privately-Financed International Students
+Yokkaichi University
+Academic level:
+Bachelor's degree program
+Last update :2021/09/08
+Scholarship
+Reduction of enrollment fee
+Reduction and exception of tuition
 Other
-Fulbright Grants [Pre-Arrival Admission]
-The Japan-United States Educational Commission (Fulbright Program)
+The Yokkaichi University Special Scholarships for Privately-Financed International Students
+Yokkaichi University
+Academic level:
+Bachelor's degree program
+Last update :2021/09/08
+Scholarship
+Reduction of enrollment fee
+Reduction and exception of tuition
+The Yokkaichi University Honors Scholarships for Privately-Financed International Students
+Yokkaichi University
 Academic level:
 Bachelor's degree program
 Last update :2026/08/19
 Scholarship
-Other
-Fulbright Grants [Pre-Arrival Admission]
-The Japan-United States Educational Commission (Fulbright Program)
+Yamaoka Scholarship Foundation Scholarship
+Yamaoka Scholarship Foundation
 Academic level:
 Doctoral degree program
 Master's degree program
-Last update :2026/08/19
-Scholarship
-Kitami City Scholarship for Foreign Students
-Kitami City
+Last update :2021/08/04
+Reduction and exception of tuition
+Tuition Fee Exemption System
+Yamagata Prefectural Yonezawa University of Nutrition Sciences
 Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
 Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-Iwate Prefecture&#039;s Scholarship
-Iwate International Association
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Junior Colleges
-College of technology
 Last update :2026/08/19
 Scholarship
 Yamagata Prefectural Scholarship for Privately Financed Foreign Students
@@ -595,39 +577,12 @@ College of technology
 Japanese language institutions
 Last update :2026/08/19
 Scholarship
-Ohtawara-city Foreign Student Scholarship
-Ohtawara-city Board of Education
-Academic level:
-Bachelor's degree program
-Last update :2026/08/19
-Scholarship
-Foreign Student Scholarship
-Shinjuku-ku
+Yamagata Prefectural Scholarship for Privately Financed Foreign Students
+Yamagata Pref.
 Academic level:
 Doctoral degree program
 Master's degree program
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-Financial Assistance Program for Foreign Students
-Kawasaki International Association
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-College of technology
-Last update :2026/08/19
-Scholarship
-Ishikawa Prefectural Scholarship for Privately Financed Foreign Students
-Ishikawa-Pref.
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
+Professional degree program
 Bachelor's degree program
 University Japanese programs
 Junior Colleges
@@ -636,109 +591,121 @@ College of technology
 Japanese language institutions
 Last update :2026/08/19
 Scholarship
-Biwako Scholarship for Foreign Students
-Shiga Intercultural Association for Globalization
+Watanuki International Scholarship Foundation Scholarship
+Watanuki International Scholarship Foundation
 Academic level:
 Doctoral degree program
 Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
+Last update :2021/07/06
 Scholarship
-Scholarship Fund
-Kyoto City International Foundation
+Reserved Scholarship for Successful International Examinees
+WASEDA University
 Academic level:
 Doctoral degree program
 Master's degree program
-Bachelor's degree program
-Last update :2026/08/19
+Professional degree program
+Last update :2021/07/14
 Scholarship
-Kobe International Students Scholarship (Kobe/Sugawara Scholarship)
-Kobe International Community Center
+Azusa Ono Memorial Scholarship
+WASEDA University
 Academic level:
 Doctoral degree program
 Master's degree program
+Professional degree program
 Bachelor's degree program
-Last update :2026/08/19
+Last update :2023/05/30
 Scholarship
-Foreign Student Scholarship
-Himeji-shi
+Matsumoto Kaoru International Scholarship
+WASEDA University
+Academic level:
+Bachelor's degree program
+Last update :2021/07/14
+Scholarship
+Mori Masakatsu Memorial Foundation for Foreign Students
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
+Professional degree program
 Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
+Last update :2023/05/30
 Scholarship
-Scholarship for Foreign Students
-Kato-shi
+Yasui Magotsuke･Tani memorial Foundation for Foreign Students
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
+Professional degree program
 Bachelor's degree program
-Last update :2026/08/19
+Last update :2021/07/14
 Scholarship
-Kurashiki City Financial Aid for Privately Financed Students
-Kurashiki-shi
-Academic level:
-Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
-Scholarship
-Scholarship Programs
-Hiroshima International Center
+Waseda University's 125th anniversary, Tahara Soichiro International Student Scholarship
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
-Graduate research students
+Professional degree program
 Bachelor's degree program
-Junior Colleges
-College of technology
-Last update :2026/08/19
+Last update :2021/07/14
 Scholarship
-Hiroshima Support Center for International Students Scholarship Programs (Scholarship for new and transferring international students)
-Hiroshima International Center
+Okuma Memorial Scholarship
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
-Graduate research students
+Professional degree program
 Bachelor's degree program
-Junior Colleges
-College of technology
-Last update :2026/08/19
+Last update :2023/05/30
 Scholarship
-Hiroshima Scholarship
-Hiroshima Peace Culture Foundation
+CPA Tomonkai (Waseda Alumni) Scholarship
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
-Graduate research students
+Professional degree program
 Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Japanese language institutions
-Last update :2026/08/19
+Last update :2021/07/14
 Scholarship
-Nankoku City Scholarship
-Nankoku-shi
+Chen Wei Qian Scholarship
+WASEDA University
+Academic level:
+Bachelor's degree program
+Last update :2021/07/14
+Reduction of enrollment fee
+Waseda University Partial Tuition-Waiver Scholarship for Privately Financed International Students
+WASEDA University
+Academic level:
+Master's degree program
+Professional degree program
+Bachelor's degree program
+Last update :2023/05/30
+Scholarship
+Scholarship for Fostering Researchers in Doctoral Programs
+WASEDA University
 Academic level:
 Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-College of technology
-Last update :2026/08/19
+Doctoral program with five-year system
+Last update :2023/05/30
 Scholarship
-Fukuoka Satooya Scholarship for International Students from Asian Nations
-Fukuoka International Exchange Foundation
+Waseda Korean Alumni Scholarship
+WASEDA University
 Academic level:
 Doctoral degree program
+Doctoral program with five-year system
 Master's degree program
+Professional degree program
 Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-College of technology
+Last update :2021/07/14
+Scholarship
+Yamada Taikichi and Asa Scholarship
+WASEDA University
+Academic level:
+Bachelor's degree program
 1
 2
 3
