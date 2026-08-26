@@ -965,7 +965,7 @@ Terms of use
 Transparency
 &copy; 2026 IDRC
 
-===== SOURCE PAGE: https://idrc.ca/en/about-idrc/open-access-policy-idrc-funded-project-outputs =====
+===== SOURCE PAGE: https://idrc.ca/en/about-idrc/policies-and-commitments/open-access-policy-idrc-funded-project-outputs =====
 Open Access Policy for IDRC-Funded Project Outputs | IDRC - International Development Research Centre
 Skip to main content
 To homepage
@@ -1058,6 +1058,7 @@ Media
 Fulltext search
 Home
 About IDRC
+Policies and commitments
 Open Access Policy for IDRC-Funded Project Outputs
 IDRC’s open access policy is based on the belief that full social and economic benefits of research in support of development should be available to everyone who could use it – and build on it – to improve people’s lives.
 The policy applies to all outputs resulting from proposals received after the policy took effect on July 20, 2015.

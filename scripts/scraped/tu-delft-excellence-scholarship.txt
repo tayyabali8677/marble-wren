@@ -477,7 +477,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -502,7 +502,7 @@ Students
 Researchers
 Alumni
 About us
-Menu sluiten
+Menu openen
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -658,7 +658,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting

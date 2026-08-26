@@ -395,7 +395,7 @@ It’s a smart idea to have a plan when it comes to attending postgraduate open 
 Similar articles and videos
 How to become a speech and language therapist
 05 th June 2023
-755 views
+756 views
 How to become a paramedic
 05 th June 2023
 493 views
@@ -625,7 +625,7 @@ It’s a smart idea to have a plan when it comes to attending postgraduate open 
 Similar articles and videos
 How to become a speech and language therapist
 05 th June 2023
-755 views
+756 views
 How to become a paramedic
 05 th June 2023
 493 views
@@ -1235,23 +1235,6 @@ Writing a PhD personal statement
 Guide to the PGDip
 What is a STEM degree?
 Guide to the PGCE
-Connect
-Site links
-About us
-Terms & Conditions
-Privacy Notice
-Advertise
-Cookies Policy
-Contact
-Sitemap
-Browse
-View all subjects
-Search universities
-More qualifications
-University prospectuses
-Open days
-Read reviews
-© IDP Connect Ltd 2026. All rights reserved
 Filter
 Use these filters to narrow down your scholarship options based on your preferred criteria
 University
@@ -1567,15 +1550,32 @@ Travel tuition
 Tuition fees
 Varies
 Clear Show all 153 results
+Connect
+Site links
+About us
+Terms & Conditions
+Privacy Notice
+Advertise
+Cookies Policy
+Contact
+Sitemap
+Browse
+View all subjects
+Search universities
+More qualifications
+University prospectuses
+Open days
+Read reviews
+© IDP Connect Ltd 2026. All rights reserved
 Funding
 Scholarships
 Law
-The Professor Brenda Barrett Bursaries
-Middlesex University
+30% Final Year Undergraduate Continuation Scholarship
+University of East Anglia UEA
 Award criteria:
-Academic excellence, Income related
+Academic excellence
 Funding amount:
-£1,000
+30% of fees
 Deadline:
 Not specified
 Request info Visit website
@@ -1587,15 +1587,6 @@ Where do scholarships come from?
 What are scholarships awarded for?
 Can you have multiple scholarships?
 Do you have to pay scholarships back?
-30% Final Year Undergraduate Continuation Scholarship
-University of East Anglia UEA
-Award criteria:
-Academic excellence
-Funding amount:
-30% of fees
-Deadline:
-Not specified
-Request info Visit website
 International Early Payment Awards (September Start)
 University of East Anglia UEA
 Award criteria:
@@ -1623,6 +1614,15 @@ UEA + Sport Individual Scholarship
 University of East Anglia UEA
 Award criteria:
 Sport
+Deadline:
+Not specified
+Request info Visit website
+10% Alumni Tuition Fee Discount Scheme
+University of East Anglia UEA
+Award criteria:
+Mature students
+Funding amount:
+10% of fees
 Deadline:
 Not specified
 Request info Visit website
