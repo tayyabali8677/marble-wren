@@ -589,22 +589,22 @@ Machine Intelligence
 +2 more
 Anmol Agarwal
 Natural Language Processing
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -613,19 +613,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
-Shreya Agrawal
-General Science
-Machine Intelligence
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
+Shreya Agrawal
+General Science
+Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,9 +651,6 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
@@ -666,6 +663,9 @@ Information Retrieval and the Web
 +2 more
 Zafarali Ahmed
 Machine Intelligence
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 1
 2
 3
