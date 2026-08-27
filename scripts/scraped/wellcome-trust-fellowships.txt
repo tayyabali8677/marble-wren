@@ -935,7 +935,7 @@ We believe using an engaged research approach improves research and makes it mor
 Check research-specific tools and guidance
 Embedding lived experience expertise in mental health research
 Lived experience is unique, person-centred knowledge, insight and expertise. Read our guidance on how to embed lived experience in mental health research.
-Common metrics in mental health research
+Common measures in mental health research
 What we expect from researchers who will be collecting new data on mental health outcomes.
 A framework for ethical governance of mental health databanks
 Potential risks and mitigation strategies that take into account the key ethical considerations associated with building and running a databank.

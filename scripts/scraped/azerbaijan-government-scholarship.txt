@@ -44,7 +44,7 @@ MINISTRY
 NEWSFLASH
 Calendar
 Contact
-Verify digital document
+Verify digital document ✓
 Education is the future of the nation!
 General Education
 Is an important area of activity that ensures the acquisition of knowledge, skills and habits by students.
@@ -73,19 +73,32 @@ The Minister of Science and Education met with the Secretary-General of the OTS
 The Minister of Science and Education meets with his Kazakh counterpart
 09.06.2026 - 10:19
 All news
-26/08/2026
-?10-cu sinif şagirdləri üçün elektron yerdəyişmə prosesinə başlanılır
+27/08/2026
+Elm və təhsil naziri Emin Əmrullayev sentyabrın 18-də Yardımlı şəhərində vətəndaşları qəbul edəcək.
+? Qəbula kimlər yazıla bilər?
+Yardımlı, Masallı, Cəlilabad sakinləri
+? Qəbula necə yazılmaq olar?
+? Çağrı Mərkəzi: 146 – 11 ilə əlaqə saxlayaraq
+? Elektron formada: www.edu.gov.az saytının “Əlaqə” bölməsinə daxil olaraq
+? “WhatsApp” vasitəsilə: +994 51 206 78 48 nömrəsinə müraciət göndərərək
+⏰ Qeydiyyat üçün son tarix: 08 sentyabr 2026-cı il (saat 18:00-dək)
+❗️ Qəbulda iştirak etmək üçün qeydiyyat mütləqdir.
+#ElmVəTəhsilNazirliyi #EduGovAz #EduAz #VətəndaşQəbulu
 More
-26/08/2026
-Zəfər tariximiz – Laçın Şəhəri Günü! ??
-#ElmvəTəhsilNazirliyi #EduGovAz #EduAz #QarabağAzərbaycandır #BöyükQayıdış
+27/08/2026
+? Ali təhsil müəssisələrinin bakalavriat səviyyəsinə qəbul olunan abituriyentlərin qeydiyyatına başlanılır.
+? Qeydiyyat 28 avqust saat 11:00-dan 8 sentyabr saat 18:00-dək yalnız my.gov.az ilə aparılacaq.
+? Qeydiyyat üçün mygov ID ilə şəxsi kabinetinizə daxil olun, “Xidmətlər” bölməsindən Elm və Təhsil Nazirliyini seçin və “Ali və orta ixtisas təhsil müəssisələrinə təhsilalanların qeydiyyatı” xidmətinə keçin.
+Məlumatlarınızı yoxlayın, tələb olunan sənədləri yükləyin və qeydiyyatınızı tamamlayın. Müraciətinizin statusunu isə “Xidmətin tarixçəsi” bölməsindən izləyə bilərsiniz.
+? Qeydiyyatdan keçməyən və təhsil müəssisəsi tərəfindən təsdiq almayan şəxslər qəbul olunanların siyahısından xaric edilə bilərlər.
+#mygov #Təhsil #Universitet #Qəbul2026 #RəqəmsalDövlət #AliTəhsi
 More
-25/08/2026
-Avqustun 25-də IV “Maarifçi” tələbə-məzun proqramı çərçivəsində xarici işlər nazirinin müavini Yalçın Rəfiyev proqram iştirakçıları ilə görüşüb.
-Görüşdə Yalçın Rəfiyev Azərbaycanın xarici siyasətinin əsas istiqamətləri, onun formalaşmasına təsir edən amillər və qərarların qəbul edilməsi mexanizmləri barədə fikirlərini bölüşüb.
-Müzakirələr zamanı, gənclərin dövlət idarəçiliyində fəal iştirakının, beynəlxalq proseslərə dair biliklərinin, analitik düşüncə və peşəkar bacarıqlarının inkişaf etdirilməsinin əhəmiyyəti vurğulanıb. Müxtəlif dövlət qurumları arasında əməkdaşlığın gənclərin inkişafı üçün yaratdığı imkanlar və “Maarifçi” proqramının bu istiqamətdə rolu barədə fikir mübadiləsi aparılıb.
-Ətraflı: https://edu.gov.az/az/news-and-updates/23276-1
-#ElmvəTəhsilNazirliyi #EduGovAz #EduAz #XİN #Maarifçi
+27/08/2026
+Elm və təhsil naziri Emin Əmrullayev IV “Maarifçi” tələbə-məzun proqramının iştirakçıları ilə görüşüb.
+Görüşdə elm və təhsil naziri “Maarifçi” tələbə-məzun proqramının gənclərin elm və təhsil sahəsində həyata keçirilən prosesləri yaxından tanımaları, real iş mühitində praktiki təcrübə qazanmaları və peşəkar inkişaf etmələri baxımından əhəmiyyətini vurğulayıb.
+Görüş çərçivəsində “Maarifçi”lərin təhsil sistemi ilə bağlı sualları cavablandırılıb, prioritet məsələlər ətrafında fikir mübadiləsi aparılıb.
+Ətraflı: https://edu.gov.az/az/news-and-updates/23280-1
+#ElmvəTəhsilNazirliyi #EduGovAz #EduAz #Maarifçi
 More
 President of the Republic of Azerbaijan
 First Vice-President of the Republic of Azerbaijan
@@ -148,7 +161,7 @@ MINISTRY
 NEWSFLASH
 Calendar
 Contact
-Verify digital document
+Verify digital document ✓
 Education is the future of the nation!
 Home
 Sualım var
@@ -209,7 +222,7 @@ MINISTRY
 NEWSFLASH
 Calendar
 Contact
-Verify digital document
+Verify digital document ✓
 Education is the future of the nation!
 Home
 Verify digital document
@@ -325,10 +338,10 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 2
+XƏBƏRLƏR 4
 Təqvim
 Əlaqə
-Elektron sənəd yoxlanışı
+Elektron sənəd yoxlanışı ✓
 ƏLÇATANLIQ
 Təhsil millətin gələcəyidir!
 Ana səhifə

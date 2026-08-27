@@ -87,16 +87,15 @@ Merken
 Bewerbungsgespräch für ein Stipendium : So wird dein Auswahlgespräch zum Erfolg
 Du hast es geschafft und eine Stiftung mit deiner schriftlichen Bewerbung überzeugt. Jetzt gilt es nur noch das Auswahlgespräch zu meistern. Was dein Gesprächspartner von dir erwartet und wie du ih...
 Merken
-Wer vergibt Stipendien? : Wo du ein Stipendium bekommen kannst
-In Deutschland gibt es Schätzungen zufolge über 2.300 Stipendiengeber. 2019 wurden bundesweit rund 28.200 Studierende mit einem Deutschlandstipendium gefördert.
-Am bekanntesten sind die dreizehn Be...
-Merken
 Wie gebe ich ein Stipendium in der Steuererklärung an? : Das will das Finanzamt wissen
 Eine finanzielle Förderung durch ein Stipendium wird nicht besteuert.
 Laut Einkommenssteuergesetz sind die Einnahmen aus einem Stipendium in der Regel steuerfrei, denn sie dienen der Förderung von...
 Merken
 Stipendium: Eine Definition : Was bedeutet Stipendium?
 Das Wort Stipendium kommt aus dem Lateinischen und bezeichnet die – zumeist finanzielle – Unterstützung eines Schülers, Studenten, Künstlers, Sportlers oder Wissenschaftlers. Stipendien sind ein we...
+Merken
+Wo und wie gebe ich ein Stipendium im Lebenslauf an? : Selbstdarstellung – aber richtig
+Ein Stipendium oder eine Auszeichnung im Lebenslauf anzugeben lohnt sich in jedem Fall. Bei einer Bewerbung geht es darum, sich gut darzustellen. Daher kann der Nachweis über ein Stipendium oder ei...
 Seite 1 von 4
 Spring zu Seite
 Los »
@@ -239,7 +238,7 @@ Jobbörse
 Login
 Menü
 Alles von e-fellows.net in einer App
-Im Podcast: Bosch über Karrireren von morgen
+Im Podcast: Bosch über Karrieren von morgen
 Für Studierende und Berufstätige
 e-fellows.net-Stipendium
 e-fellows.net-Stipendiumsleistungen
@@ -293,11 +292,6 @@ Startseite
 So funktioniert das e-fellows.net-Stipendium
 Bewirb dich schnell und hol dir alle Vorteile : Das Online-Stipendium von e&#8209;fellows.net
 Jetzt bewerben
-Wer kann sich bewerben?
-Im Studium : Stipendium für Studierende
-In der Oberstufe : Stipendium für Schüler
-Im Beruf : Stipendium für Berufstätige
-Find in diesem &#65279; kurzen Test innerhalb von 30 Sekunden heraus, wie deine Chancen sind.
 Hol dir das e&#8209;fellows.net-Stipendium in drei einfachen Schritten
 Die Bewerbung geht ganz schnell und ist kostenlos.
 1.
@@ -309,10 +303,22 @@ Stipendiums-
 leistungen nutzen
 Diese Vorteile warten schon auf dich
 Als e-fellows.net Stipendiat:in erhältst du exklusive Vorteile im Wert von über 1.000 Euro. Außerdem bekommst du Zugang zu unserem Netzwerk von Top-Unternehmen und führenden Hochschulen. Du willst es genauer wissen? Dann klick dich durch unser Angebot.
-Print-Abo : DIE ZEIT Print kostenlos lesen
-Bis zu 90 Euro Rabatt : Versicherungsschutz mit 60 Euro Rabatt
-Verlosung : Kostenlose Fachbücher für Stipendiat:innen und Alumni
-Alle Vorteile
+E-Learning : Übe dein Vorstellungsgespräch –
+30 Minuten gratis
+Gutschein für Lektorat und Plagiatsprüfung : Rabatt in Höhe von bis zu 20 % bei korrektur.de
+Jura Rechercheplattform : Kostenlose KI-gestützte Rechtsrecherche mit Anita
+Aktionsmodul Gesellschaftsrecht von Otto Schmidt
+Aktionsmodul Zivilrecht von Otto Schmidt
+Aktionsmodul Steuerrecht von Otto Schmidt
+Juristische Datenbanken mit KI : Otto Schmidt online und Answers
+KI-basierte Lern-Plattform : Uni verstehen, statt nur auswendig lernen – mit Alice.tech
+Die Event-Angebote der Deutschen Bahn
+Gutschein für EF Sprachreisen : Rabatt in Höhe von 12% auf flexible Sprachreisen
+Wer kann sich bewerben?
+Im Studium : Stipendium für Studierende
+In der Oberstufe : Stipendium für Schüler
+Im Beruf : Stipendium für Berufstätige
+Find in diesem &#65279; kurzen Test innerhalb von 30 Sekunden heraus, wie deine Chancen sind.
 Für die Bewerbung solltest du griffbereit haben:
 dein (Fach-)Abiturzeugnis
 Infos über dein Studium (Zeiträume, Noten)
@@ -377,7 +383,7 @@ Jobbörse
 Login
 Menü
 Alles von e-fellows.net in einer App
-Im Podcast: Bosch über Karrireren von morgen
+Im Podcast: Bosch über Karrieren von morgen
 Für Studierende und Berufstätige
 e-fellows.net-Stipendium
 e-fellows.net-Stipendiumsleistungen
@@ -605,7 +611,7 @@ Jobbörse
 Login
 Menü
 Alles von e-fellows.net in einer App
-Im Podcast: Bosch über Karrireren von morgen
+Im Podcast: Bosch über Karrieren von morgen
 Für Studierende und Berufstätige
 e-fellows.net-Stipendium
 e-fellows.net-Stipendiumsleistungen
@@ -903,7 +909,7 @@ Jobbörse
 Login
 Menü
 Alles von e-fellows.net in einer App
-Im Podcast: Bosch über Karrireren von morgen
+Im Podcast: Bosch über Karrieren von morgen
 Für Studierende und Berufstätige
 e-fellows.net-Stipendium
 e-fellows.net-Stipendiumsleistungen
