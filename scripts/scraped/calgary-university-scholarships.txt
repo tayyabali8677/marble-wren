@@ -716,9 +716,12 @@ Note: If an e-Transfer refund can't be issued for a domestic payment of less tha
 Note: Flywire refunds will be sent to the original payment country of origin. They can’t be issued to a sanctioned country.
 Residence payments are refunded by cheque to your Canadian address on file.
 Residence payment refunds
-Residence payments are refunded by cheque to your Canadian address on file.
-If the student's address on file is international, the refund will be issued via Flywire. Once your refund is approved, you'll receive an email from Flywire requesting your account information. After you provide your details to Flywire, you should receive your refund within 10 business days.
-Note: Flywire refunds will be sent to the original payment country of origin. They can’t be issued to a sanctioned country.
+How a residence payment is refunded depends on the original payment method.
+Domestic residence payments are refunded through cheque to your Canadian address on file.
+Flywire residence payments are refunded back through Flywire to the original source payor and country.
+Convera residence payments will be refunded back through Convera.
+CIBC Student Pay International residence payments will be refunded through Flywire.
+Note: International payment refunds cannot be issued to a sanctioned country.
 Scholarships, awards, and bursary refunds
 In most cases, UCalgary undergraduate award payments are split equally between the Fall and the Winter terms. View additional information on how awards are paid out .
 Undergraduate award overpayments are refunded by direct deposit. They go in on Oct. 10 for the Fall Term and Feb. 10 for the Winter Term. Refunds are automatically issued if your direct deposit information is updated in your Student Centre .

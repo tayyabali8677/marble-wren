@@ -135,7 +135,7 @@ Selection base: Academic merit
 Open for applications Requires application
 ACTION Trust Scholarship
 Number offered: 2
-Value: Variable
+Value: $5,000 per annum
 Selection base: Academic merit
 Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
@@ -444,7 +444,7 @@ Selection base: Academic merit
 Open for applications Requires application
 ACTION Trust Scholarship
 Number offered: 2
-Value: Variable
+Value: $5,000 per annum
 Selection base: Academic merit
 Open for applications Requires application EXTERNAL SCHOLARSHIP
 AgriFutures Horizon Scholarship
