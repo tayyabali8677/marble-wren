@@ -3,7 +3,6 @@ Embark on a Global Research Journey with Globalink Internship
 Contact Us
 News &#038; Events
 Mitacs Plus
-English
 Français
 Get Started
 Menu
@@ -439,8 +438,8 @@ Note: If you cannot find your home institution on the drop-down menu, email  [e
 Eligible applicants:
 Full-time undergraduate students or combined undergraduate-Master’s program
 Students must be in the third year of engineering studies
-Earliest graduation date (i.e. applicants cannot graduate before): September 1st 2028
-Latest graduation date (i.e. applicants cannot graduate after): December 31st  2028
+Earliest graduation date (i.e. applicants cannot graduate before): September 1st 2027
+Latest graduation date (i.e. applicants cannot graduate after): December 31st  2027
 Minimum cumulative grade point average:  80%
 Eligible disciplines:  Engineering
 Language proficiency exam requirements:  No
@@ -684,7 +683,6 @@ GRI 2027 Eligible Universities - Mitacs
 Contact Us
 News &#038; Events
 Mitacs Plus
-English
 Français
 Get Started
 Menu
@@ -723,7 +721,7 @@ University of Innsbruck
 Brazil &#8211; 2027 Cohort Eligibility
 Partner(s):  Fundação Araucária &#8211;  https://www.fappr.pr.gov.br/
 Eligible Institutions :
-All Science, Technology and Innovation Institutions (ICTs) and universities located in the State of Paraná, Brazil, with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
+Only public, Technology and Innovation Institutions (ICTs) or private non-profit ICTs as defined under Paraná State Law No. 20,541/2021 with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
 Chile &#8211; 2027 Cohort Eligibility
 Partner(s):  CRUCH-FUDEA
 FUDEA &#8211;  https://www.fudeaufro.cl/
@@ -1150,7 +1148,6 @@ GRI 2027 Eligible Universities - Mitacs
 Contact Us
 News &#038; Events
 Mitacs Plus
-English
 Français
 Get Started
 Menu
@@ -1189,7 +1186,7 @@ University of Innsbruck
 Brazil &#8211; 2027 Cohort Eligibility
 Partner(s):  Fundação Araucária &#8211;  https://www.fappr.pr.gov.br/
 Eligible Institutions :
-All Science, Technology and Innovation Institutions (ICTs) and universities located in the State of Paraná, Brazil, with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
+Only public, Technology and Innovation Institutions (ICTs) or private non-profit ICTs as defined under Paraná State Law No. 20,541/2021 with headquarters/CNPJ in Paraná, as approved by Fundação Araucária.
 Chile &#8211; 2027 Cohort Eligibility
 Partner(s):  CRUCH-FUDEA
 FUDEA &#8211;  https://www.fudeaufro.cl/
@@ -1616,7 +1613,6 @@ Mitacs Policies: Corporate and Program Guidelines - Mitacs
 Contact Us
 News &#038; Events
 Mitacs Plus
-English
 Français
 Get Started
 Menu

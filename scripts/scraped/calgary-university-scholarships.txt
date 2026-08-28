@@ -702,7 +702,8 @@ Refund requests for international payments
 An international payment is a payment that originated outside of Canada. International payments include:
 CIBC Student Pay (country outside of Canada)
 Convera Global Pay for Students (country outside of Canada)
-International payment refunds are issued by Flywire. Flywire refunds will be sent to the original payment country of origin. Once your refund is approved, you'll receive an email from Flywire requesting your account information. After you provide your details to Flywire, you should receive your refund within 10 business days.
+Convera International payment refunds are through Convera.
+CIBC Student Pay (country outside of Canada) refunds are issued through Flywire. Flywire refunds will be sent to the original payment country of origin. Once your refund is approved, you'll receive an email from Flywire requesting your account information. After you provide your details to Flywire, you should receive your refund within 10 business days.
 Note: Flywire refunds will be sent to the original payment country of origin. They can’t be issued to a sanctioned country.
 e-Transfer refunds
 e-Transfer refunds are issued for all domestic payments of less than $25,000 unless you paid via Flywire (refer to the Flywire section above for details). This is done through the email address we have on file.
@@ -724,9 +725,6 @@ CIBC Student Pay International residence payments will be refunded through Flywi
 Note: International payment refunds cannot be issued to a sanctioned country.
 Scholarships, awards, and bursary refunds
 In most cases, UCalgary undergraduate award payments are split equally between the Fall and the Winter terms. View additional information on how awards are paid out .
-Undergraduate award overpayments are refunded by direct deposit. They go in on Oct. 10 for the Fall Term and Feb. 10 for the Winter Term. Refunds are automatically issued if your direct deposit information is updated in your Student Centre .
-If your direct deposit information isn't updated, a cheque will be mailed to the Canadian mailing address on your file.
-To update your banking information, go to the My Financials section of your Student Centre and select Submit Direct Deposit Info .
 Not attending?
 If you decide to not attend UCalgary, drop all the courses in your Student Centre by the term course drop deadline. If you don't drop all your courses by that deadline, you'll owe the full tuition and fees amount that’s visible in your My Financials section of your Student Centre.
 Learn how to drop courses

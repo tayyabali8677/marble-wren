@@ -1848,13 +1848,13 @@ You can continue here if you'd like to receive the monthly newsletter for studen
 Date of birth
 Your date of birth is collected to confirm your identity and to match your details with a current or future application to Waterloo, if applicable. This information will be used solely for this purpose.
 When do you/your student plan to start university?
-- Select - September 2027 (if you&#039;re in Grade 12 or equivalent) September 2028 (if you&#039;re in Grade 11 or equivalent) September 2029 (if you&#039;re in Grade 10 or equivalent) September 2030 (if you&#039;re in Grade 9 or equivalent) September 2030 (if you&#039;re in Grade 8 or equivalent)
+- Select - September 2027 (if you&#039;re in Grade 12 or equivalent) September 2028 (if you&#039;re in Grade 11 or equivalent) September 2029 (if you&#039;re in Grade 10 or equivalent) September 2030 (if you&#039;re in Grade 9 or equivalent) September 2031 (if you&#039;re in Grade 8 or equivalent)
 Consent to receive emails
 I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-1 + 4 =
+6 + 5 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

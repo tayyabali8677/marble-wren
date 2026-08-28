@@ -344,17 +344,15 @@ You are here:
 University of Nottingham Study with us What next? Fees and funding
 Study with us
 Print
-Study with us
-Our courses
+Home
+Online study
 Book a call
-Study sustainability
 Why study with us?
 Student experience
+Study sustainability
 International students
 Visiting us
-Online study
 What next?
-Make an enquiry
 How to apply
 Fees and funding
 Frequently asked questions
@@ -363,7 +361,7 @@ Fees and funding
 We know studying at university is a big decision to make. We can help you find the right funding.
 Financial support
 Funding options
-Nottingham is an affordable city to live in and there are a variety of ways for you to finance your studies.
+Nottingham is an affordable city to live in and there are a variety of ways for you to finance your studies:
 Tuition Fee Loan and Maintenance Loan (undergraduate students only)
 Postgraduate Loan (postgraduate students only)
 Governmental support grants
