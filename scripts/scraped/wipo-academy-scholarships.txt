@@ -1354,8 +1354,8 @@ https://www.wipo.int/en/web/newsletters
 https://www.wipo.int/en/web/podcasts
 https://www.wipo.int/en/web/news/rss
 
-===== SOURCE PAGE: https://www.wipo.int/en/web/cdip =====
-Committee on Development and Intellectual Property (CDIP)
+===== SOURCE PAGE: https://www.wipo.int/cooperation/en/funds_in_trust/korea_edu/ =====
+Funds-in-Trust of the Republic of Korea for Intellectual Property and Education
 Skip to Main Content
 About Intellectual Property
 IP Training
@@ -1510,76 +1510,150 @@ Procurement
 Results & Budget
 Financial Reporting
 Oversight
-Committee on Development and Intellectual Property (CDIP)
-The Committee on Development and Intellectual Property (CDIP) was established by the WIPO General Assembly in 2007 with a mandate to:
-develop a work-program for implementing the 45 adopted Development Agenda recommendations;
-monitor, assess, discuss and report on the implementation of all recommendations adopted; and for that purpose to coordinate with relevant WIPO bodies; and
-discuss IP- and development-related issues as agreed by the Committee, as well as those decided by the General Assembly.
-The Committee reports and makes recommendations annually to the General Assembly.
-arrow_right
-Who can attend the CDIP?
-It is composed of all WIPO member states
-and is open to the participation, as observers, of all intergovernmental and non-governmental organizations with permanent observer status in WIPO
-, and of other IGOs and NGOs admitted by the Committee on an ad hoc basis (more information on CDIP accreditation
-).
-It is composed of all WIPO member states and is open to the participation, as observers, of all intergovernmental and non-governmental organizations with permanent observer status in WIPO , and of other IGOs and NGOs admitted by the Committee on an ad hoc basis (more information on CDIP accreditation ).
-arrow_right
-What are the key documents of the Development Agenda and the CDIP?
-Coordination Mechanisms and Monitoring, Assessing and Reporting Modalities
-CDIP Procedural and Organizational Matters
-arrow_right
-What are the 45 Development Agenda recommendations?
-In the 2007 General Assembly, WIPO Member States adopted 45 Development Agenda recommendations
-. The recommendations provide clear guidance to the Organization on how to better mainstream development considerations into all fields of work of the Organization.
-Delegates at a meeting of the CDIP (Photo: WIPO). More CDIP photos on Flickr.
-Meetings and documents
-Archive
-Committee on Development and Intellectual Property (CDIP): Thirty-Fifth Session
-November 17 to November 21, 2025 (Geneva, Switzerland) 10:00 - 18:00 Geneva time
-Committee on Development and Intellectual Property (CDIP): Thirty-Fourth Session
-May 5 to May 9, 2025 (Geneva, Switzerland) 10:00 - 18:00 Geneva time
-Committee on Development and Intellectual Property (CDIP): Thirty-Third Session
-December 9 to December 13, 2024 (Geneva, Switzerland) 10:00 - 18:00 Geneva time
-General Rules of Procedure of WIPO [ PDF ]
-CDIP Rules of Procedures
-CDIP activities
-In addition to practical projects decided on at the CDIP, the Development Agenda (DA) recommendations are also implemented through various activities and the development of resources and databases.
-IMAGE: Getty images/hadynyah
-Catalogue of DA projects
-Explore the catalogue of 60+ DA projects approved by the CDIP, contributing to the implementation of the DA recommendations.
-IMAGE: Getty Images/chabybucko
-IP and development discussions
-Under the CDIP agenda item “IP and Development”, Member States discuss IP and development-related issues. In 2018, the CDIP agreed to discuss one topic per session and to establish a Roster of Topics [ PDF ], which includes proposals by Member States. The Roster is open for contributions by Member States at any time, and is being periodically updated.
-Image: Getty images/TrixiePhoto
-Independent review
-The 2010 WIPO General Assembly requested the CDIP to undertake an "Independent Review of the Implementation of the Development Agenda Recommendations". The report prepared by the Review Team contained 15 findings, 14 conclusions and 12 recommendations [ PDF ].
-The CDIP adopted 10 of those recommendations and is currently in the process of negotiating how to implement them, based on a proposal made by the Secretariat .
-Webinars on technical assistance
-Following a decision taken by the CDIP, a series of webinars are organized on topics related to IP technical assistance and training.
+Funds-in-Trust of the Republic of Korea for Intellectual Property and Education
+WIPO and the The Ministry of Intellectual Property (MOIP) share a common vision to promote the benefits of intellectual property (IP) for developing countries, least-developed countries (LDCs), and countries in transition. Working towards this goal, Funds-in-Trust Korea (FIT/Korea) provides robust support through technical assistance and capacity-building initiatives, fuelling innovation and fostering a path toward sustainable development.
+The government of Korea made its voluntary contribution to WIPO, which established the FIT Industrial Property in 2004 and IP Education in 2011. The total contribution amounts is approximately 14.8 Million CHF.
+Projects of FIT/Korea from 2004
+Download the leaflet
+News
+All news
+Building the Foundations of Innovation: Timor-Leste’s Journey Toward Its First IP Office
+July 20, 2026
+From Lab to Market: Turning Ideas into Impact in ASEAN
+June 26, 2026
+Empowering Green Jungle Park Through Strong Branding: Strengthening Presence, Advancing Sustainability
+April 27, 2026
+Featured
+Video: Green Jungle Park
+FIT Korea videos
+All videos
+Green Jungle Park
+The funds at work
+Nurturing professionals for national IP ecosystems
+IMAGE: Prostock-Studio/iStock/Getty Images
+Fostering future IP leaders
+Support for youth through capacity-building educational programs. These programs cover the various intersections of IP and focus on nurturing future IP leaders.
+Joint Master’s Degree Program in IP and Development Policy (MIPD)
+Advanced International Certificate Course (AICC)
+WIPO Summer Schools 2023
+AI workshops 2021 , 2023
+IMAGE: WIPO/Berrod
+Enabling women in IP
+Empowering women in IP, including scientists, through tailored programs. These programs are designed to enhance women’s understanding of IP while encouraging their use of the IP system.
+Leadership Course for Women Scientists offered with UNESCO
+Women Leaders in IP and Invention Program offered with KWIA
+IMAGE: kate_sept2004 / E+]
+Helping SMEs
+Self-study learning courses and videos to support small and medium-sized enterprises (SMEs), entrepreneurs, and young professionals with IP skills and knowledge needed to use IP in their business.
+IP-Panorama
+Microlearning Videos for Startup and SME
+Capacity building for national government
+IMAGE: shironosov/iStock/Getty Images
+Enhancing IP policy expertise of governments
+Holistic training opportunities for member states on IP. The hybrid and in-person courses provide examiners and policymakers with industry best practices for utilizing IP in economic and social development.
+Training courses for IP Examiners
+On-site activities for AI in the Philippines in April 2024
+IP Course for Industrial Development offered with UNIDO
+IP Finance Masterclass 2023
+IMAGE: Pororo animation
+Sharing IP content for children
+Educational IP content for children delivered through the well-known animated character ‘Pororo.’ These initiatives, which include animation and workbooks, provide interactive learning experiences to inspire the youth while exploring the importance of IP.
+Pororo animation
+Pororo workbooks and guidebooks
+Workbook for inventing “How to make great ideas for Inventions”
+IMAGE: SDI Productions / E+]
+Strengthening the innovation and creativity of youth and teachers
+Tailored training for teachers, education policymakers and national IP offices to amplify national capacities for innovation and creativity education. Such pioneering educational initiatives encourage the development of effective IP education in member states.
+National Invention and Creativity Education (NICE) Project
+IP Impact Certificate Course (IPCC) – IPCC overview , 2023 IPCC Albania and Romania
+Promoting innovation and socio-economic development
+IMAGE: Halfpoint/iStock/Getty Images
+Patent information utilization
+The competitions have gained significant traction worldwide as platforms for promoting sustainable solutions to pressing global challenges. They fostered innovation and encouraged social entrepreneurship across various sectors.
+Appropriate Technology Competition
+IMAGE: hxyume / E+]
+Bolstering businesses through the commercial use of IP
+Technical assistance for the development of branding and IP strategies for SMEs. These projects empower developing countries to identify opportunities for using IP in the future and increase business competitiveness.
+Branding development projects
+IP commercialization project in Thailand
+IMAGE: AndreyPopov/iStock/Getty Images
+Supporting IP research and IP dispute resolution
+Aiding comprehensive research and development toolkits for various IP topics and technologies. These tools and knowledge help to promote the existing WIPO services and safeguard innovation.
+Block chain whitepaper
+Trade secrets guide
+The alternative dispute resolution (ADR) guide
 Related links
-Development
-Development Agenda
-IP Office Business Solutions
-Capacity Building
-Legislative & Policy Advice
-IP Strategies
-Reference
-WIPO Lex
-Country profiles
-Case studies (IP Advantage)
-Publications
-Statistics
-Inside WIPO
-Development Agenda Coordination Division
-Division for Africa
-Division for Arab countries
-Division for Asia and the Pacific
-Division for Latin America and the Caribbean
-Division for Least-Developed Countries
+WIPO Academy
+KIPO Academy
+Building Respect for IP: Awareness Raising
+The Economics of Intellectual Property in the Republic of Korea
+WIPO and the The Ministry of Intellectual Property (MOIP) share a common vision to promote the benefits of intellectual property (IP) for developing countries, least-developed countries (LDCs), and countries in transition. Working towards this goal, Funds-in-Trust Korea (FIT/Korea) provides robust support through technical assistance and capacity-building initiatives, fuelling innovation and fostering a path toward sustainable development.
+The government of Korea made its voluntary contribution to WIPO, which established the FIT Industrial Property in 2004 and IP Education in 2011. The total contribution amounts is approximately 14.8 Million CHF.
+Projects of FIT/Korea from 2004
+Download the leaflet
+The funds at work
+Nurturing Professionals for National IP Ecosystems
+(Photo: Prostock-Studio / iStock / GettyImages)
+Fostering future IP leaders
+Support for youth through capacity-building educational programs. These programs cover the various intersections of IP and focus on nurturing future IP leaders.
+Joint Master’s Degree Program in IP and Development Policy (MIPD)
+Advanced International Certificate Course (AICC)
+WIPO Summer Schools 2023
+AI workshops 2021 , 2023
+(Photo: WIPO/BERROD)
+Enabling women in IP
+Empowering women in IP, including scientists, through tailored programs. These programs are designed to enhance women’s understanding of IP while encouraging their use of the IP system.
+Leadership Course for Women Scientists offered with UNESCO
+Women Leaders in IP and Invention Program offered with KWIA
+(Photo: kate_sept2004 / E+])
+Helping SMEs
+Self-study learning courses and videos to support small and medium-sized enterprises (SMEs), entrepreneurs, and young professionals with IP skills and knowledge needed to use IP in their business.
+IP-Panorama
+Microlearning Videos for Startup and SME
+Capacity Building for National Government
+(Photo: shironosov / iStock / GettyImages)
+Enhancing IP policy expertise of governments
+Holistic training opportunities for member states on IP. The hybrid and in-person courses provide examiners and policymakers with industry best practices for utilizing IP in economic and social development.
+Training courses for IP Examiners
+On-site activities for AI in the Philippines in April 2024
+IP Course for Industrial Development offered with UNIDO
+IP Finance Masterclass 2023
+(Photo: Pororo animation)
+Sharing IP content for children
+Educational IP content for children delivered through the well-known animated character ‘Pororo.’ These initiatives, which include animation and workbooks, provide interactive learning experiences to inspire the youth while exploring the importance of IP.
+Pororo animation
+Pororo workbooks and guidebooks
+Workbook for inventing “How to make great ideas for Inventions”
+(Photo: SDI Productions / E+])
+Strengthening the innovation and creativity of youth and teachers
+Tailored training for teachers, education policymakers and national IP offices to amplify national capacities for innovation and creativity education. Such pioneering educational initiatives encourage the development of effective IP education in member states.
+National Invention and Creativity Education (NICE) Project
+IP Impact Certificate Course (IPCC) – IPCC overview , 2023 IPCC Albania and Romania
+Promoting Innovation and Socio-Economic Development
+(Photo:Halfpoint / iStock / GettyImages)
+Patent Information Utilization
+The competitions have gained significant traction worldwide as platforms for promoting sustainable solutions to pressing global challenges. They fostered innovation and encouraged social entrepreneurship across various sectors.
+Appropriate Technology Competition
+(Photo:hxyume / E+])
+Bolstering businesses through the commercial use of IP
+Technical assistance for the development of branding and IP strategies for SMEs. These projects empower developing countries to identify opportunities for using IP in the future and increase business competitiveness.
+Branding development projects
+IP commercialization project in Thailand
+(Photo: AndreyPopov / iStock / GettyImages)
+Supporting IP research and IP dispute resolution
+Aiding comprehensive research and development toolkits for various IP topics and technologies. These tools and knowledge help to promote the existing WIPO services and safeguard innovation.
+Block chain whitepaper
+Trade secrets guide
+The alternative dispute resolution (ADR) guide
+Related links
+WIPO Academy
+KIPO Academy
+Building Respect for IP: Awareness Raising
+The Economics of Intellectual Property in the Republic of Korea
 Hidden
-https://www.wipo.int/contact/en/area.jsp?area=cdip
+https://www.wipo.int/contact/en/area.jsp?area=devcoop
 https://www.wipo.int/pressroom/en/
-https://www.wipo.int/en/web/terms-of-use
+https://www.wipo.int/tools/en/disclaim.html
 https://www.wipo.int/en/web/privacy-policy
 https://www.wipo.int/en/web/accessibility
 https://www.wipo.int/en/web/sitemap
