@@ -1,0 +1,28 @@
+name: Monthly Privatize
+
+# marble-wren was made public on 2026-08-29 to unblock GitHub Actions after
+# hitting the account's free 2,000 min/month limit (no payment method on
+# file, so hitting the cap blocks every workflow in every private repo on
+# the account, not just the one over quota). This flips it back to private
+# on the 1st of each month, once the free quota has reset. If it gets
+# blocked again later in the month, gh-billing-guard (a separate always-
+# public watchdog repo — see its README) flips it back to public
+# automatically, since a blocked marble-wren can't run a job to fix itself.
+#
+# This job only ever needs to run while marble-wren is already public, so
+# it never hits the same bootstrap problem the watchdog exists to solve.
+
+on:
+  schedule:
+    - cron: "11 3 1 * *"
+  workflow_dispatch:
+
+jobs:
+  privatize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Flip marble-wren back to private
+        env:
+          GH_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+        run: |
+          gh repo edit tayyabali8677/marble-wren --visibility private --accept-visibility-change-consequences
