@@ -2,7 +2,9 @@ name: Run
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Was every 6h (4x/day); cut to every 12h to bring Actions minutes back
+    # under the free-tier monthly quota without exposing the repo publicly.
+    - cron: "0 */12 * * *"
   workflow_dispatch:
     inputs:
       slugs:
