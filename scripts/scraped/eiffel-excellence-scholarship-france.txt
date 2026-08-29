@@ -800,7 +800,7 @@ Recommended items
 Flag this item
 Article
 Image
-How to get around every day in France?
+How to travel in France?
 Flag this item
 Article
 Image
@@ -2081,11 +2081,11 @@ Recommended files
 Flag this item
 Dossier
 Image
-Rendez-vous en France !
+They chose to study in France, what about you?
 Flag this item
 Dossier
 Image
-France's position in international rankings
+Choose France, the national strategy to attract more international students
 All our reports
 Follow the main steps to come study in France
 Discover
@@ -2525,7 +2525,7 @@ A capital region
 Flag this item
 Article
 Image
-Campus France's missions
+Reception and monitoring foreign scholarship students
 All items
 Follow the main steps to come study in France
 Discover
