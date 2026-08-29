@@ -221,51 +221,63 @@ async function main() {
   const toCheck = scholarships.slice(0, isFinite(limit) ? limit : scholarships.length);
   console.log(`Checking ${toCheck.length} scholarship(s)${dryRun ? " (dry run)" : ""}...\n`);
 
-  const changes: StatusResult[] = [];
-  let checked = 0;
-  let skipped = 0;
-  let failed = 0;
+  // Checks used to run one scholarship at a time (fetch + Gemini + a fixed
+  // 1-1.5s delay per item), which was the single biggest Actions-minutes
+  // consumer in the repo at ~28.5 min/run. Each check is independent, so a
+  // bounded worker pool (same pattern as image-seo.ts's mapLimit) runs them
+  // concurrently instead. Concurrency is capped near the API key count so
+  // key rotation still spreads load rather than hammering one key per round.
+  const CONCURRENCY = Math.max(1, Math.min(8, API_KEYS.length || 1));
 
-  for (const row of toCheck) {
+  type CheckOutcome =
+    | { kind: "skip-fetch" }
+    | { kind: "skip-gemini" }
+    | { kind: "same" }
+    | { kind: "change"; result: StatusResult };
+
+  const outcomes = await mapLimit(toCheck, CONCURRENCY, async (row, idx) => {
     const url = row.data.officialWebsite!;
-    process.stdout.write(`[${checked + 1}/${toCheck.length}] ${row.slug} ... `);
+    const prefix = `[${idx + 1}/${toCheck.length}] ${row.slug}`;
 
     const pageText = await getPageText(url);
     if (!pageText) {
-      console.log("SKIP (could not fetch page)");
-      skipped++;
-      checked++;
-      await delay(1000);
-      continue;
+      console.log(`${prefix} ... SKIP (could not fetch page)`);
+      await delay(300);
+      return { kind: "skip-fetch" } as CheckOutcome;
     }
 
     const result = await checkStatus(row.slug, row.name, pageText);
     if (!result) {
-      console.log("SKIP (Gemini failed)");
-      failed++;
-      checked++;
-      await delay(1500);
-      continue;
+      console.log(`${prefix} ... SKIP (Gemini failed)`);
+      await delay(300);
+      return { kind: "skip-gemini" } as CheckOutcome;
     }
 
     const changed = result.status !== row.application_status;
     console.log(
-      `${changed ? "CHANGE" : "same"} ${row.application_status} → ${result.status}  (${result.reason})`
+      `${prefix} ... ${changed ? "CHANGE" : "same"} ${row.application_status} → ${result.status}  (${result.reason})`
     );
+    await delay(300);
 
-    if (changed) {
-      changes.push({
+    if (!changed) return { kind: "same" } as CheckOutcome;
+    return {
+      kind: "change",
+      result: {
         slug: row.slug,
         name: row.name,
         oldStatus: row.application_status,
         newStatus: result.status,
         reason: result.reason,
-      });
-    }
+      },
+    } as CheckOutcome;
+  });
 
-    checked++;
-    await delay(1500);
-  }
+  const checked = outcomes.length;
+  const skipped = outcomes.filter((o) => o.kind === "skip-fetch").length;
+  const failed = outcomes.filter((o) => o.kind === "skip-gemini").length;
+  const changes: StatusResult[] = outcomes
+    .filter((o): o is { kind: "change"; result: StatusResult } => o.kind === "change")
+    .map((o) => o.result);
 
   console.log(`\n── Summary ──────────────────────────────`);
   console.log(`Checked: ${checked}  |  Changed: ${changes.length}  |  Skipped: ${skipped}  |  Failed: ${failed}`);
@@ -321,6 +333,20 @@ async function main() {
 
 function delay(ms: number) {
   return new Promise((r) => setTimeout(r, ms));
+}
+
+async function mapLimit<T, R>(items: T[], limit: number, fn: (item: T, idx: number) => Promise<R>): Promise<R[]> {
+  const results: R[] = new Array(items.length);
+  let i = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(limit, items.length) }, async () => {
+      while (i < items.length) {
+        const idx = i++;
+        results[idx] = await fn(items[idx], idx);
+      }
+    })
+  );
+  return results;
 }
 
 main();
