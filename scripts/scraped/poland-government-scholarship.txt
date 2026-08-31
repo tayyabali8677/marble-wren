@@ -924,13 +924,6 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-Program stypendialny PLus – Aktywny Student 2026
-16.07.2026 - 30.08.2026
-„Program stypendialny PLus – Aktywny Student” to wsparcie dla osób polskiego pochodzenia studiujących za granicą, w krajach swojego zamieszkania. Nabór dotyczy roku kalendarzowego 2026 i prowadzony jest jako nabór podstawowy, czyli pierwszy etap programu.
-Szczegóły
-16
-Lip
-2026
 SAH IDEAS Research Fellowship – stypendium badawcze 2026
 16.07.2026 - 31.08.2026
 SAH IDEAS Research Fellowship to roczne stypendium badawcze Society of Architectural Historians dla początkujących badaczy i badaczek historii architektury. Program wspiera osoby, które identyfikują się jako członkowie grup historycznie marginalizowanych w SAH i środowisku akademickim, oraz projekty badawcze dotyczące tematów lub perspektyw słabiej reprezentowanych w historii architektury.
@@ -956,6 +949,13 @@ Stypendium Towarzystwa Copernicus 2026
 16.07.2026 - 01.09.2026
 Copernicus Stipendium Hamburg to program stypendialny prowadzony przez COPERNICUS e.V. dla studentów z Europy Wschodniej, Środkowej i Południowo-Wschodniej, Azji Środkowej oraz Afryki Północnej. Program umożliwia odbycie semestru studiów na Uniwersytecie w Hamburgu oraz obowiązkowej, 2-3 miesięcznej praktyki.
 Szczegóły
+16
+Lip
+2026
+CUSP Residency 2027 – rezydencja artystyczna w Reykjavíku
+16.07.2026 - 03.09.2026
+CUSP Residency 2027 to rezydencja artystyczna w Reykjavíku organizowana przez National Gallery of Iceland w ramach programu CUSP: Creative Understanding, Saving and Preserving Time-Based Media Art, finansowanego z grantu Creative Europe Culture. Nabór dotyczy artystów pracujących z mediami złożonymi lub nowymi technologiami, takimi jak generatywna AI, czujniki, dźwięk, oprogramowanie, blockchain albo formy hybrydowe.
+Szczegóły
 Start
 Poprzedni
 1
@@ -967,7 +967,6 @@ Poprzedni
 7
 8
 9
-10
 Następny
 Koniec
 Menu
