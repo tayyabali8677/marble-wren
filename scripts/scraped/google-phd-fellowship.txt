@@ -526,7 +526,7 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 183
 Machine Intelligence
-1005
+1004
 Machine Learning
 195
 Machine Perception
@@ -536,7 +536,7 @@ Machine Translation
 Mobile Systems
 86
 Natural Language Processing
-482
+481
 Networking
 135
 Operating Systems
@@ -555,7 +555,7 @@ Software Systems
 217
 Speech Processing
 156
-1 - 30 of 2199 researchers
+1 - 30 of 2198 researchers
 chip template
 Remove
 Martín Abadi
@@ -586,17 +586,11 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -604,6 +598,12 @@ Education Innovation
 +2 more
 Anmol Agarwal
 Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -650,21 +650,21 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
-Zafarali Ahmed
-Machine Intelligence
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 1
 2
 3

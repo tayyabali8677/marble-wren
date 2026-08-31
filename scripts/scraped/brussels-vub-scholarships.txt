@@ -622,7 +622,7 @@ Master Mind
 PRONABEC
 REI
 Interest-free study loan
-Social allowance and Caroline Pauwels Relief Fund
+Caroline Pauwels Relief Fund
 Scholarship from the Flemish Government
 VUB Scholarships for Master of Science in Photonics Engineering
 Reduced tuition fee
@@ -1279,6 +1279,7 @@ Breadcrumb
 Home
 Studeren aan de VUB
 Application and enrolment
+Startpagina studenten
 Study programmes
 Why study at VUB?
 Study choice & preparation

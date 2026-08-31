@@ -24,10 +24,10 @@ Zapomoga
 Regulamin świadczeń dla studentów UJ
 Składanie wniosków o świadczenia
 Oferta stypendialna dla cudzoziemców
+Fundusz wsparcia
 Stypendia NAWA
 Doktoranci
 Pytania i odpowiedzi
-Fundusz wsparcia
 USOSownia
 Inne stypendia i nagrody
 Fundusz Stypendialny im. Profesora Franciszka Ziejki
@@ -76,10 +76,10 @@ Zapomoga
 Regulamin świadczeń dla studentów UJ
 Składanie wniosków o świadczenia
 Oferta stypendialna dla cudzoziemców
+Fundusz wsparcia
 Stypendia NAWA
 Doktoranci
 Pytania i odpowiedzi
-Fundusz wsparcia
 USOSownia
 Inne stypendia i nagrody
 Stypendium UJ
@@ -248,10 +248,10 @@ Zapomoga
 Regulamin świadczeń dla studentów UJ
 Składanie wniosków o świadczenia
 Oferta stypendialna dla cudzoziemców
+Fundusz wsparcia
 Stypendia NAWA
 Doktoranci
 Pytania i odpowiedzi
-Fundusz wsparcia
 USOSownia
 Inne stypendia i nagrody
 Fundusz Stypendialny im. Profesora Franciszka Ziejki

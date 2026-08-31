@@ -297,9 +297,6 @@ Faperj informou também o início do funcionamento de 18 Institutos Nacionais de
 Saiba mais sobre Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados
 Prêmio Mulheres e Ciência do CNPq: terceira edição tem inscrições abertas até 10/09
 Saiba mais sobre Prêmio Mulheres e Ciência do CNPq: terceira edição tem inscrições abertas até 10/09
-CNPq divulga resultados de três chamadas da área de saúde
-Foram publicados resultados finais de dois editais e o resultado preliminar da 2ª fase de um terceiro.
-Saiba mais sobre CNPq divulga resultados de três chamadas da área de saúde
 Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
 Iniciativa tem parceria do MCTI e visa inserir mestres e doutores em microempresas, pequenas empresas e startups; duração máxima do apoio é de 30 meses, com contrapartida das empresas de 20% do valor do projeto. Ao menos 30% do investimento irá para N, NE e CO.
 Saiba mais sobre Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
@@ -330,11 +327,11 @@ Ciência e Tecnologia
 Programa Asas para o Futuro oferece bolsas para qualificação profissional de jovens mulheres; inscrições porrogadas até 31/08
 17/06/2026 15h28
 Educação e Pesquisa
-Takako Matusumura Tundisi - Nota de pesar
-24/08/2026 16h05
+CNPq divulga resultado final da chamada do Programa de apoio ao Centro Franco-Brasileiro de Biodiversidade Amazônica
+31/08/2026 13h54
 Educação e Pesquisa
-José de Sousa e Silva Júnior - Nota de pesar
-25/08/2026 17h26
+CNPq divulga resultados de três chamadas da área de saúde
+26/08/2026 18h20
 Chamadas Públicas
 Abertas para Submissão
 Análise em Andamento
@@ -368,8 +365,6 @@ Painel de Demanda e Atendimento
 Os dados disponibilizados pelo Painel são fundamentais para a análise sobre a dimensão e distribuição da demanda por recursos para fomento à pesquisa solicitados ao CNPq.
 Painel Lattes
 O Painel Lattes reúne dados extraídos dos currículos dos quase um milhão de mestres e doutores, cadastrados na Plataforma Lattes.
-Painel de Monitoramento da Iniciação Científica e Tecnológica
-Visualize indicadores e informações das instituições participantes dos Programas Institucionais de Indicação Científica e Tecnológica, de forma consolidada ou individual
 Saiba mais sobre os Painéis de Dados
 Plataformas
 Manuais de uso das plataformas
