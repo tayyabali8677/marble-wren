@@ -3546,5 +3546,12 @@
     "country": "Mexico",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Offered by the Government of Mexico through AMEXCID."
+  },
+  {
+    "slug": "schwarzman-scholars-masters-program-china",
+    "name": "Schwarzman Scholars Master’s Program at Tsinghua University",
+    "country": "China",
+    "url": "https://www.schwarzmanscholars.org/",
+    "note": "Extracted from Youth Opportunities listing."
   }
 ]
