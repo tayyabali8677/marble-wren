@@ -48,12 +48,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -184,12 +185,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services
@@ -565,12 +567,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -701,12 +704,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services
@@ -1075,12 +1079,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -1211,12 +1216,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services
@@ -1588,12 +1594,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -1724,12 +1731,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services
@@ -2090,12 +2098,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -2226,12 +2235,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services
@@ -2583,12 +2593,13 @@ Staff
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Libraries and Learning Services
 Policy hub
 Education Office
@@ -2719,12 +2730,13 @@ Staff email
 Staff intranet
 Office 365
 Hono
-PeopleSoft Financials
 Canvas
 Student Services Online
+Research Management Solution
 Space and resource booker
 Enterprise Insights Portal
 Forms register
+PeopleSoft Financials
 Change my password
 Staff information
 Libraries and Learning Services

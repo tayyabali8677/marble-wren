@@ -1366,7 +1366,7 @@ Submitting results
 Upload a copy of your Statement of Results (issued by CXC) to the Join U of T applicant portal or the Engineering Applicant Portal.
 Duolingo English Test
 Requirements
-The minimum requirement for tests completed on or after July 1st, 2024 is an overall score of 120 with a score of 120 in Production. The minimum requirement for tests completed before July 1st, 2024 is an overall score of 120, with no subscore below 100. For more information, visit the Duolingo English Test website .
+The minimum requirement for tests completed on or after July 1st, 2024 is an overall score of 120 with a score of 120 in Production. For more information, visit the Duolingo English Test website .
 Submitting results
 To avoid processing delays, do not send your results until you have received your U of T applicant number. To send your results, log in to your Duolingo English Test account and use the “Send Results” function to forward your results to “University of Toronto – Undergraduate”. You will be prompted to add your U of T applicant number to your request.
 English Language Diagnosis and Assessment/Certificate of Proficiency in English (ELDA/COPE)
@@ -1407,7 +1407,7 @@ Submitting results
 We only accept scores submitted electronically through myPTE account. For more information, visit the PTE Help Center: Scoring page .
 TOEFL iBT (including Home Edition and Paper Edition)
 Requirements
-The minimum requirement for tests taken before January 21, 2026 is a total score of 89 with 22 in each of Speaking and Writing. The requirements for applicants who took the test on or after January 21, 2026 is an overall score of 4.5 with 4.5 in Writing and 4.0 in Speaking.
+The minimum requirements are an overall score of 4.5 with 4.5 in writing and 4.0 in speaking. For applicants who completed the test before January 21, 2026 , the minimum requirement is a total score of 89 with 22 in each of Speaking and Writing.
 Applicants must achieve the scores listed above on a single date. TOEFL MyBest (super-scored) results will not be used.
 We do not accept TOEFL Essentials, TOEFL ITP or TOEFL ITP Plus for China for admission purposes.
 Submitting results

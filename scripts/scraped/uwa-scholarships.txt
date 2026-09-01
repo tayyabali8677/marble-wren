@@ -245,13 +245,21 @@ Content ID
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply =====
 How to Apply | Study | UWA
 Loading component...
-Loading component...
+How to apply
 Learn how to apply to UWA and take the first step towards your degree. Explore your entry pathways, understand the qualifications you’ll need, and get clear guidance to start your application today.
 Find out how to apply Apply now, or choose your application type below and see the step-by-step process for applying to UWA.
 No page sections found for navigation.
-Loading component...
+Are you an international student?
+Applying to UWA is different from domestic applications. Find out what you need to get started.
+Not sure where to start?
+Find out more about our range of available pathways and how to meet eligibility for entry before you apply.
+Ready to apply?
+Applications are open! Apply now to secure your place at UWA and start planning your future.
 Undergraduate applications Ready to begin your university journey? Start here if you're applying for an undergraduate university degree.
-Loading component...
+University preparation program students
+There’s a path for you at UWA. Our university preparation programs help you achieve entry while building the skills and confidence to succeed in your degree.
+Undergraduate students
+Applying for an undergraduate degree? No matter your career goals, you’ll find a course that’s the right fit for you.
 Postgraduate applications Ready to create impact in your field? Start here to advance your career, change direction or deepen your expertise.
 Loading component...
 Studying abroad or transferring Start here if you're studying at another university and want to transfer to UWA, want to study abroad as part of your degree, or are looking to join us from overseas.
@@ -364,17 +372,6 @@ Support information
 UWA
 Study
 How to apply
-How to apply
-Are you an international student?
-Applying to UWA is different from domestic applications. Find out what you need to get started.
-Not sure where to start?
-Find out more about our range of available pathways and how to meet eligibility for entry before you apply.
-Ready to apply?
-Applications are open! Apply now to secure your place at UWA and start planning your future.
-University preparation program students
-There’s a path for you at UWA. Our university preparation programs help you achieve entry while building the skills and confidence to succeed in your degree.
-Undergraduate students
-Applying for an undergraduate degree? No matter your career goals, you’ll find a course that’s the right fit for you.
 Postgraduate students
 Whether you&#x27;re looking to develop your skills or change jobs completely, a postgraduate degree will take your career to the next level.
 Honours students
@@ -448,12 +445,30 @@ This page XMC Item ID: 67635102-0adc-456f-95f0-00649dcc6fa0
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/scholarships-and-fees =====
 Scholarships and fees | Study | UWA
 Loading component...
-Loading component...
+Scholarships and fees
 Starting university is a big step, and it’s important to understand the costs involved. Whether you're a domestic or international student, you’ll find all the key information about scholarships and fees here to help you plan for your future with confidence.
-Loading component...
-Loading component...
-Loading component...
-Loading component...
+Domestic student fees
+Find all the information you need on fees relating to tuition, administration and amenities while studying at UWA.
+International student fees
+Learn about UWA’s international student fees, scholarships, and government incentives to help you succeed in Perth.
+Calculate your tuition fees
+Find out about the tuition costs and how you can pay while studying at UWA.
+Cost of living
+Explore the cost of living in Perth and plan your budget for studying at UWA.
+Frequently Asked Questions
+Get the latest answers to your most common UWA fee questions.
+Explore UWA scholarships
+Discover fees information and learn about the wide range of scholarships we have available to help you.
+Learn more
+Additional resources
+HELP loans
+Refunds and remissions
+Student Services and Amenities Fee
+Australia Awards and sponsored students
+Current student fees
+Start shaping your future at a UWA Open Night
+Experience uni beyond a brochure. Come along to an Open Night to hear real stories from current students, connect with our academics, and explore study areas that match your goals.
+Find out more
 You may be interested in
 Loading component...
 Loading component...
@@ -557,29 +572,6 @@ Support information
 UWA
 Study
 Scholarships and fees
-Scholarships and fees
-Domestic student fees
-Find all the information you need on fees relating to tuition, administration and amenities while studying at UWA.
-International student fees
-Learn about UWA’s international student fees, scholarships, and government incentives to help you succeed in Perth.
-Calculate your tuition fees
-Find out about the tuition costs and how you can pay while studying at UWA.
-Cost of living
-Explore the cost of living in Perth and plan your budget for studying at UWA.
-Frequently Asked Questions
-Get the latest answers to your most common UWA fee questions.
-Explore UWA scholarships
-Discover fees information and learn about the wide range of scholarships we have available to help you.
-Learn more
-Additional resources
-HELP loans
-Refunds and remissions
-Student Services and Amenities Fee
-Australia Awards and sponsored students
-Current student fees
-Start shaping your future at a UWA Open Night
-Experience uni beyond a brochure. Come along to an Open Night to hear real stories from current students, connect with our academics, and explore study areas that match your goals.
-Find out more
 Find a course
 Discover your perfect course and kickstart your career with a world top 100 university.
 How to apply
@@ -630,10 +622,33 @@ This page XMC Item ID: 39f1686f-401a-404d-b621-63f2d0a928c8
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/undergraduate =====
 Undergraduate | Study | UWA
 Loading component...
-Loading component...
+How to apply for an undergraduate course
+Ready to take the next step towards your future? Follow our general guide on applying for a bachelor’s degree as a domestic applicant.
+Apply now Enquire
 How to apply
-Loading component...
-Loading component...
+Choose your course
+Choosing what to study is a personal choice and we’d encourage you to select what interests you.
+Explore study areas
+Find a course
+Are you considering honours? Find out if you’re eligible and how to apply
+Apply for honours Check entry requirements
+Entry to most courses is assessed on your ATAR or equivalent , as well as English language requirements . For some courses there are additional entry requirements and/or prerequisites. Choose your entry pathway
+Not sure if you will meet the entry requirements? There are many ways to join UWA – choose the entry pathway that suits you best.
+Explore entry pathways Apply online
+Once you’ve selected your pathway, you can apply online. Application open and close dates apply to some courses. Depending on the type of applicant you are, you will either apply direct to UWA or through the Tertiary Institutions Service Centre (TISC) .
+Year 12 school leavers
+All current year 12 school leaver applications should be submitted through TISC . This include early offers applications. Follow the TISC applying online guide for detailed steps on the process.
+Non-school leavers and year 12 international students
+Create a profile in UWA Apply and login to get started
+Select your course, entry pathway and upload supporting documents
+Save or submit your application
+Apply direct
+Apply through TISC Accept your offer
+You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
+Accept your offer
+Ready to apply?
+Applications are open! Apply now to secure your place at UWA and start planning your future.
+Apply now
 Loading component...
 Loading component...
 Loading component...
@@ -738,32 +753,6 @@ UWA
 Study
 How to apply
 Undergraduate
-How to apply for an undergraduate course
-Ready to take the next step towards your future? Follow our general guide on applying for a bachelor’s degree as a domestic applicant.
-Apply now Enquire
-Choose your course
-Choosing what to study is a personal choice and we’d encourage you to select what interests you.
-Explore study areas
-Find a course
-Are you considering honours? Find out if you’re eligible and how to apply
-Apply for honours Check entry requirements
-Entry to most courses is assessed on your ATAR or equivalent , as well as English language requirements . For some courses there are additional entry requirements and/or prerequisites. Choose your entry pathway
-Not sure if you will meet the entry requirements? There are many ways to join UWA – choose the entry pathway that suits you best.
-Explore entry pathways Apply online
-Once you’ve selected your pathway, you can apply online. Application open and close dates apply to some courses. Depending on the type of applicant you are, you will either apply direct to UWA or through the Tertiary Institutions Service Centre (TISC) .
-Year 12 school leavers
-All current year 12 school leaver applications should be submitted through TISC . This include early offers applications. Follow the TISC applying online guide for detailed steps on the process.
-Non-school leavers and year 12 international students
-Create a profile in UWA Apply and login to get started
-Select your course, entry pathway and upload supporting documents
-Save or submit your application
-Apply direct
-Apply through TISC Accept your offer
-You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
-Accept your offer
-Ready to apply?
-Applications are open! Apply now to secure your place at UWA and start planning your future.
-Apply now
 Are you an international student?
 Applying to UWA is different from domestic applications. Find out what you need to do to get started.
 Entry pathways
@@ -814,13 +803,37 @@ This page XMC Item ID: 82e7ccd3-9eec-47d5-8d5e-5d4c548be1a6
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/postgraduate =====
 Postgraduate | Study | UWA
 Loading component...
-Loading component...
+How to apply for postgraduate coursework
+Follow our general guide on applying for a master’s degree, graduate diploma or graduate certificate as a domestic applicant.
+Apply now Enquire
 How to apply
-Loading component...
-Loading component...
+Choose your course
+Choosing what to study is a personal choice and we’d encourage you to select what interests you. You can choose to study a graduate certificate, graduate diploma or at a master's degree level.
+Explore postgraduate courses Check entry requirements
+Review the entry requirements for your course before you apply. For entry into a postgraduate course, you’ll need to:
+Meet the English language requirements
+Have completed a recognised qualification to meet our academic requirements
+Meet any additional requirements for your chosen course Prepare your supporting documents
+Before you apply, you’ll to prepare the below supporting documents:
+A copy of your academic results
+A copy of your English test results (if available)
+Proof of citizenship
+Any additional documents required for your chosen course Apply online
+Once you’ve prepared for your application, you can apply online through UWA Apply . To apply online you’ll need to:
+Create a profile and log in to get stared
+Select your course and upload supporting documents
+Save or submit your application
+If you’re a Domestic student applying for the Doctor of Medicine , then you’ll need to apply through the Graduate Entry Medical School Admissions System (GEMAS)
+Apply now Accept your offer
+You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
+Are you an international student?
+Applying to UWA is different from domestic applications. Find out what you need to do to get started.
+How to apply
 Application dates
 Loading component...
-Loading component...
+Ready to apply?
+Applications are open! Apply now to secure your place at UWA and start planning your future.
+Apply now
 Loading component...
 Loading component...
 Study
@@ -923,31 +936,6 @@ UWA
 Study
 How to apply
 Postgraduate
-How to apply for postgraduate coursework
-Follow our general guide on applying for a master’s degree, graduate diploma or graduate certificate as a domestic applicant.
-Apply now Enquire
-Choose your course
-Choosing what to study is a personal choice and we’d encourage you to select what interests you. You can choose to study a graduate certificate, graduate diploma or at a master's degree level.
-Explore postgraduate courses Check entry requirements
-Review the entry requirements for your course before you apply. For entry into a postgraduate course, you’ll need to:
-Meet the English language requirements
-Have completed a recognised qualification to meet our academic requirements
-Meet any additional requirements for your chosen course Prepare your supporting documents
-Before you apply, you’ll to prepare the below supporting documents:
-A copy of your academic results
-A copy of your English test results (if available)
-Proof of citizenship
-Any additional documents required for your chosen course Apply online
-Once you’ve prepared for your application, you can apply online through UWA Apply . To apply online you’ll need to:
-Create a profile and log in to get stared
-Select your course and upload supporting documents
-Save or submit your application
-If you’re a Domestic student applying for the Doctor of Medicine , then you’ll need to apply through the Graduate Entry Medical School Admissions System (GEMAS)
-Apply now Accept your offer
-You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
-Are you an international student?
-Applying to UWA is different from domestic applications. Find out what you need to do to get started.
-How to apply
 Domestic and onshore
 2026 2027
 Apply for Semester 1 by Apply for Semester 2 by Apply for Semester 1 by Apply for Semester 2 by
@@ -1154,9 +1142,6 @@ International main round applications close on 30 June 2026 with a second applic
 Master of Teaching (Primary) (31520) Not available in 2027 Not available in 2027 Not available in 2027
 Master of Teaching (Secondary) (32550) January 2027 Open now 15 January 2027
 Master of Legal Practice (21560) Not available in 2027 Not available in 2027 Not available in 2027
-Ready to apply?
-Applications are open! Apply now to secure your place at UWA and start planning your future.
-Apply now
 Need some help? Get in touch
 View FAQs
 View our Frequently Asked Questions for all UWA-related queries.
@@ -1201,12 +1186,27 @@ This page XMC Item ID: eda6a59f-2590-4fea-aa92-96a6f8d31ed9
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/higher-degree-by-research =====
 Higher Degree by Research | Study | UWA
 Loading component...
-Loading component...
+How to apply for a Higher Degree by Research
+Follow this guide to learn how to apply for a Higher Degree by Research (HDR), from PhDs and combined PhDs to Master&#x27;s by Research.
+Apply now
 Steps to apply for HDR
 Loading component...
-Loading component...
-Loading component...
-Loading component...
+Ready to apply?
+Applications are open! Apply now to secure your place at UWA and start planning your future.
+Apply now
+Research scholarships Learn about the range of scholarships available to both domestic and international students.
+Learn more about research scholarships Search scholarships
+Partially completed research degree
+Applying for admission with a partially completed research degree from another university
+Research students are welcome to apply for a place at UWA based on current or previous enrolment in a partially completed program, noting:
+candidature time already used will normally be deducted from the candidature time limit for the degree at UWA,
+evidence of withdrawal from the current enrolment including the amount of EFTSL consumed will be required prior to commencement at UWA,
+Research Training Program (RTP) scholarships are not transferable between universities and an application for scholarship will need to be submitted in the normal process.
+When submitting an application, you will be asked to include:
+a statement of circumstances leading to the change of university,
+a completion plan that includes a detailed timeline of remaining tasks.
+International applicants may be required to provide a university release letter if enrolled for less than 6 months.
+Please submit your application via the UWA HDR application portal.
 Loading component...
 Loading component...
 Study
@@ -1309,9 +1309,6 @@ UWA
 Study
 How to apply
 Higher Degree by Research
-How to apply for a Higher Degree by Research
-Follow this guide to learn how to apply for a Higher Degree by Research (HDR), from PhDs and combined PhDs to Master&#x27;s by Research.
-Apply now
 Choose your course or project
 Research is an exciting journey of independent, supervised discovery. There are several types of research degrees available at UWA. You can choose a degree that is research only or combine research with some structured coursework. If you already have an idea of your own research, submit your application for a specific course outlining your research proposal.
 You may find your skills, experience and interest align with an existing research project defined by an academic research team. You can browse available projects and apply directly for a specific project opportunity.
@@ -1344,22 +1341,6 @@ You’ll receive the outcome of your application via email. Please note that all
 Once you formally accept your offer, you can enrol in your course. Specific instructions on enrolment will be provided to you at this time.
 Enrolment can take place any time during the year, except December and January.
 There are some HDR courses such as the Doctor of Education, Doctor of Juridical Science and some Masters by Thesis and Coursework where commencement must align with the semester start date.
-Ready to apply?
-Applications are open! Apply now to secure your place at UWA and start planning your future.
-Apply now
-Research scholarships Learn about the range of scholarships available to both domestic and international students.
-Learn more about research scholarships Search scholarships
-Partially completed research degree
-Applying for admission with a partially completed research degree from another university
-Research students are welcome to apply for a place at UWA based on current or previous enrolment in a partially completed program, noting:
-candidature time already used will normally be deducted from the candidature time limit for the degree at UWA,
-evidence of withdrawal from the current enrolment including the amount of EFTSL consumed will be required prior to commencement at UWA,
-Research Training Program (RTP) scholarships are not transferable between universities and an application for scholarship will need to be submitted in the normal process.
-When submitting an application, you will be asked to include:
-a statement of circumstances leading to the change of university,
-a completion plan that includes a detailed timeline of remaining tasks.
-International applicants may be required to provide a university release letter if enrolled for less than 6 months.
-Please submit your application via the UWA HDR application portal.
 Get in touch
 Send an enquiry
 Get in touch with our Graduate Research School team

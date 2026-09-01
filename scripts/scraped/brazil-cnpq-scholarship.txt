@@ -365,6 +365,8 @@ Painel de Demanda e Atendimento
 Os dados disponibilizados pelo Painel são fundamentais para a análise sobre a dimensão e distribuição da demanda por recursos para fomento à pesquisa solicitados ao CNPq.
 Painel Lattes
 O Painel Lattes reúne dados extraídos dos currículos dos quase um milhão de mestres e doutores, cadastrados na Plataforma Lattes.
+Painel da Iniciação Científica e Tecnológica - PIBIC/PIBIT
+Visualize indicadores e informações das instituições participantes dos Programas Institucionais de Indicação Científica e Tecnológica, de forma consolidada ou individual
 Saiba mais sobre os Painéis de Dados
 Plataformas
 Manuais de uso das plataformas
