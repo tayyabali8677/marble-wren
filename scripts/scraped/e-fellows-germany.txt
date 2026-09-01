@@ -469,13 +469,13 @@ Datenbanken von beck-online bis Spektrum
 Quellen für Referate, Seminar- und Abschlussarbeiten gesucht? e-fellows.net-Stipendiat:innen recherchieren kostenlos in vielen Datenbanken und Facharchiven.
 Datenbanken : Kostenlos auf beck-online recherchieren
 Datenbanken : Kostenlos bei juris recherchieren
-Digital-Abo und Datenbank : Im Archiv von Spektrum der Wissenschaft recherchieren
 Datenbanken : Digitale Gesetzessammlung für iPhone und iPad
 Digital-Abo und Datenbank : Im Archiv von Sterne und Weltraum recherchieren
 Juristische Datenbanken mit KI : Otto Schmidt online und Answers
 Datenbanken : iX magazin - Recherche für IT-Fans
 Datenbanken : c&#039;t - das Magazin für Computertechnik
 Digital-Abo und Datenbank : Im Archiv von Gehirn & Geist recherchieren
+Digital-Abo und Datenbank : Im Archiv von Spektrum der Wissenschaft recherchieren
 Fachbücher und Karriere-Ratgeber
 Als e-fellows.net-Stipendiat:in liest du zahlreiche Fach- und Karrierebücher kostenlos. Damit hast du exklusiven Zugriff auf Insider-Wissen u.a. aus der Jura-, Consulting-, MINT- und Banking-Branche.
 Verlosung : Kostenlose Fachbücher für Stipendiat:innen und Alumni
@@ -816,7 +816,7 @@ Studenten und Wissenschaftler mit Kind
 Waisen
 Filter anwenden
 Filter entfernen
-Seite 1 von 61
+Seite 1 von 65
 Merken
 e&#8209;fellows.net : e&#8209;fellows.net-Stipendium
 Das e-fellows.net-Stipendium unterstützt dich im Studium, hilft dir bei der Karriereplanung und erleichtert dir den Berufseinstieg. Das Stipendium ist ohne Einschränkungen mit jedem anderen Förderp...
@@ -854,12 +854,6 @@ Merken
 Hasso-Plattner-Institut für Digital Engineering gGmbH : Women-in-Tech Empower Pack
 Das Ziel dieses Stipendienprogramms ist es, eine größere Vielfalt auf allen Ebenen des IT-Sektors zu fördern. Es ist Zeit, dass sich etwas bewegt – das Informatikstudium verzeichnet weiterhin nur r...
 Merken
-Sustainable Finance Award : Innovative Ideen für eine Finanzwirtschaft mit Zukunft
-Der Themenbereich Nachhaltige Finanzwirtschaft bzw. Sustainable
-Finance entwickelt sich dynamisch. Die wissenschaftliche
-Auseinandersetzung mit dieser Thematik ist daher besonders wichtig.
-Mit di...
-Merken
 WHU – Otto Beisheim School of Management : Female Founders Scholarship
 Die WHU ist entschlossen, sich für den Geschlechterausgleich in der Gründerszene zu engagieren, und hat deshalb das WHU Female Founders Scholarship ins Leben gerufen.
 Für engagierte weibliche Studi...
@@ -873,7 +867,7 @@ Bachelor-Absolvent:innen Zugang zu eine...
 Merken
 zis Stiftung für Studienreisen : Reisestipendien für 16- bis 20-Jährige
 Du willst die Welt entdecken? Du gehst noch zur Schule, bist Azubi oder studierst? Du bist zwischen 16 und 20 Jahre alt? Dann bist du bei zis genau richtig: Die zis Stiftung fördert 16- bis 20-Jähr...
-Seite 1 von 61
+Seite 1 von 65
 Spring zu Seite
 Los »
 Entdecke Stipendien für e-fellows und Teilnehmer unserer Veranstaltungen

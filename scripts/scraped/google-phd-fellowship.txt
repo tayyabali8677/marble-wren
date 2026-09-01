@@ -497,7 +497,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-401
+402
 Audio Processing
 17
 Climate and Sustainability
@@ -509,7 +509,7 @@ Computer Architecture
 Data Management
 105
 Data Mining and Modeling
-283
+284
 Distributed Systems and Parallel Computing
 274
 Economics and Electronic Commerce
@@ -556,7 +556,7 @@ Software Systems
 217
 Speech Processing
 156
-1 - 30 of 2198 researchers
+1 - 30 of 2200 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,21 +587,21 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
 Anmol Agarwal
 Natural Language Processing
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
@@ -613,19 +613,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
-Shreya Agrawal
-General Science
-Machine Intelligence
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
+Shreya Agrawal
+General Science
+Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -658,14 +658,14 @@ Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
 1
 2
 3

@@ -1171,19 +1171,23 @@ Exceptions
 You may be exempt from submitting English language test scores if you meet one or more of the following exceptions.
 Expand all
 Collapse all
-You&#039;ve studied in Canada
+You&#039;re studying/have studied in Canada
 You are not required to provide an English language test score if your four most recent years of full-time education have been in Canada .
-You’re a Francophone Canadian
-You are not required to provide an English language test score if
-you are a bilingual Francophone Canadian OR
-your first language is French and you have completed four or more years of full-time studies in a high school in Canada.
-You’ve studied in an English-language school
+You’re studying/have studied in an English-language school
 You are not required to provide an English language test score if your four most recent years of full-time education were taught in an entirely English-language school system either in Canada or in another country.
 You must submit the following by Waterloo's  document deadline to be considered for this exemption.
 Official transcripts which indicate language of instruction for all classes OR
 An official  hardcopy letter from your previous schools' principal(s) confirming which years you were enrolled and the language of instruction.
 This must be sent directly from your school(s), verifying that all of your subjects (excluding language courses) were taught entirely in English. The letter must include your full name, date of birth, and years attended. Emailed letters will NOT be accepted. Y ou may be required to provide a passing English language test result if your official letter does not meet our English language requirements .
 Full-time English as a Second Language (ESL) programs do not qualify you for this exemption and cannot be included in the number of years of full-time education in an English-language school system.
+You&#039;re studying/have studied in a Toronto District School Board high school
+You are not required to provide an English language test score if
+your three most recent years of full-time education have been at a Toronto District School Board (TDSB) high school AND
+you have a grade of 80% or higher in Grade 12 U English (ENG4U, EWC4U, or ETS4U).
+You’re a Francophone Canadian
+You are not required to provide an English language test score if
+you are a bilingual Francophone Canadian OR
+your first language is French and you have completed four or more years of full-time studies in a high school in Canada.
 Deadlines
 Test results must be received by the  document deadline for the program you've applied to.
 If you suspect that you do not meet the English proficiency requirements, you should take a test as soon as possible to meet the document deadline.
@@ -1872,7 +1876,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-13 + 5 =
+17 + 3 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

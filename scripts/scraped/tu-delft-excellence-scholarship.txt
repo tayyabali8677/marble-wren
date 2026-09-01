@@ -15,7 +15,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -54,7 +53,6 @@ Research facilities
 Stories
 Innovation & Impact
 Menu openen
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -211,7 +209,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -253,7 +250,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -292,7 +288,6 @@ Research facilities
 Stories
 Innovation & Impact
 Menu openen
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -407,7 +402,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -483,7 +477,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -663,7 +657,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -875,7 +869,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -914,7 +907,6 @@ Research facilities
 Stories
 Innovation & Impact
 Menu openen
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1071,7 +1063,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1113,7 +1104,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1152,7 +1142,6 @@ Research facilities
 Stories
 Innovation & Impact
 Menu openen
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1295,7 +1284,6 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Artificial Intelligence
 Business collaboration
 Pioneering Tech
 Entrepreneurship

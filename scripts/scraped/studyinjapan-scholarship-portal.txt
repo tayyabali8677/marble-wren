@@ -497,18 +497,48 @@ name ascending order
 name descending order
 Last update :2026/08/19
 Scholarship
-Yamagata Prefectural Scholarship for Privately Financed Foreign Students
-Yamagata Pref.
+Other
+Aichi Scholarship Program [Pre-Arrival Admission]
+Aichi Prefectural Government
+Academic level:
+Master's degree program
+Graduate research students
+Last update :2021/07/28
+Scholarship
+Reduction and exception of tuition
+ASU Alumni Scholarship
+Aichi Shukutoku University
+Academic level:
+Doctoral degree program
+Master's degree program
+Bachelor's degree program
+University Japanese programs
+Last update :2026/04/24
+Reduction of enrollment fee
+Reduction and exception of tuition
+Special Scholarships for Privately Financed International Students
+Aichi Toho University
+Academic level:
+Bachelor's degree program
+Last update :2021/07/13
+Reduction and exception of tuition
+International　student　tuition　reduction　and　exemption　system
+Aikoku　Gakuen　University
+Academic level:
+Bachelor's degree program
+Last update :2026/08/19
+Scholarship
+Akebono Foundation Scholarship
+Akebono Foundation
 Academic level:
 Doctoral degree program
 Master's degree program
 Professional degree program
+Graduate research students
 Bachelor's degree program
-University Japanese programs
 Junior Colleges
-Specialized Training Colleges
 College of technology
-Japanese language institutions
+High school students
 Last update :2026/08/19
 Scholarship
 Akebono Foundation Scholarship [Pre-Arrival Admission]
@@ -522,223 +552,150 @@ Bachelor's degree program
 Junior Colleges
 College of technology
 High school students
-Last update :2026/08/19
+Last update :2023/08/03
+Reduction and exception of tuition
+Tuition Exemption
+Akita University
+Academic level:
+Doctoral degree program
+Doctoral program with five-year system
+Master's degree program
+Professional degree program
+Last update :2023/08/03
+Reduction of enrollment fee
+Admission fee Exemption/Postponement
+Akita University
+Academic level:
+Doctoral degree program
+Doctoral program with five-year system
+Master's degree program
+Professional degree program
+Last update :2023/08/03
 Scholarship
-SGH Foundation Scholarship
-SGH Foundation
+Academic Subsidies
+Akita University
 Academic level:
 Bachelor's degree program
-Last update :2026/08/19
-Scholarship
-The Korea Educational Foundation Scholarship
-The Korea Educational Foundation
-Academic level:
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-The Korea Educational Foundation Scholarship
-The Korea Educational Foundation
+Last update :2021/07/26
+Reduction and exception of tuition
+AUA Tuition Reduction/Exemption System
+Akita University of Art
 Academic level:
 Doctoral degree program
 Master's degree program
 Last update :2026/08/19
 Scholarship
-Other
-Fulbright Grants [Pre-Arrival Admission]
-The Japan-United States Educational Commission (Fulbright Program)
-Academic level:
-Bachelor's degree program
-Last update :2026/08/19
-Scholarship
-Other
-Fulbright Grants [Pre-Arrival Admission]
-The Japan-United States Educational Commission (Fulbright Program)
+Atsumi International Foundation Scholarship
+Atsumi International Foundation
 Academic level:
 Doctoral degree program
-Master's degree program
 Last update :2026/08/19
 Scholarship
-Kitami City Scholarship for Foreign Students
-Kitami City
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-Iwate Prefecture&#039;s Scholarship
-Iwate International Association
+JAPAN STUDY SUPPORT Scholarships
+Benesse Corporation
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Junior Colleges
-College of technology
-Last update :2026/08/19
+Last update :2021/07/29
+Reduction and exception of tuition
+Biwako Seikei Sport College Tuition Reduction and Exemption for Privately Financed International Students
+Biwako Seikei Sport College
+Academic level:
+Master's degree program
+Bachelor's degree program
+Last update :2021/07/22
 Scholarship
-Yamagata Prefectural Scholarship for Privately Financed Foreign Students
-Yamagata Pref.
+Reduction of enrollment fee
+BFGU Scholarship
+Bunka Fashion Graduate University
+Academic level:
+Professional degree program
+Last update :2021/07/26
+Reduction and exception of tuition
+Remission of Tuition Fees for Self-Funded International Students of Bunka Gakuen University
+Bunka Gakuen University
 Academic level:
 Doctoral degree program
+Master's degree program
+Bachelor's degree program
+Last update :2021/07/27
+Reduction of examination fee
+Qualification acquisition fee reduction system
+Chiba University of Commerce
+Academic level:
 Master's degree program
 Professional degree program
 Bachelor's degree program
-University Japanese programs
-Junior Colleges
-Specialized Training Colleges
-College of technology
-Japanese language institutions
-Last update :2026/08/19
+Last update :2025/11/11
+Reduction and exception of tuition
+Tuition reduction system
+Chiba University of Commerce
+Academic level:
+Master's degree program
+Professional degree program
+Bachelor's degree program
+Last update :2021/08/05
+Reduction and exception of tuition
+Chikushi Jogakuen Univ. Tuition Waiver Program for International Students
+Chikushi Jogakuen University
+Academic level:
+Master's degree program
+Bachelor's degree program
+Last update :2021/07/14
 Scholarship
-Ohtawara-city Foreign Student Scholarship
-Ohtawara-city Board of Education
+Reduction of enrollment fee
+Reduction and exception of tuition
+Chubu Gakuin University Scholarship
+Chubu Gakuin University
 Academic level:
 Bachelor's degree program
-Last update :2026/08/19
+Last update :2025/11/04
 Scholarship
-Foreign Student Scholarship
-Shinjuku-ku
+Chukyo University Scholarship for International Students
+Chukyo University
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Last update :2026/08/19
-Scholarship
-Financial Assistance Program for Foreign Students
-Kawasaki International Association
+Last update :2021/07/28
+Reduction and exception of tuition
+Dokkyo Medical University financial aid program for privately funded international student
+Dokkyo Medical University
+Academic level:
+Doctoral degree program
+Last update :2021/07/13
+Reduction and exception of tuition
+Tuition Reduction
+Doshisha Women's College of Liberal Arts
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-College of technology
-Last update :2026/08/19
+Last update :2021/07/13
 Scholarship
-Ishikawa Prefectural Scholarship for Privately Financed Foreign Students
-Ishikawa-Pref.
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-University Japanese programs
-Junior Colleges
-Specialized Training Colleges
-College of technology
-Japanese language institutions
-Last update :2026/08/19
-Scholarship
-Biwako Scholarship for Foreign Students
-Shiga Intercultural Association for Globalization
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
-Scholarship
-Scholarship Fund
-Kyoto City International Foundation
+Taketo and Kiyone Sakamoto Scholarship
+Doshisha Women's College of Liberal Arts
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Last update :2026/08/19
+Last update :2021/07/13
 Scholarship
-Kobe International Students Scholarship (Kobe/Sugawara Scholarship)
-Kobe International Community Center
+Taketo Sakamoto Scholarship
+Doshisha Women's College of Liberal Arts
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Last update :2026/08/19
+Last update :2021/07/13
 Scholarship
-Foreign Student Scholarship
-Himeji-shi
+Kim Gyokura Scholarship
+Doshisha Women's College of Liberal Arts
 Academic level:
 Doctoral degree program
 Master's degree program
 Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
-Scholarship
-Scholarship for Foreign Students
-Kato-shi
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Last update :2026/08/19
-Scholarship
-Kurashiki City Financial Aid for Privately Financed Students
-Kurashiki-shi
-Academic level:
-Bachelor's degree program
-Junior Colleges
-Last update :2026/08/19
-Scholarship
-Scholarship Programs
-Hiroshima International Center
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-College of technology
-Last update :2026/08/19
-Scholarship
-Hiroshima Support Center for International Students Scholarship Programs (Scholarship for new and transferring international students)
-Hiroshima International Center
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-College of technology
-Last update :2026/08/19
-Scholarship
-Hiroshima Scholarship
-Hiroshima Peace Culture Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-Japanese language institutions
-Last update :2026/08/19
-Scholarship
-Nankoku City Scholarship
-Nankoku-shi
-Academic level:
-Doctoral degree program
-Master's degree program
-Graduate research students
-Bachelor's degree program
-College of technology
-Last update :2026/08/19
-Scholarship
-Fukuoka Satooya Scholarship for International Students from Asian Nations
-Fukuoka International Exchange Foundation
-Academic level:
-Doctoral degree program
-Master's degree program
-Bachelor's degree program
-Junior Colleges
-Specialized Training Colleges
-College of technology
 1
 2
 3
