@@ -368,6 +368,7 @@ Logistics & Transport
 Procurement
 Site Security
 Technology Transfer & Innovation
+Data Science & Data Analytics
 Electrical or Electronics Engineering
 N/D
 Experience level
