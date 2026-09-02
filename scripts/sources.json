@@ -3553,5 +3553,19 @@
     "country": "China",
     "url": "https://www.schwarzmanscholars.org/",
     "note": "Extracted from Youth Opportunities listing."
+  },
+  {
+    "slug": "organization-of-american-states-internship-program",
+    "name": "Organization of American States Internship Program",
+    "country": "International",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Featured directly on the EduCanada portal; specific program details can be found via the main portal."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters-scholarships",
+    "name": "Erasmus Mundus Joint Masters Scholarships",
+    "country": "European Union",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Featured on the EduCanada portal for international and Canadian students."
   }
 ]
