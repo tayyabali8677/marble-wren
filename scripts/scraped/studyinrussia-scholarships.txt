@@ -243,6 +243,7 @@ Phone
 email address
 Send
 By pressing the button you agree with privacy policy
+To improve the website, we use cookies and Yandex Metrica. By continuing to use the website, you consent to personal data processing under our Privacy Policy . Accept
 
 ===== SOURCE PAGE: https://studyinrussia.ru/en/online-admission =====
 Online application to a Russian university
@@ -616,3 +617,4 @@ Phone
 email address
 Send
 By pressing the button you agree with privacy policy
+To improve the website, we use cookies and Yandex Metrica. By continuing to use the website, you consent to personal data processing under our Privacy Policy . Accept

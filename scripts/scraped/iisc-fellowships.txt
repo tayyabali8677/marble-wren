@@ -79,16 +79,16 @@ Prior announcements for AUGUST-DECEMBER 2022 TERM
 Prior announcements for AUGUST-DECEMBER 2021 TERM
 Prior announcements for AUGUST-DECEMBER 2020 TERM
 General Information
-Challakere Campus
-Skill Development Centre
-Talent Development Centre
-Campus Development
+Admissions
+Course Programmes
+Research Programmes
+more&#8230;
 Arting Science
-Mendel’s first law of inheritance in madhubani
+Phagocytosis in Cheriyal
 Campus Life
-Blue throated Blue Flycatcher
+Cattle Egret
 Did You know?
-Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
+IISc became a deemed University in 1958.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -283,9 +283,8 @@ SID-Innovation & Development
 IPTeL-Intellectual Property and Technology Licensing
 Arting Science
 Campus Life
-Smooth Coated Otter
 Did You know?
-May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
+Prof. G. N. Ramachanrdan, who discovered triple helix structure of collagen and developed the eponymous Map for proteins, worked at IISc and helped establish Molecular Biophysics Unit
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -748,14 +747,15 @@ TOTAL (1st year)
 20,800
 * to be paid in the first year only
 General Information
-International Relations
-Collaborative Research
-Exchange Programmes
+Outreach
+IIScPress
+Centre for Continuing Education
+KVPY
+Social Events
 Arting Science
-Animal Evolution in Gond art
 Campus Life
 Did You know?
-Gymkhana Day celebrated on 11 th March.
+The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -914,13 +914,14 @@ OCI/PIO (I) candidates are treated as Indian nationals but can only apply under 
 Can an OCI/PIO candidate apply in both categories (OCI/PIO (F) and OCI/PIO (I))?
 No. Candidates must choose only one category while applying. If an OCI/PIO candidate is found to have applied under both OCI/PIO (F) and OCI/PIO (I), their application will be cancelled due to the use of unfair means.
 General Information
-Alumni
-Development & Alumni Affairs
-IISc&#8217;s Alumni Portal
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
 Campus Life
 Did You know?
-Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
+Establishment of placement Bureau &#8211; 1971
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1055,15 +1056,16 @@ Updating National Entrance Test Results after Application Submission
 The results of certain National Entrance Tests (e.g., GATE, JAM, etc.) may not be available at the time of application submission. Applicants are required to provide the available details, such as roll number/ paper, while the score/rank/result fields may be left blank.
 After submitting the application, applicants will be permitted to update only their National Entrance Test results through the Applicant Dashboard. The update must be completed within three days of the declaration of results for consideration during evaluation. Failure to update the details within the stipulated time will render the application ineligible under the respective mode of entry. No requests or representations for updates will be entertained after the deadline.
 General Information
-Industry Interaction
-CSIC-Scientific & Industrial Consultancy
-SID-Innovation & Development
-IPTeL-Intellectual Property and Technology Licensing
+Outreach
+IIScPress
+Centre for Continuing Education
+KVPY
+Social Events
 Arting Science
+Climate Change
 Campus Life
-Nature&#8217;s Diamonds
 Did You know?
-Prof. G. N. Ramachanrdan, who discovered triple helix structure of collagen and developed the eponymous Map for proteins, worked at IISc and helped establish Molecular Biophysics Unit
+The first computer the IBM 360-44 was acquired and installed by the Institute and became operational in May 1971.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1306,15 +1308,16 @@ The Authorities of Colleges/Universities may please write to the Public Relation
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 Navigate in IISc
 General Information
-Challakere Campus
-Skill Development Centre
-Talent Development Centre
-Campus Development
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
+Actor Critic
 Campus Life
-Indian Paradise Flycatcher (Rufous)
+Swach IISc Abhiyan
 Did You know?
-The first computer the IBM 360-44 was acquired and installed by the Institute and became operational in May 1971.
+Morse code signalling was first introduced in Electrical laboratory course  in 1926 and  taught by Mr.Locke.
 Artsy Research
 Navigate in IISc
 Resources

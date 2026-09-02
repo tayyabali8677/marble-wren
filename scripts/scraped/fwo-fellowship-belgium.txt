@@ -147,6 +147,11 @@ International projects
 International networks
 European framework programme
 New calls
+Driving Urban Transitions (DUT) - cofund partnership
+Deadline
+17/11/2026
+Accelerate urban transitions towards a climate-neutral and climate-resilient future.
+Meer details
 SofinaBo&#xEB;l Fellowships
 Deadline
 26/10/2026
@@ -162,24 +167,19 @@ Deadline
 22/09/2026
 Transnational research funding across the raw materials value chain.
 Meer details
-SBO (Strategic Basic Research) projects
-Deadline
-25/09/2026
-SBO funding supports problem-oriented, cutting-edge research with potential for concrete economic or societal applications.
-Meer details
 All calls
 In the spotlight
-275 new postdoctoral fellowships awarded
-21/05/2026 08:08
 Record-breaking ice loss in Central Asia in 2025
 22/05/2026 09:18
-New
 Researchers identify a key biological tipping point in Alzheimer&#x2019;s disease
 04/06/2026 09:39
 New ultrathin device makes infrared images visible with a conventional camera
 17/08/2026 09:47
 New
-Researchers at IUMAT have developed a device only a few millimetres in size that converts invisible infrared patterns into visible images
+New publication &#x27;Research Infrastructure in Flanders and Participation in International Research Infrastructures&#x27;
+02/09/2026 09:32
+New
+Flanders invests heavily in research infrastructure: advanced laboratories, testing facilities, pilot plants, databases, and digital platforms that help form the foundation of innovation and technological progress.
 Subscribe to our newsletter
 The FWO-newsletter bundles all new information for (future) researchers as well as the latest news from the Flemish and European science field.
 Label
@@ -780,6 +780,227 @@ published by FWO
 Cookies
 Privacy statement
 
+===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/driving-urban-transitions-dut-cofund-partnership/ =====
+Skip to content
+Vlaanderen
+NL
+Contact
+Support programmes
+Support programmes
+With our financial resources we support individual researchers and research teams with personal fellowships and project funding.
+All about support programmes
+In Flanders
+PhD fellowships
+Postdoctoral fellowships
+Sabbatical bench fee
+Research projects
+Research infrastructure
+Scientific prizes
+All calls
+International
+International mobility
+International projects
+International networks
+European framework programme
+Evaluation process
+Evaluation process
+We give you an overview 'from application to award' and the various FWO-expert panels that evaluate applications.
+All about evaluation process
+From Application to Award
+FWO-expert panels
+I am a panel member
+FWO Review College Fundamental Research
+Results & outreach
+Results & Outreach
+The FWO places great importance on strengthening public support for science. Discover our opportunities in science communication and outreach for researchers and our program for the general public.
+All about results & outreach
+Opportunities for Researchers
+Announcement of results
+Jobs for researchers
+Training for researchers
+Public Prize for Piquing Pioneers
+Program for the general public
+Database financed research
+New scientific insights
+Kennismakers magazine
+Brussels Science festival
+After awarding
+After awarding
+What happens when the FWO has approved your fellowship or research project? Here we will take you step by step through the different stages and present all essential practical and administrative information.
+All about after awarding
+I have a fellowship
+I have a project
+I have a travel grant
+Wat na toekenning
+About FWO
+About FWO
+The FWO offers researchers in Flanders the opportunity to create knowledge.
+All about about fwo
+Organisation and policy
+Who is FWO
+Organisation
+Research policy
+Working at FWO
+Publications and events
+Publications
+Events
+For the media
+Support programmes
+Support programmes
+With our financial resources we support individual researchers and research teams with personal fellowships and project funding.
+All about support programmes
+In Flanders
+PhD fellowships
+Postdoctoral fellowships
+Sabbatical bench fee
+Research projects
+Research infrastructure
+Scientific prizes
+All calls
+International
+International mobility
+International projects
+International networks
+European framework programme
+Evaluation process
+Evaluation process
+We give you an overview 'from application to award' and the various FWO-expert panels that evaluate applications.
+All about evaluation process
+From Application to Award
+FWO-expert panels
+I am a panel member
+FWO Review College Fundamental Research
+Results & outreach
+Results & Outreach
+The FWO places great importance on strengthening public support for science. Discover our opportunities in science communication and outreach for researchers and our program for the general public.
+All about results & outreach
+Opportunities for Researchers
+Announcement of results
+Jobs for researchers
+Training for researchers
+Public Prize for Piquing Pioneers
+Program for the general public
+Database financed research
+New scientific insights
+Kennismakers magazine
+Brussels Science festival
+After awarding
+After awarding
+What happens when the FWO has approved your fellowship or research project? Here we will take you step by step through the different stages and present all essential practical and administrative information.
+All about after awarding
+I have a fellowship
+I have a project
+I have a travel grant
+Wat na toekenning
+About FWO
+About FWO
+The FWO offers researchers in Flanders the opportunity to create knowledge.
+All about about fwo
+Organisation and policy
+Who is FWO
+Organisation
+Research policy
+Working at FWO
+Publications and events
+Publications
+Events
+For the media
+Login E-loket
+Home
+Support programmes
+All calls
+Senior researchers/research teams
+Driving Urban Transitions (DUT) - cofund partnership
+Driving Urban Transitions (DUT) - cofund partnership
+Accelerate urban transitions towards a climate-neutral and climate-resilient future.
+Status
+Open
+17/11/2026
+Op deze pagina
+&#x201C;A funding opportunity for transformative urban research.&#x201D;
+FWO-modalities
+Submission
+Call budget
+Key points and deviations from the &#x2018;regular&#x2019; FWO participatory framework
+Contact
+“A funding opportunity for transformative urban research.”
+On 1 September 2026, a fifth cofund call for project funding opened under the Horizon Europe DUT Partnership , focusing on sustainable urban transformation. This partnership, which originated from the Joint Programming Initiative (JPI) Urban Europe , initiates a range of activities, of which calls for research projects form an integral part. FWO is also participating in this new call as a research funder, with the emphasis on funding Flemish public research institutions and their researchers.
+As usual, this transnational call focuses on three non-exclusive urban ‘transition pathways’ (TPs; 15mC, CUE, PED), which are further subdivided per TP into several ‘(sub)topics’ and two research types: Research Oriented Approach (ROA) and Innovation Oriented Approach (IOA).
+FWO funds all TPs but only ROA projects within Topics 2 and 3 in this call. Topic 1 projects submitted to FWO, as well as all IOA projects in this call regardless of the selected topic, will automatically be declared ineligible !
+The topics in this call:
+Cross-cutting Topic #1: Adaptive reuse of existing urban structures and spaces (NO FWO funding)
+FWO does not fund this topic in its entirety.
+Topic 2 (ROA projects only )
+2.3.2.1 - 15mC Topic #2: Align ambitions for mobility transitions across sectors.
+2.3.3.1 - CUE Topic #2: Innovative maintenance of urban green and blue spaces.
+2.3.4.1 - PED Topic #2: PED solutions in private housing across different urban contexts.
+Topic 3 (ROA projects only )
+2.3.2.2 - 15mC Topic #3: Nurture neighbourhood economies – activate innovation in local everyday offers.
+2.3.3.2 - CUE Topic #3 Rethinking urban production for circular and resilient cities.
+2.3.4.2 - PED Topic #3: Sustainable PEDs, flexibility in energy systems, and integrated technologies.
+More information
+Detailed information on the topics listed above can be found in the call document (call text) , on the DUT call page .
+The call document also sets out the general participation guidelines and eligibility criteria for this ‘two-step call’ (i.e. pre-proposal and full proposal phase). In addition, the ‘regional’ FWO eligibility criteria apply; these are also included in the ‘ call document ’ (see from p. 56 onwards) and are important for the eligibility of the Flemish subproject with FWO funding.
+Submission
+Deadline for pre-proposal submission AND national/regional pre-application via the FWO e-loket
+17 November 2026, 13.00 CET (Brussels)
+Login E-loket
+FWO-modalities
+FWO participation and funding here target both the fundamental research (‘FO’) and Strategic Basic Research (SBO) funding channels, which implies that projects within both FWO channels may be eligible for funding. It should be strongly emphasised that the choice of funding channel depends on the type of research project one wishes to carry out (i.e. fundamental/exploratory in nature vs. strongly focused on future valorisation potential). Non-compliance with the specific requirements per funding channel may lead to ineligibility .
+Please note that this is assessed on an individual basis: European and/or international partners within the same consortium may freely choose their type of research. Only the ‘character’ of the subproject of the Flemish partner applying for FWO funding is relevant as far as FWO is concerned.
+For the fundamental research funding channel, the relevant regulations apply. For the SBO funding channel, the SBO regulations must be taken into account. The latter concerns projects with a primary economic and/or societal objective, of which valorisation is an essential and mandatory component.
+Submission
+Research proposals are submitted to the DUT Call Secretariat, using the available templates on the call page (under ‘Documents’) and the submission platform , and by consortia of European and international researchers, in accordance with the applicable procedures and eligibility criteria included in the above-mentioned call documents. There is also the option to use a ‘ matchmaking platform’ to identify relevant consortium partners.
+New: FWO administrative pre-registration
+Researchers from Flanders applying for FWO funding must, in addition to the DUT project proposal, also submit an administrative application during the pre-proposal phase via the FWO e-portal , using the personal e-portal of the Flemish supervisor-spokesperson.
+For FO projects, the application type ‘Research projects – European programme fundamental research’ must be selected;
+For SBO projects, the application type ‘Strategic Basic Research projects (SBO)’ must be selected.
+Where several Flemish institutions applying for FWO funding collaborate within the same consortium, only one joint form must be submitted containing all information on the Flemish parties involved, in accordance with the ‘regular’ projects. This is always done by the PI/supervisor, using their personal e-portal.
+The submission deadline is the same as the call deadline for pre-proposals. It is strongly recommended to contact the FWO administration about this no later than one week before submission, so that eligibility can be verified.
+Call budget
+Within the framework of an international consortium, FWO supports at least three Flemish projects, with a maximum requested amount of EUR 250,000 (including overhead) per project, for 36 months. The FWO budgetary rules are also clarified in the ‘ call document ’ (see from p. 56 onwards).
+In addition to national/regional resources, the cofund partnerships under the Horizon Europe framework programme provide cofinancing from the European Commission. At the funding decision stage, based on the final ranking following international peer review, this may result in additional support and may enable additional projects, including for Flanders.
+Key points and deviations from the ‘regular’ FWO participatory framework
+Some key points and deviations from the regular FWO participation framework to take into account:
+The natural ‘ecosystem’ for FWO projects lies within the ‘research-oriented approach’ (ROA), which aligns with the funding channels used by FWO (‘FO’ and ‘SBO’). IOA projects are not eligible.
+Participation in the European cofund partnerships does not interfere with ‘regular’ FWO project participation and is therefore not taken into account with regard to the maximum number of projects that may be applied for or be ongoing. An important caveat, however, is that one may participate in a maximum of 2 different projects/consortia per call, provided that they concern different topics (additionally, in this DUT context: only once as ‘main applicant/coordinator’).
+A different overhead arrangement applies to the fundamental and SBO funding channels, as clarified in the ‘ call document ’ (see from p. 56 onwards).
+SBO projects aimed at the development of a ‘spin-off’ are not eligible in this context. This possible route can therefore not be included in the FWO pre-registration.
+A ‘users committee or ‘advisory committee’ is not mandatory for an SBO project in this context.
+Projects have a maximum duration of 36 months and must be budgeted accordingly. Automatic extensions are not allowed within this participation framework. Consequently, Article 28 of the regulations for FWO research projects and Article 14 of the regulations for SBO projects are explicitly excluded.
+Researchers must hold an eligible appointment covering the full project duration (e.g. ZAP appointment for universities; doctoral degree required). This applies to both ‘FO’ and ‘SBO’ projects, and more specifically with regard to the emeritus arrangement ( Article 10, §7 ): this is not applicable in this context. In practice, this means, among other things, that supervisors(-spokespersons) who obtain emeritus status during the project period are not eligible.
+Research teams applying for FWO funding may involve ‘stakeholders’ (e.g. cities/municipalities, interest groups, public and/or private organisations focusing on sustainable urban transition) as subcontractors in a research project, including for non-routine tasks. Contact FWO if additional information is required.
+Researchers are strongly advised to contact FWO before submission regarding the eligibility criteria . This is to avoid the ineligibility of the Flemish researcher(s) individually, and of the consortium as a whole.
+Contact
+For additional information FWO participation, please contact:
+Toon Monbaliu (General and ‘FO’)
+europe@fwo.be
++32 (02)2 550 15 70
+Kristien Peeters (‘SBO’)
+europe@fwo.be
++32 (0)2 550 15 95
+The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
+You can find us on
+Quick to
+Support programmes
+Evaluation process
+Results & outreach
+After awarding
+About FWO
+Complaint Procedure
+Whistleblowing directive
+The review procedure
+Contact
+HOEK 38
+Leuvenseweg 38,
+1000 Brussel
++32-2-512 91 10
+You can find us on
+fwo.be is an official website of the Flemish government
+published by FWO
+Cookies
+Privacy statement
+
 ===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/mobility/sofinaboel-fellowships/ =====
 Skip to content
 Vlaanderen
@@ -984,183 +1205,6 @@ FAQ
 pdf
 Contact
 For more information, please contact the FWO at prijzen@fwo.be .
-The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
-You can find us on
-Quick to
-Support programmes
-Evaluation process
-Results & outreach
-After awarding
-About FWO
-Complaint Procedure
-Whistleblowing directive
-The review procedure
-Contact
-HOEK 38
-Leuvenseweg 38,
-1000 Brussel
-+32-2-512 91 10
-You can find us on
-fwo.be is an official website of the Flemish government
-published by FWO
-Cookies
-Privacy statement
-
-===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/mobility/lindau-nobel-laureate-meeting/ =====
-Skip to content
-Vlaanderen
-NL
-Contact
-Support programmes
-Support programmes
-With our financial resources we support individual researchers and research teams with personal fellowships and project funding.
-All about support programmes
-In Flanders
-PhD fellowships
-Postdoctoral fellowships
-Sabbatical bench fee
-Research projects
-Research infrastructure
-Scientific prizes
-All calls
-International
-International mobility
-International projects
-International networks
-European framework programme
-Evaluation process
-Evaluation process
-We give you an overview 'from application to award' and the various FWO-expert panels that evaluate applications.
-All about evaluation process
-From Application to Award
-FWO-expert panels
-I am a panel member
-FWO Review College Fundamental Research
-Results & outreach
-Results & Outreach
-The FWO places great importance on strengthening public support for science. Discover our opportunities in science communication and outreach for researchers and our program for the general public.
-All about results & outreach
-Opportunities for Researchers
-Announcement of results
-Jobs for researchers
-Training for researchers
-Public Prize for Piquing Pioneers
-Program for the general public
-Database financed research
-New scientific insights
-Kennismakers magazine
-Brussels Science festival
-After awarding
-After awarding
-What happens when the FWO has approved your fellowship or research project? Here we will take you step by step through the different stages and present all essential practical and administrative information.
-All about after awarding
-I have a fellowship
-I have a project
-I have a travel grant
-Wat na toekenning
-About FWO
-About FWO
-The FWO offers researchers in Flanders the opportunity to create knowledge.
-All about about fwo
-Organisation and policy
-Who is FWO
-Organisation
-Research policy
-Working at FWO
-Publications and events
-Publications
-Events
-For the media
-Support programmes
-Support programmes
-With our financial resources we support individual researchers and research teams with personal fellowships and project funding.
-All about support programmes
-In Flanders
-PhD fellowships
-Postdoctoral fellowships
-Sabbatical bench fee
-Research projects
-Research infrastructure
-Scientific prizes
-All calls
-International
-International mobility
-International projects
-International networks
-European framework programme
-Evaluation process
-Evaluation process
-We give you an overview 'from application to award' and the various FWO-expert panels that evaluate applications.
-All about evaluation process
-From Application to Award
-FWO-expert panels
-I am a panel member
-FWO Review College Fundamental Research
-Results & outreach
-Results & Outreach
-The FWO places great importance on strengthening public support for science. Discover our opportunities in science communication and outreach for researchers and our program for the general public.
-All about results & outreach
-Opportunities for Researchers
-Announcement of results
-Jobs for researchers
-Training for researchers
-Public Prize for Piquing Pioneers
-Program for the general public
-Database financed research
-New scientific insights
-Kennismakers magazine
-Brussels Science festival
-After awarding
-After awarding
-What happens when the FWO has approved your fellowship or research project? Here we will take you step by step through the different stages and present all essential practical and administrative information.
-All about after awarding
-I have a fellowship
-I have a project
-I have a travel grant
-Wat na toekenning
-About FWO
-About FWO
-The FWO offers researchers in Flanders the opportunity to create knowledge.
-All about about fwo
-Organisation and policy
-Who is FWO
-Organisation
-Research policy
-Working at FWO
-Publications and events
-Publications
-Events
-For the media
-Login E-loket
-Home
-Support programmes
-All calls
-Mobility
-Lindau Nobel Laureate Meeting
-Lindau Nobel Laureate Meeting
-The Lindau Nobel Laureate Meetings foster the exchange among scientists of different generations, cultures, and disciplines.
-Status
-Open
-15/09/2026
-Op deze pagina
-Call candidates 76th Lindau Nobel Laureate Meeting on Physiology and Medicine, 2027
-Call candidates 76th Lindau Nobel Laureate Meeting on Physiology and Medicine, 2027
-Each year, numerous Nobel Laureates convene in Lindau to meet the next generation of leading scientists. Since the first meeting in 1951, the Lindau Nobel Laureate Meetings have fostered the exchange among outstanding scientists of different generations, cultures, and disciplines.
-For the 76th Lindau Nobel Laureate Meeting, which will take place from 27 June to 2 July 2027, Nobel Laureates in Physiology and Medicine will be invited. About 600 exceptionally talented young scientists will take part in a unique week dedicated to scientific exchange, inspiration, and networking through lectures, panel discussions, and small-size discussion sessions. These young participants are selected from among undergraduate, master’s and doctoral students, as well as early-career postdoctoral researchers from around the world.
-Since 2015, the Research Foundation – Flanders (FWO) has become an Academic Partner of the Lindau Nobel Laureate Meetings. As a partner, the FWO is able to nominate a limited number of outstanding young researchers each year. For the 76th Lindau Meeting on Physiology/Medicine, the FWO may nominate up to five candidates. Following the nomination by the FWO, candidates will undergo an international selection process conducted by the Lindau Council’s Review Panel, which will determine the final participants of the 2027 meeting.
-For each selected nominee, the FWO covers the travel costs (round trip) and a lump sum of €2.500, covering (among other things) the accommodation in Lindau and (part of) the total cost of participation. The remaining costs are covered by the Lindau Foundation and additional third-party funding sources.
-Candidates must submit an application in English to interprog@fwo.be , no later than Tuesday 15 September 2026 . The file should be compiled into a single PDF document and must include:
-a full CV, including a publication list (maximum 2 pages);
-a motivation letter (maximum 1 page);
-two recommendation letters from supervisors, scientific advisors and/or internationally renowned scientists, who know the candidate well. At least one of these letters must be written by a supervisor affiliated with a Flemish university (maximum 1 page each).
-Consult the selection criteria
-Selection criteria
-0.56 MB
-pdf
-For more information, please contact:
-Administration International Programmes
-T: +32 (0)2 550 15 92
-E: interprog@fwo.be
 The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
 You can find us on
 Quick to

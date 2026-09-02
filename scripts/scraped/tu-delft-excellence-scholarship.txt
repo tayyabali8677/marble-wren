@@ -39,7 +39,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -274,7 +274,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -657,7 +657,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu sluiten
+Menu openen
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -893,7 +893,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1128,7 +1128,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
