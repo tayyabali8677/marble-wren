@@ -197,7 +197,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: a8cef81290df49f470539c641a3740c2
+This is the Trace Id: 14b830ac3f74cfa17b482f62fc0e2a8f
 Skip to main content
 Education
 Azure for education

@@ -538,11 +538,15 @@ WHO
 ===== SOURCE PAGE: https://www.who.int/mega-menu/about-us/who-funding =====
 How WHO is funded
 Skip to main content
-World Health Organization
 Global
 Regions
-World Health Organization
 WHO Regional websites
+Africa
+Americas
+South-East Asia
+Europe
+Eastern Mediterranean
+Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
@@ -1240,11 +1244,15 @@ Cookie Policy
 ===== SOURCE PAGE: https://www.who.int/careers/apply-for-a-position =====
 Careers at WHO: Apply for a position
 Skip to main content
-World Health Organization
 Global
 Regions
-World Health Organization
 WHO Regional websites
+Africa
+Americas
+South-East Asia
+Europe
+Eastern Mediterranean
+Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
