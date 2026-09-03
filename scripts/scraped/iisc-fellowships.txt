@@ -41,37 +41,8 @@ Instructions for Online Admissions Portal
 Online Admissions Portal
 Announcements
 Welcome to the Admissions Website for IISc! This website has information related to the admissions process for various admissions cycle. The key pages are listed below. You can also access these links and other details from the menus.
-Four-year Bachelor of Science (Research): Admission offers for candidates selected through the IISER Aptitude Test (IAT) mode of entry are now available on the admission portal. Selected candidates may download their offer letters from the Available Downloads section of the applicant dashboard. Click here to view the IAT 2026 rank cut-offs, counselling schedule, and other important instructions.
-Four-Year Bachelor of Science(Research):  Applicants seeking admission to the Four-Year Bachelor of Science (Research) Programme through the  IISER Aptitude Test (IAT) 2026  mode of entry must update their  IAT 2026 rank details  on the admission portal  on or before 03 July 2026 . The procedure for updating the national entrance examination rank details is available on the applicant dashboard of the admission portal.
-Four-year Bachelor of Science (Research): Admission offers for candidates selected through the JEE (Advanced) 2026 mode of entry are now available on the admission portal. Selected candidates may download their offer letters from the Available Downloads section of the applicant dashboard. Click here to view the JEE (Advanced) 2026 rank cut-offs, counselling schedule, and other important instructions .
-For the latest updates and announcements regarding the admission process, applicants are advised to visit the News and Updates section of the BS (Research) programme website regularly (Updated on 12/06/2026)
-Four-Year Bachelor of Science (Research): The deadline for submission of applications for admission to the Four-Year Bachelor of Science (Research) Programme for the academic year 2026–27 has been extended until 07 June 2026 (11:59 PM IST) (Updated on 05/06/2026)
-Applicants seeking admission to the Four-Year Bachelor of Science (Research) Programme through the JEE (Advanced) 2026 mode of entry are required to update their JEE (Advanced) rank details on the admission portal by 04 June 2026 , the closing date for application submission. Applicants who have already submitted their applications may refer to the procedure available on the applicant dashboard of the admission portal for updating their National Entrance Examination results. (Updated on 03/06/2026)
-Corrigendum 2 to the Cut Off Report for Research Programmes (Updated on 07/05/2026)
-Addendum 2 to the Cut Off Report for Research Programmes (Updated on 06/05/2026)
-Addendum to the Cut Off Report for integrated PhD Programmes (Updated on 06/05/2026)
-Bachelor of Science (Research): Applications are invited for admission to the four-year Bachelor of Science (Research) programme. The online admission portal will open on Friday, 01 May 2026, and will remain open until Thursday, 04 June 2026.
-For the latest updates regarding the admission process, applicants are advised to frequently visit the BS (Research) programme website: https://bs-ug.iisc.ac.in/admissions . (Updated on 30/04/2026)
-Bachelor of Technology(B.Tech): Admission to the B.Tech programmes at the Indian Institute of Science will be conducted through JoSAA 2026 only. The IISc admission portal does not accept applications for the B.Tech programme. (Updated on 30/04/2026)
-Addendum to the Cut Off Report for Research Programmes (Updated on 27/04/2026)
-Corrigendum to the Cut Off Report for Research Programmes (Updated on 23/04/2026)
-Cut-off Report used for shortlisting candidates for interviews in MSc/ Integrated PhD / Research Programmes:
-Cutoff Report &#8211; MSc Programme
-Cutoff Report &#8211; Integrated PhD Programme
-Cutoff Report &#8211; Research Programme
-Note: In case an applicant has scored a cutoff higher than the one indicated and has not received a call letter/ email communication/ communication on the applicant&#8217;s interface of the admission portal for offline interview/ written test (as applicable), may send an email to the admissions office at admission.acad@iisc.ac.in on or before 30 April 2026. (Updated on 21/04/2026)
-Cut off Report used for shortlisting candidates for interviews in M.Tech/M.Des, and M Mgt Programmes:
-Cut off Report – M.Tech/ M.Des Programme
-Cut off Report – M.Mgt Programme
-Note: In case an applicant has scored a cutoff higher than the one indicated and has not received a call letter/email communication/ communication on the applicant&#8217;s Home page of the admission portal, may send an email to the admissions office at admission.acad@iisc.ac.in or on or before 8th April 2026 . (Updated on 04/04/2026)
-Last date for submitting online applications for M.Tech/M.Des program under Sponsored Category for the Academic Year 2026-27 has been extended till 17 th  April 2026
-Last date for submitting online applications for M.Sc (Life Sciences, Chemical Sciences and Physics) for the Academic Year 2026-27 has been extended till 06th April 2026
-Last date for submitting online applications for Research programmes (Ph.D/M.Tech (Res)) under both regular and ERP category for the Academic Year 2026-27 has been extended till 06th April 2026 .
-Applicants of M. Tech/M. Des programme applying through GATE can update their COAP ID on or before 17th April 2026 . The option to update the COAP ID has been enabled on the IISc application portal (Updated on 23/03/2026).
-Last date for submitting online applications for PG course programmes (M Tech/M Des/M Mgt/M Tech CFTI/M Engg/Joint M Tech) for the Academic Year 2026-27 has been extended till 25th March 2026.
-Admission Notice for the Academic Year 2026-27 (Updated on 05/02/2026)
-For Admission related FAQs, please click here
 Previous Admissions Cycles
+Prior Announcements for AUGUST-DECEMBER 2026 TERM
 Prior Announcements for AUGUST-DECEMBER 2025 TERM
 Prior Announcements for AUGUST-DECEMBER 2024 TERM
 Prior announcements for AUGUST-DECEMBER 2023 TERM
@@ -79,14 +50,15 @@ Prior announcements for AUGUST-DECEMBER 2022 TERM
 Prior announcements for AUGUST-DECEMBER 2021 TERM
 Prior announcements for AUGUST-DECEMBER 2020 TERM
 General Information
-Alumni
-Development & Alumni Affairs
-IISc&#8217;s Alumni Portal
+Challakere Campus
+Skill Development Centre
+Talent Development Centre
+Campus Development
 Arting Science
-Evolutionary conservation of cyclic nucleotide phosphodiesterases
 Campus Life
+Blue-throated Blue Flycatcher
 Did You know?
-Club house constitution was set up on 16 th November, 1924 with the Maharaja as its Patron.  Formal opening was on 16 th March 1925.
+A travelling one ton motor truck was used for extra mural wireless measurement in 1926.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -275,15 +247,16 @@ Other Central Institutions
 121 Ghani Khan Choudhury Institute of Engineering & Technology(GKCIET), Malda, West Bengal
 122 Central Institute of Technology (CIT), Kokrajhar, Assam
 General Information
-Outreach
-IIScPress
-Centre for Continuing Education
-KVPY
-Social Events
+Admissions
+Course Programmes
+Research Programmes
+more&#8230;
 Arting Science
+Phagocytosis in Cheriyal
 Campus Life
+Smooth Coated Otter
 Did You know?
-May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
+Quality improvement program initiated in 1971.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -751,11 +724,11 @@ Course Programmes
 Research Programmes
 more&#8230;
 Arting Science
-Phagocytosis in Cheriyal
+Accretion in Warli
 Campus Life
-Smooth Coated Otter
+Winter @ IISc
 Did You know?
-Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
+Mutual benefit fund, a welfare measure was started by the Council in 1968.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -914,17 +887,16 @@ OCI/PIO (I) candidates are treated as Indian nationals but can only apply under 
 Can an OCI/PIO candidate apply in both categories (OCI/PIO (F) and OCI/PIO (I))?
 No. Candidates must choose only one category while applying. If an OCI/PIO candidate is found to have applied under both OCI/PIO (F) and OCI/PIO (I), their application will be cancelled due to the use of unfair means.
 General Information
-Outreach
-IIScPress
-Centre for Continuing Education
-KVPY
-Social Events
+Giving to IISc
+Give to IISc
+Major benefactors
+Development & Alumni Affairs
 Arting Science
-Significance of zero in Jamini Roy style Kalighat painting
+Climate Change
 Campus Life
-Frilled Beauty
+Chestnut-tailed Starling
 Did You know?
-Prof. Satish Dhawan held the Directorship of IISc and Chairship of ISRO simultaneously
+Institute vesting order was signed on 27 th May 1909.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1065,10 +1037,11 @@ Centre for Continuing Education
 KVPY
 Social Events
 Arting Science
-Significance of zero in Jamini Roy style Kalighat painting
+Commercial ventures that originated in IISc
 Campus Life
+Tendril Art
 Did You know?
-A travelling one ton motor truck was used for extra mural wireless measurement in 1926.
+1 st July 1926 – a branch of the post office became operational.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1311,15 +1284,15 @@ The Authorities of Colleges/Universities may please write to the Public Relation
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 Navigate in IISc
 General Information
-Research
-Research Highlights
-Accolades
-IISc in the News
-more&#8230;
+Challakere Campus
+Skill Development Centre
+Talent Development Centre
+Campus Development
 Arting Science
+Mycobacterial enzymes: Mechanisms of cAMP synthesis and degradation
 Campus Life
 Did You know?
-Mutual benefit fund, a welfare measure was started by the Council in 1968.
+Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
 Artsy Research
 Navigate in IISc
 Resources

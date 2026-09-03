@@ -217,7 +217,6 @@ Tuition fees
 Grants and scholarships
 Search our scholarships
 President's PhD scholarships
-Research Council Studentships (PhD)
 International scholarship collaborations
 GREAT - Imperial College London Scholarship
 Women in STEM Scholarships
@@ -3202,7 +3201,6 @@ Tuition fees
 Grants and scholarships
 Search our scholarships
 President's PhD scholarships
-Research Council Studentships (PhD)
 International scholarship collaborations
 GREAT - Imperial College London Scholarship
 Women in STEM Scholarships
@@ -3709,7 +3707,6 @@ Tuition fees
 Grants and scholarships
 Search our scholarships
 President's PhD scholarships
-Research Council Studentships (PhD)
 International scholarship collaborations
 GREAT - Imperial College London Scholarship
 Women in STEM Scholarships

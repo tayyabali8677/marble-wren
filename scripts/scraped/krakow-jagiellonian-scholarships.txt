@@ -90,18 +90,18 @@ Widok zawartości stron
 Oferta stypendialna dla cudzoziemców
 Znajdziesz tu podstawowe informacje jakie warunki powinien spełnić student-cudzoziemiec, aby otrzymywać stypendia na Uniwersytecie Jagiellońskim:
 Fundusz Stypendialny: stypendium socjalne, stypendium dla osób niepełnosprawnych, stypendium rektora, zapomoga
-Własne Fundusze Stypendialne: Stypendium UJ, Stypendium dla olimpijczyków, Fundusz Stypendialny im. Bohdana Łysiaka, Fundusz Stypendialny Ad Polonos, Fundusz Stypendialny im. Prof. Franciszka Ziejki
+Własne Fundusze Stypendialne m.in: Stypendium UJ, Stypendium dla olimpijczyków, Fundusz Stypendialny im. Bohdana Łysiaka, Fundusz Stypendialny Ad Polonos, Fundusz Stypendialny im. Prof. Franciszka Ziejki, Fundusz Stypendialny "My z Wami"
 Programy Stypendialne NAWA: stypendia dla studentów przyjeżdżających
 Student może ubiegać się o stypendium wyłącznie po złożeniu wniosku w odpowiedniej formie i terminie.
 Fundusz Stypendialny
-Informacji o stypendiach z Funduszu tj. stypendium socjalnym, rektora i dla niepełnosprawnych oraz zapomodze udziela koordynator ds. stypendialnych. Po wpisie i uzyskaniu dostępu do systemu USOSweb jego dane znajdziesz w zakładce Dla studentów, a tam Wnioski. Wnioski o świadczenia rejestruje się w systemie USOSweb (zakładka Dla wszystkich, a tam Wnioski), a następnie drukuje i dostarcza do swojego koordynatora ds. stypendialnych w wyznaczonym terminie, osobiście lub pocztą. Wniosek o zapomogę wystarczy złożyć jedynie online w systemie USOSweb za pomocą funkcji „podpisz i złóż”.
+Informacji o stypendiach z Funduszu, tj. stypendium socjalnym, stypendium rektora, stypendium dla osób niepełnosprawnych, a także o zapomodze udziela koordynator ds. stypendialnych. Po wpisie na studia i uzyskaniu dostępu do systemu USOSweb jego dane znajdziesz w zakładce „Dla studentów”, a następnie „Wnioski”.
 Stypendia z Funduszu mogą pobierać studenci studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich, zarówno stacjonarnych jak i niestacjonarnych, bez względu na wiek. Nie są należne na studiach podyplomowych.
 Stypendia te nie są przyznawane osobom posiadającym tytuł zawodowy magistra, a na studiach pierwszego stopnia - posiadającym tytuł licencjata, również w przypadku uzyskania tych tytułów (lub równorzędnych) za granicą . Stypendiów z Funduszu Stypendialnego nie może otrzymać student studiujący dłużej niż 12 semestrów, nawet jeżeli wcześniej nie otrzymywał świadczeń, z zastrzeżeniem, że w ramach tego okresu świadczenia przysługują na studiach:
 pierwszego stopnia - nie dłużej niż przez 9 semestrów;
 drugiego stopnia - nie dłużej niż przez 7 semestrów.
 W przypadku przyznania stypendium, decyzja wygasa, a wypłata stypendium zostaje zaprzestana z ostatnim dniem miesiąca, w którym student utracił prawo do świadczenia z powodu uzyskania tytułu zawodowego, został skreślony z listy studentów na kierunku studiów, na którym otrzymywał świadczenie, albo upłynął okres studiowania (limit semestrów).
 Każdy rodzaj stypendium można otrzymać tylko na jednym studiowanym przez siebie kierunku. W przypadku otrzymania decyzji o przyznaniu danego rodzaju stypendium na więcej niż jednym kierunku, student zobowiązany jest wskazać, na którym kierunku będzie pobierał świadczenie.
-Wnioski o świadczenia rejestruje się w systemie USOSweb (zakładka Dla wszystkich, a tam Wnioski), a następnie drukuje i dostarcza do swojego koordynatora ds. stypendialnych w wyznaczonym terminie, osobiście lub pocztą. Wniosek o zapomogę wystarczy złożyć jedynie online w systemie USOSweb za pomocą funkcji „podpisz i złóż”.
+Wnioski o świadczenia składa się jedynie online w systemie USOSweb za pomocą funkcji "Podpisz i złóż". Nie ma konieczności dostarczenia wydruku wniosku do Działu Spraw Stypendialnych.
 Więcej informacji o formie składania wniosków dostępnych jest tutaj .
 Stypendia są nieopodatkowane i w Polsce nie deklaruje się ich w rocznym zeznaniu podatkowym.
 Stypendia przelewane są na rachunek bankowy prowadzony w PLN w banku działającym na terytorium RP.
@@ -167,7 +167,7 @@ Do zdarzeń, które uzasadniają wystąpienie z wnioskiem o przyznanie zapomogi 
 Jest to świadczenie jednorazowe, wypłacane przelewem na rachunek bankowy studenta.
 Zasady przyznawania zapomogi są takie same dla studentów 1 roku i wyższych lat.
 Więcej informacji o zapomogach dostępnych jest tutaj.
-Jeśli nie jesteś uprawniony do otrzymania zapomogi (np. z powodu przekroczenia okresu studiowania lub posiadania tytułu magistra) możesz ubiegać się o zapomogę z Funduszu wsparcia dla studentów i doktorantów UJ, ale tylko w określonych przypadkach. Więcej informacji dostępnych jest tutaj
+Jeśli nie jesteś uprawniony do otrzymania zapomogi (np. z powodu przekroczenia okresu studiowania lub posiadania tytułu magistra) możesz ubiegać się o zapomogę z Funduszu wsparcia dla studentów UJ, ale tylko w określonych przypadkach. Więcej informacji dostępnych jest tutaj:
 https://stypendia.uj.edu.pl/pl_PL/pomoc-materialna/fundusz-wsparcia
 Własne Fundusze Stypendialne
 Uniwersytet Jagielloński oferuje szereg świadczeń finansowanych ze środków wewnętrznych. Warto poszukać informacji także na stronie wybranego wydziału, ponieważ istnieją fundusze skierowane do studentów danego wydziału lub kierunku studiów np. Fundusz Stypendialny im. Franciszka Mertensa za wyniki w nauce na Wydziale Matematyki i Informatyki czy Fundusz Stypendialny im. Ignacego Domeyki na Wydziale Geografii i Geologii.

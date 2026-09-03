@@ -878,29 +878,29 @@ No, the application process for the Rhodes Scholarship is separate from that to 
 If you are selected as a Rhodes Scholar, you will need to apply to the University of Oxford soon after your selection, and we advise you to prepare as much as possible in advance for your application to Oxford.
 The team at the Rhodes Trust will be on hand to support you with the application process. They will have access to your entire Rhodes Scholarship application, and your references may be re-used, if appropriate, to support your application to the University of Oxford.
 Can I use GenAI in writing my personal and/or academic statement?
-The Rhodes Scholarship requires that your personal and academic statements are truthful and original narratives. It will serve you best if you speak in your own voice, allowing Rhodes selectors to gain an authentic picture of who you are. Unacceptable uses of AI include generating substantive content or replacing your own analysis and voice with AI generated outputs. AI should be used to sharpen your thinking; overuse or mis-use of AI will replace or ‘flatten’ your voice and ideas. Remember that AI cannot replace your individual judgment, personality, or your personal understanding of the selection criteria. It will not help your application if you use GenAI to tell your story, as the output will be generic and will not allow selectors to gain an understanding of you as an individual.
-However, GenAI is a tool, and could be useful in preparing some aspects of your application.
-Some acceptable uses of GenAI in helping you to write your personal or academic statement might include:
+The Rhodes Scholarship requires that your personal and academic statements are truthful and original narratives. It will serve you best if you speak in your own voice, allowing Rhodes selectors to gain an authentic picture of who you are.
+Unacceptable uses of AI include generating substantive content or replacing your own analysis and voice with AI generated outputs. AI should be used to sharpen your thinking; overuse or mis-use of AI will replace or ‘flatten’ your voice and ideas. Remember that AI cannot replace your individual judgment, personality, or your personal understanding of the selection criteria. It will not help your application if you use GenAI to tell your story, as the output will be generic and will not allow selectors to gain an understanding of you as an individual.
+However, GenAI is a tool, and could be useful in preparing some aspects of your application. Some acceptable uses of GenAI in helping you to write your personal or academic statement might include:
 • Providing suggestions for how you could reduce your original narrative from e.g. 2,000 to 1,000 words
 • Checking the spelling or grammar
 • Writing a summary of your narrative, to help you synthesise your thoughts
-• Help with structuring your statement
+• Help with structuring your statement.
 What are the risks of using GenAI in preparing my academic and/or personal statement?
 If you use a generative AI tool to support you in preparing your statement, you risk losing the rights, exclusivity and confidentiality of your inputs – in effect it could become the property of the AI provider. Each Large Language Model (LLM) has its own terms and conditions, and you should read these before using it to understand the implications of putting your own original or confidential information into that model.
-The output from the GenAI tool may also raise issues – for example, it may infringe third party Intellectual Property (IP) or it could be incorrect (hallucination etc.).
+The output from the GenAI tool may also raise issues – for example, it may infringe third party Intellectual Property (IP) or it could be incorrect (such as through hallucinations).
 Can I use GenAI in helping me prepare for my Rhodes interview?
 Yes, GenAI can be used in preparation for your Rhodes interview, for example in generating practice questions you might be asked, similar to preparing for a job interview. We recommend that you also discuss this with your mentors (family, friends, academic advisors or supervisors, or your character reference providers etc.) However, note that you must not use any Gen AI tools during any Rhodes interview, whether in-person or online/remote.
-Can I use AI tools or devices during a Rhodes Interview?
-No; use of AI tools or devices during any Rhodes Scholarship interview at any stage of the selection process, either online/remote or in person, including the social engagement for Finalists, is strictly prohibited. For more information, see the Rhodes Scholarship Interview Policy.
+Can I use AI tools or devices during a Rhodes Scholarship interview?
+No. Use of AI tools or devices during any Rhodes Scholarship interview at any stage of the selection process, either online/remote or in person, including the social engagement for Finalists, is strictly prohibited. For more information, see the Rhodes Scholarship Interview Policy.
 What does the selection process involve?
 The selection process varies by constituency , but in every case it will involve a written application, along with a social engagement event and the final interview — both of which should be attended in person.
 Please see the Application Overview webpage for more detail about each stage of the application process.
-What should I expect of the Rhodes Interview?
+What should I expect from the Rhodes Scholarship interview?
 Selection committees are comprised of Rhodes Scholars and community leaders from diverse backgrounds.
 The interview holds significant importance, as it is here that selection committees have the opportunity to weigh up a candidate's depth of engagement, accomplishments, and aspirations. In posing their questions, committee members initiate discussion that will help them ascertain who best represents the potential we are looking for.
 Proven intellectual and academic attainment of a high standard is the first quality required of Scholars, but they are also required to show exceptional character, leadership in extracurricular activities, and commitment to service. The interview will therefore be wide-ranging in nature, designed to test candidates' intellectual skills and reasoning ability, but also to reveal their character, core commitments, and potential to make positive contributions to society.
 You can find out more about the interview on the Application Overview page , where Rhodes Scholars share their own experiences!
-What should I expect of the Rhodes Social Engagement?
+What should I expect from the Rhodes social engagement?
 The social engagement is an event usually held in the days prior to the interviews, offering the candidates a chance to get to know each other and the selection committee.
 Due to the varying cultural contexts between constituencies, this takes various different forms, but usually involves a drinks reception or meal celebrating the finalists for their achievement in reaching this stage.
 There are no formal question or scoring based on this aspect of the selection weekend, it is simply an opportunity to familiarise oneself with the environment and people, and hold conversations in an informal setting.
@@ -921,7 +921,8 @@ Can I be employed (part-time) or hold a teaching position whilst I am on the Rho
 Some Scholars obtain part-time teaching positions or other types of employment while on stipend; it is your responsibility to ensure that you adhere to the restrictions placed on paid employment by your student visa. Please refer to guidance on working while studying on the Oxford University website.
 You should also be wary of committing too much time to such activities to the detriment of your studies, and your general engagement in Oxford. We recommend that you discuss your plans with your academic supervisor and, if significant, with the Registrar's office at Rhodes House.
 Can I hold another award alongside the Rhodes Scholarship?
-Scholars may not hold another substantive scholarship or award at the same time as a Rhodes Scholarship. However, they may hold a secondary award. If the value of such an award is more than 33% of the annual stipend, i.e. £6,600 pa, then you would need to declare the award to the Registrar’s office at Rhodes House. We understand that for DPhil students in particular, additional awards may be valuable sources of support for funding research, fieldwork and living expenses beyond their third year in Oxford, and therefore we seek to adopt a flexible approach where we can. However, we ask you to declare income received in excess of the threshold above.
+Scholars may not hold another substantive scholarship or award at the same time as a Rhodes Scholarship. However, they may hold a secondary award. If the value of such an award is more than 33% of the annual stipend, i.e. £6,600 pa, then you would need to declare the award to the Registrar’s office at Rhodes House.
+We understand that for DPhil students in particular, additional awards may be valuable sources of support for funding research, fieldwork and living expenses beyond their third year in Oxford, and therefore we seek to adopt a flexible approach where we can. However, we ask you to declare income received in excess of the threshold above.
 Can I be in receipt of a salary alongside the Rhodes Scholarship?
 In rare circumstances, a Scholar may attend Oxford while receiving a salary, and may be in receipt of housing or other allowances, for example, military Scholars on active service. In such cases, the Rhodes Trust will award only half the annual stipend to the Scholar.
 If this may apply to you, please declare your circumstances to the Registrar’s office at Rhodes House.
