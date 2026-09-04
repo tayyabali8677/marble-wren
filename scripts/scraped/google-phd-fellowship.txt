@@ -497,7 +497,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-402
+400
 Audio Processing
 17
 Climate and Sustainability
@@ -511,35 +511,35 @@ Data Management
 Data Mining and Modeling
 283
 Distributed Systems and Parallel Computing
-273
+272
 Economics and Electronic Commerce
 79
 Education Innovation
 34
 General Science
-152
+151
 Hardware and Architecture
 126
 Health & Bioscience
 115
 Human-Computer Interaction and Visualization
-284
+283
 Information Retrieval and the Web
 183
 Machine Intelligence
-1004
+1002
 Machine Learning
 195
 Machine Perception
-424
+423
 Machine Translation
 66
 Mobile Systems
-86
+85
 Natural Language Processing
 480
 Networking
-135
+133
 Operating Systems
 15
 Quantum Computing
@@ -549,14 +549,14 @@ Responsible AI
 Robotics
 73
 Security, Privacy and Abuse Prevention
-184
+183
 Software Engineering
-260
+259
 Software Systems
 217
 Speech Processing
 156
-1 - 30 of 2197 researchers
+1 - 30 of 2194 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,17 +587,6 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -605,6 +594,17 @@ Education Innovation
 +2 more
 Anmol Agarwal
 Natural Language Processing
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -616,13 +616,13 @@ Distributed Systems and Parallel Computing
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
-Shreya Agrawal
-General Science
-Machine Intelligence
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Shreya Agrawal
+General Science
+Machine Intelligence
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
@@ -651,21 +651,21 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
-Zafarali Ahmed
-Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
 Mustaq Ahmed
 Algorithms and Theory
 Networking
+Zafarali Ahmed
+Machine Intelligence
 1
 2
 3

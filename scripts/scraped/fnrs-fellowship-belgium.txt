@@ -392,23 +392,6 @@ Closing
 Periodicity
 Annual
 Read more about WEAVE-SNSF-OCTOBER
-International projects
-SVS
-SEN
-SHS
-Coming soon
-NRF (South Africa) - Bilateral call with The National Research Foundation
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-04 September 2026
-14:00
-Closing
-05 November 2026
-14:00
-Read more about NRF (South Africa) - Bilateral call with The National Research Foundation
 FNRS.awards
 SVS
 In progress
@@ -564,6 +547,23 @@ Closing
 30 September 2026
 14:00
 Read more about CSIC (Spain) - Bilateral call with the Spanish National Research Council
+International projects
+SVS
+SEN
+SHS
+In progress
+NRF (South Africa) - Bilateral call with The National Research Foundation
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+04 September 2026
+14:00
+Closing
+05 November 2026
+14:00
+Read more about NRF (South Africa) - Bilateral call with The National Research Foundation
 See all
 Télévie 2026: A massive thank you!
 The 2026 edition raised €13,459,073.87 for cancer research — a record since the launch of the initiative.
@@ -875,7 +875,6 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
-Calls
 Audacious Medical Grants (AMG)
 Breadcrumb
 Home
@@ -1210,7 +1209,6 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
-Calls
 Audacious Sustainability Grant (ASG)
 Breadcrumb
 Home
@@ -1523,7 +1521,6 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
-Calls
 FRArt
 Breadcrumb
 Home
@@ -1838,7 +1835,6 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
-Calls
 Strategic fundamental research, the FRFS (specialized fund of the FNRS) and the WEL Research Institute
 Breadcrumb
 Home
@@ -2168,7 +2164,6 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
-Calls
 Wernaers Fund for Research and Knowledge Dissemination
 Breadcrumb
 Home

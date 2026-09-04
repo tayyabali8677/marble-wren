@@ -42,9 +42,9 @@ Online Learning
 NETWORK LEADERSHIP TOOLKIT
 A practical toolkit designed to support network leaders with clear guidance, useful resources and ready to use tools for building, managing and strengthening strong professional networks.
 Results & Reports
-11-06-26
-OUR RESULTS 2025
-2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
+04-09-26
+Annual report 2025 for the Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
 Uncategorized
 07-08-26
 Programme &#8211; Research: Engagement, Influencing and Impact training, Sept-Oct 2026
@@ -58,9 +58,9 @@ Online Learning
 SOCIAL LEARNING
 Social learning is not about one person transmitting information to others. It’s about people learning with and from each other, about something they care to do better. Together with the world-renowned social learning theorists and practitioners Beverly and Etienne Wenger-Trayner, we have developed four new online social learning module.
 Results & Reports
-10-06-26
-The first year of the Knowledge and Innovation Programme
-22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
+11-06-26
+OUR RESULTS 2025
+2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
 Uncategorized
 04-08-26
 Dive into the water-themed LinkedIn updates of our learning and research community
@@ -75,8 +75,8 @@ HUMAN RIGHTS BASED APPROACH
 The Human Rights Based Approach (HRBA) is anchored in the international, regional and national human rights systems. It is a method that can be applied when you design, implement, monitor and evaluate both policies, programmes, and development projects. The goal behind HRBA is to create societies.
 Results & Reports
 10-06-26
-Supporting global energy expertise
-In 2025, close to one fifth of all Danida Fellowship Centre learning activities focused on equipping participants from partner countries with the knowledge and tools to drive sustainable energy transitions.
+The first year of the Knowledge and Innovation Programme
+22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
 Danida Fellows Network
 28-07-26
 Join the Danida Fellows Water Community
@@ -91,8 +91,8 @@ GREEN TRANSITION AND THE TRIPLE PLANETARY CRISIS
 Explore the “triple crisis” - biodiversity loss, climate change and waste - through webinars, assignments and interactive sessions. Learn about causes, impacts and solutions across three key modules: Biodiversity and Ecosystems; Climate Change Adaptation and Mitigation; and Pollution and Circular Economy. This online course is free and open to all!
 Results & Reports
 10-06-26
-Strong research collaborations result in greener tourism in Zanzibar
-With State University of Zanzibar at the forefront, the Building Stronger Universities LINK programme in close collaboration with the research project Environmental Sustainability of Hotels in Zanzibar (EnSuZa) have strengthened partnerships across the tourism sector, supporting Zanzibar&#039;s ambitions towards sustainable tourism.
+Supporting global energy expertise
+In 2025, close to one fifth of all Danida Fellowship Centre learning activities focused on equipping participants from partner countries with the knowledge and tools to drive sustainable energy transitions.
 Uncategorized
 28-07-26
 This month´s newsletter is about water
@@ -162,6 +162,505 @@ Strategy and results Board of directors Jobs Code of conduct Meet the team Conta
 Meet the team
 Contact us
 Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
+Learning
+Learning activities Master&#8217;s scholarships
+Research
+Research grants Research engagement Research portal
+University Partnerships
+Knowledge and Innovation Programme Building Stronger Universities
+Study Stay Logistics
+Before your stay During your stay
+Network
+Build your network leadership skills Thematic Communities Access network funding opportunities
+Story and knowledge hub
+Stories Free online learning Results and reports Newsletters
+About us
+Strategy and results Board of directors Jobs Code of conduct Meet the team Contact us
+Meet the team
+Contact us
+Engage with us
+
+===== SOURCE PAGE: https://dfcentre.com/results-reports/annual-report-2025-for-knowledge-and-innovation-programme/ =====
+Annual report 2025 for the Knowledge and Innovation Programme - Danida Fellowship Centre
+Annual report 2025 for  Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
+From 42 applications received after the June 2025 call, 10 projects were granted, five partnership and five seed funding projects, spanning five Danish universities and partners across nine African countries.
+View report
+Explore
+STORIES AND KNOWLEDGE
+See all
+Knowledge and Innovation Programme
+13-04-26
+Strengthening the Danish-African university collaboration
+We are delighted to announce the second call under the Knowledge and Innovation Programme (KIP) – a large-scale university collaboration initiative that aims to strengthen partnerships between African universities and universities in the Kingdom of Denmark.
+Knowledge and Innovation Programme
+13-04-26
+Advancing Sustainable Animal Production and Biodiversity
+“I can’t wait to start working with our African and European colleagues and see the first student exchanges take place. When those students graduate, I’ll know we’ve made a real impact,” says Grum Gebreyesus, coordinator of the project Advancing Sustainable Animal Production and Biodiversity.
+By Vibeke Quaade
+Knowledge and Innovation Programme
+13-04-26
+The Africa, Business and Society project
+“The world of business is moving faster than what we teach in our lecture rooms. We need to rethink business education and present multidimensional perspectives in our teaching,” says Professor Lindsay Whitfield, project coordinator of the Africa, Business and Society project.
+By Vibeke Quaade
+Knowledge and Innovation Programme
+13-04-26
+Partnership for Climate Innovation, Entrepreneurship and Education
+The Technical University of Denmark (DTU) is taking a new approach to international collaboration. The Partnership for Climate Innovation, Entrepreneurship and Education project, in partnership with the University of Nairobi, is part of the Knowledge and Innovation Programme and strengthens DTU’s long-term strategy for university-to-university partnerships in the Global South.
+By Vibeke Quaade
+Knowledge and Innovation Programme
+13-04-26
+Co-designing Kenyan-Danish AI and Robotics for Sustainability and Impact
+The world is experiencing a rapid decline in biodiversity. In 2023, Professor Ulrik Pagh Schultz Lundquist from the University of Southern Denmark (SDU), together with an international network of scientists, launched the WildDrone project. The project aims to help address the biodiversity crisis by developing a sustainable robotics and drone ecosystem for East Africa.
+By Jane Callesen and Vibeke Quaade
+Knowledge and Innovation Programme
+13-04-26
+Online info meeting 12 May 2026. Knowledge and Innovation Programme
+Please, register in advance: HERE
+Knowledge and Innovation Programme
+27-06-25
+Launch of the Knowledge and Innovation programme
+The Danish Ministry of Higher Education and Science and the Ministry of Foreign Affairs launched the “Knowledge and Innovation Programme” on Friday, 13 June 2025, at the dialogue festival, Folkemødet, in Bornholm Denmark. The programme strengthens partnerships between Danish and African universities as part of Denmark’s broader Africa’s Century strategy. If you missed the launch, here is a recap.
+Danida Fellows Network
+09-05-25
+Learning to make a difference: Start with your next meeting
+Knowledge in Action Talk: “Learning to make a difference: Start with Your Next Meeting”
+Danida Fellows Network
+09-05-25
+Get a sneak-peak into building communities of practice
+In this 5-minute film, social learning theorists and consultants, Etienne and Beverly Wenger-Trayner, briefly explain the concept of ‘Communities of Practice’.
+NEWSLETTER
+Sign up for our newsletter
+Your name
+Your email *
+I understand and agree to the Privacy Policy. *
+I understand and agree to the Privacy Policy.
+Sign up
+View our previous newsletters here.
+Engage with us
+Get inspired on our social media
+Danida Fellowship Centre
+Phone: (+45) 3536 1322
+Mail: dfc@dfcentre.dk
+VAT number: 17246011
+EAN (General activities): 5798009814364
+EAN (Research projects): 5798000008809
+Engage with us
+Opening hours
+Monday 10 am – 3 pm
+Tuesday 10 am – 3 pm
+Wednesday 10 am – 3 pm
+Thursday 10 am – 6 pm
+Friday 10 am – 3 pm
+Individual appointments can be arranged outside office hours.
+Our organisation
+Board of Directors
+Our team
+Strategy
+Results and reports
+Story and knowledge hub
+Danida Fellows Network
+Whistleblower
+Locations
+Hostel
+Hostrupsvej 22
+DK – 1950 Frederiksberg C.
+Administration
+Tidemandsvej 1
+DK – 4300 Holbæk
+Danida Fellowship Centre © 2026. All Rights Reserved.
+Privacy policy
+Cookie policy
+Search for:
+Learning
+Learning activities Master&#8217;s scholarships
+Research
+Research grants Research engagement Research portal
+University Partnerships
+Knowledge and Innovation Programme Building Stronger Universities
+Study Stay Logistics
+Before your stay During your stay
+Network
+Build your network leadership skills Thematic Communities Access network funding opportunities
+Story and knowledge hub
+Stories Free online learning Results and reports Newsletters
+About us
+Strategy and results Board of directors Jobs Code of conduct Meet the team Contact us
+Meet the team
+Contact us
+Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
 Learning
 Learning activities Master&#8217;s scholarships
 Research
@@ -214,9 +713,9 @@ Online Learning
 NETWORK LEADERSHIP TOOLKIT
 A practical toolkit designed to support network leaders with clear guidance, useful resources and ready to use tools for building, managing and strengthening strong professional networks.
 Results & Reports
-11-06-26
-OUR RESULTS 2025
-2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
+04-09-26
+Annual report 2025 for the Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
 Uncategorized
 07-08-26
 Programme &#8211; Research: Engagement, Influencing and Impact training, Sept-Oct 2026
@@ -230,9 +729,9 @@ Online Learning
 SOCIAL LEARNING
 Social learning is not about one person transmitting information to others. It’s about people learning with and from each other, about something they care to do better. Together with the world-renowned social learning theorists and practitioners Beverly and Etienne Wenger-Trayner, we have developed four new online social learning module.
 Results & Reports
-10-06-26
-The first year of the Knowledge and Innovation Programme
-22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
+11-06-26
+OUR RESULTS 2025
+2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
 Uncategorized
 04-08-26
 Dive into the water-themed LinkedIn updates of our learning and research community
@@ -297,6 +796,192 @@ Strategy and results Board of directors Jobs Code of conduct Meet the team Conta
 Meet the team
 Contact us
 Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
 Learning
 Learning activities Master&#8217;s scholarships
 Research
@@ -380,9 +1065,9 @@ Online Learning
 NETWORK LEADERSHIP TOOLKIT
 A practical toolkit designed to support network leaders with clear guidance, useful resources and ready to use tools for building, managing and strengthening strong professional networks.
 Results & Reports
-11-06-26
-OUR RESULTS 2025
-2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
+04-09-26
+Annual report 2025 for the Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
 Uncategorized
 07-08-26
 Programme &#8211; Research: Engagement, Influencing and Impact training, Sept-Oct 2026
@@ -396,9 +1081,9 @@ Online Learning
 SOCIAL LEARNING
 Social learning is not about one person transmitting information to others. It’s about people learning with and from each other, about something they care to do better. Together with the world-renowned social learning theorists and practitioners Beverly and Etienne Wenger-Trayner, we have developed four new online social learning module.
 Results & Reports
-10-06-26
-The first year of the Knowledge and Innovation Programme
-22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
+11-06-26
+OUR RESULTS 2025
+2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
 Uncategorized
 04-08-26
 Dive into the water-themed LinkedIn updates of our learning and research community
@@ -463,6 +1148,192 @@ Strategy and results Board of directors Jobs Code of conduct Meet the team Conta
 Meet the team
 Contact us
 Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
 Learning
 Learning activities Master&#8217;s scholarships
 Research
@@ -531,9 +1402,9 @@ Online Learning
 NETWORK LEADERSHIP TOOLKIT
 A practical toolkit designed to support network leaders with clear guidance, useful resources and ready to use tools for building, managing and strengthening strong professional networks.
 Results & Reports
-11-06-26
-OUR RESULTS 2025
-2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
+04-09-26
+Annual report 2025 for the Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
 Uncategorized
 07-08-26
 Programme &#8211; Research: Engagement, Influencing and Impact training, Sept-Oct 2026
@@ -547,9 +1418,9 @@ Online Learning
 SOCIAL LEARNING
 Social learning is not about one person transmitting information to others. It’s about people learning with and from each other, about something they care to do better. Together with the world-renowned social learning theorists and practitioners Beverly and Etienne Wenger-Trayner, we have developed four new online social learning module.
 Results & Reports
-10-06-26
-The first year of the Knowledge and Innovation Programme
-22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
+11-06-26
+OUR RESULTS 2025
+2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
 Uncategorized
 04-08-26
 Dive into the water-themed LinkedIn updates of our learning and research community
@@ -614,6 +1485,192 @@ Strategy and results Board of directors Jobs Code of conduct Meet the team Conta
 Meet the team
 Contact us
 Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
 Learning
 Learning activities Master&#8217;s scholarships
 Research
@@ -656,9 +1713,9 @@ Online Learning
 NETWORK LEADERSHIP TOOLKIT
 A practical toolkit designed to support network leaders with clear guidance, useful resources and ready to use tools for building, managing and strengthening strong professional networks.
 Results & Reports
-11-06-26
-OUR RESULTS 2025
-2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
+04-09-26
+Annual report 2025 for the Knowledge and Innovation Programme
+In its first year, the Knowledge and Innovation Programme (KIP) launched with a DKK 430 million budget for 2025-2032, aiming to strengthen Africa-Denmark ties through university partnerships and student scholarships.
 Uncategorized
 07-08-26
 Programme &#8211; Research: Engagement, Influencing and Impact training, Sept-Oct 2026
@@ -672,9 +1729,9 @@ Online Learning
 SOCIAL LEARNING
 Social learning is not about one person transmitting information to others. It’s about people learning with and from each other, about something they care to do better. Together with the world-renowned social learning theorists and practitioners Beverly and Etienne Wenger-Trayner, we have developed four new online social learning module.
 Results & Reports
-10-06-26
-The first year of the Knowledge and Innovation Programme
-22 applications were received, and five projects were selected in the first round of the new large-scale university partnership programme, Knowledge and Innovation.
+11-06-26
+OUR RESULTS 2025
+2025 was a year of expanding partnerships for Danida Fellowship Centre. We welcomed the first cohort of the new Knowledge and Innovation Programme - Denmark&#039;s DKK 430 million university partnership programme with Africa for 2025-32 - and embarked on a three-year agreement to support sustainable urban development in cities across the continent. More than 1,300 professionals took part in our learning activities, with close to one fifth focused on supporting the global energy transition.
 Uncategorized
 04-08-26
 Dive into the water-themed LinkedIn updates of our learning and research community
@@ -739,6 +1796,192 @@ Strategy and results Board of directors Jobs Code of conduct Meet the team Conta
 Meet the team
 Contact us
 Engage with us
+Consent
+Details
+About
+You have full control over your data and privacy, and we want to ensure that you are aware of how we and our partners handle your information using various technologies, including cookies.
+We use these technologies for various purposes, including ensuring functionality, collecting statistics, and enabling marketing activities. When you press 'Accept all', you consent to all these purposes. Alternatively, you have the option to specify which purposes you want to consent to by using the corresponding checkboxes and then pressing 'Save settings'.
+We want to make it as easy as possible for you to make informed choices. Therefore, you can change your preferences at any time by clicking on the small icon located at the bottom left corner of the website, thus withdrawing your consent. If you wish to delve further into our use of cookies and other technologies, as well as our collection and processing of personal information, we encourage you to read more by following the provided link. We prioritize transparency and respect your need to be well-informed.
+Google privacy policy
+Name:
+breakdance_view_count
+Description:
+tracking post views or toggling visibility for popups and content based on user session counts
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_session_count
+Description:
+enables popup visibility controls by tracking how many times a user navigates between pages during a visit.
+Retention:
+Session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+breakdance_last_session_id
+Description:
+tracking specific website analytics and user activity, such as recording a unique identifier for your current browser session and controlling visibility features like pop-ups.
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+cookie-care-consent
+Description:
+stores your cookie preferences, so that it can be remembered and applied across different pages.
+Retention:
+1 Year
+Domain:
+.dfcentre.com
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookieCareConsentMode
+Description:
+stores information about your consent based on the format used for Google Consent Mode v2.
+Retention:
+1 Year
+Domain:
+Local storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Name:
+cookie_care_data_cache
+Description:
+stores information about the active tracking scripts in the browsers session storage
+Retention:
+Session
+Domain:
+Session storage
+Privacy:
+https://www.wpnordic.com/privacy-policy/
+Necessary
+6
+Necessary cookies ensure that the website can function smoothly by enabling essential features such as page navigation and security. Without these cookies, the website would not be able to operate optimally.
+No cookies found in this category.
+Marketing
+0
+Marketing cookies are used to track visitors' behavior on a website and create profiles that can be utilized to deliver targeted advertising. Marketing cookies assist businesses in delivering more focused and personalized advertisements to their users.
+Name:
+_ga
+Description:
+store and count pageviews
+Retention:
+2 years
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjViewportId
+Description:
+read screen resolution
+Retention:
+session
+Domain:
+Session storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_ga_*
+Description:
+store and count pageviews
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://business.safety.google/privacy/
+Name:
+_hjSessionUser_*
+Description:
+store a unique user ID
+Retention:
+1 year
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Analytics
+6
+Statistics cookies collect anonymous information about the user's behavior on a website. These cookies help in understanding how visitors interact with the website. By gathering this information, website owners can analyze and enhance the performance and user experience of the website.
+Name:
+PHPSESSID
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+dfcentre.com
+Privacy:
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+hjActiveViewportIds
+Description:
+this cookie stores user active viewport IDs and an expiration timestamp used to validate active viewports when the script initializes, in JSON format.
+Retention:
+Unknown
+Domain:
+Local storage
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Name:
+_hjSession_*
+Description:
+provide functions across pages
+Retention:
+session
+Domain:
+.dfcentre.com
+Privacy:
+https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code
+Functional
+4
+Functional cookies enable a website to provide enhanced functionality and personalization. These cookies remember user preferences and choices, such as login details, language settings, or region selection, ensuring a more seamless and customized browsing experience. Without functional cookies, certain features of the website may not work as intended, leading to a less optimized user experience.
+Cookies are small text files that are stored on your computer or device when you visit a website. These files contain various pieces of information that websites use to enhance your user experience.
+Cookies are used to gather data about your behavior on the website. This information may include the number of visits, which pages you've visited, how much time you've spent on each page, and more. This data helps website owners understand how their site is being used and enables them to customize content and advertising to match your interests.
+It's important to note that cookies are not inherently harmful and cannot contain viruses or malware. They are simply text files used to store information. However, it's crucial to be aware that certain cookies may contain personal information, which can be sensitive. Therefore, rules and laws have been implemented to require websites to inform users about the types of cookies they use and obtain consent before placing cookies on users' devices.
+Necessary
+Functional
+Marketing
+Analytics
+Only essential
+Accept selected
+Accept all
 Learning
 Learning activities Master&#8217;s scholarships
 Research

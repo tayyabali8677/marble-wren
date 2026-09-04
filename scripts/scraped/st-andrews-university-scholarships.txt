@@ -32,8 +32,8 @@ Please select from one of the following
 Prospective student
 Current student
 Year of entry (optional)
-2025-2026 (September 2025 to August 2026)
 2026-2027 (September 2026 to August 2027)
+2027-2028 (September 2027 to August 2028)
 Study level (optional)
 Please select from one of the following
 Undergraduate
@@ -406,8 +406,8 @@ Please select from one of the following
 Prospective student
 Current student
 Year of entry (optional)
-2025-2026 (September 2025 to August 2026)
 2026-2027 (September 2026 to August 2027)
+2027-2028 (September 2027 to August 2028)
 Study level (optional)
 Please select from one of the following
 Undergraduate

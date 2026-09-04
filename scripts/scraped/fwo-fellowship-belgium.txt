@@ -188,11 +188,11 @@ A confirmation e-mail has been sent
 Something went wrong
 Upcoming events
 All events
-Sep
-03
-IgNobel Watchparty Brussel
-03 September 2026 18:00
-21:00
+Oct
+21
+Finale Vlaamse PhD Cup 2026
+21 October 2026 20:00
+22:00
 Nov
 15
 Wetenschapsfestival Brussel

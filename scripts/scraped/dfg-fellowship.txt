@@ -298,7 +298,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -637,7 +637,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards
@@ -1118,7 +1118,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -1457,7 +1457,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards
@@ -1528,6 +1528,7 @@ General questions on eligibilit y (interner Link)
 FAQ on CV s (interner Link)
 Information relating to special personal circumstance s (interner Link)
 FAQ on Lists of publication s (interner Link)
+Statement by the Ethics Committe e (interner Link)
 Questions and information from certain scientific disciplines
 Humanities and Social Science s (interner Link)
 Life Science s (interner Link)
@@ -1575,7 +1576,7 @@ Handling of Research Dat a (interner Link)
 Publishin g (interner Link)
 Subject Area Structure and Interdisciplinarit y (interner Link)
 Last updated:
-10 August 2026
+4 September 2026
 Information Systems and Websites
 Portal Research Integrity
 GEPRIS
@@ -1913,7 +1914,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -2252,7 +2253,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards
@@ -2671,7 +2672,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -3010,7 +3011,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards
@@ -3421,7 +3422,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -3760,7 +3761,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards
@@ -4422,7 +4423,7 @@ Back
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 GEPRIS
 GERiT
 RIsources
@@ -4761,7 +4762,7 @@ Dialogue Process on Digital Research Practice
 Publication and Communication
 Academic Publishing
 Citizen Participation
-Science Communication
+DFG Funding of Science Communication
 Scientific Commissions
 Food Safety
 Health Hazards

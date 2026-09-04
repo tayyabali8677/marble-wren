@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -300,7 +300,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -919,7 +919,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1154,7 +1154,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
