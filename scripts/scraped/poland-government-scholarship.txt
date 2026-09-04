@@ -924,13 +924,6 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-CUSP Residency 2027 – rezydencja artystyczna w Reykjavíku
-16.07.2026 - 03.09.2026
-CUSP Residency 2027 to rezydencja artystyczna w Reykjavíku organizowana przez National Gallery of Iceland w ramach programu CUSP: Creative Understanding, Saving and Preserving Time-Based Media Art, finansowanego z grantu Creative Europe Culture. Nabór dotyczy artystów pracujących z mediami złożonymi lub nowymi technologiami, takimi jak generatywna AI, czujniki, dźwięk, oprogramowanie, blockchain albo formy hybrydowe.
-Szczegóły
-16
-Lip
-2026
 Princeton Arts Fellowship – program dla artystów
 16.07.2026 - 08.09.2026
 Princeton Arts Fellowship to dwuletni program Lewis Center for the Arts na Princeton University dla artystek i artystów na wczesnym etapie kariery, których dorobek wskazuje na wyjątkowy potencjał w praktyce artystycznej i nauczaniu. Program jest skierowany m.in. do twórców wizualnych, filmowców, poetów, prozaików, dramaturgów, projektantów, reżyserów, performerów, muzyków, kompozytorów, dyrygentów i choreografów; lista dziedzin nie jest zamknięta.
@@ -956,6 +949,13 @@ Stypendium podoktorskie MSCA 2026
 16.07.2026 - 09.09.2026
 Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2026 to konkurs programu Horyzont Europa dla naukowców posiadających stopień doktora, którzy chcą rozwijać karierę poprzez indywidualny projekt badawczo-szkoleniowy, mobilność międzynarodową, współpracę międzysektorową i zdobywanie nowych kompetencji.
 Szczegóły
+16
+Lip
+2026
+Schwarzman Scholars – stypendium na studia magisterskie w Chinach
+16.07.2026 - 09.09.2026
+Schwarzman Scholars to roczny, w pełni finansowany program magisterski Master of Global Affairs prowadzony w Schwarzman College na Tsinghua University w Pekinie. Program jest skierowany do osób z potencjałem przywódczym, które chcą pogłębić wiedzę o Chinach, global affairs i relacjach międzynarodowych.
+Szczegóły
 Start
 Poprzedni
 1
@@ -966,7 +966,6 @@ Poprzedni
 6
 7
 8
-9
 Następny
 Koniec
 Menu

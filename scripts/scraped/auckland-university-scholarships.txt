@@ -19,7 +19,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -41,6 +40,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -146,7 +146,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -171,6 +170,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -283,6 +283,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute
@@ -538,7 +539,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -560,6 +560,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -665,7 +666,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -690,6 +690,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -802,6 +803,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute
@@ -1050,7 +1052,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -1072,6 +1073,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -1177,7 +1179,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -1202,6 +1203,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -1314,6 +1316,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute
@@ -1565,7 +1568,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -1587,6 +1589,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -1692,7 +1695,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -1717,6 +1719,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -1829,6 +1832,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute
@@ -2069,7 +2073,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -2091,6 +2094,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -2196,7 +2200,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -2221,6 +2224,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -2333,6 +2337,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute
@@ -2564,7 +2569,6 @@ Canvas
 Concur
 Student email
 MyCDES+ (job board)
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -2586,6 +2590,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
@@ -2691,7 +2696,6 @@ Concur
 Student email
 MyCDES+ (job board)
 Resources
-Centre for Innovation and Entrepreneurship
 Curriculum Catalogue
 Forms, policies and guidelines
 Learning essentials
@@ -2716,6 +2720,7 @@ Complaints and incidents
 Career Development and Employability Services (CDES)
 Ratonga Hauātanga Tauira | Student Disability Services (SDS)
 Rainbow support
+Centre for Innovation and Entrepreneurship
 Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
@@ -2828,6 +2833,7 @@ Innovation
 Our innovation ecosystem
 UniServices
 Newmarket Innovation Precinct
+Centre for Innovation and Entrepreneurship
 Research centres and institutes
 University research centres
 Auckland Bioengineering Institute

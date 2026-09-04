@@ -123,15 +123,21 @@ We use cookies & other technologies for analytics and personalization purposes. 
 
 ===== SOURCE PAGE: https://scholarshipowl.com/registration/select =====
 ScholarshipOwl: Win More Scholarships With Less Effort
-Hello! Let's start with the basics.
-Enter your name and email so that we can start matching you to scholarships.
+Your info
+Your info
+Your education
+Your scholarships
+Almost done
+Hey there! I'm Winnie, your scholarship assistant. I'll help you find scholarships you actually qualify for.
+Let's kick things off - what's your name?
+Hey there! I'm Winnie,
+your scholarship assistant.
+I'll help you find scholarships you
+actually qualify for.
+Let's kick things off - what's your name?
 First name
 Last name
-Email
-Next Step
-OR
-Sign up with Google
-Already have an account? Sign In
+Let's do this
 
 ===== SOURCE PAGE: https://scholarshipowl.com/scholarship-list/by-type/no-essay-scholarships =====
 100+ No Essay Scholarships for 2026 | Updated Monthly
@@ -367,19 +373,6 @@ Testing traits - SSC - Education Advice $1,000 Scholarship
 Funded by Test Organisation
 Subscribe to the free EDU Advice newsletter and unlock your potential! Inspiring stories, expert advice, and bite-sized tips tailored for those seeking to learn. By clicking "Apply" below, you instruct ScholarshipOwl to subscribe you to EDU Advice newsletter.
 Remember to validate your email once you're subscribed to their newsletter to ensure you don’t miss any updates!
-$1,000 Award Amount
-Only 3 days left Deadline
-Verified
-Exclusive
-1-Click Quick Apply
-$1,000
-Only 3 days left
-Verified
-Exclusive
-1-Click
-Test File upload ai review 2
-Funded by Sanity Test prod®
-Sanity Test prod® is giving away its Test File upload ai review 2 opportunity to students in hopes to help with their educational dreams.
 $1,000 Award Amount
 Only 3 days left Deadline
 Verified
@@ -631,7 +624,23 @@ The WAEE Scholarship supports students pursuing careers in energy-related fields
 $1,000 Award Amount
 in 17 days Deadline
 1-Click Quick Apply
-Show more scholarships
+$1,000
+Due in: 19 days
+Verified
+Exclusive
+1-Click
+Fund.com $1,000 Smart Money for Students Scholarship
+Funded by Fund.com
+Getting through college is tough, but Fund.com is here to help. Enter for a chance to win $1,000 to put toward tuition, books, or living expenses.
+Fund.com makes it easy to explore student loan options, compare top lenders, and get practical tips for managing your finances, all in one place.
+Quick to enter, no essay required, and a great way to give your college budget a boost.
+Click through to learn more and see how Fund.com can help make paying for college simpler.
+$1,000 Award Amount
+in 19 days Deadline
+Verified
+Exclusive
+1-Click Quick Apply
+Show more no-essay scholarships
 Trusted by 12 million students and parents.
 Trustpilot
 4.4 Excellent
@@ -1063,7 +1072,7 @@ $1,000 Award Amount
 Mar 16, 2026 Deadline
 Awarded to 1 winner 🏆
 1-Click Apply
-Show more nursing scholarships
+Show more scholarships
 Trusted by 12 million students and parents.
 Trustpilot
 4.4 Excellent
