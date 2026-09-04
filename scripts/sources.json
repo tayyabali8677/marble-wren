@@ -3567,5 +3567,26 @@
     "country": "European Union",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Featured on the EduCanada portal for international and Canadian students."
+  },
+  {
+    "slug": "eu-jean-monnet-scholarship",
+    "name": "EU Jean Monnet Scholarship 2027–2028",
+    "country": "Belgium",
+    "url": "https://www.jeanmonnet.org.tr/",
+    "note": "Extracted from Bright Scholarship listing text referring to the 170 EU Jean Monnet Scholarship."
+  },
+  {
+    "slug": "erasmus-mundus-mapp-scholarship",
+    "name": "Erasmus Mundus MAPP Scholarship 2027",
+    "country": "European Union",
+    "url": "https://www.mapp.eu/",
+    "note": "Major international organisation scholarship funded by the European Union."
+  },
+  {
+    "slug": "aauw-international-fellowship",
+    "name": "AAUW International Fellowship Program 2027",
+    "country": "United States",
+    "url": "https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/",
+    "note": "For women pursuing full-time graduate or postdoctoral study in the US."
   }
 ]
