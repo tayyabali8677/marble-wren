@@ -3609,5 +3609,19 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "URL is extracted from an aggregator page; official specific link not provided in text."
+  },
+  {
+    "slug": "peking-university-yenching-academy-scholarship-china",
+    "name": "Peking University Yenching Academy Scholarship",
+    "country": "China",
+    "url": "https://yenchingacademy.pku.edu.cn/",
+    "note": "Extracted from Bright Scholarship aggregator page"
+  },
+  {
+    "slug": "kennedy-lugar-yes-scholarship-usa",
+    "name": "Kennedy-Lugar YES Scholarship",
+    "country": "United States",
+    "url": "https://www.yesprograms.org/",
+    "note": "Extracted from Bright Scholarship aggregator page"
   }
 ]
