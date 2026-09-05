@@ -326,7 +326,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 1
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓
