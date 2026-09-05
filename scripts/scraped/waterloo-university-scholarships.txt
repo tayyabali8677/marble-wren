@@ -1753,7 +1753,7 @@ Program(s)
 Application deadline
 Documents deadline
 ( What documents are due? )
-All programs (other than Engineering)
+Programs other than Engineering
 February 1, 2027
 February 15, 2027
 Additional important dates for your faculty/program .
@@ -1875,7 +1875,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-17 + 3 =
+5 + 8 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

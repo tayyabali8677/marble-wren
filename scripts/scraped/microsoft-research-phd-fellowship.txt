@@ -3,9 +3,7 @@ Microsoft Research PhD Fellowship - Microsoft Research
 Skip to main content
 Research
 Publications
-Code & data
-People
-Microsoft Research blog
+Code, datasets and models
 Artificial intelligence
 Audio & acoustics
 Computer vision
@@ -29,10 +27,9 @@ Technology for emerging markets
 Academic programs
 Events & academic conferences
 Microsoft Research Forum
-Behind the Tech podcast
-Microsoft Research blog
-Microsoft Research Forum
-Microsoft Research podcast
+Microsoft Research Blog
+Microsoft Research Podcast
+Microsoft Research Stories
 About Microsoft Research
 Careers & internships
 People
@@ -44,6 +41,7 @@ AI for Science
 AI Frontiers
 Asia-Pacific
 Cambridge
+Catalyst
 Health Futures
 India
 Montreal
@@ -197,7 +195,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: f88a2f97f82e594549641e5444591ec7
+This is the Trace Id: 86abc7b28b0e4bd44c94e9bf30b18259
 Skip to main content
 Education
 Azure for education

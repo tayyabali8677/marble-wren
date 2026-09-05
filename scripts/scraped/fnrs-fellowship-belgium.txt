@@ -875,6 +875,7 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
+Calls
 Audacious Medical Grants (AMG)
 Breadcrumb
 Home
@@ -1209,6 +1210,7 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
+Calls
 Audacious Sustainability Grant (ASG)
 Breadcrumb
 Home
@@ -1521,6 +1523,7 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
+Calls
 FRArt
 Breadcrumb
 Home
@@ -1835,6 +1838,7 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
+Calls
 Strategic fundamental research, the FRFS (specialized fund of the FNRS) and the WEL Research Institute
 Breadcrumb
 Home
@@ -2164,6 +2168,7 @@ Télévie.news
 Press area
 Logos & brand guidelines
 Contact
+Calls
 Wernaers Fund for Research and Knowledge Dissemination
 Breadcrumb
 Home
