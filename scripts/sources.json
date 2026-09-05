@@ -3588,5 +3588,26 @@
     "country": "United States",
     "url": "https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/",
     "note": "For women pursuing full-time graduate or postdoctoral study in the US."
+  },
+  {
+    "slug": "lm-sist-doctoral-scholarships-germany",
+    "name": "LMU SIST Doctoral Scholarships 2027",
+    "country": "Germany",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from an aggregator page; official specific link not provided in text."
+  },
+  {
+    "slug": "harvard-environmental-fellowship-program",
+    "name": "Harvard Environmental Fellowship Program 2027",
+    "country": "United States",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from an aggregator page; official specific link not provided in text."
+  },
+  {
+    "slug": "rotary-yoneyama-scholarship-japan",
+    "name": "Ritsumeikan APU Rotary Yoneyama Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from an aggregator page; official specific link not provided in text."
   }
 ]
