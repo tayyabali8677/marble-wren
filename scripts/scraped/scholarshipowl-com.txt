@@ -123,15 +123,21 @@ We use cookies & other technologies for analytics and personalization purposes. 
 
 ===== SOURCE PAGE: https://scholarshipowl.com/registration/select =====
 ScholarshipOwl: Win More Scholarships With Less Effort
-Hello! Let's start with the basics.
-Enter your name and email so that we can start matching you to scholarships.
+Your info
+Your info
+Your education
+Your scholarships
+Almost done
+Hey there! I'm Winnie, your scholarship assistant. I'll help you find scholarships you actually qualify for.
+Let's kick things off - what's your name?
+Hey there! I'm Winnie,
+your scholarship assistant.
+I'll help you find scholarships you
+actually qualify for.
+Let's kick things off - what's your name?
 First name
 Last name
-Email
-Next Step
-OR
-Sign up with Google
-Already have an account? Sign In
+Let's do this
 
 ===== SOURCE PAGE: https://scholarshipowl.com/scholarship-list/by-type/no-essay-scholarships =====
 100+ No Essay Scholarships for 2026 | Updated Monthly
@@ -1062,7 +1068,7 @@ $1,000 Award Amount
 Mar 16, 2026 Deadline
 Awarded to 1 winner 🏆
 1-Click Apply
-Show more nursing scholarships
+Show more scholarships
 Trusted by 12 million students and parents.
 Trustpilot
 4.4 Excellent
@@ -1496,7 +1502,7 @@ $1,000 Award Amount
 Jul 2, 2026 Deadline
 Awarded to 1 winner 🏆
 1-Click Apply
-Show more merit-based scholarships
+Show more scholarships
 Trusted by 12 million students and parents.
 Trustpilot
 4.4 Excellent
