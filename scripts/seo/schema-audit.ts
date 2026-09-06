@@ -6,7 +6,17 @@
  * whole page's markup ignored, so an unsupervised writer emitting schema needs
  * something checking its output.
  *
- * Also flags page types that should carry schema and do not.
+ * Also flags page types that should carry schema and do not - both a fixed
+ * path-based list (blog posts, the homepage) and, separately, any page at all
+ * whose headings read like an FAQ section but whose JSON-LD carries no
+ * FAQPage type. That second check exists because of a real miss: a shared
+ * FAQ component rendered real question/answer content across the site's four
+ * country hub pages and every individual university detail page (100+ pages)
+ * with zero structured data, for months, because nothing here was looking at
+ * headings, only at a hardcoded per-path expectation list. Heading text is
+ * the only FAQ signal available from a crawl (no raw HTML is kept, see
+ * CrawledPage in ./crawl), but every FAQ section on this site titles itself
+ * with "FAQ" or "Frequently Asked Questions" in an h2, so it is a reliable one.
  */
 
 import { crawlSite, toPath, writeReport } from "./crawl";
@@ -62,6 +72,12 @@ function expectedType(url: string): string | null {
   return null;
 }
 
+/** True when a page's own headings read like it carries a real FAQ section. */
+const FAQ_HEADING = /\bfaqs?\b|frequently asked questions/i;
+function looksLikeFaqPage(page: { h1: string[]; headings: string[] }): boolean {
+  return [...page.h1, ...page.headings].some((h) => FAQ_HEADING.test(h));
+}
+
 async function main() {
   const pages = (await crawlSite()).filter((p) => p.status === 200);
 
@@ -92,6 +108,10 @@ async function main() {
     const expected = expectedType(page.url);
     if (expected && !types.has(expected)) {
       missing.push({ url: page.url, expected });
+    }
+
+    if (!types.has("FAQPage") && looksLikeFaqPage(page)) {
+      missing.push({ url: page.url, expected: "FAQPage (heading reads like an FAQ section)" });
     }
   }
 
