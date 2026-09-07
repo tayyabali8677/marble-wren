@@ -52,8 +52,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -353,8 +351,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group
@@ -726,8 +722,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -1027,8 +1021,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group
@@ -1279,7 +1271,6 @@ Breadcrumb
 Home
 Studeren aan de VUB
 Application and enrolment
-Startpagina studenten
 Study programmes
 Why study at VUB?
 Study choice & preparation
@@ -1385,8 +1376,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -1686,8 +1675,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group
@@ -2069,8 +2056,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -2370,8 +2355,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group
@@ -2722,8 +2705,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -3023,8 +3004,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group
@@ -3404,8 +3383,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Research
 Menu group
@@ -3705,8 +3682,6 @@ Exams and deliberations
 Our education
 Vision and policy
 Education quality
-Menu group
-Menu group
 Our research
 Primary menu Research
 Menu group

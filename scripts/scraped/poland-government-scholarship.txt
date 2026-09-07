@@ -1279,6 +1279,9 @@ Raz poprawnie wydane uwierzytelnienie i legalizacja są ważnie.
 Czy muszę się umówić, aby złożyć dokumenty?
 Czy muszę się umówić, aby złożyć dokumenty?
 W celu złożenia dokumentów nie jest wymagana rezerwacja wizyty. Kancelaria NAWA czynna jest od poniedziałku do piątku, od godz. 08:30 do godz.16:30. Poza tymi godzinami dokumenty można złożyć do skrzynki podawczej znajdującej się w holu NAWA.
+Jak mogę otrzymać dokumenty, których nie odebrałem w terminie z poczty?
+Jak mogę otrzymać dokumenty, których nie odebrałem w terminie z poczty?
+W przypadku nieodebrania dokumentów z poczty w ustalonym terminie prosimy o kontakt mailowy: Ten adres pocztowy jest chroniony przed spamowaniem. Aby go zobaczyć, konieczne jest włączenie w przeglądarce obsługi JavaScript. . W mailu prosimy o podanie imienia i nazwiska oraz krótkiego opisu sytuacji. Po sprawdzeniu czy nieodebrana przesyłka ponownie została zarejestrowana w NAWA, zostanie przekazana dokładna instrukcja informująca, w jaki sposób można odebrać dokumenty: osobiście, poprzez osobę trzecią lub przesyłką kurierską na koszt własny.
 Czy dokumenty i wniosek mogę przesłać e-mailem?
 Czy dokumenty i wniosek mogę przesłać e-mailem?
 Nie. Wniosek musi zostać złożony wraz z potwierdzeniem zaksięgowanej opłaty i dokumentami w swej oryginalnej formie. Wniosek musi zawierać oryginalny odręczny podpis właściciela dokumentu. Skan, fotokopia lub kserokopia wniosku lub dokumentów nie są akceptowane.

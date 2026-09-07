@@ -423,12 +423,12 @@ Supervisors and Research Proposals
 After You've Applied
 Postgraduate Application FAQs
 Applying to Warwick
-Applying to Warwick
-How to apply
+Applying
+Read our step-by-step guide to applying, find useful guidance on key aspects of the application process and start, retrieve or check for updates on your application.
 Taught Research Teacher Training (PGCE)
 Taught
 Applications for most courses starting in September and October 2026 are now open.
-The information below explains how to apply for most of our taught postgraduate courses. Some courses have different application processes. Find out more about applying for the Warwick MBA Link opens in a new window , MBChB Graduate Entry Medicine Link opens in a new window , and PGCE courses Link opens in a new window .
+The information below explains how to apply for most of our taught postgraduate courses. Some courses have different application processes. Find out more about applying for the Warwick MBA Link opens in a new window , MBChB Graduate Entry Medicine , and PGCE courses .
 Stage 1: Prepare your application
 Step 1: Choose a course Step 2: Experience Warwick Step 3: Check the entry requirements Step 4: Check the application key dates and deadlines Step 5: Explore your funding options
 Step 1: Choose a course
@@ -444,13 +444,13 @@ Minimum academic qualifications
 As a guide, the minimum standards we generally require for taught courses are at least a Lower Second Class UK Honours degree or equivalent, although some courses require an Upper Second Class or First Class Honours degree.
 International students
 International qualifications
-We welcome applications from candidates offering many different international qualifications. You can see how your current degree score or GPA equates to the British system on the International Office equivalent scores page Link opens in a new window .
+We welcome applications from candidates offering many different international qualifications. You can see how your current degree score or GPA equates to the British system on the International Office equivalent scores Link opens in a new window .
 Supporting documents
 When applying, please include your mark sheets/transcripts and the grading criteria used at your institution.
 English language requirements
 We require evidence that your English Language capability is of a level that will enable you to succeed on your chosen course of postgraduate study. Different courses ask for different standards of English language achievement which you can find on the course webpages. See further details on English language requirements .
 Pre-sessional English courses
-We also offer pre-sessional English courses Link opens in a new window that may help you to meet our English language requirements.
+We also offer pre-sessional English Link opens in a new window that may help you to meet our English language requirements.
 Step 4: Check the application key dates and deadlines
 Applications for most courses starting in September and October 2026 are now open.
 The on-time deadline for taught postgraduate courses starting in September/October 2026 is 2 August 2026. We will still accept late applications, however cannot guarantee that the application will be processed in time to complete the admissions process if received in September or there are a number of conditions to meet.
@@ -459,11 +459,11 @@ If you have any queries, please contact our Postgraduate Admissions Service Link
 Step 5: Explore your funding options
 There are a number of funding routes available Link opens in a new window to postgraduate students including postgraduate loans (Home and EU only), University scholarships, fee awards, and department bursaries and scholarships.
 Stage 2: Ready to submit your application?
-Step 1: Start your application Step 2: Application assessment fee Step 3: Supporting documents and academic references
+Step 1: Start your application Step 2: Application Assessment fee Step 3: Supporting documents and academic references
 Step 1: Start your application
 Applicants for taught courses can apply online through our application portal. You don’t need to complete your application all at once, you can start now and save for later.
 In order to avoid delays in receiving a decision, you'll need to upload scanned copies of all relevant supporting documents before you submit your application. Further information as to which supporting documents we require can be found below. You may find it helpful to save these in one place before you start your application.
-Step 2: Application assessment fee
+Step 2: Application Assessment fee
 Before you can submit your application to us, you will be required to pay an application assessment fee of £75 (2025 entry). We aim to provide applicants with a decision as soon as possible after their application. We therefore begin processing applications immediately upon receipt of the application assessment fee. For this reason the application assessment fee is non-refundable. Other cancellation rights that applicants have are not affected.
 Find more information about the application assessment fee and how to make a payment Link opens in a new window .
 Step 3: Supporting documents and academic references
@@ -526,7 +526,6 @@ Once you start your application, the online system will inform you as to which s
 All applicants
 Degree certificate/transcripts from your university-level study (current or completed) including translations if not in English, grading scale and average score certificate if available.
 Personal statement - see our guide to writing your personal statement .
-Research proposal - find out more about research proposal requirements by department .
 Academic referee contact details - please refer to our  guide for providing academic references .
 CV/resume (if applicable).
 Certificates and transcripts should be uploaded in colour wherever possible.
@@ -535,26 +534,31 @@ You need to apply to teacher training courses directly through the Department fo
 Apply for teacher training - GOV.UK
 Apply now
 Are you ready to apply? Complete and submit your course application form now. After you’ve applied, you'll gain access to the Applicant Portal. From there, you can check the status of your application, upload documents, update your details, and much more.
-Applicant Portal
-Apply now
-Additional support
-Find out more and read our additional guidance to help you complete key aspects of the application process.
+Applicant portal Link opens in a new window
+Apply now Link opens in a new window
 Personal statements
 Guide to references
 English language
 Visiting students
-Support for students with a disability
-We welcome applications from disabled students, including those with long-term health conditions, mental health difficulties, autism, sensory or mobility impairments, and Specific Learning Difficulties (SpLDs). Admissions decisions are based on academic merit, and we offer reasonable adjustments during the application process and throughout your studies.
-Explore our disability services
-Admissions statement
-See Warwick’s postgraduate admissions policy for full details of our approach to postgraduate admissions. It outlines the principles, criteria, and procedures that guide our decision-making.
-See our admissions statement
+Useful Links
+Whether you're starting a new academic journey or continuing your studies, we've pulled together the key information to help you through every step of the admissions process.
+Explore guidance including requirements, applicant expectations and FAQs, alongside information about the support available for disabled students, including reasonable adjustments for your application and studies.
 Applicant code of conduct
-The applicant code of conduct sets out the expectations regarding conduct and potential consequences where the University determines that this code has been breached.
-Read the code of conduct
+Contextual offers (needs link)
+English language requirements
+Entry requirements (needs link)
 FAQs
-Have a question about applying? Explore our postgraduate application FAQs for answers on entry requirements, deadlines, supporting documents, and more.
-Check out our FAQs
+Exemption from part of a degree (needs link)
+Extenuating circumstances (needs link)
+International applicants
+Support for students with disabilities
+Taking a gap year (needs link)
+Admissions Statement
+See our postgraduate admissions policy for full details of our approach to postgraduate admissions. It outlines the principles, criteria, and procedures that guide our decision-making.
+Admissions Statement
+Contact Us
+Have a question? Get in touch with our teams via our enquiries form, send us a message on social media or on a live chat.
+Contact
 Connect with us
 Talk to us
 Live chats
@@ -563,7 +567,7 @@ Find us
 The University of Warwick
 Coventry , CV4 7AL , UK
 Page contact: Prospectus Team
-Last revised: Thu 15 Jan 2026
+Last revised: Mon 7 Sept 2026
 Powered by Sitebuilder
 Accessibility
 Cookies
@@ -622,12 +626,11 @@ Fees and Funding
 Fees and Expenses
 Living Costs
 Postgraduate fees and funding
+Fees and Funding
+Find out more about tuition fees, course costs, living expenses and funding opportunities for study at the University of Warwick.
 Fees and expenses
-See all the information and resources you need about postgraduate tuition fees and expenses.
 Scholarships and financial support
-Find out about the different funding routes available, including; postgraduate loans, scholarships, fee awards and academic department bursaries.
 Living costs
-Find out more about the cost of living as a postgraduate student at University of Warwick.
 Connect with us
 Talk to us
 Live chats
@@ -636,7 +639,7 @@ Find us
 The University of Warwick
 Coventry , CV4 7AL , UK
 Page contact: Prospectus Team
-Last revised: Mon 25 Nov 2024
+Last revised: Mon 7 Sept 2026
 Powered by Sitebuilder
 Accessibility
 Cookies
@@ -736,38 +739,21 @@ Scholarships
 Scholarships and financial support
 Scholarships and financial support
 Find out about the many different funding routes available for Undergraduate and Postgraduate study at the University of Warwick.
-You can apply for scholarships through the central University, UKRI Centres for Doctoral Training, your department, industry, charitable foundations and governments.
-Contact us
-Explore our courses
-Learn more about the funding support available
 Find a scholarship
 Use our search and filtering tool to find the different scholarship opportunities available for Undergraduate and Postgraduate study.
-Find a Scholarship
-Frequently asked questions
-What is the difference between a scholarship and a bursary? See our FAQs pages if you have a question.
-Scholarships FAQs
-Bursaries FAQs
+Find a scholarship
+Browse all courses
 Financial support
 Undergraduate
 Postgraduate Taught
 Postgraduate Research
-Do you have a question?
-We hope that you should be able to find all the information you need on these web pages, but if you still have a question please contact our scholarships team.
-Contact Us
-Explore our events
-We welcome applications to our Sanctuary Scholarships scheme for prospective students who are seeking Sanctuary in the UK. For more details, please click the links below
-Foundation Sanctuary
-Undergraduate Sanctuary
-Postgraduate Taught Sanctuary
-Postgraduate Research Sanctuary
-Home Fees For UK Asylum Seeker Students
-From the 2026/27 academic year, the University of Warwick is pleased to provide a bursary for UK asylum seekers, offering a tuition fee discount so that you will pay the Home rate of tuition fees while your asylum application is under consideration by the Home Office, rather than the Overseas rate.
-Get in touch
-We can help you find, and apply for the right funding opportunities for studying at the University of Warwick.
-Email:
-Turn on JavaScript to view obfuscated email addresses
-You can also speak to us on a live chat .
-Your browser does not support the video tag.
+Frequently asked questions
+What is the difference between a scholarship and a bursary? See our FAQs pages if you have a question.
+Scholarships and bursaries FAQs
+Contact us
+Find out about the many different funding routes available for Undergraduate and Postgraduate study at the University of Warwick.
+You can apply for scholarships through the central University, UKRI Centres for Doctoral Training, your department, industry, charitable foundations and governments.
+Contact us
 Connect with us
 Talk to us
 Tel: +44 (0)24 7652 3523
@@ -775,7 +761,7 @@ Find us
 The University of Warwick
 Coventry , CV4 7AL , UK
 Page contact: Scholars
-Last revised: Mon 10 Nov 2025
+Last revised: Mon 7 Sept 2026
 Powered by Sitebuilder
 Accessibility
 Cookies

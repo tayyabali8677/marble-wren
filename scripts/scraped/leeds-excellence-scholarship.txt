@@ -11,13 +11,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website
@@ -183,13 +177,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website
@@ -394,13 +382,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website
@@ -544,13 +526,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website
@@ -708,13 +684,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website
@@ -890,13 +860,7 @@ Staff intranet
 Services A-Z (staff login required)
 Jobs
 Faculties
-Arts, Humanities and Cultures
-Biological Sciences
-Business School
-Engineering and Physical Sciences
-Environment
-Medicine and Health
-Social Sciences
+Faculties
 Faculty contacts
 Alumni
 Alumni website

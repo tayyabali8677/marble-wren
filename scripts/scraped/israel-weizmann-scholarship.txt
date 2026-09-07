@@ -25,13 +25,13 @@ ADMINISTRATIVE STAFF
 WEIZMANN SCHOOL of SCIENCE
 Main menu
 HOME
-About WSoS
+About WISsE
 General Information
 Areas of Study and Research
 Research & Medical Schools
 Grievances and reporting
 Ethics, Policy, and Regulations
-WSoS Mobile App and Desktop App support
+WISsE Mobile App and Desktop App support
 Leadership
 Current and Past Deans
 Steering Committee
@@ -47,7 +47,7 @@ Photo Galleries
 Yearbooks
 Admissions
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -58,7 +58,7 @@ Science Teaching Program
 How to Apply
 Admissions Procedures
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -70,7 +70,7 @@ Visiting and International Students/Postdocs
 Visiting Students Program
 Visa & Medical Insurance
 Undergraduate Programs
-Undergraduate Programs at WSoS
+Undergraduate Programs at WISsE
 Frontiers in Life Sciences
 Kupcinet-Getz International Summer School
 Amos de-Shalit Summer Schools
@@ -96,8 +96,8 @@ MD-PhD
 Our Program
 Courses
 Courses and Exams
-Courses at WSoS
-Exams at WSoS
+Courses at WISsE
+Exams at WISsE
 Credit Points and Grades
 Auditors
 Employment as TA
@@ -120,7 +120,7 @@ Postdoc Fellowships
 Fellowships and Further Support
 Getting Started
 Postdoc Fellowship Opportunities
-Postdoctoral Prizes at WSoS
+Postdoctoral Prizes at WISsE
 Max Planck-Weizmann Joint Postdoctoral Program
 International Postdocs
 Reimbursement of Airfare
@@ -211,17 +211,17 @@ Enter the terms you wish to search for.
 Apply now
 Courses
 Live Emergency Updates
-WSoS moodle
+WISsE moodle
 Academic Calendar
 Available positions
-WSoS regulations
+WISsE regulations
 Grievances and reporting
 Weizmann Email
 Admissions
 Believing in an academic community devoted to excellence
 At the Weizmann School of Science, we’re building the next generation of scientists. Students are selected with proven academic strengths who exhibit intellectual voracity and strong potential for further scientific growth and accomplishment. The Weizmann School of Science is proud of its diverse student body and welcomes students of every religion, race, color, national origin, age, disability and gender.
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -232,7 +232,7 @@ Science Teaching Program
 How to Apply
 Admissions Procedures
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -244,7 +244,7 @@ Visiting and International Students/Postdocs
 Visiting Students Program
 Visa & Medical Insurance
 Undergraduate Programs
-Undergraduate Programs at WSoS
+Undergraduate Programs at WISsE
 Frontiers in Life Sciences
 Kupcinet-Getz International Summer School
 Amos de-Shalit Summer Schools
@@ -254,11 +254,11 @@ Special Programs
 Teaching Certificate Program
 Bridges of Science
 Phone + 97289342924
-Mail wsos@weizmann.ac.il
+Mail wisse@weizmann.ac.il
 WAZE
-Updated: August 30, 2026
-wsos@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: August 30, 2026
-The WSoS photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
+Updated: September 07, 2026
+wisse@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: September 07, 2026
+The WISsE photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
 
 ===== SOURCE PAGE: https://www.weizmann.ac.il/wsos/admissions/how-apply =====
 How to Apply | Weizmann School of Science
@@ -287,13 +287,13 @@ ADMINISTRATIVE STAFF
 WEIZMANN SCHOOL of SCIENCE
 Main menu
 HOME
-About WSoS
+About WISsE
 General Information
 Areas of Study and Research
 Research & Medical Schools
 Grievances and reporting
 Ethics, Policy, and Regulations
-WSoS Mobile App and Desktop App support
+WISsE Mobile App and Desktop App support
 Leadership
 Current and Past Deans
 Steering Committee
@@ -309,7 +309,7 @@ Photo Galleries
 Yearbooks
 Admissions
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -320,7 +320,7 @@ Science Teaching Program
 How to Apply
 Admissions Procedures
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -332,7 +332,7 @@ Visiting and International Students/Postdocs
 Visiting Students Program
 Visa & Medical Insurance
 Undergraduate Programs
-Undergraduate Programs at WSoS
+Undergraduate Programs at WISsE
 Frontiers in Life Sciences
 Kupcinet-Getz International Summer School
 Amos de-Shalit Summer Schools
@@ -358,8 +358,8 @@ MD-PhD
 Our Program
 Courses
 Courses and Exams
-Courses at WSoS
-Exams at WSoS
+Courses at WISsE
+Exams at WISsE
 Credit Points and Grades
 Auditors
 Employment as TA
@@ -382,7 +382,7 @@ Postdoc Fellowships
 Fellowships and Further Support
 Getting Started
 Postdoc Fellowship Opportunities
-Postdoctoral Prizes at WSoS
+Postdoctoral Prizes at WISsE
 Max Planck-Weizmann Joint Postdoctoral Program
 International Postdocs
 Reimbursement of Airfare
@@ -449,7 +449,7 @@ Contact
 HOME
 Admissions
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -479,7 +479,7 @@ STUDENTS & POSTDOCS
 FACULTY MEMBERS
 ADMINISTRATIVE STAFF
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -503,14 +503,14 @@ A step-by-step guide to submitting an MSc application
 The following sections will guide you through the application process for the Weizmann School of Science’s MSc program, providing detailed information on preparing and submitting your application and understanding what process takes place after you’ve submitted all of the necessary documentation. The MSc program at the Weizmann School of Science is open to all qualified students regardless of religion, race, color, national origin, age, disability, or gender - and we value diversity and encourage it. No fee is charged for the registration process.
 Minimum academic requirements
 Degree
-Applicants must hold a BSc degree from an accredited local or foreign institution of higher learning (or other certificate deemed equivalent by the relevant WSoS Board of Studies) or be in the last year of studies towards such a degree. In the latter case, a proof of degree eligibility must be presented by the end of the first semester of the MSc program.
+Applicants must hold a BSc degree from an accredited local or foreign institution of higher learning (or other certificate deemed equivalent by the relevant WISsE Board of Studies) or be in the last year of studies towards such a degree. In the latter case, a proof of degree eligibility must be presented by the end of the first semester of the MSc program.
 GPA
 Applicants must present a grade point average of 85 (or the equivalent).
 For the LS tracks , applications will be considered below this average only if a written explanation of why the candidate believes they are still suitable for higher studies at the Weizmann Institute of Science is appended.
 Mathematics and Computer Science applicants must present a GPA of 90 (or the equivlent). In cases of GPA lower than 90, candidates must add to the submissions file, a one page letter reasoning why they should be considered.
 International students
 It is generally not required for MSc candidates from non-Israeli universities or institutions of higher learning to take external evaluation examinations (GRE, TOEFL, or IELTS) unless the relevant Board of Studies specifically requires it.
-GRE: Both general tests and tests in the subject you would like to study.    The WSoS code for GREs is 3398, and scores must be sent directly from the GRE testing center.
+GRE: Both general tests and tests in the subject you would like to study.    The WISsE code for GREs is 3398, and scores must be sent directly from the GRE testing center.
 TOEFL or IELTS: Only for candidates whose mother tongue is not English.  Please note that if you are asked to indicate an institution as a score recipient, the Weizmann Institute of Science TOEFL code number is C087.
 MSc application opens
 Our online system is open for applications to our MSc programs on December 6, 2026 .
@@ -528,7 +528,7 @@ Check your inbox- you'll receive a message with your registration verification k
 At the “ Select your application type ” field choose – “ MSc application form ”
 If you are applying to the Rothschild-Weizmann Program then please see the " תכנית רוטשילד-ויצמן " page.
 Notes:
-Until you click on the “ Submit Application ” button you may access the system as many times as you wish in order to update your details and information, view the existing files and upload additional ones. Thereafter you will not be able to your details and information, nor view the existing files and upload additional ones. You will be sent a notification each time a letter of recommendation is submitted on your behalf. Please notify the relevant WSoS coordinator in case you encounter a problem during the online application process. Incomplete files will NOT be reviewed. Please note that you may monitor the progress of your application (e.g. receipt of letters of recommendation, invitation to an admission committee etc.), as well as the status of your application (e.g. acceptance etc.), through our online monitoring service. After submitting your application, you will receive an email indicating that the application was received. Within a couple of days, you will receive a second email with a User ID and password, which gives you access to our online monitoring service .
+Until you click on the “ Submit Application ” button you may access the system as many times as you wish in order to update your details and information, view the existing files and upload additional ones. Thereafter you will not be able to your details and information, nor view the existing files and upload additional ones. You will be sent a notification each time a letter of recommendation is submitted on your behalf. Please notify the relevant WISsE coordinator in case you encounter a problem during the online application process. Incomplete files will NOT be reviewed. Please note that you may monitor the progress of your application (e.g. receipt of letters of recommendation, invitation to an admission committee etc.), as well as the status of your application (e.g. acceptance etc.), through our online monitoring service. After submitting your application, you will receive an email indicating that the application was received. Within a couple of days, you will receive a second email with a User ID and password, which gives you access to our online monitoring service .
 Enter your Email address and your verification key and click on the “ Login ” button.
 Fill out all the required fields in the form. For your convenience we separated this stage to a few steps. Notice that only after completing a step you will be able to continue to the next step.
 Input the name(s) of your referee(s) whom you wish to submit a letter on your behalf. Please note that we will not contact your referees nor send them reminders. It is your sole responsibility to approach your referees and ascertain that they have sent the required letters by our deadline.
@@ -554,13 +554,13 @@ Letters of references are an extremely important and valuable tool for the commi
 Apply now
 Courses
 Live Emergency Updates
-WSoS moodle
+WISsE moodle
 Academic Calendar
 Available positions
-WSoS regulations
+WISsE regulations
 Grievances and reporting
 Weizmann Email
-WSoS Coordinators
+WISsE Coordinators
 Physics
 Michal Kiri
 Send mail to Michal Kiri
@@ -582,11 +582,11 @@ Adi Shimron
 Send mail to Adi Shimron
 Phone: +972-8-934-4553
 Phone + 97289342924
-Mail wsos@weizmann.ac.il
+Mail wisse@weizmann.ac.il
 WAZE
-Updated: August 30, 2026
-wsos@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: August 30, 2026
-The WSoS photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
+Updated: September 07, 2026
+wisse@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: September 07, 2026
+The WISsE photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
 
 ===== SOURCE PAGE: https://www.weizmann.ac.il/wsos/admissions/how-apply-0 =====
 How to Apply | Weizmann School of Science
@@ -615,13 +615,13 @@ ADMINISTRATIVE STAFF
 WEIZMANN SCHOOL of SCIENCE
 Main menu
 HOME
-About WSoS
+About WISsE
 General Information
 Areas of Study and Research
 Research & Medical Schools
 Grievances and reporting
 Ethics, Policy, and Regulations
-WSoS Mobile App and Desktop App support
+WISsE Mobile App and Desktop App support
 Leadership
 Current and Past Deans
 Steering Committee
@@ -637,7 +637,7 @@ Photo Galleries
 Yearbooks
 Admissions
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -648,7 +648,7 @@ Science Teaching Program
 How to Apply
 Admissions Procedures
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -660,7 +660,7 @@ Visiting and International Students/Postdocs
 Visiting Students Program
 Visa & Medical Insurance
 Undergraduate Programs
-Undergraduate Programs at WSoS
+Undergraduate Programs at WISsE
 Frontiers in Life Sciences
 Kupcinet-Getz International Summer School
 Amos de-Shalit Summer Schools
@@ -686,8 +686,8 @@ MD-PhD
 Our Program
 Courses
 Courses and Exams
-Courses at WSoS
-Exams at WSoS
+Courses at WISsE
+Exams at WISsE
 Credit Points and Grades
 Auditors
 Employment as TA
@@ -710,7 +710,7 @@ Postdoc Fellowships
 Fellowships and Further Support
 Getting Started
 Postdoc Fellowship Opportunities
-Postdoctoral Prizes at WSoS
+Postdoctoral Prizes at WISsE
 Max Planck-Weizmann Joint Postdoctoral Program
 International Postdocs
 Reimbursement of Airfare
@@ -778,7 +778,7 @@ HOME
 Admissions
 MSc Programs
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -801,7 +801,7 @@ FACULTY MEMBERS
 ADMINISTRATIVE STAFF
 MSc Programs
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -817,11 +817,11 @@ Essential guidance for completing and submitting a PhD application
 The following sections will guide you through the application process for the Weizmann School of Science’s PhD program, providing detailed information on preparing and submitting your application ─ and understanding what process takes place after you’ve submitted all of the necessary documentation. The PhD program at the Weizmann School of Science is open to all qualified students regardless of religion, race, color, national origin, age, disability or gender.
 Minimum Academic Requirements
 To apply for the PhD program, you must hold one of the following degrees:
-MSc from the Weizmann Institute of Science, subject to confirmation by the Dean of WSoS
+MSc from the Weizmann Institute of Science, subject to confirmation by the Dean of WISsE
 MSc in a research track with a thesis from another accredited academic institution
 MD degree
 MSc (research track with thesis), or a PhD degree in engineering in selected fields
-Second-year students at WSoS are eligible to apply for transition to the  direct PhD track .
+Second-year students at WISsE are eligible to apply for transition to the  direct PhD track .
 If you have a degree from an accredited institution other than the Weizmann Institute of Science, your application will be considered on the basis of:
 Previous studies
 Research achievements
@@ -840,7 +840,7 @@ Current Projects
 Scientists looking for PhD Students
 Filling Out an Online Application
 Online applications may be submitted all year round. There is no deadline.
-WSoS graduates
+WISsE graduates
 Access our online application form
 Click on the “ Create a new application account ” button.
 Enter your email for registration and click on the “ Register ” button.
@@ -865,7 +865,7 @@ Upon completing the session and clicking the “ Submit Application ” button t
 Notes:
 Until you click on the “ Submit Application ” button you may access the system as many times as you wish in order to update your details and information, view the existing files and upload additional ones. Thereafter you will not be able to your details and information, nor view the existing files and upload additional ones.
 You will be sent a notification each time a letter of recommendation is submitted on your behalf.
-Please notify the relevant WSoS coordinator in case you encounter a problem during the online application process.
+Please notify the relevant WISsE coordinator in case you encounter a problem during the online application process.
 Incomplete files will NOT be reviewed.
 Please note that you may monitor the progress of your application (e.g. receipt of letters of recommendation, invitation to an admission committee etc.), as well as the status of your application (e.g. acceptance etc.), through the online application form .
 Required Documents
@@ -886,13 +886,13 @@ If your documents are not in English or Hebrew , they must be translated by a ce
 Apply now
 Courses
 Live Emergency Updates
-WSoS moodle
+WISsE moodle
 Academic Calendar
 Available positions
-WSoS regulations
+WISsE regulations
 Grievances and reporting
 Weizmann Email
-WSoS Coordinators
+WISsE Coordinators
 Physics
 Michal Kiri
 Send mail to Michal Kiri
@@ -914,11 +914,11 @@ Moran Held Sasson
 Send mail to Moran Held Sasson
 Phone: +972-8-934-6585
 Phone + 97289342924
-Mail wsos@weizmann.ac.il
+Mail wisse@weizmann.ac.il
 WAZE
-Updated: August 30, 2026
-wsos@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: August 30, 2026
-The WSoS photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
+Updated: September 07, 2026
+wisse@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: September 07, 2026
+The WISsE photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
 
 ===== SOURCE PAGE: https://www.weizmann.ac.il/mdphd/md-phd-program/application-process =====
 Application Process | The Weizmann Institute of Science MD-PhD Program
@@ -1192,13 +1192,13 @@ ADMINISTRATIVE STAFF
 WEIZMANN SCHOOL of SCIENCE
 Main menu
 HOME
-About WSoS
+About WISsE
 General Information
 Areas of Study and Research
 Research & Medical Schools
 Grievances and reporting
 Ethics, Policy, and Regulations
-WSoS Mobile App and Desktop App support
+WISsE Mobile App and Desktop App support
 Leadership
 Current and Past Deans
 Steering Committee
@@ -1214,7 +1214,7 @@ Photo Galleries
 Yearbooks
 Admissions
 MSc Programs
-MSc Programs at WSoS
+MSc Programs at WISsE
 Physical Sciences Program
 Chemical Sciences Program
 Life Sciences Program
@@ -1225,7 +1225,7 @@ Science Teaching Program
 How to Apply
 Admissions Procedures
 PhD Programs
-PhD Programs at WSoS
+PhD Programs at WISsE
 How to Apply
 Admissions Procedures
 MD-PhD
@@ -1237,7 +1237,7 @@ Visiting and International Students/Postdocs
 Visiting Students Program
 Visa & Medical Insurance
 Undergraduate Programs
-Undergraduate Programs at WSoS
+Undergraduate Programs at WISsE
 Frontiers in Life Sciences
 Kupcinet-Getz International Summer School
 Amos de-Shalit Summer Schools
@@ -1263,8 +1263,8 @@ MD-PhD
 Our Program
 Courses
 Courses and Exams
-Courses at WSoS
-Exams at WSoS
+Courses at WISsE
+Exams at WISsE
 Credit Points and Grades
 Auditors
 Employment as TA
@@ -1287,7 +1287,7 @@ Postdoc Fellowships
 Fellowships and Further Support
 Getting Started
 Postdoc Fellowship Opportunities
-Postdoctoral Prizes at WSoS
+Postdoctoral Prizes at WISsE
 Max Planck-Weizmann Joint Postdoctoral Program
 International Postdocs
 Reimbursement of Airfare
@@ -1393,10 +1393,10 @@ Details about the visa procedures are available at the WIS International Office 
 Apply now
 Courses
 Live Emergency Updates
-WSoS moodle
+WISsE moodle
 Academic Calendar
 Available positions
-WSoS regulations
+WISsE regulations
 Grievances and reporting
 Weizmann Email
 International Office
@@ -1405,8 +1405,8 @@ Aileen Halbershtat
 Send mail to Aileen Halbershtat
 Phone: +972-8-934-4003
 Phone + 97289342924
-Mail wsos@weizmann.ac.il
+Mail wisse@weizmann.ac.il
 WAZE
-Updated: August 30, 2026
-wsos@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: August 30, 2026
-The WSoS photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes
+Updated: September 07, 2026
+wisse@weizmann.ac.il | Phone: + 972-8-934-2924 | Campus Map | Site Map | Updated: September 07, 2026
+The WISsE photographs at events and the Weizmann Institute will be entitled to use the pictures for its purposes

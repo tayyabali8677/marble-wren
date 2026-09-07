@@ -9,6 +9,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -45,6 +46,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Menu openen
 Societal challenges
@@ -52,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -203,6 +205,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -244,6 +247,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -280,6 +284,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Menu openen
 Societal challenges
@@ -287,7 +292,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -341,6 +346,7 @@ PhD
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Innovation & Impact
 Community
@@ -396,6 +402,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -471,7 +478,7 @@ Contact
 Search
 Home
 We support
-Menu openen
+Menu sluiten
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -493,7 +500,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
@@ -626,6 +633,7 @@ Toelating en aanmelding
 Studievoorlichting
 Studentenportal
 Lifelong Learning
+Voor scholen
 Onderzoek
 Maatschappelijke uitdagingen
 Faculteiten en instituten
@@ -663,6 +671,7 @@ Toelating en aanmelding
 Studievoorlichting
 Studentenportal
 Lifelong Learning
+Voor scholen
 Onderzoek
 Menu openen
 Maatschappelijke uitdagingen
@@ -684,7 +693,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu openen
+Menu sluiten
 Zoek medewerkers
 Contact
 Locaties
@@ -821,6 +830,7 @@ Toelating en aanmelding
 Studievoorlichting
 Studentenportal
 Lifelong Learning
+Voor scholen
 Onderzoek
 Maatschappelijke uitdagingen
 Faculteiten en instituten
@@ -863,6 +873,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -899,6 +910,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Menu openen
 Societal challenges
@@ -906,7 +918,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1057,6 +1069,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -1098,6 +1111,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -1134,6 +1148,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Menu openen
 Societal challenges
@@ -1141,7 +1156,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1278,6 +1293,7 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
+For schools
 Research
 Societal challenges
 Faculties and institutes

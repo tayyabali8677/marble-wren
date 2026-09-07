@@ -793,17 +793,17 @@ Information Sessions
 FAQs
 FAQs
 Scholarship & Funding
+How many years of funding does the Rhodes Scholarship cover?
+The Rhodes Scholarship is a two-year scholarship. The expectation is that Scholars will undertake a coherent programme of postgraduate study at the University of Oxford that can normally be completed within two years.
+Whilst the standard tenure of the Rhodes Scholarship is two years, the Trust supports a range of academic pathways, including professional programmes and doctoral study. However, these latter two categories fall outside the standard tenure model and are therefore subject to additional conditions and annual limits. Please read the Conditions of Tenure document to find out more.
 What costs does a Rhodes Scholarship cover?
 The Rhodes Scholarship covers Oxford University course fees, as well as providing an annual stipend.
-For the 2025-26 academic year, the stipend is £20,400 per annum (£1,700 per month) from which Scholars pay all living expenses, including accommodation. Please note: this is not sufficient to cover partners or dependents.
+For the 2026-27 academic year, the stipend is £21,060 paid in monthly instalments of £1,755, from which Scholars pay all living expenses, including accommodation. Please note: this is not sufficient to cover partners or dependents.
 Following selection for the Scholarship, the Rhodes Trust will also cover:
 The fee required to apply to study at the University of Oxford
 Fees for a student visa and associated International Health Surcharge (IHS), which enables international students to access the UK's National Health Service
 Two economy class flights to and from the UK, for the beginning and end of studies in Oxford.
 On arrival in Oxford, Scholars receive a settling in allowance, and for Scholars who transition to a second course of study in Oxford, the Trust will cover the second visa fee and IHS charges.
-How many years of funding does the Rhodes Scholarship cover?
-The basic tenure for the scholarship is two years. Scholars may not apply for a single one-year course, but they may pursue two consecutive one-year courses in this duration. In certain cases, scholars may apply for a third year or more.
-Please read the Conditions of Tenure document to find out more, or contact us at scholarship.queries@rhodeshouse.ox.ac.uk for further assistance.
 I am looking for funding to study at a different university to Oxford. Can I still apply?
 No. The Rhodes Scholarship is a fully funded, full-time postgraduate award which enables talented young people from around the world to study at the University of Oxford only.
 If you are looking for funding for undergraduate study, or for postgraduate study at another institution, please visit our Other Scholarship Opportunities webpage for more information.
@@ -825,7 +825,7 @@ As such, applicants need to meet the academic requirements outlined by the Eligi
 What GPA do I need to apply?
 To apply for the Rhodes Scholarship, you must meet or exceed the specific entry requirements of your chosen full-time graduate course at the University of Oxford.
 You should note however that given the very intense international competition for places at the University of Oxford, candidates will have a greater chance of successful admission to Oxford if they have a First Class Honours Degree, a GPA of 3.70/4.0 or higher, or equivalent international qualification .
-Please consult the Information for Candidates document for your constituency for more information.
+Some constituencies specify a minimum GPA- please consult the Information for Candidates document for your constituency for more information.
 Who can endorse my application? (for US and Canada candidates only)
 An institutional certification or endorsement is a mandatory prerequisite of the Rhodes Scholarship application in specific constituencies, i.e. USA and Canada. Please see Institutional Certifications & Endorsements for more details.
 Senior institutional officials, including the President, Dean, Rector, Vice-Provost or other official responsible for graduate fellowships, may nominate/endorse a candidate.
@@ -838,10 +838,14 @@ You may only submit one application for the Rhodes Scholarship in a single year.
 However, if you are unsuccessful in your first application, you may subsequently re-apply one more time through the same constituency, subject to meeting the Eligibility Criteria.
 You may not apply to the Rhodes Scholarship more than twice.
 Course Selection
+Do I need to decide my academic pathway before I apply?
+Applicants should give careful thought to their intended academic trajectory before applying for the Rhodes Scholarship. While degree choices may evolve during the Oxford admissions process, the Scholarship is intended to support a coherent programme of study. Significant changes after selection may require additional academic approval.
 What courses can I study under the Rhodes Scholarship?
 The Rhodes Scholarship covers most postgraduate courses at the University of Oxford. This section addresses common questions that we receive about specific courses.
-Please note that this list is not exhaustive — if the course you are interested in is not listed here, it is worth consulting our Conditions of Tenure documen t for more information.
+Please note that this FAQ page is not exhaustive — you should consult our Conditions of Tenure documen t for full information on course selection.
 If you still have questions, please contact us at scholarship.queries@rhodeshouse.ox.ac.uk .
+Can I apply for more than one Oxford degree?
+Yes, Oxford admissions are very competitive and two applications are advised in all cases. If you hope to pursue a non-standard pathway, you should also apply for an eligible course that falls within the standard two-year tenure.
 Can I study a part-time course?
 No. The Rhodes Scholarship covers full-time courses only, and unfortunately it is not possible to be enrolled in a part-time course while being funded by the scholarship.
 If you are looking for funding for part-time courses exclusively, you may wish to consult our Other Scholarship Opportunities webpage for information.
@@ -850,33 +854,51 @@ Unfortunately, the Rhodes Scholarship does not cover PGCert or PGDip courses; th
 For a list of courses covered by the Rhodes Scholarship, please refer to our Conditions of Tenure document.
 Can I study the DClinPsych?
 Unfortunately, the Rhodes Scholarship does not cover the Doctorate of Clinical Psychology (DClinPsych). This is an NHS-funded training scheme open only to those already eligible to live and work in the UK, with no fees payable and a bursary/stipend provided whilst candidates train to be a Clinical Psychologist.
-The Rhodes Scholarship does cover other full-time graduate Psychology courses, including the DPhil in Neuroscience (1+3) with the fees and stipend covered for the duration of the course.
 For a list of courses covered by the Rhodes Scholarship, please refer to our Conditions of Tenure document.
 Can I study graduate-entry/accelerated medicine?
 Unfortunately, the Rhodes Scholarship does not cover the graduate-entry/accelerated degree in Medicine.
 However, there are a number of graduate degrees offered in the Medical Sciences division that are covered by the scholarship. Please visit the list of graduate courses on the University of Oxford website for further details.
 For a list of courses covered by the Rhodes Scholarship, please refer to our Conditions of Tenure document.
-Can I study the MBA and/or MFE?
-The MFE (Masters in Financial Economics) and MBA (Masters of Business Administration) can only be studied in the second year of the Rhodes Scholarship. As the minimum tenure of the Scholarship is two years, this means you will need to choose another one-year graduate course to study in your first year as a Rhodes Scholar.
-However, if you wish to study either the MFE or MBA in your second year, you cannot study the MPP (Master of Public Policy) in the first year of the Rhodes Scholarship.
-Please note that the MFE and MBA are professional degrees, and candidates will need to check the entry requirements carefully before selecting these courses. In particular, candidates are required to have at least two years of full-time work experience for the MBA. You can find out more about these courses on the Saïd Business School website.
-Can I study the 1&#x2B;1 MBA on the Rhodes Scholarship?
-Yes, you can study the 1+1 MBA as long as this is in the second year of the Rhodes Scholarship.
-However, if you wish to study a one-year Master's course and an MBA on the Rhodes Scholarship, another option is to apply for your chosen Master's course first, and then apply for your MBA towards the end of your first year at Oxford. This gives you the advantage of keeping your options open for the second year, should your plans change, and gives you additional time to strengthen your MBA application.
+Can I study the MBA, MPP or MFE?
+Yes, but note that 'professional' courses at Oxford — such as the MPP (Master of Public Policy), MBA (Master of Business Administration) and MFE (MSc Financial Economics) — are only available as a one-year tenure on the Scholarship. Applicants interested in these courses should consider carefully whether this pathway is right for them, as tenure cannot be extended.
+For more information on this please consult the Conditions of Tenure.
+Please note that the MFE and MBA are professional degrees, and candidates will need to check the entry requirements very carefully before selecting these courses. In particular, candidates are required to have at least two years of full-time work experience for the MBA. You can find out more about these courses on the Saïd Business School website.
 What is the &#x2018;Second BA with Senior Status&#x2019;?
 'Senior Status' is the only basis on which a Rhodes Scholar can study for a second undergraduate degree. This involves studying an undergraduate course over two years, and you can read more about what this means in the Senior Status section on this page .
 How and when do I apply for the Second BA with Senior Status?
 It is important to note that the mid-October deadline for undergraduate admissions is sooner than that for graduate courses, which is usually in December/January. We strongly advise candidates who are interested in the Second BA to apply directly to Oxford via UCAS in time for the mid-October deadline, as this will maximise your chance of admission.
 If you miss this deadline, you may be able to apply to the Rhodes Scholarship for a later deadline in the first week of December using a special form provided by the Rhodes Trust. However, the success of your application will depend on securing admission to a college at a later stage. If you miss both the UCAS and Rhodes Scholarship application deadlines for your second BA application, the chances of gaining admission are low.
 Please write to us at scholarship.queries@rhodeshouse.ox.ac.uk for more information.
+What routes are available for DPhil funding?
+Doctoral funding may be pursued through either:
+Direct entry to a DPhil; or
+In rare cases, progression from a Rhodes-funded one-year Master's degree to a DPhil.
+Applicants wishing to pursue direct-entry doctoral study should apply through the doctoral approval process following selection as a Rhodes Scholar-elect.
+Progression from a Rhodes-funded Master's degree to a DPhil will be considered only in a very limited number of cases, as outlined in the Conditions of Tenure. During their first term at Oxford, Scholars wishing to pursue this route must apply separately to Oxford for admission to their proposed DPhil and to the Rhodes Trust for approval of doctoral tenure. Progression is conditional on both admission to the DPhil by Oxford and approval by the Rhodes Academic Review Board. Admission to a DPhil does not guarantee Rhodes doctoral funding, and approval by the Rhodes Academic Review Board does not replace the Oxford admissions process.
+How long will the Trust support an approved DPhil?
+For Scholars approved for direct-entry doctoral study, the Trust will support University tuition fees and stipend for up to three years, subject to satisfactory academic progress and personal conduct. For Scholars approved for the 1+3 pathway, the Trust will support University tuition fees and stipend for up to four years.
+Note that the Scholarship will cover fees and stipend for the period of fee liability for the DPhil (three years) only. Typically, the Oxford DPhil takes between 3-4 years to complete, as indicated on the Oxford University course pages. As such, Scholars should consider carefully how they would support living expenses beyond Rhodes tenure, including through departmental, college, research council, or other external funding sources.
+Can I do a four-year Centre for Doctoral Training (CDT) or Doctoral Training Programmes (DTP) on the Rhodes scholarship?
+Scholars admitted to four-year doctoral programmes (including CDTs, DTPs and similar structured doctoral programmes) may be considered for Rhodes doctoral funding only where alternative funding has been secured for one year of the programme.
+Typically, this would mean that:
+the department, faculty, CDT, DTP or another funding body provides support for one year of the programme; and
+the Scholar seeks Rhodes support for the remaining three years.
+For the purposes of the Rhodes Academic Review Board, eligible four-year doctoral programmes will be considered alongside other direct-entry DPhil applications and assessed through the same process and criteria. Admission to a CDT or other four-year doctoral programme does not in itself guarantee Rhodes doctoral funding. Applicants considering four-year doctoral programmes are strongly encouraged to discuss funding arrangements with Rhodes House on award of the Scholarship.
+Can I take the two-year MPhil route to DPhil on the scholarship?
+No. As of October 2025, this pathway carries a five-year fee liability, which exceeds the period of Rhodes doctoral support. Scholars wishing to progress from an MPhil to a DPhil should therefore plan to secure alternative funding for the doctoral stage.
+Can I progress from a Rhodes-funded one-year Master&#x27;s degree to a DPhil?
+Yes. In a limited number of cases, Scholars who have undertaken a Rhodes-funded one-year Master's degree may be considered for approval to progress to a DPhil. This pathway is exceptional and is subject to the annual doctoral approval process.
+Scholars considering a future DPhil are encouraged to discuss their plans with Rhodes House and their academic department at an early stage. However, they should begin their Master's with the expectation of completing the programme for which they were admitted, recognising that progression to a DPhil is exceptional and not guaranteed.
 Application & Selection Process
 Do I apply to Oxford University or to the Rhodes Scholarship first?
 You should apply to the Rhodes Scholarship first. Following the selection process, successful applicants apply to their chosen programme of study through the University of Oxford graduate study website, with support from the Rhodes Trust team.
 This means that Rhodes Scholarship applications submitted in 2026 are for entry to the University of Oxford in October 2027.
+Degree choice is subject always to approval by the Rhodes Trust, the University admission process and any conditions placed by the University on an offer. Degree choice will also always be subject to the Conditions of Tenure , regardless of the Oxford admissions outcome.
 Does winning the Rhodes Scholarship mean I am automatically accepted into Oxford University?
 No, the application process for the Rhodes Scholarship is separate from that to the University of Oxford.
 If you are selected as a Rhodes Scholar, you will need to apply to the University of Oxford soon after your selection, and we advise you to prepare as much as possible in advance for your application to Oxford.
 The team at the Rhodes Trust will be on hand to support you with the application process. They will have access to your entire Rhodes Scholarship application, and your references may be re-used, if appropriate, to support your application to the University of Oxford.
+Degree choice is subject always to approval by the Rhodes Trust, the University admission process and any conditions placed by the University on an offer. Degree choice will also always be subject to the Conditions of Tenure , regardless of the Oxford admissions outcome.
 Can I use GenAI in writing my personal and/or academic statement?
 The Rhodes Scholarship requires that your personal and academic statements are truthful and original narratives. It will serve you best if you speak in your own voice, allowing Rhodes selectors to gain an authentic picture of who you are.
 Unacceptable uses of AI include generating substantive content or replacing your own analysis and voice with AI generated outputs. AI should be used to sharpen your thinking; overuse or mis-use of AI will replace or ‘flatten’ your voice and ideas. Remember that AI cannot replace your individual judgment, personality, or your personal understanding of the selection criteria. It will not help your application if you use GenAI to tell your story, as the output will be generic and will not allow selectors to gain an understanding of you as an individual.
@@ -921,7 +943,7 @@ Can I be employed (part-time) or hold a teaching position whilst I am on the Rho
 Some Scholars obtain part-time teaching positions or other types of employment while on stipend; it is your responsibility to ensure that you adhere to the restrictions placed on paid employment by your student visa. Please refer to guidance on working while studying on the Oxford University website.
 You should also be wary of committing too much time to such activities to the detriment of your studies, and your general engagement in Oxford. We recommend that you discuss your plans with your academic supervisor and, if significant, with the Registrar's office at Rhodes House.
 Can I hold another award alongside the Rhodes Scholarship?
-Scholars may not hold another substantive scholarship or award at the same time as a Rhodes Scholarship. However, they may hold a secondary award. If the value of such an award is more than 33% of the annual stipend, i.e. £6,600 pa, then you would need to declare the award to the Registrar’s office at Rhodes House.
+Scholars may not hold another substantive scholarship or award at the same time as a Rhodes Scholarship. However, they may hold a secondary award. If the value of such an award is more than 33% of the annual stipend, i.e. £6,950 pa, then you would need to declare the award to the Registrar’s office at Rhodes House.
 We understand that for DPhil students in particular, additional awards may be valuable sources of support for funding research, fieldwork and living expenses beyond their third year in Oxford, and therefore we seek to adopt a flexible approach where we can. However, we ask you to declare income received in excess of the threshold above.
 Can I be in receipt of a salary alongside the Rhodes Scholarship?
 In rare circumstances, a Scholar may attend Oxford while receiving a salary, and may be in receipt of housing or other allowances, for example, military Scholars on active service. In such cases, the Rhodes Trust will award only half the annual stipend to the Scholar.

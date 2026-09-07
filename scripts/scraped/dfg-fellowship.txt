@@ -4123,8 +4123,8 @@ Continue without statistical cookies
 Go to the top of the page
 Share
 
-===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/prizes =====
-Scientific Prizes | DFG
+===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/research-careers =====
+How the DFG Supports Research Careers | DFG
 Open menu
 Close menu
 1}">
@@ -4821,27 +4821,72 @@ Information Material
 DFG
 Funding
 Funding Opportunities
-Scientific Prizes
-Scientific Prizes
-The DFG awards prizes to scientists and academics in recognition of their outstanding research achievements.
-Gottfried Wilhelm Leibniz Priz e (interner Link)
-The Gottfried Wilhelm Leibniz Programme awards prizes to scientists and academics for their outstanding achievements in the field of research.
-Heinz Maier-Leibnitz Priz e (interner Link)
-The Heinz Maier-Leibnitz Prize is a distinction for early career researchers and provides further incentive for excellent achievements in their research work.
-Communicator Awar d (interner Link)
-The “Communicator Award – Science Award of the Donors' Association" is awarded by the DFG. This personal award, worth €50,000, is given to researchers who have communicated their scientific findings to the public with exceptional success.
-von Kaven Awar d (interner Link)
-The von Kaven Award is presented each year to an outstanding EU-based mathematician.
-Bernd Rendel Priz e (interner Link)
-The Bernd Rendel Prize is awarded annually by the DFG to qualified early career geoscientists who do not yet hold a doctorate. Criteria for the selection of awardees are quality and originality of the research as well as the scientific potential of the candidates.
-Ursula M. Händel Priz e (interner Link)
-The Ursula M. Händel-Prize recognises scientists who have made exemplary and sustained efforts to improve the welfare of animals in research.
-Copernicus Awar d (interner Link)
-The Copernicus Award is conferred every two years to two researchers, one in Germany and one in Poland, for outstanding achievements in German-Polish research cooperation. It is conferred jointly by the DFG and the Foundation for Polish Science (Fundacja na rzecz Nauki Polskiej, FNP).
-Albert Maucher Prize in Geoscienc e (interner Link)
-The Albert Maucher Prize in Geoscience is awarded once every three years to early career researchers in recognition of outstanding research findings and original approaches. Researchers who already have a full professorship cannot be nominated.
+Research Careers
+&copy; Adobe Stock
+How the DFG Supports Research Careers
+What support and funding opportunities does the DFG offer to researchers in early career phases? Where can you find important background information and helpful hints?
+This website describes your options in each phase of your early research career and offers advice for preparing your first DFG proposal.
+Undergraduates
+While studying, student assistants can work in knowledge-driven research projects funded by the DFG.
+PhD
+Research Training Groups and DFG funded research projects offer doctoral positions.
+After your PhD
+The DFG offers funding opportunities for independent research in early and advanced postdoc phases.
+Guidance to DFG Funding Opportunities
+In our regular info talk s (interner Link) online and at research institutes in Germany, we present an overview of the DFG funding opportunities for postdocs, give advice on preparing a proposal and answer your questions.
+Our how-to web page s (interner Link) provide insights into DFG individual grants programmes and give useful hints for preparing your first proposal to the DFG.
+Video Clips
+Who are the DFG-funded researchers, what is their research about and what do they say about the funding they receive? Find out in our portraying films:
+View video
+Faces: The Walter Benjamin Programme of the DFG
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+View video
+Faces: The Emmy Noether Programme of the DFG
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+In our explanatory videos we show who can apply for funding in the Walter Benjamin Programme, what the funding conditions are, and what helps when preparing a proposal. The third movie shows the DFG funding proposals: the route to a final decision.
+View video
+Das Walter Benjamin-Programm (with English subtitles)
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+&copy; DFG / Sterntaucher
+View video
+Das Emmy Noether-Programm erklärt (with English subtitles)
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+View video
+DFG funding proposals: the route to a final decision
+By clicking on "Play" you agree that data will be transmitted to Google. For further information on data processing by Google, please refer to Google's privacy polic y (externer Link) . Information on processing by DFG and your right to revoke your declaration of consent can be found in our Privacy Polic y (interner Link) .
+Nicht wiedergeben
+Wiedergeben
+Zur Datenschutzerkärung &#xFEFF;
+externe Inhalte von YouTube zulassen
+Guidance to DFG funding opportunities for postdoc s (interner Link)
+Ten Principles for Attractive Research Careers
+The DFG has published ten " Principles of Effective Career Support in Academi a (interner Link) " that define good support structures and conditions for researchers in early career phases in Germany.
+Publications
+Short report: "GAIN26 in San Francisco "
+Infobrief "Staying in Research. Research funding and career paths: an update (1/2023) " (Download)
+Survey "Doctoral programme lengths and doctoral degrees in DFG-funded consortia (2021) " (interner Link)
+Contact
+Mailbox Consultation on Research Careers
+E-mail:
+info-researchcareers@dfg.de
 Last updated:
-27 June 2024
+26 August 2026
 Information Systems and Websites
 Portal Research Integrity
 GEPRIS
