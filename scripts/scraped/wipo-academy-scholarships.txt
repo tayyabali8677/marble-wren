@@ -487,8 +487,8 @@ Mobile apps are multilayered products with different features, protected by vari
 This publication serves as a guide for app developers and publishers to protect their intellectual property legally.
 Download the publication
 IP and the mobile app lifecycle
-Creation of a mobile app is a process that involves multiple steps. From the IP point of view, the three phases of a mobile app lifecycle are:
-conception (including initiation and design);
+<>Creation of a mobile app is a process that involves multiple steps. From the IP point of view, the three phases of a mobile app lifecycle are:
+onception (including initiation and design);
 development;
 commercialization, monitoring and enforcement.
 Use this section to find answers to your IP-related questions at specific stages of mobile apps development.
@@ -500,12 +500,13 @@ This handbook can help organizations developing mobile apps to negotiate a hassl
 IP Financing for Mobile Apps
 This practical tool is created to provide guidance to mobile app developers and businesses for financing a mobile application. It covers the various IP rights that can be used as a mechanism to secure funding and provides a fundraising checklist for mobile apps. [ PDF ]
 ADR for Mobile App Disputes
-This guide provides an overview of Alternative Dispute Resolution (ADR) processes for Mobile Apps disputes. It also addresses the issues relating to the enhanced use of IP in the software sector, focusing on mobile applications. [ PDF ]
 Open Source for Mobile Apps
 While freely available, open source software remains subject to licenses and, therefore, conditions that, if breached, could result in developers losing the right to use it. This guide helps app developers to learn how to use open source code for their apps. [ PDF
 ]
 Data Protection in Mobile Apps
-This guide explains app developers their data protection obligations, how to comply with them, and how they may occasionally conflict with their IP rights. [ PDF
+Making regular
+This guide explains app developers their data protection obligations, how to comply with them, and how they may occasionally conflict with their IP rights. [
+payments to WIPO? Then Current Account at WIPO is definitely for you.PDF
 ]
 Protecting mobile apps in specific industries
 Every mobile app uses some type of IP. However, depending on the functionality and the sector in which the app operates, the intellectual property-related challenges and opportunities for app developers may change. Use this section to learn how intellectual property relates to mobile apps in specific business sectors and answer questions like:
@@ -588,7 +589,7 @@ Module 3: Data, Databases and Trade Secrets
 Module 3 discusses the relative lack of protection given to data, the lack of international harmonization, and database security. ( PDF )
 close
 Module 3: Data, Databases and Trade Secrets
-Module 3 discusses the relative lack of protection given to data, the lack of international harmonization, and database security. [ PDF ] [ video ]
+Module 3 discusses the relative lack of protection given to data, the lack of international harmonization, and database security. [ PDF] [
 play_circle
 IMAGE: ISTOCK / GETTY IMAGES PLUS
 Module 4: Trademarks and Designs
