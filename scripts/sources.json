@@ -3623,5 +3623,12 @@
     "country": "United States",
     "url": "https://www.yesprograms.org/",
     "note": "Extracted from Bright Scholarship aggregator page"
+  },
+  {
+    "slug": "oas-internship-program",
+    "name": "Organization of American States Internship Program",
+    "country": "International",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Extracted from EduCanada featured scholarship listings."
   }
 ]
