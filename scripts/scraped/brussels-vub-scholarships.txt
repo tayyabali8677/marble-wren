@@ -599,7 +599,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Practical
 How much does studying cost?
 Financial support
@@ -1269,7 +1269,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Application and enrolment
 Study programmes
 Why study at VUB?
@@ -1923,7 +1923,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Application and enrolment
 How to apply
 Admission requirements and deadlines
@@ -2603,7 +2603,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Application and enrolment
 Admission requirements and deadlines
 How to apply
@@ -3252,7 +3252,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Application and enrolment
 After your enrolment
 How to apply
@@ -3930,7 +3930,7 @@ Back
 Go to overview
 Breadcrumb
 Home
-Studeren aan de VUB
+Studying at VUB
 Application and enrolment
 Entry exam and positioning tests
 How to apply
