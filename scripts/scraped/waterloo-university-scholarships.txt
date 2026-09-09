@@ -728,8 +728,8 @@ Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
 Request brochures
 Applying to Waterloo
-Requirements
-View our admission requirements which range from high 70s to the mid-90s.
+Admission requirements
+View our requirements which range from high 70s to the mid-90s.
 How to apply
 Learn about applying to Waterloo and our application deadlines .
 Once you've applied
@@ -1239,8 +1239,9 @@ We reserve the right to withdraw an offer of admission if you fail to meet the m
 All English language tests will be verified for authenticity . If evidence of fraudulent documentation is found, we reserve the right to cancel your application or revoke any offer of admission.
 A minimum overall IELTS score of 7.0 with a minimum band score of 6.0 or better in all components, is also acceptable for admission.
 If you're studying or have studied in a Toronto District School Board (TDSB) high school, you are not required to provide an English language test score if
-your three most recent years of full-time education have been at a TDSB high school AND
+your three most recent years of full-time education have been at a TDSB high school AND
 you have a grade of 80% or higher in Grade 12 U English (ENG4U, EWC4U, or ETS4U).
+Note: most programs specify ENG4U as an admission requirement .
 Start earning a Waterloo degree while improving your English
 Not sure you’ll meet Waterloo's English language test scores? Or you already know that you don't? You could still study at Waterloo.
 Our Bridge to Academic Success in English (BASE) program lets you start working towards a Waterloo degree, improve your English skills, and develop valuable academic skills to set you up for success at university – and at a fraction of the normal tuition for international students.
@@ -1875,7 +1876,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-7 + 6 =
+2 + 0 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank
