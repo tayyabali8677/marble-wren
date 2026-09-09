@@ -66,9 +66,7 @@ Sweden - Permanent Representatives
 Türkiye - Permanent Representatives
 United States - Permanent Representatives
 United Kingdom - Permanent Representatives
-Estonia - Permanent Representatives
 Finland - Permanent Representatives
-France - Permanent Representatives
 Italy - Permanent Representatives
 Latvia - Permanent Representatives
 Lithuania - Permanent Representatives
@@ -869,9 +867,7 @@ Sweden - Permanent Representatives
 Türkiye - Permanent Representatives
 United States - Permanent Representatives
 United Kingdom - Permanent Representatives
-Estonia - Permanent Representatives
 Finland - Permanent Representatives
-France - Permanent Representatives
 Italy - Permanent Representatives
 Latvia - Permanent Representatives
 Lithuania - Permanent Representatives
@@ -1657,9 +1653,7 @@ Sweden - Permanent Representatives
 Türkiye - Permanent Representatives
 United States - Permanent Representatives
 United Kingdom - Permanent Representatives
-Estonia - Permanent Representatives
 Finland - Permanent Representatives
-France - Permanent Representatives
 Italy - Permanent Representatives
 Latvia - Permanent Representatives
 Lithuania - Permanent Representatives

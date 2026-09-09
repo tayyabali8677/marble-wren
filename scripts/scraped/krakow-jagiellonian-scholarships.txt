@@ -94,7 +94,7 @@ Własne Fundusze Stypendialne m.in: Stypendium UJ, Stypendium dla olimpijczyków
 Programy Stypendialne NAWA: stypendia dla studentów przyjeżdżających
 Student może ubiegać się o stypendium wyłącznie po złożeniu wniosku w odpowiedniej formie i terminie.
 Fundusz Stypendialny
-Informacji o stypendiach z Funduszu, tj. stypendium socjalnym, stypendium rektora, stypendium dla osób niepełnosprawnych, a także o zapomodze udziela koordynator ds. stypendialnych. Po wpisie na studia i uzyskaniu dostępu do systemu USOSweb jego dane znajdziesz w zakładce „Dla studentów”, a następnie „Wnioski”.
+Informacji o stypendiach z Funduszu, tj. stypendium socjalnym, stypendium rektora, stypendium dla osób niepełnosprawnych, a także o zapomodze udziela koordynator ds. stypendialnych. Po wpisie na studia i uzyskaniu dostępu do systemu USOSweb jego dane znajdziesz w zakładce „Dla wszystkich”, a następnie „Wnioski”.
 Stypendia z Funduszu mogą pobierać studenci studiów pierwszego i drugiego stopnia oraz jednolitych studiów magisterskich, zarówno stacjonarnych jak i niestacjonarnych, bez względu na wiek. Nie są należne na studiach podyplomowych.
 Stypendia te nie są przyznawane osobom posiadającym tytuł zawodowy magistra, a na studiach pierwszego stopnia - posiadającym tytuł licencjata, również w przypadku uzyskania tych tytułów (lub równorzędnych) za granicą . Stypendiów z Funduszu Stypendialnego nie może otrzymać student studiujący dłużej niż 12 semestrów, nawet jeżeli wcześniej nie otrzymywał świadczeń, z zastrzeżeniem, że w ramach tego okresu świadczenia przysługują na studiach:
 pierwszego stopnia - nie dłużej niż przez 9 semestrów;
@@ -109,21 +109,24 @@ UPRAWNIENIA
 Studenci-cudzoziemcy, w zależności od roku podjęcia studiów, posiadają różne uprawnienia do otrzymywania świadczeń z Funduszu Stypendialnego.
 Ważne! Aby Komisja Stypendialna dla Studentów UJ mogła prawidłowo ocenić uprawnienia studenta do stypendiów powinna mieć aktualne informacje o posiadanych przez niego dokumentach. Jeżeli Twój dokument utracił ważność lub uzyskałeś nowy rodzaj dokumentu to pamiętaj, aby dostarczyć potrzebne informacje do swojego sekretariatu prowadzącego tok studiów. Dane o nowym dokumencie powinny znaleźć się w systemie USOS.
 Student ze statusem UKR zobowiązany jest dostarczyć dokument potwierdzający aktualny status UKR wydany nie później niż 30 dni (np. zaświadczenie z Urzędu Gminy/ Urzędu Miasta lub wypis z rejestru PESEL zawierający status UKR)
-Studenci, którzy rozpoczęli studia od roku 2019/2020 r. i późnie j
+Studenci, którzy rozpoczęli studia od roku 2019/2020 r. i później
 Stypendium rektora, dla osób niepełnosprawnych i zapomogę może otrzymywać każdy student przyjęty na studia od roku akademickiego 2019/2020 lub później bez względu na obywatelstwo i zasady odbywania studiów.
 O stypendium socjalne może ubiegać się student - cudzoziemiec, od którego nie pobiera się opłat za studia:
-obywatel państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym i członków ich rodzin, mieszkających na terytorium Rzeczypospolitej Polskiej;
-obywatel Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej;
+1. obywatel państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym i członków ich rodzin, mieszkających na terytorium Rzeczypospolitej Polskiej;
 będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa w art. 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697),
 który zachowuje prawo pobytu w przypadkach, o których mowa w art. 17 ustawy, o której mowa w lit. a,
 posiadający prawo stałego pobytu - oraz członkowie jego rodziny, mieszkający na terytorium Rzeczypospolitej Polskiej;
-któremu udzielono zezwolenia na pobyt stały, lub rezydenta długoterminowego Unii Europejskiej;
-któremu udzielono zezwolenia na pobyt czasowy w związku z okolicznościami, o których mowa w art. 159 ust. 1 lub art. 186 ust. 1 pkt 3 lub 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.);
-który posiada status uchodźcy nadany w Rzeczypospolitej Polskiej albo korzysta z ochrony czasowej albo ochrony uzupełniającej na terytorium Rzeczypospolitej Polskiej;
-posiadacz certyfikatu poświadczającego znajomość języka polskiego jako obcego, o którym mowa w art. 11a ust. 2 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672), co najmniej na poziomie biegłości językowej C1;
-posiadacz Karty Polaka lub osoby, której wydano decyzję w sprawie stwierdzenia polskiego pochodzenia;
-będący małżonkiem, wstępnym lub zstępnym obywatela Rzeczypospolitej Polskiej, mieszkającym na terytorium Rzeczypospolitej Polskiej;
-któremu udzielono zezwolenia na pobyt czasowy w związku z okolicznościami, o których mowa w art. 151 ust. 1 lub art. 151b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 tej ustawy lub posiadającego wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych.
+2. obywatel Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej, o którym mowa w art. 10 ust. 1 lit. b lub d Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej i Europejskiej Wspólnoty Energii Atomowej (Dz. Urz. UE L 29 z 31.01.2020, str. 7, z późn. zm.), oraz członków jego rodziny, mieszkających na terytorium Rzeczypospolitej Polskiej;
+będący osobą pracującą na własny rachunek lub pracownikiem, o których mowa w art. 2 pkt 5 i 7 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2021 r. poz. 1697),
+który zachowuje prawo pobytu w przypadkach, o których mowa w art. 17 ustawy, o której mowa w lit. a,
+posiadający prawo stałego pobytu - oraz członkowie jego rodziny, mieszkający na terytorium Rzeczypospolitej Polskiej;
+3. któremu udzielono zezwolenia na pobyt stały, lub rezydenta długoterminowego Unii Europejskiej;
+4. któremu udzielono zezwolenia na pobyt czasowy w związku z okolicznościami, o których mowa w art. 159 ust. 1 lub art. 186 ust. 1 pkt 3 lub 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2021 r. poz. 2354, z późn. zm.);
+5. który posiada status uchodźcy nadany w Rzeczypospolitej Polskiej albo korzysta z ochrony czasowej albo ochrony uzupełniającej na terytorium Rzeczypospolitej Polskiej;
+6. posiadacz certyfikatu poświadczającego znajomość języka polskiego jako obcego, o którym mowa w art. 11a ust. 2 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2021 r. poz. 672), co najmniej na poziomie biegłości językowej C1;
+7. posiadacz Karty Polaka lub osoby, której wydano decyzję w sprawie stwierdzenia polskiego pochodzenia;
+8. będący małżonkiem, wstępnym lub zstępnym obywatela Rzeczypospolitej Polskiej, mieszkającym na terytorium Rzeczypospolitej Polskiej;
+9. któremu udzielono zezwolenia na pobyt czasowy w związku z okolicznościami, o których mowa w art. 151 ust. 1 lub art. 151b ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, lub przebywającego na terytorium Rzeczypospolitej Polskiej w związku z korzystaniem z mobilności krótkoterminowej naukowca na warunkach określonych w art. 156b ust. 1 tej ustawy lub posiadającego wizę krajową w celu prowadzenia badań naukowych lub prac rozwojowych.
 Studenci, którzy rozpoczęli studia przed rokiem 2019/2020
 O stypendium socjalne, rektora i dla niepełnosprawnych oraz zapomogę może ubiegać się student-cudzoziemiec podejmujący i odbywający studia na zasadach obowiązujących obywateli polskich spełniający co najmniej jeden z warunków:
 któremu udzielono zezwolenia na pobyt stały;

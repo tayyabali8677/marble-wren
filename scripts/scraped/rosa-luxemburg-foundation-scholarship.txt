@@ -167,12 +167,12 @@ Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
 Rosa-Luxemburg-Stiftung - RLS
+PISA-Schock mit Ansage
+Die neue PISA-Studie zeigt die strukturelle Dysfunktionalität des deutschen Bildungssystems
+Informationen zum dekorativen Bild: Präsentation der PISA-Studie in Berlin, 8.9.2025, picture alliance / NurPhoto | Christian Marquardt
 Auf Messers Schneide
 Ein Kommentar zum Ergebnis der Landtagswahl in Sachsen-Anhalt
 Informationen zum dekorativen Bild: Landtagsgebäude Sachsen-Anhalt in Magdeburg, IMAGO / Fotostand
-Wie Südafrika auf Elon Musk blickt
-In Musks Heimatland regt sich mit "Stop Starlink" Widerstand gegen den reichsten Mann der Welt
-Informationen zum dekorativen Bild: IMAGO / Newscom / AdMedia
 Shoppingmalls zu Sorgezentren
 Wie lassen sich Gewerbeimmobilien vergesellschaften und für Nahversorgung und Care-Einrichtungen sichern?
 Informationen zum dekorativen Bild: Titelfoto: Elias Eichhorn
@@ -181,18 +181,21 @@ Ein Spagat zwischen Solidarität und Realpolitik
 Informationen zum dekorativen Bild: picture alliance / REUTERS | Hannah McKay
 „Enteignung schafft keine einzige Wohnung“
 Mythen und Fakten zur Vergesellschaftung von Wohnraum
-Kampf um den Sozialstaat
-Der Angriff auf die Säulen der sozialen Sicherung ist ein Kernprojekt der Merz-Regierung
-Informationen zum dekorativen Bild: Foto: picture alliance / IPON | Stefan Boness
-Atlas der Migration 2026
-Flucht, Hoffnung, Zukunft – Daten und Fakten über Menschen in Bewegung
 Wem gehört Berlin?
 An wenigen Orten der Welt wird 2026 so intensiv über die Eigentumsfrage verhandelt wie in Berlin. Das Policy Brief formuliert Handlungsempfehlungen für Wohnungspolitik und Vergesellschaftung großer Immobilienbestände.
 Informationen zum dekorativen Bild: Foto: IMAGO / Carsten Thesing
+Atlas der Migration 2026
+Flucht, Hoffnung, Zukunft – Daten und Fakten über Menschen in Bewegung
 Was ist eigentlich ... ?
 In unserer Serie erklären wir wichtige Begriffe aus der politischen Diskussion und zeigen, welche Interessen und Konflikte dahinterstecken.
 Informationen zum dekorativen Bild: Foto: IMAGO / Achille Abboud
 Aktuelle Beiträge
+Türkei: Die Spaltung der CHP
+: Analyse | 09.09.2026
+Kann die „Neue Partei“ Erdoğan schlagen?
+PISA-Schock mit Ansage
+: Kommentar | 09.09.2026
+Die neue PISA-Studie zeigt die strukturelle Dysfunktionalität des deutschen Bildungssystems
 Sachsen-Anhalt: Politiklabor der AfD
 : Kommentar | 08.09.2026
 Wie soziale Konflikte und politische Enttäuschung zu einem machtpolitischen Projekt verschmelzen
@@ -223,12 +226,6 @@ Eine geschichtspolitische Kontroverse belastet die polnisch-ukrainischen Beziehu
 Spekulation auf Kosten der Nachbarschaften
 : Studien | 08/2026
 Das Geschäft mit Warenhäusern und Shoppingcentern
-Shoppingmalls zu Sorgezentren
-: Buch/ Broschur | 08/2026
-Wie lassen sich Gewerbeimmobilien vergesellschaften und für Nahversorgung und Care-Einrichtungen&hellip;
-Die Umwelt- und Klimakosten der Künstlichen Intelligenz
-: Feature | 06.08.2026
-In den USA entstehen derzeit so viele Rechenzentren wie nie zuvor. Das umstrittene „Project Jupiter“
 Mehr anzeigen
 Aktuelle Veranstaltungen
 Traditionen des Antimilitarismus in ihrer Aktualität , 17.09 bis 18.09.2026
@@ -254,6 +251,9 @@ Neben Tod und Leid durch Kriege sind die Auswirkungen von Aufrüstung auch dann 
 : luxemburg argumente | 05/2026
 Mythen und Fakten zu Kriegsdienst und Wehrpflicht
 Podcasts und Videos
+Regiert KI bald die Welt, Aline Blankertz?
+: Podcast | 08.09.2026
+Künstliche Intelligenz boomt, verschlingt aber auch immer mehr Ressourcen. Auch in der&hellip;
 Manypod #31: Staatsschutz vs. Demokratie?
 : Audio | 21.08.2026
 Über Rassismus in den Sicherheitsbehörden
@@ -275,9 +275,6 @@ Alex Demirović im Gespräch mit Jan Rehmann
 #29 Armut auf dem Land: Zwischen Landfrust und Landlust
 : Podcast | 07.07.2026
 Was hat der Stadt-Land-Gegensatz mit dem Kapitalismus zu tun? Sabine Nuss spricht mit Tine Haubner.
-Planetare Politik im Zeitalter des Klimawandels
-: Livestream | 01.07.2026 18:30
-Dipesh Chakrabarty, Eva von Redecker und Violetta Bock diskutieren über die Konsequenzen der&hellip;
 Podcasts
 Videos
 Livestreams

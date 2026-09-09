@@ -122,7 +122,6 @@ Early career fellowships
 Grant
 University Research Fellowship
 This scheme is for outstanding scientists who are in the early stages of their research career and have the potential to become leaders in their…
-Closing 09 September 2026
 Fellowships and grants for outstanding researchers
 We support scientists pursuing discovery-led and applied research through a wide range of schemes and career development opportunities.
 The Royal Society recognises that diversity is essential for delivering excellence in science, technology, engineering and mathematics, and wants to encourage applications from the widest range of backgrounds, perspectives and experiences to maximise innovation and creativity in science for the benefit of humanity.
@@ -531,7 +530,6 @@ Early career fellowships
 Grant
 University Research Fellowship
 This scheme is for outstanding scientists who are in the early stages of their research career and have the potential to become leaders in their…
-Closing 09 September 2026
 Fellowships and grants for outstanding researchers
 We support scientists pursuing discovery-led and applied research through a wide range of schemes and career development opportunities.
 The Royal Society recognises that diversity is essential for delivering excellence in science, technology, engineering and mathematics, and wants to encourage applications from the widest range of backgrounds, perspectives and experiences to maximise innovation and creativity in science for the benefit of humanity.
@@ -991,7 +989,7 @@ Overseas
 The United Kingdom
 APEX awards
 In partnership with the British Academy, the Royal Academy of Engineering and the Royal Society…
-Open
+Closed
 Career Development Fellowship
 This scheme provides the most talented early career scientists from underrepresented groups in…
 Opening 22 September 2026
