@@ -489,6 +489,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy
@@ -1250,6 +1251,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy
@@ -1970,6 +1972,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy
@@ -2697,6 +2700,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy
@@ -3483,6 +3487,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy
@@ -4221,6 +4226,7 @@ Mon., Tues., Thu., Fri.: 9am-5pm
 Wed.: 10am-5pm
 Sat., Sun.: Closed
 Footer Menu
+Manage Cookies
 Contact Us
 University of Pennsylvania
 Privacy Policy

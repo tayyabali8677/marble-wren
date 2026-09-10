@@ -537,7 +537,7 @@ Machine Translation
 Mobile Systems
 85
 Natural Language Processing
-480
+479
 Networking
 133
 Operating Systems
@@ -556,7 +556,7 @@ Software Systems
 216
 Speech Processing
 155
-1 - 30 of 2192 researchers
+1 - 30 of 2191 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,11 +587,16 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Anmol Agarwal
-Natural Language Processing
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
+Anmol Agarwal
+Natural Language Processing
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
@@ -599,11 +604,6 @@ Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
-+2 more
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
 +2 more
 Gagan Aggarwal
 Algorithms and Theory
@@ -613,9 +613,9 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
+Shreya Agrawal
+General Science
+Machine Intelligence
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -623,9 +623,9 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
-Machine Intelligence
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -651,6 +651,11 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Tousif Ahmed
+Human-Computer Interaction and Visualization
+Mobile Systems
+Responsible AI
++2 more
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
@@ -659,11 +664,6 @@ Information Retrieval and the Web
 Mustaq Ahmed
 Algorithms and Theory
 Networking
-Tousif Ahmed
-Human-Computer Interaction and Visualization
-Mobile Systems
-Responsible AI
-+2 more
 Zafarali Ahmed
 Machine Intelligence
 1
