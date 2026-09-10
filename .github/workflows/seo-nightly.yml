@@ -118,6 +118,20 @@ jobs:
           MAX_FEE_FIXES_PER_RUN: "10"
         run: npx tsx scripts/seo/fee-verify-agent.ts
 
+      # Same verification shape as the fee-range step above: checks run
+      # concurrently via Promise.all, so the typical case is ~180s regardless
+      # of MAX_DEADLINE_FIXES_PER_RUN. 35 is a generous upper bound so this
+      # step can't be killed mid-verification with an unreverted commit live.
+      - name: Scholarship deadline status corrections
+        if: always()
+        timeout-minutes: 35
+        env:
+          SITE_REPO_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          SEO_AUTOPUBLISH: ${{ vars.SEO_AUTOPUBLISH }}
+          SEO_AUTOPUSH_DEADLINES: ${{ vars.SEO_AUTOPUSH_DEADLINES }}
+          MAX_DEADLINE_FIXES_PER_RUN: "15"
+        run: npx tsx scripts/seo/deadline-status-agent.ts
+
       - name: Titles and meta descriptions
         if: always()
         run: npx tsx scripts/seo/title-meta-audit.ts

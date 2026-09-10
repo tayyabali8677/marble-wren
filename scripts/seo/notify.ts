@@ -126,10 +126,11 @@ async function main() {
   const mechanicalFixes = readReport(`mechanical-fixes-${date}.md`);
   const feeFixes = readReport(`fee-fixes-${date}.md`);
   const sitemapFixes = readReport(`sitemap-fixes-${date}.md`);
+  const deadlineFixes = readReport(`deadline-status-fixes-${date}.md`);
 
   const all = [gap, zeroClick, indexing, linkHealth, thinContent, schema, vitals, ctr,
     internalLinks, striking, duplicates, factDrift, decay, titleMeta, a11y, mismatch, eeat, canonical,
-    imageSeo, serp, backlinks, sitemapRobots, mechanicalFixes, feeFixes, sitemapFixes];
+    imageSeo, serp, backlinks, sitemapRobots, mechanicalFixes, feeFixes, sitemapFixes, deadlineFixes];
   if (all.every((r) => !r)) {
     console.log("No reports for today, nothing to send.");
     return;
@@ -156,6 +157,7 @@ async function main() {
     { label: "Mechanical fixes", report: mechanicalFixes },
     { label: "Fee range corrections", report: feeFixes },
     { label: "Sitemap corrections", report: sitemapFixes },
+    { label: "Deadline status corrections", report: deadlineFixes },
   ];
 
   const autoPushedParts = autoPushedSources

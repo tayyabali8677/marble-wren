@@ -56,7 +56,7 @@ function parseRedirectCandidates(canonicalReport: string): RedirectCandidate[] {
 }
 
 async function fetchStaticRoutesSection(token: string): Promise<string | null> {
-  const res = await fetch(`https://raw.githubusercontent.com/tayyabali123/titans-abroad/main/${SITEMAP_FILE}`, {
+  const res = await fetch(`https://raw.githubusercontent.com/tayyabali8677/titans-abroad/main/${SITEMAP_FILE}`, {
     headers: { Authorization: `token ${token}` },
     signal: AbortSignal.timeout(15_000),
   });

@@ -33,7 +33,7 @@ export type LinkEntry = {
   addedAt: string;
 };
 
-const SITE_REPO = "tayyabali123/titans-abroad";
+const SITE_REPO = "tayyabali8677/titans-abroad";
 const SITE_BRANCH = process.env.SITE_BRANCH || "main";
 const FAQ_FILE = "data/seo-faqs.ts";
 const LINK_FILE = "data/seo-links.ts";

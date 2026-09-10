@@ -3,7 +3,7 @@ import { existsSync, mkdtempSync, readFileSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 
-const SITE_REPO = "tayyabali123/titans-abroad";
+const SITE_REPO = "tayyabali8677/titans-abroad";
 const SITE_BRANCH = process.env.SITE_BRANCH || "main";
 const BOT_NAME = "tayyabali123";
 const BOT_EMAIL = "muhammadtayyabali868@gmail.com";

@@ -100,7 +100,7 @@ function parseAltCandidates(accessibilityReport: string): AltCandidate[] {
 }
 
 async function fetchRawFile(path: string, token: string): Promise<string | null> {
-  const res = await fetch(`https://raw.githubusercontent.com/tayyabali123/titans-abroad/main/${path}`, {
+  const res = await fetch(`https://raw.githubusercontent.com/tayyabali8677/titans-abroad/main/${path}`, {
     headers: { Authorization: `token ${token}` },
     signal: AbortSignal.timeout(15_000),
   });
