@@ -23,6 +23,11 @@ jobs:
     steps:
       - name: Flip marble-wren back to private
         env:
-          GH_TOKEN: ${{ secrets.SITE_REPO_TOKEN }}
+          # SITE_REPO_TOKEN is scoped for pushing SEO auto-fixes to titans-abroad
+          # (see seo-nightly.yml) and does not have admin rights on marble-wren
+          # itself, which is why this step 404'd every time it ran. VISIBILITY_TOKEN
+          # is the same PAT used by the pale-horizon-6 watchdog for this exact
+          # operation and has the admin scope it needs.
+          GH_TOKEN: ${{ secrets.VISIBILITY_TOKEN }}
         run: |
           gh repo edit tayyabali8677/marble-wren --visibility private --accept-visibility-change-consequences
