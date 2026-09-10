@@ -921,33 +921,12 @@ Stypendia i granty z zagranicy
 Na tej stronie publikujemy informacje o ofertach stypendialnych i grantowych udostępnianych przez zagraniczne instytucje, fundacje i organizacje. Mogą one dotyczyć m.in. studiów, badań naukowych, mobilności akademickiej, staży oraz realizacji projektów międzynarodowych.
 NAWA nie jest organizatorem prezentowanych programów , nie prowadzi naboru i nie odpowiada za ich warunki, terminy ani przebieg rekrutacji.
 Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków znajdują się na stronach instytucji prowadzących poszczególne programy.
-09
-Kwi
-2026
-MSCA Postdoctoral Fellowships na Uniwersytecie w Padwie
-09.04.2026 - 09.09.2026
-Uniwersytet w Padwie zaprasza naukowczynie i naukowców ze stopniem doktora do ubiegania się o Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2026 z uczelnią jako instytucją goszczącą.
-Szczegóły
-01
-Lip
-2026
-ASI i MSCA Postdoctoral Fellowships
-01.07.2026 - 09.09.2026
-Włoska Agencja Kosmiczna, Agenzia Spaziale Italiana, ASI, zaprasza naukowców ze stopniem doktora do udziału w inicjatywie „Let’s Space! Research project proposals to progress on the path of Space knowledge”, realizowanej w ramach Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2026 programu Horyzont Europa.
-Szczegóły
 16
 Lip
 2026
-Stypendium podoktorskie MSCA 2026
-16.07.2026 - 09.09.2026
-Marie Skłodowska-Curie Actions Postdoctoral Fellowships 2026 to konkurs programu Horyzont Europa dla naukowców posiadających stopień doktora, którzy chcą rozwijać karierę poprzez indywidualny projekt badawczo-szkoleniowy, mobilność międzynarodową, współpracę międzysektorową i zdobywanie nowych kompetencji.
-Szczegóły
-16
-Lip
-2026
-Schwarzman Scholars – stypendium na studia magisterskie w Chinach
-16.07.2026 - 09.09.2026
-Schwarzman Scholars to roczny, w pełni finansowany program magisterski Master of Global Affairs prowadzony w Schwarzman College na Tsinghua University w Pekinie. Program jest skierowany do osób z potencjałem przywódczym, które chcą pogłębić wiedzę o Chinach, global affairs i relacjach międzynarodowych.
+Stypendium Badawcze Uniwersytetu La Trobe w Australii 2026
+16.07.2026 - 14.09.2026
+La Trobe University otworzył nabór do programu stypendialnego dla studentów zagranicznych zainteresowanych analityką danych, biznesem i nowymi technologiami.
 Szczegóły
 16
 Lip
@@ -955,6 +934,27 @@ Lip
 Fulbright Polish Studies Award 2027-28
 16.07.2026 - 14.09.2026
 Fulbright Polish Studies Award (wcześniej Slavic Award) to stypendium dydaktyczne przeznaczone dla osób posiadających polskie obywatelstwo, zatrudnionych w polskich uczelniach lub instytutach naukowych, których zainteresowania naukowe obejmują kulturę (literaturę, media, sztukę) oraz historię, politykę lub ekonomię Polski w kontekście europejskim lub relacji polsko-amerykańskich. Stypendium umożliwia prowadzenie zajęć dydaktycznych na jednym z dwóch uniwersytetów współpracujących z Polsko-Amerykańską Komisją Fulbrighta: The Ohio State University w Columbus (OSU) lub University of Illinois w Chicago (UIC).
+Szczegóły
+16
+Lip
+2026
+Kluge Fellowships in Digital Studies – stypendium badawcze w USA
+16.07.2026 - 15.09.2026
+Kluge Fellowships in Digital Studies to rezydencyjne stypendium badawcze John W. Kluge Center przy Library of Congress w Stanach Zjednoczonych. Program jest skierowany do badaczy i praktyków z całego świata, ze wszystkich dyscyplin, którzy chcą prowadzić badania z wykorzystaniem metod cyfrowych, cyfrowych kolekcji Library of Congress, narzędzi i zasobów cyfrowych.
+Szczegóły
+16
+Lip
+2026
+Stypendia naukowo-badawcze Fundacji im. Anneliese i Mieczysława Koćwin 2026
+16.07.2026 - 18.09.2026
+Program stypendialny Fundacji im. Anneliese i Mieczysława Koćwin obejmuje stypendia naukowo-badawcze na pobyt w Szwajcarii w czasie realizacji projektu badawczego. Wspierane są projekty prowadzone w szwajcarskich uniwersytetach, szkołach wyższych lub instytutach badawczych.
+Szczegóły
+16
+Lip
+2026
+Stypendium McCall MacBain w Kanadzie dla studentów – przyszłych liderów 2026
+16.07.2026 - 23.09.2026
+McCall MacBain Scholarships at McGill to pełne stypendia na pełnoetatowe studia magisterskie oraz wybrane profesjonalne programy undergraduate drugiego wejścia na McGill University w Montrealu. Program łączy finansowanie studiów z rozwojem przywództwa, mentoringiem, coachingiem i pracą w interdyscyplinarnej społeczności.
 Szczegóły
 Start
 Poprzedni
@@ -965,7 +965,6 @@ Poprzedni
 5
 6
 7
-8
 Następny
 Koniec
 Menu

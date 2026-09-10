@@ -25,7 +25,7 @@ Program Details Funding Eligibility How To Apply Program Administration Responsi
 Program Details
 Applications are now open for summer 2027! Don’t miss your opportunity to apply. Submit your application today by clicking here .
 Deadline to apply: Wednesday, September 16, 2026, at 1:00 p.m. (Pacific time). Applications will not be accepted past the deadline.
-Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Austria, Brazil, Chile, China, Colombia, Finland, France, Germany, Hong Kong, India, Jordan, Mexico, Pakistan, Peru, Singapore, South Korea, Taiwan, Thailand, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian academic institution faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences.
+Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Austria, Brazil, Chile, China, Colombia, Finland, France, Germany, Hong Kong, India, Ireland, Jordan, Mexico, Pakistan, Peru, Singapore, South Korea, Taiwan, Thailand, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian academic institution faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences.
 Mitacs Globalink Research Internships can offer you an international experience like no other. Canada features excellent universities, outstanding research facilities, cutting-edge industry innovation, and unparalleled undergraduate training opportunities.
 What a Mitacs Globalink Research Internship offers you:
 A 12-week internship that increases your knowledge of and explores hands-on research in your field of study
@@ -200,6 +200,7 @@ Earth sciences
 Engineering
 Physics and related fields of study
 Minimum cumulative grade point average:  2.9/6 or lower (65%)
+Please see  German Grade Conversion Scale &#8211; Bewertungsschema Punkte Prozent Noten for assistance with determining your grade conversion.
 Language proficiency exam requirement:  No
 Special instructions: Applicants may request shorter internships, with a minimum 10-week duration, when meeting with professors and to be finalized if they are matched. These exception requests must be sent to, and approved by, the supervising professor and Mitacs.
 Hong Kong - 2027 Cohort Eligibility

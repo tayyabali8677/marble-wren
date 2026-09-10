@@ -98,15 +98,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -498,7 +489,7 @@ Indigenous students
 If you're a citizen or member of a First Nations community (Status/Non-Status), Inuit, and/or Métis, you may be eligible for scholarships valued at up to $40,000.
 Once you've applied and can access the Waterloo applicant portal , you can apply to these scholarships under the Awards and financial aid tab in the portal.
 Application deadline: April 15
-Schulich Leader Scholarships in engineering, math, and science
+Schulich Leader Scholarships in science, technology, engineering, and math
 Scholarships of up to $120,000 are awarded annually across 20 universities in Canada.
 Eligibility
 For high school students applying to science, technology, engineering, and math programs
@@ -684,15 +675,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -899,15 +881,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -1119,15 +1092,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -1407,15 +1371,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -1705,15 +1660,6 @@ Important dates and events
 When might I get an offer of admission?
 Math, computing, and science contests
 Request for special consideration
-Admitted students
-Admitted students
-Next steps
-Accept your Offer of Admission
-Conditional offers of admission
-Study permits
-Preparing for co-op
-Campus terminology
-How to see scholarship and bursary information
 International students
 International students
 International student admissions
@@ -1876,7 +1822,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-2 + 0 =
+3 + 17 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

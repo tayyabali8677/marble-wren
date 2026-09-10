@@ -264,7 +264,6 @@ Postgraduate applications Ready to create impact in your field? Start here to ad
 Loading component...
 Studying abroad or transferring Start here if you're studying at another university and want to transfer to UWA, want to study abroad as part of your degree, or are looking to join us from overseas.
 Loading component...
-Loading component...
 Next steps
 Take the next step in your UWA application. Confirm your offer, pick up where you left off, or defer your enrolment if needed.
 Loading component...
@@ -384,9 +383,6 @@ Student Exchange or Study Abroad
 Join a vibrant international community and enrich your education by studying part of your degree at UWA.
 Cross institutional study
 Currently studying at another university? You can complete some units at UWA and broaden your academic experience. Scroll to ‘How to enrol’ and select ‘I’m an incoming cross-institutional student’ to get started.
-Start shaping your future at a UWA Open Night
-Experience uni beyond a brochure. Come along to an Open Night to hear real stories from current students, connect with our academics, and explore study areas that match your goals.
-Find out more
 Continue your application
 Resume and complete your application via the Apply Portal if you’re applying directly to UWA. Accept your offer
 Received your offer to study with us? If you're ready to accept, we’re excited to welcome you. Visit accept your offer and secure your place. Or find out how to create a UWA Account if you don’t have on yet. Defer your offer
@@ -466,11 +462,13 @@ Refunds and remissions
 Student Services and Amenities Fee
 Australia Awards and sponsored students
 Current student fees
-Start shaping your future at a UWA Open Night
-Experience uni beyond a brochure. Come along to an Open Night to hear real stories from current students, connect with our academics, and explore study areas that match your goals.
-Find out more
 You may be interested in
-Loading component...
+Find a course
+Discover your perfect course and kickstart your career with a world top 100 university.
+How to apply
+You&#x27;ve done your research and decided that UWA is the place for you – great choice!
+Pathways and Eligibility
+Learn about entry pathways and eligibility requirements for studying at UWA.
 Loading component...
 Loading component...
 Study
@@ -572,12 +570,6 @@ Support information
 UWA
 Study
 Scholarships and fees
-Find a course
-Discover your perfect course and kickstart your career with a world top 100 university.
-How to apply
-You&#x27;ve done your research and decided that UWA is the place for you – great choice!
-Pathways and Eligibility
-Learn about entry pathways and eligibility requirements for studying at UWA.
 Need some help? Get in touch
 View FAQs
 View our Frequently Asked Questions for all UWA-related queries.

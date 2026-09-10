@@ -208,6 +208,9 @@ Deadlines
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
+01 April 2027
+TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
+Fellowship
 Research and Project Grants
 TWAS research grants are awarded to both individual scientists and research groups
 SEE ALL
@@ -1070,6 +1073,9 @@ Deadlines
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
+01 April 2027
+TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
+Fellowship
 Support TWAS
 Your donations will help us to build science in the developing world.
 SEE MORE
@@ -1349,6 +1355,9 @@ Deadlines
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
+01 April 2027
+TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
+Fellowship
 Filter by:
 External Opportunities
 Scientific Meetings
@@ -1361,10 +1370,19 @@ Visiting Scientists
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 preview
 Young scientists from least developed countries who hold an MSc (or higher degree) can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects and/or training internships in the fields that fall under the umbrella of the United Nations Sustainable Development Goals (SDGs).
-- 53
+- 52
 days
 DEADLINE
 31 October 2026
+SEE MORE
+Fellowships
+TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
+preview
+The Research Support Foundation of the State of São Paulo (FAPESP) in Brazil and TWAS offer postdoctoral fellowships to researchers from Developing Countries, in all areas of natural, applied and social sciences.
+- 204
+days
+DEADLINE
+01 April 2027
 SEE MORE
 Main navigation
 Home
