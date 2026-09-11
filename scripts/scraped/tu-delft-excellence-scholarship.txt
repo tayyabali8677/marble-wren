@@ -478,13 +478,13 @@ Contact
 Search
 Home
 We support
-Menu sluiten
+Menu openen
 Support pioneering research
 Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -563,9 +563,8 @@ Item 1
 of
 3
 September
-09
-Event
-12.5 years TGV: Open Day for residents of Delft and the surrounding area
+12
+Open Monument Day 2026 - Spui Campus
 October
 07
 Delft Female Impact Community Annual Event
@@ -665,7 +664,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -693,7 +692,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
