@@ -41,7 +41,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 1
 Calendar
 Contact
 Verify digital document ✓
@@ -59,36 +59,44 @@ Provides every citizen with the opportunity to get continuous education.
 Projects
 Projects of the Ministry of Education
 News
+Minister of Science and Education Emin Amrullayev’s Interview with AnewZ
+11.09.2026 - 19:44
 Deputy Minister of Science and Education meets with the Minister of State of Pakistan
 23.07.2026 - 20:05
 Deputy Minister Hasan Hasanlı meets with the Ambassador of the Republic of Rwanda
 10.07.2026 - 15:11
+&nbsp
 Deputy Minister meets with Rector of Istanbul Atlas University
 03.07.2026 - 18:19
-&nbsp
 Minister of Science and Education meets with a delegation from the University of Warwick
 01.07.2026 - 16:30
 The Minister of Science and Education met with the Secretary-General of the OTS
 09.06.2026 - 12:20
-The Minister of Science and Education meets with his Kazakh counterpart
-09.06.2026 - 10:19
 All news
-09/09/2026
-Bakı şagirdlərinin oxu savadlılığı üzrə nəticəsi 2022-ci illə müqayisədə 40 bal yüksəlib. Bununla da 2018-ci ilin nəticəsi 16 bal üstələnib.
-Azərbaycan üzrə oxu savadlılığı isə 374 bal təşkil edib.
-❗ Oxu savadlılığı PISA çərçivəsində irəliləyiş əldə olunması ən çətin sahələrdən biridir. Ötən dövrdə də iştirak edən 77 ölkədən 60-nın nəticəsi aşağı düşüb. Bu bacarıq yalnız fənn biliyi ilə deyil, uzunmüddətli mütaliə vərdişləri, mətnlə işləmə və məlumatı təhliletmə bacarıqları ilə bağlıdır.
-#ElmVəTəhsilNazirliyi #EduGovAz #PISA #OxuSavadlılığı
+11/09/2026
+Sentyabrın 11-də 2026-2027-ci il tədris ili üzrə təhsil işçilərinin sentyabr konfransı keçirilib.
+Ətraflı: https://edu.gov.az/az/news-and-updates/23296-1
+#ElmVəTəhsilNazirliyi #EduGovAz #YeniTədrisİli
 More
-09/09/2026
-? Məktəbəqədər təhsil sahəsində valideyn-dövlət-özəl əməkdaşlığı əsasında özəl bağçalara uşaqların qeydiyyatı başlayır
-?‍?‍?‍? Valideynlər övladlarını mygov platforması vasitəsilə 14 sentyabr saat 15:00-dan başlayaraq 25 sentyabr saat 15:00-dək qeydiyyatdan keçirə bilərlər.
-? Elektron qeydiyyat prosesinin valideynlər üçün daha aydın və əlçatan olması məqsədilə məlumatlandırıcı videoçarxı diqqətinizə çatdırırıq.
-#ElmVəTəhsilNazirliyi #EduGovAz #TəhsildəQrantlar #Məktəbəqədər
+11/09/2026
+? Bakı üzrə PISA nəticələrində yüksəliş
+PISA 2025 nəticələrinə əsasən, Bakı şəhəri üzrə hər üç istiqamətdə 2018-ci illə müqayisədə daha yüksək nəticələr qeydə alınıb.
+? Riyazi savadlılıq: 420 → 460 bal (+40)
+? Təbiət elmləri: 398 → 440 bal (+42)
+? Oxu savadlılığı: 389 → 405 bal (+16)
+2022-ci illə müqayisədə isə 2025-ci ildə Bakı üzrə:
+? Riyazi savadlılıq üzrə 63 bal
+? Təbiət elmləri üzrə 60 bal
+? Oxu savadlılığı üzrə 40 bal artım qeydə alınıb.
+Beləliklə, 2025-ci ildə Bakı üzrə hər üç istiqamətdə nəticələr həm 2022-ci illə müqayisədə əhəmiyyətli artım göstərib, həm də 2018-ci il göstəricilərini üstələyib.
+#ElmVəTəhsilNazirliyi #EduGovAz #EduAz #PISA
 More
-09/09/2026
-?Təbiət elmləri nəticəsi PISA 2025-də yüksələrək ? 2022-ci illə müqayisədə 60, 2018-ci illə müqayisədə isə 42 bal artıb.
-?? Azərbaycan üzrə təbiət elmləri göstəricisi 409 bal təşkil edib.
-#ElmVəTəhsilNazirliyi #EduGovAz #PISA #Təbiət
+11/09/2026
+? Peşə təhsil müəssisələrinə tələbə qəbulunun III mərhələsi başlayıb.
+ℹ️ Hər bir vakant yerə ilk müraciət edən şəxs şəxsi kabinetində müsabiqədən keçməsi ilə bağlı bildiriş alacaq və həmin şəxs bildiriş aldıqdan sonra 14 sentyabr saat 18:00-dək sənədlərini qəbul olduğu təhsil müəssisəsinə təqdim etməlidir.
+? Son müraciət tarixi: 14 sentyabr, 12:00
+? Qeydiyyat linki: portal.edu.az
+#ElmVəTəhsilNazirliyi #EduGovAz #PeşəTəhsili #TələbəQəbulu2026
 More
 President of the Republic of Azerbaijan
 First Vice-President of the Republic of Azerbaijan
@@ -148,7 +156,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 1
 Calendar
 Contact
 Verify digital document ✓
@@ -209,7 +217,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 1
 Calendar
 Contact
 Verify digital document ✓

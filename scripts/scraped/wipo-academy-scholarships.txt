@@ -631,63 +631,74 @@ https://www.wipo.int/en/web/news/rss
 Search Meetings and Documents
 About Intellectual Property
 IP Training
+Respect for IP
 IP Outreach
-IP for…
+IP for...
 IP and...
 IP in...
 Patent & Technology Information
 Trademark Information
-Industrial Design Information
+Design Information
 Geographical Indication Information
 Plant Variety Information (UPOV)
-IP Laws, Treaties & Judgements
+IP Laws, Treaties & Judgments
 IP Resources
 IP Reports
 Patent Protection
 Trademark Protection
-Industrial Design Protection
+Design Protection
 Geographical Indication Protection
 Plant Variety Protection (UPOV)
 IP Dispute Resolution
 IP Office Business Solutions
 Paying for IP Services
 Negotiation & Decision-Making
-Development Cooperation
+IP Cooperation
 Innovation Support
 Public-Private Partnerships
 The Organization
-Working with WIPO
+WIPO and Artificial Intelligence
+Working at WIPO
 Accountability
 Patents
 Trademarks
-Industrial Designs
+Designs
 Geographical Indications
 Copyright
 Trade Secrets
+Future of IP
 WIPO Academy
 Workshops & Seminars
+IP Enforcement
+WIPO ALERT
+Raising Awareness
 World IP Day
 WIPO Magazine
-Raising Awareness
 Case Studies & Success Stories
 IP News
 WIPO Awards
 Business
+Women
 Universities
 Indigenous Peoples
 Judiciaries
-Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions
+Youth
+Examiners
+Innovation Ecosystems
 Economics
-Gender Equality
+Finance
+Intangible Assets
 Global Health
 Climate Change
 Competition Policy
 Sustainable Development Goals
-Enforcement
+Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions
 Frontier Technologies
 Mobile Applications
 Sports
 Tourism
+Music
+Fashion
 PATENTSCOPE
 Patent Analytics
 International Patent Classification
@@ -714,6 +725,7 @@ WIPO Pearl (Terminology)
 WIPO Publications
 Country IP Profiles
 WIPO Knowledge Center
+World Intangible Investment Highlights
 WIPO Technology Trends
 Global Innovation Index
 World Intellectual Property Report
@@ -739,28 +751,33 @@ Current Account at WIPO
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
+WIPO Webcast
 WIPO Official Documents
 Development Agenda
-Technical Assistance
-IP Training Institutions
-COVID-19 Support
+Tailored Initiatives & Projects
+Collaborative Forums & Dialogues
+Innovation, Creativity and Development Acceleration Program
+IP for Impact
 National IP Strategies
-Policy & Legislative Advice
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
 Inventor Assistance Program
+IP Commercialization
 WIPO GREEN
 WIPO's Pat-INFORMED
 Accessible Books Consortium
 WIPO for Creators
-WIPO ALERT
 Member States
 Observers
 Director General
 Activities by Unit
 External Offices
-Job Vacancies
+Global Forum on IP and AI
+AI Infrastructure Interchange
+AI Tools & Services
+Staff Positions
+Affiliated Personnel Positions
 Procurement
 Results & Budget
 Financial Reporting
