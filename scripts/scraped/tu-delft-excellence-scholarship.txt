@@ -500,7 +500,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
@@ -509,7 +509,7 @@ Students
 Researchers
 Alumni
 About us
-Menu sluiten
+Menu openen
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -562,9 +562,6 @@ Annual Report
 Item 1
 of
 3
-September
-12
-Open Monument Day 2026 - Spui Campus
 October
 07
 Delft Female Impact Community Annual Event

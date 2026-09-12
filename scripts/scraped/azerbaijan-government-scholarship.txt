@@ -41,7 +41,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -74,6 +74,10 @@ The Minister of Science and Education met with the Secretary-General of the OTS
 09.06.2026 - 12:20
 All news
 11/09/2026
+"Təhsilin keyfiyyəti şagirdin nəticəsidir" | Emin Əmrullayev
+#TəhsilTV #EminƏmrullayev #Nazir #Çıxış #Məlumat
+More
+11/09/2026
 Sentyabrın 11-də 2026-2027-ci il tədris ili üzrə təhsil işçilərinin sentyabr konfransı keçirilib.
 Ətraflı: https://edu.gov.az/az/news-and-updates/23296-1
 #ElmVəTəhsilNazirliyi #EduGovAz #YeniTədrisİli
@@ -90,13 +94,6 @@ PISA 2025 nəticələrinə əsasən, Bakı şəhəri üzrə hər üç istiqamət
 ? Oxu savadlılığı üzrə 40 bal artım qeydə alınıb.
 Beləliklə, 2025-ci ildə Bakı üzrə hər üç istiqamətdə nəticələr həm 2022-ci illə müqayisədə əhəmiyyətli artım göstərib, həm də 2018-ci il göstəricilərini üstələyib.
 #ElmVəTəhsilNazirliyi #EduGovAz #EduAz #PISA
-More
-11/09/2026
-? Peşə təhsil müəssisələrinə tələbə qəbulunun III mərhələsi başlayıb.
-ℹ️ Hər bir vakant yerə ilk müraciət edən şəxs şəxsi kabinetində müsabiqədən keçməsi ilə bağlı bildiriş alacaq və həmin şəxs bildiriş aldıqdan sonra 14 sentyabr saat 18:00-dək sənədlərini qəbul olduğu təhsil müəssisəsinə təqdim etməlidir.
-? Son müraciət tarixi: 14 sentyabr, 12:00
-? Qeydiyyat linki: portal.edu.az
-#ElmVəTəhsilNazirliyi #EduGovAz #PeşəTəhsili #TələbəQəbulu2026
 More
 President of the Republic of Azerbaijan
 First Vice-President of the Republic of Azerbaijan
@@ -156,7 +153,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -217,7 +214,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -336,7 +333,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 1
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓
