@@ -54,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -292,7 +292,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -484,7 +484,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu sluiten
+Menu openen
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -509,7 +509,7 @@ Students
 Researchers
 Alumni
 About us
-Menu openen
+Menu sluiten
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -664,7 +664,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu sluiten
+Menu openen
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -917,7 +917,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1155,7 +1155,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship

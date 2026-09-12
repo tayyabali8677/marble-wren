@@ -20,7 +20,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -67,7 +67,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -202,7 +202,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -249,7 +249,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -384,7 +384,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -431,7 +431,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -541,7 +541,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -588,7 +588,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -838,7 +838,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -885,7 +885,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -955,8 +955,8 @@ Terms of use
 Transparency
 &copy; 2026 IDRC
 
-===== SOURCE PAGE: https://idrc.ca/en/about-idrc/policies-and-commitments/open-access-policy-idrc-funded-project-outputs =====
-Open Access Policy for IDRC-Funded Project Outputs | IDRC - International Development Research Centre
+===== SOURCE PAGE: https://idrc.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology =====
+Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities | IDRC - International Development Research Centre
 Skip to main content
 To homepage
 To homepage
@@ -977,7 +977,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -1024,7 +1024,7 @@ Education and science
 Democratic and inclusive governance
 Sustainable inclusive economies
 Funding
-Grants and awards
+Funding
 Applying for funding
 Managing funds
 Resources for IDRC grantees
@@ -1045,76 +1045,92 @@ Stories
 Media
 Fulltext search
 Home
-About IDRC
-Policies and commitments
-Open Access Policy for IDRC-Funded Project Outputs
-IDRC’s open access policy is based on the belief that full social and economic benefits of research in support of development should be available to everyone who could use it – and build on it – to improve people’s lives.
-The policy applies to all outputs resulting from proposals received after the policy took effect on July 20, 2015.
-Read more about
-The underpinnings of IDRC’s open access policy
-The guiding principles behind the policy
-How the policy will be applied
-Frequently asked questions regarding the policy
-Policy underpinning
-IDRC’s open access policy is consistent with the broader movement toward open access, supported by research funders and governments, including the Government of Canada, as a way to increase transparency, accountability, and efficiency.
-IDRC believes that:
-publicly funded research should be freely and openly available.
-open access accelerates research and facilitates access to knowledge worldwide.
-barriers to the results of publicly funded research unreasonably restrict innovation for the public good.
-Guiding principles
-In developing its new open access policy, IDRC was guided by the following principles:
-Open access is of fundamental importance to IDRC’s mandate and to developing-country researchers;
-All IDRC-funded project outputs should adhere to the same policy;
-Increasing access to project outputs and scientific rigour need to go hand-in- hand;
-Compliance with the policy should not place an undue burden on IDRC’s grantees or IDRC itself;
-Grantees can choose to make their project outputs open access either through open access publishers or through an open access repository.
-How open access is applied
-Books and journal articles generated by the grantees and sub-grantees of IDRC-funded projects will be made accessible free of charge to the end user;
-Authors are encouraged to publish their books open access and their articles in open access journals. If this is not possible, the published books or articles must be uploaded to an open access repository within 12 months of publication;
-Grey literature must be placed in the IDRC Digital Library ;
-All project outputs identified above will be made freely and openly available under the most recent version of the Creative Commons Attribution (CC BY) licence ;
-Research proposals submitted to IDRC must include an open access dissemination plan.
-Frequently Asked Questions
-What does IDRC mean by open access project outputs?
-By open access project outputs, IDRC means project outputs that are digital, online, free of charge at the point of use, and licensed by the Creative Commons Attribution (CC BY) licence —meaning free from restrictions on use or reuse, as long as the original author(s) are properly acknowledged and cited.
-What is an IDRC-funded project output?
-IDRC-funded project outputs consist of journal articles, books, and grey literature resulting from IDRC-funded activities — including those outputs produced beyond the funding period. Grey literature includes, though is not limited to, final technical reports, theses, papers, workshop reports, conference proceedings, brochures, and audiovisual products.
-What routes to open access can researchers consider for journal articles?
-Open access for journal articles can be provided in one of two ways:
-“Gold” open access, which IDRC encourages, entails publishing in an open access or hybrid journal that makes individual articles or all content freely accessible immediately at the time of publication.
-“Green” open access, also called “self-archiving,” makes a research paper available on the publisher’s website or in a reasonably well-established and high quality repository [1] . IDRC requires that the article be available, in post-print form, within 12 months of publication.
-What routes to open access can researchers consider for books?
-Open access for books can be provided in one of two ways:
-“Gold” open access, which IDRC encourages, entails publishing with an open access book publisher that will make the book freely accessible immediately at the time of publication.
-“Green” open access, also called “self-archiving,” makes a book available on the publisher’s website or in a reasonably well-established and high quality repository [2] . IDRC requires that books be available within 12 months of publication.
-What should be included in the open access dissemination plan?
-The open access dissemination plan sets out the recipient’s intention with respect to the dissemination of project outputs. It should include, at a minimum, the type and number of publications planned to publish before and after project completion, the preferred publishers and/or journals, the proposed route to open access (Gold or Green), and the anticipated cost of article processing charges.
-Will IDRC cover monograph processing charges for publishing open access books?
-Yes. Reasonable costs for publishing open access books are eligible expenses budgeted under active IDRC grants, subject to IDRC’s review and approval.
-Will IDRC cover article processing charges for publishing in open access or hybrid journals?
-Yes. Reasonable Article Processing Charges (APCs) for publishing articles in open access or hybrid journals are eligible expenses budgeted under active IDRC grants.
-Must all grey literature be uploaded to the IDRC Digital Library?
-Grey literature of significant value must be uploaded to the IDRC Digital Library . Grantees and the IDRC responsible program officer should use their judgement in determining what will be uploaded to the IDRC Digital Library.
-What does IDRC expect with regard to project outputs published beyond the funding period?
-Outputs produced beyond the funding period, but resulting from IDRC funding, should be treated in the same manner as any other IDRC-funded project output. Reasonable APCs for publishing IDRC-supported journal articles up to 24 months beyond the funding period are also deemed eligible expenses, subject to IDRC’s review and approval. IDRC is examining its book publishing policy. At present, monograph processing charges can be covered for active projects, but are not yet covered for closed projects.
-How must grantees submit IDRC-funded project outputs and funding requests for article processing charges?
-Grantees will use IDRC Connect, a portal for IDRC-funded project teams and responsible program officers. Each IDRC research project approved under the new open access policy will have a site through which project leaders and team members will submit IDRC reports, project outputs, and APC funding requests. Consult the IDRC Connect User Guide for more details.
-Must grantees who submitted their proposal before the policy takes effect comply with the open access policy?
-Grantees who submitted their proposal before the policy takes effect are encouraged to make their project outputs open access. IDRC will have limited funds to pay for article processing charges for journal articles for these projects, subject to IDRC’s review and approval. Grantees should approach the IDRC program officer responsible for their project to discuss. If funds are not available, grantees who submitted their proposal before the policy takes effect and want to make their project outputs open access can do so by posting them on a website or in an institutional repository ("green" open access). IDRC’s grant agreements signed since 2008 stipulate that grey literature must be uploaded to the IDRC Digital Library .
-What are IDRC’s expectations with regard to data?
-IDRC encourages researchers to openly share research data. Researchers are invited to consult the IDRC open data statement of principles for more information on how to manage and share their data.
-How can researchers ensure the quality of science is not compromised when publishing in open access journals?
-Authors should carefully consider the quality standards of publications and ensure that appropriate peer review mechanisms are followed. The Directory of Open Access Journals , maintained by Infrastructure Services for Open Access (IS4OA), lists open access journals that have been reviewed for quality. Authors can also refer to the information guide Publishing in Open Access Journals , which lists journal quality indicators to evaluate potential publication outlets.
-In what circumstances is it appropriate to deviate from IDRC’s open access policy?
-Rare exceptions could include patentability of research inventions, protection of personal information, protection of researchers or subjects of research, or publication in a local language journal that does not offer open access. The justification for not following the open access policy should be explained in the research proposal. Exceptions requested at a later date should be discussed with the IDRC program officer and documented.
-How does IDRC’s open access policy affect copyright of project outputs?
-IDRC does not require assignment of any rights to IDRC, only permission to publish certain outputs in the IDRC Digital Library . Authors are encouraged to retain copyright to their project outputs. Grantees must avoid entering into agreements with publishers and other organizations that might impede compliance with the requirements of IDRC’s open access policy.
-How does IDRC track open access for project outputs and ensure compliance?
-All grant agreements require compliance with IDRC’s open access policy, and IDRC program officers will consider past compliance when making subsequent grants. Repeat grantees should document their compliance with IDRC’s open access policy in new proposals. IDRC may also periodically undertake high-level studies of compliance across its programs.
-When will IDRC review its open access policy?
-Two years after the policy’s implementation, IDRC plans to assess to what extent IDRC supported research is more openly available, and how the policy itself might be improved.
-[1] The Open Directory of Open Access Repositories (OpenDOAR) provides a listing of open access repositories around the world that have been reviewed for quality.
-[2] Ibid.
+Funding
+Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
+Open
+Call for
+Expressions of interest
+Deadline
+Friday, September 25, 2026 - 23:59 ET
+Programs
+Education and Science
+Science Granting Councils Initiative in Sub-Saharan Africa
+Topic(s)
+Science and Technology
+Countries
+Botswana
+Burkina Faso
+Côte d&#039;Ivoire
+Ethiopia
+Ghana
+Kenya
+Malawi
+Mozambique
+Namibia
+Nigeria
+Rwanda
+Senegal
+Sierra Leone
+South Africa
+Tanzania
+Togo
+Uganda
+Zambia
+Zimbabwe
+Funded by
+Science Granting Councils Initiative in Sub-Saharan Africa (SGCI)
+Budget
+Ranging from CAD50,000 to CAD300,000 per consortium member
+Point of contact
+SGCSSA@idrc.ca
+Type
+Grant
+Status
+Open
+Scope
+The SGCI Multilateral Research Call in support of STISA-2034 will fund collaborative, multi-country research projects that advance Africa’s science, technology and innovation priorities and contribute to sustainable development outcomes across the continent.
+The call supports research aligned with five thematic streams:
+Agriculture
+Health
+Artificial intelligence and Digital technologies
+Energy
+Environment
+Through this call, the Science Granting Councils Initiative (SGCI) seeks to:
+Support high-quality research that addresses regional development challenges
+Strengthen cross-border partnership
+Promote the use of evidence in policy and practice
+Consortia must include institutions from multiple participating SGCI countries and demonstrate how their proposed research contributes to national and continental priorities.
+The call aims to strengthen Africa’s science, technology and innovation ecosystem while generating knowledge and innovations that support inclusive and sustainable development.
+Eligibility
+Applications must be submitted by a consortium consisting of one lead applicant organization and two to four co-applicant organizations from participating SGCI countries.
+All applicant organizations must:
+Be eligible institution types
+Nominate a full-time principal investigator
+Demonstrate the capacity to manage research funding
+Propose research that aligns with at least one of the call’s thematic streams and research avenues
+Versão em português disponível aqui
+Clique aqui
+More details
+For more information, please read the detailed call for proposals document and  frequently asked questions.
+The Science, Technology and Innovation Strategy for Africa (STISA-2034) is the African Union’s continental framework for driving socio-economic transformation through science, technology, and innovation (STI). STISA-2034 positions STI as a key driver of Africa’s response to global challenges such as:
+Climate change
+Pandemics
+Food insecurity
+Energy access
+Economic shocks
+The Science Granting Councils Initiative (SGCI) is a continental platform of 20 national Science Granting Councils that support research and innovation aligned with national and regional development priorities. Through this call, SGCI is supporting collaborative research that contributes to the implementation of STISA-2034 across five priority thematic streams: Agriculture, Health, Artificial Intelligence, Energy, and Environment.
+Funded by:
+Participating African Science Granting Councils
+The International Development Research Centre (IDRC)
+The Government of Norway, the United Kingdom’s Foreign, Commonwealth and Development Office (FCDO)
+Wellcome
+The call seeks to generate high-quality, policy-relevant research, strengthen regional partnerships, and accelerate the uptake of research evidence to support inclusive and sustainable development across Africa
+How to apply
+To submit an Expression of Interest, applicants must complete and submit their application through the SurveyMonkey Apply (SMA) portal. Click the "Get started" button below to access the application portal.
+Ready to apply?
+To apply for this funding opportunity, you’ll need an account on SurveyMonkey Apply. If you don’t have an account yet, or need help with your existing one, please refer to our Account setup guide .
+Get started
+Share this page
 Stay connected.
 Subscribe
 IDRC / Eduardo Jalil, Panos Pictures

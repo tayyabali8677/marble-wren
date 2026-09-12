@@ -68,6 +68,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -131,7 +132,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 Entrance scholarships
 Scholarships allow us to celebrate and recognize your achievements! Entrance scholarships are available if you're starting full-time first-year degree studies and are beginning university or college for the first time.
 Scholarships are awarded primarily on academic and personal achievement. Bursaries , another type of assistance, are awarded based on financial need.
@@ -645,6 +645,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -708,7 +709,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 Applying to Waterloo
 Admission requirements
 View our requirements which range from high 70s to the mid-90s.
@@ -851,6 +851,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -914,7 +915,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 Admission Requirements
 • Tips on understanding admission requirements .
 • Don't see your program of interest listed below?
@@ -1062,6 +1062,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1125,7 +1126,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 English language requirements
 English is the language of instruction at the University of Waterloo. Success in our programs requires a high level of English language proficiency.
 Do you need to take a language test?
@@ -1341,6 +1341,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1404,7 +1405,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 How to apply
 If you plan to be a full-time student, you'll apply to Waterloo through the Ontario Universities' Application Centre (OUAC).
 Applying through the OUAC makes it easier for you to apply to multiple programs at Waterloo or other Ontario universities. The OUAC will send your application information to each Ontario university you apply to.
@@ -1630,6 +1630,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
+Online info sessions and webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1693,7 +1694,6 @@ Counsellor updates
 Counsellor newsletter
 Counsellor information session in Ottawa – November 6
 Online information session for counsellors in Canada
-Request brochures
 Application and document deadlines
 There are two key deadlines for most programs: an application deadline and one to submit documents such as transcripts.
 Program(s)
@@ -1822,7 +1822,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-18 + 0 =
+12 + 2 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank
