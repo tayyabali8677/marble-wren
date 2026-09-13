@@ -3630,5 +3630,12 @@
     "country": "International",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Extracted from EduCanada featured scholarship listings."
+  },
+  {
+    "slug": "university-of-toronto-mastercard-foundation-doctor-of-public-health-scholarship",
+    "name": "University of Toronto Mastercard Foundation Doctor of Public Health Scholarship",
+    "country": "Canada",
+    "url": "https://youthop.com/scholarships",
+    "note": "Extracted from Youth Opportunities platform listing; official university application link should be verified directly on the University of Toronto website."
   }
 ]
