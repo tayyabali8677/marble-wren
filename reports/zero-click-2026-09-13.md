@@ -22,8 +22,8 @@ Getting impressions but zero clicks. Google is showing these and searchers are s
 
 | URL | Impressions | Avg position | Age (days) |
 |-----|-------------|--------------|------------|
-| https://titansabroad.org/blog/cost-of-living-tbilisi-pakistan-students-2026 | 327 | 6.2 | 120 |
-| https://titansabroad.org/blog/mbbs-in-azerbaijan-universities-comparison-2026 | 30 | 4.3 | 120 |
+| https://titansabroad.org/blog/cost-of-living-tbilisi-pakistan-students-2026 | 348 | 6.1 | 120 |
+| https://titansabroad.org/blog/mbbs-in-azerbaijan-universities-comparison-2026 | 35 | 4.3 | 120 |
 
 ## No Search Console Data (14)
 

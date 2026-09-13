@@ -1,8 +1,8 @@
 # Striking Distance: 2026-09-13
 
 **Period:** last 28 days
-**Queries at position 8 to 20:** 90 across 63 pages
-**Rough upside if all reached position 5:** 151 clicks a month
+**Queries at position 8 to 20:** 85 across 67 pages
+**Rough upside if all reached position 5:** 145 clicks a month
 
 These already rank. Google has decided the page is relevant and put it just outside where anyone looks. Getting one of these onto page one is usually a title and heading change, not new content.
 
@@ -10,48 +10,48 @@ These already rank. Google has decided the page is relevant and put it just outs
 
 | Query | Page | Position | Impressions | Clicks | Upside at pos 5 |
 |-------|------|----------|-------------|--------|-----------------|
-| lester b pearson scholarship | /scholarships/lester-b-pearson-international-scholarship-canada | 8.6 | 251 | 0 | +8 |
-| mudanjiang medical university | /mbbs-in-china/non-moe/mudanjiang-medical-university | 8.0 | 219 | 7 | +7 |
-| %stipendium hungaricum 2026 egypt 65-75 students quota acceptance | /scholarships/stipendium-hungaricum | 10.7 | 125 | 0 | +7 |
-| mbbs in china for pakistani students | /mbbs-in-china | 10.9 | 102 | 0 | +6 |
-| taiwan government scholarship | /scholarships/taiwan-government-scholarship-taiwan | 8.2 | 163 | 7 | +5 |
-| aiu scholarships | /scholarships/aiu-malaysia-scholarship | 10.8 | 74 | 0 | +4 |
+| berklee college of music | /scholarships/berklee-college-of-music-international-scholarships | 8.5 | 280 | 0 | +8 |
+| mudanjiang medical university | /mbbs-in-china/non-moe/mudanjiang-medical-university | 8.0 | 225 | 7 | +7 |
+| %stipendium hungaricum 2026 egypt 65-75 students quota acceptance | /scholarships/stipendium-hungaricum | 10.6 | 126 | 0 | +7 |
+| taiwan government scholarship | /scholarships/taiwan-government-scholarship-taiwan | 8.1 | 176 | 8 | +5 |
+| aiu scholarships | /scholarships/aiu-malaysia-scholarship | 10.8 | 75 | 0 | +4 |
+| confucius institute | /scholarships/confucius-institute-scholarship-cis | 8.0 | 124 | 0 | +4 |
 | czech republic developing countries phd scholarships | /scholarships/czech-government-scholarship-czech-republic | 11.3 | 74 | 0 | +4 |
-| iccr scholarship | /scholarships/india-iccr-scholarship | 11.7 | 62 | 0 | +4 |
-| kgsp | /scholarships/gks-korea-scholarship | 10.5 | 117 | 0 | +4 |
-| nakhchivan state university | /blog/mbbs-in-azerbaijan-nsu-complete-guide-2026 | 10.4 | 75 | 2 | +3 |
-| silk road scholarship | /scholarships/china-silk-road-scholarship | 8.1 | 110 | 1 | +3 |
-| berklee college of music | /scholarships/berklee-college-of-music-international-scholarships | 8.7 | 87 | 0 | +3 |
+| iccr scholarship | /scholarships/india-iccr-scholarship | 12.5 | 64 | 0 | +4 |
+| nakhchivan state university | /blog/mbbs-in-azerbaijan-nsu-complete-guide-2026 | 10.2 | 93 | 2 | +3 |
+| islamic university of madinah | /scholarships/islamic-university-madinah-scholarship | 8.7 | 79 | 1 | +3 |
+| yichun university | /mbbs-in-china/universities/yichun-university | 9.7 | 77 | 1 | +3 |
+| daad epos scholarship | /scholarships/daad-epos-scholarship-germany | 8.2 | 93 | 0 | +3 |
 | educanada scholarships | /scholarships/educanada-international-scholarships | 8.2 | 109 | 0 | +3 |
-| mbbs scholarships for pakistani students | / | 15.5 | 27 | 2 | +2 |
-| jica scholarship | /scholarships/japan-jica-scholarship | 8.4 | 60 | 1 | +2 |
+| mbbs scholarships for pakistani students | / | 16.3 | 28 | 2 | +2 |
+| hong kong phd fellowship scheme | /scholarships/hong-kong-phd-fellowship-scheme-hkpfs | 8.4 | 83 | 1 | +2 |
 
 ## By Page
 
 ### /scholarships/aiu-malaysia-scholarship
 
-**6 queries in striking distance, worth roughly 10 clicks a month.**
+**6 queries in striking distance, worth roughly 11 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| aiu scholarships | 10.8 | 74 |
-| albukhary international university scholarship | 8.3 | 54 |
-| aiu scholarship | 10.1 | 22 |
+| aiu scholarships | 10.8 | 75 |
+| albukhary international university | 16.6 | 27 |
+| albukhary international university scholarship | 8.2 | 61 |
+| aiu scholarship | 9.7 | 25 |
 | al bukhari scholarship malaysia | 8.9 | 16 |
-| albukhary international university | 17.5 | 22 |
 | albukhary scholarship malaysia | 8.1 | 23 |
 
 Start by getting "aiu scholarships" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /scholarships/lester-b-pearson-international-scholarship-canada
+### /scholarships/berklee-college-of-music-international-scholarships
 
 **1 query in striking distance, worth roughly 8 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| lester b pearson scholarship | 8.6 | 251 |
+| berklee college of music | 8.5 | 280 |
 
-Start by getting "lester b pearson scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "berklee college of music" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/stipendium-hungaricum
 
@@ -59,8 +59,8 @@ Start by getting "lester b pearson scholarship" into the page title and an H2, t
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| %stipendium hungaricum 2026 egypt 65-75 students quota acceptance | 10.7 | 125 |
-| hungary medicine scholarship | 8.8 | 17 |
+| %stipendium hungaricum 2026 egypt 65-75 students quota acceptance | 10.6 | 126 |
+| hungary medicine scholarship | 8.5 | 20 |
 
 Start by getting "%stipendium hungaricum 2026 egypt 65-75 students quota acceptance" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
@@ -70,31 +70,9 @@ Start by getting "%stipendium hungaricum 2026 egypt 65-75 students quota accepta
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| mudanjiang medical university | 8.0 | 219 |
+| mudanjiang medical university | 8.0 | 225 |
 
 Start by getting "mudanjiang medical university" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
-
-### /mbbs-in-china
-
-**2 queries in striking distance, worth roughly 7 clicks a month.**
-
-| Query | Position | Impressions |
-|-------|----------|-------------|
-| mbbs in china for pakistani students | 10.9 | 102 |
-| fully funded scholarship for mbbs in china 2026 | 8.5 | 37 |
-
-Start by getting "mbbs in china for pakistani students" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
-
-### /scholarships/gks-korea-scholarship
-
-**2 queries in striking distance, worth roughly 6 clicks a month.**
-
-| Query | Position | Impressions |
-|-------|----------|-------------|
-| kgsp | 10.5 | 117 |
-| kgsp scholarship | 14.7 | 29 |
-
-Start by getting "kgsp" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/taiwan-government-scholarship-taiwan
 
@@ -102,9 +80,32 @@ Start by getting "kgsp" into the page title and an H2, then make sure the sectio
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| taiwan government scholarship | 8.2 | 163 |
+| taiwan government scholarship | 8.1 | 176 |
 
 Start by getting "taiwan government scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+
+### /scholarships/belgium-government-ares-scholarship-belgium
+
+**4 queries in striking distance, worth roughly 5 clicks a month.**
+
+| Query | Position | Impressions |
+|-------|----------|-------------|
+| belgium government scholarship | 11.9 | 41 |
+| ares belgium | 9.4 | 16 |
+| ares belgium government scholarships | 9.4 | 19 |
+| ares scholarship | 9.4 | 32 |
+
+Start by getting "belgium government scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+
+### /scholarships/confucius-institute-scholarship-cis
+
+**1 query in striking distance, worth roughly 4 clicks a month.**
+
+| Query | Position | Impressions |
+|-------|----------|-------------|
+| confucius institute | 8.0 | 124 |
+
+Start by getting "confucius institute" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/czech-government-scholarship-czech-republic
 
@@ -122,20 +123,20 @@ Start by getting "czech republic developing countries phd scholarships" into the
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| iccr scholarship | 11.7 | 62 |
+| iccr scholarship | 12.5 | 64 |
 
 Start by getting "iccr scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /scholarships/china-silk-road-scholarship
+### /mbbs-in-china/universities/yichun-university
 
 **2 queries in striking distance, worth roughly 4 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| silk road scholarship | 8.1 | 110 |
-| silk road scholarship china | 10.8 | 16 |
+| yichun university | 9.7 | 77 |
+| yichun medical university | 9.9 | 17 |
 
-Start by getting "silk road scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "yichun university" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/belgium-ares-scholarship
 
@@ -143,35 +144,11 @@ Start by getting "silk road scholarship" into the page title and an H2, then mak
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| belgium government scholarship | 11.2 | 40 |
+| belgium government scholarship | 11.0 | 41 |
 | ares scholarship belgium | 8.6 | 18 |
-| government of belgium scholarship | 8.1 | 23 |
+| government of belgium scholarship | 8.1 | 25 |
 
 Start by getting "belgium government scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
-
-### /scholarships/belgium-government-ares-scholarship-belgium
-
-**3 queries in striking distance, worth roughly 4 clicks a month.**
-
-| Query | Position | Impressions |
-|-------|----------|-------------|
-| belgium government scholarship | 12.3 | 39 |
-| ares belgium government scholarships | 9.5 | 17 |
-| ares scholarship | 9.4 | 32 |
-
-Start by getting "belgium government scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
-
-### /scholarships/yale-international-financial-aid
-
-**3 queries in striking distance, worth roughly 4 clicks a month.**
-
-| Query | Position | Impressions |
-|-------|----------|-------------|
-| is yale need blind for international students | 8.1 | 61 |
-| financial aid for international students | 8.3 | 20 |
-| is yale need blind | 8.1 | 19 |
-
-Start by getting "is yale need blind for international students" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /blog/mbbs-in-azerbaijan-nsu-complete-guide-2026
 
@@ -179,19 +156,29 @@ Start by getting "is yale need blind for international students" into the page t
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| nakhchivan state university | 10.4 | 75 |
+| nakhchivan state university | 10.2 | 93 |
 
 Start by getting "nakhchivan state university" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /scholarships/berklee-college-of-music-international-scholarships
+### /scholarships/islamic-university-madinah-scholarship
 
 **1 query in striking distance, worth roughly 3 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| berklee college of music | 8.7 | 87 |
+| islamic university of madinah | 8.7 | 79 |
 
-Start by getting "berklee college of music" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "islamic university of madinah" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+
+### /scholarships/daad-epos-scholarship-germany
+
+**1 query in striking distance, worth roughly 3 clicks a month.**
+
+| Query | Position | Impressions |
+|-------|----------|-------------|
+| daad epos scholarship | 8.2 | 93 |
+
+Start by getting "daad epos scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/educanada-international-scholarships
 
@@ -203,16 +190,16 @@ Start by getting "berklee college of music" into the page title and an H2, then 
 
 Start by getting "educanada scholarships" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /mbbs-in-china/universities/yichun-university
+### /scholarships/hong-kong-phd-fellowship-scheme-hkpfs
 
 **2 queries in striking distance, worth roughly 3 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| yichun university | 9.5 | 72 |
-| yichun medical university | 9.9 | 17 |
+| hong kong phd fellowship scheme | 8.4 | 83 |
+| hong kong phd fellowship scheme 2026 27 | 8.8 | 26 |
 
-Start by getting "yichun university" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "hong kong phd fellowship scheme" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ### /scholarships/swiss-government-excellence-scholarships-switzerland
 
@@ -225,29 +212,37 @@ Start by getting "yichun university" into the page title and an H2, then make su
 
 Start by getting "go eskas" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /scholarships/mext-scholarship-japan
+### /scholarships/chinese-government-scholarship-csc
 
 **3 queries in striking distance, worth roughly 3 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| mext masters scholarship | 9.0 | 23 |
-| mext scholarship | 19.4 | 22 |
-| mext scholarship last date | 8.6 | 16 |
+| csc china | 8.6 | 18 |
+| csc scholarship | 11.3 | 20 |
+| does csc scholarship cover airfare | 8.8 | 21 |
 
-Start by getting "mext masters scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "csc china" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
-### /scholarships/saudi-arabia-government-scholarship
+### /
 
-**3 queries in striking distance, worth roughly 3 clicks a month.**
+**1 query in striking distance, worth roughly 2 clicks a month.**
 
 | Query | Position | Impressions |
 |-------|----------|-------------|
-| read infos saudi arabia scholarship | 8.6 | 17 |
-| saudi arabia scholarship for pakistani students 2026 | 10.1 | 36 |
-| mbbs in saudi arabia for pakistani students | 9.3 | 25 |
+| mbbs scholarships for pakistani students | 16.3 | 28 |
 
-Start by getting "read infos saudi arabia scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+Start by getting "mbbs scholarships for pakistani students" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
+
+### /scholarships/japan-jica-scholarship
+
+**1 query in striking distance, worth roughly 2 clicks a month.**
+
+| Query | Position | Impressions |
+|-------|----------|-------------|
+| jica scholarship | 8.9 | 67 |
+
+Start by getting "jica scholarship" into the page title and an H2, then make sure the section under that heading answers it directly in the first two sentences.
 
 ---
 

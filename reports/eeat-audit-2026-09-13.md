@@ -1,20 +1,20 @@
 # E-E-A-T Signals: 2026-09-13
 
-**Substantial pages checked (400+ words):** 849
-**No named author:** 826
-**No visible date:** 848
-**No citation to a primary source:** 771
+**Substantial pages checked (400+ words):** 470
+**No named author:** 457
+**No visible date:** 469
+**No citation to a primary source:** 405
 **Newest date on the page is a past year, with no update stamp:** 0
 
 These are signals, not verdicts. A page can be authoritative without a byline. But on a topic where a wrong figure costs a reader years, the absence of an author, a date, and a source is the gap Google's raters are trained to notice, and it is cheap to close.
 
-## Weakest On Trust Signals (849)
+## Weakest On Trust Signals (470)
 
 Ranked by how many of the three signals are missing, then by length, so the longest pages carrying real advice with the least backing come first.
 
 | Page | Words | Author | Date | Citations |
 |---|---|---|---|---|
-| /scholarships/international | 39219 | **no** | **no** | **0** |
+| /scholarships/international | 18740 | **no** | **no** | **0** |
 | /mbbs-in-china/moe-listed/shanghai-jiao-tong-university | 6044 | **no** | **no** | **0** |
 | /mbbs-in-china/moe-listed/dalian-medical-university | 5978 | **no** | **no** | **0** |
 | /mbbs-in-china/moe-listed/xiamen-university | 5803 | **no** | **no** | **0** |
@@ -45,7 +45,7 @@ Ranked by how many of the three signals are missing, then by length, so the long
 | /mbbs-in-china/moe-listed/hust-tongji-medical-college | 4747 | **no** | **no** | **0** |
 | /mbbs-in-china/moe-listed/zhengzhou-university | 4742 | **no** | **no** | **0** |
 
-*819 more with at least one gap.*
+*440 more with at least one gap.*
 
 ---
 

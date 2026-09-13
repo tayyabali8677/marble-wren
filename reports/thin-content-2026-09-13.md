@@ -1,6 +1,6 @@
 # Thin and Placeholder Content: 2026-09-13
 
-**Pages checked:** 849
+**Pages checked:** 470
 
 ## Summary
 
@@ -9,7 +9,7 @@
 | Empty page saying content is coming | 0 |
 | Full page containing the phrase | 5 |
 | Under 250 words | 0 |
-| Missing meta description | 1 |
+| Missing meta description | 0 |
 
 ---
 
@@ -20,16 +20,10 @@ These have real content, so the phrase is probably a badge on a card or a single
 | Page | Found | Words |
 |------|-------|-------|
 | /mbbs-in-china/universities | "coming soon" | 1097 |
-| /scholarships/national | "Coming Soon" | 1781 |
-| /scholarships/international | "Coming Soon" | 39219 |
+| /scholarships/national | "Coming Soon" | 1122 |
+| /scholarships/international | "Coming Soon" | 18740 |
 | /mbbs-in-china/moe-listed/guangxi-medical-university | "under construction" | 5559 |
 | /mbbs-in-china/moe-listed/anhui-medical-university | "under construction" | 4942 |
-
-## Missing Meta Description (1)
-
-Google writes its own snippet when this is absent, and it is usually worse than one you choose.
-
-- /scholarships/itb-international-undergraduate-scholarship-2026-indonesia
 
 ---
 

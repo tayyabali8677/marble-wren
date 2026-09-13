@@ -1,6 +1,6 @@
 # Accessibility Audit: 2026-09-13
 
-**Pages checked:** 849
+**Pages checked:** 470
 **Missing an html lang attribute:** 0
 **Images with no alt attribute:** 0
 **Links with vague text:** 0

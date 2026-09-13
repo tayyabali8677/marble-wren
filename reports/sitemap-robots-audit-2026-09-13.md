@@ -1,6 +1,6 @@
 # Sitemap / Robots.txt Consistency: 2026-09-13
 
-**Sitemap URLs:** 849
+**Sitemap URLs:** 470
 **Disallow rules checked:** 3
 **Sitemap URLs blocked by robots.txt:** 0
 

@@ -1,6 +1,6 @@
 # Fact Drift: 2026-09-13
 
-**Pages checked:** 849
+**Pages checked:** 470
 **Template leftovers:** 0
 **Contradicting counts:** 0
 **Fee ranges disagreeing with their own detail pages:** 2

@@ -1,7 +1,7 @@
 # Link Health: 2026-09-13
 
-**Pages crawled:** 849
-**External link targets checked:** 1035
+**Pages crawled:** 470
+**External link targets checked:** 545
 
 ## Summary
 
@@ -10,11 +10,11 @@
 | Pages not returning 200 | 0 |
 | Sitemap URLs that redirect | 0 |
 | Broken internal links | 0 |
-| Broken external links | 355 |
+| Broken external links | 289 |
 
 ---
 
-## Broken External Links (355)
+## Broken External Links (289)
 
 These point off-site, to things like university pages, application portals, or scholarship sites. A dead one here sits on the page where a student is trying to take the one action that matters.
 
@@ -25,12 +25,12 @@ These point off-site, to things like university pages, application portals, or s
 | /blog/digiskills-pakistan-free-courses-guide-2026 | https://digiskills.pk/WhatsDigiSkills.aspx | no response |
 | /blog/ef-set-english-test-guide-pakistan-2026 | https://www.coe.int/en/web/common-european-framework-reference-languages | 403 |
 | /blog/mbbs-in-georgia-for-indian-students-2026 | https://www.nmc.org.in/ | no response |
-| /scholarships/chinese-government-scholarship-csc | https://www.campuschina.org/ | no response |
+| /scholarships/chinese-government-scholarship-csc | https://www.campuschina.org/ | 412 |
 | /scholarships/chinese-government-scholarship-csc | https://scholarship.hec.gov.pk/ | no response |
 | /scholarships/chinese-government-scholarship-csc | https://laihua.moe.edu.cn/ | no response |
 | /scholarships/chinese-government-scholarship-csc | https://www.pakbj.com.pk/ | no response |
 | /scholarships/shanghai-government-scholarship | https://studyinshanghai.com.cn/ | no response |
-| /scholarships/shanghai-government-scholarship | https://www.campuschina.org/ | no response |
+| /scholarships/shanghai-government-scholarship | https://www.campuschina.org/ | 412 |
 | /scholarships/shanghai-government-scholarship | https://www.pakbj.com.pk/ | no response |
 | /scholarships/russian-government-scholarship | https://scholarship.hec.gov.pk/ | no response |
 | /scholarships/russian-government-scholarship | https://mofa.gov.pk/russia/ | no response |
@@ -60,12 +60,12 @@ These point off-site, to things like university pages, application portals, or s
 | /scholarships/imat-italy-mbbs | https://scholarship.hec.gov.pk/ | no response |
 | /scholarships/imat-italy-mbbs | https://www.pakembassy.it/ | no response |
 | /scholarships/imat-italy-mbbs | https://www.esteri.it/en/diplomatic-consular-network/italian-embassies-and-consulates-in-the-world/ | 404 |
-| /scholarships/hec-need-based-scholarship | https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/default.aspx | no response |
-| /scholarships/hec-need-based-scholarship | https://scholarship.hec.gov.pk/ | no response |
-| /scholarships/hec-need-based-scholarship | https://www.hec.gov.pk/english/hec/contactus/Pages/default.aspx | no response |
 | /scholarships/open-doors-russia | https://od.globaluni.ru/universities | 404 |
 | /scholarships/open-doors-russia | https://mofa.gov.pk/russia/ | no response |
 | /scholarships/open-doors-russia | https://www.mid.ru/en/maps/countries/ | 404 |
+| /scholarships/hec-need-based-scholarship | https://www.hec.gov.pk/english/scholarshipsgrants/NBS/Pages/default.aspx | no response |
+| /scholarships/hec-need-based-scholarship | https://scholarship.hec.gov.pk/ | no response |
+| /scholarships/hec-need-based-scholarship | https://www.hec.gov.pk/english/hec/contactus/Pages/default.aspx | no response |
 | /scholarships/honhar-scholarship-punjab | https://honhaarscholarship.punjabhec.gov.pk/ | no response |
 | /scholarships/honhar-scholarship-punjab | https://punjabhec.gov.pk/ | 403 |
 | /scholarships/peef-special-quota | https://student.peef.org.pk/specialquotaRegistration/SQFormEntry.aspx | no response |
