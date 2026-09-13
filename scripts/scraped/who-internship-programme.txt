@@ -538,15 +538,11 @@ WHO
 ===== SOURCE PAGE: https://www.who.int/mega-menu/about-us/who-funding =====
 How WHO is funded
 Skip to main content
+World Health Organization
 Global
 Regions
+World Health Organization
 WHO Regional websites
-Africa
-Americas
-South-East Asia
-Europe
-Eastern Mediterranean
-Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
@@ -738,17 +734,6 @@ cover less than 20% of the total budget.
 The remainder of WHO&rsquo;s financing is in the form of voluntary contributions (VC) , largely from Member States as well as from other United Nations organizations, intergovernmental organizations, philanthropic foundations, the private
 sector, and other sources.
 Assessed contributions
-Flexible funding
-Invest in WHO
-Our contributors
-Sustainable financing
-Investment case 2025&ndash;2028
-Donate to WHO
-Assessed contributions
-Assessed contributions are the dues countries pay in order to be a member of the Organization. The amount each Member State must pay is calculated relative to the country's wealth and population.
-Assessed contributions have declined as an overall percentage of the Programme Budget and have, for several years, accounted for less than one quarter of the Organization&rsquo;s financing. The balance is mobilized through voluntary contributions.
-However, assessed contributions remain a key source of financing for the Organization, providing a level of predictability, helping to minimize dependence on a narrow donor base, and allowing resources to be aligned to the Programme Budget.
-&rarr; Read more about assessed contributions
 Voluntary contributions
 Voluntary contributions come from Member States (in addition to their assessed contribution) or from other partners. In recent years, voluntary contributions have accounted for more than three quarters of the Organization's financing.
 Voluntary contributions (VC) are further categorized based on the degree of flexibility WHO has in deciding how to spend these funds:
