@@ -62,14 +62,18 @@ async function main() {
   const supabase = createClient(supaUrl, supaKey);
 
   // Query scholarship counts
-  const { data: allRows } = await supabase
+  const { data: allRows, error: fetchError } = await supabase
     .from("scholarships")
     .select("application_status, funding_type, country")
     .eq("status", "published")
     .eq("listed", true);
 
   if (!allRows) {
-    console.error("Failed to fetch scholarship counts");
+    // The actual Supabase/PostgREST error was previously discarded here,
+    // leaving every failed run with nothing but "Failed to fetch scholarship
+    // counts" to go on - not enough to tell an auth problem from a schema
+    // mismatch from a network blip. Logging the real error object fixes that.
+    console.error("Failed to fetch scholarship counts:", fetchError);
     process.exit(1);
   }
 
