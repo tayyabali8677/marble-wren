@@ -517,11 +517,11 @@ Economics and Electronic Commerce
 Education Innovation
 34
 General Science
-151
+152
 Hardware and Architecture
 126
 Health & Bioscience
-115
+116
 Human-Computer Interaction and Visualization
 283
 Information Retrieval and the Web
@@ -529,7 +529,7 @@ Information Retrieval and the Web
 Machine Intelligence
 1000
 Machine Learning
-196
+197
 Machine Perception
 421
 Machine Translation
@@ -545,7 +545,7 @@ Operating Systems
 Quantum Computing
 63
 Responsible AI
-83
+84
 Robotics
 73
 Security, Privacy and Abuse Prevention
@@ -556,7 +556,7 @@ Software Systems
 217
 Speech Processing
 155
-1 - 30 of 2192 researchers
+1 - 30 of 2194 researchers
 chip template
 Remove
 Martín Abadi
@@ -587,24 +587,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
+Anmol Agarwal
+Natural Language Processing
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -613,6 +613,12 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Shreya Agrawal
 General Science
 Machine Intelligence
@@ -620,12 +626,6 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -661,11 +661,11 @@ Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
+Zafarali Ahmed
+Machine Intelligence
 Mustaq Ahmed
 Algorithms and Theory
 Networking
-Zafarali Ahmed
-Machine Intelligence
 1
 2
 3

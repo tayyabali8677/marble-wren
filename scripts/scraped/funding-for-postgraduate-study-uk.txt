@@ -1588,13 +1588,6 @@ Funding amount:
 Deadline:
 Not specified
 Request info Visit website
-Distance Learning (DL) Sanctuary Awards
-University of Leicester
-Award criteria:
-Part time students
-Deadline:
-Not specified
-Request info Visit website
 The Professor Brenda Barrett Bursaries
 Middlesex University
 Award criteria:
@@ -1604,21 +1597,30 @@ Funding amount:
 Deadline:
 Not specified
 Request info Visit website
-30% Final Year Undergraduate Continuation Scholarship
-University of East Anglia UEA
+Distance Learning (DL) Sanctuary Awards
+University of Leicester
 Award criteria:
-Academic excellence
-Funding amount:
-30% of fees
+Part time students
 Deadline:
 Not specified
 Request info Visit website
-International Early Payment Awards (September Start)
-University of East Anglia UEA
+Vice-Chancellor&#x27;s Scholarship
+Bristol, UWE
 Award criteria:
 Mature students
+Funding amount:
+50% of fees
 Deadline:
-Not specified
+31-May-26, 30-Jun-26
+Request info Visit website
+UWE Cares PG Bursary
+Bristol, UWE
+Award criteria:
+Mature students
+Funding amount:
+50% of fees
+Deadline:
+27-Aug-26
 Request info Visit website
 1
 2

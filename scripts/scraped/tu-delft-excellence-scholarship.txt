@@ -67,7 +67,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -278,7 +278,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -305,7 +305,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -927,7 +927,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
