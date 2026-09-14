@@ -637,7 +637,7 @@ Apply direct
 Apply through TISC Accept your offer
 You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
 Accept your offer
-Ready to apply?
+MAKE A MARK, SOONER
 Applications are open! Apply now to secure your place at UWA and start planning your future.
 Apply now
 Loading component...
@@ -745,7 +745,7 @@ Study
 How to apply
 Undergraduate
 Are you an international student?
-Applying to UWA is different from domestic applications. Find out what you need to do to get started.
+Applying to UWA is for international applicants. Find out what you need to do to get started.
 Entry pathways
 There are many ways to start your journey at UWA. Explore our entry pathways and find the right fit for you.
 Important dates Staying on top of key dates is essential when applying to UWA. From application opening and closing dates to offer release periods and enrolment deadlines, knowing what’s coming up helps you plan with confidence. Be sure to check the schedule relevant to your course and applicant type so you don’t miss a thing.
@@ -817,12 +817,13 @@ Save or submit your application
 If you’re a Domestic student applying for the Doctor of Medicine , then you’ll need to apply through the Graduate Entry Medical School Admissions System (GEMAS)
 Apply now Accept your offer
 You’ll receive the outcome of your application via email. If your application is successful, you can login to UWA Apply to accept your offer.
+Accept your offer
 Are you an international student?
 Applying to UWA is different from domestic applications. Find out what you need to do to get started.
 How to apply
 Application dates
 Loading component...
-Ready to apply?
+MAKE A MARK, SOONER
 Applications are open! Apply now to secure your place at UWA and start planning your future.
 Apply now
 Loading component...
@@ -1187,8 +1188,7 @@ Applications are open! Apply now to secure your place at UWA and start planning 
 Apply now
 Research scholarships Learn about the range of scholarships available to both domestic and international students.
 Learn more about research scholarships Search scholarships
-Partially completed research degree
-Applying for admission with a partially completed research degree from another university
+Partially completed research degree Applying for admission with a partially completed research degree from another university
 Research students are welcome to apply for a place at UWA based on current or previous enrolment in a partially completed program, noting:
 candidature time already used will normally be deducted from the candidature time limit for the degree at UWA,
 evidence of withdrawal from the current enrolment including the amount of EFTSL consumed will be required prior to commencement at UWA,

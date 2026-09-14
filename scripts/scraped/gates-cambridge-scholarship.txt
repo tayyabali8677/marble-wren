@@ -153,14 +153,14 @@ Programme
 The Scholarship
 Overview
 The Gates Cambridge mission is to build a global network of future leaders committed to improving the lives of others.
-Each year Gates Cambridge offers around 80 full-cost scholarships to outstanding applicants from countries outside the UK to pursue a postgraduate degree in any subject available at the University of Cambridge. Approximately two-thirds of these awards will be offered to PhD students, with approximately 25 awards available in the US round and 55 available in the International round.
+Each year Gates Cambridge offers around 70 full-cost scholarships to outstanding applicants from countries outside the UK to pursue a postgraduate degree in any subject available at the University of Cambridge. Approximately two-thirds of these awards will be offered to PhD students, with approximately a third of awards available in the US round and the rest available in the International round.
 The selection criteria are:
 outstanding intellectual ability
 reasons for choice of course
 a commitment to improving the lives of others
 leadership potential
 There are approximately 250 Scholars studying in Cambridge at any one time who pursue the full range of subjects available at the University and are spread across its departments and Colleges, as well as forming their own distinctive community.
-There is also a community of more than 1,700 Gates Cambridge Scholar Alumni from 112 countries.
+There is also a community of more than 1,700 Gates Cambridge Scholar Alumni from 116 countries.
 The Gates Cambridge Scholarship programme was established in October 2000 by an historic donation of US$210m from the Gates Foundation to the University of Cambridge. The first class of scholars came into residence in October 2001. Bill Gates Sr. [pictured below with Scholars], who served as a Trustee for 12 years, was a driving force in the process and a champion of the Scholars. Asked in an interview about what makes him speechless, he replied: “My trips to Cambridge to meet Gates Cambridge Scholars”.
 Funding
 A Gates Cambridge Scholarship covers the full cost of studying at Cambridge. It also provides additional discretionary funding.
@@ -627,7 +627,7 @@ Timeline
 Home
 Apply
 Timeline
-Applications for entry in the academic year 2026/7 are now closed. Applications will open again on 11th September 2026 for entry in the academic year 2027/8.
+Applications for entry in the academic year 2027/8 are now open.
 Gates Cambridge manages two selection rounds each year; full details are below.
 If, after reading the details below, you are not sure in which round you should apply please email info@gatescambridge.org with details.
 You may be eligible for other funding offered by the University of Cambridge. See www.student-funding.cam.ac.uk for more details.
@@ -639,7 +639,7 @@ Students meeting these criteria must apply in October and submit all their docum
 US citizens who are studying/working overseas at the time of application should apply in the later round (see below).
 What stage?
 Date
-Applications open*
+Applications open
 11th September 2026
 Application deadline
 Wednesday 14th October 2026 (Full application must be submitted by 11:59pm UK time on the date given)
@@ -659,7 +659,7 @@ The large majority of applicants will apply in this round, which is aligned with
 Please apply by the Course Funding Deadline referenced in the University Course Directory (found in the column on the right of the web page).  All application documents should be submitted by 11:59pm UK time on the stated date.
 What stage?
 Date
-Applications open*
+Applications open
 11th September 2026
 Application deadline*
 Dependent on your course &#8211; either Tuesday 8th December 2026 or Wednesday 6th January 2027 (see Course Directory ). (Full application must be submitted by 11:59pm UK time)
@@ -673,7 +673,7 @@ Scholarships offered
 by early April 2027
 Scholarships accepted
 72 hours after offer
-*These dates are set by the University of Cambridge postgraduate admissions office and may be subject to change.  Please refer to the postgraduate admissions web pages for up-to-date details.
+*Please refer to the postgraduate admissions web pages for up-to-date details.
 Top
 Programme
 The Scholarship

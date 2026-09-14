@@ -68,7 +68,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -645,7 +645,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -851,7 +851,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1062,7 +1062,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1341,7 +1341,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1630,7 +1630,7 @@ Tours and events
 All tours and events
 Campus tours
 Live virtual campus tours
-Online info sessions and webinars
+Webinars
 Grade 10 Info Night
 Waterloo recruitment presentation
 Enrichment programs
@@ -1822,7 +1822,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-9 + 1 =
+6 + 1 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

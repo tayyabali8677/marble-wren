@@ -347,6 +347,7 @@ Stay up to date
 By subscribing, you will receive periodic emails from Asia-Europe Foundation. The emails may include but are not limited to, updates on our activities and projects, organisation news, and other relevant information.
 We use HubSpot as our marketing platform. By subscribing to our newsletter, you acknowledge that your information will be transferred to HubSpot for processing.
 You have the option to unsubscribe from our newsletter at any time. Each email will include an unsubscribe link, or you can contact us directly at com@asef.org to be removed from our mailing list.
+[hubspot type="form" portal="21989743" id="5794dd58-d411-47aa-8dcd-1c57f7364841"]
 * indicates required
 Email Address *
 First Name

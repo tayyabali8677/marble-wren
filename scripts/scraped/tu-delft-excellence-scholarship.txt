@@ -54,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -278,7 +278,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -292,7 +292,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -500,7 +500,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
@@ -661,7 +661,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu sluiten
+Menu openen
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -914,7 +914,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1152,7 +1152,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
