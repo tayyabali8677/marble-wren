@@ -661,7 +661,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting
@@ -689,7 +689,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -1165,7 +1165,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
