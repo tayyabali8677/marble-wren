@@ -125,11 +125,6 @@ OUR WORK IS ALIGNED TO THE 2030 AGENDA FOR SUSTAINABLE DEVELOPMENT...
 View More +
 VIEW MORE +
 UPCOMING EVENTS
-14
-Sep
-2026
-15th ASEF Journalists Seminar (ASEFJS15)
-Bangkok, Thailand
 21
 Sep
 2026
@@ -314,6 +309,35 @@ Asia-Europe Foundation (ASEF).
 All Rights Reserved.
 Cookie Policy
 Privacy Policy
+Manage Cookie Consent
+We use cookies to optimize our website and our service.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept cookies
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent
 Search
 Home
 About Us
@@ -347,7 +371,6 @@ Stay up to date
 By subscribing, you will receive periodic emails from Asia-Europe Foundation. The emails may include but are not limited to, updates on our activities and projects, organisation news, and other relevant information.
 We use HubSpot as our marketing platform. By subscribing to our newsletter, you acknowledge that your information will be transferred to HubSpot for processing.
 You have the option to unsubscribe from our newsletter at any time. Each email will include an unsubscribe link, or you can contact us directly at com@asef.org to be removed from our mailing list.
-[hubspot type="form" portal="21989743" id="5794dd58-d411-47aa-8dcd-1c57f7364841"]
 * indicates required
 Email Address *
 First Name
@@ -585,6 +608,35 @@ Asia-Europe Foundation (ASEF).
 All Rights Reserved.
 Cookie Policy
 Privacy Policy
+Manage Cookie Consent
+We use cookies to optimize our website and our service.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept cookies
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent
 Search
 Home
 About Us

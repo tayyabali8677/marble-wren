@@ -346,23 +346,6 @@ FNRS.awards
 SVS
 SEN
 SHS
-In progress
-PDR-THEMA PFAS 2026 – Thematic Research Project : Per- and polyfluoroalkyl substances
-Category
-Awards & Philanthropic Funding
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-09 June 2026
-14:00
-Closing
-15 September 2026
-14:00
-Read more about PDR-THEMA PFAS 2026 – Thematic Research Project : Per- and polyfluoroalkyl substances
-FNRS.awards
-SVS
-SEN
-SHS
 Sustainability
 Art Research
 In progress
@@ -396,21 +379,6 @@ Closing
 Periodicity
 Exceptional
 Read more about RAMP JTC 2026 - Research and/or Innovation projects across the raw materials value chain
-International projects
-SHS
-In progress
-CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-01 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
 International projects
 SVS
 SEN
@@ -479,6 +447,21 @@ Closing
 30 September 2026
 14:00
 Read more about JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
+International projects
+SHS
+In progress
+CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+01 June 2026
+14:00
+Closing
+30 September 2026
+14:00
+Read more about CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
 WEAVE
 SVS
 SEN
@@ -554,6 +537,25 @@ Closing
 Periodicity
 Annual
 Read more about Biodiversa+ Call 26/27 - “Novel ecosystems: biodiversity, socio-ecological consequences and future trajectories (BiodivFuture)”
+International projects
+SEN
+SHS
+Sustainability
+In progress
+DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+01 September 2026
+08:00
+Closing
+24 November 2026
+14:00
+Periodicity
+Annual
+Read more about DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
 See all
 Télévie 2026: A massive thank you!
 The 2026 edition raised €13,459,073.87 for cancer research — a record since the launch of the initiative.
