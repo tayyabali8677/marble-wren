@@ -357,7 +357,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker
@@ -904,7 +904,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker
@@ -1437,7 +1437,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker
@@ -1998,7 +1998,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker
@@ -2428,7 +2428,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker
@@ -2859,7 +2859,7 @@ CGIAR Financial Report Dashboards
 Financing Plan
 CGIAR Trust Fund Dashboards
 Active Grants Dashboards
-CGIAR Workforce Dashboard
+CGIAR Staff Dashboard
 CGIAR Council Decision Register
 CGIAR Board Decision Register
 Evaluation & Management Response Actions Tracker

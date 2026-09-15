@@ -344,24 +344,6 @@ See all
 Calls and Fundings
 FNRS.awards
 SVS
-In progress
-Baillet Latour Biomedical Award 2027 : call for applications
-Category
-Awards & Philanthropic Funding
-Profile
-Postdoc (R2),
-Permanent research status (R3) and Senior research position (R4)
-Opening
-15 June 2026
-14:00
-Closing
-14 September 2026
-23:59
-Periodicity
-Annual
-Read more about Baillet Latour Biomedical Award 2027 : call for applications
-FNRS.awards
-SVS
 SEN
 SHS
 In progress
@@ -415,23 +397,6 @@ Periodicity
 Exceptional
 Read more about RAMP JTC 2026 - Research and/or Innovation projects across the raw materials value chain
 International projects
-SVS
-SEN
-SHS
-In progress
-JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-01 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
-International projects
 SHS
 In progress
 CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
@@ -468,6 +433,23 @@ SVS
 SEN
 SHS
 In progress
+CSIC (Spain) - Bilateral call with the Spanish National Research Council
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+15 June 2026
+14:00
+Closing
+30 September 2026
+14:00
+Read more about CSIC (Spain) - Bilateral call with the Spanish National Research Council
+International projects
+SVS
+SEN
+SHS
+In progress
 SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
 Category
 International & Mobility
@@ -485,18 +467,18 @@ SVS
 SEN
 SHS
 In progress
-CSIC (Spain) - Bilateral call with the Spanish National Research Council
+JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
 Category
 International & Mobility
 Profile
 Permanent research status (R3) and Senior research position (R4)
 Opening
-15 June 2026
+01 June 2026
 14:00
 Closing
 30 September 2026
 14:00
-Read more about CSIC (Spain) - Bilateral call with the Spanish National Research Council
+Read more about JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
 WEAVE
 SVS
 SEN
@@ -534,6 +516,25 @@ Closing
 05 November 2026
 14:00
 Read more about NRF (South Africa) - Bilateral call with The National Research Foundation
+International projects
+SEN
+SHS
+Sustainability
+In progress
+Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+08 September 2026
+08:00
+Closing
+18 November 2026
+14:00
+Periodicity
+Exceptional
+Read more about Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
 International projects
 SEN
 SHS
