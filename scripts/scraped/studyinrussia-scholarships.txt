@@ -59,8 +59,8 @@ Degree program Enter at least 2 characters
 University
 University Enter at least 2 characters
 Find
-Number of universities featured on the portal: 159
-Number of universities featured on the portal: 159
+Number of universities featured on the portal: 160
+Number of universities featured on the portal: 160
 Nothing found, try changing the query
 How to apply to a Russian university
 1
