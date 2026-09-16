@@ -3637,5 +3637,12 @@
     "country": "Canada",
     "url": "https://youthop.com/scholarships",
     "note": "Extracted from Youth Opportunities platform listing; official university application link should be verified directly on the University of Toronto website."
+  },
+  {
+    "slug": "netaji-subhas-icar-international-fellowship",
+    "name": "Netaji Subhas-ICAR International Fellowship",
+    "country": "India",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Extracted from EduCanada features list; specific ICAR application portal should be consulted."
   }
 ]
