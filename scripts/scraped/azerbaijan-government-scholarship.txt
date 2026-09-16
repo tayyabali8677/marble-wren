@@ -333,7 +333,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 7
+XƏBƏRLƏR 6
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓
