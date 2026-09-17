@@ -40,7 +40,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -54,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -117,60 +117,80 @@ City of Delft
 Elite sports and study
 Student Stories
 Scholarships
-Delft University of Technology (TU Delft) aims to attract the world’s brightest students to its international classrooms. For that reason, it has established several scholarship programmes specifically designed to offer talented and motivated international students the opportunity to pursue a MSc degree at TU Delft.
-Do you want to apply for a Scholarship?
-Submit your complete MSc application with the mandatory scholarship documents (including 2 reference letters and scholarship application form) before the deadline.
-Your MSc application will then be reviewed and an admission decision given; at that moment you will also be considered for a Scholarship.
-Not sure about the deadline?
-For the correct deadline check which deadline comes first ( MSc programme application deadline or Scholarship deadline).
-The first deadline is leading. Candidates must not wait for an admission decision to submit a scholarship application.
-Missed the deadline?
-If you wanted to apply for a scholarship but have missed the first deadline, your scholarship application will not be considered.
+Come to TU Delft with a Scholarship!
+At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
+The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
+Scholarship application form
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc Programme Scholarships – Academic Period 2027–2029
-Justus & Louise van Effen
-Excellence Scholarships
-Faculty specific scholarships, academic period 2027-2029
-Electrical Engineering, Mathematics and Computer Science
-Faculty scholarship: Microelectronics
-Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
+From Application to Award: The Scholarship Timeline
+Justus & Louise van Effen Excellence Scholarship?
+Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
+Take the next step: Explore this scholarship
+Number of scholarships 2 per faculty
 Eligibility
-Promising excellent international students and (conditionally) admitted to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
+You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
+Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
+You have submitted a complete MSc application before the scholarship deadline.
+Application deadline 1 December 2026 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload one reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality). Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Contribution for the living expenses.
+Awarding the scholarship Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Terms and conditions
+To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
+Financial extensions beyond the 2-year period are not supported by the scholarship.
+The student must remain enrolled at TU Delft during the scholarship period
+Full details will disclosed in the award letter.
+Student Experiences
+Kanza Zafar - Mechanical Engineering - Graduated 2026
+"I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey."
+Sarah Sultana - MSc Civil Engineering - Graduated 2026
+“ Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.”
+Sejal Budholiya - Master Strategic Product Design- Graduated 2025
+“This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I'd never studied before. Looking back, it's not just that it supported my studies. It changed how brave I was willing to be.”
+Eden Pfanner - Master Aerospace Engineering- Graduated 2025
+“The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.”
+Swetha Krishnan - Master Integrated Product Design - Graduated 2024
+“The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people's everyday lives.”
+Electrical Engineering Scholarship
+The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
+Take the next step: Explore this scholarship
+How many Scholarships? Up to two faculty scholarships offered by the Microelectronics research department
+Eligibility
+You are a promising excellent international student
+Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
+You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
+Application deadline 1 December 2025 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload 1 reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Partial scholarship for up to two students
+Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
+Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
+Awarding the Scholarship: Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+Receiving the scholarship is conditional on the student fulfilling all admission criteria.
+Terms and Conditions:
 Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information Faculty of Electrical Engineering, Mathematics and Computer Science
+Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
+The student must remain enrolled at TU Delft during the scholarship period.
+Full details will disclosed in the award letter.
 Scholarships from other providers
-Full & partial scholarships
-Application deadline: varied
-Eligibility: varied
-CLIP Scholarship
-ASML Technology Scholarship
+Find here more info about scholarships from other providors
+Not yet found a scholarship to fund your future MSc programme?
+Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
 Share this page:
 Facebook
 Linkedin
@@ -278,7 +298,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -292,7 +312,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -500,7 +520,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
@@ -567,7 +587,7 @@ October
 Delft Female Impact Community Annual Event
 November
 11
-Information session on Bequests to Science
+Information session on donations and bequests to TU Delft
 More events
 Delft University Fund
 linkedin
@@ -726,6 +746,7 @@ Admission Letter received: What’s next?
 Collegegeld en Financiën
 Scholarships
 Justus & Louise van Effen Excellence Scholarships
+NL Scholarship
 Scholarships from other providers
 FAQ
 Huisvesting / Op kamers
@@ -737,62 +758,89 @@ Verenigingen
 Voorbereiden: Courses en Summer School
 Stad Delft
 Topsport en Studie
+Studie- & Studentenverenigingen
+Sport & Cultuur
+Junior TU Delft
 Student Stories
+Online Fairs
+Online Fairs
+Bachelorvoorlichting voor Belgische scholieren
+BSc - Last question day
 Scholarships
-Delft University of Technology (TU Delft) aims to attract the world’s brightest students to its international classrooms. For that reason, it has established several scholarship programmes specifically designed to offer talented and motivated international students the opportunity to pursue a MSc degree at TU Delft.
-Do you want to apply for a Scholarship?
-Submit your complete MSc application with the mandatory scholarship documents (including 2 reference letters and scholarship application form) before the deadline.
-Your MSc application will then be reviewed and an admission decision given; at that moment you will also be considered for a Scholarship.
-Not sure about the deadline?
-For the correct deadline check which deadline comes first ( MSc programme application deadline or Scholarship deadline).
-The first deadline is leading. Candidates must not wait for an admission decision to submit a scholarship application.
-Missed the deadline?
-If you wanted to apply for a scholarship but have missed the first deadline, your scholarship application will not be considered.
+Come to TU Delft with a Scholarship!
+At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
+The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
+Scholarship application form
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc Programme Scholarships – Academic Period 2027–2029
-Justus & Louise van Effen
-Excellence Scholarships
-Faculty specific scholarships, academic period 2027-2029
-Electrical Engineering, Mathematics and Computer Science
-Faculty scholarship: Microelectronics
-Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
+From Application to Award: The Scholarship Timeline
+Justus & Louise van Effen Excellence Scholarship?
+Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
+Take the next step: Explore this scholarship
+Number of scholarships 2 per faculty
 Eligibility
-Promising excellent international students and (conditionally) admitted to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
+You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
+Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
+You have submitted a complete MSc application before the scholarship deadline.
+Application deadline 1 December 2026 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload one reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality). Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Contribution for the living expenses.
+Awarding the scholarship Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Terms and conditions
+To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
+Financial extensions beyond the 2-year period are not supported by the scholarship.
+The student must remain enrolled at TU Delft during the scholarship period
+Full details will disclosed in the award letter.
+Student Experiences
+Kanza Zafar - Mechanical Engineering - Graduated 2026
+"I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey."
+Sarah Sultana - MSc Civil Engineering - Graduated 2026
+“ Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.”
+Sejal Budholiya - Master Strategic Product Design- Graduated 2025
+“This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I'd never studied before. Looking back, it's not just that it supported my studies. It changed how brave I was willing to be.”
+Eden Pfanner - Master Aerospace Engineering- Graduated 2025
+“The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.”
+Swetha Krishnan - Master Integrated Product Design - Graduated 2024
+“The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people's everyday lives.”
+Electrical Engineering Scholarship
+The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
+Take the next step: Explore this scholarship
+How many Scholarships? Up to two faculty scholarships offered by the Microelectronics research department
+Eligibility
+You are a promising excellent international student
+Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
+You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
+Application deadline 1 December 2025 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload 1 reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Partial scholarship for up to two students
+Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
+Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
+Awarding the Scholarship: Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+Receiving the scholarship is conditional on the student fulfilling all admission criteria.
+Terms and Conditions:
 Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information Faculty of Electrical Engineering, Mathematics and Computer Science
+Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
+The student must remain enrolled at TU Delft during the scholarship period.
+Full details will disclosed in the award letter.
 Scholarships from other providers
-Full & partial scholarships
-Application deadline: varied
-Eligibility: varied
-CLIP Scholarship
-ASML Technology Scholarship
+Find here more info about scholarships from other providors
+Not yet found a scholarship to fund your future MSc programme?
+Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
 Deel deze pagina:
 Facebook
 Linkedin
@@ -900,7 +948,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -914,7 +962,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -977,60 +1025,80 @@ City of Delft
 Elite sports and study
 Student Stories
 Scholarships
-Delft University of Technology (TU Delft) aims to attract the world’s brightest students to its international classrooms. For that reason, it has established several scholarship programmes specifically designed to offer talented and motivated international students the opportunity to pursue a MSc degree at TU Delft.
-Do you want to apply for a Scholarship?
-Submit your complete MSc application with the mandatory scholarship documents (including 2 reference letters and scholarship application form) before the deadline.
-Your MSc application will then be reviewed and an admission decision given; at that moment you will also be considered for a Scholarship.
-Not sure about the deadline?
-For the correct deadline check which deadline comes first ( MSc programme application deadline or Scholarship deadline).
-The first deadline is leading. Candidates must not wait for an admission decision to submit a scholarship application.
-Missed the deadline?
-If you wanted to apply for a scholarship but have missed the first deadline, your scholarship application will not be considered.
+Come to TU Delft with a Scholarship!
+At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
+The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
+Scholarship application form
 Heads up!
 Missing the first deadline means your scholarship application won’t be reviewed.
-TU Delft MSc Programme Scholarships – Academic Period 2027–2029
-Justus & Louise van Effen
-Excellence Scholarships
-Faculty specific scholarships, academic period 2027-2029
-Electrical Engineering, Mathematics and Computer Science
-Faculty scholarship: Microelectronics
-Number of scholarships Up to two faculty scholarships offered by the Microelectronics research department
+From Application to Award: The Scholarship Timeline
+Justus & Louise van Effen Excellence Scholarship?
+Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
+Take the next step: Explore this scholarship
+Number of scholarships 2 per faculty
 Eligibility
-Promising excellent international students and (conditionally) admitted to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-With a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-Application deadline 1 December 2025 (23:59 CET)
-Granting
-Only students who have been granted a scholarship will be informed by TU Delft via email by April 2026 .
+You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
+Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
+You have submitted a complete MSc application before the scholarship deadline.
+Application deadline 1 December 2026 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload one reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality). Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+Contribution for the living expenses.
+Awarding the scholarship Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality.
+Terms and conditions
+To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
+Financial extensions beyond the 2-year period are not supported by the scholarship.
+The student must remain enrolled at TU Delft during the scholarship period
+Full details will disclosed in the award letter.
+Student Experiences
+Kanza Zafar - Mechanical Engineering - Graduated 2026
+"I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey."
+Sarah Sultana - MSc Civil Engineering - Graduated 2026
+“ Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.”
+Sejal Budholiya - Master Strategic Product Design- Graduated 2025
+“This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I'd never studied before. Looking back, it's not just that it supported my studies. It changed how brave I was willing to be.”
+Eden Pfanner - Master Aerospace Engineering- Graduated 2025
+“The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.”
+Swetha Krishnan - Master Integrated Product Design - Graduated 2024
+“The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people's everyday lives.”
+Electrical Engineering Scholarship
+The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
+Take the next step: Explore this scholarship
+How many Scholarships? Up to two faculty scholarships offered by the Microelectronics research department
+Eligibility
+You are a promising excellent international student
+Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
+You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
+Application deadline 1 December 2025 (23:59 CET)
+Application procedure
+Complete your MSc application (check the admission requirements)
+Upload the Scholarship Application Form
+Upload 1 reference letter (if you have two references, upload as 1 pdf.)
+Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Scholarship coverage
+Partial scholarship for up to two students
+Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
+Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
+Awarding the Scholarship: Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+Receiving the scholarship is conditional on the student fulfilling all admission criteria.
+Terms and Conditions:
 Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and after receiving a 9 (90%) or higher for this project, they will be offered a PhD position in the Microelectronics Dept.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements )
-2. Upload the Scholarship Application Form
-3. Upload or request TWO reference letters :
-You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirements .
-And/or
-You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-You can combine both procedures. E.g. 1 upload and 1 referee request.
-Reference letters will not be considered if you have already submitted your application.
-Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that Non-EU/EFTA students must include their English test with their application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application.
-After submission no additional documents can be uploaded
-More information Faculty of Electrical Engineering, Mathematics and Computer Science
+Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
+The student must remain enrolled at TU Delft during the scholarship period.
+Full details will disclosed in the award letter.
 Scholarships from other providers
-Full & partial scholarships
-Application deadline: varied
-Eligibility: varied
-CLIP Scholarship
-ASML Technology Scholarship
+Find here more info about scholarships from other providors
+Not yet found a scholarship to fund your future MSc programme?
+Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
 Share this page:
 Facebook
 Linkedin
@@ -1138,7 +1206,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1152,7 +1220,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1211,50 +1279,25 @@ Preparation: Courses and Summer School
 City of Delft
 Elite sports and study
 Justus & Louise van Effen Excellence Scholarships
-At TU Delft a number of scholarships are available for excellent international applicants. Justus & Louise Van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues.
-The Foundation Justus & Louise van Effen was established with the aim of stimulating excellent international MSc students and financially supporting them in their wish to study at TU Delft.
-Number of scholarships 2 per faculty
-Eligibility
-You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
-You are not eligible for the Justus & Louise van Effen Excellence Scholarships if:
-You are a TU Delft bachelor’s student (even if you are an international student).
-You are an international student applying for a TU Delft MSc programme who has obtained their bachelor's degree at a Dutch University.
-You have already started your MSc studies at TU Delft (the scholarship is only for new, incoming students).
-Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
-You have submitted a complete MSc application before the scholarship deadline.
-Application deadline 1 December 2026 (23:59 CET)
-Granting
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extent of Scholarship
-Full tuition fees per year for a TU Delft MSc programme based on the statutory fee or institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Procedure
-ALL DOCUMENTS REQUIRED MUST BE SUBMITTED AT ONCE with the MSc Application !
-1. Complete your MSc application (check the admission requirements)
-2. Upload the Scholarship Application Form
-3. Upload two reference letters
-o You can upload your reference letters during your MSc application (as one PDF document), according to the indicated requirement .
-And/or
-o You can request the reference letters from your referee(s). Fill out the information about your referee/s and invite them by using the ‘send invitation button’. The referee(s) will receive an automatic email inviting him/her to upload a reference for you.
-o You can combine both procedures. E.g. 1 upload and 1 referee request.
-o Reference letters will not be considered if you have already submitted your application.
-o Reference letters will not be accepted after the Scholarship deadline.
-4. Upload the English language certificate
-Please note that all applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application (if required).
-PLEASE NOTE
-All documents required for the scholarship must be submitted together with the MSc Application. After submission no additional documents can be uploaded.
-Student Story
-Ömer Taha Döver (24) is a master’s student at TU Delft, the Netherlands where he is pursuing a degree in Strategic Product Design. Originally from Istanbul, Turkey, he was awarded the Justus and Louise van Effen Excellence Scholarship by the Justus and Louise van Effen Foundation. Before embarking on his graduate studies, Ömer earned a Bachelor's degree from Istanbul Technical University and gained valuable experience working as a strategist in purpose-driven innovation for a year. He also completed an exchange program at TU Delft during his undergraduate studies, which sparked his passion for design and innovation. Ömer's design work has been recognized with numerous awards & accolades, and has been featured in exhibitions by leading organizations in the design and innovation fields. He is committed to using his skills and knowledge to make a positive impact on society and create a sustainable future.
-Click here to view his testimonial.
-Student Story
-Berkay Onur Türk (he/him/his) is an alumnus of TU Delft's Technology, Policy and Management faculty. Born in Turkey in 1997, Berkay received a full scholarship based on merit to pursue his high school studies at American Collegiate Institute (ACI) in his home country. He subsequently pursued a bachelor's degree in Industrial Engineering, with a minor in Economics, at Boğaziçi University in Istanbul. During his undergraduate studies in 2019, Berkay spent six months as an exchange student at Eindhoven University of Technology in the Netherlands. Berkay returned to the Netherlands in 2020 as a recipient of Justus and Louise van Effen Excellence Scholarship, which allowed him to pursue his master’s studies at TU Delft. While completing his master's degree in Complex Systems Engineering and Management, Berkay also worked as a student assistant at the faculty of Technology, Policy and Management. In addition, he was elected as a member of the Faculty Student Council (FSC) in his second year of studies. Upon graduating cum laude from the master's program, Berkay embarked on his career as a strategy consultant. However, his passion for advancing the impact of education on society led him to take on a new challenge as a Project Manager at Eindhoven University of Technology.
-Click here to view his testimonial.
-Student Story
-Mythili is currently studying in the department of Mechanical Engineering at TU Delft. She completed her undergraduate degree in Mechanical engineering in India, and went on to complete an MSc in Acoustical engineering at the University of Southampton, UK. Having developed an interest in biomechanics through her master’s project which involved cochlear mechanics, she worked as a researcher in the same area for a few years in India. Mythili is keen on continuing a career in research and was awarded the Justus and Louise van Effen excellence scholarship in 2022 to study Biomedical engineering at TU Delft.
-Click here to view her testimonial.
-Student Story
-Adalberto de Paula , hailing from Brazil and born in 1992, is an alumnus of TU Delft Faculty of Architecture & the Built Environment. His remarkable accomplishments during his bachelor's studies at the Federal University of Mato Grosso do Sul led him to earn the Justus and Louise van Effen Excellence Scholarship. This achievement came after gaining four years of professional experience as an Architect in São Paulo. Throughout his undergraduate journey, he secured two additional scholarships that provided him with the opportunity to partake in architectural exchange programs at the University of Wisconsin Milwaukee, the University of New Mexico, and the Federal University of Rio Grande do Sul. For his TU Delft master's degree in Building Technology, Adalberto delved into researching automated strategies for computational design and digital fabrication. This research aimed to facilitate the advancement of robotic construction methods for discrete timber components used in housing. Adalberto's design prowess has garnered him award nominations and acknowledgments while has been prominently featured in exhibitions at innovation-focused events associated with TU Delft. Upon completing his education, Adalberto is committed to leveraging his expertise to drive positive, circular impacts on society and contribute significantly to the establishment of a sustainable future.
-Click here to view his testimonial.
+Student Experiences
+Kanza Zafar - Mechanical Engineering - Graduated 2026
+Sarah Sultana - MSc Civil Engineering - Graduated 2026
+Sejal Budholiya - Master Strategic Product Design- Graduated 2025
+Eden Pfanner - Master Aerospace Engineering- Graduated 2025
+Swetha Krishnan - Master Integrated Product Design - Graduated 2024
+Electrical Engineering Scholarship
+I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey.
+Kanza Zafar - Mechanical Engineering - Graduated 2026
+Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.
+Sarah Sultana - MSc Civil Engineering - Graduated 2026
+This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I&#039;d never studied before. Looking back, it&#039;s not just that it supported my studies. It changed how brave I was willing to be.
+Sejal Budholiya - Master Strategic Product Design- Graduated 2025
+The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.
+Eden Pfanner - Master Aerospace Engineering- Graduated 2025
+The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people&#039;s everyday lives.
+Swetha Krishnan - Master Integrated Product Design - Graduated 2024
+The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
+Electrical Engineering Scholarship
 Share this page:
 Facebook
 Linkedin

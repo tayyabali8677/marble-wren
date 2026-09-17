@@ -147,6 +147,20 @@ International projects
 International networks
 European framework programme
 New calls
+Junior postdoctoral fellowship
+Announcement
+13/05/2027
+Deadline
+16/11/2026
+This fellowship supports researchers who have recently obtained their doctorate and aim to pursue an independent research career.
+Meer details
+Senior postdoctoral fellowship
+Announcement
+13/05/2027
+Deadline
+16/11/2026
+This fellowship supports researchers who obtained their doctorate a few years ago and aim to pursue an independent research career.
+Meer details
 Water4All - cofund partnership
 Deadline
 10/11/2026
@@ -156,16 +170,6 @@ Driving Urban Transitions (DUT) - cofund partnership
 Deadline
 17/11/2026
 Accelerate urban transitions towards a climate-neutral and climate-resilient future.
-Meer details
-SofinaBo&#xEB;l Fellowships
-Deadline
-26/10/2026
-With the support of the King Baudouin Foundation, acting on behalf of the SofinaBo&#xEB;l Fund for Education and Talent, FWO and F.R.S.-FNRS may grant the SofinaBo&#xEB;l Fellowships to talented PhD students for a research and/or training stay abroad.
-Meer details
-The Raw Materials Partnership for the Green and Digital Transition (RAMP)
-Deadline
-22/09/2026
-Transnational research funding across the raw materials value chain.
 Meer details
 All calls
 In the spotlight
@@ -780,7 +784,7 @@ published by FWO
 Cookies
 Privacy statement
 
-===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/water4all-cofund-partnership/ =====
+===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/ =====
 Skip to content
 Vlaanderen
 NL
@@ -909,68 +913,112 @@ Login E-loket
 Home
 Support programmes
 All calls
-Senior researchers/research teams
-Water4All - cofund partnership
-Water4All - cofund partnership
-Addressing water-related challenges.
+Postdoctoral researchers
+Junior postdoctoral fellowship
+Junior postdoctoral fellowship
+This fellowship supports researchers who have recently obtained their doctorate and aim to pursue an independent research career.
 Status
 Open
-10/11/2026
+16/11/2026
+Duration
+3 Year
+No extension possible
+Fixed operating allowance
+&#x20AC; 4000 to 10000 /year
+In association with
+Plantentuin Meise
+VITO
+WL
+KBS
+L&#x2019;Or&#xE9;al &#x2013; UNESCO
+Announcement of results
+13/05/2027
 Op deze pagina
-&#x201C;Sustainable Water Management&#x201D;
-FWO-modalities
-Submission
-Call budget
-Key points and deviations from the &#x2018;regular&#x2019; FWO participatory framework
-Contact
-“Sustainable Water Management”
-On 8 September 2026, a new cofund call for project funding was launched within the Horizon Europe Water4All Partnership . This initiative focuses on water research in the broadest sense. The Partnership partly evolved from the transnational collaboration Water JPI (Water Joint Programming Initiative) and organises a range of activities, including calls for research projects. As a research funding organisation, FWO participates in this new call and directs its funding towards Flemish research institutions and their researchers.
-This new transnational call, focusing on “sustainable water management”, aims to support research projects that address at least one of the topics below:
-Topic 1: Integrated Monitoring and Assessment for Sustainable Water Management.
-Topic 2: Nature-Based Approaches for Resilient Water Management at hydrological and hydrogeological system scale.
-Topic 3: Smart, secure and adaptive water infrastructures.
-Topic 4: Resilient Water Systems Through Systemic Change, Policy Coherence and Inclusive governance.
-The call topics may overlap and are not mutually exclusive. Project proposals must therefore address at least one of the topics above and may combine several topics where relevant.
-More information
-Detailed information on the topics above can be found in the call documents available on the Water4All call webpage .
-The available documents also set out the general participation guidelines and eligibility criteria for this two-step call (i.e. the pre-proposal and full proposal stages). In addition, the FWO eligibility criteria apply, as included in the National/Regional Regulations document , and are important for determining the eligibility of the Flemish subproject for FWO funding.
-Submission
-Deadline for pre-proposal submission AND national/regional pre-application via the FWO e-loket
-10 November 2026, 15.00 CET (Brussels)
-Login E-loket
-FWO-modalities
-FWO participation and funding under this call are open to both the fundamental research (FO) and Strategic Basic Research (SBO) funding channels, meaning that projects may be funded through either FWO channel. It should be strongly emphasised that the choice of funding channel depends on the type of research project to be carried out (i.e. fundamental/exploratory in nature versus strongly focused on future economic and/or societal valorisation potential). Failure to comply with the specific requirements of the selected funding channel may result in the proposal being declared ineligible.
-Please note that this is assessed on an individual basis: European and/or international partners within the same consortium may freely choose their type of research. From FWO’s perspective, only the “nature” of the subproject carried out by the Flemish partner applying for FWO funding is relevant.
-For the fundamental research funding channel, the relevant regulations apply. For the SBO funding channel, the SBO regulations must be taken into account. The latter concerns projects with a primary economic and/or societal objective, for which valorisation is an essential and mandatory component.
-Submission
-Research proposals must be submitted to the Water4All Call Secretariat via the online submission tool , in accordance with the applicable procedures and eligibility criteria set out in the call documents. A partnering tool is also available to help identify relevant consortium partners. Other information documents are available on the Water4All call webpage .
-New: FWO administrative pre-registration
-Researchers in Flanders applying for FWO funding must, in addition to the Water4All project proposal, submit an administrative application during the pre-proposal stage only via the FWO e-loket , using the personal account of the Flemish supervisor-spokesperson.
-For FO projects, select the application type “Research projects - European programme fundamental research”;
-For SBO projects, select the application type “Strategic Basic Research projects (SBO)”.
-Where several Flemish institutions within the same consortium apply for FWO funding, only one joint form containing all information on the Flemish parties concerned must be submitted, in line with the regular project procedure. This must always be done by the PI or supervisor(-spokesperson) via their personal e-portal account.
-The submission deadline is the same as the call deadline for pre-proposals. Applicants are strongly advised to contact the FWO administration no later than one week before submission so that eligibility can be verified.
-Call budget
-Within international consortia, FWO funds at least two Flemish subprojects. For each Flemish subproject, up to EUR 350,000, including overhead, may be requested for a maximum duration of 36 months, regardless of the number of partners applying for FWO funding. FWO’s budgetary rules are also explained in the National/Regional Regulations document .
-In addition to national/regional funding, the cofunded partnerships under the Horizon Europe Framework Programme provide co-funding from the European Commission. At the funding decision stage, based on the final ranking following international peer review, this may result in additional support and enable further projects to be funded, including projects involving Flanders.
-Key points and deviations from the ‘regular’ FWO participatory framework
-Key points and deviations from the regular FWO participation framework to take into account:
-Participation in European cofunded partnerships does not interfere with “regular” participation in FWO projects and is therefore not counted towards the maximum number of projects that may be applied for or ongoing. An important qualification is that applicants may participate in a maximum of two different projects/consortia per call , provided that these address different topics. In addition, in this Water4All context, participation in only one project in total is permitted when taking on the role of Coordinator.
-Different overhead arrangements apply to the fundamental research and SBO funding channels, as explained in the National/Regional Regulations document .
-SBO projects aimed at developing a spin-off are not eligible in this context. This possible pathway may therefore not be described in the FWO pre-registration.
-A user committee or advisory committee is not mandatory for an SBO project in this context.
-Projects have a maximum duration of 36 months and must be budgeted accordingly. Automatic extensions are not permitted under this participation framework. Consequently, Article 28 of the FWO Research Projects regulations and Article 14 of the SBO Projects regulations are explicitly excluded.
-Researchers must hold an eligible appointment covering the full duration of the project (e.g. a ZAP appointment at universities; a doctoral degree is mandatory). This applies to both FO and SBO projects. More specifically, the emeritus arrangement ( Article 10, §7 ) does not apply in this context. In practice, this means, among other things, that supervisors(-spokespersons) who obtain emeritus status during the project period are not eligible.
-Research teams applying for FWO funding may, if they wish, involve stakeholders (e.g. city/municipal authorities, public and/or private organisations focusing on water, interest groups, etc.) in a research project, including for non-routine tasks. However, the State aid rules must be taken into account. Please contact FWO for further information.
-Researchers are strongly advised to contact FWO before submission regarding the eligibility criteria. This is to avoid the ineligibility of the individual Flemish researcher(s), and of the consortium as a whole.
-Contact
-For additional information FWO participation, please contact:
-Toon Monbaliu (General and ‘FO’)
-europe@fwo.be
-+32 (02)2 550 15 70
-Kristien Peeters (‘SBO’)
-europe@fwo.be
-+32 (0)2 550 15 95
+Objective
+Important dates
+Features
+Profile and conditions
+Application, evaluation and selection procedure
+Regulations
+Additional information for applicants
+Contact and information sessions
+Support with your application
+Important changes vs previous call
+Second chance : Submitting a second application for the same type of postdoctoral fellowship in the 2027 call is only possible if the first application was among the top 50% in the pre-selection in the spring 2026.
+Limit per supervisor : To ensure the quality of supervision, a limit on the number of applications per supervisor will be introduced as of the 2027 call, which opens in September 2026. Per call, a supervisor may support a maximum of five applications (junior and senior fellowships combined). Candidates are therefore encouraged to coordinate with their supervisor well in advance before submitting an application.
+Letter of recommendation is an evaluation criterium : As from the current call, the supervisor’s letter of recommendation is a mandatory component of the application procedure and, as specified in the scoring grid, will play a more prominent role in the evaluation. This letter confirms the supervisor’s commitment to guiding the candidate. In addition, it must demonstrate that the necessary expertise and research infrastructure are available to carry out the proposed research and explain the added value of the fellowship for both the candidate and the host institution.
+Objective
+The junior postdoctoral fellowship aims to support researchers who have recently obtained a doctoral degree to further specialize in their research discipline. With the help of this fellowship, a postdoctoral researcher can develop their own research line while simultaneously acquiring additional academic skills through training and mobility, among other means. In this way, the FWO aims to provide young researchers with optimal opportunities to build an independent international research career, either within an academic context or beyond.
+The FWO collaborates with the Plantentuin Meise , VITO and Flanders Hydraulics for the funding of additional postdoctoral fellowships.
+The Suzanne Duchesne Fund is administered by the King Baudouin Foundation and provides €50,000 for the 2027 call in the form of special bench fees for selected postdoctoral researchers in oncology (Med4 panel).
+L'Oréal-UNESCO For Women in Science   awards an additional research grant of €20,000 every two years to the three highest-ranked female junior or senior fellowship candidates in the biomedical and STEM disciplines (specifically, applications submitted to the S&T, Bio and Med panels) in support of their research careers. The next edition will take place in 2028. Consequently, this additional grant is not available within the current call.
+Important dates
+17 September 2026 :   call opens
+16 November 2026 at 5pm : call closes (last application date)
+18 – 25 March 2027 : online preselection meetings
+26 March 2027 : invitation to interviews
+14 April - 5 May 2027 : (physical) interviews
+13 May 2027 : announcement of results
+1 October or 1 November 2027 : start of fellowship
+Features
+Duration of the fellowship: Three years
+Gross monthly salary junior postdoctoral fellowship (4 years seniority): €5,616.81 (index 2.1647 on 1 March 2026).
+Bench fee which can range from €4,000 to €10,000 per year
+Profile and conditions
+See the programme regulations for more details on eligibility conditions.
+You hold a PhD by thesis or a degree or a diploma or certificate recognized as equivalent in accordance with European Union directives or a bilateral agreement.
+You can apply for a junior postdoctoral fellowship if your PhD was obtained no longer than 3 years before October, 1 of the year in which the fellowship would start, or will be obtained at September 15 of that year at the latest (in the latter case you need to inform the FWO of the date of your public defence - or equivalent form of assessment - by 1 July of that year at the latest).
+You have not yet benefited from this fellowship, not even partially.
+You can apply maximum two times for the same fellowship. You can apply for a senior postdoctoral fellowship immediately after your junior postdoctoral fellowship.
+Starting with the call of 2027, submitting a second application for the same type of postdoctoral fellowship will only be possible if the first application was among the top 50% in the preselection phase.
+You agree with the Research Integrity Clause.
+Application, evaluation and selection procedure
+You have to find a supervisor at a Flemish host institution (article 3 of the regulations on postdoctoral researchers) .
+You need to submit your application via the online application (addressed to a FWO expert panel ).
+The supervisor must submit a letter of recommendation. This letter is a mandatory part of the application and will be taken into account as an evaluation criterion.
+Once the expert panel has completed the preselection, you will be notified and depending on your result, you will or will not be invited to the second round.
+If you are invited to the second round, you will be interviewed by the panel between 14 April and 5 May 2027. You will receive an invitation for this on 26 March 2027.
+On the basis of the proposals from the expert panels, the board will make the final decision on the selection. The results will be announced via email and via our results page on 13 May 2027.
+You will get feedback on your evaluation once the decisions have been published.
+The evaluation and selection procedures are explained in a number of information sessions (see below).
+Submitting your application
+You need to submit your application via the online application (addressed to a FWO expert panel ). The deadline is 16 November 2026 at 5pm.
+Log-in E-loket
+Regulations
+General regulations
+These general regulations are applicable for every funding of FWO
+Regulations for Postdoctoral Fellowship
+These regulations contain all conditions, procedures, etc. to apply for a Postdoctoral Fellowship with the FWO.
+Regulations for the bench fee of FWO fellows
+These regulations contain all information about the bench fees for PhD and Postdoctoral Researchers of the FWO.
+Internal and external peer review
+These regulations set out the requirements for the composition of the expert panels and the experts’ code of conduct as well as the scoring and selection methodology (decision-making process).
+Additional information for applicants
+Contact and information sessions
+More information on the eligibility criteria, the application form or the evaluation procedure can be found in this presentation . A video explaining the application form is available here . If you have any further questions, please contact your account administrator .
+If you have any technical problems with the e-portal and the application modules, please contact the IT helpdesk at FWOhelpdesk@fwo.be .
+Registration for one of our information sessions must be done through the research coordination office of the institutions listed below.
+Datum
+Instelling
+17/09/2026
+VUB
+17/09/2026
+UGent
+17/09/2026
+UHasselt
+25/09/2026
+KU Leuven
+30/09/2026
+UAntwerpen
+Support with your application
+Example application form : offers a number of screenshots of the online application forms and the project template outline
+The application form has been designed to allow for many  various researcher profiles and research outputs . This is because the FWO aims to give researchers the opportunity to demonstrate the construction of their research careers through a range of scientifically relevant activities, skills, experiences and achievements. This is in line with the international trend away from a single-sided focus on classical output criteria (such as publications, bibliometrics, patents, and the like) towards a broader view of what science can be and achieve, with respect for the specificity of each discipline. The application forms are aimed to help the researcher demonstrate that versatility. The evaluation procedure has also been designed with this in mind: the scoring descriptors have in the scoring grids been supplemented with these broader elements from the application form.
+preselection scoring grid
+interview scoring grid
+Expert panels: make the right choice!
+You choose the expert panel that best suits your application. Make sure you thoroughly check  the overview of panels and scopes for each panel  so that you can make the right choice. Select the panel you feel is best suited to assess your project in terms of what it will add to the scientific knowledge base.
+If the panel judges during the review by consensus that the application falls outside the scope of the panel, they may reject it for that reason. It is important to stress that it is the applicant who is responsible for matching the application with the correct panel.
+Guidelines interview
 The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
 You can find us on
 Quick to
@@ -993,7 +1041,7 @@ published by FWO
 Cookies
 Privacy statement
 
-===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/driving-urban-transitions-dut-cofund-partnership/ =====
+===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/senior-postdoctoral-fellowship/ =====
 Skip to content
 Vlaanderen
 NL
@@ -1122,76 +1170,113 @@ Login E-loket
 Home
 Support programmes
 All calls
-Senior researchers/research teams
-Driving Urban Transitions (DUT) - cofund partnership
-Driving Urban Transitions (DUT) - cofund partnership
-Accelerate urban transitions towards a climate-neutral and climate-resilient future.
+Postdoctoral researchers
+Senior postdoctoral fellowship
+Senior postdoctoral fellowship
+This fellowship supports researchers who obtained their doctorate a few years ago and aim to pursue an independent research career.
 Status
 Open
-17/11/2026
+16/11/2026
+Duration
+3 Year
+No extension possible
+Fixed operating allowance
+&#x20AC; 4000 to 10000 /year
+In association with
+Plantentuin Meise
+VITO
+WL
+KBS
+L&#x2019;Or&#xE9;al &#x2013; UNESCO
+Announcement of results
+13/05/2027
 Op deze pagina
-&#x201C;A funding opportunity for transformative urban research.&#x201D;
-FWO-modalities
-Submission
-Call budget
-Key points and deviations from the &#x2018;regular&#x2019; FWO participatory framework
-Contact
-“A funding opportunity for transformative urban research.”
-On 1 September 2026, a fifth cofund call for project funding opened under the Horizon Europe DUT Partnership , focusing on sustainable urban transformation. This partnership, which originated from the Joint Programming Initiative (JPI) Urban Europe , initiates a range of activities, of which calls for research projects form an integral part. FWO is also participating in this new call as a research funder, with the emphasis on funding Flemish public research institutions and their researchers.
-As usual, this transnational call focuses on three non-exclusive urban ‘transition pathways’ (TPs; 15mC, CUE, PED), which are further subdivided per TP into several ‘(sub)topics’ and two research types: Research Oriented Approach (ROA) and Innovation Oriented Approach (IOA).
-FWO funds all TPs but only ROA projects within Topics 2 and 3 in this call. Topic 1 projects submitted to FWO, as well as all IOA projects in this call regardless of the selected topic, will automatically be declared ineligible !
-The topics in this call:
-Cross-cutting Topic #1: Adaptive reuse of existing urban structures and spaces (NO FWO funding)
-FWO does not fund this topic in its entirety.
-Topic 2 (ROA projects only )
-2.3.2.1 - 15mC Topic #2: Align ambitions for mobility transitions across sectors.
-2.3.3.1 - CUE Topic #2: Innovative maintenance of urban green and blue spaces.
-2.3.4.1 - PED Topic #2: PED solutions in private housing across different urban contexts.
-Topic 3 (ROA projects only )
-2.3.2.2 - 15mC Topic #3: Nurture neighbourhood economies – activate innovation in local everyday offers.
-2.3.3.2 - CUE Topic #3 Rethinking urban production for circular and resilient cities.
-2.3.4.2 - PED Topic #3: Sustainable PEDs, flexibility in energy systems, and integrated technologies.
-More information
-Detailed information on the topics listed above can be found in the call document (call text) , on the DUT call page .
-The call document also sets out the general participation guidelines and eligibility criteria for this ‘two-step call’ (i.e. pre-proposal and full proposal phase). In addition, the ‘regional’ FWO eligibility criteria apply; these are also included in the ‘ call document ’ (see from p. 56 onwards) and are important for the eligibility of the Flemish subproject with FWO funding.
-Submission
-Deadline for pre-proposal submission AND national/regional pre-application via the FWO e-loket
-17 November 2026, 13.00 CET (Brussels)
-Login E-loket
-FWO-modalities
-FWO participation and funding here target both the fundamental research (‘FO’) and Strategic Basic Research (SBO) funding channels, which implies that projects within both FWO channels may be eligible for funding. It should be strongly emphasised that the choice of funding channel depends on the type of research project one wishes to carry out (i.e. fundamental/exploratory in nature vs. strongly focused on future valorisation potential). Non-compliance with the specific requirements per funding channel may lead to ineligibility .
-Please note that this is assessed on an individual basis: European and/or international partners within the same consortium may freely choose their type of research. Only the ‘character’ of the subproject of the Flemish partner applying for FWO funding is relevant as far as FWO is concerned.
-For the fundamental research funding channel, the relevant regulations apply. For the SBO funding channel, the SBO regulations must be taken into account. The latter concerns projects with a primary economic and/or societal objective, of which valorisation is an essential and mandatory component.
-Submission
-Research proposals are submitted to the DUT Call Secretariat, using the available templates on the call page (under ‘Documents’) and the submission platform , and by consortia of European and international researchers, in accordance with the applicable procedures and eligibility criteria included in the above-mentioned call documents. There is also the option to use a ‘ matchmaking platform’ to identify relevant consortium partners.
-New: FWO administrative pre-registration
-Researchers from Flanders applying for FWO funding must, in addition to the DUT project proposal, also submit an administrative application during the pre-proposal phase via the FWO e-portal , using the personal e-portal of the Flemish supervisor-spokesperson.
-For FO projects, the application type ‘Research projects – European programme fundamental research’ must be selected;
-For SBO projects, the application type ‘Strategic Basic Research projects (SBO)’ must be selected.
-Where several Flemish institutions applying for FWO funding collaborate within the same consortium, only one joint form must be submitted containing all information on the Flemish parties involved, in accordance with the ‘regular’ projects. This is always done by the PI/supervisor, using their personal e-portal.
-The submission deadline is the same as the call deadline for pre-proposals. It is strongly recommended to contact the FWO administration about this no later than one week before submission, so that eligibility can be verified.
-Call budget
-Within the framework of an international consortium, FWO supports at least three Flemish projects, with a maximum requested amount of EUR 250,000 (including overhead) per project, for 36 months. The FWO budgetary rules are also clarified in the ‘ call document ’ (see from p. 56 onwards).
-In addition to national/regional resources, the cofund partnerships under the Horizon Europe framework programme provide cofinancing from the European Commission. At the funding decision stage, based on the final ranking following international peer review, this may result in additional support and may enable additional projects, including for Flanders.
-Key points and deviations from the ‘regular’ FWO participatory framework
-Some key points and deviations from the regular FWO participation framework to take into account:
-The natural ‘ecosystem’ for FWO projects lies within the ‘research-oriented approach’ (ROA), which aligns with the funding channels used by FWO (‘FO’ and ‘SBO’). IOA projects are not eligible.
-Participation in the European cofund partnerships does not interfere with ‘regular’ FWO project participation and is therefore not taken into account with regard to the maximum number of projects that may be applied for or be ongoing. An important caveat, however, is that one may participate in a maximum of 2 different projects/consortia per call, provided that they concern different topics (additionally, in this DUT context: only once as ‘main applicant/coordinator’).
-A different overhead arrangement applies to the fundamental and SBO funding channels, as clarified in the ‘ call document ’ (see from p. 56 onwards).
-SBO projects aimed at the development of a ‘spin-off’ are not eligible in this context. This possible route can therefore not be included in the FWO pre-registration.
-A ‘users committee or ‘advisory committee’ is not mandatory for an SBO project in this context.
-Projects have a maximum duration of 36 months and must be budgeted accordingly. Automatic extensions are not allowed within this participation framework. Consequently, Article 28 of the regulations for FWO research projects and Article 14 of the regulations for SBO projects are explicitly excluded.
-Researchers must hold an eligible appointment covering the full project duration (e.g. ZAP appointment for universities; doctoral degree required). This applies to both ‘FO’ and ‘SBO’ projects, and more specifically with regard to the emeritus arrangement ( Article 10, §7 ): this is not applicable in this context. In practice, this means, among other things, that supervisors(-spokespersons) who obtain emeritus status during the project period are not eligible.
-Research teams applying for FWO funding may involve ‘stakeholders’ (e.g. cities/municipalities, interest groups, public and/or private organisations focusing on sustainable urban transition) as subcontractors in a research project, including for non-routine tasks. Contact FWO if additional information is required.
-Researchers are strongly advised to contact FWO before submission regarding the eligibility criteria . This is to avoid the ineligibility of the Flemish researcher(s) individually, and of the consortium as a whole.
-Contact
-For additional information FWO participation, please contact:
-Toon Monbaliu (General and ‘FO’)
-europe@fwo.be
-+32 (02)2 550 15 70
-Kristien Peeters (‘SBO’)
-europe@fwo.be
-+32 (0)2 550 15 95
+Objective
+Important dates
+Features
+Profile and conditions
+Application, evaluation and selection procedure
+Regulations
+Additional information for applicants
+Contact and information sessions
+Support with your application
+Important changes
+Second chance : Submitting a second application for the same type of postdoctoral fellowship in the 2027 call is only possible if the first application was among the top 50% in the pre-selection in the spring 2026.
+Limit per supervisor : To ensure the quality of supervision, a limit on the number of applications per supervisor will be introduced as of the 2027 call, which opens in September 2026. Per call, a supervisor may support a maximum of five applications (junior and senior fellowships combined). Candidates are therefore encouraged to coordinate with their supervisor well in advance before submitting an application.
+Letter of recommendation is an evaluation criterium : As from the current call, the supervisor’s letter of recommendation is a mandatory component of the application procedure and, as specified in the scoring grid, will play a more prominent role in the evaluation. This letter confirms the supervisor’s commitment to guiding the candidate. In addition, it must demonstrate that the necessary expertise and research infrastructure are available to carry out the proposed research and explain the added value of the fellowship for both the candidate and the host institution.
+Objective
+The senior postdoctoral fellowship aims to support researchers who have completed their PhD a few years ago to further specialize in their research discipline. With the help of this fellowship, a postdoctoral researcher can develop their own research line while simultaneously acquiring additional academic skills through training and mobility, among other means. In this way, the FWO aims to provide young researchers with optimal opportunities to build an independent international research career, either within an academic context or beyond.
+The FWO collaborates with the Plantentuin Meise , VITO and Flanders Hydraulics for the funding of additional postdoctoral fellowships.
+The Suzanne Duchesne Fund is administered by the King Baudouin Foundation and provides €50,000 for the 2027 call in the form of special bench fees for selected postdoctoral researchers in oncology (Med4 panel).
+L'Oréal-UNESCO For Women in Science   awards an additional research grant of €20,000 every two years to the three highest-ranked female junior or senior fellowship candidates in the biomedical and STEM disciplines (specifically, applications submitted to the S&T, Bio and Med panels) in support of their research careers. The next edition will take place in 2028. Consequently, this additional grant is not available within the current call.
+Important dates
+17 September 2026 :   call opens
+16 November 2026 at 5pm : call closes (last application date)
+18 – 25 March 2027 : online preselection meetings
+26 March 2027 : invitation to interviews
+14 April - 5 May 2027 : (physical) interviews
+13 May 2027 : announcement of results
+1 October or 1 November 2027 : start of fellowship
+Features
+Duration of the fellowship: Three years
+Gross monthly salary senior postdoctoral researcher (7 years seniority): €6.081,90 (index 2.1647 on 1 March 2026).
+Bench fee which can range from €4,000 to €10,000 per year
+Profile and conditions
+See the programme regulations for more details on eligibility conditions.
+You hold a PhD by thesis or a degree or a diploma or certificate recognized as equivalent in accordance with European Union directives or a bilateral agreement.
+You can apply for a senior postdoctoral fellowship if your PhD degree, with as reference point the date mentioned on the PhD degree, was awarded minimum three years and maximum six years before the first of October of the year in which the fellowship commences. You can always apply for a senior postdoctoral fellowship if you have previously enjoyed a junior postdoctoral fellowship. In that case, the senior postdoctoral fellowship must immediately follow the junior postdoctoral fellowship.
+You must have a postdoctoral research experience of minimum 2 years on the first of October of the year in which the fellowship commences. In case you have not had a (junior) postdoctoral fellowship from the FWO before, you must prove this experience by means of a declaration by the Flemish host institute. The declaration is to be signed by someone with signature authority, binding the host institute. Contact the host institute’s research co-ordination office for more info.
+You have not yet benefited from this fellowship, not even partially.
+You can apply maximum two times for the same fellowship.
+Starting with the call of 2027, submitting a second application for the same type of postdoctoral fellowship will only be possible if the first application was among the top 50% in the preselection phase.
+You agree with the Research Integrity Clause.
+Application, evaluation and selection procedure
+You have to find a supervisor at a Flemish host institution (article 3 of the regulations on postdoctoral researchers) .
+You need to submit your application via the online application (addressed to a FWO expert panel ).
+The supervisor must submit a letter of recommendation. This letter is a mandatory part of the application and will be taken into account as an evaluation criterion.
+Once the expert panel has completed the preselection, you will be notified and depending on your result, you will or will not be invited to the second round.
+If you are invited to the second round, you will be interviewed by the panel between 14 April and 5 May 2027. You will receive an invitation for this on 26 March 2027.
+On the basis of the proposals from the expert panels, the board will make the final decision on the selection. The results will be announced via email and via our results page on 13 May 2027.
+You will get feedback on your evaluation once the decisions have been published.
+The evaluation and selection procedures are explained in a number of information sessions (see below).
+Submitting your application
+You need to submit your application via the online application (addressed to a FWO expert panel ). The deadline is 16 November 2026 at 5pm.
+Log-in E-loket
+Regulations
+General regulations
+These general regulations are applicable for every funding of FWO
+Regulations for Postdoctoral Fellowship
+These regulations contain all conditions, procedures, etc. to apply for a Postdoctoral Fellowship with the FWO.
+Regulations for the bench fee of FWO fellows
+These regulations contain all information about the bench fees for PhD and Postdoctoral Researchers of the FWO.
+Internal and external peer review
+These regulations set out the requirements for the composition of the expert panels and the experts’ code of conduct as well as the scoring and selection methodology (decision-making process).
+Additional information for applicants
+Contact and information sessions
+More information on the eligibility criteria, the application form or the evaluation procedure can be found in this presentation . A video explaining the application form is available here . If you have any further questions, please contact your account administrator .
+If you have any technical problems with the e-portal and the application modules, please contact the IT helpdesk at FWOhelpdesk@fwo.be .
+Registration for one of our information sessions must be done through the research coordination office of the institutions listed below.
+Date
+Institution
+17/09/2026
+VUB
+17/09/2026
+UGent
+17/09/2026
+UHasselt
+25/09/2026
+KU Leuven
+30/09/2026
+UAntwerpen
+Support with your application
+Example application form : offers a number of screenshots of the online application forms and the project template outline
+The application form has been designed to allow for many  various researcher profiles and research outputs . This is because the FWO aims to give researchers the opportunity to demonstrate the construction of their research careers through a range of scientifically relevant activities, skills, experiences and achievements. This is in line with the international trend away from a single-sided focus on classical output criteria (such as publications, bibliometrics, patents, and the like) towards a broader view of what science can be and achieve, with respect for the specificity of each discipline. The application forms are aimed to help the researcher demonstrate that versatility. The evaluation procedure has also been designed with this in mind: the scoring descriptors have in the scoring grids been supplemented with these broader elements from the application form.
+preselection scoring grid
+interview scoring grid
+Expert panels: make the right choice!
+You choose the expert panel that best suits your application. Make sure you thoroughly check  the overview of panels and scopes for each panel  so that you can make the right choice. Select the panel you feel is best suited to assess your project in terms of what it will add to the scientific knowledge base.
+If the panel judges during the review by consensus that the application falls outside the scope of the panel, they may reject it for that reason. It is important to stress that it is the applicant who is responsible for matching the application with the correct panel.
+Guidelines interview
 The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
 You can find us on
 Quick to

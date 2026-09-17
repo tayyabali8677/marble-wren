@@ -37,8 +37,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science
@@ -223,8 +223,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science
@@ -445,8 +445,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science
@@ -631,8 +631,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science
@@ -883,8 +883,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science
@@ -1089,8 +1089,8 @@ Current topics
 Find out about our work in areas of current topical interest to the Royal Society.
 AI and data
 Climate change and biodiversity
+Diversity and inclusion
 Education and skills
-Equality, diversity and inclusion
 Genetic technologies
 Health
 History of science

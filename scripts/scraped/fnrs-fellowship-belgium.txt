@@ -276,21 +276,16 @@ French
 English
 Homepage EN
 Featured News
-Announcements
 Call
-News FNRS
-WEL-T INVESTIGATOR PROGRAMME CALL 2026
-WEL-T INVESTIGATOR PROGRAMME CALL 2026
-Read more about WEL-T INVESTIGATOR PROGRAMME CALL 2026
-Call
-Opening of the 2026 FRIA call
-The objective of the FRIA instrument is intended for the completion of the Ph.D. within 4 years in areas of research linked to industry or agriculture.
-Read more about Opening of the 2026 FRIA call
-Call
-Opening of the 2026 FRESH call
-The objective of the FRESH instrument is intended for the completion of the Ph.D. within 4 years in Human and Social Sciences (SHS).
-Read more about Opening of the 2026 FRESH call
+SEN
+WEL-T Investigator Programme 2026 – call for proposals
+The FRFS (Fund for Strategic Fundamental Research), one of the FNRS associated funds, and the WEL Research Institute are launching the third call for proposals for the WEL-T Investigator Programme. Funded by the Walloon Region, WEL-T (Walloon ExceLlence in Technology) supports strategic research programs in the fields of engineering, chemistry, and physics with a view to translating breakthrough discoveries into industrial applications aimed at sustainable transition.
+Read more about WEL-T Investigator Programme 2026 – call for proposals
 News
+WEL-T Investigator Programme 2026 – call for proposals
+Call
+SEN
+Published on 17 September 2026
 The FNRS awards 3 Additional Research Crédits from the King Baudouin Foundation 2026
 Announcements
 FNRS.awards
@@ -336,10 +331,6 @@ Published on 02 July 2026
 Opening of the 2026 FRIA call
 Call
 Published on 02 July 2026
-The FNRS launches a bilateral call for mobility projects with Slovakia!
-Call
-International
-Published on 29 June 2026
 See all
 Calls and Fundings
 FNRS.awards
@@ -363,6 +354,21 @@ Closing
 Periodicity
 Annual
 Read more about SofinaBoël Fellowships 2027
+WEL Research Institute
+SEN
+In progress
+WEL-T Investigator Programme 2026
+Category
+Projects, credits, ...
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+17 September 2026
+14:00
+Closing
+05 November 2026
+14:00
+Read more about WEL-T Investigator Programme 2026
 International projects
 SEN
 SHS
@@ -537,25 +543,6 @@ Closing
 Periodicity
 Annual
 Read more about Biodiversa+ Call 26/27 - “Novel ecosystems: biodiversity, socio-ecological consequences and future trajectories (BiodivFuture)”
-International projects
-SEN
-SHS
-Sustainability
-In progress
-DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-01 September 2026
-08:00
-Closing
-24 November 2026
-14:00
-Periodicity
-Annual
-Read more about DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
 See all
 Télévie 2026: A massive thank you!
 The 2026 edition raised €13,459,073.87 for cancer research — a record since the launch of the initiative.
@@ -594,6 +581,7 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account
 
 ===== SOURCE PAGE: https://www.frs-fnrs.be/en/financements/audacious-medical-grants-amg =====
 Audacious Medical Grants (AMG) | FNRS
@@ -929,6 +917,7 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account
 
 ===== SOURCE PAGE: https://www.frs-fnrs.be/en/projects-credits/thematic-research-projects/audacious-sustainability-grant-asg =====
 Audacious Sustainability Grant (ASG) | FNRS
@@ -1242,6 +1231,7 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account
 
 ===== SOURCE PAGE: https://www.frs-fnrs.be/en/financements/frart =====
 FRArt | FNRS
@@ -1557,6 +1547,7 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account
 
 ===== SOURCE PAGE: https://www.frs-fnrs.be/en/financements/recherche-fondamentale-strategique =====
 Strategic fundamental research, the FRFS (specialized fund of the FNRS) and the WEL Research Institute | FNRS
@@ -1888,6 +1879,7 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account
 
 ===== SOURCE PAGE: https://www.frs-fnrs.be/en/financements/diffusion-et-echanges/fonds-wernaers =====
 Wernaers Fund for Research and Knowledge Dissemination | FNRS
@@ -2283,3 +2275,4 @@ Medias
 Take a look on our facebook page
 Take a look on our LinkendIn page
 Take a look on our YouTube account
+Take a look on our Instagram account

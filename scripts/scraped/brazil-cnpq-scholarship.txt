@@ -20,14 +20,14 @@ Seu navegador não pode executar javascript. Alguns recursos podem não funciona
 Abrir menu principal de navegação
 Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Termos mais buscados
-imposto de renda
 assinatura
-mei
-inss
 Desenrola Brasil
-Termos mais buscados
+mei
 imposto de renda
+inss
+Termos mais buscados
 assinatura
+Desenrola Brasil
 mei
 Acesso à Informação
 Institucional
@@ -270,16 +270,19 @@ Assinatura Eletrônica
 2
 Consultar Meu Imposto de Renda
 3
-Entregar Meu Imposto de Renda
-4
-Consultar restituição do imposto de renda
-5
 Consultar dados do Cadastro Único
-6
+4
 Consultar CPF
+5
+Consultar restituição do imposto de renda
+6
+Consultar CNPJ
 Serviços em destaque do govbr
 Outros
 Tela Brasil
+Imposto de Renda e Malha Fiscal
+Entregar Meu Imposto de Renda
+(DIRPF)
 Vida Financeira
 Novo
 Renegociação de Dívidas - Famílias
@@ -603,14 +606,14 @@ Seu navegador não pode executar javascript. Alguns recursos podem não funciona
 Abrir menu principal de navegação
 Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Termos mais buscados
-imposto de renda
 assinatura
-mei
-inss
 Desenrola Brasil
-Termos mais buscados
+mei
 imposto de renda
+inss
+Termos mais buscados
 assinatura
+Desenrola Brasil
 mei
 Acesso à Informação
 Institucional
@@ -1058,14 +1061,14 @@ Seu navegador não pode executar javascript. Alguns recursos podem não funciona
 Abrir menu principal de navegação
 Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Termos mais buscados
-imposto de renda
 assinatura
-mei
-inss
 Desenrola Brasil
-Termos mais buscados
+mei
 imposto de renda
+inss
+Termos mais buscados
 assinatura
+Desenrola Brasil
 mei
 Acesso à Informação
 Institucional
@@ -1734,14 +1737,14 @@ Seu navegador não pode executar javascript. Alguns recursos podem não funciona
 Abrir menu principal de navegação
 Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Termos mais buscados
-imposto de renda
 assinatura
-mei
-inss
 Desenrola Brasil
-Termos mais buscados
+mei
 imposto de renda
+inss
+Termos mais buscados
 assinatura
+Desenrola Brasil
 mei
 Acesso à Informação
 Institucional
