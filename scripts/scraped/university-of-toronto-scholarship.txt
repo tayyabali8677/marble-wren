@@ -5,7 +5,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -145,7 +145,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -274,7 +274,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -393,7 +393,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -522,7 +522,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -651,7 +651,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -780,7 +780,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -894,7 +894,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -1023,7 +1023,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -1129,7 +1129,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -1258,7 +1258,7 @@ Main Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
@@ -1516,7 +1516,7 @@ Mobile Menu
 Academics
 Areas of interest
 Business, Commerce & Management
-Data & Computer Science
+Data, Information & Computer Science
 Design & Visual Studies
 Engineering
 Health & Life Sciences
