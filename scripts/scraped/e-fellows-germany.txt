@@ -16,6 +16,7 @@ Stipendien-Datenbank
 Events
 Events
 Alle Events im Überblick
+Events für Schüler:innen
 Events für Studierende
 Events für Berufstätige
 Studium
@@ -393,6 +394,7 @@ Stipendien-Datenbank
 Events
 Events
 Alle Events im Überblick
+Events für Schüler:innen
 Events für Studierende
 Events für Berufstätige
 Studium
@@ -1054,6 +1056,7 @@ Stipendien-Datenbank
 Events
 Events
 Alle Events im Überblick
+Events für Schüler:innen
 Events für Studierende
 Events für Berufstätige
 Studium
