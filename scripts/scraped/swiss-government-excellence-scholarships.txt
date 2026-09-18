@@ -24,10 +24,10 @@ Scholarship Types Overview
 (max. age: 35 / funding: CHF 2450.--/month)
 Research scholarships
 These scholarships are available to postgraduate researchers in any discipline wishing to pursue research at any Swiss cantonal university, university of applied sciences, either of Switzerland’s two federal institutes of technology (ETHZ or EPFL) or at one of the four research institutes within the ETH Domain (PSI, WSL, Empa, Eawag). Prerequisite: the scholarship application must be backed by an academic supervisor in Switzerland who is willing to direct and guide the applicant’s proposed research.
-Research fellowship
+Research scholarships
 Art scholarships
 Art scholarships are open to students wishing to pursue an initial Master’s degree in an artistic field in Switzerland. This scholarship is available to students from a limited number of countries only.
-Art scholarship
+Art scholarships
 Applying for a Swiss Government Excellence Scholarship
 Information on application deadlines and scholarship available by country of origin will be published here in August 2026.
 Interested?
@@ -106,12 +106,12 @@ Service
 Swiss Government Excellence Scholarships at a Glance
 The following information is intended for individuals interested in applying for a Swiss Government Excellence Scholarship. Here you will find all the details needed to prepare your scholarship application.
 Research scholarships
-Research fellowships
+Research stay
 Objective
 The scholarship enables selected applicants to carry out a one-year research project as part of their doctoral studies at a Swiss higher education institution or recognised research institute.
 Valid only for full-time research in Switzerland .
 Target group
-Highly qualified early-career researchers from all academic fields who are pursuing a PhD in their home country, including young medical doctors.
+Highly qualified early-career researchers from all academic fields who are pursuing a PhD in a country other than Switzerland, including young medical doctors.
 Priority will be given to individuals who have not previously studied or conducted research in Switzerland (see eligibility criteria for exceptions).
 Eligibility criteria
 Master’s degree or equivalent completed by 31 July 2027  (for ETH Zurich: 30 June 2027 ).
@@ -534,10 +534,10 @@ Scholarship Types Overview
 (max. age: 35 / funding: CHF 2450.--/month)
 Research scholarships
 These scholarships are available to postgraduate researchers in any discipline wishing to pursue research at any Swiss cantonal university, university of applied sciences, either of Switzerland’s two federal institutes of technology (ETHZ or EPFL) or at one of the four research institutes within the ETH Domain (PSI, WSL, Empa, Eawag). Prerequisite: the scholarship application must be backed by an academic supervisor in Switzerland who is willing to direct and guide the applicant’s proposed research.
-Research fellowship
+Research scholarships
 Art scholarships
 Art scholarships are open to students wishing to pursue an initial Master’s degree in an artistic field in Switzerland. This scholarship is available to students from a limited number of countries only.
-Art scholarship
+Art scholarships
 Applying for a Swiss Government Excellence Scholarship
 Information on application deadlines and scholarship available by country of origin will be published here in August 2026.
 Interested?

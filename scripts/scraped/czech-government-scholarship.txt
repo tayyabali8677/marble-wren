@@ -64,19 +64,17 @@ CZELO
 - 18. 09. 2026
 2026 Annual Conference of the European Society for Prevention Research
 CZELO
-16. 09. 2026
-- 17. 09. 2026
-ESA Industry Space Days 2026
-CZELO
-17. 09. 2026
-Hamburg Science Summit 2026
-CZELO
 21. 09. 2026
 Defence Innovation Day 2026
 CZELO
 22. 09. 2026
-- 27. 09. 2026
-EUCYS 2026
+Pathways to a Trans-European Nature Network (TEN-N)
+CZELO
+22. 09. 2026
+EuroHPC User Days 2026
+CZELO
+22. 09. 2026
+Improving access for industrial users to research and technology infrastructures
 CZELO
 All events
 Statistics
