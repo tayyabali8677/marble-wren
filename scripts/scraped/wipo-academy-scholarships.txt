@@ -536,8 +536,6 @@ Download the tool
 IMAGE: GILAXIA / E+
 The role of IPR in Mobile Apps’ Development and Commercialization
 This module explains how intellectual property rights (IPRs) might be used or acquired during each of the life-cycle phases. It follows a hypothetical free-to-play gaming app, one of the most popular categories of mobile app.
-The WIPO Advanced Distance Learning Course on Intellectual Property, TK and TCEs
-provides technical information on key concepts and international, regional and national experiences, policy options and legal mechanisms available or under consideration for the intellectual property-like protection of TK and TCEs. The course is available free of charge for indigenous peoples.
 Download the module
 IMAGE: ILKERCELIK - ISTOCK / GETTY IMAGES PLUS
 Handbook on Key Contracts for Mobile Apps
