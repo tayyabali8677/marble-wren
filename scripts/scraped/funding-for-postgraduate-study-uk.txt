@@ -1577,14 +1577,6 @@ Academic excellence, Income related
 Deadline:
 Not specified
 Request info Visit website
-Filter ( 0 )
-Reset
-Scholarship FAQs
-What is a scholarship?
-Where do scholarships come from?
-What are scholarships awarded for?
-Can you have multiple scholarships?
-Do you have to pay scholarships back?
 Southampton Law Postgraduate International Scholarship
 University of Southampton
 Award criteria:
@@ -1598,6 +1590,15 @@ Southampton Canadian Prestige Scholarship for Law
 University of Southampton
 Award criteria:
 Mature students
+Funding amount:
+£1,000
+Deadline:
+Not specified
+Request info Visit website
+The Professor Brenda Barrett Bursaries
+Middlesex University
+Award criteria:
+Academic excellence, Income related
 Funding amount:
 £1,000
 Deadline:
@@ -1621,15 +1622,6 @@ Funding amount:
 Deadline:
 27-Aug-26
 Request info Visit website
-The Professor Brenda Barrett Bursaries
-Middlesex University
-Award criteria:
-Academic excellence, Income related
-Funding amount:
-£1,000
-Deadline:
-Not specified
-Request info Visit website
 1
 2
 3
@@ -1637,5 +1629,13 @@ Request info Visit website
 5
 ...
 26
+Scholarship FAQs
+Filter ( 0 )
+Reset
+What is a scholarship?
+Where do scholarships come from?
+What are scholarships awarded for?
+Can you have multiple scholarships?
+Do you have to pay scholarships back?
 Postgraduate Law Scholarships
 Here are 153 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.

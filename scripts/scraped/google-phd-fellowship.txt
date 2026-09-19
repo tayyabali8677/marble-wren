@@ -505,7 +505,7 @@ Climate and Sustainability
 Compilers
 6
 Computer Architecture
-22
+23
 Data Management
 109
 Data Mining and Modeling
@@ -519,7 +519,7 @@ Education Innovation
 General Science
 153
 Hardware and Architecture
-130
+132
 Health & Bioscience
 118
 Human-Computer Interaction and Visualization
@@ -535,7 +535,7 @@ Machine Perception
 Machine Translation
 66
 Mobile Systems
-87
+88
 Natural Language Processing
 482
 Networking
@@ -547,7 +547,7 @@ Quantum Computing
 Responsible AI
 86
 Robotics
-73
+74
 Security, Privacy and Abuse Prevention
 186
 Software Engineering
@@ -556,7 +556,7 @@ Software Systems
 220
 Speech Processing
 155
-1 - 30 of 2211 researchers
+1 - 30 of 2213 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,23 +592,23 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
-Anmol Agarwal
-Natural Language Processing
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
++2 more
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Anmol Agarwal
+Natural Language Processing
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
 +2 more
 Gagan Aggarwal
 Algorithms and Theory
@@ -618,9 +618,9 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
+Shreya Agrawal
+General Science
+Machine Intelligence
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -628,9 +628,9 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
-Machine Intelligence
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,19 +656,16 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
-Tousif Ahmed
-Human-Computer Interaction and Visualization
-Mobile Systems
-Responsible AI
-+2 more
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
+Mustaq Ahmed
+Algorithms and Theory
+Networking
+Zafarali Ahmed
+Machine Intelligence
 1
 2
 3
