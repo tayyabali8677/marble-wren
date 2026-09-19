@@ -3644,5 +3644,19 @@
     "country": "India",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Extracted from EduCanada features list; specific ICAR application portal should be consulted."
+  },
+  {
+    "slug": "hec-commonwealth-scholarship-pakistan",
+    "name": "HEC Commonwealth Scholarship 2027",
+    "country": "United Kingdom",
+    "url": "https://hec.gov.pk/",
+    "note": "Mentioned as HEC Commonwealth Scholarship 2027 for Masters & PhD on the aggregator page; administered via HEC Pakistan for Commonwealth countries."
+  },
+  {
+    "slug": "mext-scholarship-japan-asia-pacific-university",
+    "name": "Asia Pacific University MEXT Scholarship",
+    "country": "Japan",
+    "url": "https://www.apu.ac.jp/",
+    "note": "Japanese government MEXT scholarship via Ritsumeikan Asia Pacific University."
   }
 ]
