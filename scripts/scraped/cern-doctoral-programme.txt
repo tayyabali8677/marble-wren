@@ -187,6 +187,7 @@ RCS - Research & Computing Sector
 SCE – Site and Civil Engineering
 SO - Site Operations
 SR - Stakeholder Relations
+SY – Accelerator Systems
 TE – Technology
 TH – Theoretical Physics
 Team supervision
