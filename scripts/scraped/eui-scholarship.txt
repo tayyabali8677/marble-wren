@@ -844,6 +844,7 @@ Studeren in Nederland met een buitenlands diploma
 Uitgelicht
 Study in NL
 Het startpunt voor studeren in Nederland
+De Micro-evaluator
 Alles over studeren en werken in Nederland
 Onderzoek en cijfers
 Onderzoek en cijfers
@@ -988,6 +989,7 @@ Studeren in Nederland met een buitenlands diploma
 Uitgelicht
 Study in NL
 Het startpunt voor studeren in Nederland
+De Micro-evaluator
 Alles over studeren en werken in Nederland
 Onderzoek en cijfers
 Hoofdmenu
@@ -1411,6 +1413,7 @@ Studeren in Nederland met een buitenlands diploma
 Uitgelicht
 Study in NL
 Het startpunt voor studeren in Nederland
+De Micro-evaluator
 Alles over studeren en werken in Nederland
 Onderzoek en cijfers
 Onderzoek en cijfers
@@ -1555,6 +1558,7 @@ Studeren in Nederland met een buitenlands diploma
 Uitgelicht
 Study in NL
 Het startpunt voor studeren in Nederland
+De Micro-evaluator
 Alles over studeren en werken in Nederland
 Onderzoek en cijfers
 Hoofdmenu

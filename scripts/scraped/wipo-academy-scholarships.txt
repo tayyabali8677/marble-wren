@@ -470,6 +470,7 @@ Mobile apps are multilayered products with different features, protected by vari
 This publication serves as a guide for app developers and publishers to protect their intellectual property legally.
 How to protect a mobile app's intellectual property
 Mobile apps are complex products that use various types of IP.
+Frontier technologies such as AI, big data analytics, and the blockchain may be useful to address the growing challenges facing IP offices in order to make the IP system efficient and accessible for everyone, everywhere. Discover the AI-powered services and tools by WIPO.
 If you are a mobile app developer, use this section to learn why you should consider intellectual property when creating a mobile application, how to protect your mobile app and how to avoid infringement of someone else's IP while creating your application.
 IMAGE: Charday Penn/ E+ / Getty Images
 Handbook on Intellectual Property in Mobile Applications

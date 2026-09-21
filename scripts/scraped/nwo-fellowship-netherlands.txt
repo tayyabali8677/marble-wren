@@ -146,12 +146,12 @@ Derk Loorbach: &#039;The worse things get, the more appealing the alternatives b
 ‘I already have everything I need,’ Derk Loorbach wrote on a protest placard 30 years ago. Today, he still has no shortage of ambition. Through his...
 Read more
 News
+From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
+21 September 2026
+Final brochure presents findings from research into autism and psychosis
+21 September 2026
 Seven grants awarded to explore natural biochemical diversity for more sustainable production processes
 17 September 2026
-Call open: Sustainable Blue Economy Partnership Fourth Joint Transnational call
-16 September 2026
-Science Domain is looking for new Board members
-15 September 2026
 More news
 Events
 Workshop: African Perspectives on SDG Interactions, Policy Choices and Integrated Development
@@ -1080,8 +1080,8 @@ Cookie settings
 Archive
 Responsible disclosure
 
-===== SOURCE PAGE: https://www.nwo.nl/en/news/seven-grants-awarded-to-explore-natural-biochemical-diversity-for-more-sustainable-production-processes =====
-Seven grants awarded to explore natural biochemical diversity for more sustainable production processes | NWO
+===== SOURCE PAGE: https://www.nwo.nl/en/news/from-sea-monsters-to-inclusive-collective-narratives-16-museum-grants-awarded =====
+From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded | NWO
 Skip to main content
 Search
 Find funding
@@ -1196,67 +1196,126 @@ Listen
 Breadcrumb
 Home
 News
-Seven grants awarded to explore natural biochemical diversity for more sustainable production processes
-Seven grants awarded to explore natural biochemical diversity for more sustainable production processes
-17 September 2026
-Shutterstock
-NWO has awarded funding to seven projects under the KIC call ‘Biochemical Diversity’. The consortia, comprising public and private partners, will receive a total of 8 million euros to harness biochemical substances and pathways from nature for the development of more sustainable production processes.
-Synthetic chemicals and man-made production processes can have negative side effects, such as pollution or the depletion of raw materials. Nature offers an immense variety of biochemical substances and pathways that can make current polluting production processes more environmentally friendly and efficient. That is why NWO and the Knowledge and Innovation Agenda’s (KIA) KIA Key Enabling Technologies and KIA Agriculture, Water and Food are investing in fundamental changes to production processes in order to preserve the liveability of our planet.
-From crop protection to the development of improved medicines: the projects focus on developing and refining key enabling technologies that enable the exploration, analysis and application of the natural biochemical diversity.
-To further increase the impact and make room for an additional highly rated proposal, NWO has decided to award an extra project within this round. To this end, a one-off sum of 1 million euros has been added to the available budget, drawn from the 2026 KIC budget.
-The awarded projects
-Spatial Profiling of Interactions and Chemical Ecological diversity for sustainable agriculture (SPICE) - dr. Francisco Barona Gomez (Universiteit Leiden)
-Co-applicants: prof. J.J.J. van der Hooft (WUR), prof. dr. A.T. Kovacs (UL), dr. P.W. Lindenburg (HSLeiden)
-Co-funders: Koppert BV, Endogenomiks, Waters, Artemis Natuurlijk, CTGB, Bionomic
-Agriculture is shifting globally from chemical-dependent toward more sustainable production. Yet crop protection remains essential. Microorganisms, 1.e., Biological Control Agents (BCAs), can provide this through bioactive compounds called metabolites. Much about these compounds remains unknown, limiting large-scale application. SPICE aims to close this knowledge gap using DESI-MS, an advanced technique that measures molecules directly on living samples, revealing what BCAs produce and how they work. SPICE connects universities, a university of applied sciences, a regulatory authority, a branch organization, and industry partners. The knowledge generated will advance science, applications, and education in service of safe, effective biological crop protection.
-Discovery of biocatalysts by structure-based genome mining (BIOGEM) – prof. dr. ir. Marco W. Fraaije (Rijksuniversiteit Groningen)
-Co-applicants: dr. M.J.L.J. Fürst (RUG), dr. ir. M.A. Kabel (WUR)
-Co-funders: Novonesis, GECCO biotech
-This project aims to discover new enzymes, nature’s tiny chemical machines, using advanced computer tools. Instead of relying only on known examples, the BIOGEM project will develop a new way to scan genetic information and identify enzymes that can carry out difficult and valuable chemical reactions. The project will focus on enzymes that need helper molecules (cofactors) to function, as these can perform powerful transformations. In addition, BIOGEM will improve methods to produce these enzymes efficiently. By combining expertise from universities and biotechnology companies, the project seeks to unlock nature’s hidden chemical potential (biochemical diversity) for greener and more sustainable technologies.
-Soil Chemical Ecology for SustaiNable Crop ProtecTion (SCENT) - prof. dr. Paolina V. Garbeva (KNAW)
-Co-applicants: Dr. dipl.-ing. V. Cordovez da Cunha (KNAW), Prof. dr. dipl.-ing J. Dickschat (KNAW, Uni Bonn), prof. dr. M.H. Medema (WUR), prof. dr. J.M. Raaijmakers (KNAW), Prof. dr. dipl.-ing G.P. van Wezel (UL)
-Co-funders: Agriodor, Isobionics, Bejo Zaden B.V., BioClearEarth, Joordens Zaden
-SCENT (Soil Chemical Ecology for SustaiNable Crop ProtecTion) unlocks the largely untapped biochemical diversity of microbial volatile compounds produced by soil bacteria to develop key enabling technologies for sustainable crop protection. By integrating volatilomics, genomics, bioinformatics and synthetic biology, SCENT identifies, predicts and optimises pathogen-suppressing volatiles. The project translates this knowledge into steering strategies and a publicly accessible database, reducing reliance on synthetic pesticides and strengthening resilient, sustainable food production systems.
-TERpenoid Reconstruction And Pathway Annotation Through multi-omics and Heterologous production (TERRAPATH) – dr. Justin J.J. van der Hooft (Wageningen University and Research)
-Co-applicants: dr. L. Asveld (TU Delft), prof. dr. ir. J.G. Daran (TU Delft), prof. dr. M.H. Medema (WUR), prof. dr. J.T. Pronk (TU Delft)
-Co-funders: dsm-firmenich, DAB.bio
-Collaborating partners: University of Bonn, John Innes Centre, Biomia & TU Denmark, Heineken, Johannes Gutenberg University Mainz, University of Strasbourg, Fujian Agriculture and Forestry University
-Terpenoids are valuable natural ingredients in flavours and fragrances, providing alternatives to synthetic molecules. Yet, most terpene biochemical diversity remains unexplored. By integrating multi-omics analysis, AI, yeast biotechnology, and prioritization using societal considerations, the researchers will discover and produce novel terpenoids, thus expanding the repertoire of safe sustainable bio-based ingredients.
-Neutral, Low Energy & Re-usable Cellulases Using Waste Stream Carbon (MILDCELL) – prof. dr. Arthur F.J. Ram (Universiteit Leiden)
-Co-applicant: dr. J. Jiang (UT)
-Co-funders: Recell Group B.V., Lamoral Holding B.V. c.s.
-Collaboration partner: BioSolum B.V.
-MILDCELL develops a new generation of energy‑efficient enzymes that can break down cellulose under mild, low‑temperature conditions. These enzymes are produced by fungi that will grow on industrial glycol‑rich waste streams, turning low‑value residues into valuable resources. The project demonstrates the technology in two applications: converting wastewater‑recovered cellulose and enabling more sustainable, low‑temperature textile processing. By creating reusable enzyme systems and circular production routes, MILDCELL reduces energy use, chemical consumption, and environmental impact. The results offer affordable and scalable technology with potential benefits for multiple industries.
-Translating Protein Diversity into Next-Generation Biotherapeutics - prof. dr. Anouk M. Rijs (VU Amsterdam)
-Co-applicants: dr. M.H.A. Bos (LUMC), prof. dr. G.W. Somsen (VU)
-Co-funders: VarmX, VectorY, Thermo Fisher Scientific, CMP Scientific, MS Vision, TOSOH Bioscience
-Collaborating partners: LUMC, AUMC
-The NextBio public-private consortium aims to improve medical treatments by better understanding the many different forms a single protein can take, known as proteoforms. Because protein function and drug effectiveness often depend on specific proteoforms, NextBio develops advanced analytical tools to study them accurately. Bringing together experts from academia, biotech companies, and technology firms, the project links protein engineering, biochemistry, analytical science and therapy development to speed up innovation. Based on real-life clinical case studies, NextBio focuses on blood clotting disorders and neurodegenerative diseases, helping identify which protein forms can be produced or targeted to create safer, more effective treatments.
-Developing a Natural Decontamination Strategy for Hospital Drainage Channels (NaDeCon) – dr. Willem J.B. van Wamel (Erasmus MC)
-Co-applicants: dr. Y.H. Choi (UL), prof. dr. N. Hermans (UAntwerpen), dr. B. Schrammeijer (HR), dr. J.A. Severin (EMC), dr. E. Tuenter (UAntwerpen)
-Co-funders: Coöperatie Inno Growers U.A., VARTA Valorisatielab B.V.
-Collaboration partners: Greenport West-Holland, Samenwerking Infectieziekten, Decorum, Biotrack
-Antibiotic‑resistant bacteria such as Pseudomonas aeruginosa are regularly found in drains of healthcare facilities. The problem is that living bacterial cells can spread through hospital rooms via droplets, posing an acute threat to vulnerable patients. Because some of the bacteria in drains exist in tightly bound clusters (“biofilms”), current decontamination strategies prove insufficiently effective and are highly damaging to the environment. Plants produce substances with antimicrobial properties. However, these compounds have not yet been sufficiently studied for their applicability in sustainable infection prevention. This project addresses this societal challenge by developing natural, plant‑based solutions aimed at reducing biofilms in drains.
-About NWO-KIC: innovation programmes in the knowledge and innovation covenant
-NWO develops innovation programmes that focus on societal challenges in the Netherlands. These programmes aim to have an impact on the economy, people and society. The focus is on cooperation between knowledge institutions, private parties and the government. The results thus contribute to the realisation of economic opportunities. It is therefore essential that companies invest in every research project.
+From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
+From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
+21 September 2026
+Within the latest Museum Grants round, funding has been awarded to 16 research projects. This programme facilitates research that contributes to strengthening the scientific function of museums
+In the Museum Grants programme, museum employees can apply for grants for short-term in-depth scientific research related to the museum or its collection. The results must benefit museum research practice and be recorded in an open access publication. Employees of a museum institution may act as the main applicant. Each application must involve one researcher affiliated with a research organisation as a supervisor of the research. NWO administers this programme through its Social Sciences and Humanities (SSH) Domain, with support from funding provided by the Ministry of Education, Culture and Science.
+From sea monsters on historic nautical maps to Indonesian ship models, and from climate research to new perspectives on museum collections, the 16 awarded Museum Grants demonstrate the breadth and diversity of museum research.
+The awarded projects:
+De tijdscapsule in nieuw licht: nieuwe context bij een bijna 100 jaar oude museumpresentatie
+E.F.M. van Rijt (Missiemuseum Steyl)
+Every story has multiple sides. Which perspectives are missing from the century-old missionary museum presentation of the Missiemuseum? In collaboration with diaspora communities, this research develops a plural narrative that incorporates alternative cultural, spiritual, and historical meanings of animal objects, enabling the collection to be interpreted in a responsible way.
+Sea Serpents and Squids: The representation of sea monsters on maps between 1450 and 1650
+C.A.K. Jarvis (Stichting Nederlands Scheepvaartmuseum Amsterdam)
+This project will use fifteenth- to seventeenth-century maps in Het Scheepvaartmuseum’s collection to examine how sea monsters were perceived over time as more of the ocean was explored (and exploited) and geographic understanding developed. What can the depictions of these monsters tell us about people's changing understandings of the ocean?
+Weekdier als weerman? Variaties in zomer- en wintertemperatuur ontrafeld uit 2 miljoen jaar oude fossiele schelpen
+B.W. Langeveld (The Natural History Museum Rotterdam)
+How cold was the Ice Age? Fossil shells recovered from a borehole 200 meters beneath Rotterdam hold the answer. Thanks to high-tech isotope research on the shell chalk, we will, for the first time, obtain seasonal reconstructions of primeval North Sea climate, 2.5 million years ago.
+Smetteloos wit. Reinigingspraktijken van tafellinnen in de Republiek
+S.J. van Dijk (Rijksmuseum Amsterdam)
+How do you make tablecloths sparkling white again? In the 17th century, this mattered greatly, as linen damask was among the most valuable items in the home. We collect and test historical stain removal recipes to understand women’s past practices and whether these can inspire more sustainable washing methods today.
+Batik herzien: dekolonisatie van de batikcollectie van het Kunstmuseum Den Haag
+S.Y. Bolk (Kunstmuseum Den Haag)
+This research examines the colonial entanglements of Dutch and Indonesian batik and its broader artistic reception within the Kunstmuseum Den Haag collection. Through collaboration, public engagement, and artistic research, it restores original meanings and highlights underrepresented makers, wearers and narratives.
+De historische moestuin van Paleis Het Loo
+S. Steen (Paleis Het Loo Nationaal Museum)
+The history of Paleis Het Loo as a self-sufficient country estate in the seventeenth century deserves more attention. This project studies early modern vegetable gardens, including Het Loo, through historical sources, to provide a foundation for a scientifically substantiated reconstruction that sustainably connects heritage, research and audience experience.
+Verbinden door dialoog: Kunstbeleving bij jongvolwassenen in het Rijksmuseum
+S. Shazad (Rijksmuseum Amsterdam)
+Together the University of Groningen and Rijksmuseum investigate the art experiences and sense-making in a diverse group of emerging adults (18–30 years) in the museum. The findings enable the Rijksmuseum and other museums to optimize their programming, ensuring it resonates more effectively with the socio-cultural frameworks of younger generations.
+Please Note, This Artwork Might Evoke Emotions: Trigger Warnings in Contemporary Art Museums
+E.R. Harjadi Herman (Stedelijk Museum Amsterdam)
+More and more museums are using trigger warnings to inform visitors about artworks that may provoke intense reactions. But what effects do these trigger warnings actually have? This research maps out their implementation by museum professionals and impact on visitors.
+Koloniaal verleden bloot gelegd: de Indonesische scheepsmodellen uit de collectie van het Maritiem Museum Rotterdam
+J. Siegel (Stichting Maritiem Museum)
+The Indonesian ship models in the Maritime Museum Rotterdam embody both maritime heritage and a complex colonial history, as the objects were collected during the Dutch presence in the Indonesian archipelago. We investigate origins, makers and significance of these models, and reflect on their place in our museum collection.
+Mapping Streetwear Amsterdam
+R. Luis Martins (Amsterdam Museum)
+“Mapping Streetwear Amsterdam” explores the development of Amsterdam streetwear between 1985 and 2025 as part of ‘the culture’. The research project historically maps this movement and contributes to embedding streetwear within both academic discourse and the museum field.
+Het museum als publieke ruimte: Een ontwerpgerichte studie naar gedeelde ervaringen in het wetenschapsmuseum
+dr. R.K. Franse (NEMO)
+In museums, people meet each other in a specific context, such as science and technology at NEMO. This empirical study maps the diversity and significance of interactions between companions and strangers, to inform programme design that facilitates such encounters.
+Zilver, koper en koloniale kennis: een nieuw perspectief op de Nederlandse genreschilderkunst in het Mauritshuis
+N.J. Hartkamp (Koninklijk Kabinet van Schilderijen Mauritshuis)
+The seventeenth-century genre paintings in the Mauritshuis are considered ‘typically Dutch’, yet the material world they depict is inseparable from international trade and colonialism. By studying depicted the silver and copper objects as agents of knowledge, this research explores how these domestic scenes relate to the transatlantic circulation of materials.
+&#039;Waar alles mag en niets moet&#039;: Nederlandse wetenschapsmusea en de opkomst van beleving
+M.C.E. Stoppels (Rijksmuseum Boerhaave)
+Wonder! The modern science museum seems unable to do without it. But how did experience become so important? Taking Rijksmuseum Boerhaave as its point of departure, this project examines how Dutch science museums began addressing their publics differently in the 1960s, and how this created tensions with classical museum approaches.
+De verzamelgeschiedenis van queer verbeeldingen (1885–1950): Analyse van de vroege collectie van Stedelijk Museum Amsterdam
+T.M. Klopper (Stedelijk Museum Amsterdam)
+This study examines early works from the collection of the Stedelijk Museum Amsterdam (1885–1950) from a queer perspective. By focusing on subtle, often hidden visual language, it brings to light underrepresented histories. These new perspectives contribute to a more inclusive interpretation of museum collections.
+Collecting Without a Framework: Developing Collection Management and Storage Standards for the Saba Heritage Center in the Context of the Caribbean Netherlands
+S. Balfour (Saba Archaeological Center Foundation)
+Saba is building a new heritage centre in 2029, but its requirements have not been investigated. This project investigates and compares collection management on the Caribbean islands within the Kingdom and in the European Netherlands, and formulates best practices and recommendations, while focusing on the future Saba Heritage Center.
+From Salt Pond to Emancipation: Slavery, Labour, Ruin, and Memory in the Sint Maarten Museum
+S.M. Dehaney (Sint Maarten National Heritage Foundation)
+This project explores the history of slavery and emancipation in Sint Maarten through sites, ruins, family memories, museum collections, and archives. It helps the museum develop stronger exhibitions and educational materials and makes the history of Indigenous presence, salt labor, plantation life, and freedom more accessible to the public.
+View all projects from the Museum Grants
+Earth sciences
+Archaeology
+Area studies
+Business administration
+Public administration & political science
+Biology
+Communication science
+Computers and the humanities
+Cultural anthropology
+Demography
+Veterinary medicine
+Economics
+Philosophy
+Gender studies
+Medicine
+Geography/planning
+History
 Computer science
+Art and architecture
+Life sciences
 Life sciences and medicine
+Medical Sciences
 Environmental science
+Music, theatre, performing arts and media
+Physics
 Science and technology
+Educational Sciences
+Design Sciences
+Development studies
+Pedagogics
+Psychology
+Law
+Religious studies and theology
 Chemistry
+Sociology
+Astronomy, astrophysics
+Language and literature
+Linguistics
 Technology
 Water Research
-Biology
-Life sciences
+History of science
+Mathematics
 Characteristics
 Research programme
-Biochemical diversity
-Themes
-Key Technologies
-Food
-Water
+Museum Grants
+Theme
+Knowledge Utilisation
 Type
 Awards
+&#039;An opportunity for museums to conduct their own research into their collections&#039;
+Forgotten culture from Indonesia
+Contact
+Nelline Bogerd
+Programme/ policy officer
++31 (0)70 3440686
+Send email
+NWO Domain
+Social Sciences and Humanities (SSH)
+Simone Teerink
+Policy officer
++31 (0)70 3494361
+Send email
+NWO Domain
+Social Sciences and Humanities (SSH)
 Menu
 Find funding
 Research policy NWO

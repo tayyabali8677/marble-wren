@@ -38,13 +38,13 @@ Wir, die Republik
 Die Krisen sind zahlreich, die Unsicherheiten gro&szlig;. In dieser Ausgabe des Magazins B&ouml;ll.Thema fragen wir, was unsere liberale Republik ausmacht, wie wir sie gemeinsam st&auml;rken k&ouml;nnen und welche Verantwortung wir als B&uuml;rgerinnen und B&uuml;rger daf&uuml;r tragen.
 Jetzt lesen!
 Aktuelle Beiträge
-Albanien ist Biodiversität: Was Europa erkennen und schützen muss
-Hintergrund
-Albaniens außergewöhnliche biologische Vielfalt ist ein gemeinsames europäisches Gut. Europa muss ihren Wert erkennen, sie als Teil unserer gemeinsamen Zukunft begreifen und entschlossen handeln, um sie zu schützen.
-Dr. Mehmet Gökhan Tuncer
-Landtagswahl Sachsen-Anhalt 2026
+Berlin 2026: Wahl des Abgeordnetenhauses und der Bezirksverordnetenversammlungen
 Wahlanalyse
-Die Landtagswahl ist Ausdruck einer tiefgreifenden Spaltung. Die extreme Rechte verfehlt die angestrebte absolute Mehrheit nur knapp und löst so ein politisches Erdbeben aus. Die Regierungsbildung dürfte schwierig werden.
+Die Wahl ist Ausdruck einer Disruption, die Ränder erstarken, die Mitte erodiert. Überraschend deutlich wird die Linke stärkste Kraft. Ihr Wahlziel verpassen die Grünen, verlieren wichtige Bezirke, spielen aber eine zentrale Rolle in der Regierungsbildung.
+Prof. Dr. Sebastian U. Bukow
+Landtagswahl Mecklenburg-Vorpommern 2026
+Wahlanalyse
+Die Kandidatin macht den Unterschied, die CDU ist erstmals außerparlamentarisch, die Grünen schaffen den Klassenerhalt und werden höchstwahrscheinlich Regierungspartei. Die AfD wird zur stärksten Kraft und zur einzigen Oppositionspartei.
 Prof. Dr. Sebastian U. Bukow
 Wie Windparks unsere Resilienz stärken
 Vorstandskolumne
@@ -85,7 +85,7 @@ in Berlin
 Afghanische Aktivistinnen erz&auml;hlen von Mut und Widerstand
 28
 September
-&bdquo;Weil wir Frauen sind&ldquo; - Afghanische Aktivistinnen erz&auml;hlen von Mut und Widerstand
+&bdquo;Weil wir Frauen sind.&ldquo; - Afghanische Aktivistinnen erz&auml;hlen von Mut und Widerstand
 Ausstellung
 Montag, 28. September 2026
 in Berlin
@@ -149,21 +149,21 @@ Die Podcasts zum Konzernatlas 2026
 Bestellen
 Der Atlas zum Download und Printausgabe
 Publikationen
+„Wenn wir auf Konflikte nur reagieren, ist es schon zu spät“
+Policy Paper
+In diesem Gespräch beschreibt Sussan Tahmasebi die aktuelle regionale Krise im Nahen Osten. Sie kritisiert die Widersprüchlichkeit der EU und hat die Botschaft, dass Europa sein Verhältnis zur Region und zu ihren Menschen grundlegend überdenken muss.
+Barbara Mittelhammer ,
+Sussan Tahmasebi
+Zwischen Hoffnung und Hürden.
+Studie
+Deutschland braucht Arbeits- und Fachkräfte aus Drittländern. Doch oft sind die Hürden ebenso groß wie die Hoffnungen. Am Beispiel von Georgien, Kenia und Namibia untersucht das Paper individuelle Erfahrungen und strukturelle Fallen der Arbeitsmigration und spricht Empfehlungen aus.
+Bettina Rühl ,
+Dr. Tigran Petrosyan
 Teil 2: Reaktionsfähigkeit stärken
 Policy Paper
 Cyberangriffe, Desinformationskampagnen, ausländische Einmischung in Wahlkämpfe – und trotzdem reagiert Europa auf digitale Bedrohungen weiterhin zu langsam. Was tun, wenn der Angriff schon läuft? Teil 2 der Reihe „Dimensionen digitaler Außenpolitik“.
 Tobias B. Bacherle ,
 Nina Locher
-Wie Wahlen gewonnen werden
-Studie
-Kann Mitte-Links in Zeiten von affektiver Polarisierung und autoritären Dynamiken noch Wahlen gewinnen? Sieben Fallbeispiele aus Europa und Nordamerika zeigen: Ja! Die Studie untersucht Wahlerfolge auf nationaler, föderaler und kommunaler Ebene.
-Dr. Fabio Ellger ,
-Prof. Dr. Sebastian U. Bukow
-Refugee Women*, GBV and the Crisis of Global Responsibility
-Fact Sheet
-Geschlechtsspezifische Gewalt hat ihre Wurzeln in langjährigen Ungleichheiten, die durch Konflikte, Vertreibung und Armut verschärft werden. Angesichts sinkender globaler humanitärer Hilfe verlieren Betroffene den Zugang zu lebenswichtigen Hilfsangeboten.
-Anila Noor ,
-Nurhidayah Hassan
 Böll.Thema - Das Magazin der Heinrich-Böll-Stiftung
 Zum Shop
 Magazin böll.thema
@@ -190,10 +190,10 @@ Sozialpolitik
 Wirtschaft & Finanzen
 Zeitgeschichte
 Zeitdiagnose
+Landtagswahl Sachsen-Anhalt 2026
 Digitale Außenpolitik: Warum Souveränität Bündnisse braucht
 Atomare Apokalypse und direkte Demokratie: Die Grünen nach Tschernobyl
 75 Jahre Genfer Flüchtlingskonvention: Schutzverantwortung bleibt unverzichtbar
-Grüner Wirtschaftstag 2026
 Internationale Zusammenarbeit
 Globalisierung und Transformation
 Internationale Umweltpolitik
@@ -212,10 +212,10 @@ Afrika
 Asien
 Lateinamerika
 Naher Osten & Nordafrika
+Albanien ist Biodiversität: Was Europa erkennen und schützen muss
 Aus Freund wird Feind – Senegals politische Landschaft im Umbruch
 Srebrenica: Nicht werden, was uns verletzt hat – Nie wieder
 Die poröse Grenze der Verantwortung – Was hat Serbien damit zu tun?
-Die Wächterinnen des blauen Goldes
 Zur Themenseite
 Unsere Atlanten
 Konzernatlas 2026
@@ -317,7 +317,6 @@ Glyphosat
 Grüner Wasserstoff
 Infrastrukturatlas
 Insektenatlas
-Klima
 Kommunale Verkehrswende
 Konzernatlas
 Künstliche Intelligenz und Klimawandel

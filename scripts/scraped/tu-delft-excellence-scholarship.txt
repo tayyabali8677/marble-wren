@@ -703,7 +703,7 @@ Onderzoeksfaciliteiten
 PhDs
 Stories
 Innovatie & Impact
-Menu openen
+Menu sluiten
 Zakelijk samenwerken
 Pioneering Tech
 Ondernemerschap
@@ -1239,14 +1239,14 @@ Pioneering Tech
 Entrepreneurship
 Project Cases
 Community
-Menu sluiten
+Menu openen
 Alumni
 Campus Life
 Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
