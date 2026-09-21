@@ -1,6 +1,8 @@
 ===== SOURCE PAGE: https://hec.gov.pk/ =====
 English
 Home
+Turn on more accessible mode
+Turn off more accessible mode
 Sign In
 Close
 It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
