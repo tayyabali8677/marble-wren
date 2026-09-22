@@ -50,17 +50,21 @@ Português
 University account
 Get quality education in Russia!
 Choose a university How to apply
-Region
-Region Altai Krai Belgorod Oblast Chechen Republic Chelyabinsk region Chuvash Republic — Chuvashia Kabardino-Balkarian Republic Kaliningrad Oblast Khabarovsk Krai Krasnoyarsk Krai Leningrad Region Moscow region Nizhny Novgorod Oblast Novosibirsk Oblast Oryol Oblast Perm Krai Primorsky Krai Republic of Bashkortostan Republic of Crimea Republic of Mari El Republic of Mordovia Republic of Tatarstan Rostov Oblast Sverdlovsk Oblast Tomsk Oblast Tyumen Oblast Ulyanovsk Oblast Volgograd Oblast
+Could not update results. Please try again. Retry
+Filters Reset
 Study level
-Study level undergraduate degree Specialty Master&#039;s degree graduate school Residency Training assistantship internship
-Degree program
-Degree program Enter at least 2 characters
+Study level Secondary vocational education undergraduate degree Specialty Master&#039;s degree graduate school Residency Training assistantship internship
+Subject group
+Subject group Enter at least 2 characters Mathematics and Mechanics Computer and Information Sciences Physical Sciences Chemical Sciences Biological Sciences Earth and Environmental Sciences Construction and Architecture Electronics, Photonics, Instrumentation and Communications Information Technology and Telecommunications Power and Electrical Engineering Mechanical Engineering Chemical Technology, Materials Science and Metallurgy Biotechnology Subsoil Use and Mining Sciences Transport Systems Technosphere Safety Physics and Astronomy Clinical Medicine Preventive Medicine Biomedical Sciences Pharmaceutical Sciences Chemistry Agronomy, Forestry and Water Management Animal Science and Veterinary Medicine Agricultural Engineering and Food Technology Earth Sciences Law Economics Psychology Sociology Political Sciences Historical Sciences Philosophy Pedagogy Philology Art History and Cultural Studies Cognitive Sciences Architecture Construction equipment and technologies Computer Science and Engineering Information Security Electronics, radio engineering and communication systems Photonics, instrumentation, optical and biotechnical systems and technologies Electric and thermal power engineering Nuclear energy and technology Physical and technical sciences and technologies Chemical technologies Industrial ecology and biotechnology Technosphere safety and environmental management Applied Geology, mining, oil and gas engineering and geodesy Materials Technology Land transport equipment and technologies Aviation and rocket and space technology Air navigation and operation of aviation and rocket and space technology Shipbuilding and water transport engineering and technologies Management in technical systems Nanotechnology and nanomaterials Light industry technologies Basic Medicine Health Sciences and preventive medicine Pharmacy Nursing Agriculture, Forestry and fisheries Veterinary and animal science Psychological Sciences Economics and Management Sociology and Social Work Jurisprudence Political Sciences and Regional Studies Mass media and information and library science Service and Tourism Education and pedagogical sciences Linguistics and Literary Studies History and Archaeology Philosophy, Ethics and Religious Studies Theology Physical education and sports Art History Cultural studies and socio-cultural projects Performing arts and literary creativity Musical art Fine and applied arts Screen arts Oriental and African Studies
+Field of study
+Field of study Enter at least 2 characters
+Region
+Region Altai Krai Arkhangelsk Oblast Astrakhan Oblast Belgorod Oblast Bryansk Oblast Chechen Republic Chelyabinsk region Chuvash Republic — Chuvashia Irkutsk Oblast Ivanovo Oblast Jewish AO Kabardino-Balkarian Republic Kaliningrad Oblast Kaluga Oblast Karachay-Cherkess Republic Kemerovo Oblast — Kuzbass Khabarovsk Krai Khanty-Mansi Autonomous Okrug — Yugra Kirov Oblast Krasnodar Krai Krasnoyarsk Krai Kurgan Oblast Kursk Oblast Lipetsk Oblast Moscow Moscow region Nizhny Novgorod Oblast Novgorod Oblast Novosibirsk Oblast Omsk Oblast Orenburg Oblast Oryol Oblast Penza Oblast Perm Krai Primorsky Krai Pskov Oblast Republic of Adygea Republic of Altai Republic of Bashkortostan Republic of Buryatia Republic of Crimea Republic of Dagestan Republic of Ingushetia Republic of Kalmykia Republic of Karelia Republic of Komi Republic of Mari El Republic of Mordovia Republic of Sakha (Yakutia) Republic of Tatarstan Rostov Oblast Ryazan Oblast Sakhalin Oblast Samara Oblast Saratov Oblast Sevastopol Smolensk Oblast St. Petersburg Stavropol Krai Sverdlovsk Oblast Tambov region Tomsk Oblast Tula Oblast Tver Oblast Tyumen Oblast Udmurt Republic Ulyanovsk Oblast Vladimir Oblast Volgograd Oblast Vologda Oblast Voronezh Oblast Yaroslavl Oblast Zabaykalsky Krai
 University
 University Enter at least 2 characters
-Find
-Number of universities featured on the portal: 162
-Number of universities featured on the portal: 162
+Dormitory Preparatory faculty Double degree programs
+Number of universities featured on the portal: 163
+Number of universities featured on the portal: 163
 Nothing found, try changing the query
 How to apply to a Russian university
 1

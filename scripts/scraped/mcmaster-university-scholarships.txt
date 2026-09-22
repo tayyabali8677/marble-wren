@@ -581,7 +581,7 @@ International (Not Current Ontario High School Students)
 Programs:
 Select option Arts & Science Bachelor of Technology Business Chemical and Physical Sciences Gateway Computer Science Engineering Environmental & Earth Sciences Gateway Honours Economics I Honours Health and Society I Honours Health Sciences Honours Integrated Science Honours Kinesiology Honours Medical Radiation Sciences Humanities I iArts (Integrated Arts) I Integrated Biomedical Engineering & Health Sciences Integrated Business & Humanities Leadership & Civic Studies I (Wilson College) Life Sciences Gateway Mathematics & Statistics Gateway Midwifery Nursing Social Sciences I
 Programs:
-Select option ALL Other ABOVE LEVEL I Programs Not Appearing On This List Bachelor of Health Sciences (Above Level I) Biomedical Discovery & Commercialization Computer Science Engineering Justice, Political Philosophy, and Law (Above Level I) Midwifery Nursing Accelerated Stream (Above Level I) Nursing (Transfers from Non-Nursing University Programs / College Pre-Health Programs) Physician Assistant Social Work (Above Level I)
+Select option ALL Other ABOVE LEVEL I Programs Not Appearing On This List Bachelor of Health Sciences (Above Level I) Biomedical Discovery & Commercialization Computer Science Engineering Justice, Political Philosophy, and Law (Above Level I) Midwifery Nursing Accelerated Stream (Above Level I) Nursing (Transfers from Non-Nursing University Programs / College Pre-Health Programs) Social Work (Above Level I)
 Submit
 Clear Form
 Information Box Group

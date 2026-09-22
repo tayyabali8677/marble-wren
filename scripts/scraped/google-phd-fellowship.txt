@@ -507,7 +507,7 @@ Compilers
 Computer Architecture
 23
 Data Management
-109
+110
 Data Mining and Modeling
 286
 Distributed Systems and Parallel Computing
@@ -523,9 +523,9 @@ Hardware and Architecture
 Health & Bioscience
 118
 Human-Computer Interaction and Visualization
-283
+284
 Information Retrieval and the Web
-183
+184
 Machine Intelligence
 1001
 Machine Learning
@@ -551,12 +551,12 @@ Robotics
 Security, Privacy and Abuse Prevention
 186
 Software Engineering
-260
+261
 Software Systems
-220
+221
 Speech Processing
 155
-1 - 30 of 2212 researchers
+1 - 30 of 2213 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Sameer Agarwal
+Alekh Agarwal
 Algorithms and Theory
-Machine Perception
+Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
+Anmol Agarwal
+Natural Language Processing
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Alekh Agarwal
+Sameer Agarwal
 Algorithms and Theory
-Machine Intelligence
+Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,19 +618,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
+Shreya Agrawal
+General Science
+Machine Intelligence
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
-Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,17 +656,15 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Mustaq Ahmed
+Algorithms and Theory
+Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
-+2 more
-Zafarali Ahmed
-Machine Intelligence
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
 +2 more
 1
 2
