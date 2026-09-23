@@ -108,21 +108,18 @@ Scholarships
 Workshops
 Miscellaneous
 Deadline Approaching
-Grants
-IOC Olympic Studies Centre Research Grant Programme 2027
-| 5 Hours
 Awards
 International Pursuit Award for PhD Students and Recent Doctoral Graduates 2026
-| 3 Days
+| 2 Days
 Competitions
 International Youth Math Challenge 2026
-| 5 Days
+| 4 Days
 Competitions
 Heartfulness Essay Event 2026
-Online| 8 Days
+Online| 7 Days
 Conferences
 Global Peace Fully Funded Summit 2026 in Greece
-Greece| 8 Days
+Greece| 7 Days
 Scholarships
 University of Toronto Mastercard Foundation Doctor of Public Health Scholarship 2027–2028
 | 9 Days
@@ -131,20 +128,23 @@ The Brooke Owens Fellowship 2027
 United States| 12 Days
 Scholarships
 Knight-Hennessy Scholars (KHS) Program 2027 at Stanford University, USA
-United States| 14 Days
+United States| 13 Days
+Scholarships
+Lester B. Pearson International Scholarship 2027
+Canada| 17 Days
 Latest Additions
 Competitions
 The International Physics Competition (IPhyC) 2026
-Online| 40 Days
+Online| 39 Days
 Fellowships
 The Brooke Owens Fellowship 2027
 United States| 12 Days
 Awards
 International Pursuit Award for PhD Students and Recent Doctoral Graduates 2026
-| 3 Days
+| 2 Days
 Grants
 IOC Olympic Studies Centre Research Grant Programme 2027
-| 5 Hours
+| Closed
 Scholarships
 University of Toronto Mastercard Foundation Doctor of Public Health Scholarship 2027–2028
 | 9 Days
@@ -153,7 +153,7 @@ Girls On Campus &#8211; She Leads Scholarship 2026
 | 64 Days
 Competitions
 Heartfulness Essay Event 2026
-Online| 8 Days
+Online| 7 Days
 Fellowships
 Dissertation Writing-up Fellowships 2027
 Germany| Closed
@@ -162,7 +162,7 @@ The Journalists in Residence Program 2027
 United States| Closed
 Grants
 The CGP Opportunity and Innovation Grants 2026
-Online| 41 Days
+Online| 40 Days
 Trending
 Miscellaneous
 UN Young Leaders Training Programme 2024
@@ -318,21 +318,18 @@ Scholarships
 Workshops
 Miscellaneous
 Deadline Approaching
-Grants
-IOC Olympic Studies Centre Research Grant Programme 2027
-| 5 Hours
 Awards
 International Pursuit Award for PhD Students and Recent Doctoral Graduates 2026
-| 3 Days
+| 2 Days
 Competitions
 International Youth Math Challenge 2026
-| 5 Days
+| 4 Days
 Competitions
 Heartfulness Essay Event 2026
-Online| 8 Days
+Online| 7 Days
 Conferences
 Global Peace Fully Funded Summit 2026 in Greece
-Greece| 8 Days
+Greece| 7 Days
 Scholarships
 University of Toronto Mastercard Foundation Doctor of Public Health Scholarship 2027–2028
 | 9 Days
@@ -341,20 +338,23 @@ The Brooke Owens Fellowship 2027
 United States| 12 Days
 Scholarships
 Knight-Hennessy Scholars (KHS) Program 2027 at Stanford University, USA
-United States| 14 Days
+United States| 13 Days
+Scholarships
+Lester B. Pearson International Scholarship 2027
+Canada| 17 Days
 Latest Additions
 Competitions
 The International Physics Competition (IPhyC) 2026
-Online| 40 Days
+Online| 39 Days
 Fellowships
 The Brooke Owens Fellowship 2027
 United States| 12 Days
 Awards
 International Pursuit Award for PhD Students and Recent Doctoral Graduates 2026
-| 3 Days
+| 2 Days
 Grants
 IOC Olympic Studies Centre Research Grant Programme 2027
-| 5 Hours
+| Closed
 Scholarships
 University of Toronto Mastercard Foundation Doctor of Public Health Scholarship 2027–2028
 | 9 Days
@@ -363,7 +363,7 @@ Girls On Campus &#8211; She Leads Scholarship 2026
 | 64 Days
 Competitions
 Heartfulness Essay Event 2026
-Online| 8 Days
+Online| 7 Days
 Fellowships
 Dissertation Writing-up Fellowships 2027
 Germany| Closed
@@ -372,7 +372,7 @@ The Journalists in Residence Program 2027
 United States| Closed
 Grants
 The CGP Opportunity and Innovation Grants 2026
-Online| 41 Days
+Online| 40 Days
 Trending
 Miscellaneous
 UN Young Leaders Training Programme 2024

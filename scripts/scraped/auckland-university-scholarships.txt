@@ -329,7 +329,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
@@ -843,7 +842,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
@@ -1356,7 +1354,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
@@ -1872,7 +1869,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
@@ -2377,7 +2373,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
@@ -2873,7 +2868,6 @@ Clubs and societies
 What's On
 Māori life on campus
 Pacific life on campus
-Blog: The Inside Word
 Accommodation
 Self-catered accommodation
 Catered accommodation
