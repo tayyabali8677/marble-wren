@@ -127,7 +127,7 @@ SPRONG Transparency in the food chain
 Isaac Newton Group Telescopes 27a
 Clean Energy Transition Partnership
 Mobility and Development Programme
-Open calls 42
+Open calls 45
 Open Access Books
 Weave with NWO as partner agency 2026/2027
 Computing Time on National Computing Facilities
@@ -146,11 +146,11 @@ Derk Loorbach: &#039;The worse things get, the more appealing the alternatives b
 ‘I already have everything I need,’ Derk Loorbach wrote on a protest placard 30 years ago. Today, he still has no shortage of ambition. Through his...
 Read more
 News
+Two grants awarded under the KIC call ‘Medicines from medicines’
+23 September 2026
 First round of the SSH Open Competition Expand 2026 now open for proposals
 22 September 2026
 From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
-21 September 2026
-Final brochure presents findings from research into autism and psychosis
 21 September 2026
 More news
 Events
@@ -1080,8 +1080,8 @@ Cookie settings
 Archive
 Responsible disclosure
 
-===== SOURCE PAGE: https://www.nwo.nl/en/news/from-sea-monsters-to-inclusive-collective-narratives-16-museum-grants-awarded =====
-From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded | NWO
+===== SOURCE PAGE: https://www.nwo.nl/en/news/two-grants-awarded-under-the-kic-call-medicines-from-medicines =====
+Two grants awarded under the KIC call ‘Medicines from medicines’ | NWO
 Skip to main content
 Search
 Find funding
@@ -1196,126 +1196,42 @@ Listen
 Breadcrumb
 Home
 News
-From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
-From Sea Monsters to Inclusive Collective Narratives: 16 Museum Grants Awarded
-21 September 2026
-Within the latest Museum Grants round, funding has been awarded to 16 research projects. This programme facilitates research that contributes to strengthening the scientific function of museums
-In the Museum Grants programme, museum employees can apply for grants for short-term in-depth scientific research related to the museum or its collection. The results must benefit museum research practice and be recorded in an open access publication. Employees of a museum institution may act as the main applicant. Each application must involve one researcher affiliated with a research organisation as a supervisor of the research. NWO administers this programme through its Social Sciences and Humanities (SSH) Domain, with support from funding provided by the Ministry of Education, Culture and Science.
-From sea monsters on historic nautical maps to Indonesian ship models, and from climate research to new perspectives on museum collections, the 16 awarded Museum Grants demonstrate the breadth and diversity of museum research.
-The awarded projects:
-De tijdscapsule in nieuw licht: nieuwe context bij een bijna 100 jaar oude museumpresentatie
-E.F.M. van Rijt (Missiemuseum Steyl)
-Every story has multiple sides. Which perspectives are missing from the century-old missionary museum presentation of the Missiemuseum? In collaboration with diaspora communities, this research develops a plural narrative that incorporates alternative cultural, spiritual, and historical meanings of animal objects, enabling the collection to be interpreted in a responsible way.
-Sea Serpents and Squids: The representation of sea monsters on maps between 1450 and 1650
-C.A.K. Jarvis (Stichting Nederlands Scheepvaartmuseum Amsterdam)
-This project will use fifteenth- to seventeenth-century maps in Het Scheepvaartmuseum’s collection to examine how sea monsters were perceived over time as more of the ocean was explored (and exploited) and geographic understanding developed. What can the depictions of these monsters tell us about people's changing understandings of the ocean?
-Weekdier als weerman? Variaties in zomer- en wintertemperatuur ontrafeld uit 2 miljoen jaar oude fossiele schelpen
-B.W. Langeveld (The Natural History Museum Rotterdam)
-How cold was the Ice Age? Fossil shells recovered from a borehole 200 meters beneath Rotterdam hold the answer. Thanks to high-tech isotope research on the shell chalk, we will, for the first time, obtain seasonal reconstructions of primeval North Sea climate, 2.5 million years ago.
-Smetteloos wit. Reinigingspraktijken van tafellinnen in de Republiek
-S.J. van Dijk (Rijksmuseum Amsterdam)
-How do you make tablecloths sparkling white again? In the 17th century, this mattered greatly, as linen damask was among the most valuable items in the home. We collect and test historical stain removal recipes to understand women’s past practices and whether these can inspire more sustainable washing methods today.
-Batik herzien: dekolonisatie van de batikcollectie van het Kunstmuseum Den Haag
-S.Y. Bolk (Kunstmuseum Den Haag)
-This research examines the colonial entanglements of Dutch and Indonesian batik and its broader artistic reception within the Kunstmuseum Den Haag collection. Through collaboration, public engagement, and artistic research, it restores original meanings and highlights underrepresented makers, wearers and narratives.
-De historische moestuin van Paleis Het Loo
-S. Steen (Paleis Het Loo Nationaal Museum)
-The history of Paleis Het Loo as a self-sufficient country estate in the seventeenth century deserves more attention. This project studies early modern vegetable gardens, including Het Loo, through historical sources, to provide a foundation for a scientifically substantiated reconstruction that sustainably connects heritage, research and audience experience.
-Verbinden door dialoog: Kunstbeleving bij jongvolwassenen in het Rijksmuseum
-S. Shazad (Rijksmuseum Amsterdam)
-Together the University of Groningen and Rijksmuseum investigate the art experiences and sense-making in a diverse group of emerging adults (18–30 years) in the museum. The findings enable the Rijksmuseum and other museums to optimize their programming, ensuring it resonates more effectively with the socio-cultural frameworks of younger generations.
-Please Note, This Artwork Might Evoke Emotions: Trigger Warnings in Contemporary Art Museums
-E.R. Harjadi Herman (Stedelijk Museum Amsterdam)
-More and more museums are using trigger warnings to inform visitors about artworks that may provoke intense reactions. But what effects do these trigger warnings actually have? This research maps out their implementation by museum professionals and impact on visitors.
-Koloniaal verleden bloot gelegd: de Indonesische scheepsmodellen uit de collectie van het Maritiem Museum Rotterdam
-J. Siegel (Stichting Maritiem Museum)
-The Indonesian ship models in the Maritime Museum Rotterdam embody both maritime heritage and a complex colonial history, as the objects were collected during the Dutch presence in the Indonesian archipelago. We investigate origins, makers and significance of these models, and reflect on their place in our museum collection.
-Mapping Streetwear Amsterdam
-R. Luis Martins (Amsterdam Museum)
-“Mapping Streetwear Amsterdam” explores the development of Amsterdam streetwear between 1985 and 2025 as part of ‘the culture’. The research project historically maps this movement and contributes to embedding streetwear within both academic discourse and the museum field.
-Het museum als publieke ruimte: Een ontwerpgerichte studie naar gedeelde ervaringen in het wetenschapsmuseum
-dr. R.K. Franse (NEMO)
-In museums, people meet each other in a specific context, such as science and technology at NEMO. This empirical study maps the diversity and significance of interactions between companions and strangers, to inform programme design that facilitates such encounters.
-Zilver, koper en koloniale kennis: een nieuw perspectief op de Nederlandse genreschilderkunst in het Mauritshuis
-N.J. Hartkamp (Koninklijk Kabinet van Schilderijen Mauritshuis)
-The seventeenth-century genre paintings in the Mauritshuis are considered ‘typically Dutch’, yet the material world they depict is inseparable from international trade and colonialism. By studying depicted the silver and copper objects as agents of knowledge, this research explores how these domestic scenes relate to the transatlantic circulation of materials.
-&#039;Waar alles mag en niets moet&#039;: Nederlandse wetenschapsmusea en de opkomst van beleving
-M.C.E. Stoppels (Rijksmuseum Boerhaave)
-Wonder! The modern science museum seems unable to do without it. But how did experience become so important? Taking Rijksmuseum Boerhaave as its point of departure, this project examines how Dutch science museums began addressing their publics differently in the 1960s, and how this created tensions with classical museum approaches.
-De verzamelgeschiedenis van queer verbeeldingen (1885–1950): Analyse van de vroege collectie van Stedelijk Museum Amsterdam
-T.M. Klopper (Stedelijk Museum Amsterdam)
-This study examines early works from the collection of the Stedelijk Museum Amsterdam (1885–1950) from a queer perspective. By focusing on subtle, often hidden visual language, it brings to light underrepresented histories. These new perspectives contribute to a more inclusive interpretation of museum collections.
-Collecting Without a Framework: Developing Collection Management and Storage Standards for the Saba Heritage Center in the Context of the Caribbean Netherlands
-S. Balfour (Saba Archaeological Center Foundation)
-Saba is building a new heritage centre in 2029, but its requirements have not been investigated. This project investigates and compares collection management on the Caribbean islands within the Kingdom and in the European Netherlands, and formulates best practices and recommendations, while focusing on the future Saba Heritage Center.
-From Salt Pond to Emancipation: Slavery, Labour, Ruin, and Memory in the Sint Maarten Museum
-S.M. Dehaney (Sint Maarten National Heritage Foundation)
-This project explores the history of slavery and emancipation in Sint Maarten through sites, ruins, family memories, museum collections, and archives. It helps the museum develop stronger exhibitions and educational materials and makes the history of Indigenous presence, salt labor, plantation life, and freedom more accessible to the public.
-View all projects from the Museum Grants
-Earth sciences
-Archaeology
-Area studies
-Business administration
-Public administration & political science
-Biology
-Communication science
-Computers and the humanities
-Cultural anthropology
-Demography
-Veterinary medicine
-Economics
-Philosophy
-Gender studies
-Medicine
-Geography/planning
-History
-Computer science
-Art and architecture
-Life sciences
-Life sciences and medicine
-Medical Sciences
-Environmental science
-Music, theatre, performing arts and media
-Physics
-Science and technology
-Educational Sciences
-Design Sciences
-Development studies
-Pedagogics
-Psychology
-Law
-Religious studies and theology
-Chemistry
-Sociology
-Astronomy, astrophysics
-Language and literature
-Linguistics
-Technology
-Water Research
-History of science
-Mathematics
+Two grants awarded under the KIC call ‘Medicines from medicines’
+Two grants awarded under the KIC call ‘Medicines from medicines’
+23 September 2026
+Shutterstock
+As part of the KIC Mission Call ‘Medicines from medicines – knowledge development for the circular redesign of the medicines supply chain’, NWO has awarded funding to two projects. The projects explore how returned or discarded medicines can be reused. In doing so, the projects contribute to the design of a circular medicines supply chain. Together, the projects will receive over 4 million euros.
+Aim of the call
+The transition to a circular medicines supply chain is necessary due to increasing waste and medicines shortages, supply issues and the growing demand for medicines as a result of an ageing population and chronic diseases. Furthermore, a circular supply chain offers opportunities for sustainable and future-proof medicines production.
+This call focuses on inter- and transdisciplinary knowledge development that contributes to the circular redesign of the medicines supply chain. The emphasis is on developing business cases and use cases that involve the entire supply chain. Consortia will combine expertise from fields including medicine, technology, law and the social sciences, and will focus on societal and economic impact. The intended societal impact is a shift amongst all key stakeholders, leading to a circular pharmaceutical supply chain that meets the same high standards of quality, efficacy and safety as the current linear supply chain.
+The awarded projects
+A transdisciplinary framework to identify opportunities for REmanufacturing of MEDicines to enhance SustainabilitY (REMEDY) - E.M. Smale PhD (Erasmus MC)
+Every year, large quantities of unused medicines are thrown away, even though they still contain valuable ingredients. At the same time, medicine shortages are on the rise, the cost of medicines is increasing, and medicine production has a significant impact on the environment. REMEDY is investigating how active ingredients from unused medicines can be safely recovered and reused to produce new medicines. Together with pharmacists, pharmaceutical companies, hospitals, health insurers and patients, REMEDY is developing and testing ways to reuse these active ingredients safely and responsibly. The project demonstrates when reused ingredients can safely and effectively replace new ones, thereby reducing waste and ensuring medicines remain readily available.
+Consortium
+Erasmus MC, Erasmus University, Hanze University of Applied Sciences, Maastricht University, SIR Institute for Pharmacy Practice and Policy
+Co-funders
+Brocacef Group, Ofichem Laboratory, Katwijk Chemie, A15 Pharmacy, Laboratory of Dutch Pharmacists, Fagron, VGZ, Pharmaswap, IQVIA
+Collaborating partners
+Symeres, University of Groningen, Association for Innovative Medicines, Van Amerongen Pharmacy, Gupta Strategists, Jacqueline Postma as patient representative
+REMARK Redispensing Medication: Adoption, Redesign, Knowledge building - Prof. dr. A.M. Weggelaar (Tilburg University – Tranzo)
+Every day, unused medicines are destroyed in long-term care, resulting in unnecessary costs, persistent shortages and environmental impact. Initiatives to prescribe fewer medicines have proved insufficient to prevent waste. That is why the pharmaceutical supply chain needs to be redesigned to enable the reuse of medicines under strict conditions. The REMARK consortium is collaborating with all stakeholders in the pharmaceutical supply chain to develop a circular approach to the re-dispensing of medicines. By linking information systems, utilising data science and conducting practice-oriented research, they are designing a transparent, verifiable supply chain, with quality, safety, affordability and regulatory compliance as prerequisites for reuse.
+Consortium
+Eindhoven University of Technology, Tilburg University, Tranzo, Erasmus University Rotterdam [AM1]
+Co-funders
+Espria, vanBoeijen, ST. Amstelring, St. Cordaan, Lentis, Farmadam, Wilhelmina Hospital Assen Pharmacy, Martini Pharmacy, Fresco Farma, Medimo, Remediz, St. Repharmable, Innotractor, Health and Youth Care Inspectorate, Amphia Hospital, Evean, Loyda.nl, GS 1
+Collaborating partners
+Special Interest Group (SIG) on Hospital Pharmacy (KNMP Royal Dutch Pharmacist Association), Institute for Responsible Medication Use (IVM), Creative Desk
+NWO-KIC: innovation programmes in the knowledge and innovation covenant
+NWO develops innovation programmes that focus on societal challenges in the Netherlands. These programmes aim to have an impact on the economy, people and society. The focus is on cooperation between knowledge institutions, private parties and the government. The results thus contribute to the realisation of economic opportunities. It is therefore essential that companies invest in every research project.
 Characteristics
 Research programme
-Museum Grants
-Theme
-Knowledge Utilisation
+Medicines from medicines
+Themes
+Health
+Climate
+Circulaire economie
 Type
 Awards
-&#039;An opportunity for museums to conduct their own research into their collections&#039;
-Forgotten culture from Indonesia
-Contact
-Nelline Bogerd
-Programme/ policy officer
-+31 (0)70 3440686
-Send email
-NWO Domain
-Social Sciences and Humanities (SSH)
-Simone Teerink
-Policy officer
-+31 (0)70 3494361
-Send email
-NWO Domain
-Social Sciences and Humanities (SSH)
 Menu
 Find funding
 Research policy NWO

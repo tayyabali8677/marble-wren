@@ -519,25 +519,25 @@ Education Innovation
 General Science
 153
 Hardware and Architecture
-132
+133
 Health & Bioscience
 118
 Human-Computer Interaction and Visualization
-284
+283
 Information Retrieval and the Web
 184
 Machine Intelligence
-1001
+999
 Machine Learning
-207
+208
 Machine Perception
-422
+421
 Machine Translation
 66
 Mobile Systems
 88
 Natural Language Processing
-482
+481
 Networking
 133
 Operating Systems
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
-Anmol Agarwal
-Natural Language Processing
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -621,9 +621,6 @@ Distributed Systems and Parallel Computing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
-Shreya Agrawal
-General Science
-Machine Intelligence
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -631,6 +628,9 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Shreya Agrawal
+General Science
+Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,16 +656,18 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
-Zafarali Ahmed
-Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
+Zafarali Ahmed
+Machine Intelligence
 1
 2
 3

@@ -41,7 +41,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 2
 Calendar
 Contact
 Verify digital document ✓
@@ -59,19 +59,19 @@ Provides every citizen with the opportunity to get continuous education.
 Projects
 Projects of the Ministry of Education
 News
+The Minister attends a high-level event dedicated to the building of safe digital systems for children
+23.09.2026 - 15:55
+Azerbaijan’s Ministry of Science and Education and OpenAI Expand Cooperation on the Use of AI in Education
+23.09.2026 - 09:49
+Minister of Science and Education attends the event "Partnership for Building the Future Together
+22.09.2026 - 13:53
+&nbsp
 Minister of Science and Education Emin Amrullayev’s Interview with AnewZ
 11.09.2026 - 09:14
 Deputy Minister of Science and Education meets with the Minister of State of Pakistan
 23.07.2026 - 20:05
 Deputy Minister Hasan Hasanlı meets with the Ambassador of the Republic of Rwanda
 10.07.2026 - 15:11
-&nbsp
-Deputy Minister meets with Rector of Istanbul Atlas University
-03.07.2026 - 18:19
-Minister of Science and Education meets with a delegation from the University of Warwick
-01.07.2026 - 16:30
-The Minister of Science and Education met with the Secretary-General of the OTS
-09.06.2026 - 12:20
 All news
 11/09/2026
 "Təhsilin keyfiyyəti şagirdin nəticəsidir" | Emin Əmrullayev
@@ -153,7 +153,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 2
 Calendar
 Contact
 Verify digital document ✓
@@ -214,7 +214,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH
+NEWSFLASH 2
 Calendar
 Contact
 Verify digital document ✓
