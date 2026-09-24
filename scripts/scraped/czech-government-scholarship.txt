@@ -61,12 +61,6 @@ Events
 EUCYS 2026
 CZELO
 23. 09. 2026
-EU Access to Space Conference
-CZELO
-23. 09. 2026
-The EU Advanced Materials Ecosystem
-CZELO
-23. 09. 2026
 - 24. 09. 2026
 4th European Symposium on Artificial Intelligence in Manufacturing
 CZELO
@@ -76,6 +70,12 @@ Connecting Europe Days
 CZELO
 28. 09. 2026
 Brokerage event Building Strong Networks in Cluster 1 Health and Mission Cancer
+CZELO
+29. 09. 2026
+Talent Ecosystems: Building sustainable research careers
+CZELO
+29. 09. 2026
+Webinar Upskilling Europe: Microcredentials in action
 CZELO
 All events
 Statistics

@@ -499,7 +499,7 @@ Research Area
 Algorithms and Theory
 402
 Audio Processing
-17
+18
 Climate and Sustainability
 12
 Compilers
@@ -517,21 +517,21 @@ Economics and Electronic Commerce
 Education Innovation
 34
 General Science
-153
+154
 Hardware and Architecture
 133
 Health & Bioscience
-118
+119
 Human-Computer Interaction and Visualization
-283
+284
 Information Retrieval and the Web
 184
 Machine Intelligence
 999
 Machine Learning
-208
+209
 Machine Perception
-421
+422
 Machine Translation
 66
 Mobile Systems
@@ -555,8 +555,8 @@ Software Engineering
 Software Systems
 221
 Speech Processing
-155
-1 - 30 of 2213 researchers
+156
+1 - 30 of 2214 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,16 +618,16 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Parth Agrawal
+Machine Learning
+Machine Perception
+Robotics
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
-Parth Agrawal
-Machine Learning
-Machine Perception
-Robotics
 Shreya Agrawal
 General Science
 Machine Intelligence
@@ -661,13 +661,13 @@ Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Zafarali Ahmed
+Machine Intelligence
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
-Zafarali Ahmed
-Machine Intelligence
 1
 2
 3

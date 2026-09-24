@@ -1561,7 +1561,7 @@ National Research Data Infrastructur e (interner Link)
 Research Infrastructure
 Open Acces s (interner Link)
 Open Access Publication Fundin g (interner Link)
-Infrastructures for Scholarly Publishin g (Download)
+Infrastructures for Scholarly Publishin g (interner Link)
 Information Infrastructures for Research Dat a (interner Link)
 Funding Programme “Coordinating Roles and Responsibilities in Information Infrastructures” (VIGO ) (interner Link)
 International
@@ -1576,7 +1576,7 @@ Handling of Research Dat a (interner Link)
 Publishin g (interner Link)
 Subject Area Structure and Interdisciplinarit y (interner Link)
 Last updated:
-4 September 2026
+24 September 2026
 Information Systems and Websites
 Portal Research Integrity
 GEPRIS

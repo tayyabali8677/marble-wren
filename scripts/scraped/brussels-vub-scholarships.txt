@@ -656,6 +656,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette
@@ -1310,6 +1311,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette
@@ -1990,6 +1992,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette
@@ -2639,6 +2642,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette
@@ -3317,6 +3321,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette
@@ -3966,6 +3971,7 @@ PhD students
 Teachers and secondary schools
 Working students
 International students
+Suplliers
 Security and emergency numbers
 Security Campus in Etterbeek
 Security campus in Jette

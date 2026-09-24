@@ -40,7 +40,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -119,7 +119,7 @@ Scholarships
 Come to TU Delft with a Scholarship!
 At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
 The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
 Scholarship application form
@@ -147,9 +147,11 @@ Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
+To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
+Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
+Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
 Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
 Financial extensions beyond the 2-year period are not supported by the scholarship.
 The student must remain enrolled at TU Delft during the scholarship period
 Full details will disclosed in the award letter.
@@ -308,7 +310,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -514,7 +516,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -766,12 +768,19 @@ Verenigingen
 Voorbereiden: Courses en Summer School
 Stad Delft
 Topsport en Studie
+Studie- & Studentenverenigingen
+Sport & Cultuur
+Junior TU Delft
 Student Stories
+Online Fairs
+Online Fairs
+Bachelorvoorlichting voor Belgische scholieren
+BSc - Last question day
 Scholarships
 Come to TU Delft with a Scholarship!
 At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
 The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
 Scholarship application form
@@ -799,9 +808,11 @@ Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
+To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
+Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
+Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
 Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
 Financial extensions beyond the 2-year period are not supported by the scholarship.
 The student must remain enrolled at TU Delft during the scholarship period
 Full details will disclosed in the award letter.
@@ -960,7 +971,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1039,7 +1050,7 @@ Scholarships
 Come to TU Delft with a Scholarship!
 At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
 The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
 FAQ
 FREQUENTLY ASKED QUESTIONS
 Scholarship application form
@@ -1067,9 +1078,11 @@ Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
+To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
+Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
+Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
 Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-To be eligible for the scholarship allowances in the second year the student is required to have made sufficient study progress. At the end of the first academic year, the student must have completed at least 48 ECTS credits out of 60.
 Financial extensions beyond the 2-year period are not supported by the scholarship.
 The student must remain enrolled at TU Delft during the scholarship period
 Full details will disclosed in the award letter.
@@ -1228,7 +1241,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation

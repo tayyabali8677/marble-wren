@@ -1570,21 +1570,6 @@ Clear Show all 153 results
 Funding
 Scholarships
 Law
-Rice-Jones Charitable Trust Postgraduate Law Scholarship
-University of Lancashire
-Award criteria:
-Academic excellence, Income related
-Deadline:
-Not specified
-Request info Visit website
-Filter ( 0 )
-Reset
-Scholarship FAQs
-What is a scholarship?
-Where do scholarships come from?
-What are scholarships awarded for?
-Can you have multiple scholarships?
-Do you have to pay scholarships back?
 Southampton Law Postgraduate International Scholarship
 University of Southampton
 Award criteria:
@@ -1600,6 +1585,13 @@ Award criteria:
 Mature students
 Funding amount:
 £1,000
+Deadline:
+Not specified
+Request info Visit website
+Rice-Jones Charitable Trust Postgraduate Law Scholarship
+University of Lancashire
+Award criteria:
+Academic excellence, Income related
 Deadline:
 Not specified
 Request info Visit website
@@ -1637,5 +1629,13 @@ Request info Visit website
 5
 ...
 26
+Scholarship FAQs
+Filter ( 0 )
+Reset
+What is a scholarship?
+Where do scholarships come from?
+What are scholarships awarded for?
+Can you have multiple scholarships?
+Do you have to pay scholarships back?
 Postgraduate Law Scholarships
 Here are 153 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.
