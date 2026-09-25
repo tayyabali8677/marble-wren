@@ -36,11 +36,11 @@ Commonwealth Scholarships and Fellowships are aimed at talented individuals who 
 Information for applicants
 Information for UK universities
 Latest Posts
+Introducing the winners of the 2026 Alumni Community Engagement Fund
 Applications open for the CSC Mentoring Programme 2026-27
 Bridging the finance gap for women and youth entrepreneurs in Antigua and Barbuda
 Commonwealth Scholars from Small Island Developing States selected for 2026/27 Master&#8217;s Scholarships
 Commonwealth Alumni Reconnect in Mauritius
-Exploring opportunities and risks of AI in the workplace in Kenya
 Copyright Notice | Financial Accountability | Contact Us
 Privacy Policy | Cookie Policy | Accessibility Statement
 © Commonwealth Scholarship Commission in the UK 2026
@@ -534,8 +534,8 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 SAVE & ACCEPT
 Powered by
 
-===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/applications-open-for-the-2026-2027-csc-mentoring-programme/ =====
-Applications open for the CSC Mentoring Programme 2026-27 - Commonwealth Scholarship Commission in the UK
+===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/introducing-the-winners-of-the-2026-alumni-community-engagement-fund/ =====
+Introducing the winners of the 2026 Alumni Community Engagement Fund - Commonwealth Scholarship Commission in the UK
 Scholarships and Fellowships
 Current Scholars
 Regional networks
@@ -567,28 +567,54 @@ Fellowship host organisations
 Academic Advisers
 Find a scholarship
 Select Page
-Applications open for the CSC Mentoring Programme 2026-27
-by Alumni Team | Sep 22, 2026 | News
-We are pleased to announce that applications are now open for the CSC Mentoring Programme 2026-27.
-The CSC’s Mentoring Programme connects Commonwealth Scholars and Alumni to support knowledge and skills development, and provide practical tools to support Scholars in achieving development impact.
-Why take part?
-Commonwealth Scholars will have the opportunity to learn from an experienced Commonwealth Alumnus, and gain valuable insights, personalised guidance, and practical advice to help maximise their development impact.
-Mentees will also be able to build professional connections, receive support in adapting to life and study in the UK, and develop their professional confidence for future career opportunities.
-Commonwealth Alumni play a key role in shaping a new Scholar&#8217;s journey and future impact. As Mentors, they will provide advice on developing new skills and knowledge and applying this learning to drive development impact after the scholarship.
-The programme offers a rewarding opportunity for Mentors to enhance their mentoring and leadership skills, expand their networks, and share their expertise and experiences within the wider CSC community.
-The Mentoring Programme runs for one year from December 2026 until December 2027 with sessions taking place online.
-How to apply
-All eligible Commonwealth Scholars and Alumni will receive full information about the programme and how to apply in September 2026.
-The deadline for applications is 23:59 (BST) on Sunday 11 October 2026 .
-You can find out more about the opportunity and read testimonials from previous participants on the CSC Mentoring Programme page .
-For more information about the eligibility criteria, please read the CSC Mentoring Programme &#8211; FAQs .
-If you have any questions about the CSC Mentoring Programme, or how to apply, please contact alumni@cscuk.org.uk for more information.
+Introducing the winners of the 2026 Alumni Community Engagement Fund
+by Alumni Team | Sep 25, 2026 | Alumni , News
+We are delighted to announce the 2026 recipients of the CSC Alumni Community Engagement Fund (ACEF) . The fund showcases how small changes implemented at the community level can lead to a big impact over time.
+Following a competitive selection process, 15 organisers have been selected from over 200 applications. Over the next seven months, they will each deliver a community activity under three broad themes:
+Artificial intelligence for development
+Women entrepreneurs: catalyst for change
+Strengthening blue economies in Small Island Developing States (SIDS)
+Read more about the winning proposals and the impact they hope to make through their activities.
+Artificial intelligence (AI) for development
+Strengthening livestock disease surveillance with event mobile application (EMA-i+) , Alfred Kinyera (2015 Distance Learning Scholar from Uganda)
+Through workshops, radio shows, and awareness campaigns, Alfred will promote the EMA-i+ platform, helping livestock farmers and animal health workers to report diseases quickly and improve livestock resilience.
+AI for better learning communities , Alpha Habib Bangura (2023 Scholar from Sierra Leone)
+Alpha will deliver a six-week programme of workshops, AI action labs, and mentoring sessions to increase responsible AI adoption in education.
+Using AI techniques for inclusive e-participation , Amrita Saudia Ramnauth (2021 Scholar from Guyana), Andreasa Morris-Martin (2010 Scholar from Guyana) and Lenandlar Singh (2006 Scholar from Guyana)
+The team will deliver a workshop on using AI to strengthen citizen participation in Guyana’s digital public services and co-design inclusive and accessible solutions to address key digital public service challenges.
+Unlocking opportunities: AI skills for youth and women in rural communities , Elizabeth Mutua (2009 Distance Learning Scholar from Kenya)
+Elizabeth will deliver AI training for youth and women in rural and peri-urban communities to build up digital skills for employment, entrepreneurship, and community innovation.
+Building AI champions in rural schools , Nfor Carlton Mbunwe (2024 Startup Fellow from Cameroon)
+Nfor’s initiative will boost AI awareness in rural secondary schools by training AI champions among school principals, teachers, and student leaders as well as promoting responsible AI use through community outreach.
+Empowering students with disabilities through AI , Emmanuel Adu Boahen (2024 Shared Scholar from Ghana)
+Through workshops, Emmanuel will train students with disabilities to use AI-powered learning tools to help them access education and support digital inclusion.
+AI-powered freelancing for youth employment, Kamphinga Keith Bamusi (2025 Professional Fellow from Malawi)
+In partnership with Zomba City Council, Kamphinga will deliver an AI-assisted freelancing programme to help young people develop digital skills, access employment opportunities, and build sustainable livelihoods.
+Beyond the algorithm: Appearance intelligence for inclusive AI , Ogo Chinenye Maduewesi (2017 Professional Fellow from Nigeria)
+Ogo will lead a one-day event exploring how AI shapes perceptions of human appearance, where participants will be asked to critically examine bias and shape recommendations for more inclusive AI development.
+Responsible AI in education and health practice , Premika Charan (2019 Scholar from Fiji)
+Premika will host a one-day workshop for students and staff at Fiji National University on using AI safely, ethically, and effectively in education, health, and professional settings.
+Women entrepreneurs: catalyst for change
+Her farm, her enterprise: skills for change , Aiman Aziz (2025 Startup Fellow from Pakistan)
+Aiman will lead a workshop for rural women farmers on the adoption of vermicomposting and bio-pesticide production to create sustainable income opportunities and support environmentally friendly farming.
+Growing women-led blue economy enterprises , Emmanuel Magesa Nkukura (2022 Split-site Scholar from Tanzania)
+Emmanuel’s training programme will support women working in seaweed farming to strengthen their business skills and boost sustainable enterprise, market access, and economic resilience.
+Women create change: empowering women entrepreneurs , Haasini Sai Sri Gurram (2022 Shared Scholar from India)
+Haasini’s one-day training will bring together women entrepreneurs and aspiring entrepreneurs from self-help groups to develop their business skills, expand their professional networks, and explore new market opportunities for sustainable enterprise growth.
+From fear to leader: empowering rural women entrepreneurs , Nishat Anjum Palka (2025 Startup Fellow from Bangladesh)
+Drawing on her experience of building and scaling startups, Nishat will design and lead a three-month entrepreneurship development programme to support rural women in Bangladesh harness their business skills and create sustainable businesses.
+Strengthening blue economies in Small Island Developing States (SIDS)
+Growing awareness for mangrove conservation , Felicite Marie Brenda (2021 Professional Fellow from Mauritius)
+To mark World Mangrove Day, Felicite will organise a community mangrove planting and awareness event in Rodrigues to promote coastal conservation, and sea turtle protection while supporting a sustainable blue economy.
+Using geospatial tools for cleaner waterways , Tarik Dixon (2013 Scholar from Jamaica)
+Through the Commonwealth Scholarship Alumni Association of Jamaica (CSAAJ), Tarik will host a one-day community mapping workshop in Kingston Harbour to train residents and youth in using geospatial tools to map waste hotspots. The initiative aims to support cleaner waterways, marine conservation, and community-led environmental action.
+We would like to thank everyone who applied for the 2026 Alumni Community Engagement Fund and shared their inspiring ideas for community impact.
 Latest Posts
+Introducing the winners of the 2026 Alumni Community Engagement Fund
 Applications open for the CSC Mentoring Programme 2026-27
 Bridging the finance gap for women and youth entrepreneurs in Antigua and Barbuda
 Commonwealth Scholars from Small Island Developing States selected for 2026/27 Master&#8217;s Scholarships
 Commonwealth Alumni Reconnect in Mauritius
-Exploring opportunities and risks of AI in the workplace in Kenya
 Copyright Notice | Financial Accountability | Contact Us
 Privacy Policy | Cookie Policy | Accessibility Statement
 © Commonwealth Scholarship Commission in the UK 2026

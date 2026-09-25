@@ -497,7 +497,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-402
+404
 Audio Processing
 18
 Climate and Sustainability
@@ -515,9 +515,9 @@ Distributed Systems and Parallel Computing
 Economics and Electronic Commerce
 80
 Education Innovation
-34
+35
 General Science
-154
+155
 Hardware and Architecture
 133
 Health & Bioscience
@@ -527,9 +527,9 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 184
 Machine Intelligence
-999
+998
 Machine Learning
-209
+210
 Machine Perception
 422
 Machine Translation
@@ -539,24 +539,24 @@ Mobile Systems
 Natural Language Processing
 481
 Networking
-133
+134
 Operating Systems
-15
+16
 Quantum Computing
 68
 Responsible AI
-86
+87
 Robotics
 74
 Security, Privacy and Abuse Prevention
 186
 Software Engineering
-261
+260
 Software Systems
 221
 Speech Processing
 156
-1 - 30 of 2214 researchers
+1 - 30 of 2216 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,9 +592,6 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -602,14 +599,17 @@ Machine Learning
 +2 more
 Anmol Agarwal
 Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,13 +618,13 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -656,6 +656,9 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
@@ -663,11 +666,6 @@ Responsible AI
 +2 more
 Zafarali Ahmed
 Machine Intelligence
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
 1
 2
 3

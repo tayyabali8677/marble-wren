@@ -385,10 +385,6 @@ xxxxxx
 閉じる
 Events Information
 イベント情報
-09
-25
-【Fri】
-2026年9月入学式
 10
 05
 【Mon】
@@ -409,6 +405,10 @@ Events Information
 01
 【Sun】
 オープンキャンパス
+11
+02
+【Mon】
+コリアン・ウィーク
 イベント情報一覧を見る
 PAGETOP
 サイトポリシー

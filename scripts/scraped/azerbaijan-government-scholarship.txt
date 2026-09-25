@@ -59,19 +59,19 @@ Provides every citizen with the opportunity to get continuous education.
 Projects
 Projects of the Ministry of Education
 News
+Hasan Hasanli meets with the Chair of the Education, Science and Youth Affairs Committee of the Parliament of Georgia
+24.09.2026 - 19:57
 The Minister attends a high-level event dedicated to the building of safe digital systems for children
 23.09.2026 - 15:55
 Azerbaijan’s Ministry of Science and Education and OpenAI Expand Cooperation on the Use of AI in Education
 23.09.2026 - 09:49
+&nbsp
 Minister of Science and Education attends the event "Partnership for Building the Future Together
 22.09.2026 - 13:53
-&nbsp
 Minister of Science and Education Emin Amrullayev’s Interview with AnewZ
 11.09.2026 - 09:14
 Deputy Minister of Science and Education meets with the Minister of State of Pakistan
 23.07.2026 - 20:05
-Deputy Minister Hasan Hasanlı meets with the Ambassador of the Republic of Rwanda
-10.07.2026 - 15:11
 All news
 11/09/2026
 "Təhsilin keyfiyyəti şagirdin nəticəsidir" | Emin Əmrullayev
@@ -333,7 +333,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 3
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓

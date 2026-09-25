@@ -57,7 +57,7 @@ Share
 Key facts
 Plan to cover your tuition fees and living costs independently.
 Students from outside the EU/EEA and Switzerland usually pay tuition for English-taught bachelor’s and master’s programmes.
-Tuition fees are typically €8,000–€20,000 per year, depending on the programme.
+Tuition fees are typically €9,000–€20,000 per year, depending on the programme.
 University scholarships are competitive and usually cover tuition fees only, not living costs.
 Doctoral programmes do not charge tuition fees, but doctoral students must fund their living costs.
 Living costs are approximately €900–€1,200 per month.
@@ -160,7 +160,7 @@ Share
 Key facts
 Plan to cover your tuition fees and living costs independently.
 Students from outside the EU/EEA and Switzerland usually pay tuition for English-taught bachelor’s and master’s programmes.
-Tuition fees are typically €8,000–€20,000 per year, depending on the programme.
+Tuition fees are typically €9,000–€20,000 per year, depending on the programme.
 University scholarships are competitive and usually cover tuition fees only, not living costs.
 Doctoral programmes do not charge tuition fees, but doctoral students must fund their living costs.
 Living costs are approximately €900–€1,200 per month.
@@ -263,7 +263,7 @@ Quality education is a valuable investment. Prepare to finance your studies by p
 Share
 Tuition fees
 Students from outside the EU/EEA and Switzerland usually need to pay tuition fees for English-taught bachelor’s and master’s programmes. Some students may be exempt based on their residence status or other grounds, so always check the current rules and your own situation.
-Fees vary by university and programme, ranging from €8,000 to €20,000 per year. Check the exact tuition fee, payment arrangements and possible refund conditions on Studyinfo.fi or with the university you are applying to.
+Tuition fees typically range from €9,000 to €20,000 per year, depending on the university and programme. Some programmes may charge higher or lower fees, so always check the exact tuition fee on Studyinfo.fi or with the university you are applying to.
 Applicants from outside the EU/EEA or Switzerland also need to pay the €100 application fee .
 Degree programmes taught in Finnish or Swedish do not charge tuition fees. Doctoral programmes are also tuition-free regardless of nationality.
 If you are paying tuition, you are often also eligible to apply for scholarships that may be offered by the university .
@@ -565,12 +565,13 @@ Application periods depend on the degree programme. The main joint application f
 What are the admission requirements?
 Admission requirements vary by degree programme. For a bachelor’s degree, you generally need an upper secondary qualification that gives you eligibility for higher education. For a master’s degree, you need a relevant bachelor’s degree, and master’s programmes at universities of applied sciences (UAS) also require relevant work experience. Some programmes may have additional requirements, such as entrance examinations or interviews. Always check the exact eligibility criteria and required documents on Studyinfo.fi and with the university you are applying to.
 What kind of degree programmes can I study in English?
-Finland offers around 600 English-taught bachelor’s and master’s degree programmes in a wide range of fields. You can find English-taught programmes and their admission details on Studyinfo.fi and on the universities’ own websites . Some fields and degree programmes, such as medicine, are available only in Finnish or Swedish.
+Finland offers around 600 English-taught bachelor’s and master’s degree programmes in a wide range of fields. You can explore programmes and their admission details on Studyinfo.fi and on the universities’ own websites . Some fields, such as medicine, are available only in Finnish or Swedish.
+Not sure which programme to choose? Try Studyinfo.fi’s “I do not know what I want to study” feature to explore your options.
 Do I need IELTS or TOEFL?
-It depends on the degree programme. If you need to prove your English proficiency, commonly accepted tests include IELTS, TOEFL, PTE and Cambridge English qualifications, but some applicants may qualify through other evidence or exemptions. Always check the exact language requirements for your chosen programme on Studyinfo.fi and the university’s website.
+It depends on the programme. IELTS, TOEFL and other English-language tests may be accepted, but requirements and possible exemptions vary. Check the exact requirements with the university offering the programme you are planning to apply to.
 Fees and funding
 Do I need to pay tuition fees in Finland? Or can I study for free?
-Students from outside the EU/EEA and Switzerland generally need to pay tuition fees for English-taught bachelor’s and master’s degree programmes in Finland. Tuition fees typically range from €8,000 to €20,000 per year, depending on the university and programme.
+Students from outside the EU/EEA and Switzerland generally need to pay tuition fees for English-taught bachelor’s and master’s degree programmes in Finland. Tuition fees typically range from €9,000 to €20,000 per year, depending on the university and programme. Some programmes may charge higher or lower fees, so always check the exact tuition fee on Studyinfo.fi or with the university you are applying to.
 EU/EEA and Swiss students generally do not pay tuition fees. Doctoral programmes do not charge tuition fees, regardless of nationality. Exchange students also generally do not pay tuition fees to the Finnish host university.
 Are scholarships available in Finland?
 Yes. Finnish universities and universities of applied sciences may offer scholarships or tuition fee waivers to students who are required to pay tuition fees. Scholarship schemes, eligibility criteria and amounts vary by university, and they usually cover tuition fees partly or fully rather than living costs. There are no Finnish government scholarships available. Check the scholarship options directly with the university you are applying to, and plan to cover your living expenses independently.
@@ -589,6 +590,8 @@ Eligible family members of a student can apply for a residence permit to join th
 Practical things
 Do I need a residence permit to study in Finland?
 If you are coming to Finland from outside the EU/EEA to complete a degree, you will generally need a residence permit for studies. The application requires documentation including proof of your study place, sufficient funds and valid insurance. Residence rules differ for EU/EEA citizens and for shorter stays. Always check the current requirements with the Finnish Immigration Service (Migri) .
+What should I do when I arrive in Finland?
+Your university or UAS will provide arrival and orientation guidance. Depending on your circumstances, you may also need to complete official registration, arrange housing and banking, and take care of other practical matters. Check your institution’s instructions before travelling.
 How can I avoid fake universities or misleading information?
 Use official sources when checking Finnish universities, degree programmes, admissions and scholarships. Studyinfinland.fi is Finland’s official guide for international students, while Studyinfo.fi is the official national service for finding degree programmes and applying to higher education. You should also verify information on the university’s own official website. Be cautious of fake universities , as well as organisations or social-media accounts promising guaranteed admission, guaranteed visas or “fully funded Finnish government scholarships”.
 After graduation
@@ -602,7 +605,7 @@ Study in Finland is the official guide to Finnish higher education for internati
 For detailed admission requirements, always check Studyinfo.fi and the university you are applying to.
 For residence permits and immigration matters, refer to the Finnish Immigration Service (Migri).
 Updated
-18.09.2026
+25.09.2026
 Home
 Finnish National Agency for Education
 PO Box 343 (Hakaniemenranta 6)
