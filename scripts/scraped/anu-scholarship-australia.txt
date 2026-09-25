@@ -995,6 +995,7 @@ Value: AUD $40,475 per annum (full-time rate 2027)
 Selection base: Academic merit
 Open for applications Requires application
 ANU Residential Scholarship
+Selection base: Academic merit
 Open for applications Automatic consideration
 ANU Rural and Regional Equity Scholarship
 Number offered: 1

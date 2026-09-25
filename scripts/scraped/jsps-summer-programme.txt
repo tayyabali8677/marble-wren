@@ -164,7 +164,7 @@ Note 2: Individuals with Japanese nationality are not eligible, even if they hol
 2) Academic Status
 At the time the program begins, candidates must meet fulfill one of the following conditions:
 - Be enrolled in a university graduate program.
-- Have obtained a doctoral degree within the past six years (i.e., on or after April 2, 2020).
+- Have obtained a doctoral degree within the past six years (i.e., on or after April 2, 2021).
 Note 1: Whether or not the candidate is employed in a full-time position is not considered.
 Note 2: Researchers who obtained their PhD within six years minus time taken for maternity and/or parental leave. (Every four weeks of leave is counted as one month, with any remaining weeks also counted as one month. These months are subtracted from the number of years elapsed since the researcher&rsquo;s PhD was received.) In this case, separate submission of attestation is required. Please consult with JSPS in advance via the nominating authority.
 3) Candidates must obtain prior acceptance from their host researcher.
@@ -172,19 +172,19 @@ Note 2: Researchers who obtained their PhD within six years minus time taken for
 Note: Those who have previously been awarded a fellowship under the JSPS Postdoctoral Fellowships for Research in Japan are not eligible.
 5) Candidates must be able to commit to arriving in Japan and departing according to the schedule designated by the Summer Program.
 4. Host Researcher Eligibility
-ReaD&Researchmap (External Website)
+Researchmap (External Website)
 This database provides scientific information on researchers in Japan.
 The host researcher must, in principle, be a researcher who is employed full-time at a university or research institution as specified in Article 2* of the Procedure
 for the Handling of Grants-in-Aid for Scientific Research (Kakenhi), issued by the Ministry of Education, Culture, Sports, Science and Technology (MEXT).
 However, there are cases when researchers who are not employed in a full time position may be eligible. Such persons must be eligible to apply for a KAKENHI grant&ndash;in-aid and their affiliated institution must judge them able to implement the project and to provide an appropriate research environment (e.g., laboratory, equipment, personnel) for it.
-* Eligible host institutions specified under the above MEXT Procedure are as follows:
+* Eligible host institutions are as follows:
 1) Universities and inter-university research institutes
 2) MEXT-affiliated institutions engaged in research
 3) Colleges of technology
 4) Institutions designated by the Minister of MEXT
-* See the List of Eligible Host Institutes (PDF/1.0MB)
+* See the List of Eligible Host Institutes (PDF/587KB)
 * List of Researchers of SOKENDAI (External Website)
-5. Terms of Finacial Support
+5. Terms of Finacial Support (Tentative)
 1) Airfare: A round-trip air ticket
 2) Maintenance Allowance: 534,000 JPY
 3) Overseas travel insurance
@@ -197,8 +197,8 @@ The MEXT Research Experience Fellowship for Young Foreign Researchers was inaugu
 On the hand, the MEXT/NSF Summer Program was initially implemented under the title "Summer Institute Program" by the Science and Technology Agency through a collaboration between the Japan Science and Technology Corporation (JST) and the National Science Foundation (NSF) in the US.
 When the program was taken over by MEXT as part of the Japanese government's administrative reorganization, national laboratories became its main host institutions. Since its transfer to JSPS in 2003, host institutions have been expanded to include national, private, and public universities along with national laboratories and other institutions.
 If you need further information about the SOKENDAI, Please see the SOKENDAI Website (External Website) .
-Summer Program 2026 Flyer
-Summer Program 2026 Flyer (PDF/1.5MB)
+Summer Program 2027 Flyer
+Summer Program 2027 Flyer (PDF/1.5MB)
 Guidance video about JSPS Summer Program
 サマー・プログラム(Summer Program)について
 Useful Links
@@ -536,9 +536,10 @@ Sweden
 The Swedish Foundation for International Cooperation in Research and Higher Education (STINT)
 Email: info*stint.se
 Note: Please replace＊with @.
-Website (Mitacs): http://www.stint.se/
+Website: http://www.stint.se/
 Selection
 JSPS asks the prospective host institutions whether they will officially accept the nominees; and upon confirmation, selects the successful applicants, and then notifies the nominating authorities of the results. Concurrently, JSPS sends a formal letter of invitation to each successful applicant through the designated nominating authorities.
+Please refer to the " Program Procedure For Successful Fellows" page for the form related to host acceptance.
 Useful Links
 Site Map
 Site Policy

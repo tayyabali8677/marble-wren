@@ -134,8 +134,7 @@ Surface Pro
 Surface Laptop
 Surface Laptop Ultra
 Surface RTX Spark Dev Box
-Copilot for organizations
-Copilot for personal use
+Explore Copilot
 Explore Microsoft products
 Windows 11 apps
 Account profile
@@ -160,7 +159,7 @@ Dynamics 365
 Microsoft 365
 Microsoft Power Platform
 Microsoft Teams
-Microsoft 365 Copilot
+Microsoft Copilot
 Small Business
 Azure
 Microsoft Developer
@@ -195,7 +194,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 1b6cd0237b1b8618747c31d935adf767
+This is the Trace Id: c96d599cdb1d68bda8a93c8dda517d3a
 Skip to main content
 Education
 Azure for education
@@ -340,8 +339,7 @@ Surface Pro
 Surface Laptop
 Surface Laptop Ultra
 Surface RTX Spark Dev Box
-Copilot for organizations
-Copilot for personal use
+Explore Copilot
 Explore Microsoft products
 Windows 11 apps
 Account profile
@@ -366,7 +364,7 @@ Dynamics 365
 Microsoft 365
 Microsoft Power Platform
 Microsoft Teams
-Microsoft 365 Copilot
+Microsoft Copilot
 Small Business
 Azure
 Microsoft Developer

@@ -189,7 +189,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 GOV.BR
 Serviços
 Buscar serviços por
@@ -373,11 +372,11 @@ Programas e Parcerias
 Todos os Programas
 Todas as Parcerias
 Prêmios
+Acesso à Informação
 Estrutura Organizacional
 Conselho Deliberativo
 Diretoria Executiva
 Serviços ao Cidadão
-Acesso à Informação
 Bolsas e Auxílios
 Cadastre-se no Lattes
 Centro de Memória
@@ -386,6 +385,7 @@ Expedição Científica
 Extrator Lattes
 Importação para Pesquisa
 Defeso Eleitoral - Uso da Marca
+Acesso à Informação
 Ética e Transparência
 Base Jurídica
 Comissão de Ética
@@ -565,7 +565,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 Redefinir Cookies
 Redes sociais
 Twitter
@@ -771,7 +770,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 GOV.BR
 Serviços
 Buscar serviços por
@@ -1020,7 +1018,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 Redefinir Cookies
 Redes sociais
 Twitter
@@ -1226,7 +1223,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 GOV.BR
 Serviços
 Buscar serviços por
@@ -1491,7 +1487,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 Redefinir Cookies
 Redes sociais
 Twitter
@@ -1908,7 +1903,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 GOV.BR
 Serviços
 Buscar serviços por
@@ -2225,7 +2219,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 Redefinir Cookies
 Redes sociais
 Twitter
@@ -2431,7 +2424,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 GOV.BR
 Serviços
 Buscar serviços por
@@ -2687,7 +2679,6 @@ Quem é Quem
 Diretoria Executiva
 Perfis de Cargos (pdf)
 Perfis de Cargos Comissionados
-Sisgen Pesquisa
 Redefinir Cookies
 Redes sociais
 Twitter
