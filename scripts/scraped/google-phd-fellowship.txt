@@ -113,6 +113,7 @@ Conferences & events
 Careers
 Blog
 About
+Search
 Google PhD fellowship program
 Google PhD Fellowships directly support graduate students as they pursue their PhD.
 play silent looping video
@@ -486,7 +487,6 @@ Conferences & events
 Careers
 Blog
 About
-Search
 People
 Our researchers drive advancements in computer science through both fundamental and applied research.
 Our researchers drive advancements in computer science through both fundamental and applied research.
@@ -510,7 +510,7 @@ Data Management
 Data Mining and Modeling
 286
 Distributed Systems and Parallel Computing
-276
+277
 Economics and Electronic Commerce
 80
 Education Innovation
@@ -550,12 +550,12 @@ Robotics
 Security, Privacy and Abuse Prevention
 186
 Software Engineering
-260
+261
 Software Systems
-221
+222
 Speech Processing
 156
-1 - 30 of 2216 researchers
+1 - 30 of 2217 researchers
 chip template
 Remove
 Martín Abadi
@@ -591,9 +591,11 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Alekh Agarwal
+Shashank Agarwal
 Algorithms and Theory
-Machine Intelligence
+Data Mining and Modeling
+Education Innovation
++2 more
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -602,13 +604,11 @@ Machine Learning
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
 Anmol Agarwal
 Natural Language Processing
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -617,19 +617,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Shreya Agrawal
 General Science
 Machine Intelligence
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -655,18 +655,17 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
++2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
 +2 more
 1
 2
