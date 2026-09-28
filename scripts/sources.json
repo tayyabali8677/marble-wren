@@ -3658,5 +3658,12 @@
     "country": "Japan",
     "url": "https://www.apu.ac.jp/",
     "note": "Japanese government MEXT scholarship via Ritsumeikan Asia Pacific University."
+  },
+  {
+    "slug": "knight-hennessy-scholars-program-usa",
+    "name": "Knight-Hennessy Scholars (KHS) Program at Stanford University, USA",
+    "country": "United States",
+    "url": "https://knight-hennessy.stanford.edu/",
+    "note": "Extracted from Youth Opportunities listing for Stanford University."
   }
 ]
