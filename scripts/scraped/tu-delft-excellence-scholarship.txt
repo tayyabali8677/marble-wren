@@ -67,7 +67,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -337,7 +337,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -570,6 +570,8 @@ The Delft University Fund supports TU Delft by contributing to research, educati
 Yes, I want to participate and donate.
 By contributing to the Delft University Fund, you are investing in groundbreaking research, innovative education, and top talent at TU Delft, ensuring that Delft technology continues to play a key role in addressing the major challenges of our time.
 News
+In Memoriam: Dr. Ir. Koos Visser
+Read more
 The nano-brain: a bold idea in the fight against brain diseases
 Read more
 Two winners of the Marina van Damme Scholarship 2026 award set course for healthcare and AI
@@ -991,7 +993,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -1261,7 +1263,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations

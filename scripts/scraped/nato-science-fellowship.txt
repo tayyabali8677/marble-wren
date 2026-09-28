@@ -191,23 +191,17 @@ Military Representative - United States
 Chief of Defence - Albania
 Chief of Defence - Belgium
 Chief of Defence - Bulgaria
-Chief of Defence - Canada
 Chief of Defence - Croatia
 Chief of Defence - Czechia
 Chief of Defence - Denmark
 Chief of Defence - Estonia
 Chief of Defence - Finland
-Chief of Defence - France
-Chief of Defence - Germany
 Chief of Defence - Greece
 Chief of Defence - Hungary
 Chief of Defence - Iceland
-Chief of Defence - Italy
 Chief of Defence - Latvia
 Chief of Defence - Lithuania
-Chief of Defence - Luxembourg
 Chief of Defence - Montenegro
-Chief of Defence - The Netherlands
 Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
@@ -217,9 +211,6 @@ Chief of Defence - Romania
 Chief of Defence - Slovakia
 Chief of Defence - Spain
 Chief of Defence - Sweden
-Chief of Defence - Türkiye
-Chief of Defence - United Kingdom
-Chief of Defence - United States
 Chiefs of Defence
 NATO on the Map
 NATO History
@@ -994,23 +985,17 @@ Military Representative - United States
 Chief of Defence - Albania
 Chief of Defence - Belgium
 Chief of Defence - Bulgaria
-Chief of Defence - Canada
 Chief of Defence - Croatia
 Chief of Defence - Czechia
 Chief of Defence - Denmark
 Chief of Defence - Estonia
 Chief of Defence - Finland
-Chief of Defence - France
-Chief of Defence - Germany
 Chief of Defence - Greece
 Chief of Defence - Hungary
 Chief of Defence - Iceland
-Chief of Defence - Italy
 Chief of Defence - Latvia
 Chief of Defence - Lithuania
-Chief of Defence - Luxembourg
 Chief of Defence - Montenegro
-Chief of Defence - The Netherlands
 Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
@@ -1020,9 +1005,6 @@ Chief of Defence - Romania
 Chief of Defence - Slovakia
 Chief of Defence - Spain
 Chief of Defence - Sweden
-Chief of Defence - Türkiye
-Chief of Defence - United Kingdom
-Chief of Defence - United States
 Chiefs of Defence
 NATO on the Map
 NATO History
@@ -1782,23 +1764,17 @@ Military Representative - United States
 Chief of Defence - Albania
 Chief of Defence - Belgium
 Chief of Defence - Bulgaria
-Chief of Defence - Canada
 Chief of Defence - Croatia
 Chief of Defence - Czechia
 Chief of Defence - Denmark
 Chief of Defence - Estonia
 Chief of Defence - Finland
-Chief of Defence - France
-Chief of Defence - Germany
 Chief of Defence - Greece
 Chief of Defence - Hungary
 Chief of Defence - Iceland
-Chief of Defence - Italy
 Chief of Defence - Latvia
 Chief of Defence - Lithuania
-Chief of Defence - Luxembourg
 Chief of Defence - Montenegro
-Chief of Defence - The Netherlands
 Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
@@ -1808,9 +1784,6 @@ Chief of Defence - Romania
 Chief of Defence - Slovakia
 Chief of Defence - Spain
 Chief of Defence - Sweden
-Chief of Defence - Türkiye
-Chief of Defence - United Kingdom
-Chief of Defence - United States
 Chiefs of Defence
 NATO on the Map
 NATO History

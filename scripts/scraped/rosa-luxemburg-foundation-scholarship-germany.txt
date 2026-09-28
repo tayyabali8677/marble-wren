@@ -5,6 +5,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -44,7 +45,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -166,6 +166,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Rosa-Luxemburg-Stiftung - RLS
 Kampf um den Sozialstaat
 Der Angriff auf die Säulen der sozialen Sicherung ist ein Kernprojekt der Merz-Regierung.
@@ -183,6 +184,12 @@ Was ist eigentlich ... ?
 In unserer Serie erklären wir wichtige Begriffe aus der politischen Diskussion und zeigen, welche Interessen und Konflikte dahinterstecken.
 Informationen zum dekorativen Bild: Foto: IMAGO / Achille Abboud
 Aktuelle Beiträge
+Japan: Vom Pazifismus zur Kriegsmacht?
+: Analyse | 28.09.2026
+Die Remilitarisierung schreitet unter Sanae Takaichi weiter voran. Von Eiichi Kido
+Die Welt von morgen denken, in unserer eigenen Sprache
+: Mitteilung | 28.09.2026
+Die Stiftung geht mit einem spanischsprachigen Web-Angebot online
 „Vergesellschaftung ist ‚Learning by Doing‘“
 : Interview | 24.09.2026
 Ein klärendes Gespräch mit Sabine Nuss
@@ -213,12 +220,6 @@ Interview mit Firoozeh Farvardin
 9/11: 25 Jahre imperialistischer Kriege
 : Interview | 10.09.2026
 Gilbert Achcar über das Erbe des „Kriegs gegen den Terror“, die Niederlage des Arabischen Frühlings&hellip;
-Türkei: Die Spaltung der CHP
-: Analyse | 09.09.2026
-Kann die „Neue Partei“ Erdoğan schlagen?
-PISA-Schock mit Ansage
-: Kommentar | 09.09.2026
-Die neue PISA-Studie zeigt die strukturelle Dysfunktionalität des deutschen Bildungssystems
 Mehr anzeigen
 Aktuelle Veranstaltungen
 Antifaschistische Wirtschaftspolitik , 05.10.2026
@@ -339,6 +340,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -378,7 +380,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -500,6 +501,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Sie sind hier:
 Startseite
 Stiftung
@@ -582,6 +584,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -621,7 +624,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -743,6 +745,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Sie sind hier:
 Startseite
 Stiftung
@@ -820,6 +823,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -859,7 +863,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -981,6 +984,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Sie sind hier:
 Startseite
 Stiftung
@@ -1120,6 +1124,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -1159,7 +1164,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -1281,6 +1285,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Sie sind hier:
 Startseite
 Stiftung
@@ -1398,6 +1403,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Veranstaltungen
 Publikationen
 Mediathek
@@ -1437,7 +1443,6 @@ Reisend Lernen
 Publikationen
 Mitarbeiter&#8203;*innen
 Unterseiten von "Zentrum für internationalen Dialog" anzeigen Zentrum für internationalen Dialog
-Themenfelder
 Afrika
 Asien
 Westasien
@@ -1559,6 +1564,7 @@ Leichte Sprache
 Inhalte in Gebärdensprache
 Alternative Sprachen anzeigen DE
 EN (English)
+ES (Español)
 Sie sind hier:
 Startseite
 Stiftung

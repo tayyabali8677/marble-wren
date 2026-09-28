@@ -377,6 +377,8 @@ September 30, 2026
 See Details
 Find College Scholarships
 Our database includes scholarships from many U.S. universities. Current college students can find the scholarships their school offers, or you can browse scholarships offered by a specific university.
+Gravel Host Back to School Scholarship
+See Details
 McLain Law Fund for Future Defenders Scholarship
 See Details
 El Mezquite Scholarship
@@ -537,8 +539,6 @@ Catherine G. Jurgemeyer Memorial Scholarship
 See Details
 Baylor2Baylor Law Program Award
 See Details
-Baylor University Pre-Law Application Subsidy
-See Details
 Baylor University Pre-Law Excellence Scholarship
 See Details
 Tabitha Gilbert Pitman Memorial Endowed Scholarship
@@ -548,16 +548,6 @@ See Details
 AFCEA Greater Tampa Bay STEM Scholarship
 See Details
 CB Technologies, Inc Scholarship
-See Details
-Margery W. Bain-Franklin Scholarship
-See Details
-Tara Atkins Memorial Scholarship
-See Details
-John A. Albertson Educational Award
-See Details
-Jack H. Albertson Educational Award
-See Details
-A Leg Up Scholarship
 See Details
 Transfer Merit Scholarship - WSU
 See Details
@@ -576,6 +566,16 @@ See Details
 Salomon H. Flores Memorial Scholarship
 See Details
 NPG 2026 Photography Scholarship Contest
+See Details
+Howard Vollum Scholarship
+See Details
+Arthur A. Schulte, Jr. Scholarship
+See Details
+Transfer PTK Scholarship - University of Portland
+See Details
+University of Portland Holy Cross Scholarship
+See Details
+University of Portland Archbishop Christie Scholarship
 See Details
 More...
 College News & Student Resources
@@ -752,7 +752,7 @@ AWARD
 $25,000
 DEADLINE
 September 30, 2026
-The $25,000 "Be Bold" No-Essay Scholarship. All students eligible. Apply in just a few clicks. Deadline upcoming!
+The $25,000 "Be Bold" No-Essay Scholarship makes applying simple. No essay, no GPA requirement, and no cost to apply. Students of any school, major, or education level are eligible. Show us what makes you bold and apply today!
 APPLY NOW
 PROVIDED BY
 Bold.org
