@@ -510,7 +510,7 @@ Contact
 Search
 Home
 We support
-Menu openen
+Menu sluiten
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -536,7 +536,7 @@ Menu openen
 News
 Agenda
 Grants
-Menu sluiten
+Menu openen
 Students
 Researchers
 Alumni
