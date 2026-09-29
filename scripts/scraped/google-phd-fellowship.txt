@@ -497,7 +497,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-404
+405
 Audio Processing
 18
 Climate and Sustainability
@@ -509,7 +509,7 @@ Computer Architecture
 Data Management
 110
 Data Mining and Modeling
-285
+284
 Distributed Systems and Parallel Computing
 277
 Economics and Electronic Commerce
@@ -537,7 +537,7 @@ Machine Translation
 Mobile Systems
 88
 Natural Language Processing
-481
+480
 Networking
 134
 Operating Systems
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Anmol Agarwal
 Natural Language Processing
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,19 +618,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
+Shreya Agrawal
+General Science
 Machine Intelligence
-Natural Language Processing
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Shreya Agrawal
-General Science
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
+Priyanka Agrawal
 Machine Intelligence
+Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,11 +656,14 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
 Mustaq Ahmed
 Algorithms and Theory
 Networking
-Zafarali Ahmed
-Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems

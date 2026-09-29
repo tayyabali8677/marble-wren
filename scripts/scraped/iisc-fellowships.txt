@@ -41,6 +41,7 @@ Instructions for Online Admissions Portal
 Online Admissions Portal
 Announcements
 Welcome to the Admissions Website for IISc! This website has information related to the admissions process for various admissions cycle. The key pages are listed below. You can also access these links and other details from the menus.
+Corrigendum-1 to the Mid-year Admission Notice for Ph.D. Programmes for the Academic Year 2026-27 (Updated on 29.09.2026).
 Mid-year Admission Notice for Ph.D. Programmes for the Academic Year 2026-27 (Updated on 16.09.2026).
 Previous Admissions Cycles
 Prior Announcements for AUGUST-DECEMBER 2026 TERM
@@ -51,16 +52,15 @@ Prior announcements for AUGUST-DECEMBER 2022 TERM
 Prior announcements for AUGUST-DECEMBER 2021 TERM
 Prior announcements for AUGUST-DECEMBER 2020 TERM
 General Information
-Giving to IISc
-Give to IISc
-Major benefactors
+Alumni
 Development & Alumni Affairs
+IISc&#8217;s Alumni Portal
 Arting Science
-Commercial ventures that originated in IISc
+Evolutionary conservation of cyclic nucleotide phosphodiesterases
 Campus Life
-Frilled Beauty
+Blue-throated Blue Flycatcher
 Did You know?
-Quality improvement program initiated in 1971.
+The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -249,17 +249,14 @@ Other Central Institutions
 121 Ghani Khan Choudhury Institute of Engineering & Technology(GKCIET), Malda, West Bengal
 122 Central Institute of Technology (CIT), Kokrajhar, Assam
 General Information
-IISc in Numbers
-Faculty Members: 433
-Students: 3754
-Courses: 1068
-Accolades
-more&#8230;
+Alumni
+Development & Alumni Affairs
+IISc&#8217;s Alumni Portal
 Arting Science
+Human Evolution in Warli
 Campus Life
-Swach IISc Abhiyan
 Did You know?
-The first J N Tata lecture was delivered by J.Bhabha in 29-03-1952 and endowed by the Dorab Tata Trust.
+Morse code signalling was first introduced in Electrical laboratory course  in 1926 and  taught by Mr.Locke.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -722,16 +719,15 @@ TOTAL (1st year)
 20,800
 * to be paid in the first year only
 General Information
-Admissions
-Course Programmes
-Research Programmes
-more&#8230;
+Challakere Campus
+Skill Development Centre
+Talent Development Centre
+Campus Development
 Arting Science
-Collatz Conjecture in Sanjh
+Metamorphosis in Church Art
 Campus Life
-Insect
 Did You know?
-Establishment of placement Bureau &#8211; 1971
+The first J N Tata lecture was delivered by J.Bhabha in 29-03-1952 and endowed by the Dorab Tata Trust.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -890,17 +886,16 @@ OCI/PIO (I) candidates are treated as Indian nationals but can only apply under 
 Can an OCI/PIO candidate apply in both categories (OCI/PIO (F) and OCI/PIO (I))?
 No. Candidates must choose only one category while applying. If an OCI/PIO candidate is found to have applied under both OCI/PIO (F) and OCI/PIO (I), their application will be cancelled due to the use of unfair means.
 General Information
-IISc in Numbers
-Faculty Members: 433
-Students: 3754
-Courses: 1068
+Research
+Research Highlights
 Accolades
+IISc in the News
 more&#8230;
 Arting Science
-Metamorphosis in Church Art
+Commercial ventures that originated in IISc
 Campus Life
 Did You know?
-Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
+Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1039,11 +1034,10 @@ International Relations
 Collaborative Research
 Exchange Programmes
 Arting Science
-Actor Critic
+Metamorphosis in Church Art
 Campus Life
-Orange Delight : Taken at IISc&#8217;s Horticultural Nursery
 Did You know?
-The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
+Establishment of placement Bureau &#8211; 1971
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1285,14 +1279,15 @@ Students from Colleges & Universities are welcome to visit the Institute on a wo
 The Authorities of Colleges/Universities may please write to the Public Relations Officer of the Institute at his email-id: pro@iisc.ac.in ( Fax No.080 – 23600853 ) identifying a Friday of the month, the specific Department which they wish to visit and ascertain the convenience of the Institute at least 15 days prior to the proposed date of visit. For any queries, they may approach the PRO office no. 080-22932770 / 22932680.
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 General Information
-Admissions
-Course Programmes
-Research Programmes
-more&#8230;
+Industry Interaction
+CSIC-Scientific & Industrial Consultancy
+SID-Innovation & Development
+IPTeL-Intellectual Property and Technology Licensing
 Arting Science
+Paper discs for detecting enzymes
 Campus Life
 Did You know?
-Prof. G. N. Ramachanrdan, who discovered triple helix structure of collagen and developed the eponymous Map for proteins, worked at IISc and helped establish Molecular Biophysics Unit
+The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
 Artsy Research
 Resources
 Campus Life

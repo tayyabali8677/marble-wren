@@ -154,8 +154,6 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Conferencing – Updates from the venue hire team
-Education – News, resources and opportunities for teachers, technicians and other staff from schools and colleges in the UK
 Librarians - News and features for librarians
 Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
@@ -564,8 +562,6 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Conferencing – Updates from the venue hire team
-Education – News, resources and opportunities for teachers, technicians and other staff from schools and colleges in the UK
 Librarians - News and features for librarians
 Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
@@ -818,8 +814,6 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Conferencing – Updates from the venue hire team
-Education – News, resources and opportunities for teachers, technicians and other staff from schools and colleges in the UK
 Librarians - News and features for librarians
 Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
@@ -1325,8 +1319,6 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Conferencing – Updates from the venue hire team
-Education – News, resources and opportunities for teachers, technicians and other staff from schools and colleges in the UK
 Librarians - News and features for librarians
 Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by

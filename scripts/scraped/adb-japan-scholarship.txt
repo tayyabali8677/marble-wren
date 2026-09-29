@@ -1594,6 +1594,9 @@ Mid-size Cities, Urban Municipalities are Nepal’s New Engines of Growth
 News and Multimedia: ADB Funds
 29 Sep 2026
 | News from Country Offices
+ADB, Modern Syntex Sign $50 Million Loan to Expand Energy-Efficient Polyester Chips Production in Bangladesh
+29 Sep 2026
+| News from Country Offices
 ADB Approves $400 Million Loan to Support Earthquake Recovery, Expand SME Access to Finance in Türkiye
 29 Sep 2026
 | News from Country Offices
@@ -1604,9 +1607,6 @@ ADB to Help Strengthen Proactive Disaster Management in Mongolia
 27 Sep 2026
 | News from Country Offices
 ADB Approves $100 Million Loan to Expand Access to Affordable, Resilient Housing Finance in Bangladesh
-23 Sep 2026
-| News from Country Offices
-ADB Approves $200 Million Loan to Modernize Power Distribution Network in Bangladesh
 More ADB funds and products news
 Video | 24 Aug 2026
 From Crisis to Food Security: Building Resilience in Vanuatu
@@ -1703,6 +1703,7 @@ Accountability Mechanism
 Anticorruption and Integrity
 Development Effectiveness
 Environmental and Social Requirements
+Management-Led Grievance Redress Service
 Independent Evaluation
 Administrative Tribunal
 Ethics and Conduct

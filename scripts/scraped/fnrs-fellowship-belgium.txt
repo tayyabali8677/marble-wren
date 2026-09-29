@@ -282,6 +282,10 @@ WEL-T Investigator Programme 2026 – call for proposals
 The FRFS (Fund for Strategic Fundamental Research), one of the FNRS associated funds, and the WEL Research Institute are launching the third call for proposals for the WEL-T Investigator Programme. Funded by the Walloon Region, WEL-T (Walloon ExceLlence in Technology) supports strategic research programs in the fields of engineering, chemistry, and physics with a view to translating breakthrough discoveries into industrial applications aimed at sustainable transition.
 Read more about WEL-T Investigator Programme 2026 – call for proposals
 News
+Bilateral call for mobility projects with Slovakia : extension of the date for submission of proposals
+Call
+International
+Published on 29 September 2026
 SBEP 4th Call - "Building a sustainable and innovative Blue Economy: mastering digital opportunities and fostering resilience"
 Call
 International
@@ -328,11 +332,6 @@ RAMP JTC 2026 - Research and/or Innovation projects across the raw materials val
 Call
 International
 Published on 03 August 2026
-WEL-T INVESTIGATOR PROGRAMME CALL 2026
-Announcements
-Call
-News FNRS
-Published on 23 July 2026
 See all
 Calls and Fundings
 FNRS.awards
@@ -389,22 +388,6 @@ Closing
 14:00
 Read more about WEL-T Investigator Programme 2026
 International projects
-SEN
-SHS
-Sustainability
-In progress
-RAMP JTC 2026 - Research and/or Innovation projects across the raw materials value chain
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Closing
-29 September 2026
-10:00
-Periodicity
-Exceptional
-Read more about RAMP JTC 2026 - Research and/or Innovation projects across the raw materials value chain
-International projects
 SVS
 SEN
 SHS
@@ -438,23 +421,6 @@ Closing
 30 September 2026
 14:00
 Read more about CSIC (Spain) - Bilateral call with the Spanish National Research Council
-International projects
-SVS
-SEN
-SHS
-In progress
-SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-29 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
 International projects
 SVS
 SEN
@@ -512,6 +478,23 @@ SVS
 SEN
 SHS
 In progress
+SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+29 June 2026
+14:00
+Closing
+20 October 2026
+14:00
+Read more about SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
+International projects
+SVS
+SEN
+SHS
+In progress
 NRF (South Africa) - Bilateral call with The National Research Foundation
 Category
 International & Mobility
@@ -524,6 +507,25 @@ Closing
 05 November 2026
 14:00
 Read more about NRF (South Africa) - Bilateral call with The National Research Foundation
+International projects
+SEN
+SHS
+Sustainability
+In progress
+Biodiversa+ Call 26/27 - “Novel ecosystems: biodiversity, socio-ecological consequences and future trajectories (BiodivFuture)”
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+09 September 2026
+08:00
+Closing
+18 November 2026
+14:00
+Periodicity
+Annual
+Read more about Biodiversa+ Call 26/27 - “Novel ecosystems: biodiversity, socio-ecological consequences and future trajectories (BiodivFuture)”
 International projects
 SEN
 SHS
