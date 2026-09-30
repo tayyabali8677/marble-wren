@@ -121,22 +121,22 @@ UCalgary Academic Calendar
 Undergraduate Awards — Financing Your Education
 Awards can reduce the cost of your education, lightening the financial burden of student loans and tuition, but they can also be so much more. It’s recognition; it's also a relief and joy. In this video, you’ll see how awards impacted UCalgary students Grace Webber, Angela Situ and Marcus Gee.
 Highlighted awards
-Frank Speakman Memorial Entrance Bursary in English
-Award value: up to $3,000
+Writing Symbols Lodge Award
+Award value: up to $10,500 (Renewable)
 Number of awards: 1
-Learn more about the Frank Speakman Memorial Bursary
-Norman Ronald Silver Memorial Entrance Scholarship
-Award value: up to $2,500
-Number of awards: 1
-Learn more about the Norman Ronald Silver Scholarship
-Royal Canadian Legion Bursary (Alberta-N.W.T. Command)
-Award value: $1,000
+Learn more about the Writing Symbols Lodge Award
+Bob Grainger Entrance Bursary
+Award value: up to $5,500
+Number of awards: 3
+Learn more about the Bob Grainger Entrance Bursary
+First-Generation Scholars Award
+Award value: variable
+Number of awards: variable
+Learn more about the First-Generation Scholars Award
+Evelyn Mitchell Emerson Entrance Bursary
+Award value: up to $3,500
 Number of awards: 2
-Learn more about the Royal Canadian Legion Bursary
-James M. Stanford Entrance Award in Business
-Award value: up to $5,000
-Number of awards: 1
-Learn more about the James M. Stanford Award
+Learn more about the Evelyn Mitchell Emerson Entrance Bursary
 Award FAQs
 Get answers to common questions about undergraduate awards and applications
 View FAQs
@@ -884,22 +884,22 @@ UCalgary Academic Calendar
 Undergraduate Awards — Financing Your Education
 Awards can reduce the cost of your education, lightening the financial burden of student loans and tuition, but they can also be so much more. It’s recognition; it's also a relief and joy. In this video, you’ll see how awards impacted UCalgary students Grace Webber, Angela Situ and Marcus Gee.
 Highlighted awards
-Frank Speakman Memorial Entrance Bursary in English
-Award value: up to $3,000
+Writing Symbols Lodge Award
+Award value: up to $10,500 (Renewable)
 Number of awards: 1
-Learn more about the Frank Speakman Memorial Bursary
-Norman Ronald Silver Memorial Entrance Scholarship
-Award value: up to $2,500
-Number of awards: 1
-Learn more about the Norman Ronald Silver Scholarship
-Royal Canadian Legion Bursary (Alberta-N.W.T. Command)
-Award value: $1,000
+Learn more about the Writing Symbols Lodge Award
+Bob Grainger Entrance Bursary
+Award value: up to $5,500
+Number of awards: 3
+Learn more about the Bob Grainger Entrance Bursary
+First-Generation Scholars Award
+Award value: variable
+Number of awards: variable
+Learn more about the First-Generation Scholars Award
+Evelyn Mitchell Emerson Entrance Bursary
+Award value: up to $3,500
 Number of awards: 2
-Learn more about the Royal Canadian Legion Bursary
-James M. Stanford Entrance Award in Business
-Award value: up to $5,000
-Number of awards: 1
-Learn more about the James M. Stanford Award
+Learn more about the Evelyn Mitchell Emerson Entrance Bursary
 Award FAQs
 Get answers to common questions about undergraduate awards and applications
 View FAQs
@@ -1042,10 +1042,10 @@ Review awards eligibility
 Check to see which awards you’re eligible to apply for. This includes meeting the academic requirements, enrolment status and other criteria.
 Entering students to an undergraduate bachelor’s degree
 High school applicants
-If you're applying for admission as a high school applicant, you'll have access to the award applications within 24 hours after your admission application is submitted:
-High School Prestige Awards
-Minimum 90% admission average on transcripts received by deadline
-High School Entrance Awards
+If you're applying for admission as a high school applicant, you'll have access to the award applications within 24-48 hours after your admission application is submitted:
+Undergraduate Entrance Awards
+Access the application through the “Apply for Entrance Awards” button in your Student Centre (my.ucalgary.ca)
+Submit one application to be considered for all competitive entrance awards
 President's Admission Scholarship
 Have a final admission average of 95.00% or higher as calculated by the Undergraduate Admissions Office
 No application is required—you'll automatically receive the award if you meet the admission average
@@ -1182,8 +1182,8 @@ Log in to your Student Centre using your UCID and password.
 Log into Student Centre
 Navigate to My Financials
 In your Student Centre, click on the My Financials page.
-Click on "Apply for Undergraduate Awards"
-Scroll down to the Awards and Scholarships section and click on Apply for Undergraduate Awards . Make sure pop-ups are enabled on your browser. If pop-ups are blocked, the page won't display.
+Click on "Apply for Awards"
+Scroll down to the Awards and Scholarships section and click on Apply for Undergraduate Awards or Apply for Entrance Awards . Make sure pop-ups are enabled on your browser. If pop-ups are blocked, the page won't display.
 Review application information
 A pop-up window will open on your screen with any open applications or ones that recently closed. Please pay attention to the Application Available and Application Deadline dates.
 Receiving award payment

@@ -625,6 +625,7 @@ Value: $8,000 per annum.
 Selection base: Academic merit
 Open for applications Requires application
 ANU College of Arts and Social Sciences Study Tour and Field Trip Travel Bursary
+Selection base: Financial hardship
 Open for applications Automatic consideration
 ANU College of Business & Economics Postgraduate Scholarship for Aboriginal or Torres Strait Islanders
 Selection base: Indigenous
