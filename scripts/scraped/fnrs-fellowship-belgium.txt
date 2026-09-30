@@ -336,6 +336,24 @@ See all
 Calls and Fundings
 FNRS.awards
 SVS
+Coming soon
+Clone of Prize Centre d&#039;études Princesse Joséphine-Charlotte 2025
+Category
+Awards & Philanthropic Funding
+Profile
+Postdoc (R2),
+Permanent research status (R3) and Senior research position (R4)
+Opening
+04 December 2024
+08:00
+Closing
+10 March 2025
+23:59
+Periodicity
+Biannual
+Read more about Clone of Prize Centre d&#039;études Princesse Joséphine-Charlotte 2025
+FNRS.awards
+SVS
 SEN
 SHS
 Coming soon
@@ -351,6 +369,21 @@ Closing
 02 March 2026
 23:59
 Read more about Clone of McKinsey & Company Scientific Award 2026
+FNRS.awards
+SEN
+Coming soon
+Clone of Nokia Bell Scientific Award
+Category
+Awards & Philanthropic Funding
+Profile
+PhD (R1)
+Opening
+17 December 2025
+10:00
+Closing
+16 March 2026
+23:59
+Read more about Clone of Nokia Bell Scientific Award
 FNRS.awards
 SVS
 SEN
@@ -387,72 +420,6 @@ Closing
 05 November 2026
 14:00
 Read more about WEL-T Investigator Programme 2026
-International projects
-SVS
-SEN
-SHS
-In progress
-PAS (Poland) - Bilateral call with the Polish Academy of Sciences
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-15 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about PAS (Poland) - Bilateral call with the Polish Academy of Sciences
-International projects
-SVS
-SEN
-SHS
-In progress
-CSIC (Spain) - Bilateral call with the Spanish National Research Council
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-15 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about CSIC (Spain) - Bilateral call with the Spanish National Research Council
-International projects
-SVS
-SEN
-SHS
-In progress
-JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-01 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about JSPS (Japan) - Bilateral call with the Japan Society for the Promotion of Science
-International projects
-SHS
-In progress
-CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-01 June 2026
-14:00
-Closing
-30 September 2026
-14:00
-Read more about CASS (China) - Bilateral call with the Chinese Academy of Social Sciences
 WEAVE
 SVS
 SEN
@@ -545,6 +512,43 @@ Closing
 Periodicity
 Exceptional
 Read more about Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
+International projects
+SEN
+SHS
+In progress
+SBEP 4th Call - "Building a sustainable and innovative Blue Economy: mastering digital opportunities and fostering resilience
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+15 September 2026
+14:00
+Closing
+23 November 2026
+14:00
+Periodicity
+Exceptional
+Read more about SBEP 4th Call - "Building a sustainable and innovative Blue Economy: mastering digital opportunities and fostering resilience
+International projects
+SEN
+SHS
+Sustainability
+In progress
+DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+01 September 2026
+08:00
+Closing
+24 November 2026
+14:00
+Periodicity
+Annual
+Read more about DUT Call 2026 - "A funding opportunity for transformative urban research and innovation "
 See all
 Télévie 2026: A massive thank you!
 The 2026 edition raised €13,459,073.87 for cancer research — a record since the launch of the initiative.

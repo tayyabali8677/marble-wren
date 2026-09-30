@@ -196,7 +196,6 @@ Chief of Defence - Hungary
 Chief of Defence - Iceland
 Chief of Defence - Latvia
 Chief of Defence - Montenegro
-Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
 Chief of Defence - Slovenia
@@ -984,7 +983,6 @@ Chief of Defence - Hungary
 Chief of Defence - Iceland
 Chief of Defence - Latvia
 Chief of Defence - Montenegro
-Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
 Chief of Defence - Slovenia
@@ -1757,7 +1755,6 @@ Chief of Defence - Hungary
 Chief of Defence - Iceland
 Chief of Defence - Latvia
 Chief of Defence - Montenegro
-Chief of Defence - North Macedonia
 Chief of Defence - Norway
 Chief of Defence - Poland
 Chief of Defence - Slovenia

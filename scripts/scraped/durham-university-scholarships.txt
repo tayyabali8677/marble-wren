@@ -873,7 +873,7 @@ Paid directly to the recipient
 Applicants who have been wounded or injured as a result of military service
 &pound;5,000.00 per academic year
 Open Date:
-76 entry to be confirmed
+26 entry to be confirmed
 Close Date:
 27 entry to be confirmed
 Glaister Northern Scholarships
@@ -882,9 +882,9 @@ Glaister Northern Scholarships
 Applicants from the North East of England with a household income below &pound;42,875. Postcode regions: CA, DH, DL, LA, NE, SR, TS.
 &pound;4,000.00 per academic year.
 Open Date:
-to be confirmed
+October 2026
 Close Date:
-to be confirmed
+25 March 2027
 Global Sports Award: International Scholarship
 Scholarship paid directly against tuition fees
 Supporting high performance sports applicants with European or International fee status.
@@ -918,6 +918,14 @@ Open Date:
 October 2026
 Close Date:
 18 March 2027
+Keep Making History - Norman Jackson Scholarship
+Scholarship paid directly to the recipient
+Applicant from the North East of England with a low household income - preference given to applicants studying a Science Faculty programme
+&pound;5,000.00 per academic year
+Open Date:
+October 2026
+Close Date:
+25 March 2027
 Keep Making History- North East Scholarships
 Scholarship paid directly to the recipient
 Applicants from the North East of England with a household income below &pound;42,875. Postcode regions: DH, DL, NE, SR or TS.
@@ -926,6 +934,14 @@ Open Date:
 October 2026
 Close Date:
 25 March 2027
+Keep Making History - STEM and Professional Excellence Scholarship
+Scholarship paid directly to the receipient
+Applicants with a household income below &pound;42,875., undertaking an accounting or STEM undergraduate degree
+&pound;5,000.00
+Open Date:
+October 2026
+Close Date:
+31 March 2027
 Khodorkovsky Scholarships
 Full scholarship for Russian undergraduates and postgraduates
 To support Russian students who are looking to undertake a second academic programme of study at Durham University.

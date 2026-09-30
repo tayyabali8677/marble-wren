@@ -81,7 +81,7 @@ Here is a sneak peek of the eligibility criteria and recruitment process
 Eligibility Criteria
 Nationality
 You are a national of a CERN Member or Associate Member State.
-Currently, we cannot consider applications from Pakistani, Lithuanian, Latvian, Cypriot and Croatian nationals, as the ceiling defined under Article II.5 of the Associate Membership Agreement has been reached.
+Currently, we cannot consider applications from Pakistani, Lithuanian, Latvian, Cypriot, Croatian and Turkish nationals, as the ceiling defined under Article II.5 of the Associate Membership Agreement has been reached.
 Our Member and Associate Member States
 Specific requirement
 Your university must accept that the research you conduct at CERN contributes to your doctoral thesis in one of CERN&#8217;s fields of work (science, technology, engineering, mathematics, etc.)
@@ -186,7 +186,6 @@ OSI - Organizational Support and Improvement
 RCS - Research & Computing Sector
 SCE – Site and Civil Engineering
 SO - Site Operations
-SR - Stakeholder Relations
 SY – Accelerator Systems
 TE – Technology
 TH – Theoretical Physics

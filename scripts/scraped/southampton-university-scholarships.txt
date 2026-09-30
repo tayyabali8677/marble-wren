@@ -182,16 +182,14 @@ Find a scholarship to help fund your studies. Some are automatically awarded if 
 Scholarships are a type of financial aid that don't need to be repaid. They can help to cover tuition fees or living costs and might be awarded based on academic merit or skill, achievement or through a competitive application process.
 Whether or not you can apply to some scholarships will depend on whether you'll pay UK or international tuition fees. This is your "fee status". Find out what your fee status is before applying.
 Check your fee status
-Undergraduate scholarships
-Scholarships for UK and international students on undergraduate courses.
-Postgraduate scholarships
-Scholarships for UK and international students on postgraduate courses.
-International student scholarships
-Scholarships for international students on undergraduate and postgraduate courses.
 Find scholarships for international students
 Use our scholarship finder to explore scholarships and awards for international students.
 Scholarships for Home students will be added in a future update.
 Browse international scholarships
+Undergraduate scholarships
+Scholarships for UK and international students on undergraduate courses.
+Postgraduate scholarships
+Scholarships for UK and international students on postgraduate courses.
 Sports scholarships for elite athletes
 Sports scholarships are available to high level athletes studying or applying to an undergraduate or postgraduate course at Southampton. You could receive up to £800 towards your sport alongside other benefits like a sports annual membership and bespoke training programmes.
 Part of the
@@ -473,12 +471,6 @@ Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
 Scholarships for international students
-Merit scholarships for international undergraduates
-Presidential bursaries
-Vice-Chancellor’s Global Achievers Award
-Winchester School of Art Postgraduate Global Talent Scholarship
-Excellence Scholarship
-Southampton Canadian Prestige Scholarship for Law
 External funding opportunities
 Short courses
 Continuing professional development
@@ -1186,12 +1178,6 @@ Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
 Scholarships for international students
-Merit scholarships for international undergraduates
-Presidential bursaries
-Vice-Chancellor’s Global Achievers Award
-Winchester School of Art Postgraduate Global Talent Scholarship
-Excellence Scholarship
-Southampton Canadian Prestige Scholarship for Law
 External funding opportunities
 Short courses
 Continuing professional development
@@ -1916,12 +1902,6 @@ Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
 Scholarships for international students
-Merit scholarships for international undergraduates
-Presidential bursaries
-Vice-Chancellor’s Global Achievers Award
-Winchester School of Art Postgraduate Global Talent Scholarship
-Excellence Scholarship
-Southampton Canadian Prestige Scholarship for Law
 External funding opportunities
 Short courses
 Continuing professional development
@@ -2740,12 +2720,6 @@ Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
 Scholarships for international students
-Merit scholarships for international undergraduates
-Presidential bursaries
-Vice-Chancellor’s Global Achievers Award
-Winchester School of Art Postgraduate Global Talent Scholarship
-Excellence Scholarship
-Southampton Canadian Prestige Scholarship for Law
 External funding opportunities
 Short courses
 Continuing professional development

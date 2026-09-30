@@ -501,7 +501,7 @@ Algorithms and Theory
 Audio Processing
 18
 Climate and Sustainability
-12
+13
 Compilers
 6
 Computer Architecture
@@ -511,7 +511,7 @@ Data Management
 Data Mining and Modeling
 284
 Distributed Systems and Parallel Computing
-277
+278
 Economics and Electronic Commerce
 80
 Education Innovation
@@ -519,17 +519,17 @@ Education Innovation
 General Science
 155
 Hardware and Architecture
-133
+132
 Health & Bioscience
 119
 Human-Computer Interaction and Visualization
 284
 Information Retrieval and the Web
-184
+185
 Machine Intelligence
 998
 Machine Learning
-210
+211
 Machine Perception
 422
 Machine Translation
@@ -537,21 +537,21 @@ Machine Translation
 Mobile Systems
 88
 Natural Language Processing
-480
+481
 Networking
-134
+133
 Operating Systems
 16
 Quantum Computing
 68
 Responsible AI
-88
+89
 Robotics
 74
 Security, Privacy and Abuse Prevention
 187
 Software Engineering
-261
+262
 Software Systems
 222
 Speech Processing
@@ -592,6 +592,8 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Anmol Agarwal
+Natural Language Processing
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
@@ -600,16 +602,14 @@ Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Anmol Agarwal
-Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,9 +618,6 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Shreya Agrawal
-General Science
-Machine Intelligence
 Parth Agrawal
 Machine Learning
 Machine Perception
@@ -628,6 +625,9 @@ Robotics
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
+Shreya Agrawal
+General Science
+Machine Intelligence
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -656,11 +656,6 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
 Mustaq Ahmed
 Algorithms and Theory
 Networking
@@ -668,6 +663,11 @@ Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
++2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
 +2 more
 1
 2
