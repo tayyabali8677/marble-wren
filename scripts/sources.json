@@ -3672,5 +3672,12 @@
     "country": "United States",
     "url": "https://knight-hennessy.stanford.edu/",
     "note": "Extracted from the Youth Opportunities scholarship listing page."
+  },
+  {
+    "slug": "mastercard-foundation-doctor-of-public-health-scholarship-canada",
+    "name": "University of Toronto Mastercard Foundation Doctor of Public Health Scholarship",
+    "country": "Canada",
+    "url": "https://youthop.com/scholarships",
+    "note": "Extracted from Youth Opportunities platform listing; specific official university link to be verified on aggregator page."
   }
 ]
