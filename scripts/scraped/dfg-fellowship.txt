@@ -3921,7 +3921,10 @@ New Instrumentation for Research
 F orms and Guidelines
 Category: Individuals
 o
-Open Access Publication Funding
+Open Access Publication Funding (Last Proposal Submission in 2027)
+F orms and Guidelines
+Category: Institutions
+Open Access Publication Grant (First Proposal Submission in 2027)
 F orms and Guidelines
 Category: Institutions
 p
@@ -4059,7 +4062,9 @@ Major Instrumentation Initiatives
 F orms and Guidelines
 Core Facilities
 F orms and Guidelines
-Open Access Publication Funding
+Open Access Publication Funding (Last Proposal Submission in 2027)
+F orms and Guidelines
+Open Access Publication Grant (First Proposal Submission in 2027)
 F orms and Guidelines
 National Research Data Infrastructure
 F orms and Guidelines
@@ -4085,7 +4090,7 @@ Structure of Funding Portfolio
 The DFG funding portfolio includes a wide range of funding instruments for research projects and research infrastructures. A distinction is made between funding for individual researchers and funding for institutions, according to the requirements and objectives of the research to be conducted. Individuals can also be nominated for research prizes.
 Most of the DFG’s funding instruments are designed to support research projects. These instruments are grouped into seven funding focuses (an eighth funding focus encompasses prizes). Grants centre on either research career development, or the research theme and the way in which it is addressed or the infrastructures required to address it. As far as possible, funding opportunities are aligned with the needs of researchers and are designed to reflect the research approaches used in the various academic research disciplines and communities. They also enable or facilitate diverse forms of cooperation between institutions, locations and disciplines. Funding awarded to research institutions also helps to enhance their core areas and structures from an academic and infrastructural standpoint.
 Last updated:
-27 May 2026
+1 October 2026
 Information Systems and Websites
 Portal Research Integrity
 GEPRIS

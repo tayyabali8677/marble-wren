@@ -505,7 +505,7 @@ Climate and Sustainability
 Compilers
 6
 Computer Architecture
-23
+24
 Data Management
 110
 Data Mining and Modeling
@@ -519,17 +519,17 @@ Education Innovation
 General Science
 155
 Hardware and Architecture
-132
+133
 Health & Bioscience
-119
+118
 Human-Computer Interaction and Visualization
 284
 Information Retrieval and the Web
 185
 Machine Intelligence
-998
+997
 Machine Learning
-211
+212
 Machine Perception
 422
 Machine Translation
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -622,12 +622,12 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Shreya Agrawal
 General Science
 Machine Intelligence
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
@@ -656,18 +656,17 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
-Tousif Ahmed
-Human-Computer Interaction and Visualization
-Mobile Systems
-Responsible AI
-+2 more
+Zafarali Ahmed
+Machine Intelligence
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
++2 more
+Tousif Ahmed
+Human-Computer Interaction and Visualization
+Mobile Systems
+Responsible AI
 +2 more
 1
 2

@@ -373,7 +373,6 @@ Microfluidic cell isolation systems for sepsis
 Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
 Miniaturisation in fishes: evolutionary and ecological perspectives
 Modelling high-power fibre laser and amplifier stability
-Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
 Modelling the evolution of adaptive responses to climate change across spatial landscapes
 Nanomaterials sensors for biomedicine and/or the environment
 New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
@@ -446,16 +445,11 @@ Scholarships
 Undergraduate funding options
 Southampton undergraduate bursary
 Undergraduate scholarships
-Engineering Excellence Scholarship
-Southampton Physics and Astronomy Achievement Scholarship
 Postgraduate funding options
 Postgraduate scholarships
 Black Futures Postgraduate Research Scholarships (Environmental and Life Sciences)
 Black Futures scholarship
-China Excellence Scholarship
 Horizon Europe fee waiver
-India Excellence Scholarship
-Nigeria Excellence Scholarship
 Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
 Social Impact Scholarships
 Southampton Business School (MSc) Dean Scholarship (UK)
@@ -463,10 +457,8 @@ Southampton History Patricia Mather and Helen Patterson Scholarship
 Southampton MA Holocaust scholarships
 Southampton Philosophy David Humphris-Norman Scholarship
 Southampton Philosophy MA Scholarship
-Thailand Excellence Scholarship
 The National Institute for Health and care Research South Central INSIGHT Programme
 The South Coast Doctoral Training Partnership Social Science PhD Studentships
-Vietnam Excellence Scholarship
 Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
@@ -1080,7 +1072,6 @@ Microfluidic cell isolation systems for sepsis
 Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
 Miniaturisation in fishes: evolutionary and ecological perspectives
 Modelling high-power fibre laser and amplifier stability
-Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
 Modelling the evolution of adaptive responses to climate change across spatial landscapes
 Nanomaterials sensors for biomedicine and/or the environment
 New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
@@ -1153,16 +1144,11 @@ Scholarships
 Undergraduate funding options
 Southampton undergraduate bursary
 Undergraduate scholarships
-Engineering Excellence Scholarship
-Southampton Physics and Astronomy Achievement Scholarship
 Postgraduate funding options
 Postgraduate scholarships
 Black Futures Postgraduate Research Scholarships (Environmental and Life Sciences)
 Black Futures scholarship
-China Excellence Scholarship
 Horizon Europe fee waiver
-India Excellence Scholarship
-Nigeria Excellence Scholarship
 Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
 Social Impact Scholarships
 Southampton Business School (MSc) Dean Scholarship (UK)
@@ -1170,10 +1156,8 @@ Southampton History Patricia Mather and Helen Patterson Scholarship
 Southampton MA Holocaust scholarships
 Southampton Philosophy David Humphris-Norman Scholarship
 Southampton Philosophy MA Scholarship
-Thailand Excellence Scholarship
 The National Institute for Health and care Research South Central INSIGHT Programme
 The South Coast Doctoral Training Partnership Social Science PhD Studentships
-Vietnam Excellence Scholarship
 Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
@@ -1804,7 +1788,6 @@ Microfluidic cell isolation systems for sepsis
 Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
 Miniaturisation in fishes: evolutionary and ecological perspectives
 Modelling high-power fibre laser and amplifier stability
-Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
 Modelling the evolution of adaptive responses to climate change across spatial landscapes
 Nanomaterials sensors for biomedicine and/or the environment
 New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
@@ -1877,16 +1860,11 @@ Scholarships
 Undergraduate funding options
 Southampton undergraduate bursary
 Undergraduate scholarships
-Engineering Excellence Scholarship
-Southampton Physics and Astronomy Achievement Scholarship
 Postgraduate funding options
 Postgraduate scholarships
 Black Futures Postgraduate Research Scholarships (Environmental and Life Sciences)
 Black Futures scholarship
-China Excellence Scholarship
 Horizon Europe fee waiver
-India Excellence Scholarship
-Nigeria Excellence Scholarship
 Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
 Social Impact Scholarships
 Southampton Business School (MSc) Dean Scholarship (UK)
@@ -1894,10 +1872,8 @@ Southampton History Patricia Mather and Helen Patterson Scholarship
 Southampton MA Holocaust scholarships
 Southampton Philosophy David Humphris-Norman Scholarship
 Southampton Philosophy MA Scholarship
-Thailand Excellence Scholarship
 The National Institute for Health and care Research South Central INSIGHT Programme
 The South Coast Doctoral Training Partnership Social Science PhD Studentships
-Vietnam Excellence Scholarship
 Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options
@@ -2622,7 +2598,6 @@ Microfluidic cell isolation systems for sepsis
 Migrant entrepreneurship, gender and generation: context and family dynamics in small town Britain
 Miniaturisation in fishes: evolutionary and ecological perspectives
 Modelling high-power fibre laser and amplifier stability
-Modelling soil dewatering and recharge for cost-effective and climate resilient infrastructure
 Modelling the evolution of adaptive responses to climate change across spatial landscapes
 Nanomaterials sensors for biomedicine and/or the environment
 New high-resolution observations of ocean surface current and winds from innovative airborne and satellite measurements
@@ -2695,16 +2670,11 @@ Scholarships
 Undergraduate funding options
 Southampton undergraduate bursary
 Undergraduate scholarships
-Engineering Excellence Scholarship
-Southampton Physics and Astronomy Achievement Scholarship
 Postgraduate funding options
 Postgraduate scholarships
 Black Futures Postgraduate Research Scholarships (Environmental and Life Sciences)
 Black Futures scholarship
-China Excellence Scholarship
 Horizon Europe fee waiver
-India Excellence Scholarship
-Nigeria Excellence Scholarship
 Postgraduate Taught Diversity Scholarship (Environmental and Life Sciences)
 Social Impact Scholarships
 Southampton Business School (MSc) Dean Scholarship (UK)
@@ -2712,10 +2682,8 @@ Southampton History Patricia Mather and Helen Patterson Scholarship
 Southampton MA Holocaust scholarships
 Southampton Philosophy David Humphris-Norman Scholarship
 Southampton Philosophy MA Scholarship
-Thailand Excellence Scholarship
 The National Institute for Health and care Research South Central INSIGHT Programme
 The South Coast Doctoral Training Partnership Social Science PhD Studentships
-Vietnam Excellence Scholarship
 Winchester School of Art Inclusive Futures Scholarship
 Spärck AI Scholarship
 International funding options

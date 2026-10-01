@@ -54,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -324,7 +324,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -532,11 +532,11 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
-Menu openen
+Menu sluiten
 Students
 Researchers
 Alumni
@@ -723,7 +723,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu openen
+Menu sluiten
 Zoek medewerkers
 Contact
 Locaties
@@ -980,7 +980,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1250,7 +1250,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu openen
+Menu sluiten
 Business collaboration
 Pioneering Tech
 Entrepreneurship

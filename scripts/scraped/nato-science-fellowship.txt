@@ -48,13 +48,10 @@ Bulgaria - Permanent Representatives
 Croatia - Permanent Representatives
 Czechia - Permanent Representatives
 Denmark - Permanent Representatives
-Germany - Permanent Representative
-Greece - Permanent Representative
 Hungary - Permanent Representatives
 Iceland - Permanent Representatives
 Luxembourg - Permanent Representatives - Luxembourg
 Montenegro - Permanent Representatives
-Netherlands - Permanent Representatives
 North Macedonia - Permanent Representatives
 Norway - Permanent Representatives - Norway
 Portugal - Permanent Representatives
@@ -64,14 +61,7 @@ Slovenia - Permanent Representatives
 Spain - Permanent Representatives
 Sweden - Permanent Representatives
 Türkiye - Permanent Representatives
-United States - Permanent Representatives
-United Kingdom - Permanent Representatives
 Finland - Permanent Representatives
-France - Permanent Representative
-Italy - Permanent Representatives
-Latvia - Permanent Representatives
-Lithuania - Permanent Representatives
-Poland - Permanent Representatives
 International Staff
 Chief of Staff and Director - Office of the Secretary General
 Director-General for Management and Deputy Chief of Staff
@@ -835,13 +825,10 @@ Bulgaria - Permanent Representatives
 Croatia - Permanent Representatives
 Czechia - Permanent Representatives
 Denmark - Permanent Representatives
-Germany - Permanent Representative
-Greece - Permanent Representative
 Hungary - Permanent Representatives
 Iceland - Permanent Representatives
 Luxembourg - Permanent Representatives - Luxembourg
 Montenegro - Permanent Representatives
-Netherlands - Permanent Representatives
 North Macedonia - Permanent Representatives
 Norway - Permanent Representatives - Norway
 Portugal - Permanent Representatives
@@ -851,14 +838,7 @@ Slovenia - Permanent Representatives
 Spain - Permanent Representatives
 Sweden - Permanent Representatives
 Türkiye - Permanent Representatives
-United States - Permanent Representatives
-United Kingdom - Permanent Representatives
 Finland - Permanent Representatives
-France - Permanent Representative
-Italy - Permanent Representatives
-Latvia - Permanent Representatives
-Lithuania - Permanent Representatives
-Poland - Permanent Representatives
 International Staff
 Chief of Staff and Director - Office of the Secretary General
 Director-General for Management and Deputy Chief of Staff
