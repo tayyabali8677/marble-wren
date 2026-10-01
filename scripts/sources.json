@@ -3679,5 +3679,54 @@
     "country": "Canada",
     "url": "https://youthop.com/scholarships",
     "note": "Extracted from Youth Opportunities platform listing; specific official university link to be verified on aggregator page."
+  },
+  {
+    "slug": "vsb-scholarships",
+    "name": "VSB Scholarships",
+    "country": "Netherlands",
+    "url": "https://www.nuffic.nl/en/subjects/scholarships",
+    "note": "Mentioned on Nuffic's programmes page."
+  },
+  {
+    "slug": "mbzuai-postgraduate-scholarships-uae",
+    "name": "MBZUAI Postgraduate Scholarships 2027 in UAE",
+    "country": "United Arab Emirates",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "maastricht-university-holland-scholarships-netherlands",
+    "name": "Maastricht University Holland Scholarships 2027 in Netherlands",
+    "country": "Netherlands",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "knu-international-graduate-scholarship-korea",
+    "name": "KNU International Graduate Scholarship 2027 in Korea",
+    "country": "South Korea",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "denmark-fulbright-program",
+    "name": "Denmark Fulbright Program 2027",
+    "country": "Denmark",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "erasmus-mundus-each-scholarships-europe",
+    "name": "Erasmus Mundus EACH Scholarships 2027 in Europe",
+    "country": "Europe",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "keio-university-adb-scholarship-japan",
+    "name": "Keio University ADB Scholarship 2027 in Japan",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
   }
 ]
