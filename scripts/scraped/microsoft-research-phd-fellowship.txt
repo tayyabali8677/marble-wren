@@ -33,24 +33,16 @@ Microsoft Research Stories
 About Microsoft Research
 Careers & internships
 People
-Emeritus program
 News & awards
-Microsoft Research newsletter
-Africa
-AI for Science
-AI Frontiers
 Asia-Pacific
 Cambridge
 Catalyst
-Health Futures
 India
 Montreal
 New England
 New York City
 Redmond
-Applied Sciences
-Mixed Reality & AI - Cambridge
-Mixed Reality & AI - Zurich
+Other research groups
 Register: Research Forum
 Microsoft Security
 Azure
@@ -194,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 9a7fe40cd1213398981ff2b5548a54a9
+This is the Trace Id: 30f4179a1a087444c8e61506caa46059
 Skip to main content
 Education
 Azure for education

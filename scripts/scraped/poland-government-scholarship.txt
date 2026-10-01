@@ -930,13 +930,6 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-Stypendium Expatrio w Niemczech 2026
-16.07.2026 - 30.09.2026
-The Expatrio Scholarship 2026 to program dla studentów z całego świata, którzy planują rozpocząć studia w Niemczech w semestrze zimowym 2026. Fundusz nagród w edycji 2026 wynosi ponad 40 000 euro, a nagrody otrzyma 10 osób.
-Szczegóły
-16
-Lip
-2026
 Stypendia doktoranckie Boehringer Ingelheim Fonds (BIF) 2026
 16.07.2026 - 01.10.2026
 BIF PhD Fellowships to stypendia doktoranckie Boehringer Ingelheim Fonds dla osób realizujących eksperymentalne projekty doktorskie w podstawowych badaniach biomedycznych. Program wspiera badania służące wyjaśnianiu podstawowych zjawisk biologicznych życia człowieka i zdobywaniu nowej wiedzy naukowej.
@@ -958,6 +951,13 @@ Szczegóły
 16
 Lip
 2026
+Stypendia badawcze Smithsonian Institution Fellowship Program 2026
+16.07.2026 - 15.10.2026
+Smithsonian Institution Fellowship Program (SIFP) to program rezydencyjnych fellowshipów badawczych oferowanych przez Smithsonian Office of Academic Appointments and Internships. Program umożliwia prowadzenie niezależnych badań lub studiów związanych z kolekcjami, zapleczem badawczym oraz zainteresowaniami badawczymi Smithsonian Institution i jego pracowników.
+Szczegóły
+16
+Lip
+2026
 Stypendia badawcze PICAIS na Uniwersytecie w Passau 2026
 16.07.2026 - 15.10.2026
 PICAIS zaprasza do składania wniosków na stanowisko gościnne na Uniwersytecie w Pasawie w dwóch rundach selekcyjnych każdego roku.
@@ -970,7 +970,6 @@ Poprzedni
 4
 5
 6
-7
 Następny
 Koniec
 Menu
