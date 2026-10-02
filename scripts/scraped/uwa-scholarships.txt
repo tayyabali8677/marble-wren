@@ -462,12 +462,7 @@ Student Services and Amenities Fee
 Australia Awards and sponsored students
 Current student fees
 You may be interested in
-Find a course
-Discover your perfect course and kickstart your career with a world top 100 university.
-How to apply
-You&#x27;ve done your research and decided that UWA is the place for you – great choice!
-Pathways and Eligibility
-Learn about entry pathways and eligibility requirements for studying at UWA.
+Loading component...
 Loading component...
 Loading component...
 Study
@@ -569,6 +564,12 @@ Support information
 UWA
 Study
 Scholarships and fees
+Find a course
+Discover your perfect course and kickstart your career with a world top 100 university.
+How to apply
+You&#x27;ve done your research and decided that UWA is the place for you – great choice!
+Pathways and eligibility
+Learn about entry pathways and eligibility requirements for studying at UWA.
 Need some help? Get in touch
 View FAQs
 View our Frequently Asked Questions for all UWA-related queries.

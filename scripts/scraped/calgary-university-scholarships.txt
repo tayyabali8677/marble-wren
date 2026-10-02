@@ -1198,8 +1198,7 @@ How your award is paid
 Check your award notification for details on how your award will be paid. The notification will include:
 If the payment is split into two portions or if it's disbursed all at once
 Whether the payment is applied to your fees or paid out to you directly
-When the amount is applied to your account and/or paid to your bank account, and
-Deadline to submit your direct deposit information
+When the amount is applied to your account and/or paid via e-transfer from Flywire
 View the posted payout dates
 How to view your award payment
 Follow these steps to see how your award payment has been applied to your account:
@@ -1209,16 +1208,18 @@ Click Payments below your Account Summary
 Click the amount for the corresponding award to see how it was used
 Understand your award status and refund details
 If you do not see your award on your Payments page, it has not been applied to your account yet; refer to your award notification for timeline.
-If an award or part of an award has not been used against your Academic or Residence fees, it would show “unapplied”. If it remains unapplied close to your refund date, it will be paid out to your bank account.
+If an award or part of an award has not been used against your Academic or Residence fees, it would show “unapplied”. If it remains unapplied close to your refund date, it will be paid out via e-transfer
 If the amount is not clickable, it means there is no outstanding charges for it to be applied against, and is waiting for the refund to be processed.
-If an amount is refunded to you, it would show “payout of scholarship refunds”.
-Your award status may show “disbursed” before your direct deposit date. This means your award has been applied to your account. It does not mean that you should have received a refund in your bank. Refunds will only occur on the direct deposit date, and only if you have excess award funds that have not been used against your fees.
-How to set up direct deposit
-To receive a payout of scholarship refund, you must provide your banking information:
-Log in to your Student Centre
-Select My Financials
-Select Submit Direct Deposit Info to add, review or update your banking details
-Payments may be delayed if your banking information is missing or outdated.
+If an amount is refunded to you, it would show “Scholarship Refund - Flywire”.
+Your award status may show “disbursed” before receiving your e-transfer. This means your award has been applied to your account. It does not mean that you should have received your e-transfer. Award refunds can take 3-7 business days to process, and only if you have excess award funds that have not been used against your fees.
+How to receive your award funds
+Award funds that are paid out to you will be issued by Interac e-Transfer via Flywire.
+The fastest way to receive your funds is by setting up your @ucalgary.ca email address for auto deposit—learn about Interac e-Transfer and auto deposit .
+If your UCalgary email is not set up for auto deposit, you can accept the e-transfer online with a verification code:
+Receive an email from notify@payments.interac.ca with the subject: Flywire Payments Canada Inc. sent you $XXX
+Receive an email with a verification code from Flywire Payables ( no-reply@flywire.com )
+Enter the Flywire verification code through the link from the Interac e-Transfer email
+Award funds can only be deposited to Canadian bank accounts; we cannot issue funds in other ways or to international banks.
 Check out other award types
 External and government awards
 Available from many sources, with a variety of criteria and deadlines.

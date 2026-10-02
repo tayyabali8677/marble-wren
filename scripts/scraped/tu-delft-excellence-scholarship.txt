@@ -324,7 +324,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -337,7 +337,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -532,11 +532,11 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
-Menu sluiten
+Menu openen
 Students
 Researchers
 Alumni
