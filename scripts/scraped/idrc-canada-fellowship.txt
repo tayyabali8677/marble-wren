@@ -92,9 +92,7 @@ Funding
 IDRC champions and funds research and innovation within and alongside developing regions to drive global change
 Discover our open calls below for competitive and institutional grants designed to fund research topics aligned with our priorities and programming aimed at finding solutions for development challenges. For information and guidelines about application procedures, please see the specific announcements.
 Open calls
-Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
-Call For: Expressions of interest
-Deadline: September 25, 2026
+It looks like we have no open calls at the moment. Sign up for our funding alert to receive an email whenever a new funding opportunity is launched.
 Stay up to date on funding opportunities
 You must have JavaScript enabled to use this form.
 Email
@@ -102,6 +100,9 @@ Get alerts on new calls for proposals and key deadlines.
 Please review our privacy notice
 Closed calls
 Browse our closed calls below and explore the experiences of past Research Awardees . You can also browse active and completed  research projects to gain insights into the work we do.
+Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
+Call For: Expressions of interest
+Deadline: September 25, 2026
 Call for letters of interest: Addressing neglected areas of sexual and reproductive health and rights in sub-Saharan Africa (ANeSA)
 Call For: Letters of interest
 Deadline: August 23, 2026
@@ -159,9 +160,6 @@ Deadline: April 25, 2024
 Call for expressions of interest: Regional hubs for climate change and health
 Call For: Expressions of interest
 Deadline: April 5, 2024
-Global call for research concept notes: climate-smart livestock systems
-Call For: Concept notes
-Deadline: January 25, 2024
 Stay connected.
 Subscribe
 Social Media
@@ -279,9 +277,7 @@ Funding
 IDRC champions and funds research and innovation within and alongside developing regions to drive global change
 Discover our open calls below for competitive and institutional grants designed to fund research topics aligned with our priorities and programming aimed at finding solutions for development challenges. For information and guidelines about application procedures, please see the specific announcements.
 Open calls
-Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
-Call For: Expressions of interest
-Deadline: September 25, 2026
+It looks like we have no open calls at the moment. Sign up for our funding alert to receive an email whenever a new funding opportunity is launched.
 Stay up to date on funding opportunities
 You must have JavaScript enabled to use this form.
 Email
@@ -289,6 +285,9 @@ Get alerts on new calls for proposals and key deadlines.
 Please review our privacy notice
 Closed calls
 Browse our closed calls below and explore the experiences of past Research Awardees . You can also browse active and completed  research projects to gain insights into the work we do.
+Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
+Call For: Expressions of interest
+Deadline: September 25, 2026
 Call for letters of interest: Addressing neglected areas of sexual and reproductive health and rights in sub-Saharan Africa (ANeSA)
 Call For: Letters of interest
 Deadline: August 23, 2026
@@ -346,9 +345,6 @@ Deadline: April 25, 2024
 Call for expressions of interest: Regional hubs for climate change and health
 Call For: Expressions of interest
 Deadline: April 5, 2024
-Global call for research concept notes: climate-smart livestock systems
-Call For: Concept notes
-Deadline: January 25, 2024
 Stay connected.
 Subscribe
 Social Media
@@ -1072,7 +1068,7 @@ Fulltext search
 Home
 Funding
 Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
-Open
+Closed
 Call for
 Expressions of interest
 Deadline
@@ -1111,7 +1107,7 @@ SGCSSA@idrc.ca
 Type
 Grant
 Status
-Open
+Closed
 Scope
 The SGCI Multilateral Research Call in support of STISA-2034 will fund collaborative, multi-country research projects that advance Africa’s science, technology and innovation priorities and contribute to sustainable development outcomes across the continent.
 The call supports research aligned with five thematic streams:

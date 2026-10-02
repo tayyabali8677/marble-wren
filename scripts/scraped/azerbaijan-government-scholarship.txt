@@ -59,19 +59,19 @@ Provides every citizen with the opportunity to get continuous education.
 Projects
 Projects of the Ministry of Education
 News
+President of the Council of Higher Education of Türkiye visits the Türkiye-Azerbaijan University
+01.10.2026 - 12:46
 Azerbaijan wins “Medal of Excellence” at “WorldSkills Shanghai 2026” international competition
 28.09.2026 - 14:25
 Azerbaijan is represented at the 10th plenary session of the Council of Europe’s Steering Committee for Education
 28.09.2026 - 11:21
+&nbsp
 Hasan Hasanli meets with the Chair of the Education, Science and Youth Affairs Committee of the Parliament of Georgia
 24.09.2026 - 19:57
-&nbsp
 The Minister attends a high-level event dedicated to the building of safe digital systems for children
 23.09.2026 - 15:55
 Azerbaijan’s Ministry of Science and Education and OpenAI Expand Cooperation on the Use of AI in Education
 23.09.2026 - 09:49
-Minister of Science and Education attends the event "Partnership for Building the Future Together
-22.09.2026 - 13:53
 All news
 11/09/2026
 "Təhsilin keyfiyyəti şagirdin nəticəsidir" | Emin Əmrullayev
@@ -333,7 +333,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 2
+XƏBƏRLƏR 3
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓

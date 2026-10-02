@@ -446,6 +446,7 @@ Zeitschriftenabos
 Datenbanken
 Bücher
 E-Learning
+Sparempfehlungen
 Gutscheine und Rabatte
 Suche
 15 kostenlose Abos
@@ -502,6 +503,16 @@ E-Learning : Online-Kurs zur GMAT-Vorbereitung
 E-Learning : Kostenlose Vorbereitung für den IELTS-Test
 E-Learning : Übe dein Vorstellungsgespräch –
 30 Minuten gratis
+Sparempfehlungen
+Ob im Studium, auf Reisen oder beim Berufseinstieg: Entdecke unsere Empfehlungen rund um Versicherungen und Finanzen, die zu dir und deinem Alltag passen. Mit attraktiven Konditionen senkst du deine laufenden Kosten und sparst langfristig Geld
+Versicherung : Unser Tipp: Günstig versichert bei der BKK firmus
+Versicherung : Unser Tipp: Young Travel Auslandskrankenversicherung der HanseMerkur
+Versicherung : Bis zu 90 Euro Rabatt auf Versicherungen
+Online-Rechner : Girokonten vergleichen
+Online-Rechner : Kreditkarten vergleichen
+Online-Rechner : Mobilfunk-Verträge vergleichen
+Online-Rechner : Depots vergleichen
+Online-Rechner : Tagesgeldkonten vergleichen
 Noch mehr Vergünstigungen für dich
 Mal wieder die Freunde daheim besuchen: Mit Gutscheinen von Flixtrain kommen Stipendiat:innen günstiger ans Ziel. Außerdem profitieren e-fellows von Rabatten auf wichtige Versicherungen und nutzen Software gratis.
 Gutscheine und Rabatte
@@ -512,7 +523,6 @@ Rabatt : 12 Prozent Rabatt auf deine Sprachreise bei EF
 Gutschein : Steuererklärung gratis oder 10% Rabatt
 Gutschein : 15 Prozent Flixtrain Gutschein
 Gutschein : 13 Euro WISO Steuer Gutschein
-Rabatt : Bis zu 90 Euro Rabatt auf Versicherungen
 Gutschein für Lektorat und Plagiatsprüfung : Rabatt in Höhe von bis zu 20 % bei korrektur.de
 Software : Kostenloses PowerPoint-AddIn
 Software : Kostenloses PowerPoint-AddIn
@@ -543,6 +553,7 @@ Gutschein
 Mitgliedschaften
 Print-Abo
 Software und Apps
+Sparempfehlungen
 Verlosung
 Status
 Alumnus
@@ -556,7 +567,7 @@ MINT
 Wirtschaftswissenschaften
 Filter anwenden
 Filter entfernen
-Seite 1 von 6
+Seite 1 von 7
 Merken
 Jura Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
 my legal AI ist eine Jura-Rechercheplattform mit integriertem KI-Chat, der jede Antwort direkt mit den Fundstellen belegt, aus denen sie stammt. Die Plattform durchsucht das gesamte deutsche Bundes...
@@ -588,7 +599,7 @@ Retain ist eine Lern-App, die durch die Anwendung neuester Erkenntnisse aus der 
 Merken
 Lernapp : Effektive Prüfungsvorbereitung mit Jurafuchs
 Jurafuchs ist dein Jura-Tutor und begleitet dich durch dein gesamtes Jurastudium. Jura-Studierende und Rechtsreferendar:innen von e-fellows.net lösen 1000 Fragen kostenlos in der Jurafuchs-App.
-Seite 1 von 6
+Seite 1 von 7
 Spring zu Seite
 Los »
 Wie stehen deine Chancen aufs Stipendium?

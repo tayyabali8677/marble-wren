@@ -54,7 +54,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -67,7 +67,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -723,7 +723,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -980,7 +980,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -993,7 +993,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -1250,7 +1250,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
@@ -1263,7 +1263,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
