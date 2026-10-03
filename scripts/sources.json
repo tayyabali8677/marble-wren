@@ -3728,5 +3728,19 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "URL is extracted from aggregator listing; specific official apply link not directly in text."
+  },
+  {
+    "slug": "netaji-subhas-icar-international-fellowship-india",
+    "name": "Netaji Subhas-ICAR International Fellowship",
+    "country": "India",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Mentioned on EduCanada site as featured scholarship for doctoral studies in agriculture."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters-scholarships-europe",
+    "name": "Erasmus Mundus Joint Masters Scholarships",
+    "country": "European Union",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Mentioned on EduCanada site; available to top-ranked students globally for master's programs."
   }
 ]
