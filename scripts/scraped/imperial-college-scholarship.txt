@@ -85,7 +85,7 @@ Subjects
 Apply
 Undergraduate
 Application process
-Choose a course
+How to choose an undergraduate course
 Entry requirements
 Accepted qualifications
 Deadlines
@@ -127,7 +127,7 @@ Accepted qualifications
 Application process
 Entry requirements
 Accepted qualifications
-Choose a course
+How to choose a postgraduate course
 Personal statement
 Dates and deadlines
 Application fee
@@ -3384,7 +3384,7 @@ Subjects
 Apply
 Undergraduate
 Application process
-Choose a course
+How to choose an undergraduate course
 Entry requirements
 Accepted qualifications
 Deadlines
@@ -3426,7 +3426,7 @@ Accepted qualifications
 Application process
 Entry requirements
 Accepted qualifications
-Choose a course
+How to choose a postgraduate course
 Personal statement
 Dates and deadlines
 Application fee
@@ -3888,7 +3888,7 @@ Subjects
 Apply
 Undergraduate
 Application process
-Choose a course
+How to choose an undergraduate course
 Entry requirements
 Accepted qualifications
 Deadlines
@@ -3930,7 +3930,7 @@ Accepted qualifications
 Application process
 Entry requirements
 Accepted qualifications
-Choose a course
+How to choose a postgraduate course
 Personal statement
 Dates and deadlines
 Application fee

@@ -525,11 +525,11 @@ Health & Bioscience
 Human-Computer Interaction and Visualization
 283
 Information Retrieval and the Web
-186
+185
 Machine Intelligence
 998
 Machine Learning
-213
+215
 Machine Perception
 422
 Machine Translation
@@ -545,18 +545,18 @@ Operating Systems
 Quantum Computing
 67
 Responsible AI
-88
+90
 Robotics
 74
 Security, Privacy and Abuse Prevention
-186
+188
 Software Engineering
 262
 Software Systems
 222
 Speech Processing
 156
-1 - 30 of 2216 researchers
+1 - 30 of 2217 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,19 +592,19 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Anmol Agarwal
-Natural Language Processing
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -624,13 +624,13 @@ Software Engineering
 Shreya Agrawal
 General Science
 Machine Intelligence
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -659,12 +659,15 @@ Distributed Systems and Parallel Computing
 Mustaq Ahmed
 Algorithms and Theory
 Networking
-Zafarali Ahmed
-Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
++2 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
 +2 more
 1
 2
