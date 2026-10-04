@@ -3749,5 +3749,19 @@
     "country": "Germany",
     "url": "https://www.daad.de",
     "note": "Masters scholarships in public policy, law, economics, and social sciences"
+  },
+  {
+    "slug": "daad-helmut-schmidt-program-public-policy",
+    "name": "DAAD Helmut-Schmidt Program (Public Policy)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Masters scholarships in public policy, law, economics, and social sciences for developing countries"
+  },
+  {
+    "slug": "asia-pacific-university-adb-scholarship-japan",
+    "name": "Asia Pacific University ADB Scholarship",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "Extracted from aggregator homepage; specific apply URL not directly exposed in plain text snippet."
   }
 ]
