@@ -3742,5 +3742,12 @@
     "country": "European Union",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Mentioned on EduCanada site; available to top-ranked students globally for master's programs."
+  },
+  {
+    "slug": "daad-helmut-schmidt-program",
+    "name": "DAAD Helmut-Schmidt Program (Public Policy)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Masters scholarships in public policy, law, economics, and social sciences"
   }
 ]
