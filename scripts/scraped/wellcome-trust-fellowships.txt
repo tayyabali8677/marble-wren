@@ -552,13 +552,30 @@ Find a funding opportunity
 Skip to results
 Refine results Showing all
 Lead applicant career stage
-Lead applicant career stage About career stages
+Lead applicant career stage
+Early-career researcher
+Mid-career researcher
+Established researcher
+Leading a research programme
+Postdoctoral research
+Postgraduate training
+About career stages
 Strategic programme
-Strategic programme About strategic programmes
+Strategic programme
+Climate and Health
+Discovery Research
+Infectious Disease
+Mental Health
+About strategic programmes
 Frequency
 Frequency
+Annual
+One-off
 Status
 Status
+Open to applications
+Apply anytime
+Closed to applications
 Showing 13 results of 13
 Showing 13 of 13
 Sort by: Default Deadline (soonest)
