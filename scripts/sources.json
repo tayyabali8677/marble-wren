@@ -3763,5 +3763,26 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "Extracted from aggregator homepage; specific apply URL not directly exposed in plain text snippet."
+  },
+  {
+    "slug": "oxford-university-clarendon-scholarship-uk",
+    "name": "Oxford University Clarendon Scholarship 2027",
+    "country": "United Kingdom",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct external application URL was present in the text."
+  },
+  {
+    "slug": "tokyo-institute-of-technology-mext-scholarship-japan",
+    "name": "Tokyo Institute of Technology MEXT Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct external application URL was present in the text."
+  },
+  {
+    "slug": "university-of-tokyo-mext-scholarship-japan",
+    "name": "University of Tokyo MEXT Scholarship 2027",
+    "country": "Japan",
+    "url": "https://brightscholarship.com/",
+    "note": "URL derived from Bright Scholarship aggregator page as no direct external application URL was present in the text."
   }
 ]
