@@ -3784,5 +3784,12 @@
     "country": "Japan",
     "url": "https://brightscholarship.com/",
     "note": "URL derived from Bright Scholarship aggregator page as no direct external application URL was present in the text."
+  },
+  {
+    "slug": "erasmus-mundus-scholarship",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "European Union",
+    "url": "https://erasmus-mundus.eu",
+    "note": "Fully funded two-year Master's programs across multiple European universities."
   }
 ]
