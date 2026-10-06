@@ -527,11 +527,11 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 185
 Machine Intelligence
-997
+995
 Machine Learning
 216
 Machine Perception
-421
+419
 Machine Translation
 66
 Mobile Systems
@@ -547,7 +547,7 @@ Quantum Computing
 Responsible AI
 93
 Robotics
-74
+73
 Security, Privacy and Abuse Prevention
 190
 Software Engineering
@@ -556,7 +556,7 @@ Software Systems
 222
 Speech Processing
 156
-1 - 30 of 2218 researchers
+1 - 30 of 2215 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,13 +592,16 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Anmol Agarwal
+Natural Language Processing
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Anmol Agarwal
-Natural Language Processing
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
@@ -607,9 +610,6 @@ Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,15 +618,15 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Shreya Agrawal
+General Science
+Machine Intelligence
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
-Shreya Agrawal
-General Science
-Machine Intelligence
 Parth Agrawal
 Machine Learning
 Machine Perception
@@ -656,18 +656,16 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Amr Ahmed
-Data Mining and Modeling
-Human-Computer Interaction and Visualization
-Information Retrieval and the Web
-+2 more
-Zafarali Ahmed
-Machine Intelligence
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Zafarali Ahmed
+Machine Intelligence
 1
 2
 3

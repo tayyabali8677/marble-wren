@@ -85,7 +85,7 @@ française
 diplomatie.gouv.fr
 legifrance.gouv.fr
 info.gouv.fr
-service-public.fr
+service-public.gouv.fr
 data.gouv.fr
 Plan du site
 Accessibilité : partiellement conforme
@@ -182,7 +182,7 @@ française
 diplomatie.gouv.fr
 legifrance.gouv.fr
 info.gouv.fr
-service-public.fr
+service-public.gouv.fr
 data.gouv.fr
 Plan du site
 Accessibilité : partiellement conforme

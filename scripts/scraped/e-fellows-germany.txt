@@ -440,7 +440,7 @@ Für Unternehmen und Hochschulen
 Startseite
 Vorteile
 Vorteile für Stipendiaten, Alumni und Mitglieder : Bis zu 50 geldwerte Leistungen warten auf dich
-Kostenlose Abos, Karriereratgeber, E-Learning-Angebote und mehr: e‑fellows.net zu nutzen zahlt sich aus! Gehörst du zu den besten 10 Prozent, belaufen sich deine Vorteile auf bis zu 1.000 Euro.
+Kostenlose Abos, Karriereratgeber, E-Learning-Angebote und mehr: e‑fellows.net zu nutzen, zahlt sich aus! Gehörst du zu den besten 10 Prozent, belaufen sich deine Vorteile auf bis zu 1.000 Euro.
 deagreez – stock.adobe.com
 Zeitschriftenabos
 Datenbanken
@@ -504,7 +504,7 @@ E-Learning : Kostenlose Vorbereitung für den IELTS-Test
 E-Learning : Übe dein Vorstellungsgespräch –
 30 Minuten gratis
 Sparempfehlungen
-Ob im Studium, auf Reisen oder beim Berufseinstieg: Entdecke unsere Empfehlungen rund um Versicherungen und Finanzen, die zu dir und deinem Alltag passen. Mit attraktiven Konditionen senkst du deine laufenden Kosten und sparst langfristig Geld
+Ob im Studium, auf Reisen oder beim Berufseinstieg: Entdecke unsere Empfehlungen rund um Versicherungen und Finanzen, die zu dir und deinem Alltag passen. Mit attraktiven Konditionen senkst du deine laufenden Kosten und sparst langfristig Geld.
 Versicherung : Unser Tipp: Günstig versichert bei der BKK firmus
 Versicherung : Unser Tipp: Young Travel Auslandskrankenversicherung der HanseMerkur
 Versicherung : Bis zu 90 Euro Rabatt auf Versicherungen
@@ -521,21 +521,21 @@ Mitgliedschaften
 Coaching
 Rabatt : 12 Prozent Rabatt auf deine Sprachreise bei EF
 Gutschein : Steuererklärung gratis oder 10% Rabatt
-Gutschein : 15 Prozent Flixtrain Gutschein
-Gutschein : 13 Euro WISO Steuer Gutschein
+Gutschein : 15 Prozent Rabatt mit einem FlixTrain-Gutschein
+Gutschein : 13-Euro-Gutschein für WISO Steuer
 Gutschein für Lektorat und Plagiatsprüfung : Rabatt in Höhe von bis zu 20 % bei korrektur.de
-Software : Kostenloses PowerPoint-AddIn
-Software : Kostenloses PowerPoint-AddIn
+Software : Kostenloses PowerPoint-Add-In
+Software : Kostenloses PowerPoint-Add-In
 Lernapp : Effektive Prüfungsvorbereitung mit Jurafuchs
 Lernapp : Prüfungsvorbereitung in Rekordzeit mit Retain
 Lern-Plattform : Alice.tech - Uni-Inhalte verstehen mit der KI-basierten Plattform
 Jura Rechercheplattform : Kostenlose KI-gestützte Rechtsrecherche mit Anita
-Jura Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
+Jura-Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
 e&#8209;fellows.net community : Gehirnzellen unter sich
 Zertifikat : Stipendiumsbescheinigung für deinen Lebenslauf
 Mitgliedschaften : Freunde der ZEIT: Programm für alle ZEIT-Abonnent:innen
 Starthilfe für deine Karriere : Das e&#8209;fellows.net-Mentorenprogramm
-Coaching : Individuelles MBA Coaching
+Coaching : Individuelles MBA-Coaching
 e&#8209;fellows.net community : Gehirnzellen unter sich
 Verlosung : Kostenlose Fachbücher für Stipendiat:innen und Alumni
 Entdecke passende Vorteile
@@ -569,7 +569,7 @@ Filter anwenden
 Filter entfernen
 Seite 1 von 7
 Merken
-Jura Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
+Jura-Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
 my legal AI ist eine Jura-Rechercheplattform mit integriertem KI-Chat, der jede Antwort direkt mit den Fundstellen belegt, aus denen sie stammt. Die Plattform durchsucht das gesamte deutsche Bundes...
 Merken
 E-Learning : Übe dein Vorstellungsgespräch –
@@ -579,7 +579,7 @@ Merken
 Gutschein für Lektorat und Plagiatsprüfung : Rabatt in Höhe von bis zu 20 % bei korrektur.de
 Mit e-fellows.net sparst du bis zu 20 % auf professionelles Lektorat, Übersetzung deiner wissenschaftlichen Arbeit und Plagiats-Scan.
 Merken
-Jura Rechercheplattform : Kostenlose KI-gestützte Rechtsrecherche mit Anita
+Jura-Rechercheplattform : Kostenlose KI-gestützte Rechtsrecherche mit Anita
 Anita ist deine KI-gestützte Rechercheplattform für das deutsche und europäische Recht. Sie unterstützt Jurist:innen, Studierende und Referendar:innen dabei, schneller zu belastbaren Ergebnissen zu...
 Merken
 Juristische Datenbanken mit KI : Otto Schmidt online und Answers
@@ -592,7 +592,7 @@ Gutschein für EF Sprachreisen : Rabatt in Höhe von 12% auf flexible Sprachreis
 E-fellows.net und EF schenken dir 12% Rabatt auf flexible EF Sprachreisen (2-11 Wochen) oder 500€ für EF Langzeitprogramme ab 12 Wochen.
 Merken
 Steuererklärung - 13 Euro Rabatt : Hol dir dein Geld zurück – mit WISO Steuer
-Für Studierende und Berufseinsteiger lohnt sich es sich besonders, eine Steuererklärung abzugeben. Mit e-fellows sicherst du dir einen exklusiven Rabatt auf die App des Marktführers WISO Steuer.
+Für Studierende und Berufseinsteiger lohnt es sich besonders, eine Steuererklärung abzugeben. Mit e-fellows sicherst du dir einen exklusiven Rabatt auf die App des Marktführers WISO Steuer.
 Merken
 Lernapp : Prüfungsvorbereitung in Rekordzeit mit der Retain-App
 Retain ist eine Lern-App, die durch die Anwendung neuester Erkenntnisse aus der Lernwissenschaft und der Künstlichen Intelligenz die Prüfungsvorbereitungszeit halbiert.
@@ -1147,13 +1147,13 @@ Weitere Artikel zum Thema Stipendien
 Die Karrierefrage : Welches Studium hat in Zeiten von KI noch Zukunft?
 Bewerben für ein Stipendium : So überzeugst du im Auswahlgespräch
 Stipendien der etwas anderen Art : Die zehn skurrilsten Stipendien
-DAAD-Stipendium : 3, 2, 1 – meins! So schnappst du dir ein DAAD-Stipendium
 Mehrere Stipendien gleichzeitig beziehen : Stipendien kombinieren – was ist erlaubt?
+DAAD-Stipendium : 3, 2, 1 – meins! So schnappst du dir ein DAAD-Stipendium
 Bewerbungsgespräch für ein Stipendium : So wird dein Auswahlgespräch zum Erfolg
-Wie gebe ich ein Stipendium in der Steuererklärung an? : Das will das Finanzamt wissen
-Wo und wie gebe ich ein Stipendium im Lebenslauf an? : Selbstdarstellung – aber richtig
-Wie bekomme ich ein Stipendium? : Der Weg zum Stipendium
-Wann bewerbe ich mich für ein Stipendium? : Den richtigen Zeitpunkt abpassen
+Welche Noten brauche ich für ein Stipendium? : Keine Chance ohne Top-Durchschnitt?
+Wo finde ich ein Stipendium? : Wegweiser im Stipendien-Labyrinth
+Wer vergibt Stipendien? : Wo du ein Stipendium bekommen kannst
+Stipendium: Eine Definition : Was bedeutet Stipendium?
 Alle Artikel der Kategorie Stipendien
 Hol mit dem e&#8209;fellows.net-Stipendium das Beste aus Studium und Berufseinstieg heraus
 Jetzt durchstarten
