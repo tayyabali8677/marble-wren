@@ -641,7 +641,6 @@ Business
 Not-for-profit
 Professor
 Student &#038; Postdoc
-Colleges and Polytechnic
 Partner with us
 Explore
 Mitacs Innovation Awards
@@ -1098,7 +1097,6 @@ Business
 Not-for-profit
 Professor
 Student &#038; Postdoc
-Colleges and Polytechnic
 Partner with us
 Explore
 Mitacs Innovation Awards
@@ -1555,7 +1553,6 @@ Business
 Not-for-profit
 Professor
 Student &#038; Postdoc
-Colleges and Polytechnic
 Partner with us
 Explore
 Mitacs Innovation Awards
@@ -1663,7 +1660,6 @@ Business
 Not-for-profit
 Professor
 Student &#038; Postdoc
-Colleges and Polytechnic
 Partner with us
 Explore
 Mitacs Innovation Awards

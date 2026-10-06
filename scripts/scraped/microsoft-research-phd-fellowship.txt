@@ -36,7 +36,7 @@ People
 News & awards
 Asia-Pacific
 Cambridge
-Catalyst
+Catalyst Lab
 India
 Montreal
 New England
@@ -186,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 03efcba85db01f9c1ba67d0888f425c6
+This is the Trace Id: 9345698eb16f51b2be949a351e0c25f9
 Skip to main content
 Education
 Azure for education

@@ -142,83 +142,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture
@@ -546,83 +483,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture
@@ -978,83 +852,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture
@@ -1423,83 +1234,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture
@@ -1863,83 +1611,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture
@@ -2345,83 +2030,20 @@ Postgraduates
 Undergraduates
 Postgraduates
 Subjects A-B
-Accounting
-Acting and Drama
 Agriculture
-Ancient History
-Anthropology
-Archaeology
-Architectural Engineering
-Architecture
-Art
-Biochemistry
-Biological Sciences
-Biomedical Engineering
-Biomedical Sciences
-Bioveterinary Sciences
 Building and Surveying
-Business and Management
 Subjects C-E
-Chemistry
-Classics and Classical Studies
-Climate Science
-Computer Science and AI
 Construction Management
 Consumer Behaviour and Marketing
-Cosmetics
-Creative Writing
-Criminology
-Digital Media and Communication
-Ecology
 Economics
-Education
-Engineering
-English Language and Applied Linguistics
-English Literature
-Environment
 Subjects F-G
-Film & Television
 Finance
 Food
-Foundation programmes
-French
-Geography
-German
-Global Sustainable Development
-Graphic Communication and Design
 Subjects H-M
-Healthcare
-History
 International Foundation Pathways
-International Relations
-Italian
-Languages and Cultures
-Law
-Linguistics
 Marketing
-Mathematics
-Medical Sciences
-Meteorology and Climate
-Microbiology
-Museum Studies
 Subjects N-T
-Nutrition
-Pharmacology
-Pharmacy
-Philosophy
-Physician Associate Studies
-Politics and International Relations
-Psychology
-Real Estate and Planning
-Sociology
-Spanish
-Speech and Language Therapy
 Surveying and Construction Management
-Teaching
-Theatre & Performance
-Subjects U-Z
-Wildlife Conservation
-Zoology
 Subjects A-C
 Accounting
 Agriculture

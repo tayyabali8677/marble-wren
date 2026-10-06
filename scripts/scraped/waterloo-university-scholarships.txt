@@ -1494,7 +1494,7 @@ Wilfrid Laurier University students
 If you wish to take one or more courses at Waterloo to count toward your Laurier degree, apply through cross-registration at Laurier.
 If you'd like to transfer and complete your degree at Waterloo, you'll apply as a transfer student .
 Previous Waterloo students
-If you've completed an undergraduate course or degree at Waterloo and wish to take further courses, use the Application for Re-Admission .
+If you've completed an undergraduate course or degree at Waterloo and wish to take further courses, select the appropriate  Application for Undergraduate Readmission (under the Admissions heading) .
 You've done your research, you've found the perfect programs, and it looks like you meet the admission requirements. Great! Now it's time to apply.
 Review the steps of applying to university →
 Related links
@@ -1822,7 +1822,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-7 + 5 =
+1 + 8 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank

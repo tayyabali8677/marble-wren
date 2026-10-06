@@ -1,4 +1,5 @@
 ===== SOURCE PAGE: https://www.fwo.be/en/ =====
+FWO
 Skip to content
 Vlaanderen
 NL
@@ -191,6 +192,11 @@ Something went wrong
 Upcoming events
 All events
 Oct
+16
+Flanders Technology and Innovation Festival Brussel
+16 October 2026 19:00
+20 October 2026 17:00
+Oct
 21
 Finale Vlaamse PhD Cup 2026
 21 October 2026 20:00
@@ -199,11 +205,6 @@ Nov
 15
 Wetenschapsfestival Brussel
 15 November 2026 10:00
-17:00
-Dec
-04
-BE SciComm 2026
-04 December 2026 10:00
 17:00
 The FWO aims to be the leading funding partner for researchers in Flanders. By offering financial support and promoting international cooperation, we create a favourable climate for world-class scientific research.
 You can find us on
@@ -228,6 +229,7 @@ Cookies
 Privacy statement
 
 ===== SOURCE PAGE: https://www.fwo.be/en/evaluation-process/from-application-to-award/ =====
+From Application to Award - FWO
 Skip to content
 Vlaanderen
 NL
@@ -407,6 +409,7 @@ Cookies
 Privacy statement
 
 ===== SOURCE PAGE: https://www.fwo.be/en/evaluation-process/fwo-review-college-fundamental-research/ =====
+FWO Review College Fundamental Research - FWO
 Skip to content
 Vlaanderen
 NL
@@ -566,6 +569,7 @@ Cookies
 Privacy statement
 
 ===== SOURCE PAGE: https://www.fwo.be/en/after-awarding/i-have-a-travel-grant/ =====
+I have a travel grant - FWO
 Skip to content
 Vlaanderen
 NL
@@ -783,6 +787,7 @@ Cookies
 Privacy statement
 
 ===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/sustainable-blue-economy-partnership-sbep/ =====
+Sustainable Blue Economy partnership (SBEP) - FWO
 Skip to content
 Vlaanderen
 NL
@@ -996,6 +1001,7 @@ Cookies
 Privacy statement
 
 ===== SOURCE PAGE: https://www.fwo.be/en/support-programmes/all-calls/senior-researchersresearch-teams/european-biodiversity-partnership-biodiversaplus-cofund-partnership/ =====
+European Biodiversity Partnership (Biodiversa+) - cofund partnership - FWO
 Skip to content
 Vlaanderen
 NL

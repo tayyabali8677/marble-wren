@@ -119,7 +119,7 @@ Domain Name Disputes
 Centralized Access to Search and Examination (CASE)
 Digital Access Service (DAS)
 WIPO Pay
-Current Account at WIPO
+WIPO Wallet
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
@@ -130,7 +130,7 @@ Tailored Initiatives & Projects
 Collaborative Forums & Dialogues
 Innovation, Creativity and Development Acceleration Program
 IP for Impact
-National IP Strategies
+National IP & Innovation Strategies
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
@@ -173,12 +173,12 @@ PUBLICATION YEAR: 2026
 Global IP Education, Training and Skills Development 2026
 News
 All news
+WIPO Wallet Is Now Live!
+October 5, 2026
+New WIPO Academy Course Explores the Role of Intellectual Property (IP) in Safer Workplaces
+October 5, 2026
 Project 1% for Africa Launches Country Chapters and Opens Registration for the Next Cohort
 September 29, 2026
-From Ideas to Impact: Nine New Online Courses
-September 21, 2026
-IPRE Annual Conference Demonstrates Why IP Research Matters More Than Ever
-September 1, 2026
 Email updates
 WIPO Academy Highlights
 – A selection of news, stories as well as registration updates from the WIPO Academy. Quarterly.
@@ -421,7 +421,7 @@ Domain Name Disputes
 Centralized Access to Search and Examination (CASE)
 Digital Access Service (DAS)
 WIPO Pay
-Current Account at WIPO
+WIPO Wallet
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
@@ -432,7 +432,7 @@ Tailored Initiatives & Projects
 Collaborative Forums & Dialogues
 Innovation, Creativity and Development Acceleration Program
 IP for Impact
-National IP Strategies
+National IP & Innovation Strategies
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
@@ -1122,7 +1122,7 @@ Domain Name Disputes
 Centralized Access to Search and Examination (CASE)
 Digital Access Service (DAS)
 WIPO Pay
-Current Account at WIPO
+WIPO Wallet
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
@@ -1133,7 +1133,7 @@ Tailored Initiatives & Projects
 Collaborative Forums & Dialogues
 Innovation, Creativity and Development Acceleration Program
 IP for Impact
-National IP Strategies
+National IP & Innovation Strategies
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
@@ -1289,7 +1289,7 @@ Domain Name Disputes
 Centralized Access to Search and Examination (CASE)
 Digital Access Service (DAS)
 WIPO Pay
-Current Account at WIPO
+WIPO Wallet
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
@@ -1300,7 +1300,7 @@ Tailored Initiatives & Projects
 Collaborative Forums & Dialogues
 Innovation, Creativity and Development Acceleration Program
 IP for Impact
-National IP Strategies
+National IP & Innovation Strategies
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer
@@ -1596,7 +1596,7 @@ Domain Name Disputes
 Centralized Access to Search and Examination (CASE)
 Digital Access Service (DAS)
 WIPO Pay
-Current Account at WIPO
+WIPO Wallet
 WIPO Assemblies
 Standing Committees
 Calendar of Meetings
@@ -1607,7 +1607,7 @@ Tailored Initiatives & Projects
 Collaborative Forums & Dialogues
 Innovation, Creativity and Development Acceleration Program
 IP for Impact
-National IP Strategies
+National IP & Innovation Strategies
 Cooperation Hub
 Technology and Innovation Support Centers (TISC)
 Technology Transfer

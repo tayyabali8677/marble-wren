@@ -9,7 +9,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -46,7 +45,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Menu openen
 Societal challenges
@@ -237,7 +235,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -279,7 +276,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -316,7 +312,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Menu openen
 Societal challenges
@@ -378,7 +373,6 @@ PhD
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Innovation & Impact
 Community
@@ -434,7 +428,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -516,7 +509,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -935,7 +928,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -972,7 +964,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Menu openen
 Societal challenges
@@ -1163,7 +1154,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -1205,7 +1195,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes
@@ -1242,7 +1231,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Menu openen
 Societal challenges
@@ -1370,7 +1358,6 @@ Admission and Application
 Study Programme Orientation
 Student portal
 Lifelong Learning
-For schools
 Research
 Societal challenges
 Faculties and institutes

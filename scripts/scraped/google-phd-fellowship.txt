@@ -523,13 +523,13 @@ Hardware and Architecture
 Health & Bioscience
 118
 Human-Computer Interaction and Visualization
-283
+284
 Information Retrieval and the Web
 185
 Machine Intelligence
 997
 Machine Learning
-215
+216
 Machine Perception
 421
 Machine Translation
@@ -545,18 +545,18 @@ Operating Systems
 Quantum Computing
 67
 Responsible AI
-92
+93
 Robotics
 74
 Security, Privacy and Abuse Prevention
 190
 Software Engineering
-262
+263
 Software Systems
 222
 Speech Processing
 156
-1 - 30 of 2217 researchers
+1 - 30 of 2218 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,16 +592,16 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
+Anmol Agarwal
+Natural Language Processing
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,19 +618,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Parth Agrawal
-Machine Learning
-Machine Perception
-Robotics
-Shreya Agrawal
-General Science
-Machine Intelligence
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
 Priyanka Agrawal
 Machine Intelligence
 Natural Language Processing
+Shreya Agrawal
+General Science
+Machine Intelligence
+Parth Agrawal
+Machine Learning
+Machine Perception
+Robotics
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,16 +656,18 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
-Zafarali Ahmed
-Machine Intelligence
 1
 2
 3
