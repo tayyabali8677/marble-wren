@@ -523,21 +523,21 @@ Hardware and Architecture
 Health & Bioscience
 118
 Human-Computer Interaction and Visualization
-284
+283
 Information Retrieval and the Web
-185
+183
 Machine Intelligence
-995
+992
 Machine Learning
 216
 Machine Perception
-419
+418
 Machine Translation
-66
+65
 Mobile Systems
 89
 Natural Language Processing
-482
+480
 Networking
 132
 Operating Systems
@@ -556,7 +556,7 @@ Software Systems
 222
 Speech Processing
 156
-1 - 30 of 2215 researchers
+1 - 30 of 2212 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,19 +592,19 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
+Sameer Agarwal
+Algorithms and Theory
+Machine Perception
 Anmol Agarwal
 Natural Language Processing
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Sameer Agarwal
-Algorithms and Theory
-Machine Perception
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,19 +618,19 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Shreya Agrawal
-General Science
-Machine Intelligence
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
+Shreya Agrawal
+General Science
+Machine Intelligence
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -656,16 +656,18 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Mustaq Ahmed
-Algorithms and Theory
-Networking
+Zafarali Ahmed
+Machine Intelligence
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
-Zafarali Ahmed
-Machine Intelligence
+Amr Ahmed
+Data Mining and Modeling
+Human-Computer Interaction and Visualization
+Information Retrieval and the Web
++2 more
 1
 2
 3

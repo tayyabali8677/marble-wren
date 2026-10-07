@@ -178,11 +178,11 @@ DG – Director General’s Unit
 EN - Engineering
 EP – Experimental Physics
 FAP – Finance and Administrative Processes
+FCC
 HR – Human Resources
 IPT – Industry, Procurement and Knowledge Transfer
 IR – International Relations
 IT – Information Technology
-OSI - Organizational Support and Improvement
 RCS - Research & Computing Sector
 SCE – Site and Civil Engineering
 SO - Site Operations
@@ -391,6 +391,7 @@ DG – Director General’s Unit
 EN - Engineering
 EP – Experimental Physics
 FAP – Finance and Administrative Processes
+FCC
 FHR – Finance and Human Resources Sector
 HR – Human Resources
 HSE – Health & Safety and Environment

@@ -534,7 +534,7 @@ Students
 Researchers
 Alumni
 About us
-Menu openen
+Menu sluiten
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -562,6 +562,8 @@ The challenges of today demand solutions for tomorrow. How do we tackle climate 
 The Delft University Fund supports TU Delft by contributing to research, education, talent development, and entrepreneurship. With donations from alumni, students, foundations, and companies, we do everything we can to help talented students and researchers achieve their ambitions and make a societal impact.
 Yes, I want to participate and donate.
 By contributing to the Delft University Fund, you are investing in groundbreaking research, innovative education, and top talent at TU Delft, ensuring that Delft technology continues to play a key role in addressing the major challenges of our time.
+Telemarketing campaign on Leaving a Legacy in October
+Throughout October, we are highlighting the importance of leaving a legacy through a telemarketing campaign. To find out more, please visit the Planning your Legacy page for additional information.
 News
 In Memoriam: Dr. Ir. Koos Visser
 Read more
@@ -589,9 +591,6 @@ Annual Report
 Item 1
 of
 3
-October
-07
-Delft Female Impact Community Annual Event
 November
 11
 Information session on donations and bequests to TU Delft
@@ -716,7 +715,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu openen
+Menu sluiten
 Zoek medewerkers
 Contact
 Locaties

@@ -297,6 +297,9 @@ Fechar
 Fechar
 Fechar
 Info
+Chamada de Bolsas de Produtividade do CNPq recebe propostas até 07/01
+Serão concedidas bolsas nas modalidades Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora (DT), Produtividade em Pesquisa (PQ) e Produtividade em Pesquisa Sênior (PQ- Sr).
+Saiba mais sobre Chamada de Bolsas de Produtividade do CNPq recebe propostas até 07/01
 Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
 Iniciativa tem parceria do MCTI e visa inserir mestres e doutores em microempresas, pequenas empresas e startups; duração máxima do apoio é de 30 meses, com contrapartida das empresas de 20% do valor do projeto. Ao menos 30% do investimento irá para N, NE e CO.
 Saiba mais sobre Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
@@ -304,7 +307,7 @@ Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com em
 Ação do CNPq conta com parceria da CAPES e busca fortalecer a pesquisa, o empreendedorismo e a inovação nas Instituições Científicas, Tecnológicas e de Inovação.
 Saiba mais sobre Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
 Chamada PIBPG: CNPq divulga resultado preliminar, que indica aprovação de mais de 4.500 bolsas de mestrado e doutorado
-Foram contempladas 200 propostas institucionais, com oferta de 3.021 bolsas de mestrado e 1.572 de doutorado; prazo para interposição de recursos vai até 09/10.
+Foram contempladas 200 propostas institucionais, com oferta de 3.021 bolsas de mestrado e 1.572 de doutorado; prazo para interposição de recursos vai até 13/10.
 Saiba mais sobre Chamada PIBPG: CNPq divulga resultado preliminar, que indica aprovação de mais de 4.500 bolsas de mestrado e doutorado
 Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado preliminar
 Todas as 27 unidades federativas tiveram projetos aprovados; propostas contemplam iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências; e comunicação pública da ciência.
