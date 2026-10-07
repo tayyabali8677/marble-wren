@@ -109,8 +109,8 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&apos;s Republic of China [ 中文 ]
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -129,10 +129,10 @@ Timor-Leste
 Viet Nam [ Tiếng Việt ]
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -461,8 +461,8 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&apos;s Republic of China [ 中文 ]
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -481,10 +481,10 @@ Timor-Leste
 Viet Nam [ Tiếng Việt ]
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -813,8 +813,8 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&apos;s Republic of China [ 中文 ]
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -833,10 +833,10 @@ Timor-Leste
 Viet Nam [ Tiếng Việt ]
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -1111,9 +1111,9 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&#039;s Republic of China
 | 中文
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -1134,10 +1134,10 @@ Viet Nam
 | Tiếng Việt
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -1480,8 +1480,8 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&apos;s Republic of China [ 中文 ]
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -1500,10 +1500,10 @@ Timor-Leste
 Viet Nam [ Tiếng Việt ]
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -1768,8 +1768,8 @@ Türkiye
 Turkmenistan
 Uzbekistan
 ADB East Asia Operations
-Mongolia
 People&apos;s Republic of China [ 中文 ]
+Mongolia
 ADB South Asia Operations
 Bangladesh
 Bhutan
@@ -1788,10 +1788,10 @@ Timor-Leste
 Viet Nam [ Tiếng Việt ]
 ADB Pacific Operations
 Cook Islands
-Federated States of Micronesia
 Fiji
 Kiribati
 Marshall Islands
+Federated States of Micronesia
 Naoero
 Niue
 Palau
@@ -2008,18 +2008,18 @@ Annual achievements in ADB's cofinancing operations for current and prospective 
 ADB Sustainability Reports
 Information on ADB's continued work in promoting environmentally sustainable and inclusive growth and reducing its corporate footprint, in accordance to the Global Reporting Initiative's reporting guidelines.
 Focus on Climate Change
-02 Oct 2026
-| Papers and Briefs
-Strengthening Climate-Sensitive Health Risk Management Across the Greater Mekong Subregion
+07 Oct 2026
+| Reports
+Understanding Emission Trends in Mongolia: Insights from Environmentally Extended Multiregional Input–Output Tables
 02 Oct 2026
 | Policies, Strategies, and Plans
 Regional Programmatic Approach for Climate Action - Annex 6: Environmental and Social Management Framework
+02 Oct 2026
+| Papers and Briefs
+Strengthening Climate-Sensitive Health Risk Management Across the Greater Mekong Subregion
 24 Sep 2026
 | Papers and Briefs
 Strengthening Climate Resilience Through Social Protection Programs
-15 Sep 2026
-| Serials
-Climate Adaptation Investment Planning Lessons Series No. 1 to 3
 More climate change publications
 Depository Library Program
 ADB partners with well-established libraries across the region who have agreed to house ADB's digital publications and to promote their use among a diverse group of users.

@@ -243,7 +243,7 @@ Content ID
 7007f04a-d6cf-4fbf-9943-ae7b42527234
 
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply =====
-How to Apply | Study | UWA
+How to apply | UWA
 Loading component...
 How to apply
 Learn how to apply to UWA and take the first step towards your degree. Explore your entry pathways, understand the qualifications you’ll need, and get clear guidance to start your application today.
@@ -438,7 +438,7 @@ LinkedIn
 This page XMC Item ID: 67635102-0adc-456f-95f0-00649dcc6fa0
 
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/scholarships-and-fees =====
-Scholarships and fees | Study | UWA
+Scholarships and fees | UWA
 Loading component...
 Scholarships and fees
 Starting university is a big step, and it’s important to understand the costs involved. Whether you're a domestic or international student, you’ll find all the key information about scholarships and fees here to help you plan for your future with confidence.
@@ -612,7 +612,7 @@ LinkedIn
 This page XMC Item ID: 39f1686f-401a-404d-b621-63f2d0a928c8
 
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/undergraduate =====
-Undergraduate | Study | UWA
+Undergraduate | UWA
 Loading component...
 How to apply for an undergraduate course
 Ready to take the next step towards your future? Follow our general guide on applying for a bachelor’s degree as a domestic applicant.
@@ -793,7 +793,7 @@ LinkedIn
 This page XMC Item ID: 82e7ccd3-9eec-47d5-8d5e-5d4c548be1a6
 
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/postgraduate =====
-Postgraduate | Study | UWA
+Postgraduate | UWA
 Loading component...
 How to apply for postgraduate coursework
 Follow our general guide on applying for a master’s degree, graduate diploma or graduate certificate as a domestic applicant.
@@ -1177,7 +1177,7 @@ LinkedIn
 This page XMC Item ID: eda6a59f-2590-4fea-aa92-96a6f8d31ed9
 
 ===== SOURCE PAGE: https://www.uwa.edu.au/study/how-to-apply/higher-degree-by-research =====
-Higher Degree by Research | Study | UWA
+Higher Degree by Research | UWA
 Loading component...
 How to apply for a Higher Degree by Research
 Follow this guide to learn how to apply for a Higher Degree by Research (HDR), from PhDs and combined PhDs to Master&#x27;s by Research.

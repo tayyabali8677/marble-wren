@@ -82,21 +82,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-scholarship
-coronavirus
-Science without Borders
-university
-China
-grant
-Ukraine
-EHEF
-RSG!P
 USA
-research
-internationalisation
-engineering
-Erasmus
+Science without Borders
+grant
+China
+coronavirus
+Ukraine
 Brazil
+engineering
+scholarship
+EHEF
+research
+university
+internationalisation
+Erasmus
+RSG!P
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/how-to-apply =====
@@ -216,21 +216,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-RSG!P
-EHEF
-Brazil
 university
+EHEF
 internationalisation
-grant
-scholarship
-Erasmus
-engineering
-USA
 Ukraine
-Science without Borders
-China
-research
 coronavirus
+China
+engineering
+Erasmus
+RSG!P
+grant
+research
+Brazil
+Science without Borders
+scholarship
+USA
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/scholarships =====
@@ -317,21 +317,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-Erasmus
-Brazil
-USA
-coronavirus
-RSG!P
-grant
-Science without Borders
 engineering
-EHEF
-Ukraine
-internationalisation
-research
-university
 scholarship
+coronavirus
+Brazil
+internationalisation
+grant
+Ukraine
+research
+EHEF
+RSG!P
 China
+Science without Borders
+Erasmus
+USA
+university
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/lane-kirkland-scholarship-program =====
@@ -494,21 +494,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-EHEF
-USA
-scholarship
-research
-university
+Brazil
+coronavirus
 Science without Borders
+Ukraine
+university
 grant
 RSG!P
-internationalisation
-coronavirus
-engineering
-Brazil
-Ukraine
+USA
+EHEF
 China
+internationalisation
+research
 Erasmus
+scholarship
+engineering
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/visegrad-scholarship-programme =====
@@ -583,25 +583,25 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-Ukraine
-Science without Borders
-research
-Erasmus
-Brazil
-RSG!P
-scholarship
-university
-USA
-grant
-engineering
 internationalisation
+Science without Borders
+university
+Brazil
+USA
+engineering
 EHEF
-coronavirus
+scholarship
+research
 China
+grant
+coronavirus
+Erasmus
+Ukraine
+RSG!P
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
-===== SOURCE PAGE: https://www.study.gov.pl/stefan-banach-nawa-programme =====
-Stefan Banach NAWA Programme | study.gov.pl
+===== SOURCE PAGE: https://www.study.gov.pl/visa-application =====
+VISA & APPLICATION | study.gov.pl
 简体中文 English Polski
 ARTICLES
 POLAND
@@ -655,20 +655,37 @@ Leisure
 Work and Internships
 Student Card
 Publications
-Stefan Banach NAWA Programme
-The Stefan Banach NAWA Programme is a scholarship programme jointly implemented by the Ministry of Foreign Affairs of the Republic of Poland and the Polish National Agency for Academic Exchange (NAWA) as part of the Polish development cooperation programme.
-The Programme aims to support the socio-economic development of developing countries by raising the level of knowledge and education of their citizens. It offers scholarships for second-cycle (Master’s) studies in Polish or English at Polish universities supervised by the Minister of Science and Higher Education.
-The programme is addressed to citizens of 36 countries covered by Polish Aid, including countries from Eastern Europe, Asia, Africa and Latin America.
-Eligible countries include: Albania, Angola, Argentina, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Brazil, Montenegro, Philippines, Georgia, India, Indonesia, Iraq, Iran, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, North Macedonia, Mexico, Moldova, Mongolia, Nigeria, Palestine, Papua New Guinea, Peru, Rwanda, Senegal, Serbia, Tanzania, Tunisia, Ukraine, Uzbekistan, Vietnam.
-As part of the Programme, applicants may apply fo r :
-second-cycle (Master’s) studies starting in the academic year 2026/2027,
-a preparatory course preceding second-cycle studies, followed by studies starting in the academic year 2027/2028.
-The scholarship includes:
-a monthly stipend,
-exemption from tuition fees at public universities or for the preparatory course,
-a travel allowance to Poland.
-Detailed information on eligibility criteria, required documents and application procedures is available in the official call for applications.
-👉 More information
+VISA & APPLICATION
+ENTRY REQUIREMENTS FOR EU CITIZENS
+If you are a citizen of an EU member state the only thing you need to have to enter Poland is a valid travel document or a document confirming identity and citizenship (i.e. your national ID). However, if you wish to travel abroad during your stay in Poland it is a good idea to have a passport with you, as it is necessary to visit some of Poland’s neighbours that do not belong to the EU.
+For a stay shorter than three months there are no formal requirements. Your studies will, however, take longer. For such a stay a registration of residence is necessary, one should register with Voivodship (Provincial) Office.
+ENTRY REQUIREMENTS FOR NON-EU CITIZENS
+Two main documents that are required when entering Poland by the non-EU citizens are a valid travel document (passport) and a visa (if required).
+Visa
+As a general rule, you would need a visa to enter Poland. However, foreigners from a number of countries are exempted from a visa requirement when entering Schengen Area for the periods not exceeding 90 days within a 180-day period: One can check the list of the countries ie here: https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przyjechac-do-polski/czy-potrzebuje-wizy/
+Poland is a part of the Schengen Area, so you can apply for a Polish visa and travel all around Europe (excluding the United Kingdom, Ireland, Cyprus, Bulgaria, Romania, Croatia and states outside of the EU).
+There are several types of visas to choose from:
+“A” type – an airport transit Schengen visa, so it cannot be used by a student coming to Poland
+“C” type – a short-term Schengen visa allowing the holder to stay in the Schengen territory for up to 90 days in 180 days period
+“D” type – a long-term national visa issued for up to one year allowing travel around the Schengen area for up to 90 days in a 180 days period A visa can only be extended in exceptional situations. Should you need to stay in Poland longer than specified in your visa please do apply for the temporary residence permit (see below)
+5 easy steps to get a visa
+1) Find a Polish Consulate/ consular section of the Embassy of the Republic of Poland that can process your application. You can use the MFA’s search engine  https://www.gov.pl/web/diplomacy/polands-missions-abroad
+2) Read carefully ALL the information concerning visa application on the consulate’s website and follow ALL the instructions.
+3) Set a visa appointment with the consulate. In most cases, you will have to register through the website:  https://secure.e-konsulat.gov.pl/
+4) Prepare the necessary documents, including application form, travel document (passport), biometric photo, health insurance, sufficient means to support yourself, documents confirming the purpose of your stay. The specifics of the required documentation may vary among consulates, so confirm them with the consulate’s website.
+5) Submit all the documents including a printed and signed application form and the visa fee. Your visa application is complete. It should take up to 15 days for it to be reviewed.
+Early submission of visa documents is advisable as in some cases procedure may take a considerable amount of time.
+TEMPORARY RESIDENCE PERMIT
+Who needs it?
+Every Non-EU student needs it.
+You should apply for a Temporary Residence Permit before your visa expires.
+When you receive the permit you will be issued a Temporary Residence Card, an ID card that proves that you have a residence permit. Together with your travel document, it allows you to cross the Polish border as many times as you wish. The first residence permit is issued for a period of 15 months. It can be renewed for periods of up to 3 years but for no longer than the remainder of your studies.
+REMEMBER: You should apply for the Temporary Residence Card when you are legally staying in Poland, which means after you arrive, but before the expiry of your visa
+Application
+You have to apply for a Temporary Residence Permit with the local Voivodship Office. You can find a complete list of offices here:  https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/chce-przedluzyc-swoj-pobyt-w-polsce/zezwolenie-na-pobyt-czasowy/studia-i-nauka/nauka/  The documents you will need to legalise your stay include an application form, photos and documents proving your identity and citizenship, address, the purpose of stay (a certificate from your school) health insurance and possession of sufficient funds. For detailed information check out the Voivodship Office’s website. The procedure costs 390 PLN in total.
+EU students
+EU students do not need to apply for temporary residence permits. As UE citizens they should only apply for registration of their stay with local voivodship office within 90 days of their arrival. They will be issued a cost-free certificate of registration with a non-limited period of validity proving their right to stay in Poland. For detailed information check out the Voivodship Office’s website.
+https://udsc.gov.pl/en/cudzoziemcy/obywatele-panstw-trzecich/karta-pobytu/
 STUDYFINDER
 Area
 - Any - Agricultural, forestry and veterinary sciences Arts Biological sciences Humanities Medical, health and sport sciences Science Social sciences Technological sciences
@@ -684,19 +701,19 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-coronavirus
-RSG!P
-grant
-Ukraine
-engineering
-internationalisation
-university
-USA
-Erasmus
-Science without Borders
-Brazil
 scholarship
-China
-EHEF
 research
+engineering
+Brazil
+grant
+USA
+RSG!P
+Erasmus
+EHEF
+coronavirus
+internationalisation
+Ukraine
+Science without Borders
+university
+China
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.

@@ -208,6 +208,9 @@ Deadlines
 11 October 2026
 IIE Scholar Rescue Fund Fellowship
 External Opportunity
+20 October 2026
+Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
+External Opportunity
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
@@ -217,9 +220,6 @@ Visiting Scientist
 23 November 2026
 TWAS Research Professors in LDCs
 Visiting Scientist
-01 April 2027
-TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
-Fellowship
 Research and Project Grants
 TWAS research grants are awarded to both individual scientists and research groups
 SEE ALL
@@ -1091,6 +1091,9 @@ Deadlines
 11 October 2026
 IIE Scholar Rescue Fund Fellowship
 External Opportunity
+20 October 2026
+Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
+External Opportunity
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
@@ -1100,9 +1103,6 @@ Visiting Scientist
 23 November 2026
 TWAS Visiting Expert Programme
 Visiting Scientist
-01 April 2027
-TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
-Fellowship
 Support TWAS
 Your donations will help us to build science in the developing world.
 SEE MORE
@@ -1382,18 +1382,18 @@ Deadlines
 11 October 2026
 IIE Scholar Rescue Fund Fellowship
 External Opportunity
+20 October 2026
+Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
+External Opportunity
 31 October 2026
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 Visiting Scientist
 23 November 2026
-TWAS Visiting Expert Programme
-Visiting Scientist
-23 November 2026
 TWAS Research Professors in LDCs
 Visiting Scientist
-01 April 2027
-TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
-Fellowship
+23 November 2026
+TWAS Visiting Expert Programme
+Visiting Scientist
 Filter by:
 External Opportunities
 Scientific Meetings
@@ -1411,16 +1411,30 @@ Successful applicants to IIE-SRF typically:
 - Have teaching and/or research experience at a university or other institution of higher learning
 - Have an established record of published research
 - Are facing or have recently fled from direct and immediate threats to their lives and/or careers in their home countries
-- 6
+- 5
 days
 DEADLINE
 11 October 2026
 https://www.scholarrescuefund.org/applicants/instructions-and-application/
+EXTERNAL OPPORTUNITIES
+Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
+preview
+Building on three successful calls, which have already endorsed 284 initiatives involving individuals and institutions from 124 countries, the Fourth Call invites the global scientific community and partners from all fields to turn scientific knowledge into solutions that can make a real difference.
+UNESCO Science Decade Secretariat are particularly looking for initiatives that produce, translate or apply actionable scientific knowledge to address key challenges, including:
+- Science, technology and innovation for clean, circular and resource-efficient production
+- Science for safe, inclusive, resilient settlements and infrastructure
+- Integrated science for food and water security, healthy ecosystems and resilient livelihoods
+- From scientific evidence to policy and practice: Operational tools for implementation
+- 14
+days
+DEADLINE
+20 October 2026
+https://www.un-sciences-decade.org/en/articles/fourth-call-initiatives-internat…
 Visiting Scientists
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 preview
 Young scientists from least developed countries who hold an MSc (or higher degree) can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects and/or training internships in the fields that fall under the umbrella of the United Nations Sustainable Development Goals (SDGs).
-- 26
+- 25
 days
 DEADLINE
 31 October 2026
@@ -1429,7 +1443,7 @@ Visiting Scientists
 TWAS Research Professors in LDCs
 preview
 A number of TWAS Fellows and TWAS Young Affiliates/Alumni will be offered appointments as TWAS Research Professors for one year, during which he/she will visit the host institution in a LDC for a period of two to four weeks. TWAS provides travel support while living expenses are covered by the host centre. NB: Only TWAS Fellows and TWAS Young Affiliates/Alumni are eligible for appointment. Requests need to be submitted by research groups/scientific institutions in LDCs.
-- 49
+- 48
 days
 DEADLINE
 23 November 2026
@@ -1438,7 +1452,7 @@ Visiting Scientists
 TWAS Visiting Expert Programme
 preview
 This programme provides institutions and research groups in developing countries, especially the Least Developed Countries and those with limited outside contacts, with opportunities to establish long-term links with world leaders in areas of science other than mathematics and physics, and help develop capacity-building in their country.
-- 49
+- 48
 days
 DEADLINE
 23 November 2026
@@ -1447,7 +1461,7 @@ Fellowships
 TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
 preview
 The Research Support Foundation of the State of São Paulo (FAPESP) in Brazil and TWAS offer postdoctoral fellowships to researchers from Developing Countries, in all areas of natural, applied and social sciences.
-- 178
+- 177
 days
 DEADLINE
 01 April 2027
