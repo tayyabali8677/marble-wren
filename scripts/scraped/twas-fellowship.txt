@@ -1411,7 +1411,7 @@ Successful applicants to IIE-SRF typically:
 - Have teaching and/or research experience at a university or other institution of higher learning
 - Have an established record of published research
 - Are facing or have recently fled from direct and immediate threats to their lives and/or careers in their home countries
-- 5
+- 4
 days
 DEADLINE
 11 October 2026
@@ -1425,7 +1425,7 @@ UNESCO Science Decade Secretariat are particularly looking for initiatives that 
 - Science for safe, inclusive, resilient settlements and infrastructure
 - Integrated science for food and water security, healthy ecosystems and resilient livelihoods
 - From scientific evidence to policy and practice: Operational tools for implementation
-- 14
+- 13
 days
 DEADLINE
 20 October 2026
@@ -1434,7 +1434,7 @@ Visiting Scientists
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 preview
 Young scientists from least developed countries who hold an MSc (or higher degree) can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects and/or training internships in the fields that fall under the umbrella of the United Nations Sustainable Development Goals (SDGs).
-- 25
+- 24
 days
 DEADLINE
 31 October 2026
@@ -1443,7 +1443,7 @@ Visiting Scientists
 TWAS Research Professors in LDCs
 preview
 A number of TWAS Fellows and TWAS Young Affiliates/Alumni will be offered appointments as TWAS Research Professors for one year, during which he/she will visit the host institution in a LDC for a period of two to four weeks. TWAS provides travel support while living expenses are covered by the host centre. NB: Only TWAS Fellows and TWAS Young Affiliates/Alumni are eligible for appointment. Requests need to be submitted by research groups/scientific institutions in LDCs.
-- 48
+- 47
 days
 DEADLINE
 23 November 2026
@@ -1452,7 +1452,7 @@ Visiting Scientists
 TWAS Visiting Expert Programme
 preview
 This programme provides institutions and research groups in developing countries, especially the Least Developed Countries and those with limited outside contacts, with opportunities to establish long-term links with world leaders in areas of science other than mathematics and physics, and help develop capacity-building in their country.
-- 48
+- 47
 days
 DEADLINE
 23 November 2026
@@ -1461,7 +1461,7 @@ Fellowships
 TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
 preview
 The Research Support Foundation of the State of São Paulo (FAPESP) in Brazil and TWAS offer postdoctoral fellowships to researchers from Developing Countries, in all areas of natural, applied and social sciences.
-- 177
+- 176
 days
 DEADLINE
 01 April 2027

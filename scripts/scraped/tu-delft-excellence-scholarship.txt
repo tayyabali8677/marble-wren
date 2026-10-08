@@ -525,7 +525,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
@@ -534,7 +534,7 @@ Students
 Researchers
 Alumni
 About us
-Menu sluiten
+Menu openen
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft

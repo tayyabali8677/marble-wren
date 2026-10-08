@@ -122,9 +122,9 @@ Share on X
 Share on Facebook
 Share on LinkedIn
 Share on Reddit
+Surface Laptop Ultra
 Surface Pro
 Surface Laptop
-Surface Laptop Ultra
 Surface RTX Spark Dev Box
 Explore Copilot
 Explore Microsoft products
@@ -185,204 +185,193 @@ Recycling
 About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
-How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 022ec3b943b49baef2fa623514a66fb7
-Skip to main content
-Education
-Azure for education
-Copilot in education
-Devices
+Cómo comprar Microsoft para el ámbito educativo | Microsoft Educación
+This is the Trace Id: 8514ee5eeadac57b13abea5ee83d4d14
+Saltar al contenido principal
+Educación
+Azure for Education
+Copilot en la educación
+Dispositivos
 Edge
-Microsoft 365
+Microsoft&#xA0;365
 Microsoft Teams
 Minecraft Education
 Office 365
 OneNote
-Windows 11
-Accessibility tools
-AI in education
-Cybersecurity solutions
-Learning Accelerators
-Learning tools
-Social-emotional learning
-K12 education leaders
-Higher education leaders
-IT leaders
-Educators
-Students
-Education blog
-Education events
-Frequently asked questions
-Learn Educator Center
-Resource Center
-Contact Sales
-Shop for home
-Why Microsoft Education
-Contact a sales partner
-HOW TO BUY
+Windows&#xA0;11
+Herramientas de accesibilidad
+IA en el ámbito educativo
+Soluciones de ciberseguridad
+Aceleradores de aprendizaje
+Herramientas de aprendizaje
+Aprendizaje social y emocional
+Líderes educativos de primaria y secundaria
+Responsables de educación superior
+Profesional de TI
+Profesorado
+Estudiantes
+Preguntas más frecuentes
+Centro para formadores
+Centro de recursos
+Ponerse en contacto con un partner de ventas
+Cómo comprar
+Comprar para casa
+Por qué escoger Microsoft Educación
+Ponerse en contacto con un partner de ventas
+CÓMO COMPRAR
 Get help choosing the right Microsoft technology for your school or student</h1> ">
-Get help choosing the right Microsoft technology for your school or student
-Microsoft Education solutions work on any device, but the best experiences come together on Windows for students and teachers. Connect with a Microsoft Education expert to find solutions that work best for your school.
-Contact a sales partner
-Products
-Products
-Resources
-Devices
-Solutions
-FAQ
-Next Steps
-Products
+Obtenga ayuda para elegir la tecnología de Microsoft adecuada para su estudiante o centro educativo
+Las soluciones de Microsoft Educación funcionan en cualquier dispositivo, pero la mejor experiencia se disfruta en Windows para estudiantes y docentes. Póngase en contacto con un experto en Microsoft Educación para descubrir las soluciones que mejor se adapten a su centro educativo.
+Contacta con un partner de ventas
+Productos
+Productos
+Recursos
+Dispositivos
+Soluciones
+Preguntas más frecuentes
+Siguientes pasos
+Productos
 Explore Microsoft products</h2> ">
-Explore Microsoft products
-Windows 11 for education
-Reimagined for a new era of digital learning, Windows 11 for education supports students with powerful tools to learn, collaborate, and create.
-Learn more
-Microsoft 365 Education
-A comprehensive suite of products designed to enhance learning environments, Microsoft 365 Education has three tiers of academic plans to meet the needs of your school.
-Learn more
-Office 365 Education
-Microsoft donates Office 365 Education to eligible institutions at no cost, enabling students and educators to sign up for web versions of familiar products and AI tools for free.
-Learn more
-Microsoft 365 Copilot Chat
-Enhance learning experiences through AI-powered Copilot Chat, built into familiar products such as Microsoft Edge and Microsoft 365 Education.
-Learn more
-Microsoft Intune
-Intune helps simplify the set up and management of devices for students and teachers.
-Contact a sales partner
+Explorar los productos de Microsoft
+Windows 11 para el ámbito educativo
+Rediseñado para la nueva era del aprendizaje digital, Windows 11 para el ámbito educativo ayuda a los estudiantes con potentes herramientas de aprendizaje, colaboración y creación.
+Más información
+Microsoft 365 Educación
+Microsoft 365 Educación es una suite completa de productos diseñada para mejorar los entornos de aprendizaje, e incluye tres niveles de planes académicos para adaptarse a las necesidades de su centro educativo.
+Más información
+Office 365 Educación
+Microsoft dona Office 365 Educación a las instituciones que reúnen los requisitos sin coste alguno, lo que permite a estudiantes y educadores suscribirse de forma gratuita a las versiones web de productos conocidos y herramientas de IA.
+Más información
+Microsoft 365 Copilot Chat
+Mejora las experiencias de aprendizaje con Copilot Chat con tecnología de IA, que está integrado en productos familiares como Microsoft Edge y Microsoft 365 Educación.
+Más información
+Microsoft Intune
+Intune permite simplificar la configuración y la gestión de dispositivos para estudiantes y docentes.
+Contacta con un partner de ventas
 Azure
-Azure for education gives students and educators the cloud development resources they need to build, deploy, and manage applications.
-Learn more
-Microsoft Teams
-Teams is the digital hub for collaboration that brings conversations, content, assignments, and apps together in one place.
-Learn more
+Azure for Education ofrece a los estudiantes y al profesorado los recursos de implementación en la nube que necesitan para crear, implementar y gestionar aplicaciones.
+Más información
+Microsoft Teams
+Teams es el centro digital de colaboración que reúne las conversaciones, el contenido, las asignaciones y las aplicaciones en un mismo lugar.
+Más información
 Microsoft Edge
-Make learning secure, accessible, and efficient with Microsoft Edge, complete with AI-powered Copilot built into the free web browser.
-Learn more
+Aumente la seguridad, la accesibilidad y la eficacia del aprendizaje con Microsoft Edge, que se completa con Copilot con tecnología de IA integrado en el navegador web gratuito.
+Más información
 Minecraft
-Minecraft – Education Edition engages students across subjects through immersive, game-based learning.
-Learn more
-Resources
+Minecraft – Education Edition aumenta la implicación de los estudiantes en los temas mediante un aprendizaje inmersivo basado en juegos.
+Más información
+Recursos
 Resources to help you get education software</h2> ">
-Resources to help you get education software
-Microsoft Education licensing
-Choose cost-effective licensing when you buy education products for your institution. Microsoft Education licensing provides you access to the classroom technology you need.
-Download the licensing guide
-Get in touch
-Connect one-on-one with a Microsoft Education sales specialist to explore products and solutions for your school.
-Contact a sales partner
-Explore Education Apps
-Explore the most popular education apps—such as Minecraft Education, Duolingo, and Kahoot—that engage students and make learning fun.
-Browse education apps
-DEVICES
+Recursos que le ayudarán a obtener software del ámbito educativo
+Licencias de Microsoft Educación
+Elija una licencia rentable cuando compre productos del ámbito educativo para su centro. Las licencias de Microsoft Educación proporcionan acceso a la tecnología en la clase que necesita.
+Descargue la guía de licencias
+Ponerse en contacto
+Póngase en contacto individualmente con un representante de ventas de Microsoft Educación para explorar los productos y soluciones para su centro.
+Contacta con un partner de ventas
+Explorar las aplicaciones del ámbito educativo
+Explore las aplicaciones del ámbito educativo más populares, como Minecraft Education, Duolingo y Kahoot, para fomentar la implicación de los estudiantes y hacer que el aprendizaje sea ameno.
+Examinar las aplicaciones del ámbito educativo
+DISPOSITIVOS
 Windows 11 devices</h2> ">
-Windows 11 devices
-Browse all Windows 11 devices for education to find the solutions that work best for your school or student.
-See devices for your school Shop for your home
-SOLUTIONS
+Dispositivos Windows 11
+Examine todos los dispositivos Windows 11 del ámbito educativo para encontrar las soluciones que mejor se adapten a su estudiante o centro.
+Ver dispositivos para su centro educativo Comprar para tu hogar
+SOLUCIONES
 Explore Microsoft solutions by role</h2> ">
-Explore Microsoft solutions by role
-Whether you’re a school leader, IT professional, educator, or student, we've got thoughtful solutions for everyone in the education space.
-Previous Slide
-Next Slide
+Explorar las soluciones de Microsoft por función
+Tanto si es responsable escolar, profesional de TI, formador o estudiante, tenemos soluciones valiosas para todos en el ámbito educativo.
+Diapositiva anterior
+Diapositiva siguiente
 School leaders</h3>">
-School leaders
-Empower your students to succeed, help teachers make the most of classroom time, and get more out of your budget with classroom technology tools.
-Start here
+Responsables educativos
+Capacite a sus estudiantes para el éxito, ayude a los docentes a aprovechar al máximo el tiempo de clase y explote al máximo su presupuesto con las herramientas de tecnología en la clase.
+Empezar aquí
 IT Professionals</h3>">
-IT Professionals
-Deploy affordable, easy-to-manage education technology that transforms classroom time, with the safety and security you expect.
-Start here
+Profesionales de TI
+Implemente una tecnología asequible y fácil de gestionar en el ámbito educativo, que transforme el tiempo de clase, con la seguridad y la protección esperadas.
+Empezar aquí
 Educators</h3>">
-Educators
-Explore educational technology to create inclusive, student-centered classrooms and learning opportunities for all.
-Start here
+Profesorado
+Explore la tecnología educativa para crear clases inclusivas y centradas en los estudiantes y oportunidades de aprendizaje para todos.
+Empezar aquí
 Students</h3>">
-Students
-Make schoolwork more fun with the education software that will successfully take you from school to the workplace.
-Start here
-Back to Solutions section
-Frequently asked questions
-Expand all
-Collapse all
+Estudiantes
+Consiga que el aprendizaje sea más ameno con software educativo que le permita entrar con éxito en el mundo laboral.
+Empezar aquí
+Volver a la sección Soluciones
+Preguntas más frecuentes
+Expandir todo
+Contrae todo
 01/
-What are the pricing options for Microsoft 365 Education and Office 365?
-Both Microsoft 365 Education and Office 365 Education have various pricing options for schools. View the product comparison table and contact a sales partner to discuss your school’s needs.
+¿Cuáles son las opciones de precios de Microsoft 365 Educación y Office 365?
+Microsoft 365 Educación y Office 365 Educación tienen varias opciones de precios para los centros educativos. Ve la tabla de comparación de productos y ponte en contacto con un partner de ventas para analizar las necesidades de tu centro educativo.
 02/
-How do I get Microsoft Office 365 Education?
-Microsoft donates  Office 365 Education  for the classroom to eligible institutions at no cost to ensure all students have access to tools for learning and building skills for the future. Office 365 Education provides web versions of Word, Excel, PowerPoint, OneNote, Microsoft Teams, and Microsoft 365 Copilot Chat, plus additional AI-based tools for work and learning. Enter your school email address  to get started . If you’re a school seeking additional assistance in signing up your school for Microsoft Office 365,  Contact a sales partner .
+¿Cómo puedo obtener Microsoft Office 365 Educación?
+Microsoft dona Office 365 Educación para el aula a las instituciones elegibles sin coste alguno para garantizar que todos los estudiantes tengan acceso a herramientas para el aprendizaje y la creación de habilidades para el futuro. Office 365 Educación proporciona versiones web de Word, Excel, PowerPoint, OneNote, Microsoft Teams y Microsoft 365 Copilot Chat, además de herramientas adicionales basadas en IA para el trabajo y el aprendizaje. Escribe tu dirección de correo educativa para comenzar . Si formas parte de un centro educativo que busca asistencia adicional para registrar el centro en Microsoft Office 365, ponte en contacto con un partner de ventas .
 03/
-How can I get a Microsoft Education discount?
-Students and educators are eligible for a 10% discount on select items in the Microsoft Store with an active Microsoft account. (A Microsoft account is an email address and password that you use with Outlook.com (Hotmail), Office, OneDrive, Skype, Xbox, and/or Windows.) If you don’t have an active Microsoft account, see the Microsoft Store for discount details .
-Resources
+¿Cómo puedo conseguir un descuento de Microsoft Educación?
+Para obtener los últimos descuentos y ofertas, los alumnos y educadores pueden visitar Microsoft Store con una cuenta de Microsoft activa. (Una cuenta de Microsoft es una dirección de correo electrónico y una contraseña que utiliza con Outlook.com (Hotmail), Office, OneDrive, Skype, Xbox y/o Windows). Si no tiene una cuenta de Microsoft activa, consulte Microsoft Store para obtener más información sobre los descuentos .
+Recursos
 Microsoft Learn Educator Center</h2> ">
-Microsoft Learn Educator Center
-Browse interactive lessons, earn professional development hours, acquire certifications, and find programs that help meet your learning goals.
-Visit the Educator Center
-Resource Center
-Microsoft Education Resource Center
-Explore resources for education and empower your community with knowledge, insights, and how-to guides.
-Visit the Resource Center
-School stories
-Real schools, real results
-Learn how schools around the world have implemented and benefitted from Microsoft solutions.
-Explore school stories
-Follow Microsoft Education
-Surface Pro
-Surface Laptop
-Surface Laptop Ultra
-Surface RTX Spark Dev Box
-Explore Copilot
-Explore Microsoft products
-Windows 11 apps
-Account profile
-Download Center
-Microsoft Store support
-Returns
-Order tracking
-Certified Refurbished
-Microsoft Store Promise
-Flexible Payments
-Microsoft in education
-Devices for education
-Microsoft Teams for Education
-Microsoft 365 Education
-How to buy for your school
-Educator training and development
-Deals for students and parents
-AI for education
+Centro de educadores Microsoft Learn
+Examine las lecciones interactivas, consiga horas de desarrollo profesional, adquiera certificaciones y encuentre programas que le ayuden a cumplir sus objetivos de aprendizaje.
+Visitar el centro para formadores
+Centro de recursos
+Centro de recursos de Microsoft Educación
+Explora los recursos para la educación y capacita a tu comunidad con conocimientos, ideas y guías paso a paso.
+Visitar el centro de recursos
+Casos del ámbito educativo
+Centros educativos reales, resultados reales
+Descubra cómo centros educativos de todo el mundo han implantado soluciones de Microsoft y han disfrutado de sus ventajas.
+Explorar casos del ámbito educativo
+Seguir a Microsoft Educación
+Explorar Copilot
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Perfil de la cuenta
+Centro de descargas
+Soporte de Microsoft Store
+Devoluciones y reembolsos
+Seguimiento de pedidos
+Microsoft Educación
+Dispositivos para el sector educativo
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Entrenamiento y desarrollo para educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
 Microsoft AI
-Microsoft Security
+Seguridad de Microsoft
+Azure
 Dynamics 365
 Microsoft 365
-Microsoft Power Platform
-Microsoft Teams
+Microsoft Advertising
 Microsoft Copilot
-Small Business
-Azure
-Microsoft Developer
+Microsoft Teams
+Desarrollador de Microsoft
 Microsoft Learn
-Support for AI marketplace apps
-Microsoft Tech Community
+Admite aplicaciones del Marketplace de IA
+Comunidad de Microsoft Tech
 Microsoft Marketplace
-Software companies
+Microsoft Power Platform
+Empresas de software
 Visual Studio
-Careers
-About Microsoft
-Company news
-Privacy at Microsoft
-Investors
-Diversity and inclusion
-Accessibility
-Sustainability
-English (United States)
-Your Privacy Choices Opt-Out Icon
-Your Privacy Choices
-Your Privacy Choices Opt-Out Icon
-Your Privacy Choices
-Consumer Health Privacy
-Contact us
-Privacy
-Manage cookies
-Terms of use
-Trademarks
-About our ads
+Trabajos
+Acerca de Microsoft
+Privacidad en Microsoft
+Inversionistas
+Español (México)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Contáctenos
+Privacidad
+Administrar cookies
+Aviso legal
+Marcas Registradas
+Sobre nuestra publicidad
