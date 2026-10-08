@@ -41,7 +41,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -59,19 +59,19 @@ Provides every citizen with the opportunity to get continuous education.
 Projects
 Projects of the Ministry of Education
 News
+Deputy Minister of Science and Education addresses the meeting of the Intergovernmental Commission between Azerbaijan and the United Kingdom
+07.10.2026 - 18:11
 Deputy Minister of Science and Education meets with Deputy Minister of National Education of Türkiye
 07.10.2026 - 14:57
 Minister of Science and Education meets with the Secretary-General of the Digital Cooperation Organization
 06.10.2026 - 19:29
+&nbsp
 President of the Council of Higher Education of Türkiye visits the Türkiye-Azerbaijan University
 01.10.2026 - 12:46
-&nbsp
 Azerbaijan wins “Medal of Excellence” at “WorldSkills Shanghai 2026” international competition
 28.09.2026 - 14:25
 Azerbaijan is represented at the 10th plenary session of the Council of Europe’s Steering Committee for Education
 28.09.2026 - 11:21
-Hasan Hasanli meets with the Chair of the Education, Science and Youth Affairs Committee of the Parliament of Georgia
-24.09.2026 - 19:57
 All news
 11/09/2026
 "Təhsilin keyfiyyəti şagirdin nəticəsidir" | Emin Əmrullayev
@@ -153,7 +153,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -214,7 +214,7 @@ en
 az
 ru
 MINISTRY
-NEWSFLASH 1
+NEWSFLASH
 Calendar
 Contact
 Verify digital document ✓
@@ -333,7 +333,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 5
+XƏBƏRLƏR
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓

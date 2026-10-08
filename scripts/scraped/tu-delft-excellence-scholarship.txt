@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -143,6 +143,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
 To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
@@ -172,6 +173,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload 1 reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Partial scholarship for up to two students
 Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
 Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
@@ -332,7 +334,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -715,7 +717,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -793,6 +795,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
 To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
@@ -822,6 +825,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload 1 reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Partial scholarship for up to two students
 Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
 Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
@@ -983,7 +987,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -1061,6 +1065,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload one reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
 Contribution for the living expenses.
 To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
@@ -1090,6 +1095,7 @@ Complete your MSc application (check the admission requirements)
 Upload the Scholarship Application Form
 Upload 1 reference letter (if you have two references, upload as 1 pdf.)
 Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
 Partial scholarship for up to two students
 Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
 Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
@@ -1250,7 +1256,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations

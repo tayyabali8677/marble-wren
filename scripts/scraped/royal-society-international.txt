@@ -154,8 +154,8 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 Librarians - News and features for librarians
+Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
 email from the Royal Society, as set out in our privacy policy.
 I understand I can unsubscribe at any time.
@@ -562,8 +562,8 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 Librarians - News and features for librarians
+Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
 email from the Royal Society, as set out in our privacy policy.
 I understand I can unsubscribe at any time.
@@ -814,8 +814,8 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 Librarians - News and features for librarians
+Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
 email from the Royal Society, as set out in our privacy policy.
 I understand I can unsubscribe at any time.
@@ -1319,8 +1319,8 @@ What subscription are you interested in receiving?
 (Choose at least one subject)
 What subscription are you interested in receiving?
 Public – upcoming free events, exciting scientific discoveries, informative videos and more
-Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 Librarians - News and features for librarians
+Scientists – grant opportunities, upcoming scientific meetings, journals and other information for scientists
 I am happy to receive the selected communications by
 email from the Royal Society, as set out in our privacy policy.
 I understand I can unsubscribe at any time.

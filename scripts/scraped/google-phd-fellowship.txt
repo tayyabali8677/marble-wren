@@ -509,7 +509,7 @@ Computer Architecture
 Data Management
 110
 Data Mining and Modeling
-283
+284
 Distributed Systems and Parallel Computing
 277
 Economics and Electronic Commerce
@@ -525,9 +525,9 @@ Health & Bioscience
 Human-Computer Interaction and Visualization
 283
 Information Retrieval and the Web
-183
+184
 Machine Intelligence
-992
+993
 Machine Learning
 216
 Machine Perception
@@ -556,7 +556,7 @@ Software Systems
 222
 Speech Processing
 156
-1 - 30 of 2212 researchers
+1 - 30 of 2213 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,24 +592,24 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Alekh Agarwal
+Sameer Agarwal
 Algorithms and Theory
-Machine Intelligence
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
+Machine Perception
+Anmol Agarwal
+Natural Language Processing
 Shashank Agarwal
 Algorithms and Theory
 Data Mining and Modeling
 Education Innovation
 +2 more
-Anmol Agarwal
-Natural Language Processing
-Sameer Agarwal
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
+Alekh Agarwal
 Algorithms and Theory
-Machine Perception
+Machine Intelligence
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -618,9 +618,6 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
@@ -631,6 +628,9 @@ Robotics
 Shreya Agrawal
 General Science
 Machine Intelligence
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
@@ -661,10 +661,10 @@ Algorithms and Theory
 Networking
 Zafarali Ahmed
 Machine Intelligence
-Tousif Ahmed
+Amr Ahmed
+Data Mining and Modeling
 Human-Computer Interaction and Visualization
-Mobile Systems
-Responsible AI
+Information Retrieval and the Web
 +2 more
 1
 2

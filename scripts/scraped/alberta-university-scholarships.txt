@@ -31,6 +31,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -100,7 +101,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
@@ -268,6 +268,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -337,7 +338,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
@@ -505,6 +505,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -574,7 +575,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
@@ -759,6 +759,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -828,7 +829,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
@@ -1018,6 +1018,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -1087,7 +1088,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
@@ -1266,6 +1266,7 @@ Access, Community + Belonging
 Support During a Crisis
 Student Service Centre
 Student Service Centre
+Student Service Centre
 Fees
 Fees
 Fees
@@ -1335,7 +1336,6 @@ Centrally Scheduled Classrooms
 Computer Lab Bookings
 Exam Schedules and Planners
 Fall / Winter Exam Schedule
-Fall / Winter Consolidated Exam Schedule
 Spring / Summer Exam Schedule
 Exam Guidelines
 For Students
