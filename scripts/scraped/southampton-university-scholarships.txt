@@ -188,11 +188,12 @@ Check your fee status
 Find scholarships for international students
 Use our scholarship finder to explore scholarships and awards for international students.
 Scholarships for Home students will be added in a future update.
-Browse international scholarships
 Undergraduate scholarships
 Scholarships for UK and international students on undergraduate courses.
 Postgraduate scholarships
 Scholarships for UK and international students on postgraduate courses.
+International scholarships
+Find out how international scholarships work and how to get one.
 Sports scholarships for elite athletes
 Sports scholarships are available to high level athletes studying or applying to an undergraduate or postgraduate course at Southampton. You could receive up to £800 towards your sport alongside other benefits like a sports annual membership and bespoke training programmes.
 Part of the
@@ -451,7 +452,6 @@ Undergraduate scholarships
 Postgraduate funding options
 Postgraduate scholarships
 International funding options
-Understanding international scholarships
 External funding opportunities
 Short courses
 Continuing professional development
@@ -1138,7 +1138,6 @@ Undergraduate scholarships
 Postgraduate funding options
 Postgraduate scholarships
 International funding options
-Understanding international scholarships
 External funding opportunities
 Short courses
 Continuing professional development
@@ -1842,7 +1841,6 @@ Undergraduate scholarships
 Postgraduate funding options
 Postgraduate scholarships
 International funding options
-Understanding international scholarships
 External funding opportunities
 Short courses
 Continuing professional development
@@ -2640,7 +2638,6 @@ Undergraduate scholarships
 Postgraduate funding options
 Postgraduate scholarships
 International funding options
-Understanding international scholarships
 External funding opportunities
 Short courses
 Continuing professional development

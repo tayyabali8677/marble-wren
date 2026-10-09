@@ -815,6 +815,7 @@ close
 Postgraduate study
 Fees and funding
 Deposits
+Application fees
 search
 Study
 Research
@@ -832,6 +833,7 @@ Postgraduate study
 Postgraduate study
 Fees and funding
 Deposits
+Application fees
 Fees and funding
 Fees
 Fees are available on individual programme pages, see:

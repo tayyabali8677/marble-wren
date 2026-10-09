@@ -170,12 +170,17 @@ Research
 Research at Curtin
 Research areas
 Overview
-Future workforce and society
-Robotics and automation
+Aboriginal and Torres Strait Islander knowledge
+Agriculture and environment
+Biomedical and clinical science
+Business, society and community
+Data science, machine learning and AI
 Healthy communities
-Resources
-Space and astronomy
-Sustainability
+National resilience and security
+Resources, mining and minerals
+Space
+Structural engineering and monitoring
+Sustainability and energy transition
 Higher degrees by research
 Overview
 Higher degree by research project opportunities
@@ -203,7 +208,7 @@ Current students
 Respect at Curtin
 FAQs
 Library
-Staff login
+Staff Login
 ePay
 AUS & NZ
 International

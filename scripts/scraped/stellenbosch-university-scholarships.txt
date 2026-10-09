@@ -15,7 +15,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -32,7 +32,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -78,6 +78,10 @@ Bellville Park campus registration
 International students registration
 Top stories
 Discover stories of our pursuit of impactful solutions, building learning communities that leverage the latest technologies, and our exceptional people.
+Media release
+Seeing SU through the eyes of its staff
+A Stellenbosch University (SU) staff-curated exhibition at the Stellenbosch University Museum is creating a space for conversations that might otherwise never...
+Read more
 Institutional news
 Prof Annie Chimphango unlocks the value of waste through circular bioeconomy
 Prof Annie Chimphango of the Department of Chemical Engineering in the Faculty of Engineering delivered her inaugural lecture on Tuesday 6 October 2026. The...
@@ -97,10 +101,6 @@ Read more
 Awards and milestones
 Prof Tracey Smythe awarded prestigious AfOx Fellowship
 Prof Tracey Smythe of the Division of Physiotherapy in the Faculty of Medicine and Health Sciences has recently been awarded a prestigious Africa Oxford (AfOx)...
-Read more
-Media release
-AVReQ invites students to explore violent pasts and possibilities for repair
-How do histories of slavery, colonialism and apartheid continue to shape contemporary societies? What does repair require of those who inherit their...
 Read more
 More stories
 Research and Innovation
@@ -177,7 +177,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -194,7 +194,7 @@ Limit to this site
 Search
 A-Z list
 A-Z
-Popular searches
+Gewilde soek terme
 Graduation
 Programmes
 Yearbooks
@@ -240,6 +240,10 @@ Bellville Park campus registration
 International students registration
 Top stories
 Discover stories of our pursuit of impactful solutions, building learning communities that leverage the latest technologies, and our exceptional people.
+Media release
+Seeing SU through the eyes of its staff
+A Stellenbosch University (SU) staff-curated exhibition at the Stellenbosch University Museum is creating a space for conversations that might otherwise never...
+Read more
 Institutional news
 Prof Annie Chimphango unlocks the value of waste through circular bioeconomy
 Prof Annie Chimphango of the Department of Chemical Engineering in the Faculty of Engineering delivered her inaugural lecture on Tuesday 6 October 2026. The...
@@ -259,10 +263,6 @@ Read more
 Awards and milestones
 Prof Tracey Smythe awarded prestigious AfOx Fellowship
 Prof Tracey Smythe of the Division of Physiotherapy in the Faculty of Medicine and Health Sciences has recently been awarded a prestigious Africa Oxford (AfOx)...
-Read more
-Media release
-AVReQ invites students to explore violent pasts and possibilities for repair
-How do histories of slavery, colonialism and apartheid continue to shape contemporary societies? What does repair require of those who inherit their...
 Read more
 More stories
 Research and Innovation
