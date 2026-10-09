@@ -203,7 +203,7 @@ Current students
 Respect at Curtin
 FAQs
 Library
-Staff Login
+Staff login
 ePay
 AUS & NZ
 International
@@ -291,7 +291,7 @@ Apply
 Information for
 Future students
 Current students
-Rsearchers
+Researchers
 Industry partners
 Alumni
 Media

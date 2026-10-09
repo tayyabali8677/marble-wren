@@ -405,7 +405,7 @@ Prospective students
 Continuing students
 Only open scholarships
 Clear filters
-Showing 289 results
+Showing 292 results
 Postgraduate doctoral
 A PhD Studentship in Wireless Communications and Signal Processing
 Award value
@@ -505,6 +505,16 @@ Academic year
 2025/2026
 Application deadline
 01/06/2025 Closed
+Postgraduate doctoral
+Alex Fortescue PhD Scholarship
+Award value
+Full tuition fees at Home or Overseas rate and UKRI London rate stipend for 3.5 years
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+01/03/2027
 Master's research
 Alvin Li-Shen Chua Memorial Scholarship
 Award value
@@ -912,6 +922,16 @@ Academic year
 2026/2027
 Application deadline
 30/09/2025 Closed
+Postgraduate taught, Master's research
+Dasgupta Scholarship
+Award value
+&pound;10,000 scholarship
+Available to
+Home, Full time
+Academic year
+2027/2028
+Application deadline
+01/06/2027
 Postgraduate taught, Master's research
 Dasgupta Scholarship
 Award value
@@ -2586,6 +2606,15 @@ Academic year
 2026/2027
 Application deadline
 29/05/2026 Closed
+Postgraduate doctoral
+SABER Lab PhD studentship
+Award value
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+31/07/2030
 Postgraduate taught, Master's research
 Said Foundation Scholarship
 Award value
