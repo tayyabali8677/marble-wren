@@ -551,12 +551,12 @@ Robotics
 Security, Privacy and Abuse Prevention
 190
 Software Engineering
-263
+262
 Software Systems
-222
+221
 Speech Processing
 156
-1 - 30 of 2215 researchers
+1 - 30 of 2214 researchers
 chip template
 Remove
 Martín Abadi
@@ -592,19 +592,19 @@ Algorithms and Theory
 Audio Processing
 Machine Intelligence
 +2 more
-Shashank Agarwal
+Alekh Agarwal
 Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
+Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
 +2 more
-Alekh Agarwal
+Shashank Agarwal
 Algorithms and Theory
-Machine Intelligence
+Data Mining and Modeling
+Education Innovation
++2 more
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
@@ -618,6 +618,9 @@ Economics and Electronic Commerce
 Ankur Agiwal
 Data Management
 Distributed Systems and Parallel Computing
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Shreya Agrawal
 General Science
 Machine Intelligence
@@ -625,9 +628,6 @@ Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
@@ -656,13 +656,16 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
+Tousif Ahmed
+Human-Computer Interaction and Visualization
+Mobile Systems
+Responsible AI
++2 more
 Amr Ahmed
 Data Mining and Modeling
 Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 +2 more
-Zafarali Ahmed
-Machine Intelligence
 Mustaq Ahmed
 Algorithms and Theory
 Networking

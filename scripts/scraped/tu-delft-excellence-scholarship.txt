@@ -527,7 +527,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
@@ -1256,7 +1256,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
