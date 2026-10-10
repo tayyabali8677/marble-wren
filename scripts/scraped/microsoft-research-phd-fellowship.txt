@@ -135,7 +135,7 @@ Microsoft Store support
 Returns
 Order tracking
 Certified Refurbished
-Microsoft Store Promise
+Why buy from Microsoft Store
 Flexible Payments
 Microsoft in education
 Devices for education
@@ -186,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: a55e31d85f5d3dfe38d156e430fb5234
+This is the Trace Id: 7d200998bff942f2612f37e60e0cbc1e
 Skip to main content
 Education
 Azure for education
@@ -340,7 +340,7 @@ Microsoft Store support
 Returns
 Order tracking
 Certified Refurbished
-Microsoft Store Promise
+Why buy from Microsoft Store
 Flexible Payments
 Microsoft in education
 Devices for education
