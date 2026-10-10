@@ -3791,5 +3791,12 @@
     "country": "European Union",
     "url": "https://erasmus-mundus.eu",
     "note": "Fully funded two-year Master's programs across multiple European universities."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "European Union",
+    "url": "https://erasmus-mundus.eu",
+    "note": "Fully funded multi-country European programs."
   }
 ]
