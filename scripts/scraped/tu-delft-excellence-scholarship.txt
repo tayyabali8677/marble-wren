@@ -505,7 +505,7 @@ Contact
 Search
 Home
 We support
-Menu openen
+Menu sluiten
 Support pioneering research
 Support innovative Education
 Entrepreneurship
@@ -527,7 +527,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
