@@ -137,10 +137,10 @@ Fellowships
 | 2 Days
 Internships
 FAO Internship Programme for Africa 2027
-| 82 Days
+| 81 Days
 Fellowships
 Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027
-United States| 29 Days
+United States| 28 Days
 Fellowships
 Vital Impacts Environmental Photography Fellowships and Mentorships 2027
 Online| 51 Days
@@ -158,7 +158,7 @@ Bloomberg Harvard Visiting Scholars Program 2026–2027
 Online| 17 Days
 Awards
 Bennington Young Scientists Awards 2026–2027
-Online| 22 Days
+Online| 21 Days
 Fellowships
 IRENA Youth Forum for Youth Empowerment and Renewable Energy Innovation 2027
 | Closed
@@ -341,15 +341,18 @@ Conferences
 One Young World Leading Scholarship 2026 in South Africa (Fully Funded)
 Africa| 20 Days
 Latest Additions
+Exchange Programs
+Cornell AI4S Visiting Professorship 2027
+| 4 Days
 Fellowships
 1834 Global Fellowship 2027
 | 2 Days
 Internships
 FAO Internship Programme for Africa 2027
-| 82 Days
+| 81 Days
 Fellowships
 Interactivity Foundation Collaborative Discussion Emerging Fellowship 2027
-United States| 29 Days
+United States| 28 Days
 Fellowships
 Vital Impacts Environmental Photography Fellowships and Mentorships 2027
 Online| 51 Days
@@ -367,10 +370,7 @@ Bloomberg Harvard Visiting Scholars Program 2026–2027
 Online| 17 Days
 Awards
 Bennington Young Scientists Awards 2026–2027
-Online| 22 Days
-Fellowships
-IRENA Youth Forum for Youth Empowerment and Renewable Energy Innovation 2027
-| Closed
+Online| 21 Days
 Trending
 Miscellaneous
 UN Young Leaders Training Programme 2024

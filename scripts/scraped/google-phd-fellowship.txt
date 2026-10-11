@@ -497,7 +497,7 @@ Filter by:
 Clear
 Research Area
 Algorithms and Theory
-405
+404
 Audio Processing
 18
 Climate and Sustainability
@@ -515,7 +515,7 @@ Distributed Systems and Parallel Computing
 Economics and Electronic Commerce
 80
 Education Innovation
-35
+34
 General Science
 155
 Hardware and Architecture
@@ -527,7 +527,7 @@ Human-Computer Interaction and Visualization
 Information Retrieval and the Web
 184
 Machine Intelligence
-994
+993
 Machine Learning
 217
 Machine Perception
@@ -551,12 +551,12 @@ Robotics
 Security, Privacy and Abuse Prevention
 190
 Software Engineering
-262
+261
 Software Systems
-221
+220
 Speech Processing
 156
-1 - 30 of 2214 researchers
+1 - 30 of 2213 researchers
 chip template
 Remove
 Martín Abadi
@@ -595,21 +595,21 @@ Machine Intelligence
 Alekh Agarwal
 Algorithms and Theory
 Machine Intelligence
-Mohit Agarwal
-Human-Computer Interaction and Visualization
-Machine Intelligence
-Machine Learning
-+2 more
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
 Anmol Agarwal
 Natural Language Processing
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
++2 more
+Mohit Agarwal
+Human-Computer Interaction and Visualization
+Machine Intelligence
+Machine Learning
++2 more
 Gagan Aggarwal
 Algorithms and Theory
 Data Mining and Modeling
@@ -624,13 +624,13 @@ Natural Language Processing
 Shreya Agrawal
 General Science
 Machine Intelligence
+Saksham Agrawal
+Distributed Systems and Parallel Computing
+Software Engineering
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
-Saksham Agrawal
-Distributed Systems and Parallel Computing
-Software Engineering
 Blaise Aguera y Arcas
 Human-Computer Interaction and Visualization
 Machine Intelligence
