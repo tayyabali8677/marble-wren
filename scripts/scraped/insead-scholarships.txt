@@ -1,0 +1,16 @@
+===== SOURCE PAGE: https://www.insead.edu/admissions/financial-aid/scholarships =====
+Title: Just a moment...
+
+URL Source: https://www.insead.edu/admissions/financial-aid/scholarships
+
+Warning: Target URL returned error 403: Forbidden
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+
+Markdown Content:
+![Image 1: Icon for www.insead.edu](https://www.insead.edu/favicon.ico)
+
+## www.insead.edu
+
+## Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

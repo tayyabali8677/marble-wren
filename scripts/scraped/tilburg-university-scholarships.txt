@@ -1,0 +1,25 @@
+===== SOURCE PAGE: https://www.tilburguniversity.edu/education/scholarships =====
+Title: 404: Sorry! The requested page is not available (anymore) at this web address | Tilburg University
+
+URL Source: https://www.tilburguniversity.edu/education/scholarships
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+This website uses different types of cookies. Some cookies are set by third-party services. You can find a more detailed explanation of what the cookies are used for in our [**cookie statement**](https://www.tilburguniversity.edu/disclaimer/cookies).
+
+Basic
+
+These **functional cookies** ensure that the website works technically and is safe to use.
+
+Preferences
+
+These cookies store anonymous **preferences** in your browser regarding information and settings on the website, without you having to create a personal account or log into the website.
+
+Statistics
+
+With these **analytical cookies** we collect anonymous statistics from which sources our website visitors come and how our website is used. We use **Google Analytics** from the American company Google for this purpose.
+
+Marketing
+
+These **tracking cookies** provide information about your website visit to third parties who can use this information for **user research** or **personalized and non-personalized advertisements** from Tilburg University. Learn how Google uses data when you interact with our site in Google's [**Business Data Responsibility**](https://business.safety.google/privacy/) information.

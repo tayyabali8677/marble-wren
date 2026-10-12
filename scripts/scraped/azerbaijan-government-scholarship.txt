@@ -276,8 +276,6 @@ Orta ixtisas təhsili
 Ümumi orta təhsil bazasında cəmiyyətin və əmək bazarının tələbatına uyğun olaraq, müxtəlif sənət və kütləvi peşələr üzrə ixtisaslı işçi kadrlar hazırlığını təmin edir.
 Ali təhsil
 Tam orta təhsil və orta peşə-ixtisas təhsili bazasından cəmiyyətin və əmək bazarının tələbatı nəzərə alınmaqla yüksək ixtisaslı mütəxəssis hazırlığını təmin edir.
-Xüsusi təhsil
-Xüsusi təhsil – sağlamlıq imkanları məhdud şəxslərə dövlət proqramları əsasında bilik, bacarıq və özünəxidmət vərdişlərini aşılamaqla, onların cəmiyyətə inteqrasiyasını, o cümlədən əmək fəaliyyətinə və ailə həyatına hazırlanmasını təmin edir.
 Sənədlər
 Normativ sənədlər və təlimatlar
 Layihələr
@@ -316,8 +314,6 @@ Xarici diplomların tanınması və ekvivalentliyinin müəyyən edilməsi
 Tanınan diplomların sahibləri barədə məlumat bazası
 Elmi müəssisələrin siyahısı
 Hesabat formaları
-Ümumi məlumat
-İnternat məktəbləri
 “İcma əsaslı məktəbəqədər təhsil” layihəsi
 “STEAM Azərbaycan” layihəsi
 “Rəqəmsal bacarıqlar” layihəsi
@@ -333,7 +329,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR
+XƏBƏRLƏR 1
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓

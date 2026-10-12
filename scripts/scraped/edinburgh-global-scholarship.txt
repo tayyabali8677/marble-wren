@@ -6,8 +6,7 @@ URL Source: https://www.ed.ac.uk/student-funding/postgraduate/international/glob
 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-**Important**
-
+**Important**  
 Enter your login name in the format uun@ed.ac.uk, e.g jbloggs@ed.ac.uk or s1234567@ed.ac.uk
 
 This is the University of Edinburgh's official page for Your University Login. By using this service you agree to abide by the University of Edinburgh [Computing Acceptable Use Policy](https://information-services.ed.ac.uk/about/policies-and-regulations/university-computing-acceptable-use-policy).

@@ -1,0 +1,12 @@
+===== SOURCE PAGE: https://www.uni-frankfurt.de/en/43029268/Scholarships =====
+Title: ”Here I stand, poor fool, and am no wiser than before.”
+
+URL Source: https://www.uni-frankfurt.de/en/43029268/Scholarships
+
+Warning: Target URL returned error 404: Not Found
+Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+
+Markdown Content:
+Looks like the page you are looking for could not be found. The link may be outdated, the content might have been moved – or perhaps there is just a small typo in the address.
+
+Try double-checking the URL, reload the page, or head back to the homepage.

@@ -1,0 +1,37 @@
+===== SOURCE PAGE: https://portal.uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships =====
+Title: 404 - Seite nicht gefunden
+
+URL Source: https://portal.uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+Die von Ihnen gesuchte Seite/Resource konnte leider nicht gefunden werden. Das kann verschiedene Ursachen haben:
+
+## Veralteter Link
+
+Sie sind einem alten oder defekten Link gefolgt. Um die gewünschte Information zu finden, nutzen Sie bitte unsere [Websitesuche](https://uni-koeln.de/google-suche). Falls Sie dem Betreiber der Seite mit dem veralteten Link informieren wollen, achten Sie darauf anzugeben unter welcher URL diese veraltete Adresse verlinkt wurde und dass der Betreiber der verlinkenden Seite ein anderer sein kann, als der der verlinkten Seite.
+
+## Bookmark/Lesezeichen
+
+Sie haben ein veraltetes Bookmark/Lesezeichen verwendet. Um die gewünschte Information zu finden, nutzen Sie bitte unsere [Websitesuche](https://uni-koeln.de/google-suche). Bitte aktualisieren Sie für die Zukunft Ihr Bookmark.
+
+## Falsche Eingabe in die Adresszeile Ihres Browsers
+
+Vielleicht haben Sie sich vertippt. Bitte kontrollieren Sie Ihre Eingabe und probieren Sie es erneut. Oder gehen Sie [zur Startseite](https://uni-koeln.de/) und klicken Sie sich von dort zur gesuchten Seite durch.
+
+## 404 - Page not found
+
+The requested page/resource you are looking for could not be found. This can be due to several reasons:
+
+## Outdated Link
+
+You followed an outdated link. To find the desired information, please use our [websearch](https://uni-koeln.de/en/google-suche). If you would like to inform the maintainer of the page with the outdated link, be sure to include on which page the URL was found. Also note that the maintaner of the linking page may differ from the maintainer of the linked page
+
+## Bookmark/Lesezeichen
+
+You used an outdated bookmark. To find the desired information, please use our [websearch](https://uni-koeln.de/en/google-suche). Please update your bookmarks for future use.
+
+## Incorrect input in the address bar
+
+Maybe you mistyped the URL. Please check your input and try it again. Or go [to the start page](https://uni-koeln.de/) and navigate from there to the desired page.

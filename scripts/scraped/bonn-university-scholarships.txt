@@ -1,0 +1,14 @@
+===== SOURCE PAGE: https://www.uni-bonn.de/en/studying/students/financial-support/scholarships =====
+Title: Seite nicht gefunden
+
+URL Source: https://www.uni-bonn.de/en/studying/students/financial-support/scholarships
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+![Image 1: Universität Bonn](https://www.uni-bonn.de/__errors/logo.png)
+## Seite nicht gefunden / Page not found
+
+Die aufgerufene Seite mit der URL **/en/studying/students/financial-support/scholarships** existiert leider nicht. Über den folgenden Link gelangen Sie zur Startseite: [https://www.uni-bonn.de](https://www.uni-bonn.de/)
+
+The requested page with URL **/en/studying/students/financial-support/scholarships** does not exist. Click here to reach the portal’s home page: [https://www.uni-bonn.de](https://www.uni-bonn.de/)

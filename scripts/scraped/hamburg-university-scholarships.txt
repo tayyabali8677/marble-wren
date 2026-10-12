@@ -1,0 +1,109 @@
+===== SOURCE PAGE: https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html =====
+Title: Organizing your studies
+
+URL Source: https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+*   [University of Hamburg](https://www.uni-hamburg.de/)
+*   [For journalists](https://www.uni-hamburg.de/en/newsroom/services-fuer-medien.html)
+*   [Staff Service Portal](https://www.kus.uni-hamburg.de/en.html)[0](https://www.kus.uni-hamburg.de/aktuelles.html?recentnews=true)
+*   [STiNE](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=EXTERNALPAGES&ARGUMENTS=-N000000000000002,-N000034,-Awelcome)
+
+https://www.kus.uni-hamburg.de/aktuelles.json?recentnews=true
+*   [Institutions and target groups](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html#)
+
+    *   **Einrichtungen**
+        *   **Faculties**
+
+            *   [Faculty of Law](https://www.jura.uni-hamburg.de/en.html)
+            *   [Faculty of Business, Economics and Social Sciences](https://www.wiso.uni-hamburg.de/en.html)
+            *   [Faculty of Medicine](https://www.uke.de/english/organizational-structure/faculty-of-medicine/index.html)
+            *   [Faculty of Education](https://www.ew.uni-hamburg.de/en.html)
+            *   [Faculty of Humanities](https://www.gw.uni-hamburg.de/en.html)
+            *   [Faculty of Mathematics, Informatics and Natural Sciences](https://www.min.uni-hamburg.de/en.html)
+            *   [Faculty of Psychology and Human Movement Science](https://www.pb.uni-hamburg.de/en.html)
+            *   [University of Hamburg Business School](https://www.bwl.uni-hamburg.de/en.html)
+
+        *   **Services**
+
+            *   [Study Information Net STiNE](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=EXTERNALPAGES&ARGUMENTS=-N000000000000002,-N000034,-Awelcome)
+            *   [Surfmail](https://surfmail.rrz.uni-hamburg.de/login.php?new_lang=en_US)
+            *   [Exchange](https://exchange.uni-hamburg.de/)
+            *   [Staff Service Portal](https://www.intranet.uni-hamburg.de/en.html)
+            *   [Learning Platforms](https://www.uni-hamburg.de/en/dl-portal/lernplattformen.html)
+            *   [Katalogplus – Catalogue of Hamburg Libraries](https://katalogplus.sub.uni-hamburg.de/vufind/)
+            *   [SharePoint](https://sharepoint.uni-hamburg.de/)
+
+        *   **Student facilities and services**
+
+            *   [Campus Center](https://www.uni-hamburg.de/en/campuscenter.html)
+            *   [Career Center](https://www.uni-hamburg.de/en/career-center.html)
+            *   [PIASTA](https://www.uni-hamburg.de/en/piasta.html)
+            *   [AStA (student council)](https://www.asta-uhh.de/)
+            *   [University Sports](https://www.hochschulsport.uni-hamburg.de/)
+            *   [University Music](https://www.akamusik.uni-hamburg.de/)
+            *   [Family Office](https://www.uni-hamburg.de/en/familienbuero.html)
+            *   [University Language Center](https://www.uni-hamburg.de/en/sprachenzentrum.html)
+            *   [General Languages](https://www.uni-hamburg.de/en/allgemeinsprachen.html)
+            *   [Office of Affairs for Students with Disabilities or Chronic Diseases](https://www.uni-hamburg.de/studieren-mit-behinderung.html)
+            *   [Departmental libraries](https://www.uni-hamburg.de/einrichtungen/studierende/bibliotheken.html)
+            *   [Healthy Campus](https://www.uni-hamburg.de/healthycampus)
+
+        *   **Further facilities and services**
+
+            *   [The Cluster of Excellence CLICCS](https://www.cliccs.uni-hamburg.de/en.html)
+            *   [The Cluster of Excellence CUI](https://www.cui-advanced.uni-hamburg.de/en.html)
+            *   [The Cluster of Excellence Quantum Universe](https://www.qu.uni-hamburg.de/)
+            *   [The Cluster of Excellence Understanding Written Artefacts](https://www.csmc.uni-hamburg.de/written-artefacts.html)
+            *   [Hamburg Research Academy](https://www.hra-hamburg.de/en.html)
+            *   [Pier Plus](https://www.pier-plus.de/en.html)
+            *   [Hamburg Center for University Teaching and Learning (HUL)](https://www.hul.uni-hamburg.de/en)
+            *   [Hub for Crossdisciplinary Learning (HCL)](https://www.hcl.uni-hamburg.de/en.html)
+            *   [CEN](https://www.cen.uni-hamburg.de/en.html)
+            *   [Museums and collections](https://www.uni-hamburg.de/en/museen-sammlungen.html)
+            *   [University Archives (in German)](https://www.archiv.uni-hamburg.de/)
+            *   [Regional Computing Center (RRZ)](https://www.rrz.uni-hamburg.de/)
+            *   [University Administration](https://www.uni-hamburg.de/en/uhh/organisation/praesidialverwaltung.html)
+            *   [Knowledge Exchange Agency](https://www.uni-hamburg.de/en/transfer.html)
+            *   [The Unikontor Shop (in German)](https://www.unikontor.de/)
+
+    *   **Target groups**
+
+        *   [Prospective students](https://www.uni-hamburg.de/en/studium/studieren-in-hamburg.html)
+        *   [Students](https://www.uni-hamburg.de/en/studium.html)
+        *   [International prospective students](https://www.uni-hamburg.de/en/campuscenter/bewerbung/international.html)
+        *   [Young researchers](https://www.uni-hamburg.de/en/forschung/research-culture/promotion.html)
+        *   [Researchers](https://www.uni-hamburg.de/en/lp-forschende.html)
+        *   [Instructors](https://www.kus.uni-hamburg.de/en/zielgruppen/lehrende.html)
+        *   [Staff](https://www.kus.uni-hamburg.de/en/)
+        *   [Prospective continuing education students](https://www.uni-hamburg.de/en/service/weiterbildung.html)
+        *   [Alumni](https://www.uni-hamburg.de/en/alumni.html)
+        *   [Journalists](https://www.uni-hamburg.de/en/newsroom/services-fuer-medien.html)
+        *   [Refugees (in German only)](https://www.uni-hamburg.de/uhhhilft.html)
+
+[Close](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html#)
+
+*   [Language](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html#)
+    *   [English](https://www.uni-hamburg.de/en/campuscenter/studienorganisation.html)
+    *   [Deutsch](https://www.uni-hamburg.de/campuscenter/studienorganisation.html)
+
+*   /en/sitemap.json [](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html#)
+
+    *   [First-year info](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/erstsemester.html)
+    *   [Important semester dates](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf/semestertermine.html)
+    *   [Starting the semester](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/semesterstart.html)
+    *   [Further organizational matters](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienverlauf.html)
+    *   [Concluding a program](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienabschluss.html)
+    *   [Information sheets and recommendations](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/formulare-informationsmerkblaetter.html)
+
+[![Image 1: University of Hamburg - to research, to teach, to educate and form, to homepage](https://assets.rrz.uni-hamburg.de/assets/uhh-logo-16dab7756eecc70a7649a242498868c6bb37872e5eae6023b38026faeef923c3.svg)](https://www.uni-hamburg.de/)
+
+*   Studies
+*   Research
+*   International
+*   Knowledge exchange
+*   University
+
+[](https://www.uni-hamburg.de/en/campuscenter/studienorganisation/studienfinanzierung/stipendien.html#)

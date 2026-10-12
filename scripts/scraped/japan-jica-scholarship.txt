@@ -3,8 +3,6 @@ Title: ご指定のページが見つかりません／Not Found｜JICA
 
 URL Source: https://www.jica.go.jp/english/our_work/capacity_building/scholarship/index.html
 
-Published Time: Thu, 09 Jul 2026 05:38:27 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -28,8 +26,7 @@ Markdown Content:
 
 閉じる
 
- JICAウェブサイトでは、提供するサービス向上のため、クッキー（Cookie）を使用しております。
-
+ JICAウェブサイトでは、提供するサービス向上のため、クッキー（Cookie）を使用しております。  
  このバナーを閉じる、または継続して閲覧することで、[プライバシーポリシー](https://www.jica.go.jp/policy/privacy.html)に記載されているクッキーの使用に同意いただいたものとさせていただきます。 
 
 閉じる
@@ -520,17 +517,14 @@ scroll
 
 # ご指定のページが見つかりません／Not Found
 
-ご指定のページは移動したか、削除された可能性があります。
-
-恐れ入りますが、「トップページ」または「サイトマップ」から再度お探しください。
-
+ご指定のページは移動したか、削除された可能性があります。  
+恐れ入りますが、「トップページ」または「サイトマップ」から再度お探しください。  
 またはページ上部のサイト内検索をご利用ください。
 
 *   [国際協力機構ホームページ](https://www.jica.go.jp/index.html)
 *   [サイトマップ](https://www.jica.go.jp/sitemap/index.html)
 
-過去のページは国立国会図書館の「国立国会図書館インターネット資料収集保存事業」ホームページに保存されている場合がありますのでご利用ください。
-
+過去のページは国立国会図書館の「国立国会図書館インターネット資料収集保存事業」ホームページに保存されている場合がありますのでご利用ください。  
 ※検索ページへジャンプします。キーワード検索欄にお探しのページのURLまたはキーワード項目に「国際協力機構」と入力し、検索してください。
 
 *   [国立国会図書館インターネット資料収集保存事業ホームページ](https://warp.ndl.go.jp/)

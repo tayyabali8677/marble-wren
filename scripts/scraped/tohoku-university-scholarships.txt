@@ -1,0 +1,27 @@
+===== SOURCE PAGE: https://www.tohoku.ac.jp/en/education/scholarships/ =====
+Title: 404 Not Found | 東北大学 -TOHOKU UNIVERSITY-
+
+URL Source: https://www.tohoku.ac.jp/en/education/scholarships/
+
+Published Time: Fri, 10 Oct 2025 00:48:10 GMT
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+**We are sorry, the page you requested cannot be found.**
+
+The file may have been moved to a different location or removed because of site maintenance or other renewals.
+
+Please make sure the URL you entered, is correct. We recommend you try searching for the page using the search bar above, or by using the [Sitemap](http://www.tohoku.ac.jp/en/misc/sitemap.html).
+
+*   [Tohoku University Top page](http://www.tohoku.ac.jp/en/)
+
+**お探しのページまたはファイルは見つかりませんでした。**
+
+URLが変更になった可能性がございます。
+
+ページ右上の「検索ボックス」にキーワードをご入力いただくか「[サイトマップ](http://www.tohoku.ac.jp/japanese/site/siteinfo/01/siteinfo0101/)」から、該当するページをお探しください。
+
+*   [東北大学トップページ](http://www.tohoku.ac.jp/japanese/)
+
+![Image 1](https://www.bureau.tohoku.ac.jp/koho/share/img/kenichi_sorry2.png)

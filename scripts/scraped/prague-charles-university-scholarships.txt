@@ -147,9 +147,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -349,9 +346,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+
@@ -719,9 +713,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -921,9 +912,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+
@@ -1193,9 +1181,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -1395,9 +1380,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+
@@ -1764,7 +1746,7 @@ Learn more about other areas of safety at Charles University:
 Security and Occupational Safety Department of CU Rectorate .
 Last change: February 6, 2026, 16:22
 Last change: February 6, 2026, 16:22
-Responsible for site content: Public Relations Department
+Responsible for site content: Department of Social Impact and Engagement
 Contacts
 Rectorate
 Charles University
@@ -1945,9 +1927,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -2147,9 +2126,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+
@@ -2398,9 +2374,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -2600,9 +2573,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+
@@ -2864,9 +2834,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 Alumni
@@ -3066,9 +3033,6 @@ Fulbright Chair
 Other Academic Mobility Programmes
 Staff Welcome Centre
 Outgoing Academic and Administrative Staff
-Erasmus Staff Mobility
-Inter-University Agreements
-Faculty Agreements
 Other Academic Mobility Programmes
 Membership in International Networks
 4EU+

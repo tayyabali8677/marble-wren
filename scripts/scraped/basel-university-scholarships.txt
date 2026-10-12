@@ -1,0 +1,15 @@
+===== SOURCE PAGE: https://www.unibas.ch/en/Studies/Scholarships.html =====
+Title: 404 - Page not found
+
+URL Source: https://www.unibas.ch/en/Studies/Scholarships.html
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+![Image 1: 404 Page not found](blob:http://localhost/fe3db5921171e9c08373398d7d911fae)
+
+Die gewünschte Seite konnte leider nicht gefunden werden. Möglicherweise wurde die angewählte Seite aktualisiert, gelöscht oder in einen anderen Bereich umgezogen.
+
+It is likely that the requested page has been updated, deleted or moved to a different location.
+
+[HOME](https://www.unibas.ch/)

@@ -186,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 4aee168d8aa9322d02c3dc09460ad860
+This is the Trace Id: 30b51765050a7f0500a1fc4e6f68ef69
 Skip to main content
 Education
 Azure for education
@@ -386,3 +386,155 @@ Manage cookies
 Terms of use
 Trademarks
 About our ads
+
+===== SOURCE PAGE: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98 =====
+Title: Frontier Accelerate for Marketplace: How partners grow
+
+URL Source: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98
+
+Markdown Content:
+![Image 1: Two people working on a computer at a desk.](https://www.microsoft.com/-/media/bfb3a7170ea54d0889ee3365ccaa913a.png)![Image 2: Two people working on a computer at a desk.](https://www.microsoft.com/-/media/e9d2f2480fc94cbc91e8f453faef37cc.png)
+
+Build AI-powered solutions, monetize through Microsoft Marketplace, and scale revenue through Microsoft expertise, skilling, and investments.
+
+*   #### [Trusted expertise](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab78abe3dc-f36f-4866-afea-ed5f88f2ad9c-1)
+*   #### [Savings & investments](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab78abe3dc-f36f-4866-afea-ed5f88f2ad9c-2)
+*   #### [Skilled teams](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab78abe3dc-f36f-4866-afea-ed5f88f2ad9c-3)
+
+![Image 3: Person working on a laptop.](https://www.microsoft.com/-/media/b5cd9da3a86441468a8a61d4b016bb9c.png)
+
+#### **Reduce friction and publish faster**
+
+Build & publish Marketplace-ready AI apps and agents more efficiently with [AI-assisted self-service guidance](https://www.microsoft.com/software-development-companies/app-advisor "AI assisted self service guidance").
+
+![Image 4: Two people seated at a coffee shop with a laptop.](https://www.microsoft.com/-/media/da3d01a4f02e40a2aba2d170f77b9d4e.png)
+
+#### **Access expert Marketplace guidance**
+
+Accelerate Marketplace readiness with Microsoft expertise and guidance through Microsoft AI Cloud Partner Program Concierge and 1:1 technical consultations.
+
+![Image 5: Colleagues seated at a table working on a tablet.](https://www.microsoft.com/-/media/b8341f7e84954160b10c773c7839ec4e.png)
+
+#### **Increase Marketplace visibility**
+
+Optimize customer discovery of your solution in Marketplace through App Advisor listing optimization and merchandising guidance.
+
+![Image 6: Hands typing on a keyboard and tablet.](https://www.microsoft.com/-/media/fc1c576b68fb409a97765f99f8654006.png)
+
+#### **Publish to Marketplace for less**
+
+Frontier Accelerate for Marketplace Premium members receive $30,000 in Azure sponsorship to lower initial cost and increase win rate, as well as guidance from a named engagement manager.
+
+![Image 7: Colleagues working on a laptop.](https://www.microsoft.com/-/media/2d588264b816486a9a30501074665eda.png)
+
+#### **Unlock incentives and reach more customers**
+
+Drive customer acquisition and revenue growth through customer propensity scoring and [Partner Marketing Center Pro](https://partner.microsoft.com/marketing-center "Partner Marketing Center Pro"), and tap into performance-based cash incentives along the way.
+
+![Image 8: People seated at a coffee shop collaborating on a laptop.](https://www.microsoft.com/-/media/d88ac6a79ad648838c555818db047d53.png)
+
+#### **Differentiate your business with designations**
+
+Access [co-sell eligibility](https://partner.microsoft.com/partnership/azure-ip-co-sell "co sell eligibility") and [Solutions Partner* with certified software** designations](https://partner.microsoft.com/partnership/certified-software-designation-benefits-guide "Solutions Partner with certified software designations") to scale Marketplace Billed Sales and stand out to customers.
+
+![Image 9: People talking in front of a whiteboard.](https://www.microsoft.com/-/media/2fb63cebfabe4e138275e349a8f079a8.png)
+
+#### **Build capable and confident teams**
+
+Get Marketplace-ready with on-demand Marketplace-focused skilling content.
+
+![Image 10: Colleagues seated on the floor working on laptops.](https://www.microsoft.com/-/media/15603c3dbc8445809c630ce758fc45ff.png)
+
+#### **Equip teams to drive growth with go-to-market resources**
+
+Turn Marketplace presence into transactions through workshops, the [Marketplace Community](https://techcommunity.microsoft.com/t5/marketplace-for-partners/bd-p/Marketplace-Forum "Marketplace Community"), and [Microsoft Learn documentation](https://learn.microsoft.com/partner-center/marketplace-offers/transacting-commercial-marketplace#transacting-on-microsoft-marketplace-1 "Microsoft Learn documentation").
+
+![Image 11: Person walking in front of office windows.](https://www.microsoft.com/-/media/e2347619c8654ac6a9509ac8ed20c771.png)
+
+#### **Build capabilities that stand out to customers**
+
+Scale Marketplace Billed Sales (MBS) and co-sell engagement by building your capabilities through [Partner Skilling Hub](https://skilling-hub.com/ "Partner Skilling Hub") resources, including AI certification vouchers, to advance team credentials.
+
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-3)
+
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher812bf5fe-a82d-4aee-84b2-3916d4e4710e-3)
+
+## Build & Publish
+
+### Build a Marketplace-ready solution—faster
+
+Use development credits, sandboxes, and technical guidance to prepare your solution for Microsoft Marketplace publication and transactability. Build & Publish benefits include:
+
+*   Technical and presales deployment consultations for hands-on guidance during upfront solution development.
+*   AI commercialization skilling to guide buyer- and offer-type alignment.
+*   A development sandbox and credits, including Microsoft Foundry and GitHub Copilot.
+
+[Browse resources](https://partner.microsoft.com/asset/collection/frontier-acc-mktplace-resource#/)
+
+### Drive revenue with targeted go-to-market (GTM) activation
+
+Use targeted GTM benefits and resources to broaden your reach and work toward early Marketplace revenue. Grow demand and accelerate sales with:
+
+*   Earned $30,000 Azure sponsorship for no-cost trials and accelerated deal closure.
+*   Personalized listing optimization to drive greater visibility.
+*   GTM resources designed to enable demand generation.
+*   Engagement manager guidance on co-sell requirements and readiness.
+
+[Browse resources](https://partner.microsoft.com/asset/collection/frontier-acc-mktplace-resource#/)
+
+## Differentiate
+
+### Scale with milestone-based investments and differentiation
+
+Expand your go-to-market (GTM) motions with milestone-based investments and solution differentiation as your Marketplace momentum grows. Scale with:
+
+*   Solutions Partner* with certified software** designations to signal solution credibility and differentiation.
+*   Enterprise propensity scoring to prioritize deal opportunities.
+*   Accrued GTM benefits to drive new customer acquisition and expanded deal size.
+
+[Explore certified software designations](https://partner.microsoft.com/en-us/partnership/solutions-partner)
+
+![Image 12: A person smiling while working on a laptop.](https://www.microsoft.com/-/media/aa4d8e86186a4559b2760677d133e86b.png)
+
+### **Frontier Accelerate for Marketplace**
+
+Publish, transact, and grow through Microsoft Marketplace with guidance, skilling, and milestone-based benefits available to eligible partners at no cost.
+
+*   To-partner incentives
+*   Go-to-market resources
+*   Eligibility to participate in co-sell and attain a Solutions Partner* with certified software** designation
+
+[Find out more](https://aka.ms/FA-for-Marketplace-Playbook "Go to the partner playbook.")
+
+![Image 13: Two people working together on a laptop.](https://www.microsoft.com/-/media/ebf86d7d91b643b787b50e736ebc754a.png)
+
+### **Frontier Accelerate for Marketplace Premium**
+
+This paid path is for partners seeking additional technical guidance, Azure sponsorship, go-to-market benefits, and co-sell readiness guidance. This path offers all Frontier Accelerate for Marketplace offerings, plus:
+
+*   Development environments and tools, including $30,000 of Azure sponsorships to build and test solutions
+*   Technical presales and deployment consultations throughout solution development
+*   Enhanced go-to-market engagement and benefits
+*   Co-sell readiness guidance
+
+[Find out more about Premium](https://aka.ms/FA-for-Marketplace-Playbook "Go to the partner playbook.")
+
+*   Become an active [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/partnership "Microsoft AI Cloud Partner Program") member.
+*   Once enrolled in the program, continue to meet program requirements.
+
+*   Reach a global audience and transact at scale by enrolling in [Microsoft Marketplace](https://partner.microsoft.com/partnership/marketplace "Microsoft Marketplace").
+
+To meet eligibility validation, your solution must be:
+
+*   B2B-focused.
+*   Designed for repeatable sales.
+*   Intended to be published on Marketplace.
+*   Built on Microsoft Cloud.
+
+*“Solutions Partner” refers to a company that is a member of the Microsoft AI Cloud Partner Program and may offer software, services, and/or solutions to customers. Reference to “Solutions Partner” in any content, materials, resources, web properties, etc. and any associated designation should not be interpreted as an offer, endorsement, guarantee, proof of effectiveness or functionality, a commitment, or any other type of representation or warranty on the part of Microsoft. All decisions pertaining and related to your business needs including but not limited to strategies, solutions, partner selection, implementation, etc., rest solely with your business.
+
+**A certification is (1) specific to the solution’s interoperability with Microsoft products and (2) based on self-attestation by the solution owner. Solutions are only certified as of the date the solution is reviewed. Solution functionality and capability are controlled by the solution owner and may be subject to change. The inclusion of a solution in Marketplace and any such designations should not be interpreted as an offer, endorsement, guarantee, proof of effectiveness or functionality, a commitment, or any other type of representation or warranty on the part of Microsoft. All decisions pertaining and related to your business needs including but not limited to strategies, solutions, partner selection, implementation, etc. rest solely with your business.

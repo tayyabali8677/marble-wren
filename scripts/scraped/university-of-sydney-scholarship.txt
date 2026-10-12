@@ -18,7 +18,7 @@ Customise settings Accept all
 *   [Staff intranet](https://intranet.sydney.edu.au/)
 *   [Find an event](https://whatson.sydney.edu.au/)
 *   [Give](https://www.sydney.edu.au/engage/give.html)
-*   [Contact us](https://www.sydney.edu.au/contact-us.html)
+*   [Contact us](https://www.sydney.edu.au/content/corporate/contact-us.html)
 
 [![Image 3: University Home](https://www.sydney.edu.au/content/dam/icons/logos/logo-usyd-dark.svg)](https://www.sydney.edu.au/)
 

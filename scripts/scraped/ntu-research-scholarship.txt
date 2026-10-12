@@ -103,41 +103,7 @@ Back Services
 *   [Admissions](https://www.ntu.edu.sg/admissions)
 
 Back Back Admissions  
-    *   [Undergraduate](https://www.ntu.edu.sg/admissions/undergraduate)
-
-Back Undergraduate  
-        *   [Admission Guide](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide)
-
-Back Admission Guide  
-            *   [Singapore-Cambridge GCE A-Level](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/singapore-cambridge-gce-a-level)
-            *   [Diploma awarded by a Polytechnic or equivalent institution in Singapore](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/diploma-awarded-by-a-polytechnic-or-equivalent-institution-in-singapore)
-            *   [International Baccalaureate Diploma](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-baccalaureate-diploma)
-            *   [NUS High School Diploma](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/nus-high-school-diploma)
-            *   [International Qualifications](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications)
-            *   [Part Time Programmes](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/part-time-b)
-            *   [Adult Learners Scheme](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/adult-learners-scheme)
-            *   [Aptitude-Based Admissions](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/Aptitude-based-Admissions)
-            *   [Transfer Applicants](https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/transfer-applicants)
-
-        *   [Scholarships and Awards](https://www.ntu.edu.sg/admissions/undergraduate/scholarships)
-
-Back Scholarships and Awards  
-            *   [FAQs on scholarships](https://www.ntu.edu.sg/admissions/undergraduate/scholarships/faqs-on-scholarships)
-
-        *   [Financial Matters](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters)
-
-Back Financial Matters  
-            *   [Tuition Fees](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-fees)
-            *   [Tuition Grants](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/tuition-grants)
-            *   [Miscellaneous Fees](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/miscellaneous-fees)
-            *   [Financial Aid](https://www.ntu.edu.sg/admissions/undergraduate/financial-matters/financial-aid)
-
-        *   [Brochures](https://www.ntu.edu.sg/admissions/undergraduate/brochures)
-        *   [Indicative Grade Profile (IGP)](https://www.ntu.edu.sg/admissions/undergraduate/indicative-grade-profile)
-        *   [For Returning NSmen](https://www.ntu.edu.sg/admissions/undergraduate/rnsmenportal)
-        *   [Contact Us](https://www.ntu.edu.sg/admissions/undergraduate/contact-us)
-        *   [Freshmen Portal](https://www.ntu.edu.sg/admissions/undergraduate/freshmen)
-
+    *   [Undergraduate](https://www.ntu.edu.sg/admissions/ug)
     *   [Graduate](https://www.ntu.edu.sg/admissions/graduate)
 
 Back Graduate  
@@ -146,6 +112,7 @@ Back Graduate
         *   [Graduate Programmes (Coursework)](https://www.ntu.edu.sg/admissions/graduate/coursework)
 
 Back Graduate Programmes (Coursework)  
+            *   [NTU Masters Insight](https://www.ntu.edu.sg/admissions/graduate/coursework/ntu-masters-insight)
             *   [Articles](https://www.ntu.edu.sg/admissions/graduate/coursework/articles)
 
         *   [Joint-Graduate Programmes](https://www.ntu.edu.sg/admissions/graduate/joint-graduate-programmes)
@@ -217,6 +184,7 @@ Back Interdisciplinary Collaborative Core
             *   [In the News](https://www.ntu.edu.sg/education/inspire/interdisciplinary-collaborative-core-(icc)/icc-in-the-news)
             *   [ICC Excellence Awards](https://www.ntu.edu.sg/education/inspire/interdisciplinary-collaborative-core-(icc)/icc---excellence-awards)
             *   [Student Awards](https://www.ntu.edu.sg/education/inspire/interdisciplinary-collaborative-core-(icc)/student-awards)
+            *   [UG Curriculum Structure & the ICC](https://www.ntu.edu.sg/education/inspire/interdisciplinary-collaborative-core-(icc)/ug-curriculum-structure---the-icc)
 
         *   [Experiential & Collaborative Learning (ECL)](https://www.ntu.edu.sg/education/inspire/experiential---collaborative-learning-(ecl))
 
@@ -226,13 +194,14 @@ Back Experiential & Collaborative Learning (ECL)
             *   [Fusing the Curricular & Co-Curricular Spaces](https://www.ntu.edu.sg/education/inspire/experiential---collaborative-learning-(ecl)/fusing-the-curricular---co-curricular-spaces)
             *   [Deeper Experiential Engagement Project (DEEP)](https://www.ntu.edu.sg/education/inspire/experiential---collaborative-learning-(ecl)/deeper-experiential-engagement-project-(deep))
 
-        *   [Office of Education Transformation (OET)](https://www.ntu.edu.sg/education/inspire/office-of-education-transformation)
+        *   [Education Transformation Office (ETO)](https://www.ntu.edu.sg/education/inspire/education-transformation-office)
 
-Back Office of Education Transformation (OET)  
-            *   [OET Key Projects](https://www.ntu.edu.sg/education/inspire/office-of-education-transformation/oet-key-projects)
-            *   [OET Data Infrastructure](https://www.ntu.edu.sg/education/inspire/office-of-education-transformation/oet-data-infrastructure)
-            *   [OET Publications](https://www.ntu.edu.sg/education/inspire/office-of-education-transformation/oet-publications)
-            *   [OET Office](https://www.ntu.edu.sg/education/inspire/office-of-education-transformation/oet-office)
+Back Education Transformation Office (ETO)  
+            *   [ETO Publications](https://www.ntu.edu.sg/education/inspire/education-transformation-office/oet-publications)
+            *   [Our People](https://www.ntu.edu.sg/education/inspire/education-transformation-office/oet-office)
+            *   [Learning Analytics](https://www.ntu.edu.sg/education/inspire/education-transformation-office/oet-learning-analytics)
+            *   [Pedagogical Applications](https://www.ntu.edu.sg/education/inspire/education-transformation-office/oet-pedagogical-applications)
+            *   [What We Do](https://www.ntu.edu.sg/education/inspire/education-transformation-office/what-we-do)
 
         *   [Centre for Teaching, Learning & Pedagogy (CTLP)](https://www.ntu.edu.sg/education/inspire/CTLP)
 
@@ -276,6 +245,8 @@ Back For Employers
 
 Back For Alumni and Mentors  
             *   [Share through Mentorship](https://www.ntu.edu.sg/education/career-guidance-industry-collaborations/for-alumni-and-mentors/mentorship)
+
+        *   [Mentorship](https://www.ntu.edu.sg/education/career-guidance-industry-collaborations/mentorship)
 
     *   [Global Education](https://www.ntu.edu.sg/education/student-exchanges)
 
@@ -483,6 +454,7 @@ Back Services
             *   [NTU Safety & Health Management System (SHMS) Standard for Schools, Departments and Centres](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/services/ntu-safety---health-management-system-(shms)-standard-for-schools--departments-and-centres)
             *   [Culture Safe Insights @ NTU](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/services/culture-safe-insights---ntu)
             *   [Programmes and Services](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/services/programmes-and-services)
+            *   [NTU Safety and Health Training Framework](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/services/safety-and-health-training-framework)
 
         *   [Policies](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/policies)
 
@@ -497,13 +469,14 @@ Back Events
             *   [Safety Events](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/safety-events-ntu/safety-events)
             *   [Collaborations and Visits](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/safety-events-ntu/collaborations-and-visits)
             *   [13th Asian Conference on Safety & Education in Laboratory (ACSEL)](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/safety-events-ntu/13th-asian-conference-on-safety---education-in-laboratory-(acsel))
+            *   [The Singapore WSH Conference 2026](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/safety-events-ntu/the-singapore-wsh-conference-2026)
+            *   [A Practical Guide to Managing Chronic Diseases](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/safety-events-ntu/a-practical-guide-to-managing-chronic-diseases)
 
         *   [Awards and Accolades](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/awards-and-accolades)
         *   [Career Opportunities](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/we-are-hiring)
         *   [Annual NTU Safety & Health Reports](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/annual-report)
         *   [AI-Enabled University Safety & Health Programmes](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/ai-enabled-university-safety---health-programmes)
         *   [NTU Sports Safety Programme](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/ntu-sports-safety-programme)
-        *   [The Singapore WSH Conference 2026](https://www.ntu.edu.sg/life-at-ntu/health-and-safety/the-singapore-wsh-conference-2026)
 
     *   [MRT Construction on Campus](https://www.ntu.edu.sg/life-at-ntu/mrt-construction-on-campus)
 
@@ -537,8 +510,7 @@ Search
 *   [Corporate NTU](https://www.ntu.edu.sg/ "Corporate NTU")
 *   [Page Not Found](https://www.ntu.edu.sg/404)
 
-#### Sorry, the page you are looking for
-
+#### Sorry, the page you are looking for  
 might have been moved, had its name changed or is temporarily unavailable.
 
 Let us guide you back or you can try to search for it under the A-Z directory.
@@ -553,19 +525,13 @@ Let us guide you back or you can try to search for it under the A-Z directory.
 
 [](https://www.ntu.edu.sg/education/graduate-programme/research-scholarship#top)
 
-Nanyang Technological University
-
-50 Nanyang Avenue, Singapore 639798
-
-Tel: [(65) 67911744](tel:+6567911744)National Institute of Education
-
-1 Nanyang Walk, Singapore 637616
-
-Novena Campus
-
-11 Mandalay Road, Singapore 308232
-
-Tel: [(65) 65138572](tel:+6565138572)
+Nanyang Technological University  
+50 Nanyang Avenue, Singapore 639798  
+Tel: [(65) 67911744](tel:+6567911744)National Institute of Education  
+1 Nanyang Walk, Singapore 637616  
+Novena Campus  
+11 Mandalay Road, Singapore 308232  
+Tel: [(65) 65138572](tel:+6565138572)  
 
 #### Quick links
 
@@ -582,6 +548,8 @@ Tel: [(65) 65138572](tel:+6565138572)
 [Student Intranet](https://student-intranet.ntu.edu.sg/)
 
 [Give to NTU](https://www.ntu.edu.sg/giving/home)
+
+  
 
 #### Get in touch
 
@@ -601,6 +569,9 @@ Tel: [(65) 65138572](tel:+6565138572)
 *   [LinkedIn](https://www.linkedin.com/school/ntusg/)
 *   [YouTube](https://www.youtube.com/user/NTUsg)
 *   [TikTok](https://www.tiktok.com/@ntusg)
+
+  
+  
 
 © 2026 Nanyang Technological University
 

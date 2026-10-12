@@ -35,6 +35,7 @@ Search
     *   [Climate Change](https://www.isdb.org/climate-change)
     *   [Investor Relations](https://www.isdb.org/investor-relations)
     *   [Annual Report](https://2025.ar.isdb.org/)
+    *   [Project Information Dashboard](https://data.isdb.org/approvals/2026_Q2)
     *   [Annual Development Effectiveness Report](https://isdb-aders-2025.netlify.app/)
     *   [Corporate Procurement](https://www.isdb.org/corporate-procurement)
     *   [Economic Empowerment](https://www.isdb.org/what-we-do/economic-empowerment)
@@ -71,13 +72,12 @@ Search
 
 ## Popular Searches
 
-*   [Scholarship Programs 2026 – 2027](https://www.isdb.org/scholarships)
 *   [Publications](https://www.isdb.org/publications)
+*   [Scholarship Programs 2026 – 2027](https://www.isdb.org/scholarships)
 *   [Events](https://www.isdb.org/events)
+*   [IsDB Member Countries](https://www.isdb.org/isdb-member-countries)
 *   [Contact](https://www.isdb.org/who-we-are/contact)
 *   [IsDB-ISFD SCHOLARSHIP PROGRAM FOR IsDB LEAST DEVELOPED MEMBER COUNTRIES (LDMCs)](https://www.isdb.org/publications/isdb-isfd-scholarship-program-for-isdb-least-developed-member-countries-ldmcs-0)
-*   [IsDB Member Countries](https://www.isdb.org/isdb-member-countries)
-*   [Investor Relations](https://www.isdb.org/investor-relations)
 *   [Board of Governors](https://www.isdb.org/leadership/board-of-governors)
 
 # Page not found

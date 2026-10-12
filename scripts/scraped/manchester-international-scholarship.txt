@@ -3,6 +3,8 @@ Title: 404 File Not Found | The University of Manchester
 
 URL Source: https://www.manchester.ac.uk/study/international/fees-and-funding/scholarships/
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to navigation](https://www.manchester.ac.uk/study/international/fees-and-funding/scholarships/#navigation)|[Skip to main content](https://www.manchester.ac.uk/study/international/fees-and-funding/scholarships/#content)|[Skip to footer](https://www.manchester.ac.uk/study/international/fees-and-funding/scholarships/#footer)
 
@@ -15,8 +17,6 @@ Markdown Content:
 
 [Undergraduate](https://www.manchester.ac.uk/study/undergraduate/)
 
-    *   [Clearing](https://www.manchester.ac.uk/study/undergraduate/applying/clearing/)
-    *   [Results and Confirmation](https://www.manchester.ac.uk/study/undergraduate/applying/clearing/results-confirmation/)
     *   [Undergraduate Courses](https://www.manchester.ac.uk/study/undergraduate/courses/)
     *   [Prospectus (undergraduate)](https://www.manchester.ac.uk/study/undergraduate/prospectus/)
     *   [Applying (undergraduate)](https://www.manchester.ac.uk/study/undergraduate/applying/)
@@ -133,7 +133,9 @@ Markdown Content:
 
 *   [Collaborate](https://www.manchester.ac.uk/collaborate/)[Business engagement and knowledge exchange](https://www.manchester.ac.uk/collaborate/business-engagement-knowledge-exchange/)
 
-[Innovation Factory](https://www.manchester.ac.uk/collaborate/innovation-factory/) [Policy](https://www.manchester.ac.uk/collaborate/policy/) [Make a donation](https://www.manchester.ac.uk/give/) [Inspiring local communities](https://www.manchester.ac.uk/collaborate/communities/) [Global influence](https://www.manchester.ac.uk/collaborate/global-influence/)   
+[Innovation](https://www.manchester.ac.uk/collaborate/innovation/) [Policy](https://www.manchester.ac.uk/collaborate/policy/)
+
+[Innovation Festival](https://www.manchester.ac.uk/collaborate/innovation-festival/) [Make a donation](https://www.manchester.ac.uk/give/) [Inspiring local communities](https://www.manchester.ac.uk/collaborate/communities/) [Global influence](https://www.manchester.ac.uk/collaborate/global-influence/)   
 *   [About](https://www.manchester.ac.uk/about/)[Our story](https://www.manchester.ac.uk/about/our-story/)
 
 [Strategy to 2035](https://www.manchester.ac.uk/about/manchester-2035/)
@@ -238,8 +240,7 @@ If you believe you have received this message in error, or if there is a problem
 
 #### Your privacy
 
-When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer. 
-
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
 [More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
 
 #### Strictly Necessary Cookies
@@ -286,10 +287,4 @@ Confirm my choices
 
 Allow all
 
-[![Image 18: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)
-
-![Image 21](https://ad.doubleclick.net/ddm/activity/src=10551026;type=invmedia;cat=uom-a000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=1?)
-
-![Image 22](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=71a38e16-c3e7-423c-846b-bd0997fe9240&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=5c0081af-52de-4cb2-b86d-6ae3c2fb39de&pt=404%20File%20Not%20Found%20%7C%20The%20University%20of%20Manchester&tw_document_href=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Finternational%2Ffees-and-funding%2Fscholarships%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784468348569.844704782200047832&txn_id=o45a3&type=javascript&version=2.3.54)![Image 23](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%268%2624%261280%261280%260%26na&eci=3&event=%7B%7D&event_id=71a38e16-c3e7-423c-846b-bd0997fe9240&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=5c0081af-52de-4cb2-b86d-6ae3c2fb39de&pt=404%20File%20Not%20Found%20%7C%20The%20University%20of%20Manchester&tw_document_href=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Finternational%2Ffees-and-funding%2Fscholarships%2F&tw_iframe_status=0&tw_pid_src=1&twpid=tw.1784468348569.844704782200047832&txn_id=o45a3&type=javascript&version=2.3.54)
-
-![Image 24](https://bat.bing.com/action/0?ti=17173579&Ver=2&mid=e41db55b-5a2c-43cc-9659-9b35b9ee27f9&bo=1&sid=37f5e460837711f19a8b598f5d8adfb8&vid=37f606e0837711f186029b3360f33d4d&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%20File%20Not%20Found%20%7C%20The%20University%20of%20Manchester&p=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Finternational%2Ffees-and-funding%2Fscholarships%2F&r=&lt=2421&evt=pageLoad&sv=2&cdb=AQER&rn=248557)
+[![Image 18: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)

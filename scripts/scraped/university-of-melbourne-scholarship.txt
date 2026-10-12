@@ -33,8 +33,7 @@ We're sorry, but we can't find the information you are looking for.
 
 We've captured some technical details.
 
-You came from: https://study.unimelb.edu.au/find/scholarships/
-
+You came from: https://study.unimelb.edu.au/find/scholarships/  
 You asked for: https://study.unimelb.edu.au/scholarships
 
 Optional details
@@ -43,15 +42,12 @@ Email. _If you'd like a reply, we'll need your email address_:
 
 Comments. _Anything else you'd like to tell us?_: 
 
-How can we help?
+### How can we help?
 
-[Find a course](https://study.unimelb.edu.au/find?in_c=hcta)
-
-[How to apply](https://study.unimelb.edu.au/how-to-apply?in_c=hcta)
-
-[Support centre](https://study.unimelb.edu.au/support?in_c=hcta)
-
-[Contact us](https://study.unimelb.edu.au/support/contact?in_c=hcta)
+*   [Find a course](https://study.unimelb.edu.au/find?in_c=hcta)
+*   [How to apply](https://study.unimelb.edu.au/how-to-apply?in_c=hcta)
+*   [Support centre](https://study.unimelb.edu.au/support?in_c=hcta)
+*   [Contact us](https://study.unimelb.edu.au/support/contact?in_c=hcta)
 
 ### Acknowledgement of Country
 
@@ -72,13 +68,10 @@ Phone[13 MELB (13 6352)](tel:136352)
 
 International[+61 3 9035 5511](tel:+61390355511)
 
-Address The University of Melbourne 
-
- Grattan Street, Parkville 
-
- Victoria 3010 
-
- Australia 
+Address The University of Melbourne  
+Grattan Street, Parkville  
+Victoria 3010  
+Australia
 
 ### Connect with us
 
@@ -88,7 +81,7 @@ Address The University of Melbourne
 *   [Visit University of Melbourne on WeChat](https://www.unimelb.edu.au/alumni/support-resources/contact-us/wechat "WeChat")
 *   [Visit University of Melbourne on TikTok](https://www.tiktok.com/@unimelb "TikTok")
 
-![Image 1: The University of Melbourne logo](blob:http://localhost/e231ab8b68bdb3c39dae3f519a5e73d3)
+![Image 1: The University of Melbourne logo](https://d2glwx35mhbfwf.cloudfront.net/v17.11.0/images/logo.svg)
 
 *   [Emergency](https://safety.unimelb.edu.au/emergency)
 *   [Terms and privacy](https://www.unimelb.edu.au/legal)
@@ -101,6 +94,6 @@ CRICOS: **00116K**
 
 ABN: **84 002 705 224**
 
-This site uses and shares cookies and similar technologies to personalise your experience, advertise to you where you have opted in and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. [Visit our Privacy Statement](https://www.unimelb.edu.au/disclaimer/online-privacy) for further information.
+This site uses and shares cookies and similar technologies to personalise your experience, advertise to you where you have opted in and provide content from third-parties as well as analyse our usage. You consent to our use of such technologies by proceeding. You can change your mind or consent choices at any time. Visit our [Privacy Statement](https://www.unimelb.edu.au/disclaimer/online-privacy) for further information.
 
- Accept cookies Cookie preferences
+Accept cookies Cookie preferences

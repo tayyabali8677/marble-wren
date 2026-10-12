@@ -32,6 +32,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -214,6 +215,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -455,33 +457,33 @@ Suchen
 Melde Dich kostenlos an, um alle Stipendien zu sehen
 Los gehts
 Neue Stipendienprogramme
-Gustav Riedner – Karl Weißmann - Stipendienstiftung
+Promotionsstellen und -stipendien an den Auslandsinstituten
+Max Weber Stiftung
+k.A.
+Die Promotionsstipendien der Max Weber Stiftung
+Die Max Weber Stiftung (MWS) vergibt über ihre zehn geisteswissenschaftlichen Forschungsinstitute im Ausland jährlich rund 110 Stipendien an Doktoranden und Postdocs. Einzelne Institute fördern auch Master-Studenten. Je nach Institut und... Mehr erfahren >
+Förderpreis des Unternehmens WTM Engineers
+WTM Engineers
+2.000 €
+einmalig
+Der Förderpreis des Unternehmens WTM Engineers
+Die WTM Engineers GmbH (WTM Engineers), ein Hamburger Ingenieurunternehmen im Bauwesen, zeichnet jedes Jahr die beste Masterarbeit im Studiengang Bauingenieurwesen an der HafenCity Universität Hamburg (HCU) aus. Für die ausgezeichnete Arbeit bekommst... Mehr erfahren >
+Stiftung Lompa – Stipendien und Ausbildungsbeihilfen
+Stiftungsverwaltung der Stadt Nürnberg
+k.A.
+Das Stipendium der Stiftung Lompa
+Die Stiftung Lompa gibt Dir einen Zuschuss zu Deiner Schulausbildung oder Deinem Studium. Sie fördert Schüler und Studenten aus Nürnberg, deren Familien wenig Geld haben oder deren Eltern mit Schule und Ausbildung wenig vertraut sind. Das Stipendium läuft jeweils... Mehr erfahren >
+Andreas-Winterbauer-Stiftung
 Stadt Nürnberg
 k.A.
-Das Stipendium der Gustav Riedner – Karl Weißmann-Stipendienstiftung
-Die Gustav Riedner – Karl Weißmann-Stipendienstiftung unterstützt leistungsstarke Schüler des Willstätter-Gymnasiums Nürnberg beim Studium. Sie fördert maximal vier Schüler pro Kalenderjahr. Die Stadt Nürnberg verwaltet die... Mehr erfahren >
-Dr. Stefan Thürmer-Stiftung – Studentenhilfe im Bereich der Medizinischen Fakultät
-Dr. Stefan Thürmer-Stiftung
-k.A.
-Das Stipendium der Dr. Stefan Thürmer-Stiftung
-Die Dr. Stefan Thürmer-Stiftung bietet Studenten und Angehörigen der Medizinischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) günstigen Wohnraum. Dafür kauft sie Immobilien in Erlangen und Nürnberg. Ein klassisches monatliches... Mehr erfahren >
-Projektförderung Wirtschafts- und Sozialgeschichte
-Stiftung Bildung und Wissenschaft
-1.500 €
-36 Monate
-Die Projektförderung Wirtschafts- und Sozialgeschichte
-Mit der Projektförderung der Stiftung Bildung und Wissenschaft (im Stifterverband für die Deutsche Wissenschaft) finanziert ein Universitätsinstitut ein Forschungsprojekt, in dem zwei Doktoranden ihre Dissertation schreiben. Jeder bekommt 1.500... Mehr erfahren >
-Dr. Oskar Dünisch-Stiftung – Stipendien für Studierende in der Röntgendiagnostik
-Dr. Oskar Dünisch-Stiftung
-k.A.
-Das Stipendium der Dr. Oskar Dünisch-Stiftung
-Die Dr. Oskar Dünisch-Stiftung unterstützt Studenten und Wissenschaftler der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), die für einen Austausch an eine Universität in Nordamerika oder Kanada gehen wollen. Außerdem vergibt sie Stipendien an... Mehr erfahren >
-PJ-Stipendien im Ausland
-Uni Kiel
-k.A.
-4 Monate
-Die PJ-Stipendien im Ausland der Uni Kiel
-Die Medizinische Fakultät der Christian-Albrechts-Universität zu Kiel (CAU) unterstützt Dich, wenn Du ein Tertial Deines Praktischen Jahres (PJ) im Ausland absolvieren willst. Du bekommst maximal 300 € pro Monat für bis zu 4 Monate, also ein volles PJ-... Mehr erfahren >
+Das Stipendium der Andreas-Winterbauer-Stiftung
+Die Andreas-Winterbauer-Stiftung der Stadt Nürnberg unterstützt evangelisch-lutherische Schüler und Studenten aus Nürnberg, die wenig Geld zur Verfügung haben. Sie wird von der Stiftungsverwaltung der Stadt betreut. Die städtischen Stiftungen vergeben... Mehr erfahren >
+Studienstipendien - Masterstudium für alle wissenschaftlichen Fächer
+DAAD Deutscher Akademischer Austauschdienst
+992 €
+24 Monate
+Das Studienstipendium für ein Masterstudium des DAAD
+Der Deutsche Akademische Austauschdienst (DAAD) finanziert mit Mitteln des Auswärtigen Amts Hochschulabsolventen aus dem Ausland ein weiterführendes Studium in Deutschland. Du bekommst 992 € monatlich, eine jährliche Studienpauschale von 460 €... Mehr erfahren >
 Bereits registriert?
 Anmelden
 Tipps für Deine Stipendiensuche
@@ -961,6 +963,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -1143,6 +1146,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -1384,33 +1388,33 @@ Suchen
 Melde Dich kostenlos an, um alle Stipendien zu sehen
 Los gehts
 Neue Stipendienprogramme
-Gustav Riedner – Karl Weißmann - Stipendienstiftung
+Promotionsstellen und -stipendien an den Auslandsinstituten
+Max Weber Stiftung
+k.A.
+Die Promotionsstipendien der Max Weber Stiftung
+Die Max Weber Stiftung (MWS) vergibt über ihre zehn geisteswissenschaftlichen Forschungsinstitute im Ausland jährlich rund 110 Stipendien an Doktoranden und Postdocs. Einzelne Institute fördern auch Master-Studenten. Je nach Institut und... Mehr erfahren >
+Förderpreis des Unternehmens WTM Engineers
+WTM Engineers
+2.000 €
+einmalig
+Der Förderpreis des Unternehmens WTM Engineers
+Die WTM Engineers GmbH (WTM Engineers), ein Hamburger Ingenieurunternehmen im Bauwesen, zeichnet jedes Jahr die beste Masterarbeit im Studiengang Bauingenieurwesen an der HafenCity Universität Hamburg (HCU) aus. Für die ausgezeichnete Arbeit bekommst... Mehr erfahren >
+Stiftung Lompa – Stipendien und Ausbildungsbeihilfen
+Stiftungsverwaltung der Stadt Nürnberg
+k.A.
+Das Stipendium der Stiftung Lompa
+Die Stiftung Lompa gibt Dir einen Zuschuss zu Deiner Schulausbildung oder Deinem Studium. Sie fördert Schüler und Studenten aus Nürnberg, deren Familien wenig Geld haben oder deren Eltern mit Schule und Ausbildung wenig vertraut sind. Das Stipendium läuft jeweils... Mehr erfahren >
+Andreas-Winterbauer-Stiftung
 Stadt Nürnberg
 k.A.
-Das Stipendium der Gustav Riedner – Karl Weißmann-Stipendienstiftung
-Die Gustav Riedner – Karl Weißmann-Stipendienstiftung unterstützt leistungsstarke Schüler des Willstätter-Gymnasiums Nürnberg beim Studium. Sie fördert maximal vier Schüler pro Kalenderjahr. Die Stadt Nürnberg verwaltet die... Mehr erfahren >
-Dr. Stefan Thürmer-Stiftung – Studentenhilfe im Bereich der Medizinischen Fakultät
-Dr. Stefan Thürmer-Stiftung
-k.A.
-Das Stipendium der Dr. Stefan Thürmer-Stiftung
-Die Dr. Stefan Thürmer-Stiftung bietet Studenten und Angehörigen der Medizinischen Fakultät der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) günstigen Wohnraum. Dafür kauft sie Immobilien in Erlangen und Nürnberg. Ein klassisches monatliches... Mehr erfahren >
-Projektförderung Wirtschafts- und Sozialgeschichte
-Stiftung Bildung und Wissenschaft
-1.500 €
-36 Monate
-Die Projektförderung Wirtschafts- und Sozialgeschichte
-Mit der Projektförderung der Stiftung Bildung und Wissenschaft (im Stifterverband für die Deutsche Wissenschaft) finanziert ein Universitätsinstitut ein Forschungsprojekt, in dem zwei Doktoranden ihre Dissertation schreiben. Jeder bekommt 1.500... Mehr erfahren >
-Dr. Oskar Dünisch-Stiftung – Stipendien für Studierende in der Röntgendiagnostik
-Dr. Oskar Dünisch-Stiftung
-k.A.
-Das Stipendium der Dr. Oskar Dünisch-Stiftung
-Die Dr. Oskar Dünisch-Stiftung unterstützt Studenten und Wissenschaftler der Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), die für einen Austausch an eine Universität in Nordamerika oder Kanada gehen wollen. Außerdem vergibt sie Stipendien an... Mehr erfahren >
-PJ-Stipendien im Ausland
-Uni Kiel
-k.A.
-4 Monate
-Die PJ-Stipendien im Ausland der Uni Kiel
-Die Medizinische Fakultät der Christian-Albrechts-Universität zu Kiel (CAU) unterstützt Dich, wenn Du ein Tertial Deines Praktischen Jahres (PJ) im Ausland absolvieren willst. Du bekommst maximal 300 € pro Monat für bis zu 4 Monate, also ein volles PJ-... Mehr erfahren >
+Das Stipendium der Andreas-Winterbauer-Stiftung
+Die Andreas-Winterbauer-Stiftung der Stadt Nürnberg unterstützt evangelisch-lutherische Schüler und Studenten aus Nürnberg, die wenig Geld zur Verfügung haben. Sie wird von der Stiftungsverwaltung der Stadt betreut. Die städtischen Stiftungen vergeben... Mehr erfahren >
+Studienstipendien - Masterstudium für alle wissenschaftlichen Fächer
+DAAD Deutscher Akademischer Austauschdienst
+992 €
+24 Monate
+Das Studienstipendium für ein Masterstudium des DAAD
+Der Deutsche Akademische Austauschdienst (DAAD) finanziert mit Mitteln des Auswärtigen Amts Hochschulabsolventen aus dem Ausland ein weiterführendes Studium in Deutschland. Du bekommst 992 € monatlich, eine jährliche Studienpauschale von 460 €... Mehr erfahren >
 Bereits registriert?
 Anmelden
 Tipps für Deine Stipendiensuche
@@ -1878,6 +1882,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -2060,6 +2065,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -2267,9 +2273,9 @@ Mit einem Fulbright-Stipendium in die USA
 Weiterlesen >
 Konrad-Adenauer-Stiftung: Das Stipendium
 Weiterlesen >
-Stipendien: steuerfrei ist die Regel
-Weiterlesen >
 Das Deutschlandstipendium:...
+Weiterlesen >
+Stipendien: steuerfrei ist die Regel
 Weiterlesen >
 Mit Umfragen Geld verdienen
 7 €
@@ -2311,6 +2317,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -2493,6 +2500,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -2731,6 +2739,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -2913,6 +2922,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -3193,6 +3203,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -3375,6 +3386,7 @@ Bewerbungsgespräch
 Stipendien-Tipps
 Irrtümer
 Wie Du ein Stipendium erhältst
+Schülerstipendien
 Ungewöhnliche Stipendien
 Master-Stipendien
 Medizin-Stipendien
@@ -3716,17 +3728,17 @@ da hast Du recht, wenn der Adressat nicht bekannt ist, kannst Du die allgemeine 
 Viele Grüße,
 myStipendium
 Zum Verfassen von Kommentaren bitte Anmelden oder Registrieren .
-Die Edmund Rehwinkel Stiftung
+Die 10 schlimmsten Fehler im...
 Weiterlesen >
 Das richtige Outfit für das...
 Weiterlesen >
-Hartmut und Lore Schuler Stiftung
+Die Präsentation
+Weiterlesen >
+Das Bewerbungsgespräch – Tipps
 Weiterlesen >
 Ausführlicher Lebenslauf
 Weiterlesen >
-Bewerbungsgespräch - Fragen und Antworten
-Weiterlesen >
-Bewerbungsgespräch – Vorbereitung
+Hartmut und Lore Schuler Stiftung
 Weiterlesen >
 Suchformular
 Suche

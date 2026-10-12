@@ -9,15 +9,15 @@ Markdown Content:
 [![Image 1: University of Cape Town logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
 
 *   [University of Cape Town](https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-awards#)
-    *   [Home](https://uct.ac.za/)
-    *   [About us](https://uct.ac.za/students/prospective-students-welcome/welcome-uct)
+    *   [Home](https://uct.ac.za/uct-main-home-page)
+    *   [About us](https://uct.ac.za/welcome-uct)
     *   [Study at UCT](https://uct.ac.za/applicants-and-students)
     *   [Campus life](https://uct.ac.za/campus-life)
     *   [Research & innovation](https://uct.ac.za/research-innovation/research-innovation-overview)
     *   [Internationalisation](https://uct.ac.za/international-uct)
     *   [Vision 2030](https://uct.ac.za/transformation/vision-2030)
     *   [News & media](https://uct.ac.za/news-and-media)
-    *   [Contacts & maps](https://uct.ac.za/students/general-contacts)
+    *   [Contacts & maps](https://uct.ac.za/general-contacts)
     *   [Donate to UCT](https://alumni.uct.ac.za/fundraising/fundraising-initiatives "Donate to UCT")
 
 ×
@@ -91,7 +91,7 @@ Markdown Content:
         *   [Graduate School of Business](https://uct.ac.za/students/study-uct-degrees-diplomas-graduate-school-business/graduate-school-business-postgraduate)
             *   [Graduate School of Business: postgraduate](https://uct.ac.za/students/study-uct-degrees-diplomas-graduate-school-business/graduate-school-business-postgraduate)
 
-        *   [Short courses & lifelong learning](https://uct.ac.za/students/study-uct-short-courses/continuing-education)
+        *   [Short courses & lifelong learning](https://uct.ac.za/short-courses-lifelong-learning)
 
     *   [UCT entrepreneurship ecosystem](https://uct.ac.za/students/empower-future)
         *   [Empower the future](https://uct.ac.za/students/empower-future)
@@ -124,9 +124,9 @@ Markdown Content:
         *   [RAG](https://uct.ac.za/students/student-life-community-service/rag)
 
     *   [Societies](https://uct.ac.za/students/student-life/societies)
-    *   [Sport & fitness](https://uct.ac.za/students/student-life-sports-fitness/sport)
+    *   [Sport and Fitness](https://uct.ac.za/students/student-life-sports-fitness/sport)
         *   [Sport](https://uct.ac.za/students/student-life-sports-fitness/sport)
-        *   [UCT Gym](https://uct.ac.za/students/student-life-sports-fitness/uct-gym)
+        *   [Gym](https://uct.ac.za/students/student-life-sports-fitness/uct-gym)
         *   [Sports Science Institute of South Africa](https://uct.ac.za/students/student-life-sports-fitness/sports-science-institute-south-africa)
 
     *   [UCT Radio](https://uct.ac.za/students/student-life/uct-radio)
@@ -347,11 +347,10 @@ Markdown Content:
 
 ## Page not found
 
-We could not find the page or document you were looking for. 
-
+We could not find the page or document you were looking for.   
 This could be because it was deleted or because its URL has changed.
 
-*   [Peoplesoft](https://studentsonline.uct.ac.za/psp/students/?cmd=login&languageCd=ENG)
+*   [Peoplesoft](https://studentsonline.uct.ac.za/psp/students/?cmd=login&languageCd=ENG&)
 *   [Amathuba](https://amathuba.uct.ac.za/ "Amathuba")
 *   [ServiceNow](https://uct.service-now.com/sp)
 *   [Password self-service](https://password.uct.ac.za/)
@@ -364,12 +363,9 @@ This could be because it was deleted or because its URL has changed.
 
 [![Image 2: University of Cape Town logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
 
-University of Cape Town,
-
-Private Bag X3,
-
-Rondebosch 7701,
-
+University of Cape Town,  
+Private Bag X3,  
+Rondebosch 7701,  
 South Africa
 
 +27(0)21 650 9111

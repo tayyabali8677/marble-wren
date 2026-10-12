@@ -1568,8 +1568,6 @@ Clear Show all 152 results
 Funding
 Scholarships
 Law
-Filter ( 0 )
-Reset
 The Professor Brenda Barrett Bursaries
 Middlesex University
 Award criteria:
@@ -1579,12 +1577,6 @@ Funding amount:
 Deadline:
 Not specified
 Request info Visit website
-Scholarship FAQs
-What is a scholarship?
-Where do scholarships come from?
-What are scholarships awarded for?
-Can you have multiple scholarships?
-Do you have to pay scholarships back?
 Rice-Jones Charitable Trust Postgraduate Law Scholarship
 University of Lancashire
 Award criteria:
@@ -1635,5 +1627,13 @@ Request info Visit website
 5
 ...
 26
+Scholarship FAQs
+Filter ( 0 )
+Reset
+What is a scholarship?
+Where do scholarships come from?
+What are scholarships awarded for?
+Can you have multiple scholarships?
+Do you have to pay scholarships back?
 Postgraduate Law Scholarships
 Here are 152 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.

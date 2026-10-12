@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -559,6 +559,7 @@ Planning your legacy
 Item 1
 of
 1
+Delft University Fund
 Giving to TU Delft is an investment in the future
 The challenges of today demand solutions for tomorrow. How do we tackle climate change? How do we ensure a future powered by clean energy? How do we keep our digital world secure? The answers to these questions start with technological innovation, and TU Delft is at the forefront of these developments worldwide.
 The Delft University Fund supports TU Delft by contributing to research, education, talent development, and entrepreneurship. With donations from alumni, students, foundations, and companies, we do everything we can to help talented students and researchers achieve their ambitions and make a societal impact.
@@ -567,6 +568,8 @@ By contributing to the Delft University Fund, you are investing in groundbreakin
 Telemarketing campaign on Leaving a Legacy in October
 Throughout October, we are highlighting the importance of leaving a legacy through a telemarketing campaign. To find out more, please visit the Planning your Legacy page for additional information.
 News
+In Memoriam: Ing. Maarten de Groot
+Read more
 In Memoriam: Dr. Ir. Koos Visser
 Read more
 The nano-brain: a bold idea in the fight against brain diseases
@@ -987,7 +990,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations
@@ -1256,7 +1259,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu openen
+Menu sluiten
 Find employees
 Contact
 Locations

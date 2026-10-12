@@ -1,0 +1,15 @@
+===== SOURCE PAGE: https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/ajuts_beques.html =====
+Title: Just a moment...
+
+URL Source: https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/ajuts_beques.html
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Content:
+![Image 1: Icon for web.ub.edu](https://web.ub.edu/favicon.ico)
+
+## web.ub.edu
+
+## Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

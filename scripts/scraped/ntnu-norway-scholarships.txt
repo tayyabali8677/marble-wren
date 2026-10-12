@@ -1,0 +1,27 @@
+===== SOURCE PAGE: https://www.ntnu.edu/studies/scholarships =====
+Title: 404 - NTNU
+
+URL Source: https://www.ntnu.edu/studies/scholarships
+
+Warning: Target URL returned error 404: 404
+
+Markdown Content:
+404
+
+## Oops, something went wrong...
+
+The page you are looking for does not exist on the website.
+
+This may be because
+
+*   the page you came from is not updated
+*   the page has been moved or deleted
+*   the address or link is misspelled
+
+Feel free to try our search function or go to the [homepage](https://www.ntnu.edu/).
+
+Search 
+## Report problem
+
+*    External: contact us at e-mail [kontakt@komm.ntnu.no](mailto:kontakt@komm.ntnu.no)
+*    Students and employees: [Submit via NTNU Help](https://hjelp.ntnu.no/tas/public/ssp/content/detail/service?unid=5dbddf623a714a63affb43233f9622d1&from=4a99ac78-1533-4d9b-8aad-23fe124d30de)

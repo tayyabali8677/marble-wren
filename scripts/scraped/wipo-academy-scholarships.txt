@@ -508,7 +508,7 @@ Data Protection in Mobile Apps
 This guide explains app developers their data protection obligations, how to comply with them, and how they may occasionally conflict with their IP rights. [ PDF
 ]
 Protecting mobile apps in specific industries
-Every mobile app uses some type of IP. However, depending on the functionality and the sector in which the app operates, the intellectual property-related challenges and opportunities for app developers may change. Use this section to learn how intellectual property relates to mobile apps in specific business sectors and answer questions like:
+p>What is it that makes a company competitive? It may be a particular way of doing business, the type of customers, the customer preferences that it caters to, the suppliers, the pricing systems, discount systems, plans and strategies, research data – all information that allows a business to compete more effectively, and if your IP assets are exploited by competitors, this advantage would be lost.
 What IP rights should be considered when developing a music mobile app?
 What business models are there for monetizing video games apps?
 How do reading apps relate to copyright? Etc.
@@ -535,6 +535,7 @@ This tool reviews the landscape of digital publishing and the impact of new tech
 Download the tool
 IMAGE: GILAXIA / E+
 The role of IPR in Mobile Apps’ Development and Commercialization
+Are you providing training on plant variety protection? Join the UPOV PVP Certificate program!
 This module explains how intellectual property rights (IPRs) might be used or acquired during each of the life-cycle phases. It follows a hypothetical free-to-play gaming app, one of the most popular categories of mobile app.
 Download the module
 IMAGE: ILKERCELIK - ISTOCK / GETTY IMAGES PLUS
@@ -615,6 +616,7 @@ Access WIPO CDIP Forum
 IMAGE: MONSTARRR_ - ISTOCK / GETTY IMAGES PLUS
 Scoping Study on the Availability and IP Tools for Mobile Applications
 The scoping study identifies IP protection mechanisms for mobile apps in three beneficiary countries: Kenya, Trinidad and Tobago, and the Philippines.
+Since the 1991 Act and 1978 Act do not specifically address or define subsistence farmers it is necessary to consult the legislation of each UPOV Contracting Party for the answer to this question specific to that UPOV member.
 Download the scoping study
 Hidden
 https://www.wipo.int/contact/en/

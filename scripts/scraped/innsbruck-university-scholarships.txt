@@ -1,0 +1,19 @@
+===== SOURCE PAGE: https://www.uibk.ac.at/en/international/scholarships/ =====
+Title: Es tut uns leid. Wir können die Seite, die Sie suchen, nicht finden. Die Seite wurde vielleicht verschoben oder existiert nicht mehr.
+
+URL Source: https://www.uibk.ac.at/en/international/scholarships/
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+![Image 1](blob:http://localhost/c0cdbcbe73474c92b71ffcab808d454c)
+
+## Möchten Sie …
+
+### □die Startseite der [Universität Innsbruck](https://www.uibk.ac.at/) besuchen?
+
+### □sich rund ums [Studium](https://www.uibk.ac.at/studium/) informieren?
+
+### □einen Überblick über unsere [Forschung](https://www.uibk.ac.at/forschung/)?
+
+### □mehr [über uns](https://www.uibk.ac.at/universitaet/) erfahren?

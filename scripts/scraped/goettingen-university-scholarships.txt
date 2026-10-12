@@ -1,0 +1,38 @@
+===== SOURCE PAGE: https://www.uni-goettingen.de/en/scholarships+and+financial+support/84697.html =====
+Title: 404 Not Found – 🙈
+
+URL Source: https://www.uni-goettingen.de/en/scholarships+and+financial+support/84697.html
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+[![Image 1: Georg-August-Universität Göttingen](https://www.uni-goettingen.de/img/redesign/logo.svg)](https://www.uni-goettingen.de/)In publica commoda
+
+# 404 Not Found – 🙈
+
+Die angeforderte Seite/Datei konnte nicht gefunden werden.
+
+### Kontakt
+
+ Georg-August-Universität Göttingen  
+ Wilhelmsplatz 1  
+ 37073 Göttingen  
+ Tel. +49 551 39-0 
+
+### Online-Dienste
+
+*   [Vorlesungsverzeichnis und Personensuche (UniVZ)](https://univz-archiv.uni-goettingen.de/)
+*   [Prüfungsverwaltung (FlexNow)](https://www.uni-goettingen.de/de/45574.html)
+*   [Lernmanagement (Stud.IP)](https://studip.uni-goettingen.de/)
+*   [Studierendenportal (eCampus)](https://ecampus.uni-goettingen.de/)
+*   [Mitarbeiterinnen- und Mitarbeiterportal (MaP)](https://intern.uni-goettingen.de/)
+*   [Stellenausschreibungen](https://www.uni-goettingen.de/de/305223.html)
+*   [Stellenwerk Göttingen](https://www.stellenwerk-goettingen.de/)
+
+### Service
+
+1.   [Datenschutz](https://www.uni-goettingen.de/de/439479.html)
+2.   [Kontakt](https://www.uni-goettingen.de/de/545353.html)
+3.   [Notfall](https://www.uni-goettingen.de/de/100652.html)
+4.   [Lageplan](http://www.geodata.uni-goettingen.de/lageplan/)
+5.   [Impressum](https://www.uni-goettingen.de/de/105.html)

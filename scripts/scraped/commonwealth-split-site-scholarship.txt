@@ -6,20 +6,14 @@ URL Source: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-schol
 Markdown Content:
 [Skip to content](https://cscuk.fcdo.gov.uk/scholarships/commonwealth-split-site-scholarships/#main-content)
 
-[![Image 2: Commonwealth Scholarship Commission in the UK](https://cscuk.fcdo.gov.uk/wp-content/uploads/2020/03/Cscuk-Full-Logo-01.png)](https://cscuk.fcdo.gov.uk/)
+[![Image 2: Commonwealth Scholarship Commission in the UK](https://cscuk.fcdo.gov.uk/wp-content/uploads/2026/09/Cscuk-Logo.png)](https://cscuk.fcdo.gov.uk/)
 
-*   [About us](https://cscuk.fcdo.gov.uk/about-us/)
-    *   [Scholarships and Fellowships](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
-    *   [Development Themes](https://cscuk.fcdo.gov.uk/csc-development-themes/)
-    *   [Evaluation and Monitoring](https://cscuk.fcdo.gov.uk/csc-evaluation/)
-    *   [Time Limited Programmes](https://cscuk.fcdo.gov.uk/csc-time-limited-programmes/)
-    *   [Strategy 2025-28](https://cscuk.fcdo.gov.uk/wp-content/uploads/2025/04/CSC_Strategy_25_28.pdf)
-
-*   [Current Scholars & Fellows](https://cscuk.fcdo.gov.uk/current-scholars/)
-    *   [Regional Networks](https://cscuk.fcdo.gov.uk/networks/regional-networks/)
-    *   [Student Wellbeing](https://cscuk.fcdo.gov.uk/student-wellbeing/)
+*   [Scholarships and Fellowships](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
+*   [Current Scholars](https://cscuk.fcdo.gov.uk/current-scholars/)
+    *   [Regional networks](https://cscuk.fcdo.gov.uk/networks/regional-networks/)
+    *   [Student wellbeing](https://cscuk.fcdo.gov.uk/student-wellbeing/)
     *   [Programme Officers](https://cscuk.fcdo.gov.uk/meet-your-programme-officers/)
-    *   [Handbook, Policies and Forms](https://cscuk.fcdo.gov.uk/current-scholars/handbook-policies-forms/)
+    *   [Handbook, policies and forms](https://cscuk.fcdo.gov.uk/current-scholars/handbook-policies-forms/)
 
 *   [Alumni](https://cscuk.fcdo.gov.uk/alumni/)
     *   [Personal and professional resources](https://cscuk.fcdo.gov.uk/alumni-resources/)
@@ -32,30 +26,30 @@ Markdown Content:
     *   [Alumni Community Engagement Fund](https://cscuk.fcdo.gov.uk/alumni/acef/)
     *   [Update your details](https://cscuk.fcdo.gov.uk/alumni/update-your-details/)
 
-*   [News](https://cscuk.fcdo.gov.uk/news/)
-*   [Events](https://cscuk.fcdo.gov.uk/events/)
+*   [About us](https://cscuk.fcdo.gov.uk/about-us/)
+    *   [News](https://cscuk.fcdo.gov.uk/news/)
+    *   [Events](https://cscuk.fcdo.gov.uk/events/)
+    *   [Development Themes](https://cscuk.fcdo.gov.uk/csc-development-themes/)
+    *   [Evaluation and monitoring](https://cscuk.fcdo.gov.uk/csc-evaluation/)
+    *   [Time Limited Programmes](https://cscuk.fcdo.gov.uk/csc-time-limited-programmes/)
+    *   [Strategy 2025-28](https://cscuk.fcdo.gov.uk/wp-content/uploads/2025/04/CSC_Strategy_25_28.pdf)
+
 *   [Partners](https://cscuk.fcdo.gov.uk/apply/uk-universities/)
-    *   [UK Universities](https://cscuk.fcdo.gov.uk/uk-universities/)
+    *   [UK universities](https://cscuk.fcdo.gov.uk/uk-universities/)
     *   [National nominating agencies](https://cscuk.fcdo.gov.uk/national-nominating-agencies/)
-    *   [NGOs and Charitable Bodies](https://cscuk.fcdo.gov.uk/ngos/)
-    *   [Professional Fellowship Host Organisations](https://cscuk.fcdo.gov.uk/host-organisations/)
+    *   [NGOs and charitable bodies](https://cscuk.fcdo.gov.uk/ngos/)
+    *   [Fellowship host organisations](https://cscuk.fcdo.gov.uk/host-organisations/)
     *   [Academic Advisers](https://cscuk.fcdo.gov.uk/academic-advisers/)
 
-*   [Apply](https://cscuk.fcdo.gov.uk/scholarships-filter-search/)
+*   [Find a scholarship](https://cscuk.fcdo.gov.uk/scholarships-filter-search/)
 
 Select Page
-*   [About us](https://cscuk.fcdo.gov.uk/about-us/)
-    *   [Scholarships and Fellowships](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
-    *   [Development Themes](https://cscuk.fcdo.gov.uk/csc-development-themes/)
-    *   [Evaluation and Monitoring](https://cscuk.fcdo.gov.uk/csc-evaluation/)
-    *   [Time Limited Programmes](https://cscuk.fcdo.gov.uk/csc-time-limited-programmes/)
-    *   [Strategy 2025-28](https://cscuk.fcdo.gov.uk/wp-content/uploads/2025/04/CSC_Strategy_25_28.pdf)
-
-*   [Current Scholars & Fellows](https://cscuk.fcdo.gov.uk/current-scholars/)
-    *   [Regional Networks](https://cscuk.fcdo.gov.uk/networks/regional-networks/)
-    *   [Student Wellbeing](https://cscuk.fcdo.gov.uk/student-wellbeing/)
+*   [Scholarships and Fellowships](https://cscuk.fcdo.gov.uk/about-us/scholarships-and-fellowships/)
+*   [Current Scholars](https://cscuk.fcdo.gov.uk/current-scholars/)
+    *   [Regional networks](https://cscuk.fcdo.gov.uk/networks/regional-networks/)
+    *   [Student wellbeing](https://cscuk.fcdo.gov.uk/student-wellbeing/)
     *   [Programme Officers](https://cscuk.fcdo.gov.uk/meet-your-programme-officers/)
-    *   [Handbook, Policies and Forms](https://cscuk.fcdo.gov.uk/current-scholars/handbook-policies-forms/)
+    *   [Handbook, policies and forms](https://cscuk.fcdo.gov.uk/current-scholars/handbook-policies-forms/)
 
 *   [Alumni](https://cscuk.fcdo.gov.uk/alumni/)
     *   [Personal and professional resources](https://cscuk.fcdo.gov.uk/alumni-resources/)
@@ -68,16 +62,22 @@ Select Page
     *   [Alumni Community Engagement Fund](https://cscuk.fcdo.gov.uk/alumni/acef/)
     *   [Update your details](https://cscuk.fcdo.gov.uk/alumni/update-your-details/)
 
-*   [News](https://cscuk.fcdo.gov.uk/news/)
-*   [Events](https://cscuk.fcdo.gov.uk/events/)
+*   [About us](https://cscuk.fcdo.gov.uk/about-us/)
+    *   [News](https://cscuk.fcdo.gov.uk/news/)
+    *   [Events](https://cscuk.fcdo.gov.uk/events/)
+    *   [Development Themes](https://cscuk.fcdo.gov.uk/csc-development-themes/)
+    *   [Evaluation and monitoring](https://cscuk.fcdo.gov.uk/csc-evaluation/)
+    *   [Time Limited Programmes](https://cscuk.fcdo.gov.uk/csc-time-limited-programmes/)
+    *   [Strategy 2025-28](https://cscuk.fcdo.gov.uk/wp-content/uploads/2025/04/CSC_Strategy_25_28.pdf)
+
 *   [Partners](https://cscuk.fcdo.gov.uk/apply/uk-universities/)
-    *   [UK Universities](https://cscuk.fcdo.gov.uk/uk-universities/)
+    *   [UK universities](https://cscuk.fcdo.gov.uk/uk-universities/)
     *   [National nominating agencies](https://cscuk.fcdo.gov.uk/national-nominating-agencies/)
-    *   [NGOs and Charitable Bodies](https://cscuk.fcdo.gov.uk/ngos/)
-    *   [Professional Fellowship Host Organisations](https://cscuk.fcdo.gov.uk/host-organisations/)
+    *   [NGOs and charitable bodies](https://cscuk.fcdo.gov.uk/ngos/)
+    *   [Fellowship host organisations](https://cscuk.fcdo.gov.uk/host-organisations/)
     *   [Academic Advisers](https://cscuk.fcdo.gov.uk/academic-advisers/)
 
-*   [Apply](https://cscuk.fcdo.gov.uk/scholarships-filter-search/)
+*   [Find a scholarship](https://cscuk.fcdo.gov.uk/scholarships-filter-search/)
 
 Search for... Search
 
@@ -87,11 +87,11 @@ The page you requested could not be found. Try refining your search, or use the 
 
 ## Latest Posts
 
-*   [Applications open for the Alumni Community Engagement Fund 2026-27](https://cscuk.fcdo.gov.uk/applications-open-for-the-alumni-community-engagement-fund-2026-27/)
-*   [Cameroon Alumni Champion UK Connections](https://cscuk.fcdo.gov.uk/cameroon-alumni-champion-uk-connections/)
-*   [Strengthening the Commonwealth through Scholarships and Fellowships](https://cscuk.fcdo.gov.uk/strengthening-the-commonwealth-through-scholarships-and-fellowships/)
-*   [Commonwealth Scholars gather for the PhD Conference 2026 focused on research impact](https://cscuk.fcdo.gov.uk/commonwealth-scholars-gather-for-the-phd-conference-2026-focused-on-research-impact/)
-*   [Cameroon welcomes home Commonwealth and Chevening Scholars](https://cscuk.fcdo.gov.uk/cameroon-welcomes-home-commonwealth-and-chevening-scholars/)
+*   [New issue of Common Knowledge explores the power of entrepreneurship](https://cscuk.fcdo.gov.uk/new-issue-of-common-knowledge-explores-the-power-of-entrepreneurship/)
+*   [Introducing the winners of the 2026 Alumni Community Engagement Fund](https://cscuk.fcdo.gov.uk/introducing-the-winners-of-the-2026-alumni-community-engagement-fund/)
+*   [Applications open for the CSC Mentoring Programme 2026-27](https://cscuk.fcdo.gov.uk/applications-open-for-the-2026-2027-csc-mentoring-programme/)
+*   [Bridging the finance gap for women and youth entrepreneurs in Antigua and Barbuda](https://cscuk.fcdo.gov.uk/bridging-the-finance-gap-for-women-and-youth-entrepreneurs-in-antigua-and-barbuda/)
+*   [Commonwealth Scholars from Small Island Developing States selected for 2026/27 Master’s Scholarships](https://cscuk.fcdo.gov.uk/commonwealth-scholars-from-small-island-developing-states-selected-for-2026-27-masters-scholarships/)
 
 **[Copyright Notice](https://cscuk.fcdo.gov.uk/copyright-notice/) | [Financial Accountability](https://cscuk.fcdo.gov.uk/about-us/spend-over-500/) | [Contact Us](https://cscuk.fcdo.gov.uk/about-us/contact-us/)[](https://cscuk.fcdo.gov.uk/accessibility-statement/)[Privacy Policy](https://cscuk.fcdo.gov.uk/privacy-notice/) | [Cookie Policy](https://cscuk.fcdo.gov.uk/cookie-policy/)****| [Accessibility Statement](https://cscuk.fcdo.gov.uk/accessibility-statement/)**
 
@@ -173,5 +173,3 @@ Always Enabled
 Powered by [![Image 3: CookieYes Logo](https://cscuk.fcdo.gov.uk/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
 
 previous next slideshow
-
-captcha test

@@ -9,7 +9,7 @@ Markdown Content:
 
 [![Image 1: New Zealand Ministry of Foreign Affairs and Trade: Manatū Aorere. ](https://www.mfat.govt.nz/resources/img/logos/logo-mfat.png)](https://www.mfat.govt.nz/ "Return to the New Zealand Ministry of Foreign Affairs and Trade homepage. ")![Image 2: New Zealand Ministry of Foreign Affairs and Trade: Manatū Aorere. ](https://www.mfat.govt.nz/resources/img/logos/logo-mfat-print.jpg)
 
-- [x] Menu 
+Menu
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
 *   [Contact us](https://www.mfat.govt.nz/en/about-us/contact-us)
@@ -20,7 +20,7 @@ Search Toggle
 Search the New Zealand Ministry of Foreign Affairs and Trade website 
 
 Close Menu
-*   [About us Mō mātou](https://www.mfat.govt.nz/en/about-us)Toggle sub menu
+*   [About us Mō mātou](https://www.mfat.govt.nz/en/about-us)
 
 [About us Mō mātou](https://www.mfat.govt.nz/en/about-us)
 
@@ -48,7 +48,7 @@ Quick links
     *   [Early in careers - Foreign Policy Officer opportunities](https://www.mfat.govt.nz/en/about-us/work-with-us/graduate-and-intermediate-opportunities)
     *   [Official Information Act requests](https://www.mfat.govt.nz/en/about-us/contact-us/official-information-act-requests)
 
-*   [Trade Tauhokohoko](https://www.mfat.govt.nz/en/trade)Toggle sub menu
+*   [Trade Tauhokohoko](https://www.mfat.govt.nz/en/trade)
 
 [Trade Tauhokohoko](https://www.mfat.govt.nz/en/trade)
 
@@ -75,7 +75,7 @@ Quick links
     *   [](https://www.mfat.govt.nz/?l=en_NZ)
     *   [Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)](https://www.mfat.govt.nz/en/trade/free-trade-agreements/free-trade-agreements-in-force/cptpp)
 
-*   [Aid and development Āwhina, tuputupu](https://www.mfat.govt.nz/en/aid-and-development)Toggle sub menu
+*   [Aid and development Āwhina, tuputupu](https://www.mfat.govt.nz/en/aid-and-development)
 
 [Aid and development Āwhina, tuputupu](https://www.mfat.govt.nz/en/aid-and-development)
 
@@ -96,7 +96,7 @@ Quick links
     *   [Partnering for Impact](https://www.mfat.govt.nz/en/aid-and-development/working-with-the-new-zealand-idc-programme/funding-opportunities/partnering-for-impact)
     *   [New Zealand Scholarships](https://www.nzscholarships.govt.nz/)
 
-*   [Peace, rights and security Rangimārie, tika tangata, whakamaru](https://www.mfat.govt.nz/en/peace-rights-and-security)Toggle sub menu
+*   [Peace, rights and security Rangimārie, tika tangata, whakamaru](https://www.mfat.govt.nz/en/peace-rights-and-security)
 
 [Peace, rights and security Rangimārie, tika tangata, whakamaru](https://www.mfat.govt.nz/en/peace-rights-and-security)
 
@@ -113,7 +113,7 @@ Quick links
     *   [New Zealand’s Universal Periodic Review](https://www.mfat.govt.nz/en/peace-rights-and-security/human-rights/new-zealands-universal-periodic-review)
     *   [Report on the Domestic Implementation of International Humanitarian Law](https://www.mfat.govt.nz/en/peace-rights-and-security/human-rights/report-on-the-domestic-implementation-of-international-humanitarian-law)
 
-*   [Embassies Aka Aorere, Whare Māngai](https://www.mfat.govt.nz/en/embassies)Toggle sub menu
+*   [Embassies Aka Aorere, Whare Māngai](https://www.mfat.govt.nz/en/embassies)
 
 [Embassies Aka Aorere, Whare Māngai](https://www.mfat.govt.nz/en/embassies)
 
@@ -122,7 +122,7 @@ Quick links
     *   [National days](https://www.mfat.govt.nz/en/embassies/national-days)
     *   [Guidelines for the diplomatic and consular corps](https://www.mfat.govt.nz/en/embassies/guidelines-for-the-diplomatic-and-consular-corps)
 
-*   [Environment Taiao](https://www.mfat.govt.nz/en/environment)Toggle sub menu
+*   [Environment Taiao](https://www.mfat.govt.nz/en/environment)
 
 [Environment Taiao](https://www.mfat.govt.nz/en/environment)
 
@@ -141,7 +141,7 @@ Quick links
     *   [](https://www.mfat.govt.nz/?l=en_NZ)
 
 *   [Media and resources](https://www.mfat.govt.nz/en/media-and-resources)
-*   [Countries and regions Whenua, rohe](https://www.mfat.govt.nz/en/countries-and-regions)Toggle sub menu
+*   [Countries and regions Whenua, rohe](https://www.mfat.govt.nz/en/countries-and-regions)
 
 [Countries and regions Whenua, rohe](https://www.mfat.govt.nz/en/countries-and-regions)
 

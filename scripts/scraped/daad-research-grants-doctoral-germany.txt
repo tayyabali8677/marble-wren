@@ -1,0 +1,95 @@
+===== SOURCE PAGE: https://www.daad.de =====
+Title: Deutscher Akademischer Austauschdienst
+
+URL Source: https://www.daad.de/
+
+Markdown Content:
+## Was wir tun
+
+### Entwicklungszusammenarbeit
+
+![Image 1: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Auf vielfältige Weise und mit einem differenzierten Angebot an Stipendien engagiert sich der DAAD als ein anerkannter Akteur in der Entwicklungszusammenarbeit.
+
+[Mehr über Entwicklungszusammenarbeit](https://www.daad.de/de/der-daad/was-wir-tun/entwicklungszusammenarbeit/)
+
+### DAAD KIWi
+
+![Image 2: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Das DAAD-Kompetenzzentrum Internationale Wissenschaftskooperationen (KIWi) unterstützt deutsche Hochschulen bei der Anbahnung und Durchführung ihrer internationalen Aktivitäten.
+
+[Mehr über DAAD KIWi](https://www.daad.de/de/infos-services-fuer-hochschulen/kompetenzzentrum/)
+
+### Der DAAD in Europa
+
+![Image 3: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Im Auftrag des BMBF übernimmt der DAAD die Rolle als Nationale Agentur für EU-Hochschulzusammenarbeit.
+
+[Mehr über Der DAAD in Europa](https://eu.daad.de/de/ "Seite öffnet sich in neuem Fenster")
+
+### Alumniarbeit
+
+![Image 4: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Auch nach der Förderzeit möchten wir den Kontakt der Alumni untereinander und mit dem DAAD stärken.
+
+[Mehr über Alumniarbeit](https://www.daad.de/de/alumni/)
+
+[Was wir tun](https://www.daad.de/de/der-daad/was-wir-tun/)
+
+![Image 5](blob:http://localhost/6cf7eabf3ff137d45f30e01d05abee30)
+
+## Der DAAD
+
+### Jahresbericht
+
+![Image 6: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Der Jahresbericht informiert über die wichtigsten Projekte und Zahlen sowie über die vielfältigen Aufgaben des DAAD.
+
+[Mehr über Jahresbericht](https://www.daad.de/de/der-daad/kommunikation-publikationen/berichte/jahresbericht/)
+
+### Newsletter
+
+![Image 7: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Erhalten Sie News, Infos zu Projekten, Veranstaltungen und Ausschreibungen sowie Reportagen aus aller Welt.
+
+[Mehr über Newsletter](https://www.daad.de/de/der-daad/kommunikation-publikationen/newsletter/)
+
+### DAAD-Perspektiven
+
+![Image 8: Globus](blob:http://localhost/3ad977302d83340c21c3c90f5eed432a)
+
+Hochschulpolitische Stellungnahmen, Expertisen zur Internationalisierung oder Konzeptpapiere werden in der Reihe „DAAD-Perspektiven“ veröffentlicht.
+
+[Mehr über DAAD-Perspektiven](https://www.daad.de/de/der-daad/kommunikation-publikationen/standpunkte/)
+
+### Zahlen & Fakten
+
+![Image 9: Studenten strömen aus einem Hörsaal](blob:http://localhost/2acfad83998890315c616dd2842dd5e2)
+
+Die wichtigsten Zahlen zum DAAD, über die Aktivitäten, seine Mitgliedshochschulen und die internationalen Partner.
+
+[Mehr über Zahlen & Fakten](https://www.daad.de/de/der-daad/was-wir-tun/zahlen-fakten/)
+
+### Karriere im DAAD
+
+![Image 10: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Im DAAD die internationale Zusammenarbeit und den weltweiten akademischen Austausch voranbringen.
+
+[Mehr über Karriere im DAAD](https://www.daad.de/de/der-daad/wer-wir-sind/karriere-im-daad/)
+
+### DAAD-Stiftung
+
+![Image 11: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+
+Tragen Sie persönlich zur akademischen Ausbildung begabter junger Menschen bei. Die DAAD-Stiftung freut sich über Ihre Spende oder unterstützt Sie dabei, Stipendien-Pate zu werden.
+
+[Mehr über DAAD-Stiftung](https://www.daad-stiftung.de/de/ "Seite öffnet sich in neuem Fenster")
+
+[Der DAAD](https://www.daad.de/de/der-daad/)

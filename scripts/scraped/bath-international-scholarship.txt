@@ -44,6 +44,7 @@ Save and close
 
 *   [Staff](https://www.bath.ac.uk/staff/)
 *   [Students](https://www.bath.ac.uk/students/)
+*   [New Students](https://www.bath.ac.uk/routing/new-students/)
 *   [Alumni](https://www.bath.ac.uk/professional-services/alumni-and-friends/)
 
 *   [Courses](https://www.bath.ac.uk/courses/)
@@ -53,6 +54,7 @@ Save and close
 *   [Departments](https://www.bath.ac.uk/departments/)
 *   [About](https://www.bath.ac.uk/topics/about-the-university/)
 *   [Students](https://www.bath.ac.uk/students/)
+*   [New Students](https://www.bath.ac.uk/routing/new-students/)
 *   [Staff](https://www.bath.ac.uk/staff/)
 *   [Alumni](https://www.bath.ac.uk/professional-services/alumni-and-friends/)
 
@@ -66,9 +68,9 @@ Search the website
 
 ![Image 1: World top 150 university in the QS world university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-world-top-150-2027.svg)
 
-![Image 2: UK top 10 university in all 4 2026 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-10-4-leauge-tables-2026.svg)
+![Image 2: UK top 10 university in 3 2027 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/10-3-league-tables-27.svg)
 
-![Image 3: UK top 10 for careers and jobs in the Daily Mail and Guardian university guides 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/daily-mail-guardian-career-jobs-2026.svg)
+![Image 3: UK top 5 for career after 15 months in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-5-career-guardian-27.svg)
 
 ![Image 4: Sport university of the year in the Times and Sunday Times good university guide 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/sport-uni-of-the-year-times-2026.svg)
 
@@ -84,47 +86,53 @@ Search the website
 
 ![Image 10: World top 50 for social impact in the QS world university rankings 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-social-impact-2026.svg)
 
-![Image 11: World top 150 university in the QS world university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-world-top-150-2027.svg)
+![Image 11: 1st in the UK for happiest graduates in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/1st-happy-graduates-guardian-27.svg)
 
-![Image 12: UK top 10 university in all 4 2026 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-10-4-leauge-tables-2026.svg)
+![Image 12: World top 150 university in the QS world university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-world-top-150-2027.svg)
 
-![Image 13: UK top 10 for careers and jobs in the Daily Mail and Guardian university guides 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/daily-mail-guardian-career-jobs-2026.svg)
+![Image 13: UK top 10 university in 3 2027 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/10-3-league-tables-27.svg)
 
-![Image 14: Sport university of the year in the Times and Sunday Times good university guide 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/sport-uni-of-the-year-times-2026.svg)
+![Image 14: UK top 5 for career after 15 months in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-5-career-guardian-27.svg)
 
-![Image 15: Triple gold award in the Teaching Excellence Framework 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/TEF-triple-gold-2023.svg)
+![Image 15: Sport university of the year in the Times and Sunday Times good university guide 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/sport-uni-of-the-year-times-2026.svg)
 
-![Image 16: World top 100 for employer reputation in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-employer-rep-2027.svg)
+![Image 16: Triple gold award in the Teaching Excellence Framework 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/TEF-triple-gold-2023.svg)
 
-![Image 17: World top 100 for sustainability in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-sustainability-2027.svg)
+![Image 17: World top 100 for employer reputation in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-employer-rep-2027.svg)
 
-![Image 18: 2nd safest university town in England and Wales in the Complete University Guide 2025](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/cug-2nd-safest-town-2025.svg)
+![Image 18: World top 100 for sustainability in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-sustainability-2027.svg)
 
-![Image 19: UK top 20 for student experience in the National Student Experience Survey Times Higher Education 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/nss-student-experience-2026.svg)
+![Image 19: 2nd safest university town in England and Wales in the Complete University Guide 2025](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/cug-2nd-safest-town-2025.svg)
 
-![Image 20: World top 50 for social impact in the QS world university rankings 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-social-impact-2026.svg)
+![Image 20: UK top 20 for student experience in the National Student Experience Survey Times Higher Education 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/nss-student-experience-2026.svg)
 
-![Image 21: World top 150 university in the QS world university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-world-top-150-2027.svg)
+![Image 21: World top 50 for social impact in the QS world university rankings 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-social-impact-2026.svg)
 
-![Image 22: UK top 10 university in all 4 2026 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-10-4-leauge-tables-2026.svg)
+![Image 22: 1st in the UK for happiest graduates in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/1st-happy-graduates-guardian-27.svg)
 
-![Image 23: UK top 10 for careers and jobs in the Daily Mail and Guardian university guides 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/daily-mail-guardian-career-jobs-2026.svg)
+![Image 23: World top 150 university in the QS world university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-world-top-150-2027.svg)
 
-![Image 24: Sport university of the year in the Times and Sunday Times good university guide 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/sport-uni-of-the-year-times-2026.svg)
+![Image 24: UK top 10 university in 3 2027 UK university league tables](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/10-3-league-tables-27.svg)
 
-![Image 25: Triple gold award in the Teaching Excellence Framework 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/TEF-triple-gold-2023.svg)
+![Image 25: UK top 5 for career after 15 months in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/top-5-career-guardian-27.svg)
 
-![Image 26: World top 100 for employer reputation in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-employer-rep-2027.svg)
+![Image 26: Sport university of the year in the Times and Sunday Times good university guide 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/sport-uni-of-the-year-times-2026.svg)
 
-![Image 27: World top 100 for sustainability in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-sustainability-2027.svg)
+![Image 27: Triple gold award in the Teaching Excellence Framework 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/TEF-triple-gold-2023.svg)
 
-![Image 28: 2nd safest university town in England and Wales in the Complete University Guide 2025](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/cug-2nd-safest-town-2025.svg)
+![Image 28: World top 100 for employer reputation in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-employer-rep-2027.svg)
 
-![Image 29: UK top 20 for student experience in the National Student Experience Survey Times Higher Education 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/nss-student-experience-2026.svg)
+![Image 29: World top 100 for sustainability in the QS World university rankings 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-sustainability-2027.svg)
 
-![Image 30: World top 50 for social impact in the QS world university rankings 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-social-impact-2026.svg)
+![Image 30: 2nd safest university town in England and Wales in the Complete University Guide 2025](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/cug-2nd-safest-town-2025.svg)
 
-Showing slide 1 of 10
+![Image 31: UK top 20 for student experience in the National Student Experience Survey Times Higher Education 2023](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/nss-student-experience-2026.svg)
+
+![Image 32: World top 50 for social impact in the QS world university rankings 2026](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/qs-social-impact-2026.svg)
+
+![Image 33: 1st in the UK for happiest graduates in the Guardian University Guide 2027](https://www.bath.ac.uk/lens/127/assets/university-of-bath/images/awards/1st-happy-graduates-guardian-27.svg)
+
+Showing slide 1 of 11
 
 [Find out more about our rankings](https://www.bath.ac.uk/corporate-information/rankings-and-reputation/)
 

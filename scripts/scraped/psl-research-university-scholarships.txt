@@ -1,0 +1,13 @@
+===== SOURCE PAGE: https://psl.eu/en/education/study-psl/scholarships =====
+Title: 404 | PSL
+
+URL Source: https://psl.eu/en/education/study-psl/scholarships
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+## Vos paramètres de cookies
+
+Vous naviguez sur le site de l’Université PSL. L’Université PSL, responsable de traitement, utilise des cookies pour la réalisation de statistiques ainsi que pour l’optimisation du site. Vous pouvez accepter ou refuser l’utilisation de cookies, ainsi que personnaliser vos préférences. Nous conservons votre choix pendant 3 mois. Vous pouvez changer d’avis à tout moment en cliquant sur l’icône « Gestion des cookies » en bas à gauche sur toutes les pages de notre site internet.
+
+[Plus d'informations](https://psl.eu/en/privacy-policy "Learn more about our cookie management")

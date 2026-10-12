@@ -148,7 +148,7 @@ Advertisement cookies are used to provide visitors with customised advertisement
     *   [Contact us](https://hea.ie/about-us/contact/)
     *   [Vacancies](https://hea.ie/vacancies/)
 
-![Image 2: Image of Royal Irish Academy](https://hea.ie/assets/uploads/2017/04/RIA-320x160.jpg)
+![Image 2](https://hea.ie/assets/uploads/2017/04/AdobeStock_783292274-320x179.jpeg)
 
 [Protected Disclosures](https://hea.ie/funding-governance-performance/governance/protected-disclosures/)
 
@@ -164,6 +164,7 @@ Find information on how to make a Protected Disclosure under the external proced
         *   [Quality](https://hea.ie/policy/policy-development/quality/)
 
     *   [Policy and Strategic Planning](https://hea.ie/policy/policy-and-strategic-planning/)Open submenu for Policy and Strategic Planning
+        *   [Student Progression and Continuation in Higher Education — Exploring Next Steps](https://hea.ie/student-progression-and-continuation-in-higher-education-exploring-next-steps/)
         *   [HEA Policy Forum on Student Progression in Higher Education](https://hea.ie/policy/hea-policy-forum-on-student-progression-in-higher-education/)
         *   [Irish Language Initiatives](https://hea.ie/policy/policy-and-strategic-planning/irish-language-initiatives/)Open submenu for Irish Language Initiatives
             *   [Mo Thráchtas i mBeagán Focal 2025](https://hea.ie/policy/policy-and-strategic-planning/mo-thrachtas-i-mbeagan-focal-2025/)
@@ -206,17 +207,17 @@ Find information on how to make a Protected Disclosure under the external proced
         *   [Technological University Transformation Fund](https://hea.ie/policy/he-reform/technological-university-transformation-fund/)
         *   [Higher Education Capacity Building Process 2026 – Health and Social Care Professions](https://hea.ie/policy/he-reform/higher-education-capacity-building-process-2026-health-and-social-care-professions/)
 
-    *   [Centre of Excellence for Equality, Diversity and Inclusion](https://hea.ie/policy/gender/)Open submenu for Centre of Excellence for Equality, Diversity and Inclusion
-        *   [Centre Information](https://hea.ie/policy/gender/centre-information/)
-        *   [Ending Sexual Violence and Harassment in Irish Higher Education Institutions](https://hea.ie/policy/gender/ending-sexual-violence-and-harassment-in-irish-higher-education-institutions/)
-        *   [Race Equality](https://hea.ie/policy/gender/race-equality/)
-        *   [Gender Equality](https://hea.ie/policy/gender/gender-equality/)
-        *   [HEA National Review of Gender Equality in Irish Higher Education Institutions](https://hea.ie/policy/gender/hea-national-review-of-gender-equality-in-irish-higher-education-institutions/)
-        *   [Gender Equality Enhancement Fund](https://hea.ie/policy/gender/gender-equality-enhancement-fund2021/)
-        *   [Equality, Diversity and Inclusion Enhancement Fund](https://hea.ie/policy/gender/equality-diversity-and-inclusion-enhancement-fund/)
-        *   [Senior Academic Leadership Initiative](https://hea.ie/policy/gender/senior-academic-leadership-initiative/)
-        *   [Athena Swan](https://hea.ie/policy/gender/athena-swan/)
-        *   [HEI Staff Profiles](https://hea.ie/policy/gender/statistics/)
+    *   [Centre of Excellence for Equality, Diversity and Inclusion](https://hea.ie/policy/centre-of-excellence-for-edi/)Open submenu for Centre of Excellence for Equality, Diversity and Inclusion
+        *   [Centre Information](https://hea.ie/policy/centre-of-excellence-for-edi/centre-information/)
+        *   [Ending Sexual Violence and Harassment in Irish Higher Education Institutions](https://hea.ie/policy/centre-of-excellence-for-edi/ending-sexual-violence-and-harassment-in-irish-higher-education-institutions/)
+        *   [Race Equality](https://hea.ie/policy/centre-of-excellence-for-edi/race-equality/)
+        *   [Gender Equality](https://hea.ie/policy/centre-of-excellence-for-edi/gender-equality/)
+        *   [HEA National Review of Gender Equality in Irish Higher Education Institutions](https://hea.ie/policy/centre-of-excellence-for-edi/hea-national-review-of-gender-equality-in-irish-higher-education-institutions/)
+        *   [Gender Equality Enhancement Fund](https://hea.ie/policy/centre-of-excellence-for-edi/gender-equality-enhancement-fund2021/)
+        *   [Equality, Diversity and Inclusion Enhancement Fund](https://hea.ie/policy/centre-of-excellence-for-edi/equality-diversity-and-inclusion-enhancement-fund/)
+        *   [Senior Academic Leadership Initiative](https://hea.ie/policy/centre-of-excellence-for-edi/senior-academic-leadership-initiative/)
+        *   [Athena Swan](https://hea.ie/policy/centre-of-excellence-for-edi/athena-swan/)
+        *   [HEI Staff Profiles](https://hea.ie/policy/centre-of-excellence-for-edi/statistics/)
 
     *   [Health and Wellbeing](https://hea.ie/policy/health-and-wellbeing-landing-page/)Open submenu for Health and Wellbeing
         *   [Healthy Campus](https://hea.ie/policy/health-and-wellbeing-landing-page/healthy-campus-landing-page/)
@@ -243,7 +244,7 @@ Find information on how to make a Protected Disclosure under the external proced
         *   [Overview](https://hea.ie/funding-governance-performance/governance/overview/)
         *   [Protected Disclosures](https://hea.ie/funding-governance-performance/governance/protected-disclosures/)
         *   [Governance Framework for the Higher Education Sys.](https://hea.ie/funding-governance-performance/governance/governance-framework-for-the-higher-education-system/)
-        *   [Legislation & Codes](https://hea.ie/funding-governance-performance/governance/legislation-codes-public-policy/)
+        *   [Legislation & Codes](https://hea.ie/funding-governance-performance/governance/legislation-codes/)
 
     *   [Managing Performance](https://hea.ie/funding-governance-performance/managing-performance/)Open submenu for Managing Performance
         *   [System Performance Framework](https://hea.ie/funding-governance-performance/managing-performance/system-performance-framework/)
@@ -255,7 +256,14 @@ Find information on how to make a Protected Disclosure under the external proced
 [Skills and Engagement](https://hea.ie/skills-engagement/)
 
     *   [Springboard](https://hea.ie/skills-engagement/springboard/)
-    *   [Apprenticeships](https://hea.ie/skills-engagement/apprenticeships/)
+    *   [Apprenticeships](https://hea.ie/skills-engagement/apprenticeships/)Open submenu for Apprenticeships
+        *   [Role of the HEA](https://hea.ie/skills-engagement/apprenticeships/role-of-the-hea/)
+        *   [Apprenticeship](https://hea.ie/skills-engagement/apprenticeships/apprenticeship/)
+        *   [2026 Call for Proposals for Consortia-Led Apprenticeships](https://hea.ie/skills-engagement/apprenticeships/2026-call-for-proposals-for-consortia-led-apprenticeships/)
+        *   [Craft Transfer Plan](https://hea.ie/skills-engagement/apprenticeships/craft-transfer-plan/)
+        *   [New Consortia Led Apprenticeship Process Review](https://hea.ie/skills-engagement/apprenticeships/new-consortia-led-apprenticeship-process-review/)
+        *   [Access to Apprenticeship](https://hea.ie/skills-engagement/apprenticeships/access-to-apprenticeship/)
+
     *   [Human Capital Initiative](https://hea.ie/skills-engagement/human-capital-initiative-pillars-1-2-and-3/)Open submenu for Human Capital Initiative
         *   [Micro-Credential Learner Fee Subsidy 2026](https://hea.ie/skills-engagement/micro-credential-learner-fee-subsidy-2026/)
         *   [HCI Pillar 3 Projects Hub](https://hea.ie/skills-engagement/human-capital-initiative-pillars-1-2-and-3/hci-pillar-3-projects-hub/)
@@ -318,26 +326,26 @@ You are here:
 
 While you are here, have a read of some of our recent news
 
-*   ![Image 5: New data shows positive trends in student progression and completion across higher education](https://hea.ie/assets/uploads/2026/07/AdobeStock_436681392-500x309.jpeg)
+*   ![Image 5: HEA Brings Higher Education Sector Together to Explore Next Steps on Student Progression and Continuation](https://hea.ie/assets/uploads/2026/10/1000087384-500x309.jpg)
 
-9 July, 2026
+8 October, 2026
 
-### [New data shows positive trends in student progression and completion across higher education](https://hea.ie/2026/07/09/new-data-shows-positive-trends-in-student-progression-and-completion-across-higher-education/)  
-[Read Article](https://hea.ie/2026/07/09/new-data-shows-positive-trends-in-student-progression-and-completion-across-higher-education/)
+### [HEA Brings Higher Education Sector Together to Explore Next Steps on Student Progression and Continuation](https://hea.ie/2026/10/08/hea-brings-higher-education-sector-together-to-explore-next-steps-on-student-progression-and-continuation/)  
+[Read Article](https://hea.ie/2026/10/08/hea-brings-higher-education-sector-together-to-explore-next-steps-on-student-progression-and-continuation/)
 
-*   ![Image 6: Plan for the Transfer of Curriculum Development, Assessment and Awarding for Craft Apprenticeship to Providers](https://hea.ie/assets/uploads/2026/06/Plan-for-the-Transfer-of-Curriculum-Development-Assessment-Awarding-for-Craft-Apprenticeship-445x309.png)
+*   ![Image 6: 2026 Call for Proposals for Consortia-Led Apprenticeships](https://hea.ie/assets/uploads/2026/10/2026-Call-for-Proposals-for-Consortia-Led-Apprenticeships-scaled-e1791292550837-500x309.png)
 
-30 June, 2026
+6 October, 2026
 
-### [Plan for the Transfer of Curriculum Development, Assessment and Awarding for Craft Apprenticeship to Providers](https://hea.ie/2026/06/30/plan-for-the-transfer-of-curriculum-development-assessment-and-awarding-for-craft-apprenticeship-to-providers/)  
-[Read Article](https://hea.ie/2026/06/30/plan-for-the-transfer-of-curriculum-development-assessment-and-awarding-for-craft-apprenticeship-to-providers/)
+### [2026 Call for Proposals for Consortia-Led Apprenticeships](https://hea.ie/2026/10/06/2026-call-for-proposals-for-consortia-led-apprenticeships/)  
+[Read Article](https://hea.ie/2026/10/06/2026-call-for-proposals-for-consortia-led-apprenticeships/)
 
-*   ![Image 7: The HEA participates in new Horizon Europe project GENDERACTIONplus2027](https://hea.ie/assets/uploads/2026/06/genderactionplus2027-500x309.png?v=1)
+*   ![Image 7: New HEA EUROSTUDENT Report highlights Student Experiences in Ireland](https://hea.ie/assets/uploads/2026/09/Screenshot-2026-09-23-091013-500x309.png)
 
-30 June, 2026
+23 September, 2026
 
-### [The HEA participates in new Horizon Europe project GENDERACTIONplus2027](https://hea.ie/2026/06/30/the-hea-participates-in-new-horizon-europe-project-genderactionplus2027/)  
-[Read Article](https://hea.ie/2026/06/30/the-hea-participates-in-new-horizon-europe-project-genderactionplus2027/)
+### [New HEA EUROSTUDENT Report highlights Student Experiences in Ireland](https://hea.ie/2026/09/23/new-hea-eurostudent-report-highlights-student-experiences-in-ireland/)  
+[Read Article](https://hea.ie/2026/09/23/new-hea-eurostudent-report-highlights-student-experiences-in-ireland/)
 
 *   [About](https://hea.ie/about-us/)
     *   [HEA’s Mission, Vision and Values](https://hea.ie/about-us/heas-mission-vision-and-values/)
@@ -365,7 +373,7 @@ While you are here, have a read of some of our recent news
     *   [Access Policy](https://hea.ie/policy/access-policy/)
     *   [Research Policy](https://hea.ie/policy/research-policy/)
     *   [HE Reform](https://hea.ie/policy/he-reform/)
-    *   [Centre of Excellence for Equality, Diversity and Inclusion](https://hea.ie/policy/gender/)
+    *   [Centre of Excellence for Equality, Diversity and Inclusion](https://hea.ie/policy/centre-of-excellence-for-edi/)
     *   [Health and Wellbeing](https://hea.ie/policy/health-and-wellbeing-landing-page/)
 
 *   [Funding, Governance and Performance](https://hea.ie/funding-governance-performance/)
@@ -417,14 +425,10 @@ CRA No: 20020286
 
 ### Contact us
 
-3 Shelbourne Buildings,Crampton Avenue,
-
-Shelbourne Road,Ballsbridge,
-
-Dublin 4,Ireland D04 C2Y6
-
-Phone: +353 1 231 7100
-
+3 Shelbourne Buildings,Crampton Avenue,  
+Shelbourne Road,Ballsbridge,  
+Dublin 4,Ireland D04 C2Y6  
+Phone: +353 1 231 7100  
 Email: info@hea.ie
 
 *   [Freedom of Information](https://hea.ie/freedom-of-information/)

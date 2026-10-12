@@ -205,9 +205,6 @@ UNESCO Publications
 Support
 News
 Deadlines
-11 October 2026
-IIE Scholar Rescue Fund Fellowship
-External Opportunity
 20 October 2026
 Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
 External Opportunity
@@ -219,6 +216,9 @@ Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
 23 November 2026
 TWAS Research Professors in LDCs
+Visiting Scientist
+23 November 2026
+TWAS Visiting Expert Programme
 Visiting Scientist
 Research and Project Grants
 TWAS research grants are awarded to both individual scientists and research groups
@@ -531,9 +531,6 @@ UNESCO Publications
 Support
 News
 Deadlines
-11 October 2026
-IIE Scholar Rescue Fund Fellowship
-External Opportunity
 20 October 2026
 Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
 External Opportunity
@@ -543,6 +540,9 @@ Visiting Scientist
 22 November 2026
 Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
+23 November 2026
+TWAS Visiting Expert Programme
+Visiting Scientist
 23 November 2026
 TWAS Research Professors in LDCs
 Visiting Scientist
@@ -1088,9 +1088,6 @@ UNESCO Publications
 Support
 News
 Deadlines
-11 October 2026
-IIE Scholar Rescue Fund Fellowship
-External Opportunity
 20 October 2026
 Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
 External Opportunity
@@ -1102,6 +1099,9 @@ Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
 23 November 2026
 TWAS Research Professors in LDCs
+Visiting Scientist
+23 November 2026
+TWAS Visiting Expert Programme
 Visiting Scientist
 Support TWAS
 Your donations will help us to build science in the developing world.
@@ -1379,9 +1379,6 @@ UNESCO Publications
 Support
 News
 Deadlines
-11 October 2026
-IIE Scholar Rescue Fund Fellowship
-External Opportunity
 20 October 2026
 Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
 External Opportunity
@@ -1391,6 +1388,9 @@ Visiting Scientist
 22 November 2026
 Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
+23 November 2026
+TWAS Research Professors in LDCs
+Visiting Scientist
 23 November 2026
 TWAS Visiting Expert Programme
 Visiting Scientist
@@ -1403,20 +1403,6 @@ Research and Project Grant
 Visiting Scientist
 OPEN CALLS
 EXTERNAL OPPORTUNITIES
-IIE Scholar Rescue Fund Fellowship
-preview
-The Institute of International Education&#039;s Scholar Rescue Fund (IIE-SRF) is a fellowship program that selects outstanding professors, researchers, and public intellectuals and arranges visiting academic positions with partnering institutions of higher learning and research. Fellowships support temporary academic positions at institutions anywhere in the world where the scholars can continue their academic work in safety.
-Successful applicants to IIE-SRF typically:
-- Hold a Ph.D. or other highest degree in their field
-- Have teaching and/or research experience at a university or other institution of higher learning
-- Have an established record of published research
-- Are facing or have recently fled from direct and immediate threats to their lives and/or careers in their home countries
-- 0
-days
-DEADLINE
-11 October 2026
-https://www.scholarrescuefund.org/applicants/instructions-and-application/
-EXTERNAL OPPORTUNITIES
 Fourth Global Call for Initiatives under the International Decade of Sciences for Sustainable Development (2024–2033)
 preview
 Building on three successful calls, which have already endorsed 284 initiatives involving individuals and institutions from 124 countries, the Fourth Call invites the global scientific community and partners from all fields to turn scientific knowledge into solutions that can make a real difference.
@@ -1425,7 +1411,7 @@ UNESCO Science Decade Secretariat are particularly looking for initiatives that 
 - Science for safe, inclusive, resilient settlements and infrastructure
 - Integrated science for food and water security, healthy ecosystems and resilient livelihoods
 - From scientific evidence to policy and practice: Operational tools for implementation
-- 9
+- 8
 days
 DEADLINE
 20 October 2026
@@ -1434,7 +1420,7 @@ Visiting Scientists
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 preview
 Young scientists from least developed countries who hold an MSc (or higher degree) can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects and/or training internships in the fields that fall under the umbrella of the United Nations Sustainable Development Goals (SDGs).
-- 20
+- 19
 days
 DEADLINE
 31 October 2026
@@ -1444,7 +1430,7 @@ Global Survey on Women Scientists in Crisis and Emergency Contexts
 preview
 UNESCO, in collaboration with Data-Pop Alliance (DPA), is conducting a global study on women scientists in crisis and emergency contexts. The study aims to better understand the challenges faced by women scientists in these settings, identify existing support mechanisms, and inform recommendations to strengthen their participation, protection, and resilience.
 As part of this research, scientists who have experienced or are currently working in crisis and emergency contexts are invited to participate in an individual survey and share their experiences and perspectives.
-- 42
+- 41
 days
 DEADLINE
 22 November 2026
@@ -1453,7 +1439,7 @@ Visiting Scientists
 TWAS Research Professors in LDCs
 preview
 A number of TWAS Fellows and TWAS Young Affiliates/Alumni will be offered appointments as TWAS Research Professors for one year, during which he/she will visit the host institution in a LDC for a period of two to four weeks. TWAS provides travel support while living expenses are covered by the host centre. NB: Only TWAS Fellows and TWAS Young Affiliates/Alumni are eligible for appointment. Requests need to be submitted by research groups/scientific institutions in LDCs.
-- 43
+- 42
 days
 DEADLINE
 23 November 2026
@@ -1462,7 +1448,7 @@ Visiting Scientists
 TWAS Visiting Expert Programme
 preview
 This programme provides institutions and research groups in developing countries, especially the Least Developed Countries and those with limited outside contacts, with opportunities to establish long-term links with world leaders in areas of science other than mathematics and physics, and help develop capacity-building in their country.
-- 43
+- 42
 days
 DEADLINE
 23 November 2026
@@ -1471,315 +1457,11 @@ Fellowships
 TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
 preview
 The Research Support Foundation of the State of São Paulo (FAPESP) in Brazil and TWAS offer postdoctoral fellowships to researchers from Developing Countries, in all areas of natural, applied and social sciences.
-- 172
+- 171
 days
 DEADLINE
 01 April 2027
 SEE MORE
-Main navigation
-Home
-About
-Steering Committee
-Council
-Ethics
-TWAS General Meetings
-TWAS and Italy
-Support TWAS
-Contacts
-Legal Nature
-Website Privacy Notice
-Events Privacy Notice
-Network
-Online directory
-TWAS Fellows
-Young Affiliates
-TWAS Young Affiliates Network
-Regional Partners
-Associated Organizations
-Partners
-Opportunities
-Photography Award
-Climate change and environment
-Research and Project Grants
-Grants for Academic Excellence
-Awards and Medals
-Fellowships
-Visiting Scientists
-Science Diplomacy and Other Training
-Deadlines
-CAS-TWAS Centres
-Science policy
-Science Diplomacy
-TWAS Advisory Committee on COVID-19
-Past Projects
-Big Data
-CATALYST Project
-Global Research Council
-S4D4C
-Science in Exile Initiative
-Solar Radiation Management Governance Initiative
-UN Scientific Advisory Board
-Publications
-Annual Reports
-Newsletters
-TWAS Plus
-Excellence in Science
-Research Reports
-Other Publications
-Open Access
-UNESCO Publications
-Support
-News
-Menu Mobile Footer
-Contacts
-News
-Support
-Twas Plus
-THE WORLD ACADEMY OF SCIENCES
-for the advancement of science in developing countries
-ICTP Campus
-Strada Costiera 11, 34151 Trieste, Italy
-info@twas.org
-Social menu
-Facebook
-Linkedin
-Flickr
-Twitter
-Youtube
-Instagram
-The World Academy of Sciences (TWAS) • TWAS is not responsible for the content of external sites
-
-===== SOURCE PAGE: https://twas.org/node/16790 =====
-IIE Scholar Rescue Fund Fellowship | TWAS
-Skip to main content
-TWAS PLUS
-Contacts
-Login
-High bandwidth
-Low bandwidth
-Username
-Password
-Request new password
-Social menu
-Facebook
-Linkedin
-Flickr
-Twitter
-Youtube
-Instagram
-Low Bandwith
-Private area menu
-How to edit profile
-View my profile
-Ethics
-Committees
-Statutes
-Main navigation
-Home
-About
-Steering Committee
-Council
-Ethics
-TWAS General Meetings
-17th TWAS General Conference
-16th TWAS General Conference
-15th TWAS General Conference
-28th TWAS General Meeting
-27th TWAS General Meeting
-26th TWAS General Meeting
-25th TWAS General Meeting
-24th TWAS General Meeting
-23rd TWAS General Meeting
-22nd TWAS General Meeting
-21st TWAS General Meeting
-20th TWAS General Meeting
-TWAS and Italy
-Support TWAS
-Contacts
-Contact form
-Legal Nature
-Website Privacy Notice
-Events Privacy Notice
-Network
-Online directory
-TWAS Fellows
-Young Affiliates
-TWAS Young Affiliates Network
-Regional Partners
-Associated Organizations
-Partners
-Opportunities
-Photography Award
-Climate change and environment
-Research and Project Grants
-Grants for Academic Excellence
-Awards and Medals
-Fellowships
-PhD Fellowships
-Postdoctoral Fellowships
-Visiting Scientists
-Visiting Professors
-Visiting Researchers
-Science Diplomacy and Other Training
-Deadlines
-CAS-TWAS Centres
-Science policy
-Science Diplomacy
-TWAS Advisory Committee on COVID-19
-Past Projects
-Big Data
-CATALYST Project
-Global Research Council
-S4D4C
-Science in Exile Initiative
-Solar Radiation Management Governance Initiative
-UN Scientific Advisory Board
-Publications
-Annual Reports
-Newsletters
-TWAS Plus
-Excellence in Science
-Research Reports
-Other Publications
-Open Access
-UNESCO Publications
-Support
-News
-Press Room
-Search
-Main navigation
-Home
-About
-Steering Committee
-Council
-Ethics
-TWAS General Meetings
-TWAS and Italy
-Support TWAS
-Contacts
-Legal Nature
-Website Privacy Notice
-Events Privacy Notice
-Network
-Online directory
-TWAS Fellows
-Young Affiliates
-TWAS Young Affiliates Network
-Regional Partners
-Associated Organizations
-Partners
-Opportunities
-Photography Award
-Climate change and environment
-Research and Project Grants
-Grants for Academic Excellence
-Awards and Medals
-Fellowships
-Visiting Scientists
-Science Diplomacy and Other Training
-Deadlines
-CAS-TWAS Centres
-Science policy
-Science Diplomacy
-TWAS Advisory Committee on COVID-19
-Past Projects
-Big Data
-CATALYST Project
-Global Research Council
-S4D4C
-Science in Exile Initiative
-Solar Radiation Management Governance Initiative
-UN Scientific Advisory Board
-Publications
-Annual Reports
-Newsletters
-TWAS Plus
-Excellence in Science
-Research Reports
-Other Publications
-Open Access
-UNESCO Publications
-Support
-News
-Main navigation
-Home
-About
-Steering Committee
-Council
-Ethics
-TWAS General Meetings
-TWAS and Italy
-Support TWAS
-Contacts
-Legal Nature
-Website Privacy Notice
-Events Privacy Notice
-Network
-Online directory
-TWAS Fellows
-Young Affiliates
-TWAS Young Affiliates Network
-Regional Partners
-Associated Organizations
-Partners
-Opportunities
-Photography Award
-Climate change and environment
-Research and Project Grants
-Grants for Academic Excellence
-Awards and Medals
-Fellowships
-Visiting Scientists
-Science Diplomacy and Other Training
-Deadlines
-CAS-TWAS Centres
-Science policy
-Science Diplomacy
-TWAS Advisory Committee on COVID-19
-Past Projects
-Big Data
-CATALYST Project
-Global Research Council
-S4D4C
-Science in Exile Initiative
-Solar Radiation Management Governance Initiative
-UN Scientific Advisory Board
-Publications
-Annual Reports
-Newsletters
-TWAS Plus
-Excellence in Science
-Research Reports
-Other Publications
-Open Access
-UNESCO Publications
-Support
-News
-IIE Scholar Rescue Fund Fellowship
-Preview Text
-The Institute of International Education&#039;s Scholar Rescue Fund (IIE-SRF) is a fellowship program that selects outstanding professors, researchers, and public intellectuals and arranges visiting academic positions with partnering institutions of higher learning and research. Fellowships support temporary academic positions at institutions anywhere in the world where the scholars can continue their academic work in safety.
-Successful applicants to IIE-SRF typically:
-- Hold a Ph.D. or other highest degree in their field
-- Have teaching and/or research experience at a university or other institution of higher learning
-- Have an established record of published research
-- Are facing or have recently fled from direct and immediate threats to their lives and/or careers in their home countries
-The call is closed
-Partner Organizations
--
-Host country
--
-Eligible nationalities
--
-Minimum degree held
--
-Duration
--
-Field
--
-Age limit
-None
-Sandwich option
-No
 Main navigation
 Home
 About

@@ -54,14 +54,13 @@ Please try to find the content you want from the [home page](https://oead.at/en/
 
 [![Image 4: Das Logo des Bundesministerium für Frauen, Wissenschaft und Forschung auf Englisch](https://oead.at/fileadmin/Public/_processed_/0/d/csm_BMFWF_Logo_srgb_EN_5e25b725e9.png)](https://www.bmfwf.gv.at/en.html)
 
-The OeAD, Austria's Agency for education and internationalisation, is a non-profit limited liability company owned by the Republic of Austria. The ownership rights are exercised by the Austrian Federal Ministry of Women, Science and Research. The OeAD's programmes and activities are financed primarily by the BMFWF, BMB, BKA, BMWKMS, the ADA, and the European Commission.
+The OeAD, Austria's Agency for education and internationalisation, is a non-profit limited liability company owned by the Republic of Austria. The ownership rights are exercised by the Austrian Federal Ministry of Women, Science and Research. The OeAD's programmes and activities are financed primarily by the BMFWF, BMB, BKA, BMWKMS, the ADA within the framework of International Partnerships Austria, and the European Commission.
 
 [Video 2](https://oead.at/static/app/build/assets/footer-video-BkyY9Vdp.mp4)
 
  Newsletter 
 
- Stay up
-
+ Stay up  
 to date 
 
 Always fully informed.
@@ -93,17 +92,17 @@ Always fully informed.
 *   [The OeAD](https://oead.at/en/the-oead)
 
     *   [Objectives and mission](https://oead.at/en/the-oead/objectives-and-mission)
+    *   [Tasks](https://oead.at/en/the-oead/our-tasks)
     *   [Organisation and management](https://oead.at/en/the-oead/organisation-and-management)
     *   [Strategy, mission, values](https://oead.at/en/the-oead/strategy-mission-values)
     *   [OeAD cooperation offices abroad](https://oead.at/en/the-oead/oead-cooperation-offices-abroad)
-    *   [Our programmes from A to Z](https://oead.at/en/the-oead/our-programmes-from-a-to-z)
-    *   [Corporate history](https://oead.at/en/the-oead/communication-and-publications/milestones)
+    *   [Scholarships and funding programmes from A to Z](https://oead.at/en/the-oead/our-programmes-from-a-to-z)
+    *   [Angebote für Schulen und Kindergärten](https://oead.at/en/education-school/database-offers-for-schools-from-a-to-z)
     *   [Communication and publications](https://oead.at/en/the-oead/communication-and-publications)
-    *   [Glossary](https://oead.at/en/the-oead/glossary)
+    *   [Logos](https://oead.at/en/the-oead/press/logos)
     *   [Press](https://presse.oead.at/en/)
     *   [Quality management](https://oead.at/en/the-oead/quality-management)
     *   [Education system in Austria](https://bildungssystem.oead.at/en/)
-    *   [Logos](https://oead.at/en/the-oead/press/logos)
 
 *   [Education : School](https://oead.at/en/education-school)
 
@@ -188,6 +187,7 @@ Always fully informed.
 
  [The OeAD](https://oead.at/en/the-oead)
     *   [Objectives and mission](https://oead.at/en/the-oead/objectives-and-mission)
+    *   [Tasks](https://oead.at/en/the-oead/our-tasks)
     *   [Organisation and management](https://oead.at/en/the-oead/organisation-and-management)
     *   [Strategy, mission, values](https://oead.at/en/the-oead/strategy-mission-values)
     *   [OeAD cooperation offices abroad](https://oead.at/en/the-oead/oead-cooperation-offices-abroad)
@@ -200,8 +200,8 @@ Always fully informed.
             *   [Scientific Cooperation Office in Shanghai](https://oead.at/en/the-oead/oead-cooperation-offices-abroad/scientific-cooperation-office-in-shanghai)
             *   [Scientific Cooperation Office in L'viv](https://oead.at/en/the-oead/oead-cooperation-offices-abroad/science-cooperation-offices/scientific-cooperation-office-in-lviv)
 
-    *   [Our programmes from A to Z](https://oead.at/en/the-oead/our-programmes-from-a-to-z)
-    *   [Corporate history](https://oead.at/en/the-oead/communication-and-publications/milestones)
+    *   [Scholarships and funding programmes from A to Z](https://oead.at/en/the-oead/our-programmes-from-a-to-z)
+    *   [Angebote für Schulen und Kindergärten](https://oead.at/en/education-school/database-offers-for-schools-from-a-to-z)
     *   [Communication and publications](https://oead.at/en/the-oead/communication-and-publications)
 
  [Communication and publications](https://oead.at/en/the-oead/communication-and-publications)
@@ -213,13 +213,13 @@ Always fully informed.
         *   [Data, facts and figures](https://oead.at/en/the-oead/communication-and-publications/data-facts-and-figures)
         *   [Europe and us](https://oead.at/en/the-oead/communication-and-publications/europe-and-us)
         *   [OeAD.map](https://oead.at/en/to-austria/alumni/oeadmap)
-        *   [Glossar](https://oead.at/en/the-oead/glossary)
+        *   [Glossary](https://oead.at/en/the-oead/glossary)
         *   [Milestones](https://oead.at/en/the-oead/communication-and-publications/milestones)
         *   ["Welt im Ohr" Radio and Podcast](https://oead.at/en/the-oead/communication-and-publications/welt-im-ohr-radio-and-podcast)
-        *   [Publications pursuant to Art. 20 para. 5 B-VG](https://oead.at/en/the-oead/communication-and-publications/publications-pursuant-to-art-20-para-5-b-vg)
         *   [OeAD-Archiv](https://oead.at/en/der-oead/archiv)
+        *   [Publications pursuant to Art. 20 para. 5 B-VG](https://oead.at/en/the-oead/communication-and-publications/publications-pursuant-to-art-20-para-5-b-vg)
 
-    *   [Glossary](https://oead.at/en/the-oead/glossary)
+    *   [Logos](https://oead.at/en/the-oead/press/logos)
     *   [Press](https://presse.oead.at/en/)
 
  [Press](https://presse.oead.at/en/)
@@ -236,7 +236,6 @@ Always fully informed.
 
     *   [Quality management](https://oead.at/en/the-oead/quality-management)
     *   [Education system in Austria](https://bildungssystem.oead.at/en/)
-    *   [Logos](https://oead.at/en/the-oead/press/logos)
 
 *   [Education : School](https://oead.at/en/education-school)
 
@@ -253,6 +252,7 @@ Always fully informed.
  [Memorial visit](https://oead.at/en/education-school/memorial-visit)
         *   [Wichtige Infos für Schulen](https://oead.at/en/bildung-schule/mobilitaetszuschuss-gedenkstaettenbesuche/wichtige-infos-fuer-schulen)
         *   [Gedenkstätten und Erinnerungsorte](https://oead.at/en/bildung-schule/mobilitaetszuschuss-gedenkstaettenbesuche/unterlagen/gedenkstaetten-und-erinnerungsorte)
+        *   [Berücksichtigung zusätzlicher Kostenzuschüsse](https://oead.at/en/bildung-schule/mobilitaetszuschuss-gedenkstaettenbesuche/beruecksichtigung-zusaetzlicher-kostenzuschuesse-1)
 
     *   [Digital learning device initiative](https://digitaleslernen.oead.at/en/)
 
@@ -266,7 +266,7 @@ Always fully informed.
 
  [Cultural mediation](https://oead.at/)
         *   [Aktuelle Ausschreibungen](https://kulturvermittlung.oead.at/de/schule/kulturvermittlung-mit-schulen/ausschreibungen)
-        *   [Kunst ist Klasse!](https://kulturvermittlung.oead.at/de/schule/kulturvermittlung-mit-schulen/ausschreibungen/kunst-ist-klasse)
+        *   [Kunst ist Klasse!](https://kulturvermittlung.oead.at/de/)
         *   [Schwerpunkte](https://kulturvermittlung.oead.at/de/schule/kulturvermittlung-mit-schulen/schwerpunkte)
         *   [Culture:Education](https://kulturvermittlung.oead.at/de/schule/kulturvermittlung-mit-schulen/ausschreibungen/kulturbildung)
         *   [Datenbank: Angebote von Kulturschaffenden für Schulen](https://kulturvermittlung.oead.at/de/schule/kulturvermittlung-mit-schulen/datenbanken/datenbank-angebote-von-kulturschaffenden)
@@ -297,7 +297,7 @@ Always fully informed.
 
  [Learning apps](https://oead.at/en/education-digitisation/learning-apps)
         *   [Lernapps](https://oead.at/en/bildung-digital/qualitaetspruefung-lernapps/lernapps)
-        *   [Qualitätsprüfverfahren](https://oead.at/en/bildung-digital/qualitaetspruefung-lernapps/qualitaetspruefverfahren)
+        *   [Qualitätsprüfverfahren und Qualitätssicherung](https://oead.at/en/bildung-digital/qualitaetspruefung-lernapps/qualitaetspruefverfahren)
         *   [App-Anbieterinnen und Anbieter](https://oead.at/en/bildung-digital/qualitaetspruefung-lernapps/app-anbieterinnen)
         *   [Evaluatorinnen und Evaluatoren](https://oead.at/en/bildung-digital/qualitaetspruefung-lern-apps/evaluatorinnen)
         *   [Events (Opens in new window)](https://oead.at/en/bildung-digital/qualitaetspruefung-lernapps/events)
@@ -317,14 +317,14 @@ Always fully informed.
     *   [Marktplatz Lernapps](https://oead.at/en/bildung-digital/marktplatz-lernapps)
 
  [Marktplatz Lernapps](https://oead.at/en/bildung-digital/marktplatz-lernapps)
-        *   [Für Schulen](https://oead.at/en/bildung-digital/marktplatz-lernapps/fuer-schulen-1)
+        *   [Für Schulen](https://oead.at/en/bildung-digital/marktplatz-lernapps/fuer-schulen)
         *   [Für Anbieter:innen](https://oead.at/en/bildung-digital/marktplatz-lernapps/fuer-anbieterinnen)
         *   [OeAD-Support](https://oead.at/en/bildung-digital/marktplatz-lernapps/oead-support)
-        *   [FAQs (Opens in new window)](https://marktplatz-oead.freshdesk.com/support/solutions)
+        *   [FAQ (Opens in new window)](https://marktplatz-oead.freshdesk.com/support/solutions)
         *   [Kontaktformular (Opens in new window)](https://marktplatz-oead.freshdesk.com/support/tickets/new)
         *   [Lernapp-Katalog](https://www.marktplatz-lernapps.at/shop)
         *   [Plattform Marktplatz Lernapps (Opens in new window)](https://www.marktplatz-lernapps.at/start)
-        *   [Qualitätsprüfungsverfahren](https://oead.at/de/bildung-digital/qualitaetspruefung-lernapps/app-anbieterinnen)
+        *   [Qualitätsprüfung Lernapps](https://oead.at/de/bildung-digital/qualitaetspruefung-lernapps)
 
     *   [eTwinning](https://etwinning.at/de/)
     *   [Europass](https://erasmusplus.oead.at/en/wirkung-initiativen/europaeische-netzwerke/europass)
@@ -443,9 +443,13 @@ Always fully informed.
 
                 *   [Citizen Science Award](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/funding/citizen-science-award)
 
+ [Citizen Science Award](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/funding/citizen-science-award)
+                    *   [Bewertungskriterien](https://oead.at/en/studieren-forschen-lehren/citizen-science/zentrum-fuer-citizen-science/foerderungen/citizen-science-award/bewertungskriterien)
+
             *   [Networking](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/networking)
 
  [Networking](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/networking)
+                *   [Netzwerk für Citizen Scientists](https://oead.at/en/studieren-forschen-lehren/citizen-science/zentrum-fuer-citizen-science/vernetzung/netzwerk-citizen-scientists)
                 *   [Contacts in research & education](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/networking/contacts-at-research-institutions)
 
  [Contacts in research & education](https://oead.at/en/study-research-teaching/citizen-science/center-for-citizen-science/networking/contacts-at-research-institutions)
@@ -477,6 +481,12 @@ Always fully informed.
 
  [Sparkling Science](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science)
             *   [Calls](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/calls)
+
+ [Calls](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/calls)
+                *   [Von erfolgreichen Projekten lernen](https://oead.at/en/studieren-forschen-lehren/citizen-science/sparkling-science/ausschreibungen/von-erfolgreichen-projekten-lernen)
+                *   [Documents](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/calls/current-call/documents)
+                *   [Assessment procedure](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/calls/current-call/assessment-procedure)
+
             *   [Projects](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/projects)
 
  [Projects](https://oead.at/en/study-research-teaching/citizen-science/sparkling-science/projects/overview)

@@ -1,0 +1,24 @@
+===== SOURCE PAGE: https://www.imd.org/mba/fees-and-financial-aid/scholarships/ =====
+Title: Page not found
+
+URL Source: https://www.imd.org/mba/fees-and-financial-aid/scholarships/
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+## Oops!
+
+Sorry this page does not exist
+
+Great leaders know that errors are human...
+
+In the meantime you can visit one of the following pages:
+
+*   [Home](https://www.imd.org/)
+*   [Programs & Solutions](https://www.imd.org/programs-solutions/)
+*   [Program Finder](https://www.imd.org/program-finder/)
+*   [Faculty Directory](https://www.imd.org/faculty/directory/)
+*   [Research & Knowledge](https://www.imd.org/research-knowledge/)
+*   [I by IMD](https://www.imd.org/ibyimd)
+*   [Alumni](https://www.imd.org/alumni)
+*   [Contact Us](https://www.imd.org/contact-imd-business-school/)

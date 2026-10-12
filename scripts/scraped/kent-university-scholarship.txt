@@ -5,7 +5,7 @@ URL Source: https://www.kent.ac.uk/scholarships/international/
 
 Markdown Content:
 Responsible use of your data
-We and our 1022 partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content, ad and content measurement, audience research and services development. You have a choice in who uses your data and for what purposes. Your privacy choices are only applicable on this digital property where you have made your choices. You can change or withdraw your consent any time from the Cookie Declaration or by clicking on the Privacy trigger icon.
+We and our 1086 partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content, ad and content measurement, audience research and services development. You have a choice in who uses your data and for what purposes. Your privacy choices are only applicable on this digital property where you have made your choices. You can change or withdraw your consent any time from the Cookie Declaration or by clicking on the Privacy trigger icon.
 
 If you allow, we would also like to:
 Collect information about your geographical location which can be accurate to within several meters
@@ -25,7 +25,6 @@ Deny
 Jump to content
 Visit us
 Contact us
-Clearing
 Study
 International
 Research
@@ -44,15 +43,12 @@ Contact us
 General information
 University of Kent Error 404
 Contact us
+Part of the
+London and South East University Group
+
+Contact us
+
 University of Kent, Canterbury, Kent, CT2 7NZ
-Social media links
-Connect with us on Facebook
-Follow us on X
-Follow us on Instagram
-Connect with us on LinkedIn
-Subscribe to us on Youtube
-Subscribe to us on TikTok
-Affiliations
 About us
 About us
 Research
@@ -88,12 +84,19 @@ Staff
 Alumni
 Business and partners
 Paying online
-Other links
-© University of Kent
-Accessibility
+Accessibility Statement
 Contact us
 Feedback
 Legal
 Privacy notice
 Cookies
-Update your cookie consent
+Update your cookies
+Social media links
+Connect with us on Facebook
+Follow us on X
+Follow us on Instagram
+Connect with us on LinkedIn
+Subscribe to us on Youtube
+Subscribe to us on TikTok
+
+© London and South East University Group

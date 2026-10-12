@@ -6,8 +6,6 @@ URL Source: https://www.daad.pk/en/
 Markdown Content:
 [](https://www.daad.pk/en/#)
 
- Special announcement 
-
 [Straight to the content](https://www.daad.pk/en/#content)
 
 *   [de](https://www.daad.pk/de/)Seite auf Deutsch anzeigen
@@ -19,7 +17,7 @@ Search
 
 Search
 
-![Image 4: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Supplement_Pakistan_DEEN_RGB.svg)![Image 5: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Supplement_Pakistan_DEEN_RGB-01.svg)![Image 6: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)![Image 7: DAAD Pakistan](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Mobile_Pakistan_DEEN_RGB-01.svg)
+![Image 5: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Supplement_Pakistan_DEEN_RGB.svg)![Image 6: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Supplement_Pakistan_DEEN_RGB-01.svg)![Image 7: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)![Image 8: DAAD Pakistan](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Mobile_Pakistan_DEEN_RGB-01.svg)
 
 Search
 
@@ -62,32 +60,32 @@ Search
         *   [About the DAAD](https://www.daad.pk/en/about-us/about-the-daad/)
         *   [Downloads & Publications](https://www.daad.pk/en/about-us/download-publications/)
 
-*   [Study & Research in Germany](https://www.daad.pk/en/study-research-in-germany/) ![Image 8](https://www.daad.pk/dist/plus.svg)![Image 9](https://www.daad.pk/dist/minus.svg) 
+*   [Study & Research in Germany](https://www.daad.pk/en/study-research-in-germany/) ![Image 9](https://www.daad.pk/dist/plus.svg)![Image 10](https://www.daad.pk/dist/minus.svg) 
     *   [Getting to Know Germany](https://www.daad.pk/en/study-research-in-germany/getting-to-know-germany/)  
     *   [Studying in Germany](https://www.daad.pk/en/study-research-in-germany/studying-in-germany/)  
-    *   [PhD and Research in Germany](https://www.daad.pk/en/study-research-in-germany/phd-and-research-in-germany/) ![Image 10](https://www.daad.pk/dist/plus.svg)![Image 11](https://www.daad.pk/dist/minus.svg) 
+    *   [PhD and Research in Germany](https://www.daad.pk/en/study-research-in-germany/phd-and-research-in-germany/) ![Image 11](https://www.daad.pk/dist/plus.svg)![Image 12](https://www.daad.pk/dist/minus.svg) 
         *   [Doing a Doctorate](https://www.daad.pk/en/study-research-in-germany/phd-and-research-in-germany/doing-a-doctorate/)  
         *   [A Step by Step Guide: DAAD Research Grant Application](https://www.daad.pk/en/study-research-in-germany/phd-and-research-in-germany/a-step-by-step-guide-daad-research-grant-application/)  
 
-    *   [Eight Steps to Germany](https://www.daad.pk/en/study-research-in-germany/eight-steps-to-germany/) ![Image 12](https://www.daad.pk/dist/plus.svg)![Image 13](https://www.daad.pk/dist/minus.svg) 
+    *   [Eight Steps to Germany](https://www.daad.pk/en/study-research-in-germany/eight-steps-to-germany/) ![Image 13](https://www.daad.pk/dist/plus.svg)![Image 14](https://www.daad.pk/dist/minus.svg) 
         *   [Getting started](https://www.daad.pk/en/study-research-in-germany/eight-steps-to-germany/getting-started/)  
 
-    *   [Learning German](https://www.daad.pk/en/study-research-in-germany/learning-german/) ![Image 14](https://www.daad.pk/dist/plus.svg)![Image 15](https://www.daad.pk/dist/minus.svg) 
+    *   [Learning German](https://www.daad.pk/en/study-research-in-germany/learning-german/) ![Image 15](https://www.daad.pk/dist/plus.svg)![Image 16](https://www.daad.pk/dist/minus.svg) 
         *   [Learning German in Pakistan](https://www.daad.pk/en/study-research-in-germany/learning-german/learning-german-in-pakistan/)  
         *   [Learning German in Germany](https://www.daad.pk/en/study-research-in-germany/learning-german/learning-german-in-germany/)  
 
     *   [Advertisements by German Universities](https://www.daad.pk/en/study-research-in-germany/advertisements-by-german-universities/)  
 
 *   [Study & Research in Pakistan](https://www.daad.pk/en/study-research-in-pakistan/)  
-*   [Find Funding](https://www.daad.pk/en/find-funding/) ![Image 16](https://www.daad.pk/dist/plus.svg)![Image 17](https://www.daad.pk/dist/minus.svg) 
+*   [Find Funding](https://www.daad.pk/en/find-funding/) ![Image 17](https://www.daad.pk/dist/plus.svg)![Image 18](https://www.daad.pk/dist/minus.svg) 
     *   [DAAD Scholarship Programmes for Pakistan](https://www.daad.pk/en/find-funding/daad-scholarship-programmes-for-pakistan/)  
     *   [Scholarship Database](https://www.daad.pk/en/find-funding/scholarship-database/)  
-    *   [Higher Education Commission (HEC) Scholarship Applicants](https://www.daad.pk/en/find-funding/hec-scholarship-applicants/) ![Image 18](https://www.daad.pk/dist/plus.svg)![Image 19](https://www.daad.pk/dist/minus.svg) 
+    *   [Higher Education Commission (HEC) Scholarship Applicants](https://www.daad.pk/en/find-funding/hec-scholarship-applicants/) ![Image 19](https://www.daad.pk/dist/plus.svg)![Image 20](https://www.daad.pk/dist/minus.svg) 
         *   [HEC Overseas Scholarship Programme for PhD](https://www.daad.pk/en/find-funding/hec-scholarship-applicants/hec-overseas-scholarship-scheme/)  
         *   [UESTP Faculty Training Programme – PhD](https://www.daad.pk/en/find-funding/hec-scholarship-applicants/uestp-faculty-training-programme-phd/)  
         *   [UESTP Faculty Training Programme – Master Leading to PhD](https://www.daad.pk/en/find-funding/hec-scholarship-applicants/uestp-faculty-training-programme-master-leading-to-phd/)  
 
-*   [About Us](https://www.daad.pk/en/about-us/) ![Image 20](https://www.daad.pk/dist/plus.svg)![Image 21](https://www.daad.pk/dist/minus.svg) 
+*   [About Us](https://www.daad.pk/en/about-us/) ![Image 21](https://www.daad.pk/dist/plus.svg)![Image 22](https://www.daad.pk/dist/minus.svg) 
     *   [DAAD Information Centre Islamabad](https://www.daad.pk/en/about-us/daad-information-centre-islamabad/)  
     *   [Contact](https://www.daad.pk/en/about-us/contact/)  
     *   [About the DAAD](https://www.daad.pk/en/about-us/about-the-daad/)  
@@ -97,19 +95,17 @@ Search
 
 # DAAD Pakistan - German Academic Exchange Service
 
-## DAAD in Pakistan
+## DAAD Information Centre in Islamabad
 
-About Us
+Information & Consultation for Pakistan
 
-The DAAD Information Center in Islamabad was established in March 2010 in order to promote the academic exchange between Germany and Pakistan.
+The DAAD Information Centre in Islamabad was established in March 2010 in order to promote the academic exchange between Germany and Pakistan.
 
-[More](https://www.daad.pk/en/about-us/daad-information-centre-islamabad/)
+[Further information](https://www.daad.pk/en/about-us/)
 
-![Image 22: View of the Shah Faisal Mosque in Islamabad at the foot of the Margalla Hills.](https://www.daad.pk/files/2022/11/iStock-1285603777_1920x900px.jpg)
+![Image 23](https://www.daad.pk/files/2026/09/32-IC-Pakistan-globus-korrigiert.svg)
 
-©copyright iStockphoto
-
-### Finding Scholarships
+## Finding Scholarships
 
 I am from Pakistan Please select your country of origin if you are not from Germany 
 
@@ -135,9 +131,9 @@ German universities, like most universities around the world, maintain a broad n
 
 [More](https://www.daad.pk/en/university-cooperation/)
 
-![Image 23: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
+![Image 24: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
 
-©copyright DAAD/Wenzel
+©Copyright DAAD/Wenzel
 
 ### Alumni Services
 
@@ -147,9 +143,9 @@ In the eyes of the DAAD, the end of a funding period marks the beginning of a lo
 
 [More](https://www.daad.pk/en/alumni-services/)
 
-![Image 24: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
+![Image 25: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
 
-©copyright GettyImages/10000 Hours
+©Copyright GettyImages/10000 Hours
 
 ### Study & Research in Germany
 
@@ -159,9 +155,9 @@ You'd like to study in Germany? A great idea! We look forward to welcoming you! 
 
 [More](https://www.daad.pk/en/study-research-in-germany/)
 
-![Image 25: International students sit laughing at a table in the university and study together.](https://www.daad.pk/files/2022/07/iStock-639359406_Jacob-Ammentorp-Lund_864x486px-396x223.jpg)
+![Image 26: International students sit laughing at a table in the university and study together.](https://www.daad.pk/files/2022/07/iStock-639359406_Jacob-Ammentorp-Lund_864x486px-396x223.jpg)
 
-©copyright iStockphoto
+©Copyright iStockphoto
 
 ### University Cooperation
 
@@ -171,9 +167,9 @@ German universities, like most universities around the world, maintain a broad n
 
 [More](https://www.daad.pk/en/university-cooperation/)
 
-![Image 26: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
+![Image 27: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
 
-©copyright DAAD/Wenzel
+©Copyright DAAD/Wenzel
 
 ### Alumni Services
 
@@ -183,9 +179,9 @@ In the eyes of the DAAD, the end of a funding period marks the beginning of a lo
 
 [More](https://www.daad.pk/en/alumni-services/)
 
-![Image 27: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
+![Image 28: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
 
-©copyright GettyImages/10000 Hours
+©Copyright GettyImages/10000 Hours
 
 ### Study & Research in Germany
 
@@ -195,9 +191,9 @@ You'd like to study in Germany? A great idea! We look forward to welcoming you! 
 
 [More](https://www.daad.pk/en/study-research-in-germany/)
 
-![Image 28: International students sit laughing at a table in the university and study together.](https://www.daad.pk/files/2022/07/iStock-639359406_Jacob-Ammentorp-Lund_864x486px-396x223.jpg)
+![Image 29: International students sit laughing at a table in the university and study together.](https://www.daad.pk/files/2022/07/iStock-639359406_Jacob-Ammentorp-Lund_864x486px-396x223.jpg)
 
-©copyright iStockphoto
+©Copyright iStockphoto
 
 ### University Cooperation
 
@@ -207,9 +203,9 @@ German universities, like most universities around the world, maintain a broad n
 
 [More](https://www.daad.pk/en/university-cooperation/)
 
-![Image 29: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
+![Image 30: The outer facade of the University of Karlsruhe.](https://www.daad.pk/files/2022/07/20061110uw0054_864x486px-396x223.jpg)
 
-©copyright DAAD/Wenzel
+©Copyright DAAD/Wenzel
 
 ### Alumni Services
 
@@ -219,65 +215,17 @@ In the eyes of the DAAD, the end of a funding period marks the beginning of a lo
 
 [More](https://www.daad.pk/en/alumni-services/)
 
-![Image 30: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
+![Image 31: International alumni stand together in groups at an event and talk.](https://www.daad.pk/files/2022/07/GettyImages-965462380_864x486px-396x223.jpg)
 
-©copyright GettyImages/10000 Hours
+©Copyright GettyImages/10000 Hours
 
 ## Advertisements by German Universities
 
 1/4
 
-![Image 31](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+![Image 32](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
 
-©copyright &copy; Hochschule Reutlingen ESB Business School
-
-Advertisements by German Universities
-
-### Get a truly international education!
-
-Are you looking to study at a German university that will launch your international career? Join us at ESB Business School for a top-tier education!
-
-[More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
-
-![Image 32](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
-
-©copyright &copy; HTW Berlin
-
-Advertisements by German Universities
-
-### Beyond data: MSc Project Management & Data Science - Berlin
-
-Become the data-savvy professional employers want! Bridging data and business, strong in stakeholder communication and successfully delivering projects amid constant change.
-
-[More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
-
-![Image 33](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
-
-©copyright &copy; Coburg University of Applied Sciences and Arts
-
-Advertisements by German Universities
-
-### Level up your finance future — propel your career with our MBA in Fina...
-
-Unlock your finance and leadership potential – our premium, accredited MBA in Financial Management opens doors to top careers in Germany’s thriving market.
-
-[More on Level up your finance future — propel your career with our MBA in Financial Management!](https://www.daad.pk/en/university-ad/coburg-hs-fm-260414/)
-
-![Image 34](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
-
-©copyright &copy; Hochschule Heilbronn 
-
-Advertisements by German Universities
-
-### Be part of the transition to the future shape of energy
-
-Join our English-taught Bachelor of Science in Energy Systems Engineering and Management!
-
-[More on Be part of the transition to the future shape of energy](https://www.daad.pk/en/university-ad/heilbronn-hs-ba-260415/)
-
-![Image 35](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
-
-©copyright &copy; Hochschule Reutlingen ESB Business School
+©Copyright &copy; Hochschule Reutlingen ESB Business School
 
 Advertisements by German Universities
 
@@ -287,45 +235,93 @@ Are you looking to study at a German university that will launch your internatio
 
 [More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
 
-![Image 36](https://www.daad.pk/files/2026/05/260505_Berlin_HTW_Sedelies_WA1_Logo-aspect-ratio-16-9-1-288x162.jpg)
+![Image 33](https://www.daad.pk/files/2026/09/260821_Ansbach_HAW_Goth_WA1_Logo396-288x162.jpg)
 
-©copyright &copy; HTW Berlin
-
-Advertisements by German Universities
-
-### Beyond data: MSc Project Management & Data Science - Berlin
-
-Become the data-savvy professional employers want! Bridging data and business, strong in stakeholder communication and successfully delivering projects amid constant change.
-
-[More on Beyond data: MSc Project Management & Data Science - Berlin](https://www.daad.pk/en/university-ad/berlin-htw-ma-260506/)
-
-![Image 37](https://www.daad.pk/files/2026/04/260324_Coburg_HS_Fichtmueller_WA1_Logo-288x162.jpg)
-
-©copyright &copy; Coburg University of Applied Sciences and Arts
+©Copyright &copy; Ansbach University of Applied Sciences
 
 Advertisements by German Universities
 
-### Level up your finance future — propel your career with our MBA in Fina...
+### International Bachelor’s Programs. Personal Support. HS Ansbach.
 
-Unlock your finance and leadership potential – our premium, accredited MBA in Financial Management opens doors to top careers in Germany’s thriving market.
+Boost your global career at HS Ansbach: innovative international programs, small classes, strong industry links and dedicated support for international students.
 
-[More on Level up your finance future — propel your career with our MBA in Financial Management!](https://www.daad.pk/en/university-ad/coburg-hs-fm-260414/)
+[More on International Bachelor’s Programs. Personal Support. HS Ansbach.](https://www.daad.pk/en/university-ad/ansbach-hs-bachelor-260915/)
 
-![Image 38](https://www.daad.pk/files/2026/04/260409_Heilbronn_HS_Accurso_WA1_Logo396-288x162.jpg)
+![Image 34](https://www.daad.pk/files/2026/08/260708_Kaiserslautern_RPTU_Koehler_WA3_Logo-288x162.jpg)
 
-©copyright &copy; Hochschule Heilbronn 
+©Copyright &copy; RPTU University Kaiserslautern-Landau
 
 Advertisements by German Universities
 
-### Be part of the transition to the future shape of energy
+### Top-ranked international Master & PhD Programs (english-taug...
 
-Join our English-taught Bachelor of Science in Energy Systems Engineering and Management!
+International (english-taught) Master & PhD Programs @ RPTU University Kaiserslautern-Landau | Germany Application Deadline: 30.04. & 31.10. More information: www.rptu.de/en/international/home
 
-[More on Be part of the transition to the future shape of energy](https://www.daad.pk/en/university-ad/heilbronn-hs-ba-260415/)
+[More on Top-ranked international Master & PhD Programs (english-taught) @ RPTU University Kaiserslautern-Landau - Germany](https://www.daad.pk/en/university-ad/kaiserslautern-rptu-master-phd-260901/)
 
-![Image 39](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+![Image 35: Hof University - University of Applied Sciences Logo RGB](https://www.daad.pk/files/2026/08/260209_Hof_HS_GS_Seidel_WA2_Logo-288x162.jpg)
 
-©copyright &copy; Hochschule Reutlingen ESB Business School
+©Copyright &copy; Hochschule Hof Graduate School
+
+Advertisements by German Universities
+
+### English-taught Bachelor’s and Master’s programs at Hof Unive...
+
+Shape your future with our career-focused Bachelor’s and Master’s programs in English, featuring hands-on learning, integrated industry internships, and strong links to companies!
+
+[More on English-taught Bachelor’s and Master’s programs at Hof University](https://www.daad.pk/en/university-ad/hof-hs-io-ma-ba-260801/)
+
+![Image 36](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+
+©Copyright &copy; Hochschule Reutlingen ESB Business School
+
+Advertisements by German Universities
+
+### Get a truly international education!
+
+Are you looking to study at a German university that will launch your international career? Join us at ESB Business School for a top-tier education!
+
+[More on Get a truly international education!](https://www.daad.pk/en/university-ad/reutlingen-esb-ba-mba-260701/)
+
+![Image 37](https://www.daad.pk/files/2026/09/260821_Ansbach_HAW_Goth_WA1_Logo396-288x162.jpg)
+
+©Copyright &copy; Ansbach University of Applied Sciences
+
+Advertisements by German Universities
+
+### International Bachelor’s Programs. Personal Support. HS Ansbach.
+
+Boost your global career at HS Ansbach: innovative international programs, small classes, strong industry links and dedicated support for international students.
+
+[More on International Bachelor’s Programs. Personal Support. HS Ansbach.](https://www.daad.pk/en/university-ad/ansbach-hs-bachelor-260915/)
+
+![Image 38](https://www.daad.pk/files/2026/08/260708_Kaiserslautern_RPTU_Koehler_WA3_Logo-288x162.jpg)
+
+©Copyright &copy; RPTU University Kaiserslautern-Landau
+
+Advertisements by German Universities
+
+### Top-ranked international Master & PhD Programs (english-taug...
+
+International (english-taught) Master & PhD Programs @ RPTU University Kaiserslautern-Landau | Germany Application Deadline: 30.04. & 31.10. More information: www.rptu.de/en/international/home
+
+[More on Top-ranked international Master & PhD Programs (english-taught) @ RPTU University Kaiserslautern-Landau - Germany](https://www.daad.pk/en/university-ad/kaiserslautern-rptu-master-phd-260901/)
+
+![Image 39: Hof University - University of Applied Sciences Logo RGB](https://www.daad.pk/files/2026/08/260209_Hof_HS_GS_Seidel_WA2_Logo-288x162.jpg)
+
+©Copyright &copy; Hochschule Hof Graduate School
+
+Advertisements by German Universities
+
+### English-taught Bachelor’s and Master’s programs at Hof Unive...
+
+Shape your future with our career-focused Bachelor’s and Master’s programs in English, featuring hands-on learning, integrated industry internships, and strong links to companies!
+
+[More on English-taught Bachelor’s and Master’s programs at Hof University](https://www.daad.pk/en/university-ad/hof-hs-io-ma-ba-260801/)
+
+![Image 40](https://www.daad.pk/files/2026/07/260615_Reutlingen_ESB_Molnar_WA2_Logo-288x162.jpg)
+
+©Copyright &copy; Hochschule Reutlingen ESB Business School
 
 Advertisements by German Universities
 
@@ -337,7 +333,31 @@ Are you looking to study at a German university that will launch your internatio
 
 ## Social Media
 
-![Image 40: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 41: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+
+author DAAD Pakistan date 31. August 2026
+
+ ‼️Last day to apply. Deadline ends on 31.08.2026‼️ 👉Fully funded scholarships by the DAAD for students who wish to conduct their doctoral studies in Germany! 👉Programme Lines funded by the German Federal Foreign Office: 1. Doctoral Programmes in Germany: daad.de/go/en/stipa57135739 2. Research Grants in Germany: daad.de/go/en/stipa57742121 3. Bi-nationally Supervised Doctoral Degrees / Cotutelle: daad.de/go/en/stipa57742121 📌Deadline: 31.08.2026‼️ [#PhDGermany](https://www.facebook.com/hashtag/PhDGermany "Open link in new window")[#DoctoralStudies](https://www.facebook.com/hashtag/DoctoralStudies "Open link in new window")[#phdstudent](https://www.facebook.com/hashtag/phdstudent "Open link in new window")[#PhD](https://www.facebook.com/hashtag/PhD "Open link in new window")[#doctoralstudent](https://www.facebook.com/hashtag/doctoralstudent "Open link in new window")[#ResearchinGermany](https://www.facebook.com/hashtag/ResearchinGermany "Open link in new window")[#research](https://www.facebook.com/hashtag/research "Open link in new window")[#livingingermany](https://www.facebook.com/hashtag/livingingermany "Open link in new window")[#fundingopportunity](https://www.facebook.com/hashtag/fundingopportunity "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")[#GermanyScholarship](https://www.facebook.com/hashtag/GermanyScholarship "Open link in new window")[#DAADScholarship](https://www.facebook.com/hashtag/DAADScholarship "Open link in new window")[#scholarshipsingermany](https://www.facebook.com/hashtag/scholarshipsingermany "Open link in new window")[##doctoralfunding](https://www.facebook.com/hashtag/#doctoralfunding "Open link in new window")[#PhDFunding](https://www.facebook.com/hashtag/PhDFunding "Open link in new window")[#ResearchFunding](https://www.facebook.com/hashtag/ResearchFunding "Open link in new window") See less 
+
+[More](https://www.facebook.com/394933107291444_1591642209414763 "Open link in new window")
+
+![Image 42: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+
+author DAAD Pakistan date 27. August 2026
+
+ ‼️Only 5 days left till the deadline‼️ 👉Fully funded scholarships by the DAAD for students who wish to conduct their doctoral studies in Germany! 👉Programme Lines funded by the German Federal Foreign Office: 1. Doctoral Programmes in Germany: daad.de/go/en/stipa57135739 2. Research Grants in Germany: daad.de/go/en/stipa57742121 3. Bi-nationally Supervised Doctoral Degrees / Cotutelle: daad.de/go/en/stipa57742121 📌Deadline: 31.08.2026‼️ [#PhDGermany](https://www.facebook.com/hashtag/PhDGermany "Open link in new window")[#DoctoralStudies](https://www.facebook.com/hashtag/DoctoralStudies "Open link in new window")[#phdstudent](https://www.facebook.com/hashtag/phdstudent "Open link in new window")[#PhD](https://www.facebook.com/hashtag/PhD "Open link in new window")[#doctoralstudent](https://www.facebook.com/hashtag/doctoralstudent "Open link in new window")[#ResearchinGermany](https://www.facebook.com/hashtag/ResearchinGermany "Open link in new window")[#research](https://www.facebook.com/hashtag/research "Open link in new window")[#livingingermany](https://www.facebook.com/hashtag/livingingermany "Open link in new window")[#fundingopportunity](https://www.facebook.com/hashtag/fundingopportunity "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")[#GermanyScholarship](https://www.facebook.com/hashtag/GermanyScholarship "Open link in new window")[#DAADScholarship](https://www.facebook.com/hashtag/DAADScholarship "Open link in new window")[#scholarshipsingermany](https://www.facebook.com/hashtag/scholarshipsingermany "Open link in new window")[##doctoralfunding](https://www.facebook.com/hashtag/#doctoralfunding "Open link in new window")[#PhDFunding](https://www.facebook.com/hashtag/PhDFunding "Open link in new window")[#ResearchFunding](https://www.facebook.com/hashtag/ResearchFunding "Open link in new window")
+
+[More](https://www.facebook.com/394933107291444_1588217996423851 "Open link in new window")
+
+![Image 43: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+
+author DAAD Pakistan date 20. July 2026
+
+ 📣Research Tour: Biotechnology & Biomedical Innovation‼️ ❓Are you: an international graduate who has completed or are about to complete a master’s degree (final semester) at a university outside Germany in biotechnology, translational life sciences or a related field❓ OR an international doctoral candidate pursuing their doctorate at a university or research institution outside Germany in biotechnology, translational life sciences or a related field❓ Or a postdoctoral researcher who completed their doctorate no more than 4 years before the application deadline in biotechnology, translational life sciences or a related field❓ 👉Then have a look at this opportunity: [https://www.research-in-germany.org/events/research-tours/biotech2026.html](https://www.research-in-germany.org/events/research-tours/biotech2026.html "Open link in new window") 📌Deadline: 02.08.2026 ‼️ German Embassy Islamabad German Consulate General Karachi 
+
+[More](https://www.facebook.com/394933107291444_1555049729740678 "Open link in new window")
+
+![Image 44: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 1. July 2026
 
@@ -345,7 +365,7 @@ author DAAD Pakistan date 1. July 2026
 
 [More](https://www.facebook.com/394933107291444_1539141621331489 "Open link in new window")
 
-![Image 41: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 45: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 11. June 2026
 
@@ -353,7 +373,7 @@ author DAAD Pakistan date 11. June 2026
 
 [More](https://www.facebook.com/394933107291444_1521947829717535 "Open link in new window")
 
-![Image 42: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 46: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 1. June 2026
 
@@ -361,9 +381,9 @@ author DAAD Pakistan date 1. June 2026
 
 [More](https://www.facebook.com/394933107291444_1512781833967468 "Open link in new window")
 
-![Image 43: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1738.jpg)
+![Image 47: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1738.jpg)
 
-![Image 44: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 48: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 25. May 2026
 
@@ -371,9 +391,9 @@ author DAAD Pakistan date 25. May 2026
 
 [More](https://www.facebook.com/394933107291444_1506846607894324 "Open link in new window")
 
-![Image 45: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1736.jpg)
+![Image 49: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1736.jpg)
 
-![Image 46: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 50: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 22. May 2026
 
@@ -381,9 +401,9 @@ author DAAD Pakistan date 22. May 2026
 
 [More](https://www.facebook.com/394933107291444_1504161784829473 "Open link in new window")
 
-![Image 47: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1735.jpg)
+![Image 51: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1735.jpg)
 
-![Image 48: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 52: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 21. May 2026
 
@@ -391,9 +411,9 @@ author DAAD Pakistan date 21. May 2026
 
 [More](https://www.facebook.com/394933107291444_1503401021572216 "Open link in new window")
 
-![Image 49: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1733.jpg)
+![Image 53: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1733.jpg)
 
-![Image 50: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
+![Image 54: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
 
 author DAAD Pakistan date 20. May 2026
 
@@ -401,105 +421,28 @@ author DAAD Pakistan date 20. May 2026
 
 [More](https://www.facebook.com/394933107291444_1502844778294507 "Open link in new window")
 
-![Image 51: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1711.jpg)
-
-![Image 52: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
-
-author DAAD Pakistan date 6. March 2026
-
- 📣10 fully funded PhD positions at the International Max Planck Research School for Living Matter‼️ 👩‍🎓🧑‍🎓Are you passionate about interdisciplinary research and eager to contribute to groundbreaking discoveries in the areas of biochemistry, structural biology, biophysics, cell biology, chemical biology and synthetic biology❓ 👉Deadline: 06 April 2026 👉 More information: [https://www.imprs-lm.mpg.de/index.php/join](https://www.imprs-lm.mpg.de/index.php/join "Open link in new window")[#biochemistry](https://www.facebook.com/hashtag/biochemistry "Open link in new window")[#structuralbiology](https://www.facebook.com/hashtag/structuralbiology "Open link in new window")[#biophysics](https://www.facebook.com/hashtag/biophysics "Open link in new window")[#cellbiology](https://www.facebook.com/hashtag/cellbiology "Open link in new window")[#ChemicalBiology](https://www.facebook.com/hashtag/ChemicalBiology "Open link in new window")[#syntheticbiology](https://www.facebook.com/hashtag/syntheticbiology "Open link in new window") German Consulate General Karachi German Embassy Islamabad [#workingingermany](https://www.facebook.com/hashtag/workingingermany "Open link in new window")[#PhDGermany](https://www.facebook.com/hashtag/PhDGermany "Open link in new window")[#DoctoralStudies](https://www.facebook.com/hashtag/DoctoralStudies "Open link in new window")[#phdstudent](https://www.facebook.com/hashtag/phdstudent "Open link in new window")[#PhD](https://www.facebook.com/hashtag/PhD "Open link in new window")[#doctoralstudent](https://www.facebook.com/hashtag/doctoralstudent "Open link in new window")[#ResearchinGermany](https://www.facebook.com/hashtag/ResearchinGermany "Open link in new window")[#research](https://www.facebook.com/hashtag/research "Open link in new window")[#livingingermany](https://www.facebook.com/hashtag/livingingermany "Open link in new window")[#workingingermany](https://www.facebook.com/hashtag/workingingermany "Open link in new window")[#fundingopportunities](https://www.facebook.com/hashtag/fundingopportunities "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")
-
-[More](https://www.facebook.com/394933107291444_1441306884448297 "Open link in new window")
-
-![Image 53: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1710.jpg)
-
-![Image 54: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
-
-author DAAD Pakistan date 5. March 2026
-
- 📣3 PhD Positions at the Eberhard Karls Universität Tübingen in Advanced Bioreactor Cultivation‼️ 👉Do you have a Master’s degree in Environmental Biotechnology, Biochemical Engineering, or a related field❓ 👉More information: [https://uni-tuebingen.de/en/university/careers/job-vacancies/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=1&cHash=9c2d6466bc32f03756dde0f09afe12c8#c467734](https://uni-tuebingen.de/en/university/careers/job-vacancies/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5BcurrentPage%5D=1&cHash=9c2d6466bc32f03756dde0f09afe12c8#c467734 "Open link in new window") 👉 Deadline: 31 March 2026 [#EnvironmentalBiotechnology](https://www.facebook.com/hashtag/EnvironmentalBiotechnology "Open link in new window")[#biochemicalengineering](https://www.facebook.com/hashtag/biochemicalengineering "Open link in new window") German Consulate General Karachi German Embassy Islamabad [#workingingermany](https://www.facebook.com/hashtag/workingingermany "Open link in new window")[#jobopportunity](https://www.facebook.com/hashtag/jobopportunity "Open link in new window")[#jobingermany](https://www.facebook.com/hashtag/jobingermany "Open link in new window")[#PhDGermany](https://www.facebook.com/hashtag/PhDGermany "Open link in new window")[#DoctoralStudies](https://www.facebook.com/hashtag/DoctoralStudies "Open link in new window")[#phdstudent](https://www.facebook.com/hashtag/phdstudent "Open link in new window")[#PhD](https://www.facebook.com/hashtag/PhD "Open link in new window")[#doctoralstudent](https://www.facebook.com/hashtag/doctoralstudent "Open link in new window")[#ResearchinGermany](https://www.facebook.com/hashtag/ResearchinGermany "Open link in new window")[#research](https://www.facebook.com/hashtag/research "Open link in new window")[#livingingermany](https://www.facebook.com/hashtag/livingingermany "Open link in new window")[#workingingermany](https://www.facebook.com/hashtag/workingingermany "Open link in new window")[#fundingopportunities](https://www.facebook.com/hashtag/fundingopportunities "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")
-
-[More](https://www.facebook.com/394933107291444_1440554097856909 "Open link in new window")
-
-![Image 55: Social Media Teaser Image](https://www.daad.pk/content/data/socialmedia-assets/blog-143/1709.jpg)
-
-![Image 56: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)
-
-author DAAD Pakistan date 4. March 2026
-
- 📣16 fully financed PhD Positions at the University of Münster in Imaging Cellular Processes and Disease‼️ 👉 Research areas: Cell and Molecular Biology * Developmental Biology, Vascular Biology * Immunology, Biophysics * Neurobiology, In vivo Imaging * High Resolution Optical Imaging and more. 👉More information: [https://www.uni-muenster.de/CiM-IMPRS](https://www.uni-muenster.de/CiM-IMPRS "Open link in new window") 👉 Deadline: 01 May 2026 [#molecularbiology](https://www.facebook.com/hashtag/molecularbiology "Open link in new window")[#biophysics](https://www.facebook.com/hashtag/biophysics "Open link in new window")[#immunology](https://www.facebook.com/hashtag/immunology "Open link in new window")[#vascularbiology](https://www.facebook.com/hashtag/vascularbiology "Open link in new window")[#developmentalbiology](https://www.facebook.com/hashtag/developmentalbiology "Open link in new window")[#neurobiology](https://www.facebook.com/hashtag/neurobiology "Open link in new window")[#InVivoImaging](https://www.facebook.com/hashtag/InVivoImaging "Open link in new window") German Consulate General Karachi German Embassy Islamabad [#PhDGermany](https://www.facebook.com/hashtag/PhDGermany "Open link in new window")[#DoctoralStudies](https://www.facebook.com/hashtag/DoctoralStudies "Open link in new window")[#phdstudent](https://www.facebook.com/hashtag/phdstudent "Open link in new window")[#PhD](https://www.facebook.com/hashtag/PhD "Open link in new window")[#doctoralstudent](https://www.facebook.com/hashtag/doctoralstudent "Open link in new window")[#ResearchinGermany](https://www.facebook.com/hashtag/ResearchinGermany "Open link in new window")[#research](https://www.facebook.com/hashtag/research "Open link in new window")[#livingingermany](https://www.facebook.com/hashtag/livingingermany "Open link in new window")[#workingingermany](https://www.facebook.com/hashtag/workingingermany "Open link in new window")[#fundingopportunities](https://www.facebook.com/hashtag/fundingopportunities "Open link in new window")[#fundinggermany](https://www.facebook.com/hashtag/fundinggermany "Open link in new window")
-
-[More](https://www.facebook.com/394933107291444_1439853914593594 "Open link in new window")
-
  Show more  Show less 
 
 [](https://www.daad.pk/en/#header "Skip to top of page")
 
-![Image 57: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)![Image 58: DAAD Pakistan](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Mobile_Pakistan_DEEN_RGB-01.svg)
+![Image 55: DAAD Pakistan - German Academic Exchange Service ](https://www.daad.pk/files/2022/06/DAAD_Logo_Mobile_Pakistan_DEEN_RGB.svg)![Image 56: DAAD Pakistan](https://www.daad.pk/files/2024/07/neg-DAAD_Logo_Mobile_Pakistan_DEEN_RGB-01.svg)
 *   [Imprint](https://www.daad.pk/en/imprint/ "Imprint")
 *   [Data Privacy Statement](https://www.daad.pk/en/data-privacy-statement/ "Data Privacy Statement")
 *   [Accessibility Declaration](https://www.daad.pk/en/accessibility-declaration/ "Accessibility Declaration")
+*    Cookies 
 *   [Report an Accessibility Issue](https://www.daad.pk/en/report-an-accessibility-issue/?from-url=https%3A%2F%2Fwww.daad.pk%2Fen%2F "Opens the report accessibility form")
 
 *   [](https://www.facebook.com/daadicpakistan/ "Opens new window")
 *   [](https://www.youtube.com/channel/UCjb6YosnJsp0R0FXpR2H4wQ "Opens new window")
 *   [](https://www.linkedin.com/company/daad-pakistan "Opens new window")
 
-## Cookie Acceptance
+# Cookie Consent
 
-I am at least 16 years old and I consent to the DAAD (Deutscher Akademischer Austauschdienst e.V., Kennedyallee, 53175 Bonn) and third parties using cookies and processing information about my use of this and previously visited websites. I can remove individual instances and [third parties](https://www.daad.pk/en/data-privacy-statement#google-analytics "Open link in new window") from the following list excluding them from my consent. If the use of a cookie enables access to my data from a third country (outside the European Economic Area), my consent is also given to this. My consent is voluntary and I can revoke it at any time with effect for the future in the cookie centre. This is linked to the [data protection policy](https://www.daad.pk/en/data-privacy-statement/ "Open link in new window").
+To improve the website, the[DAAD](https://www.daad.pk/en/#)and[third parties](https://www.daad.pk/en/#)set[cookies](https://www.daad.pk/en/#)and[process usage data](https://www.daad.pk/en/#). In doing so, the DAAD and third parties transfer usage data to[third countries](https://www.daad.pk/en/#)in which there is no level of data protection comparable to that under EU law. By clicking the "Accept all" button, you consent to this processing. You can also find selection options and explanations of these cookies and processing at the end of this page under "Cookies". There you can[withdraw](https://www.daad.pk/en/#)consent at any time with effect for the future.
 
-### Google Analytics
+Settings Reject
 
-- [x] Google Analytics 
+Accept
 
-By setting these cookies, the DAAD aims to continuously improve this website and to analyse visitors' usage behaviour by evaluating which website the visitor comes from and what content he or she views (for how long).
-
-#### [More information](https://www.daad.pk/en/#js-cookie-more-googleAnalyticsId)
-
-**Categories of personal data:** Date and time of the visit, usage data (visits, page views / clicks), click path, browser information (browser type, version), device information (operating system; smartphone / tablet / PC), referring pages / referrer URL (from which page do users come to the DAAD website?), Finished pages (which page do users go to again from daad.de?), Displayed files and downloads, location information (country).
-
-Name _ga Provider Google LLC Storage period Permanent cookie (2 years)Third country transfer USA Guarantee: Standard contractual clauses in accordance with Art. 46 Paragraph 2 GDPR; Exception according to Art. 49 Para. 1 lit. a GDPR Name _gat Provider Google LLC Storage period Permanent cookie (1 minute)Third country transfer USA Guarantee: Standard contractual clauses in accordance with Art. 46 Paragraph 2 GDPR; Exception according to Art. 49 Para. 1 lit. a GDPR Name _gid Provider Google LLC Storage period Permanent cookie (24h)Third country transfer USA Guarantee: Standard contractual clauses in accordance with Art. 46 Paragraph 2 GDPR; Exception according to Art. 49 Para. 1 lit. a GDPR
-
-### PHP Session
-
-Technically required cookies cannot be rejected
-
-- [x] PHP Session (Technically required) 
-
-This cookie is necessary to authenticate users in various databases and to use forms.
-
-#### [More information](https://www.daad.pk/en/#js-cookie-more-sessionId)
-
-Name PHPSESSID Provider DAAD Storage period Session cookie (end of session)
-
-### Cookie Einstellungen
-
-Technically required cookies cannot be rejected
-
-- [x] Cookie Einstellungen (Technically required) 
-
-This cookie saves your cookie settings and prevents the cookie banner from being displayed whenever you visit this website.
-
-#### [More information](https://www.daad.pk/en/#js-cookie-more-cookieConsentId)
-
-Name daad_cookie_consent Provider DAAD Storage period Permanent cookie (1 year)
-
-### Notifications
-
-Technically required cookies cannot be rejected
-
-- [x] Notifications (Technically required) 
-
-These cookies save your settings and prevent notifications in the form of pop-ups (alerts, banners) from being shown multiple times a day.
-
-#### [More information](https://www.daad.pk/en/#js-cookie-more-notificationsId)
-
-Name DAADAsIcIpAlert Provider DAAD Storage period Permanent Cookie (2 years)Name DAADAsIcIpEmergency Provider DAAD Storage period Permanent Cookie (2 years)
-
-Accept the selected Proceed with the necessary
-
-Accept all
-
-*   [Data Protection Policy](https://www.daad.pk/en/data-privacy-statement/ "Open link in new window")
-*   [Imprint](https://www.daad.pk/en/imprint/ "Open link in new window")
+*   [Imprint](https://www.daad.pk/en/imprint/ "Page opens in new window")
+*   [Privacy Policy](https://www.daad.pk/en/data-privacy-statement/ "Open link in new window")

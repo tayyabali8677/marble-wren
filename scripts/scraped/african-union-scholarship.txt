@@ -3,21 +3,27 @@ Title: Page not found | African Union
 
 URL Source: https://au.int/en/scholarships
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to main content](https://au.int/en/scholarships#main-content)
 
 ## NOW
 
-*   2026-06-03[AU Leaders Stress Urgent Need for Resource Mobilization & Unity](https://au.int/en/pressrelease/african-union-leaders-stress-urgent-need-resource-mobilization-and-unity-advance)
-*   2026-06-03[Fifty Second Ordinary Session of the Permanent Representatives’ Committee](https://au.int/en/newsevent/fifty-second-52nd-ordinary-session-permanent-representatives-committee-prc)
-*   2026-05-06[Online Registration For Journalists Now Open 8th Mid-Year Coordination Meeting](https://au.int/en/node/46357)
-*   2026-02-14[39th Ordinary Session of the Assembly](https://au.int/en/newsevents/20260214/39th-ordinary-session-assembly)
-*   2025-03-17[Call for papers AU ECHO 2025 Edition](https://au.int/en/pressreleases/20250317/call-papers-au-echo-2025-edition)
-*   2026-07-17[AUC Chairperson received Letters of Credence of Ambassador of Ghana](https://au.int/en/pressrelease/auc-chairperson-received-letters-credence-he-mcaros-akanbeanab-akanbong-ambassador)
-*   2026-07-17[AUC Chairperson met with Special Representative of UNSG & Head of MINUSCA](https://au.int/en/pressrelease/auc-chairperson-met-ms-valentine-rugwabiza-special-representative-un-secretary-general)
-*   2026-07-17[First Ordinary Session Of Seventh Legislature Of The Pan-African Parliament](https://au.int/en/newsevent/first-ordinary-session-seventh-legislature-pan-african-parliament)
-*   2026-07-17[Message du Président de la CUA à la suite du décès de SE Hassan Omar Mohamed](https://au.int/en/pressrelease/message-du-president-de-la-commission-de-lunion-africaine-se-m-mahmoud-ali-youssouf-la)
-*   2026-07-16[AUC Chairperson received by Prime Minister of the Republic of Burkina Faso](https://au.int/en/pressrelease/auc-chairperson-was-received-prime-minister-republic-burkina-faso-he-rimtalba-jean)
+*   2026-10-07[AUC Chairperson Helps to Officially Launch Africa Credit Rating Agency (AfCRA)](https://au.int/en/pressreleases/20261007/auc-chairperson-helps-officially-launch-africa-credit-rating-agency-afcra)
+*   2026-10-07[THE AFRICAN COURT ON HUMAN AND PEOPLES’ RIGHTS UNVEILS 2026–2028 STRATEGIC PLAN](https://au.int/en/pressreleases/20261007/african-court-human-and-peoples-rights-unveils-2026-2028-strategic-plan)
+*   2026-10-12[The 89th Ordinary Session of the African Commission on Human & Peoples’ Rights](https://au.int/en/newsevents/20261012/89th-ordinary-session-african-commission-human-peoples-rights)
+*   2026-10-12[3rd Africa Skills Week 2026](https://au.int/en/newsevents/20261012/3rd-africa-skills-week-2026-theme-skills-resilient-and-competitive-african)
+*   2026-10-11[AUC Chairperson Statement on Tragic Loss of Migrant Lives off Coast of Djibouti](https://au.int/en/pressreleases/20261011/auc-chairperson-statement-tragic-loss-migrant-lives-coast-djibouti)
+*   2026-10-11[OFFICIAL COMMEMORATIVE STATEMENT International Day of the Girl Child](https://au.int/en/speeches/20261011/official-commemorative-statement-international-day-girl-child-he-amb-amma-twum)
+*   2026-10-11[AUC Statement on the Attack against King Khalid International Airport in Riyadh](https://au.int/en/pressreleases/20261011/auc-statement-attack-against-king-khalid-international-airport-riyadh)
+*   2026-10-10[AU Commission Chairperson Congratulates Navi Pillay on 2026 Nobel Peace Prize](https://au.int/en/pressreleases/20261010/au-commission-chairperson-congratulates-navi-pillay-2026-nobel-peace-prize)
+*   2026-10-08[COMMEMORATIVE STATEMENT BY H.E. AMBASSADOR AMMA A. TWUM-AMOAH COMMISSIONER](https://au.int/en/speeches/20261008/commemorative-statement-he-ambassador-amma-twum-amoah-commissioner-health)
+*   2026-10-08[AUC Chairperson chaired a High-Level Roundtable on “Beyond AfCRA"](https://au.int/en/pressreleases/20261008/auc-chairperson-chaired-high-level-roundtable-beyond-afcra)
+*   2026-10-07[AUC Chairperson Helps to Officially Launch Africa Credit Rating Agency (AfCRA)](https://au.int/en/pressreleases/20261007/auc-chairperson-helps-officially-launch-africa-credit-rating-agency-afcra)
+*   2026-10-07[THE AFRICAN COURT ON HUMAN AND PEOPLES’ RIGHTS UNVEILS 2026–2028 STRATEGIC PLAN](https://au.int/en/pressreleases/20261007/african-court-human-and-peoples-rights-unveils-2026-2028-strategic-plan)
+*   2026-10-12[The 89th Ordinary Session of the African Commission on Human & Peoples’ Rights](https://au.int/en/newsevents/20261012/89th-ordinary-session-african-commission-human-peoples-rights)
+*   2026-10-12[3rd Africa Skills Week 2026](https://au.int/en/newsevents/20261012/3rd-africa-skills-week-2026-theme-skills-resilient-and-competitive-african)
 
 *   [English](https://au.int/en/system/404)
 *   [Français](https://au.int/fr/system/404)
@@ -28,26 +34,33 @@ Markdown Content:
 
 [Welcome](https://au.int/en/scholarships#)
 
-*   [![Image 1](https://au.int/themes/custom/au/img/social-icons/twitter.png)](https://twitter.com/_AfricanUnion "African Union on Twitter")
-*   [![Image 2](https://au.int/themes/custom/au/img/social-icons/facebook.png)](https://www.facebook.com/AfricanUnionCommission "African Union on Facebook")
-*   [![Image 3](https://au.int/themes/custom/au/img/social-icons/flickr-logo.png)](http://www.flickr.com/photos/africanunioncommission/ "African Union on Flickr")
-*   [![Image 4](https://au.int/themes/custom/au/img/social-icons/youtube.png)](https://www.youtube.com/AUCommission "African Union on YouTube")
-*   [![Image 5](https://au.int/themes/custom/au/img/social-icons/instagram.png)](https://www.instagram.com/africanunion_official/ "African Union on Instragram")
-*   [![Image 6](https://au.int/themes/custom/au/img/social-icons/threads.png)](https://www.threads.net/@africanunion_official "African Union on Thread")
-*   [![Image 7](https://au.int/themes/custom/au/img/social-icons/streaming-2.png)](https://livestream.com/accounts/2466140 "African Union Livestream")
-*   [![Image 8](https://au.int/themes/custom/au/img/social-icons/linkedin.png)](https://au.int/en/scholarships# "African Union on LinkdIn")
+*   [African Union on X](https://x.com/_AfricanUnion "African Union on X")
+*   [African Union on Facebook](https://www.facebook.com/AfricanUnionCommission "African Union on Facebook")
+*   [African Union on Flickr](https://www.flickr.com/photos/africanunioncommission/ "African Union on Flickr")
+*   [African Union on YouTube](https://www.youtube.com/AUCommission "African Union on YouTube")
+*   [African Union on Instagram](https://www.instagram.com/africanunion_official/ "African Union on Instagram")
+*   [African Union on Threads](https://www.threads.com/@africanunion_official "African Union on Threads")
+*   [African Union on Vimeo](https://vimeo.com/africanunion "African Union on Vimeo")
+*   [African Union on LinkedIn](https://www.linkedin.com/company/african-union-commission-addis-ababa "African Union on LinkedIn")
 
-[![Image 9: Home](https://au.int/sites/default/files/auweblogo-en.png)](https://au.int/en)
+[![Image 1: Home](https://au.int/sites/default/files/auweblogo-en-2x.webp)](https://au.int/en)
 
 [African Union](https://au.int/en)
 
-*   [![Image 10: Theme of the Year 2026: Assuring Sustainable Water Availability and Safe Sanitation Systems to Achieve the Goals of Agenda 2063](https://au.int/sites/default/files/styles/banner_top/public/slides/46067-slide-Theme2026_1280x175_English_1.png?itok=p1y8bM_g)](https://au.int/%5Bfield_link%5D "[title]")  
+*   [![Image 2: Theme of the Year 2026: Assuring Sustainable Water Availability and Safe Sanitation Systems to Achieve the Goals of Agenda 2063](https://au.int/sites/default/files/styles/banner_top/public/slides/46067-slide-Theme2026_1280x175_English_1.png.webp?itok=U-XOOLbv)](https://au.int/%5Bfield_link%5D "[title]")  
+
+[![Image 3: Home](https://au.int/sites/default/files/auweblogo-en-2x.webp)](https://au.int/en)
+
+EN Menu
 
 Menu
-*   [HOME](https://au.int/en)
-*   [WHO WE ARE](https://au.int/en/overview)
 
-    *   ![Image 11: Who We Are](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-who_we_are_1.png?itok=nrPFmOUY) Promoting Africa’s growth and economic development by championing citizen inclusion and increased cooperation and integration of African states. 
+[![Image 4: Home](https://au.int/sites/default/files/auweblogo-en-2x.webp)](https://au.int/en)Close
+
+*   [HOME](https://au.int/en) 
+*   [WHO WE ARE](https://au.int/en/overview) 
+
+    *   ![Image 5: Who We Are](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-who_we_are_1.png.webp?itok=pORSCkTR) Promoting Africa’s growth and economic development by championing citizen inclusion and increased cooperation and integration of African states. 
     *   [About the African Union](https://au.int/en/overview)
         *   [Overview](https://au.int/en/overview)
         *   [Member States](https://au.int/en/member_states/countryprofiles2)
@@ -86,9 +99,9 @@ Menu
         *   [Special Representatives](https://au.int/en/special-representatives)
         *   [AU Elections](https://au.int/au-elections)
 
-*   [WHAT WE DO](https://au.int/en/page/lua-en-bref)
+*   [WHAT WE DO](https://au.int/en/page/lua-en-bref) 
 
-    *   ![Image 12: What We Do](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-what_we_do.png?itok=4TXvV1m5) Promoting Africa’s growth and economic development by championing citizen inclusion and increased cooperation and integration of African states. 
+    *   ![Image 6: What We Do](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-what_we_do.png.webp?itok=QtpfPZOU) Promoting Africa’s growth and economic development by championing citizen inclusion and increased cooperation and integration of African states. 
     *   [Key Programme Areas](https://au.int/en)
         *   [Infrastructure & Energy Development](https://au.int/en/topics/conflict-prevention)
         *   [Conflict Resolution, Peace & Security](https://au.int/en/conflict-resolution-peace-security)
@@ -110,7 +123,6 @@ Menu
         *   [Cabinet of the Chairperson (CCP)](https://au.int/en/cpauc)
         *   [Cabinet of the Deputy Chairperson (CDCP)](https://au.int/en/dcpauc)
         *   [Agriculture, Rural Development, Blue Economy, and Sustainable Environment (ARBE)](https://au.int/en/arbe)
-        *   [Economic Development, Trade, Tourism, Industry, Minerals (ETTIM)](https://au.int/en/ti)
         *   [Education, Science, Technology and Innovation (ESTI)](https://au.int/en/esti)
         *   [Infrastructure and Energy](https://au.int/en/ie)
         *   [Political Affairs, Peace and Security (PAPS)](https://au.int/en/paps)
@@ -139,7 +151,7 @@ Menu
 
     *   [MISSION & SPECIAL LIAISON OFFICES](https://au.int/en)
         *   [Washington DC](https://au.int/en/mission-usa)
-        *   [New York](https://au.int/en/page/new-york-office)
+        *   [New York](https://au.int/en/new-york-office)
         *   [Geneva](https://au.int/en)
         *   [EU & African Caribbean & Pacific States](https://au.int/en)
         *   [League of Arab States](https://au.int/en)
@@ -148,9 +160,9 @@ Menu
         *   [Other Mission and Special Liaison Offices](https://au.int/en)
         *   [SPECIAL UNITS](https://au.int/en)
 
-*   [AGENDA 2063](https://au.int/en/agenda2063/overview)
+*   [AGENDA 2063](https://au.int/en/agenda2063/overview) 
 
-    *   ![Image 13: Agenda 2063](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-agenda_2063_1.png?itok=rKFL2NL6) Agenda 2063 is the blueprint and master plan for transforming Africa into the global powerhouse of the future. It is the strategic framework for delivering on Africa’s goal for inclusive and sustainable development and is a concrete manifestation of the pan-African drive for unity, self-determination, freedom, progress and collective prosperity pursued under Pan-Africanism and African Renaissance. 
+    *   ![Image 7: Agenda 2063](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-agenda_2063_1.png.webp?itok=uqfUeqXl) Agenda 2063 is the blueprint and master plan for transforming Africa into the global powerhouse of the future. It is the strategic framework for delivering on Africa’s goal for inclusive and sustainable development and is a concrete manifestation of the pan-African drive for unity, self-determination, freedom, progress and collective prosperity pursued under Pan-Africanism and African Renaissance. 
     *   [Agenda 2063](https://au.int/en/agenda2063/overview)
         *   [Overview](https://au.int/en/agenda2063/overview)
         *   [Aspirations](https://au.int/en/agenda2063/aspirations)
@@ -162,9 +174,9 @@ Menu
         *   [Goals & Priority Areas](https://au.int/en/agenda2063/goals)
         *   [Linking Agenda 2063 and the SDGs](https://au.int/en/agenda2063/sdgs)
 
-*   [AU REFORMS](https://au.int/en/aureforms/overview)
+*   [AU REFORMS](https://au.int/en/aureforms/overview) 
 
-    *   ![Image 14: President William Samuel Ruto](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-President_William_Samoei_Ruto_.png?itok=DHT7RKVG) H.E President William Samoei Ruto (PhD), President of the Republic of Kenya and the African Union Champion on Institutional Reform. H.E. Ruto was appointed during the 37th Assembly of Heads of State and Government in February 2024 to champion the AU Institutional Reform process taking over from the H.E Paul Kagame, President of the Republic of Rwanda who led the implementation of the reform process since 2016. 
+    *   ![Image 8: President William Samuel Ruto](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-President_William_Samoei_Ruto_.png.webp?itok=vUwJfuYt) H.E President William Samoei Ruto (PhD), President of the Republic of Kenya and the African Union Champion on Institutional Reform. H.E. Ruto was appointed during the 37th Assembly of Heads of State and Government in February 2024 to champion the AU Institutional Reform process taking over from the H.E Paul Kagame, President of the Republic of Rwanda who led the implementation of the reform process since 2016. 
     *   [AU Reforms](https://au.int/en/aureforms/overview)
         *   [Overview of Institutional Reforms](https://au.int/en/aureforms/overview)
         *   [Continental Priorities](https://au.int/en/aureforms/priorities)
@@ -174,29 +186,29 @@ Menu
         *   [Sustainable Financing](https://au.int/en/aureforms/financing)
         *   [Peace Fund](https://au.int/en/PeaceFund)
 
-*   [TREATIES](https://au.int/en/treaties)
+*   [TREATIES](https://au.int/en/treaties) 
 
-    *   ![Image 15: AU Treaties](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-treaties_0.png?itok=06KHxdQY) 
+    *   ![Image 9: AU Treaties](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-treaties_0.png.webp?itok=vnogoepC) 
     *   [Treaties](https://au.int/en/treaties)
-        *   [Constitutive Act, Charters, Privileges & Immunities](https://au.int/en/treaties)
-        *   [Treaties on Peace & Security](https://au.int/en/treaties)
-        *   [Energy & Infrastructure Treaties](https://au.int/en/treaties)
-        *   [Agriculture & Environmental Management Treaties](https://au.int/en/treaties)
-        *   [Treaties on Trade, Economic Integration & Development](https://au.int/en/treaties)
-        *   [Treaties on Refugees, Migration, Labour & Employment](https://au.int/en/treaties)
-        *   [Governance Treaties](https://au.int/en/treaties)
-        *   [Human Rights Treaties](https://au.int/en/treaties)
-        *   [Health & Social Welfare Treaties](https://au.int/en/treaties)
-        *   [Treaties on Sports, Arts & Culture](https://au.int/en/treaties)
-        *   [Treaties on Education, Science & Technology](https://au.int/en/treaties)
-        *   [Treaties on Youth Development](https://au.int/en/treaties)
-        *   [Treaties on Civil Society & Diaspora](https://au.int/en/treaties)
-        *   [Treaties on Women & Gender Issues](https://au.int/en/treaties)
+        *   [Constitutive Act, Charters, Privileges & Immunities](https://au.int/en/treaties/1157)
+        *   [Treaties on Peace & Security](https://au.int/en/treaties/1158)
+        *   [Energy & Infrastructure Treaties](https://au.int/en/treaties/1159)
+        *   [Agriculture & Environmental Management Treaties](https://au.int/en/treaties/1160)
+        *   [Treaties on Trade, Economic Integration & Development](https://au.int/en/treaties/1161)
+        *   [Treaties on Refugees, Migration, Labour & Employment](https://au.int/en/treaties/1162)
+        *   [Governance Treaties](https://au.int/en/treaties/1163)
+        *   [Human Rights Treaties](https://au.int/en/treaties/1164)
+        *   [Health & Social Welfare Treaties](https://au.int/en/treaties/1165)
+        *   [Treaties on Sports, Arts & Culture](https://au.int/en/treaties/1166)
+        *   [Treaties on Education, Science & Technology](https://au.int/en/treaties/1167)
+        *   [Treaties on Youth Development](https://au.int/en/treaties/1168)
+        *   [Treaties on Civil Society & Diaspora](https://au.int/en/treaties/1169)
+        *   [Treaties on Women & Gender Issues](https://au.int/en/treaties/1170)
         *   [Status of All Treaties](https://au.int/en/treaties)
 
-*   [NEWS & MEDIA](https://au.int/en/happening)
+*   [NEWS & MEDIA](https://au.int/en/happening) 
 
-    *   ![Image 16: AU News and Media](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-news_and_media_1.png?itok=MMTphhjp) 
+    *   ![Image 10: AU News and Media](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-news_and_media_1.png.webp?itok=OX-RwF3B) 
     *   [NEWS & MEDIA](https://au.int/en)
         *   [Latest News](https://au.int/en/happening)
         *   [Press Releases](https://au.int/en/happening/news)
@@ -213,9 +225,9 @@ Menu
     *   [MEDIA ACCREDITATION](https://au.int/en/media-accreditation)
         *   [LEGAL NOTICES](https://au.int/en/legal_notice)
 
-*   [RESOURCES](https://au.int/en/resources/filter)
+*   [RESOURCES](https://au.int/en/resources/filter) 
 
-    *   ![Image 17: AU Resources](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-resources_1.png?itok=sEooUYsS) 
+    *   ![Image 11: AU Resources](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-resources_1.png.webp?itok=0Ru4i3Ez) 
     *   [Key Documents & Reports](https://au.int/en/resources/filter)
         *   [AU Financial Statements](https://au.int/en/financial-reports)
         *   [AU Budgets](https://au.int/en/budget-and-financial-reports)
@@ -232,7 +244,7 @@ Menu
         *   [AU Echo Magazine](https://au.int/en/documents/1148)
         *   [Agenda 2063: The Africa we want](https://au.int/en/agenda2063/overview)
         *   [Sectoral Reports](https://au.int/en/documents/1147)
-        *   [The Africa Fact Book](https://au.int/en/document/africa-fact-book)
+        *   [The Africa Fact Book](https://au.int/en/africa-fact-book)
 
     *   [More Resources](https://au.int/en/resources/filter)
         *   [Election Calendar](https://au.int/en/elections_Calendar)
@@ -242,21 +254,21 @@ Menu
         *   [AU Archives](http://archive.au.int/)
         *   [African Knowledge Sharing Platform - AKSP](https://aksp.au.int/)
 
-*   [WORK WITH US](https://au.int/en)
+*   [WORK WITH US](https://au.int/en) 
 
-    *   ![Image 18: Work with Us](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-work_with_us.png?itok=vnNMMbr0) The AU offers exciting opportunities to get involved in determining continental policies and implementing development programmes that impact the lives of African citizens everywhere. Find out more by visiting the links on right. 
+    *   ![Image 12: Work with Us](https://au.int/sites/default/files/styles/thumbnail/public/blocks/menublocks-img-work_with_us.png.webp?itok=ohz5vDd0) The AU offers exciting opportunities to get involved in determining continental policies and implementing development programmes that impact the lives of African citizens everywhere. Find out more by visiting the links on right. 
     *   [Job Seekers](https://au.int/en)
         *   [Vacancies](http://careers.au.int/)
         *   [Volunteer](https://au.int/en/volunteer/african-union-youth-volunteer-corps)
         *   [Internship](https://au.int/en/internships)
 
     *   [Corporate Procurement](https://au.int/en/procurement)
-        *   [Business Opportunities](https://au.int/en/node/38137)
+        *   [Business Opportunities](https://au.int/en/all-bids)
         *   [AUC Procurement Policy](https://au.int/en/documents/procurement-manual)
         *   [Annual Procurement Plan](https://au.int/en/documents/annual-procurement-plan)
         *   [Notice of Awarded Contracts](https://au.int/en/documents/contract-awards)
         *   [Notification of Unsuccessful Bids](https://au.int/en/documents/20190802/notification-unsuccessful-bids)
-        *   [Bids](https://au.int/en/node/38137)
+        *   [Bids](https://au.int/en/all-bids)
 
     *   [PARTNERS](https://au.int/en/partnerships)
         *   [Development Partners](https://au.int/en/partnerships)
@@ -270,11 +282,18 @@ Menu
         *   [Visit the AU Headquarters](https://au.int/en/visit-au-headquarters)
         *   [Host your event at the AU Headquarters](https://au.int/en/auccc)
 
-*   [SEARCH](https://au.int/en/search)
+*   [SEARCH](https://au.int/en/search) 
 
-## Breadcrumb
+Language 
 
-1.   [Home](https://au.int/en)
+*   [African Union on X](https://x.com/_AfricanUnion "African Union on X")
+*   [African Union on Facebook](https://www.facebook.com/AfricanUnionCommission "African Union on Facebook")
+*   [African Union on Flickr](https://www.flickr.com/photos/africanunioncommission/ "African Union on Flickr")
+*   [African Union on YouTube](https://www.youtube.com/AUCommission "African Union on YouTube")
+*   [African Union on Instagram](https://www.instagram.com/africanunion_official/ "African Union on Instagram")
+*   [African Union on Threads](https://www.threads.com/@africanunion_official "African Union on Threads")
+*   [African Union on Vimeo](https://vimeo.com/africanunion "African Union on Vimeo")
+*   [African Union on LinkedIn](https://www.linkedin.com/company/african-union-commission-addis-ababa "African Union on LinkedIn")
 
 [](https://au.int/en/scholarships)
 
@@ -284,23 +303,140 @@ Menu
 
  The requested page could not be found. 
 
+## Departments
+
+*   [Agriculture, Rural Development, Blue Economy and Sustainable Environment (ARBE)](https://au.int/en/arbe)
+*   [Economic Development, Tourism, Trade, Industry, Minerals (ETTIM)](https://au.int/en/ettim)
+*   [Education, Science, Technology & Innovation (ESTI)](https://au.int/en/esti)
+*   [Infrastructure and Energy Department (IED)](https://au.int/en/ie)
+*   [Political Affairs, Peace and Security (PAPS)](https://au.int/en/paps)
+*   [Health, Humanitarian Affairs & Social Development (HHS)](https://au.int/en/hhs)
+*   [Women, Gender and Youth](https://au.int/en/wgyd)
+*   [Civil Society and Diaspora](https://au.int/en/cido)
+*   [More](https://au.int/en/commission)
+
+## Agenda 2063
+
+Flagship Projects
+
+Integrated High Speed Train Network
+
+Connecting African capitals and commercial centers through a High-Speed Train Network; facilitating the movement of goods, factor services and people as well as reducing transport costs and relieving congestion of current and future systems through increased rail connectivity.
+
+[More](https://au.int/flagships/integrated-high-speed-train-network)
+
+African Commodities Strategy
+
+Transforming Africa from a raw materials supplier by enabling countries to add value, extract higher rents from commodities, integrate into global value chains promote diversification anchored in value addition and local content development.
+
+[More](https://au.int/flagships/african-commodities-strategy)
+
+African Continental Free Trade Area (AfCFTA)
+
+Accelerating intra-African trade and boosting Africa’s trading position in the global market by strengthening Africa’s common voice and policy space in global trade negotiations.
+
+[More](https://au.int/african-continental-free-trade-area)
+
+The African Passport & Free Movement of People
+
+Removing restrictions on Africans’ ability to travel, work and live within their own continent by transforming restrictive laws and promoting visa free travel to enhance movement of all African citizens in all African countries.
+
+[More](https://au.int/flagships/african-passport-free-movement)
+
+Silencing the Guns by 2020
+
+Ending all wars, civil conflicts, gender-based violence, violent conflicts and preventing genocide in the continent by 2020.
+
+[More](https://au.int/flagships/silencing-guns-2020)
+
+The Grand Inga Dam Project
+
+Generating an estimated 43,200MW of power to support current regional power pools and their combined service to transform Africa from traditional to modern sources of energy and ensure access to clean and affordable electricity.
+
+[More](https://au.int/flagships/grand-inga-dam-project)
+
+Single African Air-Transport Market
+
+Promoting intra-regional connectivity between the capital cities of Africa by creating a single unified air transport market in Africa, as an impetus to the continent’s economic integration and growth agenda.
+
+[More](https://au.int/flagships/single-african-air-transport-market-saatm)
+
+African Economic Forum
+
+Multi-stakeholder meeting bringing together the Africa’s policy makers, private sector, academia and civil society to reflect on accelerating Africa’s socio- economic development and transformation by harnessing its vast resources.
+
+[More](https://au.int/flagships/african-economic-forum)
+
+African Financial Institutions
+
+Accelerating integration and economic development through the establishment of organisations which will play a pivotal role in the mobilization of resources and management of the African financial sector.
+
+[More](https://au.int/flagships/african-financial-institutions)
+
+The Pan African e-Network
+
+Transforming Africa into an e-Society by implementing policies and strategies that lead to transformative e-applications and services in Africa such as broad band terrestrial infrastructure, cyber security and revolutionary bio and nanotechnology industries.
+
+[More](https://au.int/flagships/pan-african-e-network)
+
+Africa Outer Space Strategy
+
+Strengthening Africa’s use of outer space to bolster development in critical sectors such as agriculture, disaster management, remote sensing, climate forecast, banking and finance, defense and security.
+
+[More](https://au.int/flagships/africa-outer-space-strategy)
+
+African Virtual & e-University
+
+Using ICT based programmes to increase access to tertiary and continuing education in Africa by reaching large numbers of students and professionals in multiple sites simultaneously.
+
+[More](https://au.int/flagships/african-virtual-e-university)
+
+Cyber Security
+
+Incorporating emerging technologies in Africa’s development plans and ensuring these technologies are used for the benefit of African individuals, institutions and nation states by ensuring data protection and safety online.
+
+[More](https://au.int/flagships/cyber-security)
+
+Great African Museum
+
+Preserving and promoting African cultural heritage by creating awareness of Africa’s vast, dynamic and diverse cultural artefacts and Africa’s continuing influence on world cultures in art, music, language, science, and so on.
+
+[More](https://au.int/flagships/great-african-museum)
+
+Encyclopaedia Africana
+
+Provide an authoritative resource on the authentic history of Africa and African life.
+
+[More](https://au.int/flagships/encyclopaedia-africana)
+
+*   [![Image 13: Theme of the Year 2026](https://au.int/sites/default/files/styles/medium/public/promos/46040-img-Theme2026_SMPost_English_1.png.webp?itok=o7EIwPSG)](https://au.int/%5Bfield_link%5D "[title]")  
+
+## Key Resources
+
+## Breadcrumb
+
+1.   [Home](https://au.int/en)
+
 ## About the African Union
 
 An Integrated, Prosperous and Peaceful Africa, driven by its own citizens and representing a dynamic force in the global arena.
 
-**African Union Headquarters**
-
- P.O. Box 3243, Roosvelt Street W21K19
-
- Addis Ababa, Ethiopia
-
- Tel: +251 11 551 77 00
-
+**African Union Headquarters**  
+ P.O. Box 3243, Roosvelt Street W21K19  
+ Addis Ababa, Ethiopia  
+ Tel: +251 11 551 77 00  
  Fax: +251 11 551 78 44
 
 ## Follow Us
 
-[![Image 19](https://au.int/themes/custom/au/img/social-icons/twitter-alt.png)](https://twitter.com/_AfricanUnion)[![Image 20](https://au.int/themes/custom/au/img/ico_facebook_w.png)](https://www.facebook.com/AfricanUnionCommission)[![Image 21](https://au.int/themes/custom/au/img/ico_flickr_w.png)](http://www.flickr.com/photos/africanunioncommission/)[![Image 22](https://au.int/themes/custom/au/img/ico_youtube_w.png)](https://www.youtube.com/AUCommission)[![Image 23](https://au.int/sites/default/files/instagram.png)](https://www.instagram.com/africanunion_official/ "African Union on Instragram")[![Image 24](https://au.int/themes/custom/au/img/social-icons/threads-alt.png)](https://www.threads.net/@africanunion_official "African Union on Thread")
+*   [African Union on X](https://x.com/_AfricanUnion "African Union on X")
+*   [African Union on Facebook](https://www.facebook.com/AfricanUnionCommission "African Union on Facebook")
+*   [African Union on Flickr](https://www.flickr.com/photos/africanunioncommission/ "African Union on Flickr")
+*   [African Union on YouTube](https://www.youtube.com/AUCommission "African Union on YouTube")
+*   [African Union on Instagram](https://www.instagram.com/africanunion_official/ "African Union on Instagram")
+*   [African Union on Threads](https://www.threads.com/@africanunion_official "African Union on Threads")
+*   [African Union on Vimeo](https://vimeo.com/africanunion "African Union on Vimeo")
+*   [African Union on LinkedIn](https://www.linkedin.com/company/african-union-commission-addis-ababa "African Union on LinkedIn")
 
 ## Opportunities
 
@@ -320,7 +456,7 @@ An Integrated, Prosperous and Peaceful Africa, driven by its own citizens and re
 *   [Agenda 2063](https://au.int/en/agenda2063)
 *   [AU Organs](https://au.int/en/organs)
 
-[![Image 25](https://au.int/sites/default/files/auweblogo-w-en.png)](https://au.int/)
+[![Image 14](https://au.int/sites/default/files/auweblogo-w-en.png)](https://au.int/)
 
 *   [Web Mail](https://webmail.africa-union.org/owa)
 *   [Legal Notice](https://au.int/en/legal_notice)
