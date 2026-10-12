@@ -42,38 +42,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -83,7 +58,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
@@ -498,38 +472,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -539,7 +488,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
@@ -938,38 +886,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -979,7 +902,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
@@ -1393,38 +1315,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -1434,7 +1331,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
@@ -1851,38 +1747,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -1892,7 +1763,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
@@ -2298,38 +2168,13 @@ loading
 Link email
 Open profile
 Me
+Close
 Hi {0}
+Edit profile
 My Library account
 Change password
 My service requests
-Edit profile
 Sign out
-My studies
-My GPA
-My GPA
-Grade Point Average
-About your GPA
-GPA not available
-Why can't I see my GPA?
-My progress
-Points Required
-Completed
-points
-My Progress
-Progress not available
-All done!
-My courses
-My results
-Help and support
-AskAuckland
-Student hubs
-Health and counselling
-All support
-Help and support
-Health, safety and wellbeing
-Emergency information
-Report an injury, incident or observation
-Harassment, bullying, sexual assault and other violence
 Search
 Clear
 Search
@@ -2339,7 +2184,6 @@ Ngā tauira Students
 Tools
 Change my password
 Student Services Online
-Class search
 Canvas
 Concur
 Student email
