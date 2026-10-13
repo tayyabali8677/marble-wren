@@ -20,7 +20,7 @@ Study Scholarships
 Image
 Study Scholarships
 ICP Connect study programmes are accredited international study programmes. We award scholarships to applicants from 28 eligible countries in Africa, Asia and Latin America to attend one of the study programmes taught in English at one or more Flemish universities or universities of applied sciences and arts.
-The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open in mid-November 2026. The list of available programmes and the application deadlines for each programme will be updated then.
+The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026. The list of available programmes and the application deadlines for each programme will be updated then.
 Can I apply?
 Candidates that meet the following criteria* may apply for an ICP Connect scholarship:
 Nationality and country of residence: Candidates must hold nationality from one of the 29 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
@@ -62,17 +62,17 @@ Discover our Initial Masters
 (2 years)
 International Master of Science in Agro- & Environmental Nematology
 International Master of Science in Rural Development (IMRD)
-Master of Aquaculture (IMAQUA)
+Master of Science in Aquaculture (IMAQUA)
 Master of Epidemiology
 Master of Science in Food Technology
-Master of Science in Marine and Lacustrine Science and Management
+Master of Science in Marine and Lacustrine Science and Management ('Oceans & Lakes')
 Master of Statistics and Data Science
 Master in Sustainable Development
-Master of Transportation Sciences - Road Safety
+Master of Science in Transportation Sciences - Road Safety
 Master of Water Resources Engineering (WRE)
 Master of Science in Nutrition and Food Systems
 Master of Science in Sustainable Land Management
-Master of Science in Tropical Biodiversity and Ecosystems
+Master of Science in Tropical Biodiversity and Ecosystems (Mundus tropicalis c/o TROPIMUNDO)
 Discover our Advanced Masters
 (1 year)
 Master of Human Settlements
@@ -694,7 +694,7 @@ Bachelor of Applied Computer Science
 Image
 Bachelor of Applied Computer Science
 Organised by Thomas More campus Geel
-Applications open: 01/11/25 | Application deadline: 01/02/26 | Programme duration: Sept 2026 - Sept 2029
+Applications open: 12 /10/26 | Application deadline: 01/02/27 | Programme duration: Sept 2027 - Sept 2029
 Apply Now!
 This programme is designed for risk-takers, innovators, and, above all, doers. If you find IT fascinating and prefer to gain knowledge through hands-on projects rather than traditional courses, this programme offers you the chance to build a broad foundation in IT. Collaboration is at the heart of this experience. You’ll work alongside fellow IT students with diverse specialisations, as well as with real clients and companies. In addition to teamwork, project management will be a key focus, preparing you for leadership roles in the future.
 You can choose your area of specialisation, and we will ensure you graduate as an expert. Upon completion, you’ll receive a diploma in Application Development or Artificial Intelligence (AI). Graduates in Application Development can pursue careers as software developers, web developers, full-stack developers, or analysts, while those specialising in AI can take roles such as Data Engineer, Machine Learning Engineer, or Data Analyst.

@@ -366,7 +366,6 @@ Markdown Content:
         *   [Scholarships and grants funds](https://www.sdu.dk/en/bibliotek/materialer/legater-og-fonde) 
         *   [Dictionaries](https://www.sdu.dk/en/bibliotek/materialer/ordboeger) 
         *   [Patents](https://www.sdu.dk/en/bibliotek/materialer/patenter) 
-        *   [Radio and TV programmes](https://www.sdu.dk/en/bibliotek/materialer/radiotv) 
         *   [Standards](https://www.sdu.dk/en/bibliotek/materialer/standarder) 
         *   [Special Collections](https://www.sdu.dk/en/bibliotek/om-biblioteket/special-collections) 
 
@@ -912,7 +911,6 @@ Materials and facilities
         *   [Scholarships and grants funds](https://www.sdu.dk/en/bibliotek/materialer/legater-og-fonde)
         *   [Dictionaries](https://www.sdu.dk/en/bibliotek/materialer/ordboeger)
         *   [Patents](https://www.sdu.dk/en/bibliotek/materialer/patenter)
-        *   [Radio and TV programmes](https://www.sdu.dk/en/bibliotek/materialer/radiotv)
         *   [Standards](https://www.sdu.dk/en/bibliotek/materialer/standarder)
         *   [Special Collections](https://www.sdu.dk/en/bibliotek/om-biblioteket/special-collections)
         *   [$name](https://www.sdu.dk/en/bibliotek/materialer/scifi)

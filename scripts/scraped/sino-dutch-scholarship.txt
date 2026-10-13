@@ -6,15 +6,25 @@ URL Source: https://www.studyinnl.org/finances/sino-dutch-scholarship
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
+[Skip to main content](https://www.studyinnl.org/finances/sino-dutch-scholarship#main-content)
+
 [Go to the homepage](https://www.studyinnl.org/)
 
 Your official starting point to studying in the Netherlands
 
+Search 
+
+Remove search Search
+
 Search
+
+ Show all results 
 
 No content has been found with the given search term.
 
-Searching for results...
+ Searching for results... 
+
+Menu
 
 *   [Home](https://www.studyinnl.org/)
 *   [Dutch education](https://www.studyinnl.org/dutch-education "Find out about the Dutch education system, institutions, degrees and study programmes.")
@@ -25,6 +35,7 @@ Searching for results...
 *   [Student stories](https://www.studyinnl.org/student-stories "Read blogs from international students in the Netherlands")
 *   [Newsletter](https://www.studyinnl.org/our-newsletter "Sign up for our Study in NL newsletter")
 
+[](https://www.studyinnl.org/finances/sino-dutch-scholarship# "Focus menu links after opening mobile menu")
 *   [Home](https://www.studyinnl.org/)
 *   [Dutch education](https://www.studyinnl.org/dutch-education "Find out about the Dutch education system, institutions, degrees and study programmes.")
 *   [Finances](https://www.studyinnl.org/finances "What does it cost to study in the Netherlands and how to finance this?")
@@ -37,6 +48,10 @@ Searching for results...
 1.   [Home](https://www.studyinnl.org/)
 2.   Page not found
 
+[](https://www.studyinnl.org/finances/sino-dutch-scholarship)
+
+# Page not found
+
 Oops! We cannot find the page you wanted to visit. What now?
 
 There are 3 things you can do:
@@ -48,3 +63,32 @@ There are 3 things you can do:
 [Go to homepage](https://www.studyinnl.org/homepage)
 
 _Error code: 404_
+
+## About us
+
+*   [About Study in NL](https://www.studyinnl.org/about-study-in-the-netherlands "About Study in NL")
+*   [Our newsletter](https://www.studyinnl.org/our-newsletter "Our newsletter")
+*   [Events](https://www.studyinnl.org/events)
+
+## Contact
+
+*   [Contact details](https://www.studyinnl.org/contact-details)
+*   [Support in your home country](https://www.studyinnl.org/support-in-your-home-country)
+*   [Complaints and objections](https://www.studyinnl.org/complaints-and-objections "Complaints and objections")
+*   [Report a vulnerability](https://www.studyinnl.org/report-a-vulnerability)
+
+## Footer
+
+*   [Copyright](https://www.studyinnl.org/copyright)
+*   [Accessibility](https://www.studyinnl.org/accessibility)
+*   [Cookie statement](https://www.studyinnl.org/cookie-statement)
+*   [Disclaimer](https://www.studyinnl.org/disclaimer)
+*   [Privacy Policy](https://www.studyinnl.org/privacy-policy)
+
+## Social links
+
+*   [Facebook](https://www.facebook.com/StudyinHolland)
+*   [Instagram](https://www.instagram.com/studyinNL)
+*   [Youtube](https://www.youtube.com/studyinNL)
+
+![Image 1: An initiative from Nuffic. Meet the world.](https://www.studyinnl.org/themes/custom/nuffic_sih_theme/src/svg/footer-logo.svg)[![Image 2: NL Platform logo](https://www.studyinnl.org/themes/custom/nuffic_sih_theme/src/svg/nl-sticker.svg)](https://www.nlplatform.com/destination-nl/research-and-education)

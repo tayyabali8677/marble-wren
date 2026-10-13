@@ -7,6 +7,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -35,7 +36,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition
@@ -573,6 +573,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -601,7 +602,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition
@@ -1041,6 +1041,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -1069,7 +1070,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition
@@ -1787,6 +1787,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -1815,7 +1816,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition
@@ -2234,6 +2234,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -2262,7 +2263,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition
@@ -2694,6 +2694,7 @@ Facts and Figures
 Recovery of Academic Life
 Charles University for Ukraine
 Sustainable development
+Press Releases
 Career
 Open Positions CU
 HR Excellence in Research
@@ -2722,7 +2723,6 @@ Single Digital Gateway
 Personal Data Protection
 Reporting Breaches of Union Law
 Research Security and Counter Foreign Interference Guidelines
-Press Releases
 Lifelong Learning
 Accreditation Procedure
 Diploma Recognition

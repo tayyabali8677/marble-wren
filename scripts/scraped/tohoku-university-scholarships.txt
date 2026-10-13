@@ -3,8 +3,6 @@ Title: 404 Not Found | 東北大学 -TOHOKU UNIVERSITY-
 
 URL Source: https://www.tohoku.ac.jp/en/education/scholarships/
 
-Published Time: Fri, 10 Oct 2025 00:48:10 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

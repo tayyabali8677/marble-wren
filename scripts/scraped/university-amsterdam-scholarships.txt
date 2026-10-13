@@ -8,6 +8,8 @@ Published Time: 2022-08-18T06:53:55Z
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
+Loading [MathJax]/extensions/MathMenu.js
+
 *   [Jump to main content](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#area-main)
 *   [Jump to search](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#q)
 *   [Jump to footer](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#area-footer)
@@ -108,15 +110,3 @@ The UvA uses cookies to measure, optimise, and ensure the proper functioning of 
 Decline Accept[Information about cookies](https://www.uva.nl/en/home/disclaimers/cookies)
 
 [In order to access this external content, you need to accept all marketing cookies. Click here to manage your cookie settings.](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#)
-
-Feedback
-
-Close
-
-## Report a bug or problem.
-
-[Questions? Find our contact information here](https://www.uva.nl/over-de-uva/contact-en-locaties/contact.html?SI)Can we improve our website? Let us know. Do not use this form for questions. 
-
-0/1000
-
-Send

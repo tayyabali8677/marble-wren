@@ -6,12 +6,6 @@ URL Source: https://www.abdn.ac.uk/study/international/funding/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-# We use cookies to give you the best possible experience
-
-If you don't want to accept cookies you can change preferences
-
-Accept All Cookies Settings
-
 *   [Skip to content](https://www.abdn.ac.uk/study/international/funding/#main)
 *   [About Accessibility on our website](https://www.abdn.ac.uk/about/our-website/accessibility/)
 

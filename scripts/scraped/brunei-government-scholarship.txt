@@ -33,7 +33,10 @@ Markdown Content:
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
     *   [General](https://www.moe.gov.bn/general/)
-    *   [International Newsletter](https://www.moe.gov.bn/)
+    *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
+        *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
+            *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)
+
         *   [SEAMEO STEM-ED (SAJSE)](https://www.seameo-stemed.org/sajse/)
 
     *   [Teachers’ Lounge](https://lounge.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Flounge.moe.gov.bn%2F)
@@ -89,7 +92,10 @@ Markdown Content:
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
     *   [General](https://www.moe.gov.bn/general/)
-    *   [International Newsletter](https://www.moe.gov.bn/)
+    *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
+        *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
+            *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)
+
         *   [SEAMEO STEM-ED (SAJSE)](https://www.seameo-stemed.org/sajse/)
 
     *   [Teachers’ Lounge](https://lounge.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Flounge.moe.gov.bn%2F)

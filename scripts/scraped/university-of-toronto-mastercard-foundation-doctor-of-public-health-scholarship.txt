@@ -109,10 +109,10 @@ Miscellaneous
 Deadline Approaching
 Fellowships
 1834 Global Fellowship 2027
-| 21 Hours
+| 8 Hours
 Fellowships
 University of Michigan African Presidential Scholars (UMAPS) Program 2027–2028
-United States| 2 Days
+United States| 1 Day
 Fellowships
 African Climate Collaborative PhD Fellowships in Climate and Development 2026
 South Africa| 2 Days
@@ -143,7 +143,7 @@ Cornell AI4S Visiting Professorship 2027
 | 2 Days
 Fellowships
 1834 Global Fellowship 2027
-| 21 Hours
+| 8 Hours
 Internships
 FAO Internship Programme for Africa 2027
 | 79 Days
@@ -161,7 +161,7 @@ Maria Rosario Lazzati Niada Scholarship 2027- 2028
 Switzerland| 13 Days
 Fellowships
 University of Michigan African Presidential Scholars (UMAPS) Program 2027–2028
-United States| 2 Days
+United States| 1 Day
 Trending
 Miscellaneous
 UN Young Leaders Training Programme 2024
@@ -318,10 +318,10 @@ Miscellaneous
 Deadline Approaching
 Fellowships
 1834 Global Fellowship 2027
-| 21 Hours
+| 8 Hours
 Fellowships
 University of Michigan African Presidential Scholars (UMAPS) Program 2027–2028
-United States| 2 Days
+United States| 1 Day
 Fellowships
 African Climate Collaborative PhD Fellowships in Climate and Development 2026
 South Africa| 2 Days
@@ -352,7 +352,7 @@ Cornell AI4S Visiting Professorship 2027
 | 2 Days
 Fellowships
 1834 Global Fellowship 2027
-| 21 Hours
+| 8 Hours
 Internships
 FAO Internship Programme for Africa 2027
 | 79 Days
@@ -370,7 +370,7 @@ Maria Rosario Lazzati Niada Scholarship 2027- 2028
 Switzerland| 13 Days
 Fellowships
 University of Michigan African Presidential Scholars (UMAPS) Program 2027–2028
-United States| 2 Days
+United States| 1 Day
 Trending
 Miscellaneous
 UN Young Leaders Training Programme 2024

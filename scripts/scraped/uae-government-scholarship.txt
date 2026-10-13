@@ -286,21 +286,3 @@ Original text
 Rate this translation
 
 Your feedback will be used to help improve Google Translate
-
-close
-
-![Image 10: UAE Flag](https://survey.customerpulse.gov.ae/assets/UAEGoldNew-01.png)
-
-![Image 11: Customer Pulse](https://survey.customerpulse.gov.ae/assets/logo.svg)
-
-accessibility
-
-language English expand_more
-
-Customer Pulse Survey
-
-‪Overall,‬ ‪how‬ ‪satisfied‬ ‪are‬ ‪you‬ ‪about‬ ‪the‬ ‪Website?‬_*_
-
- Extremely Dissatisfied  Extremely Satisfied 
-
- Next

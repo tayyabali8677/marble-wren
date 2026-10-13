@@ -6,16 +6,75 @@ URL Source: https://www.campusfrance.org/en/scholarships
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
+Cookies management panel
+
+ Close 
+
+Cookies management panel
+
+ By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning.   
+  
+ Privacy policy 
+
+Preference for all services
+
+ Allow all cookies  Deny all cookies 
+
+*    Mandatory cookies 
+    *   This site uses cookies necessary for its proper functioning which cannot be deactivated.    Allow  Deny  
+
+*    APIs  APIs are used to load scripts: geolocation, search engines, translations, ...  
+    *   ABTasty disallowed - This service can install 2 cookies.    Allow  Deny  
+    *   Google Maps disallowed - This service does not use cookie.    Allow  Deny  
+    *   botcopy disallowed - This service can install 1 cookie.    Allow  Deny  
+    *   reCAPTCHA disallowed - This service can install 1 cookie.    Allow  Deny  
+
+*    Advertising network  Ad networks can generate revenue by selling advertising space on the site.  
+    *   Facebook Pixel disallowed - This service can install 9 cookies.    Allow  Deny  
+
+*    Audience measurement  The audience measurement services used to generate useful statistics attendance to improve the site.  
+    *   Piano Analytics disallowed - This service can install 5 cookies.    Allow  Deny  
+
+*    Comments  Comments managers facilitate the filing of comments and fight against spam.  
+
+*    Other  Services to display web content.  
+
+*    Social networks  Social networks can improve the usability of the site and help to promote it via the shares.  
+
+*    Support  Support services allow you to get in touch with the site team and help to improve it.  
+
+*    Videos  Video sharing services help to add rich media on the site and increase its visibility.  
+    *   Dailymotion disallowed - This service can install 5 cookies.    Allow  Deny  
+    *   YouTube disallowed - This service can install 4 cookies.    Allow  Deny  
+
+*   This website does not use any cookie requiring your consent.
+
+[![Image 1: tarteaucitron.io](blob:http://localhost/b66c4098439a78c982a231d5df67b9e2)](https://tarteaucitron.io/ "tarteaucitron (new window)")
+
+ Nous et nos partenaires utilisons des cookies nécessaires au fonctionnement du site, des cookies de mesure d’audience et des cookies améliorant votre expérience de navigation. Vous pouvez choisir de tout accepter / tout refuser, ou de personnaliser vos choix en cliquant sur «Personnaliser». Pour en savoir plus, cliquez sur «Politique d’utilisation des cookies»  OK, accept all  Deny all cookies  Personalize  Privacy policy 
+
+ Gestion des cookies 3
+
+ Close 
+
+3 cookies
+
+ www.campusfrance.org 
+
+*   **×****pa_privacy** %22exempt%22 
+*   **×****tarteaucitron** !facebookpixel=wait!pianoanalytics=wait!abtasty=wait!botcopy=wait!googlemaps=wait!recaptcha=wait!dailymotion=wait!youtube=wait 
+*   **×****campusProfil** c554e3e8-b800-407a-837c-daf843d9a857 
+
 [Skip to main content](https://www.campusfrance.org/en/scholarships#main-content)
 
-[![Image 1: République française, Liberté Égalité Fraternité](https://www.campusfrance.org/modules/custom/campus_common/img/logo-republique-francaise.svg)![Image 2: Campus France logo](https://www.campusfrance.org/modules/custom/campus_common/img/logo-campus-france.png)](https://www.campusfrance.org/en "Home")
+[![Image 2: République française, Liberté Égalité Fraternité](https://www.campusfrance.org/modules/custom/campus_common/img/logo-republique-francaise.svg)![Image 3: Campus France logo](https://www.campusfrance.org/modules/custom/campus_common/img/logo-campus-france.png)](https://www.campusfrance.org/en "Home")
 
-*   [![Image 3: Logo Instagram](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Instagram_1.png)](https://www.instagram.com/campus_france/ "Instagram")
-*   [![Image 4: Logo Facebook](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Facebook_1.png)](https://fr-fr.facebook.com/CampusFranceParis/ "Facebook")
-*   [![Image 5: Logo Twitter](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Twitter_1.png)](https://twitter.com/campusfrance?lang=fr "Twitter")
-*   [![Image 6: Logo Youtube](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Youtube_1.png)](https://www.youtube.com/user/ParisCampusFrance "Youtube")
-*   [![Image 7: Logo LinkedIn](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Linkedin_1.png)](https://fr.linkedin.com/company/campusfrance "LinkedIn")
-*   [![Image 8: Logo France Alumni](https://www.campusfrance.org/sites/default/files/2022-11/Picto_France%20Alumni_1.png)](https://www.francealumni.fr/fr "France Alumni")
+*   [![Image 4: Logo Instagram](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Instagram_1.png)](https://www.instagram.com/campus_france/ "Instagram")
+*   [![Image 5: Logo Facebook](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Facebook_1.png)](https://fr-fr.facebook.com/CampusFranceParis/ "Facebook")
+*   [![Image 6: Logo Twitter](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Twitter_1.png)](https://twitter.com/campusfrance?lang=fr "Twitter")
+*   [![Image 7: Logo Youtube](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Youtube_1.png)](https://www.youtube.com/user/ParisCampusFrance "Youtube")
+*   [![Image 8: Logo LinkedIn](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Linkedin_1.png)](https://fr.linkedin.com/company/campusfrance "LinkedIn")
+*   [![Image 9: Logo France Alumni](https://www.campusfrance.org/sites/default/files/2022-11/Picto_France%20Alumni_1.png)](https://www.francealumni.fr/fr "France Alumni")
 
 *   [Français](https://www.campusfrance.org/fr/system/404)
 *   [Anglais](https://www.campusfrance.org/en/system/404)
@@ -25,9 +84,9 @@ Markdown Content:
     *   Choose France
         
 
-        *   [![Image 9](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_111175256_Subscription_Monthly_M.jpg?h=16a6d817&itok=EJt0DgN5)An unforgettable adventure Discover](https://www.campusfrance.org/en/studying-in-France "Your academic stay in France will be an adventure, a dream opportunity to discover France and enjoy French student life.")
-        *   [![Image 10](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/des%20%C3%A9tudes%20d%27excellence.jpg?h=c28d936f&itok=ibNw9LZ6)Educational excellence in France Discover](https://www.campusfrance.org/en/educational-excellence-France "Studying in France, or conducting research here, means benefitting from an excellent and accessible system of higher education.")
-        *   [![Image 11](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/%C3%A9tudiez%20au%20coeur%20de%20l%27europe%20%28mise%20en%20avant%29_1.jpg?h=d17b7671&itok=OcHRg_yB)Study at the heart of Europe Discover](https://www.campusfrance.org/en/studying-in-France-Europe "Studying in France means the major European capitals are less than two hours away, while you take advantage of the Erasmus+ programme.")
+        *   [![Image 10](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_111175256_Subscription_Monthly_M.jpg?h=16a6d817&itok=EJt0DgN5)An unforgettable adventure Discover](https://www.campusfrance.org/en/studying-in-France "Your academic stay in France will be an adventure, a dream opportunity to discover France and enjoy French student life.")
+        *   [![Image 11](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/des%20%C3%A9tudes%20d%27excellence.jpg?h=c28d936f&itok=ibNw9LZ6)Educational excellence in France Discover](https://www.campusfrance.org/en/educational-excellence-France "Studying in France, or conducting research here, means benefitting from an excellent and accessible system of higher education.")
+        *   [![Image 12](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/%C3%A9tudiez%20au%20coeur%20de%20l%27europe%20%28mise%20en%20avant%29_1.jpg?h=d17b7671&itok=OcHRg_yB)Study at the heart of Europe Discover](https://www.campusfrance.org/en/studying-in-France-Europe "Studying in France means the major European capitals are less than two hours away, while you take advantage of the Erasmus+ programme.")
 
         
 
@@ -43,9 +102,9 @@ Markdown Content:
     *   Studying in France
         
 
-        *   [![Image 12](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-02/Studio_cflive_2026.JPG?h=adf72fbf&itok=9va8AC5E)Campus France Live Discover](https://www.campusfrance.org/en/campus-france-live "Discover French higher education live")
-        *   [![Image 13](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/trouver%20sa%20formation%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=wjOOe3ut)Find your programme Discover](https://www.campusfrance.org/en/finding-a-university-programme-France "Check the online Campus France catalogue and let yourself be guided towards the programme that suits you best.")
-        *   [![Image 14](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/s%27inscrire%20%28article%20g%C3%A9n%C3%A9ral%29.jpg?h=16a6d817&itok=fypuLAG3)How to apply?Discover](https://www.campusfrance.org/en/application-higher-education-france "To enrol in an institute of higher education in France, follow the procedure corresponding to your situation.")
+        *   [![Image 13](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-02/Studio_cflive_2026.JPG?h=adf72fbf&itok=9va8AC5E)Campus France Live Discover](https://www.campusfrance.org/en/campus-france-live "Discover French higher education live")
+        *   [![Image 14](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/trouver%20sa%20formation%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=wjOOe3ut)Find your programme Discover](https://www.campusfrance.org/en/finding-a-university-programme-France "Check the online Campus France catalogue and let yourself be guided towards the programme that suits you best.")
+        *   [![Image 15](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/s%27inscrire%20%28article%20g%C3%A9n%C3%A9ral%29.jpg?h=16a6d817&itok=fypuLAG3)How to apply?Discover](https://www.campusfrance.org/en/application-higher-education-france "To enrol in an institute of higher education in France, follow the procedure corresponding to your situation.")
 
         
 
@@ -64,9 +123,9 @@ Markdown Content:
     *   Getting organised 
         
 
-        *   [![Image 15](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_90199927_Subscription_Monthly_M.jpg?h=d7e1fc5c&itok=JQUXJpZf)Checklist. Prepare your arrival in France Discover](https://www.campusfrance.org/en/organise-arrival-France "Find everything to do and plan on, step by step, to properly prepare for your arrival in France.")
-        *   [![Image 16](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/visa%20circulation%20avion.jpg?h=16a6d817&itok=YOkrUK76)Visas and Residence permits](https://www.campusfrance.org/en/the-different-types-of-visas "Several types of student visas and residence permits let you study in France for a short or long stay.")
-        *   [![Image 17](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2022-08/Fotolia_260631686_Subscription_Monthly_M_%C2%A9Odua%20Images%20-%20Fotolia.com_.jpg?h=16a6d817&itok=vNh8iopH)Accommodation](https://www.campusfrance.org/en/student-housing-france "University residence, residence, private lodging, shared accommodation: find the student lodging for you.")
+        *   [![Image 16](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_90199927_Subscription_Monthly_M.jpg?h=d7e1fc5c&itok=JQUXJpZf)Checklist. Prepare your arrival in France Discover](https://www.campusfrance.org/en/organise-arrival-France "Find everything to do and plan on, step by step, to properly prepare for your arrival in France.")
+        *   [![Image 17](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/visa%20circulation%20avion.jpg?h=16a6d817&itok=YOkrUK76)Visas and Residence permits](https://www.campusfrance.org/en/the-different-types-of-visas "Several types of student visas and residence permits let you study in France for a short or long stay.")
+        *   [![Image 18](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2022-08/Fotolia_260631686_Subscription_Monthly_M_%C2%A9Odua%20Images%20-%20Fotolia.com_.jpg?h=16a6d817&itok=vNh8iopH)Accommodation](https://www.campusfrance.org/en/student-housing-france "University residence, residence, private lodging, shared accommodation: find the student lodging for you.")
 
         
 
@@ -86,8 +145,8 @@ Markdown Content:
     *   Living in France
         
 
-        *   [![Image 18](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/calanques%20marseille%20paysage%20r%C3%A9gions%20fran%C3%A7aises.jpg?h=00f45f3b&itok=XL5iESj7)Visit France !Discover](https://www.campusfrance.org/en/tourism-visit-regions-France "While you're studying in France, take the opportunity to explore the regions and overseas departments of France.")
-        *   [![Image 19](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/gastronomie%20sp%C3%A9cialit%C3%A9s%20culinaires%20%28mise%20en%20avant%292.jpg?h=3459ebd3&itok=IArFOLJo)Gastronomy Discover](https://www.campusfrance.org/en/culinary-specialties-French-gastronomy "Take advantage of your time studying in France to explore French gastronomy and regional culinary specialties.")
+        *   [![Image 19](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/calanques%20marseille%20paysage%20r%C3%A9gions%20fran%C3%A7aises.jpg?h=00f45f3b&itok=XL5iESj7)Visit France !Discover](https://www.campusfrance.org/en/tourism-visit-regions-France "While you're studying in France, take the opportunity to explore the regions and overseas departments of France.")
+        *   [![Image 20](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/gastronomie%20sp%C3%A9cialit%C3%A9s%20culinaires%20%28mise%20en%20avant%292.jpg?h=3459ebd3&itok=IArFOLJo)Gastronomy Discover](https://www.campusfrance.org/en/culinary-specialties-French-gastronomy "Take advantage of your time studying in France to explore French gastronomy and regional culinary specialties.")
         *   [French regions](https://www.campusfrance.org/en/tourism-visit-regions-France "Profitez de vos études pour partir à la découverte des régions et des départements d’outre-mer français.")
 
         
@@ -114,9 +173,9 @@ Markdown Content:
     *   Research in France 
         
 
-        *   [![Image 20](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2023-01/recherche%20tubes%20%C3%A0%20essai%20color%C3%A9s.jpg?h=e5aec6c8&itok=30uKKPCY)The importance of Research in France](https://www.campusfrance.org/en/importance-research-France "L’excellence de la recherche en France est l’un des atouts phares du rayonnement français à l’international.")
-        *   [![Image 21](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/pyramide%20louvre.jpg?h=c71d0c67&itok=JBq1oN8J)Choosing France for your research project Discover](https://www.campusfrance.org/en/guide-research-France "Download our guide: \"Research in France\" to find out more about the establishments and people involved in research in France.")
-        *   [![Image 22](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_120179437_Subscription_Monthly_M.jpg?h=16a6d817&itok=n49JuHdM)Finding a research laboratory Discover](https://www.campusfrance.org/en/finding-research-laboratory-France "There are several directories that can help you find the research laboratories that correspond to your field.")
+        *   [![Image 21](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2023-01/recherche%20tubes%20%C3%A0%20essai%20color%C3%A9s.jpg?h=e5aec6c8&itok=30uKKPCY)The importance of Research in France](https://www.campusfrance.org/en/importance-research-France "L’excellence de la recherche en France est l’un des atouts phares du rayonnement français à l’international.")
+        *   [![Image 22](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/pyramide%20louvre.jpg?h=c71d0c67&itok=JBq1oN8J)Choosing France for your research project Discover](https://www.campusfrance.org/en/guide-research-France "Download our guide: \"Research in France\" to find out more about the establishments and people involved in research in France.")
+        *   [![Image 23](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_120179437_Subscription_Monthly_M.jpg?h=16a6d817&itok=n49JuHdM)Finding a research laboratory Discover](https://www.campusfrance.org/en/finding-research-laboratory-France "There are several directories that can help you find the research laboratories that correspond to your field.")
 
         
 
@@ -135,9 +194,9 @@ Markdown Content:
     *   Doctorate
         
 
-        *   [![Image 23](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/library-e831b10f2b.jpg?h=0d27ee61&itok=ppWwjiPl)What is involved in a Doctorate in France?Discover](https://www.campusfrance.org/en/what-involved-Doctorate-France "In France, the Doctorate consists of conducting research in a laboratory for at least three years")
-        *   [![Image 24](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_82102412_L.jpg?h=0f60998f&itok=2yO3exLN)Financing Discover](https://www.campusfrance.org/en/how-to-finance-Doctorate-France)
-        *   [![Image 25](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_2_financer%20son%20doctorat%20%28corps%20du%20texte1%29.jpg?h=1116cd87&itok=LxZBE9bW)How to enrol in a Doctorate Discover](https://www.campusfrance.org/en/how-to-enrol-Doctorate-France "How to enrol in a Doctorate ")
+        *   [![Image 24](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/library-e831b10f2b.jpg?h=0d27ee61&itok=ppWwjiPl)What is involved in a Doctorate in France?Discover](https://www.campusfrance.org/en/what-involved-Doctorate-France "In France, the Doctorate consists of conducting research in a laboratory for at least three years")
+        *   [![Image 25](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/Fotolia_82102412_L.jpg?h=0f60998f&itok=2yO3exLN)Financing Discover](https://www.campusfrance.org/en/how-to-finance-Doctorate-France)
+        *   [![Image 26](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_2_financer%20son%20doctorat%20%28corps%20du%20texte1%29.jpg?h=1116cd87&itok=LxZBE9bW)How to enrol in a Doctorate Discover](https://www.campusfrance.org/en/how-to-enrol-Doctorate-France "How to enrol in a Doctorate ")
 
         
 
@@ -155,9 +214,9 @@ Markdown Content:
     *   After your Doctorate
         
 
-        *   [![Image 26](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_2_s%27inscrire%20en%20doctorat%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=cRLnf8IC)Post-Doctorate Discover](https://www.campusfrance.org/en/post-doctorate-France "Rejoindre la France pour faire un post-doctorat peut donner un coup d’accélérateur à votre carrière dans la recherche.")
-        *   [![Image 27](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/professeur%20invit%C3%A9.jpg?h=ccb0bc4b&itok=4LpW6eoW)Visiting professors or researchers Discover](https://www.campusfrance.org/en/visiting-professor-researcher "The status of visiting professor and university chairs let foreign researchers teach and conduct research in France.")
-        *   [![Image 28](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/%C3%A9tudiants%20doctorants%20%C3%A9coles%20d%27%C3%A9t%C3%A9.jpg?h=16a6d817&itok=uoPamujM)French summer research schools Discover](https://www.campusfrance.org/en/French-summer-research-schools "In summer schools you conduct research in a different manner, meeting many more people in a friendly and informal environment.")
+        *   [![Image 27](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_2_s%27inscrire%20en%20doctorat%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=cRLnf8IC)Post-Doctorate Discover](https://www.campusfrance.org/en/post-doctorate-France "Rejoindre la France pour faire un post-doctorat peut donner un coup d’accélérateur à votre carrière dans la recherche.")
+        *   [![Image 28](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/professeur%20invit%C3%A9.jpg?h=ccb0bc4b&itok=4LpW6eoW)Visiting professors or researchers Discover](https://www.campusfrance.org/en/visiting-professor-researcher "The status of visiting professor and university chairs let foreign researchers teach and conduct research in France.")
+        *   [![Image 29](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/%C3%A9tudiants%20doctorants%20%C3%A9coles%20d%27%C3%A9t%C3%A9.jpg?h=16a6d817&itok=uoPamujM)French summer research schools Discover](https://www.campusfrance.org/en/French-summer-research-schools "In summer schools you conduct research in a different manner, meeting many more people in a friendly and informal environment.")
 
         
 
@@ -170,9 +229,9 @@ Markdown Content:
     *   Organising your stay 
         
 
-        *   [![Image 29](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/visa%20circulation%20schengen.jpg?h=ab1d5191&itok=OpkTuDVu)The "Researcher-talent" visa Discover](https://www.campusfrance.org/en/the-researcher-talent-long-stay-visa "The \"researcher-talent\" long-stay visa allows you to pursue a doctorate, conduct research or teach in France. It may be renewed in the form of a multi-year residency permit.")
-        *   [![Image 30](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_4_sant%C3%A9%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=j2jleiGN)Social Security for doctoral students and researchers Discover](https://www.campusfrance.org/en/social-security-doctoral-students-researchers "In France, researchers and doctoral students must be registered for Social Security to cover their healthcare expenses.")
-        *   [![Image 31](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_4_check%20list%20%28mise%20en%20avant%29.jpg?h=c28d936f&itok=gnjQ-dYH)Prepare for your arrival in France Discover](https://www.campusfrance.org/en/preparing-for-arrival-France "Find a list of things you should not forget so you can stay in France under the best possible conditions.")
+        *   [![Image 30](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/visa%20circulation%20schengen.jpg?h=ab1d5191&itok=OpkTuDVu)The "Researcher-talent" visa Discover](https://www.campusfrance.org/en/the-researcher-talent-long-stay-visa "The \"researcher-talent\" long-stay visa allows you to pursue a doctorate, conduct research or teach in France. It may be renewed in the form of a multi-year residency permit.")
+        *   [![Image 31](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_4_sant%C3%A9%20%28mise%20en%20avant%29.jpg?h=16a6d817&itok=j2jleiGN)Social Security for doctoral students and researchers Discover](https://www.campusfrance.org/en/social-security-doctoral-students-researchers "In France, researchers and doctoral students must be registered for Social Security to cover their healthcare expenses.")
+        *   [![Image 32](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-10/chercheur_4_check%20list%20%28mise%20en%20avant%29.jpg?h=c28d936f&itok=gnjQ-dYH)Prepare for your arrival in France Discover](https://www.campusfrance.org/en/preparing-for-arrival-France "Find a list of things you should not forget so you can stay in France under the best possible conditions.")
 
         
 
@@ -188,9 +247,9 @@ Markdown Content:
     *   Grants and funding
         
 
-        *   [![Image 32](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2018-02/Fotolia_168553653_Subscription_Monthly_M.jpg?h=00f45f3b&itok=jouEP5Xt)Make Our Planet Great again Discover](https://www.campusfrance.org/en/make-our-planet-great-again-en)
-        *   [![Image 33](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2018-02/hubert%20curien.jpg?h=16a6d817&itok=ixVuWWma)Hubert Curien Partnerships (PHC) Discover](https://www.campusfrance.org/en/phc)
-        *   [![Image 34](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-03/chercheur_2_financer%20son%20doctorat%20%28corps%20du%20texte2%29%20%281%29.jpg?h=be9e6b6e&itok=cFPMduSE)Soutenir la mobilité des chercheurs - Les partenariats Hubert Curien](https://www.campusfrance.org/fr/ressource/soutenir-la-mobilite-des-chercheurs-les-partenariats-hubert-curien)
+        *   [![Image 33](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2018-02/Fotolia_168553653_Subscription_Monthly_M.jpg?h=00f45f3b&itok=jouEP5Xt)Make Our Planet Great again Discover](https://www.campusfrance.org/en/make-our-planet-great-again-en)
+        *   [![Image 34](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2018-02/hubert%20curien.jpg?h=16a6d817&itok=ixVuWWma)Hubert Curien Partnerships (PHC) Discover](https://www.campusfrance.org/en/phc)
+        *   [![Image 35](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-03/chercheur_2_financer%20son%20doctorat%20%28corps%20du%20texte2%29%20%281%29.jpg?h=be9e6b6e&itok=cFPMduSE)Soutenir la mobilité des chercheurs - Les partenariats Hubert Curien](https://www.campusfrance.org/fr/ressource/soutenir-la-mobilite-des-chercheurs-les-partenariats-hubert-curien)
 
         
 
@@ -207,9 +266,9 @@ Markdown Content:
     *   About us
         
 
-        *   [![Image 35](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/missions.jpg?h=5eca987d&itok=ehbCZx4s)Our missions Discover](https://www.campusfrance.org/en/Campus-France-missions)
-        *   [![Image 36](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/organisation%20organigramme.jpg?h=a74d5586&itok=__e92m4Q)Our organisation Discover](https://www.campusfrance.org/en/organisation-conseils-organigramme)
-        *   [![Image 37](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/CampusFrance_MapMonde_V3.jpg?h=d04d9725&itok=zvMg3ZQA)Campus France local offices](https://www.campusfrance.org/en/Campus-France-offices-world)
+        *   [![Image 36](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/missions.jpg?h=5eca987d&itok=ehbCZx4s)Our missions Discover](https://www.campusfrance.org/en/Campus-France-missions)
+        *   [![Image 37](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/organisation%20organigramme.jpg?h=a74d5586&itok=__e92m4Q)Our organisation Discover](https://www.campusfrance.org/en/organisation-conseils-organigramme)
+        *   [![Image 38](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/CampusFrance_MapMonde_V3.jpg?h=d04d9725&itok=zvMg3ZQA)Campus France local offices](https://www.campusfrance.org/en/Campus-France-offices-world)
 
         
 
@@ -225,9 +284,9 @@ Markdown Content:
     *   Campus France Forum
         
 
-        *   [![Image 38](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_devenir%20membre%20%28mise%20en%20avant%29.jpg?h=265e640d&itok=DdeXvAZD)Operation and governance Discover](https://www.campusfrance.org/en/operation-governance-Campus-France-Forum)
-        *   [![Image 39](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_avantages%20r%C3%A9serv%C3%A9s%20%28mise%20en%20avant%29.jpg?h=fbda8291&itok=qcg0E_pF)Membership Discover](https://www.campusfrance.org/en/joining-Campus-France-Forum)
-        *   [![Image 40](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/agenda%20calendrier.jpg?h=16a6d817&itok=o6CXRXnA)Agenda](https://www.campusfrance.org/en/agenda-meetings-Forum)
+        *   [![Image 39](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_devenir%20membre%20%28mise%20en%20avant%29.jpg?h=265e640d&itok=DdeXvAZD)Operation and governance Discover](https://www.campusfrance.org/en/operation-governance-Campus-France-Forum)
+        *   [![Image 40](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_avantages%20r%C3%A9serv%C3%A9s%20%28mise%20en%20avant%29.jpg?h=fbda8291&itok=qcg0E_pF)Membership Discover](https://www.campusfrance.org/en/joining-Campus-France-Forum)
+        *   [![Image 41](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/agenda%20calendrier.jpg?h=16a6d817&itok=o6CXRXnA)Agenda](https://www.campusfrance.org/en/agenda-meetings-Forum)
 
         
 
@@ -242,9 +301,9 @@ Markdown Content:
     *   Cooperation and promotion 
         
 
-        *   [![Image 41](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-03/Studio_cflive_2026.JPG?h=adf72fbf&itok=MP5gV6qf)Campus France Live Découvrir](https://www.campusfrance.org/fr/etablissements-campus-france-live)
-        *   [![Image 42](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/Kim_Pavillon%20Front%20vide.jpg?h=a5eb5da0&itok=dCXIN09O)The events organised by Campus France Discover](https://www.campusfrance.org/en/organisation-events-Campus-France)
-        *   [![Image 43](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_actualisation%20de%20vos%20informations%20%28mise%20en%20avant%29.jpg?h=1b27c5ae&itok=byPrHpPl)Updating online information](https://www.campusfrance.org/en/updating-sheets-catalogues)
+        *   [![Image 42](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2026-03/Studio_cflive_2026.JPG?h=adf72fbf&itok=MP5gV6qf)Campus France Live Découvrir](https://www.campusfrance.org/fr/etablissements-campus-france-live)
+        *   [![Image 43](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/Kim_Pavillon%20Front%20vide.jpg?h=a5eb5da0&itok=dCXIN09O)The events organised by Campus France Discover](https://www.campusfrance.org/en/organisation-events-Campus-France)
+        *   [![Image 44](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/forum_actualisation%20de%20vos%20informations%20%28mise%20en%20avant%29.jpg?h=1b27c5ae&itok=byPrHpPl)Updating online information](https://www.campusfrance.org/en/updating-sheets-catalogues)
 
         
 
@@ -259,9 +318,9 @@ Markdown Content:
     *   Scholarships and calls for applications
         
 
-        *   [![Image 44](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2022-04/India-gate-delhi.jpg?h=2c1796df&itok=PuHhf8sR)Création d’un Campus franco-indien Consulter l'appel à projets](https://www.campusfrance.org/en/a-new-french-indian-life-sciences-campus-for-health-0 "Appel à projet pour la création d'un campus franco-indien")
-        *   [![Image 45](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/hubert%20curien.jpg?h=16a6d817&itok=hiiJ2IeY)Hubert Curien Partnerships (PHC)Discover](https://www.campusfrance.org/en/phc)
-        *   [![Image 46](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/Eiffel.jpg?h=1d8623ef&itok=tOlhm5Dx)Eiffel Programme Discover](https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program)
+        *   [![Image 45](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2022-04/India-gate-delhi.jpg?h=2c1796df&itok=PuHhf8sR)Création d’un Campus franco-indien Consulter l'appel à projets](https://www.campusfrance.org/en/a-new-french-indian-life-sciences-campus-for-health-0 "Appel à projet pour la création d'un campus franco-indien")
+        *   [![Image 46](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/hubert%20curien.jpg?h=16a6d817&itok=hiiJ2IeY)Hubert Curien Partnerships (PHC)Discover](https://www.campusfrance.org/en/phc)
+        *   [![Image 47](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2017-12/Eiffel.jpg?h=1d8623ef&itok=tOlhm5Dx)Eiffel Programme Discover](https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program)
 
         
 
@@ -275,9 +334,9 @@ Markdown Content:
     *   Welcome services
         
 
-        *   [![Image 47](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2020-11/jpo2019_0.jpg?h=e5aec6c8&itok=cfam8geT)L'accueil des étudiants internationaux Découvrir](https://www.campusfrance.org/en/node/303584)
-        *   [![Image 48](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2020-11/Colloque20192_0_0.jpg?h=7a6e80fd&itok=f1EC5mJp)Nos événements Découvrir](https://www.campusfrance.org/en/node/303586)
-        *   [![Image 49](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2019-11/CampusF_Label_Bienv.jpg?h=a7e6d17b&itok=QChz3JLJ)The "Bienvenue en France" label Discover](https://www.campusfrance.org/en/the-bienvenue-en-france-label)
+        *   [![Image 48](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2020-11/jpo2019_0.jpg?h=e5aec6c8&itok=cfam8geT)L'accueil des étudiants internationaux Découvrir](https://www.campusfrance.org/en/node/303584)
+        *   [![Image 49](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2020-11/Colloque20192_0_0.jpg?h=7a6e80fd&itok=f1EC5mJp)Nos événements Découvrir](https://www.campusfrance.org/en/node/303586)
+        *   [![Image 50](https://www.campusfrance.org/sites/default/files/styles/mobile_menu_image_1_2_et_3/public/menu/2019-11/CampusF_Label_Bienv.jpg?h=a7e6d17b&itok=QChz3JLJ)The "Bienvenue en France" label Discover](https://www.campusfrance.org/en/the-bienvenue-en-france-label)
 
         
 
@@ -490,14 +549,14 @@ Help and support
 *   [FAQ](https://www.campusfrance.org/en/faq)
 *   [Resources center](https://www.campusfrance.org/en/documentary-resources)
 
-*   [![Image 50: Logo Instagram](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Instagram_2.png)](https://www.instagram.com/campus_france/ "Instagram")
-*   [![Image 51: Logo Facebook](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Facebook_2.png)](https://fr-fr.facebook.com/CampusFranceParis/ "Facebook")
-*   [![Image 52: Logo Twitter](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Twitter_2.png)](https://twitter.com/campusfrance?lang=fr "Twitter")
-*   [![Image 53: Logo Youtube](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Youtube_2.png)](https://www.youtube.com/user/ParisCampusFrance "Youtube")
-*   [![Image 54: Logo LinkedIn](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Linkedin_2.png)](https://fr.linkedin.com/company/campusfrance "LinkedIn")
-*   [![Image 55: Logo France Alumni](https://www.campusfrance.org/sites/default/files/2022-11/Picto_France%20Alumni_2.png)](https://www.francealumni.fr/fr "France Alumni")
+*   [![Image 51: Logo Instagram](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Instagram_2.png)](https://www.instagram.com/campus_france/ "Instagram")
+*   [![Image 52: Logo Facebook](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Facebook_2.png)](https://fr-fr.facebook.com/CampusFranceParis/ "Facebook")
+*   [![Image 53: Logo Twitter](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Twitter_2.png)](https://twitter.com/campusfrance?lang=fr "Twitter")
+*   [![Image 54: Logo Youtube](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Youtube_2.png)](https://www.youtube.com/user/ParisCampusFrance "Youtube")
+*   [![Image 55: Logo LinkedIn](https://www.campusfrance.org/sites/default/files/2022-11/Picto_Linkedin_2.png)](https://fr.linkedin.com/company/campusfrance "LinkedIn")
+*   [![Image 56: Logo France Alumni](https://www.campusfrance.org/sites/default/files/2022-11/Picto_France%20Alumni_2.png)](https://www.francealumni.fr/fr "France Alumni")
 
-[![Image 56: République française, Liberté Égalité Fraternité](https://www.campusfrance.org/modules/custom/campus_common/img/logo-republique-francaise.svg)![Image 57: Campus France logo](https://www.campusfrance.org/modules/custom/campus_common/img/logo-campus-france.png)](https://www.campusfrance.org/en "Home")
+[![Image 57: République française, Liberté Égalité Fraternité](https://www.campusfrance.org/modules/custom/campus_common/img/logo-republique-francaise.svg)![Image 58: Campus France logo](https://www.campusfrance.org/modules/custom/campus_common/img/logo-campus-france.png)](https://www.campusfrance.org/en "Home")
 
 ©2017 Campus France
 

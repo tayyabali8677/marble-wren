@@ -6,6 +6,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -305,6 +306,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -677,6 +679,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -976,6 +979,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -1332,6 +1336,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -1631,6 +1636,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -1971,9 +1977,7 @@ Change your studies
 Quit your studies
 Manage personal data
 Contact
-Between 7 September and 9 October , you can ask all your questions to a staff member at Starting Point on campus Etterbeek! You can also enroll at Starting point (till 23rd of September), but only if you have Belgian diploma .
-Starting Point
-Do you have any other questions or are you unable to come to Starting Point? Call, email or visit Student Information.
+Do you have any other questions? Call, email or visit Student Information.
 Student Information
 Was there an error on this page?
 Let us know
@@ -2013,6 +2017,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -2312,6 +2317,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -2663,6 +2669,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -2962,6 +2969,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -3294,8 +3302,6 @@ First year at VUB?
 If you are entering higher education for the first time, you may be overwhelmed by all of this new information. We have listed everything you need to know.
 All info for first year students
 Need help?
-Between 7 September and 9 October , you can ask all your questions to a staff member at Starting Point on campus Etterbeek.
-Starting Point
 Call, e-mail or drop by Student Information. We'd love to help you with any questions you might have!
 Student Information
 Student portal WeAreVUB
@@ -3342,6 +3348,7 @@ Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies
@@ -3641,6 +3648,7 @@ Primary menu Study
 Menu group
 Study programmes
 Find your study programme
+Brochures
 Highlighted menu group
 Combining work and study
 Personal development during your studies

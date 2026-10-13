@@ -292,7 +292,7 @@ We are sorry but the page you are looking for may have been moved or is no longe
 *   [Publications](https://www.adb.org/publications)
 *   [Data and Statistics](https://www.adb.org/work-with-us/careers/what-we-do/data/main)
 
-[Send us feedback](https://www.adb.org/contact?target=def502005084902bf60197497f9b050459fd11ea099a770cbaa4fab3552bc368d566a493b4ad287e5b95d635d96aa4b4f881ad689c3dbebdced955c7ac82212fcd8d2bad085ed4087d295707668d5f84a610b674b355116c4f93e2b5017490e486360d&name=Webmaster&referrer=node/814461 "Webmaster")
+[Send us feedback](https://www.adb.org/contact?target=def50200f1bea07c788770890e5a1687025ec220c3b510604cbcc74c0062225d07049a6e70bbb16aa68b9f55afa6caea059b47f995b02805ee525cfb7f5e2af94427716ae2168c0fb19edb2e75523dc882c562c169bfa823c8fa09ef06ae048c8bafa8&name=Webmaster&referrer=node/814461 "Webmaster")
 
 ![Image 6: ADB e-Alerts](https://www.adb.org/themes/custom/adb_theme/components/connect-with-us/adb-enewsletter.png)
 
@@ -352,9 +352,3 @@ Other ADB Sites
 *   [Terms of Use](https://www.adb.org/terms-use)
 
 ADB encourages websites and blogs to link to its web pages.
-
-We respect your privacy and aim for the best website experience. Allowing cookies enables a tailored experience, while disabling them may reduce personalization. For more information, please read our [Terms of Use](https://www.adb.org/terms-use).
-
-Accept
-
-[](https://www.adb.org/work-with-us/careers/internship-young-professional-programs#)

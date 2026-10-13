@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -334,7 +334,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -527,7 +527,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
@@ -569,6 +569,8 @@ Telemarketing campaign on Leaving a Legacy in October
 Throughout October, we are highlighting the importance of leaving a legacy through a telemarketing campaign. To find out more, please visit the Planning your Legacy page for additional information.
 News
 In Memoriam: Ing. Maarten de Groot
+Read more
+Van der Lely Foundation invests €150,000 in TU Delft’s Science Day
 Read more
 In Memoriam: Dr. Ir. Koos Visser
 Read more
@@ -990,7 +992,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1259,7 +1261,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations

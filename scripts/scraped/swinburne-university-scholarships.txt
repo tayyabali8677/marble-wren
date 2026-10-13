@@ -8,8 +8,6 @@ Warning: Target URL returned error 404: Not Found
 Markdown Content:
 [![Image 2: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-small.svg)![Image 3: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-long-full.svg)](https://www.swinburne.edu.au/)
 
-Close
-
 Explore
 
 More from Swinburne University
@@ -24,10 +22,10 @@ More from Swinburne University
 
 *   visit Courses toggle Courses menu
 
-Back to main menu[Courses](https://www.swinburne.edu.au/courses "Go to  Courses")
+[Courses](https://www.swinburne.edu.au/courses "Go to  Courses")
     *   visit Find a course toggle Find a course menu
 
-Back to menu level 2[Find a course](https://www.swinburne.edu.au/courses/find-a-course "Go to  Find a course")
+[Find a course](https://www.swinburne.edu.au/courses/find-a-course "Go to  Find a course")
         *   [Arts, Humanities and Social Sciences](https://www.swinburne.edu.au/courses/find-a-course/arts-humanities-social-sciences "Go to  Arts, Humanities and Social Sciences")
         *   [Aviation](https://www.swinburne.edu.au/courses/find-a-course/aviation "Go to  Aviation")
         *   [Built Environment and Architecture](https://www.swinburne.edu.au/courses/find-a-course/built-environment-architecture "Go to  Built Environment and Architecture")
@@ -49,7 +47,7 @@ Back to menu level 2[Find a course](https://www.swinburne.edu.au/courses/find-a-
     *   [Study online](https://www.swinburne.edu.au/courses/course-delivery-options/study-online/ "Go to  Study online")
     *   visit Planning your future toggle Planning your future menu
 
-Back to menu level 2[Planning your future](https://www.swinburne.edu.au/courses/planning-your-future "Go to  Planning your future")
+[Planning your future](https://www.swinburne.edu.au/courses/planning-your-future "Go to  Planning your future")
         *   [Transition to university from VCE](https://www.swinburne.edu.au/courses/planning-your-future/entry-into-university-from-vce "Go to  Transition to university from VCE")
         *   [Direct entry into university](https://www.swinburne.edu.au/courses/planning-your-future/direct-entry-into-university "Go to  Direct entry into university")
         *   [Returning to study](https://www.swinburne.edu.au/courses/planning-your-future/returning-to-study "Go to  Returning to study")
@@ -64,7 +62,7 @@ Back to menu level 2[Planning your future](https://www.swinburne.edu.au/courses/
 
     *   visit Study levels and options toggle Study levels and options menu
 
-Back to menu level 2[Study levels and options](https://www.swinburne.edu.au/courses/study-levels-explained "Go to  Study levels and options")
+[Study levels and options](https://www.swinburne.edu.au/courses/study-levels-explained "Go to  Study levels and options")
         *   [Short courses](https://www.swinburne.edu.au/courses/study-levels-explained/short-courses "Go to  Short courses")
         *   [Pre-apprenticeships](https://www.swinburne.edu.au/courses/study-levels-explained/pre-apprenticeships "Go to  Pre-apprenticeships")
         *   [Apprenticeships](https://www.swinburne.edu.au/courses/study-levels-explained/apprenticeships "Go to  Apprenticeships")
@@ -83,14 +81,14 @@ Back to menu level 2[Study levels and options](https://www.swinburne.edu.au/cour
 
     *   visit Course delivery toggle Course delivery menu
 
-Back to menu level 2[Course delivery](https://www.swinburne.edu.au/courses/course-delivery-options "Go to  Course delivery options")
+[Course delivery](https://www.swinburne.edu.au/courses/course-delivery-options "Go to  Course delivery options")
         *   [Study online](https://www.swinburne.edu.au/courses/course-delivery-options/study-online "Go to  Study online at Swinburne")
         *   [Studying outside of Australia](https://www.swinburne.edu.au/courses/course-delivery-options/studying-outside-australia "Go to  Studying outside of Australia")
         *   [Study on campus](https://www.swinburne.edu.au/courses/course-delivery-options/studying-on-campus "Go to  Study on campus")
 
     *   visit Fees toggle Fees menu
 
-Back to menu level 2[Fees](https://www.swinburne.edu.au/courses/fees "Go to  Fees")
+[Fees](https://www.swinburne.edu.au/courses/fees "Go to  Fees")
         *   [Loans and discounts for local students](https://www.swinburne.edu.au/courses/fees/loans-discounts-local-students "Go to  Loans and discounts for local students")
         *   [Fees for international students](https://www.swinburne.edu.au/courses/fees/fees-for-international-students "Go to  Fees for international students")
         *   [Fees for local students](https://www.swinburne.edu.au/courses/fees/fees-for-local-students "Go to  Fees for local students")
@@ -98,14 +96,14 @@ Back to menu level 2[Fees](https://www.swinburne.edu.au/courses/fees "Go to  Fee
 
     *   visit Scholarships toggle Scholarships menu
 
-Back to menu level 2[Scholarships](https://www.swinburne.edu.au/courses/scholarships "Go to  Scholarships")
+[Scholarships](https://www.swinburne.edu.au/courses/scholarships "Go to  Scholarships")
         *   [Scholarship conditions](https://www.swinburne.edu.au/courses/scholarships/scholarship-conditions "Go to  Scholarship conditions")
         *   [Scholarship guide](https://www.swinburne.edu.au/courses/scholarships/guide "Go to  Scholarship guide")
         *   [Scholarships for international students](https://www.swinburne.edu.au/courses/scholarships/international-scholarships "Go to  Scholarships for international students")
 
     *   visit Applying toggle Applying menu
 
-Back to menu level 2[Applying](https://www.swinburne.edu.au/courses/applying "Go to  How to apply")
+[Applying](https://www.swinburne.edu.au/courses/applying "Go to  How to apply")
         *   [Applying via VTAC](https://www.swinburne.edu.au/courses/applying/information-on-vtac "Go to  Applying via VTAC")
         *   [How to apply as an international student](https://www.swinburne.edu.au/courses/applying/how-to-apply-international "Go to  How to apply as an international student ")
         *   [How to apply as a local vocational education student](https://www.swinburne.edu.au/courses/applying/how-to-apply-local-vocational-education "Go to  Vocational education (TAFE) applications: how to apply as a local student")
@@ -116,7 +114,7 @@ Back to menu level 2[Applying](https://www.swinburne.edu.au/courses/applying "Go
 
     *   visit Enrolling toggle Enrolling menu
 
-Back to menu level 2[Enrolling](https://www.swinburne.edu.au/courses/enrolling "Go to  Enrolling")
+[Enrolling](https://www.swinburne.edu.au/courses/enrolling "Go to  Enrolling")
         *   [How to enrol](https://www.swinburne.edu.au/courses/enrolling/how-to-enrol "Go to  How to enrol")
         *   [Understanding your university offer](https://www.swinburne.edu.au/courses/enrolling/understanding-your-offer "Go to  Understanding your university offer ")
         *   [Course planner](https://www.swinburne.edu.au/courses/enrolling/planning-your-course-structure "Go to  Planning your course structure with the course planner    ")
@@ -125,15 +123,15 @@ Back to menu level 2[Enrolling](https://www.swinburne.edu.au/courses/enrolling "
 
 *   visit Life at Swinburne toggle Life at Swinburne menu
 
-Back to main menu[Life at Swinburne](https://www.swinburne.edu.au/life-at-swinburne "Go to  Life at Swinburne")
+[Life at Swinburne](https://www.swinburne.edu.au/life-at-swinburne "Go to  Life at Swinburne")
     *   visit Why Swinburne toggle Why Swinburne menu
 
-Back to menu level 2[Why Swinburne](https://www.swinburne.edu.au/life-at-swinburne/why-choose-swinburne "Go to  Why study at Swinburne?")
+[Why Swinburne](https://www.swinburne.edu.au/life-at-swinburne/why-choose-swinburne "Go to  Why study at Swinburne?")
         *   [Why study in Australia?](https://www.swinburne.edu.au/life-at-swinburne/why-choose-swinburne/why-study-in-australia "Go to  Why study in Australia?")
 
     *   visit Living in Melbourne toggle Living in Melbourne menu
 
-Back to menu level 2[Living in Melbourne](https://www.swinburne.edu.au/life-at-swinburne/living-in-melbourne "Go to  Living in Melbourne")
+[Living in Melbourne](https://www.swinburne.edu.au/life-at-swinburne/living-in-melbourne "Go to  Living in Melbourne")
         *   [Plan your arrival in Melbourne](https://www.swinburne.edu.au/life-at-swinburne/living-in-melbourne/plan-your-arrival "Go to  Plan your arrival in Melbourne")
         *   [Arriving in Melbourne](https://www.swinburne.edu.au/life-at-swinburne/living-in-melbourne/arriving-in-melbourne "Go to  Arriving in Melbourne")
         *   [Things to do in Melbourne](https://www.swinburne.edu.au/life-at-swinburne/living-in-melbourne/things-to-do-melbourne "Go to  Things to do in Melbourne")
@@ -142,7 +140,7 @@ Back to menu level 2[Living in Melbourne](https://www.swinburne.edu.au/life-at-s
 
     *   visit International students toggle International students menu
 
-Back to menu level 2[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
+[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
         *   [Scholarships](https://www.swinburne.edu.au/courses/scholarships/international-scholarships/ "Go to  Page title")
         *   [Fees](https://www.swinburne.edu.au/courses/fees/fees-for-international-students/ "Go to  Page title")
         *   [Visas](https://www.swinburne.edu.au/courses/visas/ "Go to  Page title")
@@ -152,14 +150,14 @@ Back to menu level 2[International students](https://swinburne.edu.au/internatio
 
     *   visit Getting started toggle Getting started menu
 
-Back to menu level 2[Getting started](https://www.swinburne.edu.au/life-at-swinburne/getting-started-at-swinburne "Go to  Getting started at Swinburne")
+[Getting started](https://www.swinburne.edu.au/life-at-swinburne/getting-started-at-swinburne "Go to  Getting started at Swinburne")
         *   [Student email, password and Wi-Fi access](https://www.swinburne.edu.au/life-at-swinburne/getting-started-at-swinburne/email-wifi-password-help "Go to  Student email, password and Wi-Fi access")
         *   [Your student ID card and Swinburne login](https://www.swinburne.edu.au/life-at-swinburne/getting-started-at-swinburne/student-card-online-access "Go to  Your student ID card and Swinburne login")
         *   [Student discounts and concessions](https://www.swinburne.edu.au/life-at-swinburne/getting-started-at-swinburne/student-discounts-concessions "Go to  Student discounts and concessions")
 
     *   visit Student support toggle Student support menu
 
-Back to menu level 2[Student support](https://www.swinburne.edu.au/life-at-swinburne/student-support-services "Go to  Student support services")
+[Student support](https://www.swinburne.edu.au/life-at-swinburne/student-support-services "Go to  Student support services")
         *   [Special consideration](https://www.swinburne.edu.au/life-at-swinburne/student-support-services/special-consideration-assistance "Go to  Special consideration")
         *   [Accommodation](https://www.swinburne.edu.au/life-at-swinburne/student-support-services/accommodation "Go to  Accommodation")
         *   [Study and learning support](https://www.swinburne.edu.au/life-at-swinburne/student-support-services/study-learning-support "Go to  Study and learning support")
@@ -180,7 +178,7 @@ Back to menu level 2[Student support](https://www.swinburne.edu.au/life-at-swinb
 
     *   visit Work integrated learning toggle Work integrated learning menu
 
-Back to menu level 2[Work integrated learning](https://www.swinburne.edu.au/life-at-swinburne/work-integrated-learning "Go to  Work Integrated Learning")
+[Work integrated learning](https://www.swinburne.edu.au/life-at-swinburne/work-integrated-learning "Go to  Work Integrated Learning")
         *   [Placements](https://www.swinburne.edu.au/life-at-swinburne/work-integrated-learning/placements "Go to  Placements")
         *   [Internships](https://www.swinburne.edu.au/life-at-swinburne/work-integrated-learning/internships "Go to  Internships")
         *   [Industry projects](https://www.swinburne.edu.au/life-at-swinburne/work-integrated-learning/industry-linked-projects "Go to    Industry projects")
@@ -190,7 +188,7 @@ Back to menu level 2[Work integrated learning](https://www.swinburne.edu.au/life
 
     *   visit Study abroad toggle Study abroad menu
 
-Back to menu level 2[Study abroad](https://www.swinburne.edu.au/life-at-swinburne/study-abroad-exchange "Go to  Swinburne study abroad")
+[Study abroad](https://www.swinburne.edu.au/life-at-swinburne/study-abroad-exchange "Go to  Swinburne study abroad")
         *   [Overseas exchange](https://www.swinburne.edu.au/life-at-swinburne/study-abroad-exchange/studying-a-semester-abroad "Go to  Overseas exchange")
         *   [Overseas study tours](https://www.swinburne.edu.au/life-at-swinburne/study-abroad-exchange/study-tours "Go to  Overseas study tours")
         *   [Overseas internships](https://www.swinburne.edu.au/life-at-swinburne/study-abroad-exchange/overseas-internships "Go to  Overseas internships")
@@ -198,17 +196,17 @@ Back to menu level 2[Study abroad](https://www.swinburne.edu.au/life-at-swinburn
 
     *   visit Careers and employment toggle Careers and employment menu
 
-Back to menu level 2[Careers and employment](https://www.swinburne.edu.au/life-at-swinburne/careers-employment "Go to  Careers and employability")
+[Careers and employment](https://www.swinburne.edu.au/life-at-swinburne/careers-employment "Go to  Careers and employability")
         *   [Improve your employability](https://www.swinburne.edu.au/life-at-swinburne/careers-employment/improve-your-employability "Go to  Improve your employability")
         *   [Career services](https://www.swinburne.edu.au/life-at-swinburne/careers-employment/career-services "Go to  Career services")
         *   [Professional Purpose program](https://www.swinburne.edu.au/life-at-swinburne/careers-employment/professional-purpose "Go to  Professional Purpose program")
 
 *   visit Collaboration and partnerships toggle Collaboration and partnerships menu
 
-Back to main menu[Collaboration and partnerships](https://www.swinburne.edu.au/collaboration-partnerships "Go to  Collaboration and partnerships")
+[Collaboration and partnerships](https://www.swinburne.edu.au/collaboration-partnerships "Go to  Collaboration and partnerships")
     *   visit Placements and internships toggle Placements and internships menu
 
-Back to menu level 2[Placements and internships](https://www.swinburne.edu.au/collaboration-partnerships/placements-internships "Go to  Placements and internships")
+[Placements and internships](https://www.swinburne.edu.au/collaboration-partnerships/placements-internships "Go to  Placements and internships")
         *   [Partner stories](https://www.swinburne.edu.au/collaboration-partnerships/placements-internships/partner-stories "Go to  Partner stories")
         *   [Hosting students with disabilities](https://www.swinburne.edu.au/collaboration-partnerships/placements-internships/hosting-a-student-with-disabilities "Go to  Hosting students with disabilities ")
         *   [Work with our accreditation placement students](https://www.swinburne.edu.au/collaboration-partnerships/placements-internships/accreditation-placements "Go to  Work with our accreditation placement students")
@@ -216,12 +214,12 @@ Back to menu level 2[Placements and internships](https://www.swinburne.edu.au/co
 
     *   visit Employ a student toggle Employ a student menu
 
-Back to menu level 2[Employ a student](https://www.swinburne.edu.au/collaboration-partnerships/employ-a-student "Go to  Employ a student or graduate")
+[Employ a student](https://www.swinburne.edu.au/collaboration-partnerships/employ-a-student "Go to  Employ a student or graduate")
         *   [Apprenticeships and traineeships](https://www.swinburne.edu.au/collaboration-partnerships/employ-a-student/apprenticeships-traineeships "Go to  Apprenticeships and traineeships")
 
     *   visit School programs toggle School programs menu
 
-Back to menu level 2[School programs](https://www.swinburne.edu.au/collaboration-partnerships/school-programs "Go to  School programs")
+[School programs](https://www.swinburne.edu.au/collaboration-partnerships/school-programs "Go to  School programs")
         *   [Workshops, events and outreach programs](https://www.swinburne.edu.au/collaboration-partnerships/school-programs/workshops-and-programs/ "Go to  Workshops, events and outreach programs")
         *   [Work experience](https://www.swinburne.edu.au/collaboration-partnerships/school-programs/workshops-and-programs/work-experience/ "Go to  Work experience opportunities")
         *   [Knox Innovation, Opportunity and Sustainability Centre](https://www.swinburne.edu.au/collaboration-partnerships/school-programs/workshops-and-programs/knox-innovation-opportunity-sustainability-centre/ "Go to  Knox Innovation, Opportunity and Sustainability Centre")
@@ -232,7 +230,7 @@ Back to menu level 2[School programs](https://www.swinburne.edu.au/collaboration
     *   [Student projects](https://www.swinburne.edu.au/collaboration-partnerships/student-projects "Go to  Student projects ")
     *   visit Workforce training toggle Workforce training menu
 
-Back to menu level 2[Workforce training](https://www.swinburne.edu.au/collaboration-partnerships/workforce-training "Go to  Workforce training for organisations")
+[Workforce training](https://www.swinburne.edu.au/collaboration-partnerships/workforce-training "Go to  Workforce training for organisations")
         *   [Meet our facilitators](https://www.swinburne.edu.au/collaboration-partnerships/workforce-training/meet-our-facilitators "Go to  Meet our facilitators")
         *   [Meet our consultants](https://www.swinburne.edu.au/collaboration-partnerships/workforce-training/meet-our-consultants "Go to  Meet our consultants")
         *   [Meet our leadership and management teams](https://www.swinburne.edu.au/collaboration-partnerships/workforce-training/meet-our-leadership-management-team "Go to  Meet our team")
@@ -242,7 +240,7 @@ Back to menu level 2[Workforce training](https://www.swinburne.edu.au/collaborat
 
     *   visit Partnership opportunities toggle Partnership opportunities menu
 
-Back to menu level 2[Partnership opportunities](https://www.swinburne.edu.au/collaboration-partnerships/opportunities "Go to  Partnership opportunities")
+[Partnership opportunities](https://www.swinburne.edu.au/collaboration-partnerships/opportunities "Go to  Partnership opportunities")
         *   [Why partner with Swinburne](https://www.swinburne.edu.au/collaboration-partnerships/opportunities/why-partner-with-swinburne "Go to  Why partner with Swinburne")
         *   [4 simple steps to setting up a partnership](https://www.swinburne.edu.au/collaboration-partnerships/opportunities/four-simple-steps-to-setting-up-a-partnership "Go to  4 simple steps to setting up a partnership")
         *   [Achievements and success stories](https://www.swinburne.edu.au/collaboration-partnerships/opportunities/achievements-success-stories "Go to  Achievements and success stories")
@@ -253,11 +251,11 @@ Back to menu level 2[Partnership opportunities](https://www.swinburne.edu.au/col
 
 *   visit Research toggle Research menu
 
-Back to main menu[Research](https://www.swinburne.edu.au/research "Go to  Research")
+[Research](https://www.swinburne.edu.au/research "Go to  Research")
     *   [Achievements and recognition](https://www.swinburne.edu.au/research/achievements-recognition "Go to  Research achievements and recognition")
     *   visit Research institutes toggle Research institutes menu
 
-Back to menu level 2[Research institutes](https://www.swinburne.edu.au/research/institutes "Go to  Research institutes")
+[Research institutes](https://www.swinburne.edu.au/research/institutes "Go to  Research institutes")
         *   [Innovative Planet Research Institute](https://www.swinburne.edu.au/research/institutes/innovative-planet "Go to  Innovative Planet Research Institute")
         *   [Iverson Health Innovation Research Institute](https://www.swinburne.edu.au/research/institutes/iverson-health-innovation "Go to  Iverson Health Innovation Research Institute ")
         *   [Social Innovation Research Institute](https://www.swinburne.edu.au/research/institutes/social-innovation "Go to  Social Innovation Research Institute")
@@ -268,12 +266,12 @@ Back to menu level 2[Research institutes](https://www.swinburne.edu.au/research/
     *   [Facilities and equipment](https://www.swinburne.edu.au/research/facilities-equipment "Go to  Research facilities and equipment")
     *   visit Indigenous research toggle Indigenous research menu
 
-Back to menu level 2[Indigenous research](https://www.swinburne.edu.au/research/indigenous-research "Go to  Indigenous Research")
+[Indigenous research](https://www.swinburne.edu.au/research/indigenous-research "Go to  Indigenous Research")
         *   [Indigenous research projects](https://www.swinburne.edu.au/research/indigenous-research/projects "Go to  Indigenous Research Projects")
 
     *   visit Research ethics and integrity toggle Research ethics and integrity menu
 
-Back to menu level 2[Research ethics and integrity](https://www.swinburne.edu.au/research/ethics-integrity "Go to  Research ethics and integrity")
+[Research ethics and integrity](https://www.swinburne.edu.au/research/ethics-integrity "Go to  Research ethics and integrity")
         *   [Animal research](https://www.swinburne.edu.au/research/ethics-integrity/animal-research "Go to  Animal research")
         *   [Biosafety compliance](https://www.swinburne.edu.au/research/ethics-integrity/biosafety-compliance "Go to  Biosafety compliance")
         *   [Data management](https://www.swinburne.edu.au/research/ethics-integrity/data-management "Go to  Data management")
@@ -285,15 +283,13 @@ Back to menu level 2[Research ethics and integrity](https://www.swinburne.edu.au
 
 *   visit International students toggle International students menu
 
-Back to main menu[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
+[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
     *   [Scholarships](https://www.swinburne.edu.au/courses/scholarships/international-scholarships/ "Go to  Page title")
     *   [Fees](https://www.swinburne.edu.au/courses/fees/fees-for-international-students/ "Go to  Page title")
     *   [Visas](https://www.swinburne.edu.au/courses/visas/ "Go to  Page title")
     *   [ELICOS and Preparation courses](https://www.swinburne.edu.au/about/our-structure/organisational-structure/subsidiaries-entities/swinburne-college/ "Go to  Page title")
     *   [Studying abroad in Melbourne](https://www.swinburne.edu.au/courses/planning-your-future/study-abroad-in-melbourne/ "Go to  Page title")
     *   [Find an agent](https://www.swinburne.edu.au/contact-us/find-an-education-agent/ "Go to  Page title")
-
-[Apply now](https://www.swinburne.edu.au/courses/applying/application-portal)
 
 [Apply now](https://www.swinburne.edu.au/courses/applying/application-portal)
 
