@@ -3,6 +3,8 @@ Title: Uniwersytet Warszawski
 
 URL Source: https://www.uw.edu.pl/en/international-scholarships/
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 *   [Treść strony](https://www.uw.edu.pl/en/international-scholarships/#content)
 *   [Menu główne](https://www.uw.edu.pl/en/international-scholarships/#main-menu)

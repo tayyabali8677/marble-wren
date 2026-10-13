@@ -4,12 +4,6 @@ Title: East-West Center | www.eastwestcenter.org
 URL Source: https://www.eastwestcenter.org/education/graduate-education
 
 Markdown Content:
-## This site uses cookies. By continuing to browse the site, you agree to our use of cookies. [Find out more.](https://www.eastwestcenter.org/node/86146)
-
-No, thanks I agree
-
-[Skip to main content](https://www.eastwestcenter.org/education/graduate-education#main-content)
-
 [![Image 1: Logo](https://www.eastwestcenter.org/themes/custom/ewc/images/EWCLOGO-mobile.svg)](https://www.eastwestcenter.org/)
 
 [![Image 2: East-WestCenter|www.eastwestcenter.org](https://www.eastwestcenter.org/themes/custom/ewc/images/EWCLOGO-new.svg)](https://www.eastwestcenter.org/)
@@ -17,19 +11,6 @@ No, thanks I agree
 *   [About](https://www.eastwestcenter.org/about)
 *   [Departments](https://www.eastwestcenter.org/departments)
 *   [Campus](https://www.eastwestcenter.org/campus)
-
-Search 
-
-## Main navigation
-
-*   [Analysis](https://www.eastwestcenter.org/analysis)
-*   [Events](https://www.eastwestcenter.org/events)
-*   [News](https://www.eastwestcenter.org/news)
-*   [Projects](https://www.eastwestcenter.org/projects)
-*   [Training & Exchanges](https://www.eastwestcenter.org/training-exchanges)
-*   [Experts](https://www.eastwestcenter.org/staff/experts)
-*   [Apply](https://www.eastwestcenter.org/apply)
-*   [Give Opens in a new window](https://give.eastwestcenter.org/)
 
 ## All Regions Dropdown
 
@@ -131,84 +112,10 @@ Search
 *   [Travel & Tourism](https://www.eastwestcenter.org/topics/travel-tourism)
 *   [Urbanization](https://www.eastwestcenter.org/topics/urbanization)
 
-## Tertiary Menu
-
-*   [Leadership](https://www.eastwestcenter.org/topics/leadership)
-*   [Pacific](https://www.eastwestcenter.org/regions/pacific)
-*   [Environment](https://www.eastwestcenter.org/topics/environment)
-*   [Governance](https://www.eastwestcenter.org/topics/governance)
-*   [Arts & Culture](https://www.eastwestcenter.org/topics/arts-culture)
-
-## Main navigation
-
-*   [Analysis](https://www.eastwestcenter.org/analysis)
-*   [Events](https://www.eastwestcenter.org/events)
-*   [News](https://www.eastwestcenter.org/news)
-*   [Projects](https://www.eastwestcenter.org/projects)
-*   [Training & Exchanges](https://www.eastwestcenter.org/training-exchanges)
-*   [Experts](https://www.eastwestcenter.org/staff/experts)
-*   [Apply](https://www.eastwestcenter.org/apply)
-*   [Give Opens in a new window](https://give.eastwestcenter.org/)
-
 *   [About](https://www.eastwestcenter.org/about)
 *   [Departments](https://www.eastwestcenter.org/departments)
 *   [Campus](https://www.eastwestcenter.org/campus)
 
-## Tertiary Menu
-
-*   [Leadership](https://www.eastwestcenter.org/topics/leadership)
-*   [Pacific](https://www.eastwestcenter.org/regions/pacific)
-*   [Environment](https://www.eastwestcenter.org/topics/environment)
-*   [Governance](https://www.eastwestcenter.org/topics/governance)
-*   [Arts & Culture](https://www.eastwestcenter.org/topics/arts-culture)
-
 [![Image 3: 404](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/error404.svg)](https://www.eastwestcenter.org/education/graduate-education)
+
 ## We're sorry, the page requested could not be found.
-
-Search 
-
-[![Image 4: East-WestCenter|www.eastwestcenter.org](https://www.eastwestcenter.org/themes/custom/ewc/images/footer/footer.svg)](https://www.eastwestcenter.org/)
-
-About
-
-*   [Staff](https://www.eastwestcenter.org/about/staff)
-*   [Careers](https://www.eastwestcenter.org/about/careers)
-*   [Imin Conference Center](https://www.eastwestcenter.org/campus/conference-center)
-*   [Resources](https://www.eastwestcenter.org/resources)
-*   [Videos](https://www.eastwestcenter.org/videos)
-*   [Publications](https://www.eastwestcenter.org/publications)
-
-Students
-
-*   [Scholarships & Fellowships](https://www.eastwestcenter.org/education/opportunities-study-and-scholarship)
-*   [Housing](https://www.eastwestcenter.org/campus/housing)
-
-Alumni
-
-*   [Alumni Association Chapters](https://www.eastwestcenter.org/alumni/ewca-alumni-chapters)
-*   [Office of Alumni Engagement](https://www.eastwestcenter.org/alumni)
-
-Help
-
-*   [FAQs](https://www.eastwestcenter.org/help)
-*   [Site Map](https://www.eastwestcenter.org/sitemap)
-*   [Privacy](https://www.eastwestcenter.org/help/privacy-statement)
-
-Connect
-
-*   [Contact](https://www.eastwestcenter.org/contact-us)
-*   [Subscribe](https://www.eastwestcenter.org/about/subscribe)
-
-[Donate](https://host.nxt.blackbaud.com/donor-form?svcid=renxt&formId=443f0b5f-c86f-4a85-847c-ae458648c4bc&envid=p-tAfAhI0BwEqHBMl-Xecjxg&zone=usa)
-
-*   [![Image 5: facebook](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/facebook-light.svg)](https://www.facebook.com/EastWestCenter.org)
-*   [![Image 6: instagram](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/instagram-light.svg)](https://www.instagram.com/east.west.center)
-*   [![Image 7: twitter](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/twitter-light.svg)](https://x.com/EastWestCenter)
-*   [![Image 8: linkedin](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/linkedin-light.svg)](https://www.linkedin.com/school/east-west-center)
-*   [![Image 9: youtube](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/youtube-light.svg)](https://www.youtube.com/user/EastWestCenter)
-*   [![Image 10: flickr](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/flickr-light.svg)](https://www.flickr.com/photos/eastwestcenter/collections)
-*   [![Image 11: vimeo](https://www.eastwestcenter.org/themes/custom/ewc/images/svg/vimeo-light.svg)](https://www.vimeo.com/eastwestcenter)
-
-Unless otherwise noted, all content copyright © East-West Center. All Rights reserved.
-
-Back to top

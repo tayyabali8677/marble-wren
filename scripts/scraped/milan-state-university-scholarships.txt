@@ -3,6 +3,8 @@ Title: Page not found | Università degli Studi di Milano Statale
 
 URL Source: https://www.unimi.it/en/international/scholarships-and-financial-support
 
+Published Time: Tue, 13 Oct 2026 05:54:19 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -227,7 +229,7 @@ Contacts
 *   [Who and Where](https://www.unimi.it/en/search/who-and-where)
 *   [Service contacts](https://www.unimi.it/en/search/contacts)
 
-If these suggestions were not helpful, you may report the issue to [webmast@unimi.it](mailto:webmast@unimi.it?subject=Unimi%20404%20error).
+If these suggestions were not helpful, you may report the issue to [[email protected]](https://www.unimi.it/cdn-cgi/l/email-protection#0c7b696e616d7f784c7962656165226578337f796e66696f783159626561652c383c382c697e7e637e).
 
 Please specify the address you were trying to access, the page or document you are looking for, the page you were on before landing here.
 

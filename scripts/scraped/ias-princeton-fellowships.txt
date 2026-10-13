@@ -1,10 +1,37 @@
 ===== SOURCE PAGE: https://www.ias.edu/ =====
-Title: Just a moment...
+Title: Home | Institute for Advanced Study
 
 URL Source: https://www.ias.edu/
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Published Time: Mon, 12 Oct 2026 21:17:26 GMT
 
 Markdown Content:
-Enable JavaScript and cookies to continue
+## [Three Natural Sciences Scholars Elected APS Fellows](https://www.ias.edu/news/natural-sciences-scholars-elected-fellows-american-physical-society)
+
+October 12, 2026
+
+## [A New Season of Discovery: IAS Opens its Doors to 254 Visiting Scholars for 2026–27](https://www.ias.edu/news/new-season-discovery-ias-opens-its-doors-254-visiting-scholars-2026-27)
+
+September 22, 2026
+
+Kicking off its 2026–27 academic year on September 22, 2026, the Institute for Advanced Study is set to welcome 254 new and returning scholars from 43 nations and over 115 institutions. The visiting scholars will work in tandem with the Institute's 23 permanent Faculty and 26 Emeriti—all renowned experts in their fields.
+
+## [Hunting Down Guidance Laws](https://www.ias.edu/ideas/hunting-down-guidance-laws)
+
+How do lions control their steering and speed during the split-second, high-stakes final moments of a hunt? In an unexpected collaboration with a Princeton University ethologist, [Hadleigh Frost](https://www.ias.edu/scholars/hadleigh-frost), Member (2024–27) in the [School of Natural Sciences](https://www.ias.edu/sns), turned his skills, honed in theoretical physics, to providing an answer.
+
+## [IAS Scholar Reveals Universal Rule of Black Hole "Burps"](https://www.ias.edu/news/ias-scholar-reveals-universal-rule-black-hole-burps)
+
+September 17, 2026
+
+An international collaboration co-led by [Andrew Mummery](https://www.ias.edu/scholars/andrew-mummery), Martin A. and Helen Chooljian Member (2025–30) in the [School of Natural Sciences](https://www.ias.edu/sns), has uncovered a universal rule governing one of the most powerful astronomical events in the universe. The team has shown that black holes—whether they are “stellar-mass” objects ten times the mass of our sun or supermassive giants millions of times heavier—fire powerful jets of material at the same juncture in their feeding cycles.
+
+## [Alondra Nelson Receives AI2050 Senior Fellowship from Schmidt Sciences](https://www.ias.edu/news/alondra-nelson-receives-ai2050-senior-fellowship-schmidt-sciences)
+
+October 02, 2026
+
+[Alondra Nelson](https://www.ias.edu/scholars/nelson), Harold F. Linder Professor in the[School of Social Science](https://www.ias.edu/sss), has been named by Schmidt Sciences as a[2026 AI2050 Senior Fellow](https://www.schmidtsciences.org/ai2050-fellows-2026-announcement/). The fellowship will support Nelson's critical research into how individuals and households navigate multiple AI systems simultaneously across school, work, healthcare, and finance.
+
+## [Digital Keys to the Wilderness](https://www.ias.edu/ideas/digital-keys-wilderness)
+
+[Ellen Pilsworth](https://www.ias.edu/scholars/ellen-mary-pilsworth), Alfred Landecker Member in the [School of Historical Studies](https://www.ias.edu/hs) (2024–25), describes a “wow moment” in digital scholarship involving Winston Churchill’s Wilderness Years that she experienced while conducting research at the Institute for Advanced Study.

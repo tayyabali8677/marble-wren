@@ -85,6 +85,34 @@ Markdown Content:
 [Home](https://www.en.aau.dk/)
 Page not found (404)
 
+### The page could not be found
+
+The page you have attempted to view cannot be found (error code 404). The page may have been removed, modified or may be temporarily disabled.
+
+Are you looking for:
+
+*   [the application/admission process](https://www.en.aau.dk/education/apply "Apply")
+*   [study programmes and specialisations](https://www.en.aau.dk/education "Education")
+*   [rules and guidance for admitted students at AAU](https://www.students.aau.dk/student-guidance/)
+*   [accommodation for international staff and students](https://www.en.aau.dk/living-in-denmark/accommodation "Accommodation")
+*   [alumni information](https://www.en.aau.dk/alumni "Alumni")
+
+## What may have caused the error?
+
+*   The webadress is entered incorrectly
+*   The page has been moved and has got a new address
+*   The page has become outdated and removed
+
+### How to proceed?
+
+*   Check if the address is spelled correctly in the address bar
+*   Click the 'Back' button of your browser and try another link on the page you came from
+*   Use the search field in the top of the webpage
+
+#### Report the error
+
+*   [Send feedback about the error to AAU's webmaster](https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNPvwgsRH9LJFh1I_qhOJhBZUMTVDQjdYMTI5RkpCSUcwRTFaQkYwNjBaVS4u)
+
 Contact
 
 ###### Contact

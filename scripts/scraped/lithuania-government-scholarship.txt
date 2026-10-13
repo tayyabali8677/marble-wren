@@ -3,7 +3,6 @@ Title: Just a moment...
 
 URL Source: https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:

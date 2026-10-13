@@ -1104,31 +1104,29 @@ Search
 
 # Nonexisting page (404)/Siden eksisterer ikke
 
-# Nonexisting page (404)/Siden eksisterer ikke
-
 ## The page you are looking for is missing!
 
 You have the following options:  
   
-•Try to find the missing page using the search field at the top of this page or use the navigation menu.  
-•Please fill out the contact form below by indicating the incorrect link or url.   
+ •Try to find the missing page using the search field at the top of this page or use the navigation menu.  
+ •Please fill out the contact form below by indicating the incorrect link or url.   
   
-Use your browser's back button to get back to the previous page.
+ Use your browser's back button to get back to the previous page.
 
 ## Serveren kan ikke finde den side, du beder om
 
 Du har nu følgende valgmuligheder:  
   
-•Forsøg at finde siden via søgefeltet øverst på denne side eller ved hjælp af navigationsmenuen.  
-•Udfyld venligst nedenstående formular til at angive at et link eller url ikke længere er korrekt.   
+ •Forsøg at finde siden via søgefeltet øverst på denne side eller ved hjælp af navigationsmenuen.  
+ •Udfyld venligst nedenstående formular til at angive at et link eller url ikke længere er korrekt.   
   
-For at komme tilbage til den foregående side skal du bruge din browsers tilbage-knap.
+ For at komme tilbage til den foregående side skal du bruge din browsers tilbage-knap.
 
 ## Share on
 
 [Facebook](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'facebook');)[X](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'twitter');)[Linkedin](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'linkedin');)[Email](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound', 'options':{'subject': 'Nonexisting page (404)/Siden eksisterer ikke'}}, 'email');)[Copy link](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships "link: Copy URL To Clipboard")
 
-Last Updated 16.11.2022
+Last Updated 12.10.2026
 
 About SDU
 

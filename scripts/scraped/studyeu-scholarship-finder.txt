@@ -3,7 +3,8 @@ Title: Just a moment...
 
 URL Source: https://www.study.eu/article/study-in-europe-scholarships
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Warning: Target URL returned error 403: Forbidden
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ![Image 1: Icon for www.study.eu](https://www.study.eu/favicon.ico)

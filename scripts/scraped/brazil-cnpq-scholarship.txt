@@ -303,9 +303,6 @@ Saiba mais sobre Chamada de Bolsas de Produtividade do CNPq recebe propostas at�
 Chamada Pepe Mujica terá suplementação para atender alta demanda e projetos de IA; resultado preliminar sairá dia 20/10
 Ação que estimula colaboração científica entre América Latina e Caribe terá investimento adicional do FNDCT.
 Saiba mais sobre Chamada Pepe Mujica terá suplementação para atender alta demanda e projetos de IA; resultado preliminar sairá dia 20/10
-Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
-Iniciativa tem parceria do MCTI e visa inserir mestres e doutores em microempresas, pequenas empresas e startups; duração máxima do apoio é de 30 meses, com contrapartida das empresas de 20% do valor do projeto. Ao menos 30% do investimento irá para N, NE e CO.
-Saiba mais sobre Chamada RHAE IA visa inserir cientistas em empresas para desenvolver projetos de inteligência artificial; inscrições até 09/10
 Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
 Ação do CNPq conta com parceria da CAPES e busca fortalecer a pesquisa, o empreendedorismo e a inovação nas Instituições Científicas, Tecnológicas e de Inovação.
 Saiba mais sobre Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
@@ -349,7 +346,6 @@ Abertas para Submissão
 Análise em Andamento
 Resultados Publicados
 Chamada Pública CNPq/CAPES Nº 30/2026 – Programa de Mestrado e Doutorado Acadêmico para Inovação – MAI/DAI
-Chamada Pública CNPq/SETEC/SETAD/MCTI/FNDCT Nº 29/2026 – RHAE IA – Recursos Humanos em Áreas Estratégicas – Pesquisador na Empresa – Inteligência Artificial
 Chamada CNPq nº 33/2026 - Bolsas de Produtividade do CNPq
 CNPq em Dados
 2,8 bi

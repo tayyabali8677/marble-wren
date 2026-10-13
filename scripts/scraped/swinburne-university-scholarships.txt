@@ -3,6 +3,8 @@ Title: Error 404 | Swinburne University
 
 URL Source: https://www.swinburne.edu.au/study/scholarships/
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [![Image 2: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-small.svg)![Image 3: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-long-full.svg)](https://www.swinburne.edu.au/)
 

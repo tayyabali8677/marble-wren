@@ -3,6 +3,8 @@ Title: Page not available (Error 404)
 
 URL Source: https://www.uu.nl/en/education/bachelor/tuition-fees-and-scholarships
 
+Published Time: Tue, 13 Oct 2026 05:51:49 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -31,11 +33,11 @@ Search
 
 ![Image 3: students cycling on the street](https://www.uu.nl/sites/default/files/styles/image_1600x400/public/ubd-ssst-1600x400.jpg?itok=dgUMfCBE)
 
-# [Page not available (Error 404)](https://www.uu.nl/en)
+# [Page not available (Error 404)](https://www.uu.nl/en/404)
 
 ## Page not available (Error 404)
 
-*   [Page not available (Error 404)](https://www.uu.nl/en)
+*   [Page not available (Error 404)](https://www.uu.nl/en/404)
 *   [Education](https://www.uu.nl/en/education)
 *   [Research](https://www.uu.nl/en/research)
 *   [Organisation](https://www.uu.nl/en/organisation)

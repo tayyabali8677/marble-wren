@@ -3,6 +3,8 @@ Title: Page not found
 
 URL Source: https://www.rmit.edu.au/students/student-essentials/scholarships
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 # Page not found
 
@@ -24,7 +26,7 @@ Markdown Content:
 *   [Library](https://www.rmit.edu.au/library) 
 *   [Online](https://www.rmit.edu.au/online) 
 
-[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)
 
 [](javascript:void(0);)
 
@@ -34,16 +36,9 @@ Search field
 
 [](https://www.rmit.edu.au/)
 
-[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
 
 Search [](https://www.rmit.edu.au/search)
-
-*   [Back to errors](https://www.rmit.edu.au/errors)
-
-*   [Page not found](https://www.rmit.edu.au/errors/404)
-*   [Unauthorised access](https://www.rmit.edu.au/errors/401)
-*   [Internal server error](https://www.rmit.edu.au/errors/500)
-*   [Forbidden access](https://www.rmit.edu.au/errors/403)
 
 [RMIT Australia](https://www.rmit.edu.au/)[](javascript:void(0);)
 
@@ -226,7 +221,7 @@ Search [](https://www.rmit.edu.au/search)
     *   [Key dates and intake information for international students](https://www.rmit.edu.au/study-with-us/international-students/intakes-in-australia-for-international-students)
     *   [Frequently asked questions](https://www.rmit.edu.au/study-with-us/international-students/frequently-asked-questions)
 
-![Image 5](https://www.rmit.edu.au/assets/au/en/study-with-us/levels-of-study/sab-streetscape-sepia-swanston-building-80-1440x376.jpg)
+![Image 4](https://www.rmit.edu.au/assets/au/en/study-with-us/levels-of-study/sab-streetscape-sepia-swanston-building-80-1440x376.jpg)
 
 ## Page not found
 
@@ -277,15 +272,15 @@ Show less
 
 [Contact us](https://www.rmit.edu.au/contact)
 
-![Image 6: aboriginal flag float-start](https://www.rmit.edu.au/assets/au/en/news/homepage/flag-red.png)![Image 7: torres strait flag float-start](https://www.rmit.edu.au/assets/au/en/news/homepage/flag-green.png)
+![Image 5: aboriginal flag float-start](https://www.rmit.edu.au/assets/au/en/news/homepage/flag-red.png)![Image 6: torres strait flag float-start](https://www.rmit.edu.au/assets/au/en/news/homepage/flag-green.png)
 
 #### Acknowledgement of Country
 
 RMIT University acknowledges the people of the Woi wurrung and Boon wurrung language groups of the eastern Kulin Nation on whose unceded lands we conduct the business of the University. RMIT University respectfully acknowledges their Ancestors and Elders, past and present. RMIT also acknowledges the Traditional Custodians and their Ancestors of the lands and waters across Australia where we conduct our business - Artwork 'Sentient' by Hollie Johnson, Gunaikurnai and Monero Ngarigo.
 
-[Learn more about our commitment to Aboriginal and Torres Strait Islander peoples ![Image 8](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/right-chevron.svg)](https://www.rmit.edu.au/about/our-values/respect-for-aboriginal-torres-strait-islander-peoples)
+[Learn more about our commitment to Aboriginal and Torres Strait Islander peoples ![Image 7](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/right-chevron.svg)](https://www.rmit.edu.au/about/our-values/respect-for-aboriginal-torres-strait-islander-peoples)
 
-![Image 9](https://www.rmit.edu.au/assets/images/sentient-hollie-johnson.jpg)
+![Image 8](https://www.rmit.edu.au/assets/images/sentient-hollie-johnson.jpg)
 
 [](https://www.rmit.edu.au/)
 
@@ -296,7 +291,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Careers](https://www.rmit.edu.au/careers)
 *   [Contacts](https://www.rmit.edu.au/contact)
 
-[Study with Us](https://www.rmit.edu.au/study-with-us)![Image 10](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 11](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
+[Study with Us](https://www.rmit.edu.au/study-with-us)![Image 9](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 10](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
 
 *   [Levels of study](https://www.rmit.edu.au/study-with-us/levels-of-study)
 *   [Online courses and degrees](https://www.rmit.edu.au/online)
@@ -306,7 +301,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Parents](https://www.rmit.edu.au/study-with-us/parents)
 *   [Careers advisers](https://www.rmit.edu.au/study-with-us/career-advisers)
 
-[Life at RMIT](https://www.rmit.edu.au/life-at-rmit)![Image 12](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 13](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
+[Life at RMIT](https://www.rmit.edu.au/life-at-rmit)![Image 11](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 12](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
 
 *   [Study experience](https://www.rmit.edu.au/life-at-rmit/study-experience)
 *   [Student life](https://www.rmit.edu.au/life-at-rmit/student-life)
@@ -314,7 +309,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Global opportunities](https://www.rmit.edu.au/life-at-rmit/global-opportunities)
 *   [Industry connections](https://www.rmit.edu.au/life-at-rmit/industry-connections)
 
-[Research](https://www.rmit.edu.au/research)![Image 14](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 15](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
+[Research](https://www.rmit.edu.au/research)![Image 13](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 14](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
 
 *   [Our research](https://www.rmit.edu.au/research/our-research)
 *   [Centres and collaborations](https://www.rmit.edu.au/research/centres-collaborations)
@@ -323,7 +318,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Find researchers](https://academics.rmit.edu.au/)
 *   [Research contacts](https://www.rmit.edu.au/research/contact)
 
-[Partner](https://www.rmit.edu.au/partner)![Image 16](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 17](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
+[Partner](https://www.rmit.edu.au/partner)![Image 15](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 16](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
 
 *   [Workforce development](https://www.rmit.edu.au/partner/workforce-development)
 *   [Staff development and training](https://www.rmit.edu.au/partner/workforce-development)
@@ -331,7 +326,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Facilities and equipment services](https://www.rmit.edu.au/partner/facilities-and-equipment-services)
 *   [Giving](https://www.rmit.edu.au/giving)
 
-[About](https://www.rmit.edu.au/about)![Image 18](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 19](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
+[About](https://www.rmit.edu.au/about)![Image 17](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-white.svg)![Image 18](https://www.rmit.edu.au/etc.clientlibs/rmit/clientlibs/clientlib-webpack/resources/icons/down-chevron-grey.svg)
 
 *   [Our strategy](https://www.rmit.edu.au/about/our-strategy)
 *   [Governance and management](https://www.rmit.edu.au/about/governance-management)
@@ -359,5 +354,3 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [](https://www.linkedin.com/school/rmit-university/)
 *   [](https://www.youtube.com/user/rmitmedia)
 *   [](https://www.weibo.com/rmituni)
-
-![Image 20: Help us improve ](https://syd1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_0TUVkmGwYVDb3im)

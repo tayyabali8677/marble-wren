@@ -3,6 +3,8 @@ Title: 提示信息
 
 URL Source: https://www.fudan.edu.cn/en/channels/view/268/
 
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+
 Markdown Content:
 ![Image 1](https://www.fudan.edu.cn/_images/error/error.gif)
 

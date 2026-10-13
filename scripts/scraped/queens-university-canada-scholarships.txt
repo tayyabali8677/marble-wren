@@ -107,8 +107,8 @@ Markdown Content:
         
 
         *   [General Queen's Campus Tours](https://www.queensu.ca/admission/visit/campus-tours)
-        *   [Smith Commerce Tours](https://smith.queensu.ca/bcom/contact/visit.php "(opens in a new window)")
-        *   [Smith Engineering Tours](https://smithengineering.queensu.ca/student-experience/tours/index.html "(opens in a new window)")
+        *   [Smith Commerce Tours](https://smith.queensu.ca/bcom/contact/visit.php)
+        *   [Smith Engineering Tours](https://smithengineering.queensu.ca/student-experience/tours/index.html)
 
     *    Events 
         
