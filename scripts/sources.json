@@ -3798,5 +3798,12 @@
     "country": "European Union",
     "url": "https://erasmus-mundus.eu",
     "note": "Fully funded multi-country European programs."
+  },
+  {
+    "slug": "us-department-of-state-professional-fellows-program",
+    "name": "U.S. Department of State Professional Fellows Program",
+    "country": "United States",
+    "url": "https://www.professionalfellows.states.gov/",
+    "note": "Government-funded international exchange and fellowship program."
   }
 ]
