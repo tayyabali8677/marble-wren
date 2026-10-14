@@ -3,8 +3,6 @@ Title: EU Funding & Tenders Portal
 
 URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
 
-Published Time: Mon, 12 Oct 2026 09:17:16 GMT
-
 Markdown Content:
 Discover the funding & tenders opportunities
 
@@ -22,9 +20,23 @@ Browse through EU funded projects and learn about the results. Invest in opportu
 [Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
 Proposals and projects need evaluations, monitoring and domain-specific knowledge advice from experts.
 
+Highlights
+
+[![Image 1: Are You Looking to Advance Your Research Career in the EU?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30353/v13/ChooseEurope_Attracting_researchers_1920x1080%20FINAL.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30353)
+
+Discover a world of opportunity in the European Union.
+
+[![Image 2: Download “EU funding & me” The Mobile app that Simplifies Access to EU Funding](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30392/v6/GIF%20last_small.gif)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30392)
+
+The App that offers intuitive features and seamless access to EU funding services anytime, anywhere.
+
+[![Image 3: Are You Ready to Discover EU-funded Projects in Action?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30468/v2/FTP-EUFAME_news_poster%20(1).jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30468)
+
+With the new interactive Map in the EU funding & me app, you can see where EU funding is making a difference. Download the app to discover !
+
 EU programmes involved
 
-![Image 1: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
+![Image 4: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
 
 Discover the range of EU Programmes, a wide variety of EU funding opportunities implemented through the 2021-2027 multiannual financial framework, divided by heading and cluster. Access specific EU funding Programme's information, from reference documents to eligibility criteria and guidelines for participants or projects and results.
 
@@ -32,19 +44,19 @@ Discover the range of EU Programmes, a wide variety of EU funding opportunities 
 
 News
 
-[![Image 2: Online Info Sessions: Creative Europe-MEDIA and Cross Sectoral 2027](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40078/v1/media%20f&tp.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40078)
+[![Image 5: Online Info Sessions: Creative Europe-MEDIA and Cross Sectoral 2027](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40078/v1/media%20f&tp.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40078)
 
 Published on 4 October 2026
 
 The European Education and Culture Executive Agency is hosting online Info Sessions starting October 2026 to introduce funding opportunities under the Creative Europe MEDIA and Cross-Sectoral strands.
 
-[![Image 3: 1800 Projects’ Proposals Submitted to Support Democracy, Culture and Inclusive Transformation](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40076/v1/1790665213545.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40076)
+[![Image 6: 1800 Projects’ Proposals Submitted to Support Democracy, Culture and Inclusive Transformation](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40076/v1/1790665213545.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40076)
 
 Published on 1 October 2026
 
 Applicants are proposing innovative ideas to tackle child poverty, prevent illicit trafficking of cultural goods, tackle gender-based violence and more
 
-[![Image 4: 77 New Projects to Support Democracy, Culture and Inclusive Transformation](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40072/v2/2026_Cl2_projects_05.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40072)
+[![Image 7: 77 New Projects to Support Democracy, Culture and Inclusive Transformation](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40072/v2/2026_Cl2_projects_05.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40072)
 
 Published on 24 September 2026
 

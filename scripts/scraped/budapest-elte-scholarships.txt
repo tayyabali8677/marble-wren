@@ -3,7 +3,7 @@ Title: Eötvös Loránd University
 
 URL Source: https://www.elte.hu/en/scholarships
 
-Published Time: Wed, 14 Oct 2026 04:01:47 GMT
+Published Time: Wed, 14 Oct 2026 17:05:41 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -259,7 +259,7 @@ Markdown Content:
 
             *   [Independent visit](https://www.elte.hu/en/visit-us/independent)
 
-        *   [Ask international students](https://www.elte.hu/en/student-ambassadors)
+        *   [Ask international students](https://www.elte.hu/en/student-ambassadors-2026-2027)
         *   [Meet ELTE students](https://www.elte.hu/en/meet-our-students)
         *   [Student blogs](https://www.elte.hu/en/student-blog)
         *   [Podcasts](https://www.elte.hu/en/podcasts)
@@ -658,7 +658,7 @@ Markdown Content:
             *    Former Student Ambassadors  
 
                 *   Former Student Ambassadors
-                *   [Student Ambassadors 2025/2026](https://www.elte.hu/en/student-ambassadors)
+                *   [Student Ambassadors 2025/2026](https://www.elte.hu/en/student-ambassadors-2025-2026)
                 *   [Student Ambassadors 2024/2025](https://www.elte.hu/en/student-ambassadors24-25)
                 *   [Student Ambassadors 2023/2024](https://www.elte.hu/en/student-ambassadors-2023-2024)
                 *   [Student Ambassadors 2022/2023](https://www.elte.hu/en/student-ambassadors-2022-2023)

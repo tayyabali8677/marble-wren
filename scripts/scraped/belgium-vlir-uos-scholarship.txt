@@ -23,7 +23,7 @@ ICP Connect study programmes are accredited international study programmes. We a
 The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026. The list of available programmes and the application deadlines for each programme will be updated then.
 Can I apply?
 Candidates that meet the following criteria* may apply for an ICP Connect scholarship:
-Nationality and country of residence: Candidates must hold nationality from one of the 29 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
+Nationality and country of residence: Candidates must hold nationality from one of the 28 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
 Age: Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year, while candidates for an advanced master cannot be older than 45. Additionally, candidates for a bachelor programme must be at least 19 years old by 1 January of the intake year.
 Professional background and experience: Preference will be given to candidates employed in higher education, government, or civil society, or those targeting a career in one of these sectors. Newly graduated candidates or those employed in the private sector with no work experience may also be considered if they provide strong motivation and a compelling profile.
 Scholarship applications: Candidates may apply for only one ICP Connect scholarship per year. Candidates cannot receive any other scholarship or grant to participate in this study programme or another programme simultaneously. Applying for more than one ICP Connect scholarship or receiving an extra (different) scholarship will lead to exclusion
@@ -60,26 +60,28 @@ Bachelor of Hotel Management
 Bachelor of Applied Computer Science
 Discover our Initial Masters
 (2 years)
-International Master of Science in Agro- & Environmental Nematology
-International Master of Science in Rural Development (IMRD)
+International Master of Science in Agro- & Environmental Nematology *
+International Master of Science in Rural Development (IMRD) *
 Master of Science in Aquaculture (IMAQUA)
-Master of Epidemiology
+Master of Epidemiology *
 Master of Science in Food Technology
 Master of Science in Marine and Lacustrine Science and Management ('Oceans & Lakes')
-Master of Statistics and Data Science
-Master in Sustainable Development
+Master of Statistics and Data Science *
+Master of science in Sustainable Development *
 Master of Science in Transportation Sciences - Road Safety
-Master of Water Resources Engineering (WRE)
+Master of Science in Water Resources Engineering (WRE) *
 Master of Science in Nutrition and Food Systems
 Master of Science in Sustainable Land Management
 Master of Science in Tropical Biodiversity and Ecosystems (Mundus tropicalis c/o TROPIMUNDO)
+* The following programmes are still ongoing but will not be available for scholarship in AY 2027-2028
 Discover our Advanced Masters
 (1 year)
-Master of Human Settlements
+Master of Human Settlements *
 Master of Development Evaluation and Management
 Master of Governance and Development
 Master of Globalisation and Development
-Master of Cultural Anthropology and Development Studies (CADES)
+Master of Cultural Anthropology and Development Studies (CADES) *
+* The following programmes are still ongoing but will not be available for scholarship in AY 2027-2028
 Watch the Information Session
 Hear what students have to say!
 Master of Aquaculture (IMAQUA)
@@ -200,7 +202,7 @@ Get Funded
 At the heart of VLIRUOS is our commitment to empowering research and education through innovative grant management. We design funding programmes and scholarships that guide you from start to finish, ensuring your research has the sustainable impact you aim for. Explore our diverse range of opportunities designed to help you advance your career and contribute meaningfully to global challenges.
 Our Funding Options
 Study Scholarships
-Explore our ICP Connect scholarships that empower students from 29 countries to pursue study programmes in Belgium and drive sustainable development through education and collaboration.
+Explore our ICP Connect scholarships that empower students from 28 countries to pursue study programmes in Belgium and drive sustainable development through education and collaboration.
 /get-funded/study-scholarships
 Project Funding
 Explore our diverse project funding opportunities, supporting research, education, and higher education management through various tailored programmes aimed at making a global impact.
@@ -572,7 +574,7 @@ Throughout your studies, the Sorhoma student union at VIVES Hotel Management cre
 General Info
 Can I apply for this scholarship?
 Candidates that meet the following criteria* may apply for an ICP Connect scholarship:
-Nationality and country of residence: Candidates must hold nationality from one of the 29 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
+Nationality and country of residence: Candidates must hold nationality from one of the 28 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
 Age: Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year, while candidates for an advanced master cannot be older than 45. Additionally, candidates for a bachelor programme must be at least 19 years old by 1 January of the intake year.
 Professional background and experience: Preference will be given to candidates employed in higher education, government, or civil society, or those targeting a career in one of these sectors. Newly graduated candidates or those employed in the private sector with no work experience may also be considered if they provide strong motivation and a compelling profile.
 Scholarship applications: Candidates may apply for only one ICP Connect scholarship per year. Candidates cannot receive any other scholarship or grant to participate in this study programme or another programme simultaneously.
@@ -702,7 +704,7 @@ Your intensive project work will also equip you for roles like SCRUM master, pro
 General Info
 Can I apply for this scholarship?
 Candidates that meet the following criteria* may apply for an ICP Connect scholarship:
-Nationality and country of residence: Candidates must hold nationality from one of the 29 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
+Nationality and country of residence: Candidates must hold nationality from one of the 28 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
 Age: Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year, while candidates for an advanced master cannot be older than 45. Additionally, candidates for a bachelor programme must be at least 19 years old by 1 January of the intake year.
 Professional background and experience: Preference will be given to candidates employed in higher education, government, or civil society, or those targeting a career in one of these sectors. Newly graduated candidates or those employed in the private sector with no work experience may also be considered if they provide strong motivation and a compelling profile.
 Scholarship applications: Candidates may apply for only one ICP Connect scholarship per year. Candidates cannot receive any other scholarship or grant to participate in this study programme or another programme simultaneously.

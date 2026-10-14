@@ -3,7 +3,7 @@ Title: Error 404
 
 URL Source: https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships
 
-Published Time: Wed, 14 Oct 2026 03:57:53 GMT
+Published Time: Wed, 14 Oct 2026 17:01:52 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -593,6 +593,7 @@ International Finance
     *   [Innovation & Entrepreneurship](https://www.hec.edu/en/dare/innovation-entrepreneurship "Innovation & Entrepreneurship")
     *   [Geopolitics & Public Affairs](https://www.hec.edu/en/dare/geopolitics-public-affairs "Geopolitics & Public Affairs")
     *   [Brands & Behaviors](https://www.hec.edu/en/dare/brands-behaviors "Brands & Behaviors")
+    *   [Features](https://www.hec.edu/en/dare/reports "Features")
     *   [Authors](https://www.hec.edu/en/dare/authors "Authors")
 
 *    Return  Faculty & Research Faculty & Research

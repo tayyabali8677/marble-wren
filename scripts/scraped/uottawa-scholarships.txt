@@ -3,8 +3,6 @@ Title: Page not found | University of Ottawa
 
 URL Source: https://www.uottawa.ca/en/financial-aid/scholarships
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [Skip to main content](https://www.uottawa.ca/en/financial-aid/scholarships#uo-main-content)
 

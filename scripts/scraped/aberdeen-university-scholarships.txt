@@ -6,12 +6,6 @@ URL Source: https://www.abdn.ac.uk/study/international/funding/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-# We use cookies to give you the best possible experience
-
-If you don't want to accept cookies you can change preferences
-
-Accept All Cookies Settings
-
 *   [Skip to content](https://www.abdn.ac.uk/study/international/funding/#main)
 *   [About Accessibility on our website](https://www.abdn.ac.uk/about/our-website/accessibility/)
 
@@ -194,44 +188,44 @@ The page you asked for is not at this location. This could be because
 
 Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you're looking for.
 
-*   Show full submenu for University Home[University Home](https://www.abdn.ac.uk/)Show submenu for University Home 
-    *   Show full submenu for Study Here[Study Here](https://www.abdn.ac.uk/study/)Show submenu for Study Here 
-        *   Show full submenu for Undergraduate[Undergraduate](https://www.abdn.ac.uk/study/undergraduate/)Show submenu for Undergraduate 
+*   [University Home](https://www.abdn.ac.uk/)
+    *   [Study Here](https://www.abdn.ac.uk/study/)
+        *   [Undergraduate](https://www.abdn.ac.uk/study/undergraduate/)
             *   [Undergraduate Degrees](https://www.abdn.ac.uk/study/undergraduate/degree-programmes/)
             *   [Undergraduate Subject Areas](https://www.abdn.ac.uk/study/undergraduate/subject-areas/)
-            *   Show full submenu for Flexibility and Employability[Flexibility and Employability](https://www.abdn.ac.uk/study/undergraduate/flexibility/)Show submenu for Flexibility and Employability 
+            *   [Flexibility and Employability](https://www.abdn.ac.uk/study/undergraduate/flexibility/)
                 *   [Choice and Flexibility](https://www.abdn.ac.uk/study/undergraduate/flexibility/choice-and-flexibility/)
                 *   [Enhanced Study Options](https://www.abdn.ac.uk/study/undergraduate/flexibility/enhanced-study-options/)
                 *   [Your Employability](https://www.abdn.ac.uk/study/undergraduate/flexibility/your-employability/)
 
-            *   Show full submenu for Entry Requirements[Entry Requirements](https://www.abdn.ac.uk/study/undergraduate/requirements/)Show submenu for Entry Requirements 
-                *   Show full submenu for Widening Access Criteria[Widening Access Criteria](https://www.abdn.ac.uk/study/undergraduate/requirements/widening-access-criteria/)Show submenu for Widening Access Criteria 
+            *   [Entry Requirements](https://www.abdn.ac.uk/study/undergraduate/requirements/)
+                *   [Widening Access Criteria](https://www.abdn.ac.uk/study/undergraduate/requirements/widening-access-criteria/)
                     *   [SIMD Postcode Checker](https://www.abdn.ac.uk/study/undergraduate/requirements/widening-access-criteria/simd-postcode-checker/)
 
                 *   [Advanced Entry](https://www.abdn.ac.uk/study/undergraduate/requirements/advanced-entry/)
 
             *   [Study a Language](https://www.abdn.ac.uk/study/undergraduate/study-a-language/)
-            *   Show full submenu for How to Apply[How to Apply](https://www.abdn.ac.uk/study/undergraduate/apply/)Show submenu for How to Apply 
+            *   [How to Apply](https://www.abdn.ac.uk/study/undergraduate/apply/)
                 *   [UCAS Application Process](https://www.abdn.ac.uk/study/undergraduate/apply/ucas-application-process/)
                 *   [Admissions Policy](https://www.abdn.ac.uk/study/undergraduate/apply/admissions-policy/)
 
-            *   Show full submenu for Finance and Funding[Finance and Funding](https://www.abdn.ac.uk/study/undergraduate/finance/)Show submenu for Finance and Funding 
-                *   Show full submenu for Students from Scotland[Students from Scotland](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-scotland/)Show submenu for Students from Scotland 
+            *   [Finance and Funding](https://www.abdn.ac.uk/study/undergraduate/finance/)
+                *   [Students from Scotland](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-scotland/)
                     *   [Tuition Fees and Living Costs](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-scotland/tuition-fees-and-living-costs/)
                     *   [Scholarships and Funding](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-scotland/scholarships-and-funding/)
 
-                *   Show full submenu for Students from England, Northern Ireland, Republic of Ireland & Wales[Students from England, Northern Ireland, Republic of Ireland & Wales](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-england-northern-ireland-republic-of-ireland--wales/)Show submenu for Students from England, Northern Ireland, Republic of Ireland & Wales 
+                *   [Students from England, Northern Ireland, Republic of Ireland & Wales](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-england-northern-ireland-republic-of-ireland--wales/)
                     *   [Tuition Fees and Living Costs](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-england-northern-ireland-republic-of-ireland--wales/tuition-fees-and-living-costs/)
                     *   [Scholarships and Funding](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-england-northern-ireland-republic-of-ireland--wales/scholarships-and-funding/)
 
                 *   [Students from Outside the UK (International and EU)](https://www.abdn.ac.uk/study/undergraduate/finance/students-from-outside-the-uk-international-and-eu/)
 
-            *   Show full submenu for Widening Access & Articulation[Widening Access & Articulation](https://www.abdn.ac.uk/study/undergraduate/widening-access/)Show submenu for Widening Access & Articulation 
-                *   Show full submenu for Entry from College[Entry from College](https://www.abdn.ac.uk/study/undergraduate/widening-access/entry-from-college/)Show submenu for Entry from College 
+            *   [Widening Access & Articulation](https://www.abdn.ac.uk/study/undergraduate/widening-access/)
+                *   [Entry from College](https://www.abdn.ac.uk/study/undergraduate/widening-access/entry-from-college/)
                     *   [Associate Student Status Application](https://www.abdn.ac.uk/study/undergraduate/widening-access/entry-from-college/associate-student-status-application/)
                     *   [Forth Valley College](https://www.abdn.ac.uk/study/undergraduate/widening-access/entry-from-college/forth-valley-college/)
 
-                *   Show full submenu for Reach[Reach](https://www.abdn.ac.uk/study/undergraduate/widening-access/reach/)Show submenu for Reach 
+                *   [Reach](https://www.abdn.ac.uk/study/undergraduate/widening-access/reach/)
                     *   [Register with Reach](https://www.abdn.ac.uk/study/undergraduate/widening-access/reach/register-with-reach/)
 
                 *   [What Support Can You Expect](https://www.abdn.ac.uk/study/undergraduate/widening-access/what-support-can-you-expect/)
@@ -239,19 +233,17 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
                 *   [Access Higher Education](https://www.abdn.ac.uk/study/undergraduate/widening-access/access-higher-education/)
                 *   [Staff Guidance](https://www.abdn.ac.uk/study/undergraduate/widening-access/staff-guidance/)
 
-            *   Show full submenu for Go Abroad[Go Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/)Show submenu for Go Abroad 
-                *   Show full submenu for Incoming Students[Incoming Students](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/)Show submenu for Incoming Students 
-                    *   Show full submenu for European Exchange[European Exchange](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/european-exchange/)Show submenu for European Exchange 
+            *   [Go Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/)
+                *   [Incoming Students](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/)
+                    *   [European Exchange](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/european-exchange/)
                         *   [FAQ](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/european-exchange/faq/)
 
-                    *   Show full submenu for International Exchange and Study Abroad[International Exchange and Study Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/)Show submenu for International Exchange and Study Abroad 
+                    *   [International Exchange and Study Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/)
                         *   [FAQ](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/faq/)
 
                     *   [Inter-Campus Mobility](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/inter-campus-mobility/)
-                    *   Show full submenu for Postgraduate Study Abroad[Postgraduate Study Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/)Show submenu for Postgraduate Study Abroad 
-                        *   [FAQ](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/study-abroad/faq/)
-
-                    *   Show full submenu for Summer Schools[Summer Schools](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/summer-schools/)Show submenu for Summer Schools 
+                    *   [Postgraduate Study Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/pg-study-abroad/)
+                    *   [Summer Schools](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/summer-schools/)
                         *   [Archaeology Field Excavation - Available Dig Sites](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/summer-schools/archaeology-field-excavation---available-dig-sites/)
                         *   [Drug Design and Discovery](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/summer-schools/drug-design-and-discovery/)
                         *   [Philosophy Summer School](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/summer-schools/philosophy-summer-school/)
@@ -260,65 +252,65 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
                     *   [Erasmus Traineeships](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/erasmus-traineeships/)
                     *   [My Time in Aberdeen](https://www.abdn.ac.uk/study/undergraduate/go-abroad/incoming-students/testimonials/)
 
-                *   Show full submenu for Outgoing Students[Outgoing Students](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/)Show submenu for Outgoing Students 
+                *   [Outgoing Students](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/)
                     *   [Why Go Abroad](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/why-go-abroad/)
                     *   [What Are My Options](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/what-are-my-options/)
-                    *   Show full submenu for Where Can I Go[Where Can I Go](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/)Show submenu for Where Can I Go 
+                    *   [Where Can I Go](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/)
                         *   [Exchange Partners](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/exchange-partners/)
-                        *   Show full submenu for Short-Term Mobilities[Short-Term Mobilities](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/short-term-mobilities/)Show submenu for Short-Term Mobilities 
+                        *   [Short-Term Mobilities](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/short-term-mobilities/)
                             *   [Mitacs - UUKI Globalink Research Internship](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/short-term-mobilities/mitacs---uuki-globalink-research-internship/)
 
                         *   [International Traineeship](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/international-traineeship/)
                         *   [Inter-Campus Mobility](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/where-can-i-go/inter-campus-mobility/)
 
-                    *   Show full submenu for How Do I Apply[How Do I Apply](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/)Show submenu for How Do I Apply 
-                        *   Show full submenu for For Study Exchange[For Study Exchange](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/for-study-exchange/)Show submenu for For Study Exchange 
+                    *   [How Do I Apply](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/)
+                        *   [For Study Exchange](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/for-study-exchange/)
                             *   [Credit Load Guide](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/for-study-exchange/credit-load-guide/)
 
                         *   [For Traineeship](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-do-i-apply/for-traineeship/)
 
                     *   [How Much Will it Cost](https://www.abdn.ac.uk/study/undergraduate/go-abroad/outgoing-students/how-much-will-it-cost/)
 
-                *   Show full submenu for Engage with us[Engage with us](https://www.abdn.ac.uk/study/undergraduate/go-abroad/engage-with-us/)Show submenu for Engage with us 
+                *   [Engage with us](https://www.abdn.ac.uk/study/undergraduate/go-abroad/engage-with-us/)
                     *   [Go Abroad Tutors](https://www.abdn.ac.uk/study/undergraduate/go-abroad/engage-with-us/go-abroad-tutors/)
                     *   [Go Abroad Ambassadors](https://www.abdn.ac.uk/study/undergraduate/go-abroad/engage-with-us/go-abroad-ambassadors/)
                     *   [Go Abroad Fair](https://www.abdn.ac.uk/study/undergraduate/go-abroad/engage-with-us/go-abroad-fair/)
 
-            *   Show full submenu for Part-Time Study[Part-Time Study](https://www.abdn.ac.uk/study/undergraduate/part-time/)Show submenu for Part-Time Study 
+            *   [Part-Time Study](https://www.abdn.ac.uk/study/undergraduate/part-time/)
                 *   [Part-Time Degree & Individual Subject Study](https://www.abdn.ac.uk/study/undergraduate/part-time/part-time-degree--individual-subject-study/)
                 *   [Application Process](https://www.abdn.ac.uk/study/undergraduate/part-time/application-process/)
                 *   [Fees and Funding](https://www.abdn.ac.uk/study/undergraduate/part-time/fees-and-funding/)
 
-            *   Show full submenu for Teachers and Careers Advisors Information[Teachers and Careers Advisors Information](https://www.abdn.ac.uk/study/undergraduate/info/)Show submenu for Teachers and Careers Advisors Information 
+            *   [Teachers and Careers Advisors Information](https://www.abdn.ac.uk/study/undergraduate/info/)
                 *   [Key Dates](https://www.abdn.ac.uk/study/undergraduate/info/key-dates/)
                 *   [Request a Prospectus](https://www.abdn.ac.uk/study/undergraduate/info/request-a-prospectus/)
 
             *   [UK and Access Team](https://www.abdn.ac.uk/study/undergraduate/meet-the-uk-team/)
-            *   Show full submenu for Interested in STEM[Interested in STEM](https://www.abdn.ac.uk/study/undergraduate/stem/)Show submenu for Interested in STEM 
+            *   [Interested in STEM](https://www.abdn.ac.uk/study/undergraduate/stem/)
                 *   [STEM Courses](https://www.abdn.ac.uk/study/undergraduate/stem/stem-courses/)
 
             *   [Deposits](https://www.abdn.ac.uk/study/undergraduate/deposits/)
 
-        *   Show full submenu for Postgraduate Taught[Postgraduate Taught](https://www.abdn.ac.uk/study/postgraduate-taught/)Show submenu for Postgraduate Taught 
+        *   [Postgraduate Taught](https://www.abdn.ac.uk/study/postgraduate-taught/)
             *   [Postgraduate Taught Degrees](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/)
-            *   Show full submenu for How to Apply[How to Apply](https://www.abdn.ac.uk/study/postgraduate-taught/how-to-apply/)Show submenu for How to Apply 
+            *   [How to Apply](https://www.abdn.ac.uk/study/postgraduate-taught/how-to-apply/)
                 *   [Postgraduate Programmes and Frequently Asked Questions](https://www.abdn.ac.uk/study/postgraduate-taught/how-to-apply/postgraduate-programmes-and-frequently-asked-questions/)
                 *   [Admissions Policy](https://www.abdn.ac.uk/study/postgraduate-taught/how-to-apply/admissions-policy/)
                 *   [Academic Technology Approval Scheme](https://www.abdn.ac.uk/study/postgraduate-taught/how-to-apply/academic-technology-approval-scheme/)
 
-            *   Show full submenu for Offer Holder Information[Offer Holder Information](https://www.abdn.ac.uk/study/postgraduate-taught/offers/)Show submenu for Offer Holder Information 
+            *   [Offer Holder Information](https://www.abdn.ac.uk/study/postgraduate-taught/offers/)
                 *   [Accepting or Deferring - International Applicants Requiring a Visa](https://www.abdn.ac.uk/study/postgraduate-taught/offers/accepting-or-deferring---international-applicants-requiring-a-visa/)
                 *   [Accepting or Deferring - Applicants Not Requiring a Visa](https://www.abdn.ac.uk/study/postgraduate-taught/offers/accepting-or-deferring---applicants-not-requiring-a-visa/)
 
-            *   Show full submenu for Finance and Funding[Finance and Funding](https://www.abdn.ac.uk/study/postgraduate-taught/finance/)Show submenu for Finance and Funding 
-                *   Show full submenu for UK Students[UK Students](https://www.abdn.ac.uk/study/postgraduate-taught/finance/uk-students/)Show submenu for UK Students 
+            *   [Finance and Funding](https://www.abdn.ac.uk/study/postgraduate-taught/finance/)
+                *   [UK Students](https://www.abdn.ac.uk/study/postgraduate-taught/finance/uk-students/)
                     *   [Scholarships and Funding](https://www.abdn.ac.uk/study/postgraduate-taught/finance/uk-students/scholarships-and-funding/)
 
                 *   [International Students](https://www.abdn.ac.uk/study/postgraduate-taught/finance/international-students/)
 
             *   [January Programmes](https://www.abdn.ac.uk/study/postgraduate-taught/january/)
             *   [Part-time Learning](https://www.abdn.ac.uk/study/postgraduate-taught/part-time/)
-            *   Show full submenu for Employment[Employment](https://www.abdn.ac.uk/study/postgraduate-taught/employment/)Show submenu for Employment 
+            *   [Employment](https://www.abdn.ac.uk/study/postgraduate-taught/employment/)
                 *   [Industry Links](https://www.abdn.ac.uk/study/postgraduate-taught/employment/industry-links/)
                 *   [Employment During Your Studies](https://www.abdn.ac.uk/study/postgraduate-taught/employment/employment-during-your-studies/)
 
@@ -327,7 +319,7 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
             *   [Deposits](https://www.abdn.ac.uk/study/postgraduate-taught/deposits/)
             *   [Postgraduate Conversion Programmes](https://www.abdn.ac.uk/study/postgraduate-taught/conversion-programmes/)
 
-        *   Show full submenu for Postgraduate Research[Postgraduate Research](https://www.abdn.ac.uk/study/postgraduate-research/)Show submenu for Postgraduate Research 
+        *   [Postgraduate Research](https://www.abdn.ac.uk/study/postgraduate-research/)
             *   [Our Research Areas](https://www.abdn.ac.uk/study/postgraduate-research/research-areas/)
             *   [Research Excellence](https://www.abdn.ac.uk/study/postgraduate-research/excellence/)
             *   [How To Apply](https://www.abdn.ac.uk/study/postgraduate-research/apply/)
@@ -341,25 +333,25 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
             *   [Frequently Asked Questions](https://www.abdn.ac.uk/study/postgraduate-research/faq/)
             *   [Research Student Stories](https://www.abdn.ac.uk/study/postgraduate-research/student-stories/)
 
-        *   Show full submenu for Online[Online](https://www.abdn.ac.uk/study/online/)Show submenu for Online 
+        *   [Online](https://www.abdn.ac.uk/study/online/)
             *   [Online Degrees and Awards](https://www.abdn.ac.uk/study/online/degrees/)
 
-        *   Show full submenu for International[International](https://www.abdn.ac.uk/study/international/)Show submenu for International 
+        *   [International](https://www.abdn.ac.uk/study/international/)
             *   [My Country or Territory](https://www.abdn.ac.uk/study/international/country-territory/)
             *   [Current and Upcoming Events](https://www.abdn.ac.uk/study/international/events/)
             *   [Entry Requirements](https://www.abdn.ac.uk/study/international/requirements/)
-            *   Show full submenu for English Language Requirements[English Language Requirements](https://www.abdn.ac.uk/study/international/english/)Show submenu for English Language Requirements 
+            *   [English Language Requirements](https://www.abdn.ac.uk/study/international/english/)
                 *   [Undergraduate Degrees - English Requirements](https://www.abdn.ac.uk/study/international/english/undergraduate-english-requirements/)
                 *   [Postgraduate Degrees - English Requirements](https://www.abdn.ac.uk/study/international/english/postgraduate-english-requirements/)
 
-            *   Show full submenu for Finance and Funding[Finance and Funding](https://www.abdn.ac.uk/study/international/finance/)Show submenu for Finance and Funding 
+            *   [Finance and Funding](https://www.abdn.ac.uk/study/international/finance/)
                 *   [Fee Status, Living Costs and Work Allowances](https://www.abdn.ac.uk/study/international/finance/fee-status-living-costs-and-work-allowances/)
 
             *   [CAS, Visa and Getting Here](https://www.abdn.ac.uk/study/international/cas-and-visa/)
             *   [Engage with Us](https://www.abdn.ac.uk/study/international/engage/)
             *   [International Student Blogs](https://www.abdn.ac.uk/study/international/blogs/)
-            *   Show full submenu for Language Centre[Language Centre](https://www.abdn.ac.uk/study/international/language-centre/)Show submenu for Language Centre 
-                *   Show full submenu for Language Centre - Evening Classes[Language Centre - Evening Classes](https://www.abdn.ac.uk/study/international/language-centre/language-centre---evening-classes/)Show submenu for Language Centre - Evening Classes 
+            *   [Language Centre](https://www.abdn.ac.uk/study/international/language-centre/)
+                *   [Language Centre - Evening Classes](https://www.abdn.ac.uk/study/international/language-centre/language-centre---evening-classes/)
                     *   [Part-time evening courses (open to all)](https://www.abdn.ac.uk/study/international/language-centre/language-centre---evening-classes/part-time-evening-courses-open-to-all/)
                     *   [Part-time courses for students studying at the University](https://www.abdn.ac.uk/study/international/language-centre/language-centre---evening-classes/part-time-courses-for-students-studying-at-the-university/)
 
@@ -370,37 +362,37 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
             *   [Working with Global Recruitment Partners](https://www.abdn.ac.uk/study/international/working-recruitment-partners/)
 
         *   [Scholarships](https://www.abdn.ac.uk/study/funding/)
-        *   Show full submenu for Student Life[Student Life](https://www.abdn.ac.uk/study/student-life/)Show submenu for Student Life 
+        *   [Student Life](https://www.abdn.ac.uk/study/student-life/)
             *   [Chat to Our Students and Staff](https://www.abdn.ac.uk/study/student-life/chat/)
             *   [Aberdeen and Aberdeenshire](https://www.abdn.ac.uk/study/student-life/aberdeen-and-aberdeenshire/)
-            *   Show full submenu for Sport at Aberdeen[Sport at Aberdeen](https://www.abdn.ac.uk/study/student-life/sport/)Show submenu for Sport at Aberdeen 
+            *   [Sport at Aberdeen](https://www.abdn.ac.uk/study/student-life/sport/)
                 *   [Sports Bursaries & Scholarships](https://www.abdn.ac.uk/study/student-life/sport/scholarships/)
                 *   [University Rowing Aberdeen](https://www.abdn.ac.uk/study/student-life/sport/university-rowing/)
 
             *   [Virtual Campus Tours](https://www.abdn.ac.uk/study/student-life/campus-tours/)
 
-        *   Show full submenu for Open Days[Open Days](https://www.abdn.ac.uk/study/open-days/)Show submenu for Open Days 
+        *   [Open Days](https://www.abdn.ac.uk/study/open-days/)
             *   [Undergraduate Virtual Open Day](https://www.abdn.ac.uk/study/open-days/ug-vod/)
-            *   Show full submenu for Undergraduate Open Days[Undergraduate Open Days](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/)Show submenu for Undergraduate Open Days 
+            *   [Undergraduate Open Days](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/)
                 *   [Open Day Information](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/open-day-information/)
                 *   [Open Days Booking Form](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/open-days-booking-form/)
                 *   [Plan Your Open Day](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/plan-your-day/)
                 *   [Travel and Parking](https://www.abdn.ac.uk/study/open-days/undergraduate-open-day/travel-and-parking/)
 
-            *   Show full submenu for Undergraduate Offer Holders[Undergraduate Offer Holders](https://www.abdn.ac.uk/study/open-days/offer-holders/)Show submenu for Undergraduate Offer Holders 
-                *   Show full submenu for Offer Holder Day[Offer Holder Day](https://www.abdn.ac.uk/study/open-days/offer-holders/offer-holder-day/)Show submenu for Offer Holder Day 
+            *   [Undergraduate Offer Holders](https://www.abdn.ac.uk/study/open-days/offer-holders/)
+                *   [Offer Holder Day](https://www.abdn.ac.uk/study/open-days/offer-holders/offer-holder-day/)
                     *   [Offer Holder Day Booking Form](https://www.abdn.ac.uk/study/open-days/offer-holders/offer-holder-day/offer-holder-day-booking-form/)
                     *   [Offer Holder Day Guides - Plan Your Day](https://www.abdn.ac.uk/study/open-days/offer-holders/offer-holder-day/offer-holder-day-guides---plan-your-day/)
                     *   [Parking and Travel](https://www.abdn.ac.uk/study/open-days/offer-holders/offer-holder-day/parking-and-travel/)
 
-                *   Show full submenu for Student Life Resources[Student Life Resources](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/)Show submenu for Student Life Resources 
+                *   [Student Life Resources](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/)
                     *   [Aberdeen Sports Village](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/aberdeen-sports-village/)
                     *   [Accommodation](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/accommodation/)
                     *   [The Students' Union](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/the-students-union/)
                     *   [Go Abroad](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/go-abroad/)
                     *   [Life in Aberdeen](https://www.abdn.ac.uk/study/open-days/offer-holders/student-life-resources/life-in-aberdeen/)
 
-                *   Show full submenu for Student Support Resources[Student Support Resources](https://www.abdn.ac.uk/study/open-days/offer-holders/student-support-resources/)Show submenu for Student Support Resources 
+                *   [Student Support Resources](https://www.abdn.ac.uk/study/open-days/offer-holders/student-support-resources/)
                     *   [Careers and Employability Service](https://www.abdn.ac.uk/study/open-days/offer-holders/student-support-resources/careers-and-employability-service/)
                     *   [Finance & Funding](https://www.abdn.ac.uk/study/open-days/offer-holders/student-support-resources/finance--funding/)
                     *   [IT Services](https://www.abdn.ac.uk/study/open-days/offer-holders/student-support-resources/it-services/)
@@ -410,7 +402,7 @@ Try using [our internal search](https://www.abdn.ac.uk/search/) to find what you
 
             *   [UK Events We Are Attending in Person](https://www.abdn.ac.uk/study/open-days/events/)
             *   [Virtual Events](https://www.abdn.ac.uk/study/open-days/virtual/)
-            *   Show full submenu for Campus Visits[Campus Visits](https://www.abdn.ac.uk/study/open-days/visit/)Show submenu for Campus Visits 
+            *   [Campus Visits](https://www.abdn.ac.uk/study/open-days/visit/)
                 *   [Book Campus Visit](https://www.abdn.ac.uk/study/open-days/visit/book-campus-visit/)
                 *   [Parking](https://www.abdn.ac.uk/study/open-days/visit/parking/)
                 *   [Medicine Visitors](https://www.abdn.ac.uk/study/open-days/visit/medicine-visitors/)

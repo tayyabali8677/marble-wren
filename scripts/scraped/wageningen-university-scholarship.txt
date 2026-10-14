@@ -4,6 +4,7 @@ Title: 404: Page not found | WUR
 URL Source: https://www.wur.nl/en/education-programmes/master-programmes/scholarships-and-grants-for-master-students.htm
 
 Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
 
 Markdown Content:

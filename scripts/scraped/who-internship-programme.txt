@@ -289,15 +289,11 @@ WHO
 ===== SOURCE PAGE: https://www.who.int/mega-menu/emergencies/who-in-emergencies/funding =====
 Funding
 Skip to main content
+World Health Organization
 Global
 Regions
+World Health Organization
 WHO Regional websites
-Africa
-Americas
-South-East Asia
-Europe
-Eastern Mediterranean
-Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
@@ -1126,21 +1122,16 @@ Corporate Donations
 Philanthropic Donations
 Investment Partnerships
 Campaigns
-Support Menopause | WHO Foundation
-Maternal & Newborn Health in Emergencies
 Ebola Outbreak
 Vaccination in Emergencies
-Walk The Talk
 Trauma Care & Emergency Medical Teams
-Mobile clinics and primary care | WHO Foundation
-Sudan
-Mental Health
-Maternal Health
-Myanmar Earthquake
-Measles and Rubella
-Ukraine
+Maternal & Newborn Health in Emergencies
+Mobile clinics and primary care
 Gaza
-Afghanistan
+Sudan
+Support Women&#x27;s Health — WHO Foundation Menopause Campaign
+Monthly Donors
+Year End Giving
 Search
 Search Search
 Donate
@@ -1168,21 +1159,16 @@ Corporate Donations
 Philanthropic Donations
 Investment Partnerships
 Campaigns
-Support Menopause | WHO Foundation
-Maternal & Newborn Health in Emergencies
 Ebola Outbreak
 Vaccination in Emergencies
-Walk The Talk
 Trauma Care & Emergency Medical Teams
-Mobile clinics and primary care | WHO Foundation
-Sudan
-Mental Health
-Maternal Health
-Myanmar Earthquake
-Measles and Rubella
-Ukraine
+Maternal & Newborn Health in Emergencies
+Mobile clinics and primary care
 Gaza
-Afghanistan
+Sudan
+Support Women&#x27;s Health — WHO Foundation Menopause Campaign
+Monthly Donors
+Year End Giving
 Search
 Search Search
 Donate
@@ -1367,10 +1353,10 @@ RSIN 8270.16.888
 Follow us
 The Foundation
 About Us
-Transparency & Financial
+Transparency & Financials
 Careers
 Contact Us
-AreaS of Focus
+Areas of Focus
 Women’s Health
 Digital Health
 Mental Health

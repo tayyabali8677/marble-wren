@@ -211,12 +211,12 @@ If you believe you have received this message in error, or if there is a problem
 
 ## Connect with us
 
-*   [![Image 5: LinkedIn page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-linkedin.svg)](https://www.linkedin.com/school/university-of-manchester/)
-*   [![Image 7: Instagram page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-instagram-50.svg)](https://instagram.com/officialuom/)
-*   [![Image 9: YouTube page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-youtube-50.png)](https://www.youtube.com/universitymanchester)
-*   [![Image 11: TikTok page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-tiktok.svg)](https://www.tiktok.com/@officialuom/)
-*   [![Image 13: Facebook page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-facebook-50.png)](https://www.facebook.com/TheUniversityOfManchester)
-*   [![Image 15: Bluesky page for The University of Manchester](https://assets.manchester.ac.uk/shared/images/design/social-media-icons/icon-bluesky-50.png)](https://bsky.app/profile/manchester.ac.uk)
+*   [![Image 5: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://www.linkedin.com/school/university-of-manchester/)
+*   [![Image 7: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://instagram.com/officialuom/)
+*   [![Image 9: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://www.youtube.com/universitymanchester)
+*   [![Image 11: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://www.tiktok.com/@officialuom/)
+*   [![Image 13: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://www.facebook.com/TheUniversityOfManchester)
+*   [![Image 15: Bluesky page for The University of Manchester](blob:http://localhost/0c1c58ccae44416f50053cb625ad3f44)](https://bsky.app/profile/manchester.ac.uk)
 
 [Social media directory](https://www.manchester.ac.uk/connect/social-media/)
 

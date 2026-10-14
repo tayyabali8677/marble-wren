@@ -6,7 +6,9 @@ URL Source: https://www.daad.de/en/study-and-research-in-germany/scholarships/da
 Markdown Content:
 ## DAAD Scholarships - An Overview
 
-![Image 1: in the lobby](https://www.daad.de/en/study-and-research-in-germany/scholarships/daad-scholarships/%7B%22href%22:%22https:////api.daad.de//api//image//md1st//media//daad_de//tubaf_ab_mg_8984.jpg.webp%22,%22width%22:648,%22height%22:365%7D)
+![Image 1: in the lobby](https://api.daad.de/api/image/md1st/media/daad_de/tubaf_ab_mg_8984.jpg.webp)
+
+© Büssemeier / DAAD
 
 Would you like to study, carry out research or learn German in Germany and are you looking for funding?Every year, the German Academic Exchange Service (DAAD) supports well over 100,000 German and international students and researchers around the globe – making it the world's largest funding organisation of its kind. Learn more about our scholarship options.
 

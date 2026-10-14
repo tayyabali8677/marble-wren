@@ -12,24 +12,6 @@ Markdown Content:
 
 [Sign In](https://www.queensu.ca/admission/financial-support/scholarships#)
 
-#### University Wide
-
-*   [MyQueen’sU: SOLUS, MyHR, and more](https://my.queensu.ca/)
-*   [Microsoft 365](https://m365.cloud.microsoft/apps/)
-*   [Outlook on the web - Email](https://outlook.com/queensu.ca)
-*   [onQ - Learning Management System](https://onq.queensu.ca/)
-*   [Research–Service Portal: Cayuse and TRAQ](https://queensu.service-now.com/rss)
-*   [Library: Omni and more](https://library.queensu.ca/help-how-to/topics/sign-in-library)
-*   [Change password / Manage NetID](https://netid.queensu.ca/)
-
-#### Faculty/School Portals
-
-*   [Business: Program Portals](https://smith.queensu.ca/academic_programs/student-portals.php)
-*   [Grad Studies: Faculty and Staff Portal](https://queensuca.sharepoint.com/sites/SGS-FSP)
-*   [Health Sciences: Elentra](https://elentra.healthsci.queensu.ca/)
-*   [Law: QLaw](https://law.queensu.ca/queenslawportal)
-*   [Smith Engineering Intranet](https://queensuca.sharepoint.com/sites/QSE-Intranet)
-
 [](https://www.queensu.ca/admission/financial-support/scholarships#)
 
 ##### [Undergraduate Admission and Recruitment](https://www.queensu.ca/admission/)
@@ -107,8 +89,8 @@ Markdown Content:
         
 
         *   [General Queen's Campus Tours](https://www.queensu.ca/admission/visit/campus-tours)
-        *   [Smith Commerce Tours](https://smith.queensu.ca/bcom/contact/visit.php "(opens in a new window)")
-        *   [Smith Engineering Tours](https://smithengineering.queensu.ca/student-experience/tours/index.html "(opens in a new window)")
+        *   [Smith Commerce Tours](https://smith.queensu.ca/bcom/contact/visit.php)
+        *   [Smith Engineering Tours](https://smithengineering.queensu.ca/student-experience/tours/index.html)
 
     *    Events 
         

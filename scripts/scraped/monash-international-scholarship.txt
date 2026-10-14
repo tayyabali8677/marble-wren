@@ -72,7 +72,11 @@ Toggle Search
 
  Search 
 
-Search Monash https://www.monash.edu/search
+Search courses https://www.monash.edu/search
+
+Search
+
+courses FAQs all things Monash
 
  See all other results 
 

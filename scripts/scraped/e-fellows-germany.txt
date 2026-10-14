@@ -587,7 +587,7 @@ Die Module in Otto Schmidt online mit führenden Zeitschriften, Kommentaren und 
 Merken
 KI-basierte Lern-Plattform : Uni verstehen, statt nur auswendig lernen – mit Alice.tech
 Alice.tech ist deine KI-basierte Lernplattform für Uni-Inhalte. Als Stipendiat:in bekommst du 25% Rabatt für dein Abo. Lade Vorlesungsfolien, Skripte oder Notizen hoch – Alice erstellt daraus autom...
-Gemerkt
+Merken
 Gutschein für EF Sprachreisen : Rabatt in Höhe von 12% auf flexible Sprachreisen
 E-fellows.net und EF schenken dir 12% Rabatt auf flexible EF Sprachreisen (2-11 Wochen) oder 500€ für EF Langzeitprogramme ab 12 Wochen.
 Merken
@@ -1150,10 +1150,10 @@ Stipendien der etwas anderen Art : Die zehn skurrilsten Stipendien
 DAAD-Stipendium : 3, 2, 1 – meins! So schnappst du dir ein DAAD-Stipendium
 Mehrere Stipendien gleichzeitig beziehen : Stipendien kombinieren – was ist erlaubt?
 Bewerbungsgespräch für ein Stipendium : So wird dein Auswahlgespräch zum Erfolg
-Stipendium: Eine Definition : Was bedeutet Stipendium?
 Wie gebe ich ein Stipendium in der Steuererklärung an? : Das will das Finanzamt wissen
 Wo und wie gebe ich ein Stipendium im Lebenslauf an? : Selbstdarstellung – aber richtig
 Wie bekomme ich ein Stipendium? : Der Weg zum Stipendium
+Wann bewerbe ich mich für ein Stipendium? : Den richtigen Zeitpunkt abpassen
 Alle Artikel der Kategorie Stipendien
 Hol mit dem e&#8209;fellows.net-Stipendium das Beste aus Studium und Berufseinstieg heraus
 Jetzt durchstarten

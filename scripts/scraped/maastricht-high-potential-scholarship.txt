@@ -1298,7 +1298,7 @@ UM Brussels Hub
                 *   [Activities](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/events-0)Open Activities
 
 Activities
-                    *   [Events](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/events)
+                    *   [Upcoming events](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/events)
                     *   [Past events](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/upcoming-past-events/past-events)Open Past events
 
 Past events
