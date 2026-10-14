@@ -8,8 +8,6 @@ Published Time: 2022-08-18T06:53:55Z
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Loading [MathJax]/extensions/MathMenu.js
-
 *   [Jump to main content](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#area-main)
 *   [Jump to search](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#q)
 *   [Jump to footer](https://www.uva.nl/en/education/other-programmes/scholarships/scholarships.html#area-footer)

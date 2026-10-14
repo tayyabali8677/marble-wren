@@ -7,30 +7,20 @@ Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 Education Research Current About VU Amsterdam NL 
-
- Login as 
-
-Prospective student Student Employee
-
- Bachelor's programmes  Master's programmes  VU for Professionals 
+Bachelor's programmes  Master's programmes  VU for Professionals
 
 Exchange programme VU Amsterdam Summer School Honours Programme Dutch language courses (NT2)Semester in Amsterdam
-
- PhD at VU Amsterdam  Featured research  Prizes and distinctions 
+PhD at VU Amsterdam  Featured research  Prizes and distinctions
 
 Interdisciplinary research institutes Scientists of VU Amsterdam Research Impact Support Portal Create impact with your research
-
- News  Events calendar  Moving towards a healthier future 
+News  Events calendar  Moving towards a healthier future
 
 VU UPDATE: Situation in Israel and the Palestinian regions Culture at VU Amsterdam
-
- Practical matters  Mission, core values and vision  Entrepreneurship on VU Campus 
+Practical matters  Mission, core values and vision  Entrepreneurship on VU Campus
 
 Governance of VU Amsterdam Valorisation and impact Partnering with VU Amsterdam VU Alumni Community Take a look at our vacancies!
 
 Sorry! De informatie die je zoekt, is enkel beschikbaar in het Engels.
-
-This programme is saved in [My Study Choice.](https://vu.nl/en/dashboard/my-study-choice)
 
 Something went wrong with processing the request.
 
@@ -39,7 +29,7 @@ Something went wrong with processing the request.
 *   [](https://vu.nl/en/education/more-about/scholarships-and-grants)
 *   404
 
-# Sorry! I cannot find the page you are looking for.
+## Sorry! I cannot find the page you are looking for.
 
 ### Page not found
 
@@ -63,72 +53,6 @@ Something went wrong with processing the request.
 *   Check if a firewall protects the connection.
 
 #### I hope that you find what you are looking for.
-
-This website uses cookies (and similar techniques).
-
-[Read full text](https://vu.nl/en/education/more-about/scholarships-and-grants#cookie-introduction)
-
-We use these cookies to collect personal data. We always place functional cookies to make the website function properly. You can also give consent for:
-
-1) measuring your behaviour on our website for analysis of the website by VU Amsterdam and two partners;  
- 2) building up a user profile to personalise the website;   
- 3) tracking your internet behaviour across multiple websites by two partners to display content from video platforms (social media);   
- 4) tracking your internet behaviour across multiple websites by four partners to show relevant advertisements and to allow VU Amsterdam to measure which advertisement brought you to our website.
-
-You can refuse all cookies, accept cookies for all categories or indicate your preference per category. You can change or withdraw your consent via 'Cookies Settings' in the footer of the website at any time. [More information in the cookie statement.](https://vu.nl/en/education/more-about/scholarships-and-grants)
-
-This website uses cookies (and similar techniques).
-
-We use these cookies to collect personal data. We always place functional cookies to make the website function properly. You can also give consent for:
-
-1) measuring your behaviour on our website for analysis of the website by VU Amsterdam and two partners;  
- 2) building up a user profile to personalise the website;   
- 3) tracking your internet behaviour across multiple websites by two partners to display content from video platforms (social media);   
- 4) tracking your internet behaviour across multiple websites by four partners to show relevant advertisements and to allow VU Amsterdam to measure which advertisement brought you to our website.
-
-You can refuse all cookies, accept cookies for all categories or indicate your preference per category. You can change or withdraw your consent via 'Cookies Settings' in the footer of the website at any time. [More information in the cookie statement.](https://vu.nl/en/education/more-about/scholarships-and-grants)
-
-Accept all cookies Only functional cookies Set my preferences
-
-Cookie preferences
-
-You can accept all cookies or set your preference per cookie category. More information can be found in the cookie declaration.
-
-Accept all cookies
-
-Personal settings:
-
-- [x]  
-
-Functional
-
-These cookies are used to make our website function properly.
-
-- [x]  
-
-Analytical
-
-These cookies are used to measure (analyse) website usage based on your behaviour on our websites, such as click behaviour and session duration. This measurement data is used to create statistics that we use to improve the website. Some of this data is shared with Crazy Egg and Google.
-
-- [x]  
-
-Personalisation
-
-These cookies are used to analyse how you use our website. This allows us to customise the content of our website with information that matches your interests.
-
-- [x]  
-
-Social media
-
-These cookies are set by Vimeo and YouTube. The cookies enable videos from these external platforms to be visible on vu.nl. Once you play the video, Vimeo and YouTube may collect data about your usage and combine it with any data previously collected about you, such as browser and device data, the page you visit, and your interaction with the video. This data may be used by Vimeo and YouTube for analysis, personalisation and possibly advertising purposes.
-
-- [x]  
-
-Advertisements
-
-These cookies are set by VU Amsterdam and our advertising partners Google, LinkedIn, Meta and Snapchat. These third parties track your browsing behaviour across multiple websites in order to display relevant ads. They may combine this information with other data that you have provided to them, for example if you are logged in to one of their services, or that they have collected through your use of their platforms. These cookies also allow VU Amsterdam to measure whether our campaigns on different channels are effective by seeing how you came to our website.
-
-Save
 
 ## Quick links
 

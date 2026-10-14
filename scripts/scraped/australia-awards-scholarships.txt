@@ -3,6 +3,8 @@ Title: Australia Awards Scholarships
 
 URL Source: https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships
 
+Published Time: Wed, 14 Oct 2026 03:45:13 GMT
+
 Markdown Content:
 [Skip to main content](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#main-content)
 
@@ -119,7 +121,7 @@ Enter search terms
     *   [CPTPP](https://www.dfat.gov.au/trade/agreements/in-force/cptpp/comprehensive-and-progressive-agreement-for-trans-pacific-partnership "Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)")
     *   [Hong Kong (A-HKFTA & IA)](https://www.dfat.gov.au/trade/agreements/in-force/a-hkfta/default "Australia-Hong Kong Free Trade Agreement and associated Investment Agreement")
     *   [India (AI-ECTA)](https://www.dfat.gov.au/trade/agreements/in-force/australia-india-ecta "Australia-India Economic Cooperation and Trade Agreement (ECTA)")
-    *   [Indonesia (IA-CEPA)](https://www.dfat.gov.au/trade/agreements/in-force/iacepa/indonesia-australia-comprehensive-economic-partnership-agreement "Indonesia-Australia Comprehensive Economic Partnership Agreement")
+    *   [Indonesia (IA-CEPA)](https://www.dfat.gov.au/trade/agreements/in-force/iacepa/indonesia-australia-comprehensive-economic-partnership-agreement "Indonesia-Australia Comprehensive Economic Partnership Agreement (IA-CEPA)")
     *   [Japan (JAEPA)](https://www.dfat.gov.au/trade/agreements/in-force/jaepa/japan-australia-economic-partnership-agreement "Japan-Australia Economic Partnership Agreement")
     *   [Korea (KAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/kafta/korea-australia-fta "Korea-Australia Free Trade Agreement (KAFTA)")
     *   [Malaysia (MAFTA)](https://www.dfat.gov.au/trade/agreements/in-force/mafta "Malaysia-Australia Free Trade Agreement (MAFTA)")
@@ -217,7 +219,7 @@ Where and how Australia provides emergency assistance.
 
 *   [Australian Cultural Diplomacy Grants Program](https://www.dfat.gov.au/people-to-people/public-diplomacy/acdgp/australian-cultural-diplomacy-grants-program "Australian Cultural Diplomacy Grants Program (ACDGP)")
 *   [Australia now](https://www.dfat.gov.au/people-to-people/public-diplomacy/australia-now "Australia now")
-*   [UK/Australia Season 2021-22](https://www.dfat.gov.au/people-to-people/uk-australia-season-2021-22 "UK/Australia Season 2021-22")
+*   [UK/Australia Season 2021-22](https://www.dfat.gov.au/node/150188)
 
 #### [Foundations, councils and institutes](https://www.dfat.gov.au/people-to-people/foundations-councils-institutes "Foundations, councils and institutes")
 
@@ -287,7 +289,7 @@ The Australian Passport Office and its agents are committed to providing a secur
 
 ![Image 3: Large blue banner](https://www.dfat.gov.au/sites/default/files/blue_banner_wide.png)
 
-[Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=6248&amp;lang=en_au;&amp;readclass=main-content "Listen to this page using ReadSpeaker")
+[Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=6248&lang=en_au;&readclass=main-content "Listen to this page using ReadSpeaker")
 
 1.   [Home](https://www.dfat.gov.au/)
 2.   [People-to-people](https://www.dfat.gov.au/people-to-people)

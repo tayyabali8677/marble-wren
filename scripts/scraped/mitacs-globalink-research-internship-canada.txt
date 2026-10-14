@@ -512,6 +512,10 @@ Mitacs Virtual Interaction Guide
 Download
 Program Terms, Conditions & Policies
 View Files
+Mitacs Attentes des participants
+Download
+Guide des interactions virtuelles
+Download
 Open projects
 Discover opportunities for collaborative research and innovation.
 Find projects
@@ -646,6 +650,7 @@ Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
+Mitacs Digital Badge
 Company
 About Mitacs
 Mitacs Advisors
@@ -1103,6 +1108,7 @@ Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
+Mitacs Digital Badge
 Company
 About Mitacs
 Mitacs Advisors
@@ -1560,6 +1566,7 @@ Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
+Mitacs Digital Badge
 Company
 About Mitacs
 Mitacs Advisors
@@ -1668,6 +1675,7 @@ Completed Projects
 Open Projects
 Special Offers
 Mitacs Plus
+Mitacs Digital Badge
 Company
 About Mitacs
 Mitacs Advisors

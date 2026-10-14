@@ -3,6 +3,8 @@ Title: 404 Page not found
 
 URL Source: https://www.iadb.org/en/fellowships
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to main content](https://www.iadb.org/en/fellowships#main-content)
 

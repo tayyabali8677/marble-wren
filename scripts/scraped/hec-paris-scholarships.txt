@@ -3,17 +3,23 @@ Title: Error 404
 
 URL Source: https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships
 
-Published Time: Tue, 13 Oct 2026 19:08:07 GMT
+Published Time: Wed, 14 Oct 2026 03:57:53 GMT
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
+[Skip to main content](https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships#main-content "Skip to main content")
+
 *   en
 
-[![Image 1: HEC Paris](https://www.hec.edu/themes/custom/hec_theme/logo.svg)](https://www.hec.edu/en "Home")
+[![Image 5: HEC Paris](https://www.hec.edu/themes/custom/hec_theme/logo.svg)](https://www.hec.edu/en "Home")
 
-*   The School
+ Main Menu 
+
+*    Return  The School The School
 
     *   [Overview](https://www.hec.edu/en/overview "Overview")
-    *   Who We Are
+    *    Return  Who We Are Who We Are
 
         *   [Who We Are](https://www.hec.edu/en/school/who-we-are "Who We Are")
         *   [Mission & Values](https://www.hec.edu/en/school/who-we-are/mission-values "Mission & Values")
@@ -21,7 +27,7 @@ Markdown Content:
         *   [Our History](https://www.hec.edu/en/school/who-we-are/our-history "Our History")
 
     *   [Newsroom](https://www.hec.edu/en/school/newsroom "Newsroom")
-    *   International
+    *    Return  International International
 
         *   [International](https://www.hec.edu/en/school/international "International")
         *   [Global Presence](https://www.hec.edu/en/school/international/academic-partners "Global Presence")
@@ -37,13 +43,14 @@ Markdown Content:
         *   [HEC & Middle East / Africa](https://www.hec.edu/en/school/international/hec-middle-east/africa "HEC & Middle East / Africa")
         *   [HEC & Asia](https://www.hec.edu/en/school/international/hec-asia "HEC & Asia")
 
-    *   Sustainability
+    *    Return  Sustainability Sustainability
 
         *   [Sustainability](https://www.hec.edu/en/school/sustainability "Sustainability ")
         *   [Sustainable Campus](https://www.hec.edu/en/school/sustainability/sustainable-campus "Sustainable Campus")
         *   [BS4CL](https://www.hec.edu/en/school/sustainability/business-schools-climate-leadership "BS4CL")
 
-    *   Diversity   
+    *    Return  Diversity   
+& Inclusion Diversity   
 & Inclusion
 
         *   [Diversity & Inclusion](https://www.hec.edu/en/school/diversity-inclusion "Diversity & Inclusion")
@@ -51,30 +58,31 @@ Markdown Content:
 
     *   [Activity Reports](https://www.hec.edu/en/school/hec-paris-activity-report "Activity Reports")
 
-*   Programs
+*    Return  Programs Programs
 
-    *   Bachelor Programs
+    *    Return  Bachelor Programs Bachelor Programs
 
         *   [Overview](https://www.hec.edu/en/basc-data-society-organisations "Overview")
         *   [Course content](https://www.hec.edu/en/bachelor-programs/course-content "Course content")
         *   [Admissions](https://www.hec.edu/en/bachelor-programs/admissions "Admissions")
         *   [Fees and Financing](https://www.hec.edu/en/bachelor-programs/fees-and-financing "Fees and Financing")
 
-    *   Master's programs
+    *    Return  Master's programs Master's programs
 
-        *   Master in   
+        *    Return  Master in   
+ Management Master in   
  Management 
 
             *   [Overview](https://www.hec.edu/en/master-s-programs/master-management "Overview")
-            *   Course Content
+            *    Return  Course Content Course Content
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-management/course-content "Overview")
-                *   M1 : Courses in general Management
+                *    Return  M1 : Courses in general Management M1 : Courses in general Management
 
                     *   [Vue d'ensemble](https://www.hec.edu/en/master-s-programs/master-management/course-content/m1-general-management-phase "Vue d'ensemble")
 
                 *   [Optional Gap Year](https://www.hec.edu/en/master-s-programs/master-management/course-content/optional-gap-year "Optional Gap Year")
-                *   M2: Specialization phase 
+                *    Return  M2: Specialization phase M2: Specialization phase 
 
                     *   [Overview](https://www.hec.edu/en/master-s-programs/master-management/course-content/m2-specialization-phase "Overview")
                     *   [International Finance](https://www.hec.edu/en/masters-programs/master-in-management/m2-specialization-phase/international-finance "International Finance")
@@ -100,11 +108,13 @@ Markdown Content:
             *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-management/fees-and-financing "Fees and Financing")
             *   [FAQ](https://www.hec.edu/en/master-s-programs/master-management/faq "FAQ")
 
-        *   Master's   
+        *    Return  Master's   
+Programs Master's   
 Programs
 
             *   [Overview](https://www.hec.edu/en/master-s-programs/specialized-masters "Overview")
-            *   Master in   
+            *    Return  Master in   
+International Finance Master in   
 International Finance
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-international-finance "Overview")
@@ -115,7 +125,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-international-finance/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-international-finance/faq "FAQ")
 
-            *   Master in Accounting, Finance & Management
+            *    Return  Master in Accounting, Finance & Management Master in Accounting, Finance & Management
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-accounting-finance-management "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-accounting-finance-management/course-content "Course Content")
@@ -125,7 +135,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-accounting-finance-management/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-accounting-finance-management/faq "FAQ")
 
-            *    Master in Economics & Finance
+            *    Return  Master in Economics & Finance  Master in Economics & Finance
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-economics-finance "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-economics-finance/course-content "Course Content")
@@ -135,7 +145,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-economics-finance/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/MSc-Managerial-and-Financial-Economics-faq "FAQ")
 
-            *   Master in Marketing 
+            *    Return  Master in Marketing Master in Marketing 
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-marketing "Overview")
                 *   [Course Content](https://www.hec.edu/en/masters-programs/specialized-masters/msc-marketing/course-content "Course Content")
@@ -145,7 +155,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-marketing/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-marketing/faq "FAQ")
 
-            *   Master in Strategic Management
+            *    Return  Master in Strategic Management Master in Strategic Management
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-strategic-management "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-strategic-management/course-content "Course Content")
@@ -155,7 +165,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-strategic-management/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-strategic-management/faq "FAQ")
 
-            *   Master in Sustainability and Social Innovation
+            *    Return  Master in Sustainability and Social Innovation Master in Sustainability and Social Innovation
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-sustainability-and-social-innovation "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-sustainability-and-social-innovation/course-content "Course Content")
@@ -165,15 +175,15 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-sustainability-and-social-innovation/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-sustainability-and-social-innovation/faq "FAQ")
 
-            *   Mastère Spécialisé Médias, Art et Création
+            *    Return  Mastère Spécialisé Médias, Art et Création Mastère Spécialisé Médias, Art et Création
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/mastere-specialise-medias-art-et-creation "Overview")
 
-            *   Mastère Spécialisé/LLM Droit et Management International
+            *    Return  Mastère Spécialisé/LLM Droit et Management International Mastère Spécialisé/LLM Droit et Management International
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/mastere-specialise/llm-droit-et-management-international "Overview")
 
-            *   Master of Science Data Science & AI for Business X-HEC
+            *    Return  Master of Science Data Science & AI for Business X-HEC Master of Science Data Science & AI for Business X-HEC
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/course-content "Course Content")
@@ -183,7 +193,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/master-science-data-science-ai-business-x-hec/faq "FAQ")
 
-            *   Master of Science X-HEC Entrepreneurs
+            *    Return  Master of Science X-HEC Entrepreneurs Master of Science X-HEC Entrepreneurs
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/master-science-x-hec-entrepreneurs "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/master-science-x-hec-entrepreneurs/course-content "Course Content")
@@ -192,11 +202,12 @@ International Finance
                 *   [Admissions](https://www.hec.edu/en/master-s-programs/master-science-x-hec-entrepreneurs/admissions "Admissions")
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/master-science-x-hec-entrepreneurs/fees-and-financing "Fees and Financing")
 
-        *   Double Degree  
+        *    Return  Double Degree  
+ Programs Double Degree  
  Programs
 
             *   [Overview](https://www.hec.edu/en/master-s-programs/double-degree-programs "Overview")
-            *   Double Degree Data & Finance X-HEC
+            *    Return  Double Degree Data & Finance X-HEC Double Degree Data & Finance X-HEC
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/double-degree-programs/double-degree-data-finance-x-hec "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/double-degree-programs/double-degree-data-finance-x-hec/course-content "Course Content")
@@ -205,34 +216,36 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/double-degree-programs/double-degree-data-finance-x-hec/fees-and-financing "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/master-s-programs/double-degree-programs/double-degree-data-finance-x-hec/faq "FAQ")
 
-            *   M2M HEC - YALE
+            *    Return  M2M HEC - YALE M2M HEC - YALE
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/double-degree-programs/m2m-hec-yale "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/double-degree-programs/m2m-hec-yale/course-content "Course Content")
                 *   [Admissions](https://www.hec.edu/en/master-s-programs/double-degree-programs/m2m-hec-yale/admissions "Admissions")
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/double-degree-programs/m2m-hec-yale/fees-and-financing "Fees and Financing")
 
-            *   Master in Management & Business Law HEC - Paris 1
+            *    Return  Master in Management & Business Law HEC - Paris 1 Master in Management & Business Law HEC - Paris 1
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/double-degree-programs/master-management-business-law-hec-paris-1 "Overview")
                 *   [Programme](https://www.hec.edu/en/node/16465 "Programme")
                 *   [Admission](https://www.hec.edu/en/node/16287 "Admission")
                 *   [Frais et Financement](https://www.hec.edu/en/node/16315 "Frais et Financement")
 
-            *   Master in Management & Public Affairs HEC - FU BERLIN 
+            *    Return  Master in Management & Public Affairs HEC - FU BERLIN Master in Management & Public Affairs HEC - FU BERLIN 
 
                 *   [Overview](https://www.hec.edu/en/master-s-programs/double-degree-programs/master-management-public-affairs-hec-fu-berlin "Overview")
                 *   [Course Content](https://www.hec.edu/en/master-s-programs/double-degree-programs/master-management-public-affairs-hec-fu-berlin/course-content "Course Content")
                 *   [Admissions](https://www.hec.edu/en/master-s-programs/double-degree-programs/master-management-public-affairs-hec-fu-berlin/admissions "Admissions")
                 *   [Fees and Financing](https://www.hec.edu/en/master-s-programs/double-degree-programs/master-management-public-affairs-hec-fu-berlin/fees-and-financing "Fees and Financing")
 
-        *   Exchange   
+        *    Return  Exchange   
+ students Exchange   
  students
 
             *   [Overview](https://www.hec.edu/en/master-s-programs/visiting-students-programs "Overview")
             *   [Free mover program](https://www.hec.edu/en/master-s-programs/exchange-students/free-mover-program "Free mover program")
 
-        *   Student   
+        *    Return  Student   
+ Life Student   
  Life
 
             *   [Overview](https://www.hec.edu/en/master-s-programs/student-life "Overview")
@@ -243,12 +256,12 @@ International Finance
         *   [Our Difference](https://www.hec.edu/en/master-s-programs/our-difference "Our Difference")
         *   [FAQ](https://www.hec.edu/en/master-s-programs/faq "FAQ")
 
-    *   MBA & Executive MBA
+    *    Return  MBA & Executive MBA MBA & Executive MBA
 
-        *   MBA
+        *    Return  MBA MBA
 
             *   [Class Profile](https://www.hec.edu/en/mba-executive-mba/mba/class-profile "Class Profile")
-            *   Learning Experience
+            *    Return  Learning Experience Learning Experience
 
                 *   [Yale Exchange](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/yale-exchange "Yale Exchange")
                 *   [Overview](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience "Overview")
@@ -256,7 +269,7 @@ International Finance
                 *   [Outdoor Leadership Seminar](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/outdoor-leadership-seminar "Outdoor Leadership Seminar")
                 *   [Alumni Reunion Project](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/alumni-reunion-project "Alumni Reunion Project")
                 *   [Core Courses](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/core-courses "Core Courses")
-                *   Specializations
+                *    Return  Specializations Specializations
 
                     *   [Advanced Management](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/specializations/specializations-management-and-organizations "Advanced Management")
                     *   [Deep Tech & AI](https://www.hec.edu/en/mba-executive-mba/mba/learning-experience/specializations/concentrations-tech-ai "Deep Tech & AI")
@@ -273,13 +286,13 @@ International Finance
                 *   [Leadership In Action](https://www.hec.edu/en/mba-programs/mba/learning-experience/leadership-in-action "Leadership In Action")
                 *   [MBA Formats](https://www.hec.edu/en/mba-programs/mba/learning-experience/mba-formats "MBA Formats")
 
-            *   Admissions
+            *    Return  Admissions Admissions
 
                 *   [How Do I Apply?](https://www.hec.edu/en/mba-executive-mba/mba/admissions/how-do-i-apply "How Do I Apply?")
                 *   [Who Are We Looking For?](https://www.hec.edu/en/mba-executive-mba/mba/admissions/who-are-we-looking "Who Are We Looking For?")
                 *   [Requirements](https://www.hec.edu/en/mba-executive-mba/mba/admissions/requirements "Requirements")
                 *   [Application Deadlines](https://www.hec.edu/en/mba-executive-mba/mba/admissions/application-deadlines "Application Deadlines")
-                *   Fees & Funding
+                *    Return  Fees & Funding Fees & Funding
 
                     *   [Financial Aid by Country](https://www.hec.edu/en/mba-executive-mba/mba/admissions/fees-funding/financial-aid-country "Financial Aid by Country")
                     *   [Regional Funding Options](https://www.hec.edu/en/mba-executive-mba/mba/admissions/fees-funding/regional-funding "Regional Funding Options")
@@ -287,14 +300,14 @@ International Finance
 
                 *   [Laidlaw Scholars Program](https://www.hec.edu/en/mba-executive-mba/mba/admissions/laidlaw-scholars "Laidlaw Scholars Program")
 
-            *   Careers
+            *    Return  Careers Careers
 
                 *   [Employment Statistics](https://www.hec.edu/en/mba-executive-mba/mba/careers/employment-statistics "Employment Statistics")
                 *   [Design Your Career Path](https://www.hec.edu/en/mba-executive-mba/mba/careers/design-your-career-path "Design Your Career Path")
                 *   [MBA Connections](https://www.hec.edu/en/mba-executive-mba/mba/careers/mba-connections "MBA Connections")
                 *   [Mentorship Programs](https://www.hec.edu/en/mba-executive-mba/mba/careers/mentorship-opportunities "Mentorship Programs")
 
-            *   Student Life
+            *    Return  Student Life Student Life
 
                 *   [Cultural Weeks](https://www.hec.edu/en/mba-executive-mba/mba/student-life/cultural-weeks "Cultural Weeks")
                 *   [MBA Council](https://www.hec.edu/en/mba-executive-mba/mba/student-life/hec-paris-mba-council "MBA Council")
@@ -303,19 +316,19 @@ International Finance
             *   [Meet Us](https://www.hec.edu/en/mba-executive-mba/mba/meet-us "Meet Us")
             *   [Connect with us](https://www.hec.edu/en/mba-executive-mba/mba/connect-us "Connect with us")
 
-        *   Executive MBA
+        *    Return  Executive MBA Executive MBA
 
             *   [Overview](https://www.hec.edu/en/mba-executive-mba/executive-mba "Overview")
             *   [HEC Difference](https://www.hec.edu/en/mba-executive-mba/executive-mba/hec-difference "HEC Difference")
             *   [Class Profile](https://www.hec.edu/en/mba-executive-mba/executive-mba/class-profile "Class Profile")
-            *   Learning Experience
+            *    Return  Learning Experience Learning Experience
 
                 *   [Core Courses](https://www.hec.edu/en/mba-executive-mba/executive-mba/learning-experience/core-courses "Core Courses")
                 *   [Leadership Development](https://www.hec.edu/en/mba-executive-mba/executive-mba/learning-experience/leadership-development "Leadership Development")
                 *   [Capstone Project](https://www.hec.edu/en/mba-executive-mba/executive-mba/learning-experience/capstone-project "Capstone Project")
 
             *   [Choose an Intake](https://www.hec.edu/en/mba-executive-mba/executive-mba/choose-intake "Choose an Intake")
-            *   Specializations
+            *    Return  Specializations Specializations
 
                 *   [Driving Excellence in Healthcare](https://www.hec.edu/en/mba-executive-mba/executive-mba/specializations/specializations-driving-excellence-healthcare "Driving Excellence in Healthcare")
                 *   [Innovate Like An Entrepreneur](https://www.hec.edu/en/mba-executive-mba/executive-mba/specializations/specializations-innovate-entrepreneur "Innovate Like An Entrepreneur")
@@ -327,12 +340,12 @@ International Finance
                 *   [Scaling for Success](https://www.hec.edu/en/mba-executive-mba/executive-mba/specializations/specializations-scaling-success "Scaling for Success")
                 *   [Board Governance](https://www.hec.edu/en/mba-executive-mba/executive-mba/specializations/specializations-board-governance "Board Governance")
 
-            *   Admissions
+            *    Return  Admissions Admissions
 
                 *   [How Do I Apply?](https://www.hec.edu/en/mba-executive-mba/executive-mba/admissions/how-do-i-apply "How Do I Apply?")
                 *   [Who Are We Looking For?](https://www.hec.edu/en/mba-executive-mba/executive-mba/admissions/who-are-we-looking "Who Are We Looking For?")
                 *   [Application Deadlines](https://www.hec.edu/en/mba-executive-mba/executive-mba/admissions/application-deadlines "Application Deadlines")
-                *   Fees & Funding
+                *    Return  Fees & Funding Fees & Funding
 
                     *   [Scholarships](https://www.hec.edu/en/mba-executive-mba/executive-mba/admissions/fees-funding/scholarships "Scholarships")
                     *   [Loans](https://www.hec.edu/en/mba-executive-mba/executive-mba/admissions/fees-funding/loans "Loans")
@@ -344,11 +357,11 @@ International Finance
             *   [Careers](https://www.hec.edu/en/mba-executive-mba/executive-mba/careers "Careers")
             *   [Contact](https://www.hec.edu/en/mba-executive-mba/executive-mba/contact "Contact")
 
-    *   Executive Education
+    *    Return  Executive Education Executive Education
 
-        *   Our programs for individuals
+        *    Return  Our programs for individuals Our programs for individuals
 
-            *   By management topics
+            *    Return  By management topics By management topics
 
                 *   [Management & Strategy](https://www.hec.edu/en/executive-education/our-programs-individuals/management-strategy "Management & Strategy ")
                 *   [Finance](https://www.hec.edu/en/executive-education/our-programs-individuals/management-topics/finance "Finance")
@@ -364,7 +377,7 @@ International Finance
                 *   [Negotiation](https://www.hec.edu/en/executive-education/our-programs-individuals/management-topics/negotiations "Negotiation")
                 *   [Africa](https://www.hec.edu/en/executive-education/our-programs-individuals/management-topics/africa "Africa")
 
-            *   By learning format
+            *    Return  By learning format By learning format
 
                 *   [Executive Masters (18 months)](https://www.hec.edu/en/executive-education/our-programs-individuals/learning-format/executive-masters "Executive Masters (18 months)")
                 *   [Executive Certificates (12 days)](https://www.hec.edu/en/executive-education/our-programs-individuals/learning-format/executive-certificates "Executive Certificates (12 days)")
@@ -373,12 +386,12 @@ International Finance
                 *   [Partner programs](https://www.hec.edu/en/executive-education/our-programs-individuals/learning-format/partner-programs "Partner programs")
                 *   [Build your learning journey](https://www.hec.edu/en/executive-education/our-programs-individuals/learning-format/build-your-learning-journey "Build your learning journey")
 
-        *   Our programs for organizations
+        *    Return  Our programs for organizations Our programs for organizations
 
             *   [Custom Programs](https://www.hec.edu/en/executive-education/our-programs-organizations/custom-programs "Custom Programs")
             *   [Corporate training / Open programs](https://www.hec.edu/en/executive-education/our-programs-organizations/corporate-training/open-programs "Corporate training / Open programs")
 
-        *   About us
+        *    Return  About us About us
 
             *   [Missions & values](https://www.hec.edu/en/executive-education/about-us/missions-and-values "Missions & values")
             *   [HEC Paris in France](https://www.hec.edu/en/executive-education/about-us/hec-paris-campus "HEC Paris in France")
@@ -388,32 +401,32 @@ International Finance
         *   [Contact us](https://www.hec.edu/en/executive-education/contact-us "Contact us")
         *   [Home](https://www.hec.edu/en/executive-education "Home")
 
-    *   HEC Academy
+    *    Return  HEC Academy HEC Academy
 
         *   [HEC Academy](https://www.hec.edu/en/hec-academy "HEC Academy")
-        *   Youth School
+        *    Return  Youth School Youth School
 
             *   [Overview](https://www.hec.edu/en/hec-academy/youth-school-programs "Overview")
-            *   Junior Entrepreneur Bootcamp
+            *    Return  Junior Entrepreneur Bootcamp Junior Entrepreneur Bootcamp
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/youth-school/junior-entrepreneur-bootcamp "Overview")
                 *   [Students & Faculty](https://www.hec.edu/en/node/7713167 "Students & Faculty")
                 *   [Learning Experience](https://www.hec.edu/en/node/7700324 "Learning Experience")
 
             *   [Financial Literacy](https://www.hec.edu/en/hec-academy/youth-school/financial-literacy "Financial Literacy")
-            *   IA, Leadership et Pensée Critique
+            *    Return  IA, Leadership et Pensée Critique IA, Leadership et Pensée Critique
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/youth-school/ia-leadership-et-pensee-critique "Overview")
                 *   [Students & Faculty](https://www.hec.edu/en/node/16848477 "Students & Faculty")
                 *   [Learning Experience](https://www.hec.edu/en/node/16848478 "Learning Experience")
 
-            *   Climate and Social Sustainability
+            *    Return  Climate and Social Sustainability Climate and Social Sustainability
 
                 *   [Students & Faculty](https://www.hec.edu/en/hec-academy/youth-school/climate-and-social-sustainability/students-and-faculty "Students & Faculty")
 
-        *   Summer School
+        *    Return  Summer School Summer School
 
-            *   Energy and Finance
+            *    Return  Energy and Finance Energy and Finance
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/energy-and-finance "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/energy-and-finance/students-and-faculty "Students and Faculty")
@@ -422,7 +435,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/energy-and-finance/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/energy-and-finance/faq "FAQ")
 
-            *   Corporate Finance
+            *    Return  Corporate Finance Corporate Finance
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/corporate-finance "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/corporate-finance/students-and-faculty "Students and Faculty")
@@ -431,7 +444,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/corporate-finance/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/corporate-finance/faq "FAQ")
 
-            *   Geopolitics, Globalization and Business Strategy
+            *    Return  Geopolitics, Globalization and Business Strategy Geopolitics, Globalization and Business Strategy
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/geopolitics-globalization-and-business-strategy "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/geopolitics-globalization-and-business-strategy/students-and-faculty "Students and Faculty")
@@ -439,7 +452,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/geopolitics-globalization-and-business-strategy/fees-financing-and-accommodation "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/geopolitics-globalization-and-business-strategy/faq "FAQ")
 
-            *   Mergers and Acquisitions
+            *    Return  Mergers and Acquisitions Mergers and Acquisitions
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/mergers-acquisitions "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/mergers-and-acquisitions/students-and-faculty "Students and Faculty")
@@ -448,7 +461,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/mergers-and-acquisitions/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/mergers-and-acquisitions/faq "FAQ")
 
-            *   Luxury Management
+            *    Return  Luxury Management Luxury Management
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/luxury-management "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/luxury-management/students-and-faculty "Students and Faculty")
@@ -457,7 +470,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/luxury-management/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/luxury-management/faq "FAQ")
 
-            *   Investment Banking and International Finance
+            *    Return  Investment Banking and International Finance Investment Banking and International Finance
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/investment-banking-and-international-finance "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/investment-banking-and-international-finance/students-and-faculty "Students and Faculty")
@@ -466,7 +479,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/investment-banking-and-international-finance/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/investment-banking-and-international-finance/faq "FAQ")
 
-            *   FinTech
+            *    Return  FinTech FinTech
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/fintech-future-finance "Overview")
                 *   [Learning Experience](https://www.hec.edu/en/hec-academy/summer-school/fintech/learning-experience "Learning Experience")
@@ -474,7 +487,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/fintech/academic-fees-and-financing "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/fintech/faq "FAQ")
 
-            *   Luxury Hospitality Management
+            *    Return  Luxury Hospitality Management Luxury Hospitality Management
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/luxury-hospitality "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/summer-school/summer-programs/luxury-hospitality/students-and-faculty "Students and Faculty")
@@ -483,7 +496,7 @@ International Finance
                 *   [Fees and Financing](https://www.hec.edu/en/summer-school/summer-programs/luxury-hospitality/academic-fees "Fees and Financing")
                 *   [FAQ](https://www.hec.edu/en/summer-school/summer-programs/luxury-hospitality/faq "FAQ")
 
-            *   Sustainable Finance and Investment
+            *    Return  Sustainable Finance and Investment Sustainable Finance and Investment
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/sustainable-finance-and-investment "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/sustainable-finance-and-investment/students-and-faculty "Students and Faculty")
@@ -492,7 +505,7 @@ International Finance
                 *   [Accommodation and Fees](https://www.hec.edu/en/hec-academy/summer-school/sustainable-finance-and-investment/fees-financing-and-accommodation "Accommodation and Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/sustainable-finance-and-investment/faq "FAQ")
 
-            *   Accounts for Finance & Strategy
+            *    Return  Accounts for Finance & Strategy Accounts for Finance & Strategy
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/accounts-finance-strategy "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/accounts-finance-strategy/students-and-faculty "Students and Faculty")
@@ -501,7 +514,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/accounts-finance-strategy/fees-financing-and-accommodation "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/accounts-finance-strategy/faq "FAQ")
 
-            *   Private Equity & LBOs
+            *    Return  Private Equity & LBOs Private Equity & LBOs
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/private-equity-lbo "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/private-equity-lbos/students-and-faculty "Students and Faculty")
@@ -510,7 +523,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/private-equity-lbos/fees-financing-and-accommodation "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/private-equity-lbos/faq "FAQ")
 
-            *   New Luxury: Artistry & Sustainability for Value Creation
+            *    Return  New Luxury: Artistry & Sustainability for Value Creation New Luxury: Artistry & Sustainability for Value Creation
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/new-luxury-artistry-sustainability-value-creation "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/new-luxury-artistry-sustainability-value-creation/students-and-faculty "Students and Faculty")
@@ -519,7 +532,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/new-luxury-artistry-sustainability-value-creation/fees-financing-and-accommodation "Fees ")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/new-luxury-artistry-sustainability-value-creation/faq "FAQ")
 
-            *   Data Science and AI
+            *    Return  Data Science and AI Data Science and AI
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/data-science-and-ai "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/data-science-and-ai/students-and-faculty "Students and Faculty")
@@ -528,7 +541,7 @@ International Finance
                 *   [Fees](https://www.hec.edu/en/hec-academy/summer-school/data-science-and-ai/program-fees "Fees")
                 *   [FAQ](https://www.hec.edu/en/hec-academy/summer-school/data-science-and-ai/faq "FAQ")
 
-            *   Strategic Marketing and Branding
+            *    Return  Strategic Marketing and Branding Strategic Marketing and Branding
 
                 *   [Overview](https://www.hec.edu/en/hec-academy/summer-school/strategic-marketing-and-branding "Overview")
                 *   [Students and Faculty](https://www.hec.edu/en/hec-academy/summer-school/strategic-marketing-and-branding/students-and-faculty "Students and Faculty")
@@ -539,7 +552,7 @@ International Finance
 
             *   [Entrepreneurship and Digital Innovation HEC–TUM](https://www.hec.edu/en/hec-academy/summer-school/entrepreneurship-and-digital-innovation-hec-tum "Entrepreneurship and Digital Innovation HEC–TUM ")
 
-        *   Online School
+        *    Return  Online School Online School
 
             *   [Overview](https://www.hec.edu/en/hec-academy/online-school-programs "Overview")
             *   [Decoding Luxury](https://www.hec.edu/en/hec-academy/online-school/decoding-luxury "Decoding Luxury")
@@ -547,11 +560,11 @@ International Finance
         *   [EMBA Certificates](https://www.hec.edu/en/hec-academy/emba-specialization-certificates "EMBA Certificates")
         *   [Study Tours](https://www.hec.edu/en/hec-academy/study-tours "Study Tours")
 
-    *   PHD Program
+    *    Return  PHD Program PHD Program
 
         *   [Overview](https://www.hec.edu/en/doctoral-program "Overview")
         *   [Program Structure](https://www.hec.edu/en/phd-program/program-structure "Program Structure")
-        *   Research Areas
+        *    Return  Research Areas Research Areas
 
             *   [Research areas](https://www.hec.edu/en/phd-program/research-areas "Research areas")
             *   [Accounting and Management Control](https://www.hec.edu/en/accounting-and-management-control "Accounting and Management Control")
@@ -570,7 +583,7 @@ International Finance
         *   [HEC Community](https://www.hec.edu/en/phd-program/hec-community "HEC Community")
         *   [FAQ](https://www.hec.edu/en/phd-program/phd-frequently-asked-questions "FAQ")
 
-*   HEC Media Hub Dare
+*    Return  HEC Media Hub Dare HEC Media Hub Dare
 
     *   [Media Hub Dare](https://www.hec.edu/en/dare "Media Hub Dare")
     *   [Sustainability & Society](https://www.hec.edu/en/dare/sustainability-society "Sustainability & Society")
@@ -582,15 +595,15 @@ International Finance
     *   [Brands & Behaviors](https://www.hec.edu/en/dare/brands-behaviors "Brands & Behaviors")
     *   [Authors](https://www.hec.edu/en/dare/authors "Authors")
 
-*   Faculty & Research
+*    Return  Faculty & Research Faculty & Research
 
     *   [Overview](https://www.hec.edu/en/faculty-research "Overview")
-    *   Faculty Directory
+    *    Return  Faculty Directory Faculty Directory
 
         *   [Faculty directory](https://www.hec.edu/fr/faculte-et-recherche/faculty-directory "Faculty directory")
         *   [Faculty Members](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member "Faculty Members")
 
-    *   Departments
+    *    Return  Departments Departments
 
         *   [Departments](https://www.hec.edu/en/faculty-research/faculty-departments "Departments ")
         *   [Accounting and Management Control](https://www.hec.edu/en/faculty-research/departments/accounting-management-control "Accounting and Management Control")
@@ -607,10 +620,10 @@ International Finance
     *   [Grants](https://www.hec.edu/en/faculty-research/grants "Grants")
     *   [GREGHEC](https://www.hec.edu/en/faculty-research/greghec "GREGHEC")
 
-*   HEC Institute
+*    Return  HEC Institute HEC Institute
 
     *   [The mission of HEC Institute](https://www.hec.edu/en/mission-hec-institute "The mission of HEC Institute")
-    *   Social Entrepreneurship Center
+    *    Return  Social Entrepreneurship Center Social Entrepreneurship Center
 
         *   [About the Social Entrepreneurship Center](https://www.hec.edu/en/hec-institute/social-entrepreneurship-center "About the Social Entrepreneurship Center")
         *   [Accélérateur ESS Ile de France](https://www.hec.edu/en/hec-institute/social-entrepreneurship-center/accelerateur-ess-ile-de-france "Accélérateur ESS Ile de France")
@@ -620,7 +633,7 @@ International Finance
         *   [HEC Level Up](https://www.hec.edu/en/hec-institute/social-entrepreneurship-center/hec-level "HEC Level Up")
         *   [Jeunes Innovateurs](https://www.hec.edu/en/hec-institute/social-entrepreneurship-center/hec-jeunes-innovateurs "Jeunes Innovateurs")
 
-    *   Incubation and Acceleration Center
+    *    Return  Incubation and Acceleration Center Incubation and Acceleration Center
 
         *   [About the Incubation and Acceleration Center](https://www.hec.edu/en/hec-institute/incubation-acceleration-center "About the Incubation and Acceleration Center")
         *   [HEC Paris Incubateur](https://www.hec.edu/en/hec-institute/incubation-and-acceleration-center/hec-paris-incubateur "HEC Paris Incubateur ")
@@ -632,7 +645,7 @@ International Finance
         *   [KISED: Korea Institute of Startup & Entrepreneurship Development](https://www.hec.edu/en/hec-institute/incubation-and-acceleration-center/kised-korea-institute-startup-entrepreneurship-development "KISED: Korea Institute of Startup & Entrepreneurship Development")
         *   [KOSME](https://www.hec.edu/en/hec-institute/incubation-and-acceleration-center/kosme "KOSME")
 
-    *   Deep Tech Center
+    *    Return  Deep Tech Center Deep Tech Center
 
         *   [About the Deep Tech Center](https://www.hec.edu/en/hec-institute/deep-tech-center "About the Deep Tech Center")
         *   [HEC Challenge +](https://www.hec.edu/en/hec-institute/deep-tech-center/hec-challenge "HEC Challenge +")
@@ -641,38 +654,38 @@ International Finance
         *   [Creative Destruction Lab](https://www.hec.edu/en/hec-institute/deep-tech-center/creative-destruction-lab-paris "Creative Destruction Lab")
 
     *   [Hi! PARIS](https://www.hec.edu/en/hec-institute/hi-paris-center "Hi! PARIS")
-    *   Sustainability & Organizations Center
+    *    Return  Sustainability & Organizations Center Sustainability & Organizations Center
 
         *   [Sustainability & Organizations](https://www.hec.edu/en/hec-institute/sustainability-organizations-center "Sustainability & Organizations")
-        *   About S&O
+        *    Return  About S&O About S&O
 
             *   [Members](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/about-so/so-members "Members")
             *   [Newsletter](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/about-so/newsletter-institut-sustainability-organizations-so "Newsletter")
 
-        *   Inclusive Economy
+        *    Return  Inclusive Economy Inclusive Economy
 
             *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/act-impact "Act")
             *   [Teach](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/teach "Teach")
             *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/think "Think")
 
-        *   Climate & Earth
+        *    Return  Climate & Earth Climate & Earth
 
             *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate-earth/act-impact "Act")
             *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate-earth/think "Think")
 
         *   [Impact LAB](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/impact-lab "Impact LAB")
 
-    *   Purpose
+    *    Return  Purpose Purpose
 
-        *   Act
+        *    Return  Act Act
 
             *   [Inspirational Testimonies](https://www.hec.edu/en/hec-institute/purpose/act/inspirational-testimonies "Inspirational Testimonies")
             *   [Purpose Day](https://www.hec.edu/en/hec-institute/purpose/act/purpose-day "Purpose Day")
             *   [S&O: HEC Hub of resources on Sustainability](https://www.hec.edu/en/hec-institute/purpose/act/so-hec-hub-resources-sustainability "S&O: HEC Hub of resources on Sustainability")
 
-        *   Teach
+        *    Return  Teach Teach
 
-            *   Grande Ecole - Master in Management
+            *    Return  Grande Ecole - Master in Management Grande Ecole - Master in Management
 
                 *   [Hands-on Internship](https://www.hec.edu/en/hec-institute/purpose/teach/grande-ecole-master-management/hands-internship "Hands-on Internship")
 
@@ -683,7 +696,7 @@ International Finance
         *   [Think](https://www.hec.edu/en/hec-institute/purpose/think "Think")
 
     *   [Impact finance research](https://www.hec.edu/en/hec-institute/center-impact-finance "Impact finance research")
-    *   Family Business
+    *    Return  Family Business Family Business
 
         *   [FAMILY BUSINESS CENTER](https://www.hec.edu/en/hec-institute/center-family-business "FAMILY BUSINESS CENTER")
         *   [THINK](https://www.hec.edu/en/hec-institute/family-business/think "THINK")
@@ -693,35 +706,35 @@ International Finance
         *   [FRANCO-GERMAN PLATFORM](https://www.hec.edu/en/hec-institute/family-business/franco-german-platform "FRANCO-GERMAN PLATFORM")
         *   [TRANSMISSION IN PRACTICE](https://www.hec.edu/en/institutes-and-centers-expertise/family-business/transmission-practice "TRANSMISSION IN PRACTICE")
 
-    *   Laboratoire of Innovation & Future Transformations
+    *    Return  Laboratoire of Innovation & Future Transformations Laboratoire of Innovation & Future Transformations
 
         *   [About the Laboratoire of Innovation & Future Transformations](https://www.hec.edu/en/node/15771403 "About the Laboratoire of Innovation & Future Transformations")
         *   [Publications](https://www.hec.edu/en/node/15880220 "Publications")
         *   [AI Trackers](https://heclift.github.io/website/ai-trackers.html "AI Trackers")
         *   [Data Innovation](https://heclift.github.io/website/ai-trackers/diffusion-science/ "Data Innovation")
 
-    *   NAOS Lab for Leadership
+    *    Return  NAOS Lab for Leadership NAOS Lab for Leadership
 
         *   [Manifesto](https://www.hec.edu/en/hec-institute/naos-lab-leadership "Manifesto")
         *   [Explore](https://www.hec.edu/en/hec-institute/naos-lab-leadership/explore "Explore")
         *   [Educate](https://www.hec.edu/en/hec-institute/naos-lab-leadership/educate "Educate")
         *   [Ecosystem](https://www.hec.edu/en/hec-institute/naos-lab-leadership/ecosystem "Ecosystem")
 
-*   HEC Experience
+*    Return  HEC Experience HEC Experience
 
     *   [Campus life](https://www.hec.edu/en/campus-life "Campus life")
     *   [Campus tour](https://webapp.hec.fr/visite-campus-360/scene_23#fr "Campus tour")
     *   [HEC Talents](https://www.hec.edu/en/school/hec-talents "HEC Talents")
     *   [International opportunities](https://www.hec.edu/en/school/international "International opportunities")
 
-*   Corporate Relations 
+*    Return  Corporate Relations Corporate Relations 
 
     *   [Corporate Connections](https://www.hec.edu/en/corporate-connections "Corporate Connections ")
     *   [Become a partner](https://www.hec.edu/en/corporate-relations/stay-ahead-game-experiment-and-co-create "Become a partner")
-    *   Recruit
+    *    Return  Recruit Recruit
 
         *   [Overview](https://www.hec.edu/en/corporate-relations/how-recruit-hec-talent "Overview")
-        *   How to recruit
+        *    Return  How to recruit How to recruit
 
             *   [How to recruit](https://www.hec.edu/en/corporate-relations/recruit/how-recruit-hec-paris "How to recruit")
             *   [Our student clubs](https://www.hec.edu/en/corporate-relations/recruit/how-recruit/our-student-clubs "Our student clubs")
@@ -735,7 +748,7 @@ International Finance
     *   [Build your brand](https://www.hec.edu/en/corporate-relations/build-your-brand-campus "Build your brand")
     *   [Our corporate partners](https://www.hec.edu/en/corporate-relations/our-corporate-partners "Our corporate partners")
 
-*   HEC Foundation 
+*    Return  HEC Foundation HEC Foundation 
 
     *   [Overview](https://www.hec.edu/en/your-support-matters "Overview")
     *   [Why Give?](https://www.hec.edu/en/hec-foundation/why-give "Why Give?")
@@ -745,14 +758,108 @@ International Finance
     *   [Annual report](https://www.hec.edu/en/hec-foundation/annual-report "Annual report")
     *   [HEC Founders Circle](https://www.hec.edu/en/hec-foundation/hec-founders-circle "HEC FoundersCircle")
 
-*   Alumni
+*    Return  Alumni Alumni
 
     *   [HEC Alumni](https://www.hec.edu/en/association "HEC Alumni")
     *   [Give back](https://www.hecalumni.fr/fr/page/comment-adherer "Give back")
     *   [HEC Stories Magazine](https://hecstories.fr/fr "HEC Stories Magazine")
 
+*   [Visit Us](https://www.hec.edu/en/maps-and-directions)
+*   [Work at HEC](https://www.hec.edu/en/working-hec-paris)
+*   [Support HEC](https://give.fondationhec.fr/arya/~my-donation?context_form_id=form_2ff5502e312aca3c773f3dfcca6df0d760b91849_67d1836edd70f5.91228091)
+
 [](https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships)
 
-![Image 2: bottle](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/inline-images/bottle.63ef7cc9_0.png)
+![Image 6: bottle](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/inline-images/bottle.63ef7cc9_0.png)
 
 We can't seem to find the page you're looking for.
+
+Here are some useful links instead:
+
+*   [Homepage](https://www.hec.edu/en "Homepage")
+*   [Newsroom](https://www.hec.edu/en/school/newsroom "Newsroom")
+*   [Maps and directions](https://www.hec.edu/en/maps-and-directions "Maps and directions")
+*   [Events for prospective students](https://www.hec.edu/en/prospective-students "Events for prospective students")
+*   [Find the best program for you](https://www.hec.edu/en/program-finder?step1=1145 "Find the best program for you")
+*   [HEC Media Hub Dare](https://www.hec.edu/en/dare "HEC Media Hub Dare")
+
+![Image 7: Background Image](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/footer_image_config/background/footer.jpg)
+
+![Image 8: Logo](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/footer_image_config/logo/LOGO-white.png)
+
+See the site plan - [x] 
+
+*    About  
+*   [HEC Paris](https://www.hec.edu/en/school/who-we-are "HEC Paris")
+*   [HEC Foundation](https://www.hec.edu/en/your-support-matters "HEC Foundation")
+*   [International](https://www.hec.edu/en/school/international "International")
+*   [Sustainability](https://www.hec.edu/en/school/sustainability "Sustainability")
+*   [Stories](https://www.hec.edu/en/stories "Stories")
+*   [HEC Talents](https://www.hec.edu/en/school/hec-talents "HEC Talents")
+*   [Communication & Press Contacts](https://www.hec.edu/en/press-communication-contacts "Communication & Press Contacts")
+*   [Disability Program](https://www.hec.edu/en/school/disability-program-learners "Disability Program")
+
+*    Faculty and research  
+*   [Areas of study](https://www.hec.edu/en/faculty-research/faculty-departments "Areas of study")
+*   [Faculty](https://www.hec.edu/en/faculty-research/faculty-directory "Faculty")
+*   [Chairs](https://www.hec.edu/en/faculty-research/chairs "Chairs")
+*   [Centers](https://www.hec.edu/en/mission-hec-institute "Centers")
+
+*    Programs  
+*   [Master's Programs](https://www.hec.edu/en/master-s-programs "Master's Programs")
+*   [Bachelor Programs](https://www.hec.edu/en/basc-data-society-organisations "Bachelor Programs")
+*   [MBA & Executive MBA](https://www.hec.edu/en/mba-executive-mba "MBA & Executive MBA")
+*   [PhD Program](https://www.hec.edu/en/doctoral-program "PhD Program")
+*   [Executive Education](https://www.hec.edu/en/executive-education "Executive Education")
+*   [HEC Academy](https://www.hec.edu/en/hec-academy "HEC Academy")
+
+*   [News and events](https://www.hec.edu/en/school/newsroom "News and events")
+*   [Working @HEC Paris](https://www.hec.edu/en/working-hec-paris "Working @HEC Paris")
+*   [Support HEC](https://www.hec.edu/en/your-support-matters "Support HEC")
+*   [Recruiters](https://www.hec.edu/en/corporate-relations/how-recruit-hec-talent "Recruiters")
+*   [Corporate Connections](https://www.hec.edu/en/corporate-connections "Corporate Connections")
+*   [Alumni](https://www.hec.edu/en/association "Alumni")
+*   [Learning Center](https://www.hec.edu/en/learning-center "Learning Center")
+*   [Intranet](https://heconnect.hec.fr/ "Intranet")
+*   [HEC Online Boutique](https://boutique-hec.com/ "HEC Online Boutique")
+
+**HEC Paris**
+
+1 Rue de la Libération  
+ 78350 Jouy-en-Josas - +33.(0)1.39.67.70.00
+
+[Maps and directions](https://www.hec.edu/en/maps-and-directions)
+
+[![Image 9: Affiliated to CCI Paris Ile-de-France Education](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/inline-images/logo-cci-education.png)](https://www.cci-paris-idf.fr/ "CCI Paris IDF")
+
+[HEC MEDIA HUB - DARE](https://www.hec.edu/en/dare "A1 - MH - Homepage Dare - EN")
+
+### Follow us
+
+[facebook](https://fr-fr.facebook.com/HECParis/ "facebook")
+
+[Instagram](https://www.instagram.com/hec_paris/ "Instagram")
+
+[LinkedIn](https://www.linkedin.com/school/hec-paris/ "LinkedIn ")
+
+[youtube](https://www.youtube.com/user/hecparis "youtube")
+
+[Legal Notice](https://www.hec.edu/en/policies-and-legislation "Legal Notice") - [Data Privacy Policy](https://www.hec.edu/en/data-privacy-policy "Data Privacy Policy") - [Cookie Policy](https://www.hec.edu/en/cookies-and-other-trackers-policy "Cookie Policy") - [Cookies Preferences](https://www.hec.edu/en "Cookies Preferences") - [RSS](https://www.hec.edu/en/rss-feeds "RSS") - [Accessibility: not compliant](https://www.hec.edu/en/accessibility-statement-hecedu-website "Accessibility: not compliant") - [Sitemap](https://www.hec.edu/en/sitemap "Sitemap") - All rights reserved © HEC Paris 
+
+[Founding Member ![Image 10: CEMS](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/CEMS.png)](https://www.cems.org/ "https://www.cems.org/")
+
+[![Image 11: PIM](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/PIM-logo.png)](https://pimnetwork.org/ "https://pimnetwork.org")
+
+[Member ![Image 12: CGE](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/CGE-logo_1.png)](https://www.cge.asso.fr/ "https://www.cge.asso.fr")
+
+[![Image 13: GNAM](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/GNAM-stack_4.png)](https://www.advancedmanagement.net/ "https://www.advancedmanagement.net/")
+
+[![Image 14: logo de la CDEFM](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2022-06/Logo-CDEFM-Oct.2021-Blanc-CP%20-%20100x37.png)](https://fr.linkedin.com/company/cdefm "https://fr.linkedin.com/company/cdefm")
+
+[![Image 15: CEFDG](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2022-04/logo_CEFDG_blanc_100x29.png)](https://www.cefdg.fr/ "https://www.cefdg.fr/")
+
+[![Image 16: AMBA](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/AMBA-logo-Acc-white_1.png)](https://www.associationofmbas.com/ "https://www.associationofmbas.com/")
+
+[![Image 17: AACSB](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2019-04/AACSB-logo_1.png)](https://www.aacsb.edu/ "https://www.aacsb.edu/")
+
+[![Image 18: Equis](https://hec-prod-drupalfiles.oos.cloudgouv-eu-west-1.outscale.com/s3fs-public/2020-09/equisCD_1.png)](https://efmdglobal.org/ "https://efmdglobal.org/")

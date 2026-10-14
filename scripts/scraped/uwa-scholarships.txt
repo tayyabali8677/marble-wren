@@ -320,6 +320,7 @@ Entry standards
 Australian and New Zealand high school qualifications
 English language requirements
 International baccalaureate
+International and overseas qualifications
 Accept your offer
 Defer your offer Close menu
 Scholarships and fees
@@ -514,6 +515,7 @@ Entry standards
 Australian and New Zealand high school qualifications
 English language requirements
 International baccalaureate
+International and overseas qualifications
 Accept your offer
 Defer your offer Close menu
 Scholarships and fees
@@ -694,6 +696,7 @@ Entry standards
 Australian and New Zealand high school qualifications
 English language requirements
 International baccalaureate
+International and overseas qualifications
 Accept your offer
 Defer your offer Close menu
 Scholarships and fees
@@ -878,6 +881,7 @@ Entry standards
 Australian and New Zealand high school qualifications
 English language requirements
 International baccalaureate
+International and overseas qualifications
 Accept your offer
 Defer your offer Close menu
 Scholarships and fees
@@ -1253,6 +1257,7 @@ Entry standards
 Australian and New Zealand high school qualifications
 English language requirements
 International baccalaureate
+International and overseas qualifications
 Accept your offer
 Defer your offer Close menu
 Scholarships and fees

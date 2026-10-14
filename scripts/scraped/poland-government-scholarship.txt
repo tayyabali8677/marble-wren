@@ -930,13 +930,6 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-Fulbright Junior Research Award 2027-2028
-16.07.2026 - 13.10.2026
-Fulbright Junior Research Award to stypendia dla osób z polskim obywatelstwem, przygotowujących rozprawę doktorską w polskich instytucjach naukowych. Stypendium umożliwia realizację własnego projektu badawczego, powiązanego z tematyką przygotowywanej rozprawy doktorskiej, trwającego od 4 do 10 miesięcy w USA. Program nie ma ograniczeń wiekowych.
-Szczegóły
-16
-Lip
-2026
 Stypendium im. Johna Kluge’a w dziedzinie digital studies 2026/27
 16.07.2026 - 15.10.2026
 Kluge Fellowships in Digital Studies to rezydencyjne stypendium badawcze John W. Kluge Center przy Library of Congress w Stanach Zjednoczonych. Program jest otwarty dla badaczy i praktyków z całego świata oraz dla osób reprezentujących wszystkie dyscypliny. Szczególnie mile widziane są projekty interdyscyplinarne i międzykulturowe wykorzystujące metody cyfrowe, cyfrowe kolekcje Library of Congress, narzędzia badawcze i wsparcie kuratorskie.
@@ -951,6 +944,13 @@ Szczegóły
 16
 Lip
 2026
+Program stypendialny Deutsches Museum 2027
+16.07.2026 - 15.10.2026
+Deutsches Museum w Monachium prowadzi program stypendialny Scholar in Residence skierowany do badaczy zainteresowanych historią nauki i technologii oraz badaniami opartymi na pracy z obiektami muzealnymi.
+Szczegóły
+16
+Lip
+2026
 Stypendia badawcze PICAIS na Uniwersytecie w Passau 2026
 16.07.2026 - 15.10.2026
 PICAIS zaprasza do składania wniosków na stanowisko gościnne na Uniwersytecie w Pasawie w dwóch rundach selekcyjnych każdego roku.
@@ -958,9 +958,9 @@ Szczegóły
 16
 Lip
 2026
-Program stypendialny Deutsches Museum 2027
-16.07.2026 - 15.10.2026
-Deutsches Museum w Monachium prowadzi program stypendialny Scholar in Residence skierowany do badaczy zainteresowanych historią nauki i technologii oraz badaniami opartymi na pracy z obiektami muzealnymi.
+Fulbright STEM Impact Award 2026-27
+16.07.2026 - 30.10.2026
+Fulbright STEM Impact Award to stypendium dla osób, które kierują projektami badawczymi w obszarach STEM (Science, Technology, Engineering, Mathematics) i pracują w polskich uczelniach lub instytucjach naukowych. Program umożliwia wyjazd do USA na okres od 2 do 6 tygodni, w trakcie których można: realizować projekt badawczy, prowadzić zajęcia (np. wykłady, seminaria, warsztaty), a także zdobywać wiedzę o funkcjonowaniu amerykańskich instytucji naukowych i poznawać zasady komercjalizacji nauki, czyli wdrażania wyników badań w praktyce. Stypendium można realizować w jednej , samodzielnie wybranej instytucji w USA: uczelni, instytucie badawczym non-profit lub w innej zatwierdzonej niekomercyjnej instytucji badawczej.
 Szczegóły
 Start
 Poprzedni

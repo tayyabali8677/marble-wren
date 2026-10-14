@@ -3,6 +3,8 @@ Title: 提示信息
 
 URL Source: https://www.zju.edu.cn/english/2021/0407/c19573a2198745/page.htm
 
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+
 Markdown Content:
 ![Image 1](https://www.zju.edu.cn/_images/error/error.gif)
 

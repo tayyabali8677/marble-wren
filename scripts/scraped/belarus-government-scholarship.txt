@@ -3,7 +3,10 @@ Title: 404
 
 URL Source: https://studyinbelarus.by/en/
 
+Published Time: Tue, 01 Sep 2026 12:19:19 GMT
+
 Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ![Image 1](https://optim.tildacdn.biz/tild3963-3561-4663-b639-313531653230/-/resize/960x/-/format/webp/6342468.jpg.webp)
