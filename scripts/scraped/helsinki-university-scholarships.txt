@@ -18,12 +18,12 @@ Close
 
 *   News
 
-[News](https://www.helsinki.fi/en/news) 
+## [News](https://www.helsinki.fi/en/news) 
 
     *   [News and press releases](https://www.helsinki.fi/en/news/news-and-press-releases)
     *   [War in Ukraine](https://www.helsinki.fi/en/news/war-ukraine)
     *   [Think Corner](https://www.helsinki.fi/en/think-corner)
-    *   [Events calendar](https://tapahtumat.helsinki.fi/en-FI)
+    *   [Events calendar Opens in a new tab](https://tapahtumat.helsinki.fi/en-FI)
     *   [Public examinations](https://www.helsinki.fi/en/news/public-examinations)
     *   [Unitube videos](https://www.helsinki.fi/en/news/unitube)
     *   [Press and media services](https://www.helsinki.fi/en/news/press-and-media-services)
@@ -35,7 +35,7 @@ Close menu
 *   Admissions and   
  education
 
-[Admissions and education](https://www.helsinki.fi/en/admissions-and-education) 
+## [Admissions and education](https://www.helsinki.fi/en/admissions-and-education) 
 
     *   [Search for programmes and courses](https://www.helsinki.fi/en/admissions-and-education/search-programmes-and-courses)
     *   [Apply to bachelor's and master's programmes](https://www.helsinki.fi/en/admissions-and-education/apply-bachelors-and-masters-programmes)
@@ -52,7 +52,8 @@ Close menu
 
 *   Research
 
-[Research](https://www.helsinki.fi/en/research)
+## [Research](https://www.helsinki.fi/en/research)
+
 Explore our research, our research units, services for researchers and our top-notch research infrastructures. 
 
     *   [Top research areas and researchers](https://www.helsinki.fi/en/research/top-research-areas-and-researchers)
@@ -67,7 +68,8 @@ Close menu
 *   Innovations and   
  cooperation
 
-[Innovations and cooperation](https://www.helsinki.fi/en/innovations-and-cooperation)
+## [Innovations and cooperation](https://www.helsinki.fi/en/innovations-and-cooperation)
+
 Innovations, services and collaboration opportunities for researchers, businesses, alumni and donors. 
 
     *   [For decision-makers](https://www.helsinki.fi/en/innovations-and-cooperation/decision-makers)
@@ -81,7 +83,7 @@ Close menu
 
 *   About us
 
-[About us](https://www.helsinki.fi/en/about-us) 
+## [About us](https://www.helsinki.fi/en/about-us) 
 
     *   [Strategy, economy and quality](https://www.helsinki.fi/en/about-us/strategy-economy-and-quality)
     *   [This is the University of Helsinki](https://www.helsinki.fi/en/about-us/university-helsinki)
@@ -98,7 +100,7 @@ Close menu
 *   Faculties and   
  units
 
-[Faculties and units](https://www.helsinki.fi/en/faculties-and-units) 
+## [Faculties and units](https://www.helsinki.fi/en/faculties-and-units) 
 
     *   [Faculty of Agriculture and Forestry](https://www.helsinki.fi/en/faculty-agriculture-and-forestry)
     *   [Faculty of Biological and Environmental Sciences](https://www.helsinki.fi/en/faculty-biological-and-environmental-sciences)

@@ -532,6 +532,7 @@ Reset filters
 Criteria
 Entrepreneurship
 Experiential learning
+Social change
 Sustainable business
 Sustainable modern governance
 Country
@@ -574,6 +575,11 @@ Türkiye
 Ukraine
 Vietnam
 Is your country not listed? Then you are not eligible to apply for these programmes. Close
+Read more about "SI Academy: Eastern Europe 2026"
+SI Academy: Eastern Europe 2026
+Info: Training programmes for professionals in Eastern Europe
+Available for 6 countries
+Status: Open
 Read more about "Impact Pioneers &#8217;26 EUROPE"
 Impact Pioneers &#8217;26 EUROPE
 Info: Connecting leaders enabling entrepreneurship and innovation
@@ -588,11 +594,6 @@ Read more about "Impact Pioneers &#8217;26 MENA"
 Impact Pioneers &#8217;26 MENA
 Info: Connecting leaders enabling entrepreneurship and innovation
 Available for 7 countries
-Status: Closed
-Read more about "Swedish Institute Academy for Young Professionals (SAYP) Eastern Europe"
-Swedish Institute Academy for Young Professionals (SAYP) Eastern Europe
-Info: Swedish Institute Academy for Young Professionals (SAYP)
-Available for 6 countries
 Status: Closed
 News and testimonials
 News and testimonials

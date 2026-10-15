@@ -3,15 +3,11 @@ Title: 401 unauthorized
 
 URL Source: https://www.aston.ac.uk/fees-funding/scholarships
 
+Published Time: Thu, 15 Oct 2026 16:46:38 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-![Image 1: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
-
-![Image 2](https://cdn.userway.org/widgetapp/images/body_wh.svg)
-
-![Image 3: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
-
 ## We use cookies to enhance your online experience
 
 Our website uses cookies to distinguish you from other users of our website. This enables the University to provide you with a good experience when you browse our website and also allows us to take steps to improve our website. By continuing to browse the site, you are agreeing to our use of cookies.
@@ -36,7 +32,7 @@ Reject all Accept all categories Update preferences
 
 Study locations: **Birmingham** |[London](https://www.aston.ac.uk/london/)| [Online](https://online.aston.ac.uk/?utm_source=aston_london&utm_medium=aston_london&utm_campaign=main_navigation)
 
-[![Image 4: Aston University - Birmingham logo](https://www.aston.ac.uk/themes/custom/aston_university/logo.svg)](https://www.aston.ac.uk/ "Home")
+[![Image 1: Aston University - Birmingham logo](https://www.aston.ac.uk/themes/custom/aston_university/logo.svg)](https://www.aston.ac.uk/ "Home")
 
  Find a course 
 
@@ -348,7 +344,7 @@ UK
 
 [University departments](https://www.aston.ac.uk/about/departments)
 
-[![Image 5: Aston university footer map](https://www.aston.ac.uk/sites/default/files/Website%20map%202020%20%281%29.png)](https://www.aston.ac.uk/about/visit)
+[![Image 2: Aston university footer map](https://www.aston.ac.uk/sites/default/files/Website%20map%202020%20%281%29.png)](https://www.aston.ac.uk/about/visit)
 
 *   © Aston University
 *   [Accessibility](https://www.aston.ac.uk/information/accessibility-statement)
@@ -358,6 +354,6 @@ UK
 *   [Modern Slavery Act](https://www.aston.ac.uk/about/statutes-ordinances-regulations/publication-scheme/governance-compliance)
 *   [Privacy](https://www.aston.ac.uk/about/statutes-ordinances-regulations/publication-scheme/policies-regulations/data-protection/privacy-notices)
 
-![Image 6: The Quality Assurance Agency for Higher Education 2023-24](https://www.aston.ac.uk/sites/default/files/inline-images/qaa-membership-badge-23-24-colour.png)![Image 7: University of the year 2020 - The Guardian](https://www.aston.ac.uk/sites/default/files/inline-images/uni-of-the-year-140x96_0.jpg)![Image 8: TEF Gold 2023](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-tef-gold.png)![Image 9: Athena Swan Gold](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-athena-swan-gold-v2.png)![Image 10: Daily Mail University of the Year Student Success 2025](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-the%20guardian-university-of-the-year-v2.png)![Image 11: 4th Generation University](https://www.aston.ac.uk/sites/default/files/inline-images/au-footer-4-generation-university.jpg)
+![Image 3: The Quality Assurance Agency for Higher Education 2023-24](https://www.aston.ac.uk/sites/default/files/inline-images/qaa-membership-badge-23-24-colour.png)![Image 4: University of the year 2020 - The Guardian](https://www.aston.ac.uk/sites/default/files/inline-images/uni-of-the-year-140x96_0.jpg)![Image 5: TEF Gold 2023](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-tef-gold.png)![Image 6: Athena Swan Gold](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-athena-swan-gold-v2.png)![Image 7: Daily Mail University of the Year Student Success 2025](https://www.aston.ac.uk/sites/default/files/2024-09/au-footer-the%20guardian-university-of-the-year-v2.png)![Image 8: 4th Generation University](https://www.aston.ac.uk/sites/default/files/inline-images/au-footer-4-generation-university.jpg)
 
 Back to top

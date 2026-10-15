@@ -3,6 +3,8 @@ Title: Page not found
 
 URL Source: https://www.latrobe.edu.au/scholarships
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to content](https://www.latrobe.edu.au/scholarships#content)
 This website [uses cookies](https://www.latrobe.edu.au/statements/privacy) to ensure you get a better experience.Allow Cookies

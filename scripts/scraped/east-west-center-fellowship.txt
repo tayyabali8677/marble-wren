@@ -3,6 +3,8 @@ Title: East-West Center | www.eastwestcenter.org
 
 URL Source: https://www.eastwestcenter.org/education/graduate-education
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 ## This site uses cookies. By continuing to browse the site, you agree to our use of cookies. [Find out more.](https://www.eastwestcenter.org/node/86146)
 

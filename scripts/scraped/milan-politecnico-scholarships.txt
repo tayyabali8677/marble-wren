@@ -74,6 +74,17 @@ Markdown Content:
     *   [Documents about didactic](https://www.polimi.it/en/education/documents-about-didactis "Documents about didactic")
 
 *   
+    *   [Prospective PhD candidates](https://www.polimi.it/en/phd/prospective-phd-candidates "News")
+
+    *   [Current PhD candidates](https://www.polimi.it/en/phd/current-phd-candidates "News")
+
+    *   [Companies](https://www.polimi.it/en/phd/companies "News")
+
+    *   [PhD School](https://www.polimi.it/en/phd/phd-school "News")
+
+    *   [FAQs, contacts and PhD Handbook](https://www.polimi.it/en/phd/faqs-and-contacts "News")
+
+*   
     *   [Inclusion and equal opportunities](https://www.polimi.it/en/sustainable-development/inclusion-and-equal-opportunities "News")
 
     *   [Sustainable research](https://www.polimi.it/en/sustainable-development/sustainable-research "News")
@@ -344,6 +355,8 @@ Initiatives
     *   [PoliSocial Award](https://www.polimi.it/en/sustainable-development/polisocial-award "PoliSocial Award")
 
     *   [ViviPolimi](https://www.polimi.it/en/the-politecnico/architectures-at-politecnico-di-milano "ViviPolimi")
+
+    *   [Volunteering](https://www.polimi.it/en/sustainable-development/innovation-and-social-responsibility/collaboration-with-the-nonprofit-sector/action-for-non-profit/volontariato "Volunteering")
 
 *   SERVICES FOR STUDY
 

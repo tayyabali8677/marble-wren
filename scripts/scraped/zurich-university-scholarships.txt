@@ -702,7 +702,7 @@ back [Sustainability](https://www.uzh.ch/en/explore/basics/sustainability.html)
             *   [Sustainability Policy](https://www.uzh.ch/en/explore/basics/sustainability/policy.html)
             *   [Low-Impact Mobility](https://www.uzh.ch/en/explore/basics/sustainability/mobility.html)
 
-        *   [UZH Leadership and Management Principles](https://www.uzh.ch/en/explore/basics/leadership-principles.html)
+        *   [Leadership and Management Principles](https://www.uzh.ch/en/explore/basics/leadership-principles.html)
         *   [Social Responsibility](https://www.uzh.ch/en/explore/basics/responsibility.html)
 
 back [Social Responsibility](https://www.uzh.ch/en/explore/basics/responsibility.html) 
@@ -714,6 +714,11 @@ back [Social Responsibility](https://www.uzh.ch/en/explore/basics/responsibility
 back [Protection Against Sexual Harassment](https://www.uzh.ch/en/explore/basics/responsibility/sexualharassment.html) 
                 *   [Annual Reports RSB Committee](https://www.uzh.ch/en/explore/basics/responsibility/sexualharassment/reports.html)
                 *   [National Day Against Sexual Harassment in Higher Education](https://www.uzh.ch/en/explore/basics/responsibility/sexualharassment/national-day.html)
+
+            *   [External Reporting Office](https://www.uzh.ch/en/explore/basics/responsibility/reportingoffice.html)
+
+back [External Reporting Office](https://www.uzh.ch/en/explore/basics/responsibility/reportingoffice.html) 
+                *   [External Reporting Office: Frequently Asked Questions](https://www.uzh.ch/en/explore/basics/responsibility/reportingoffice/faq.html)
 
         *   [Strategic Principles](https://www.uzh.ch/en/explore/basics/strategy.html)
         *   [Global Strategy 2030](https://www.uzh.ch/en/explore/basics/globalstrategy.html)

@@ -3,6 +3,8 @@ Title: UNHCR, the UN Refugee Agency
 
 URL Source: https://www.unhcr.org/careers
 
+Warning: Target URL returned error 403: Forbidden
+
 Markdown Content:
 ![Image 1: UNHCR logo](blob:http://localhost/19659e88bd278a1972709c9cbec0628d)
 

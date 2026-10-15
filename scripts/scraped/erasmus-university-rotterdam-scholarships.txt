@@ -3,8 +3,6 @@ Title: Pagina niet gevonden
 
 URL Source: https://www.eur.nl/en/education/scholarships-and-financial-support
 
-Published Time: Thu, 15 Oct 2026 03:34:14 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -134,31 +132,31 @@ Desiderius Erasmus
 [Meer nieuws](https://www.eur.nl/en/news/overview)
 
 *   
+### [Beyond the paper: can theatre change how we communicate research?](https://www.eur.nl/en/news/beyond-paper-can-theatre-change-how-we-communicate-research)
+
+ What happens when research on drugs and organised crime leaves the academic world and enters the theatre? 
+    *    Thursday 15 Oct 2026
+    *    General
+
+![Image 5: Woman with texts "DOPE" and "Indringend theater en dans over de lijn die al onze levens verbindt". Also featuring the logos of "watwedoen.nl", "Lloyds Company" and "FORT-PORT".](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/dope-banner-artwork.png.avif?h=8a86ce09&itok=KZqQpjBl)
+
+*   
+### ['I'd rather build more than get stuck because of all sorts of rules'](https://www.eur.nl/en/news/id-rather-build-more-get-stuck-because-all-sorts-rules)
+
+ Rotterdam wants to build 15,000 homes in the coming years. Matthijs Korevaar says this will be very challenging, due to economic uncertainty and lots of rules. 
+    *    Thursday 15 Oct 2026
+    *    Issue 010
+
+![Image 6: A new house under construction in Rotterdam.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/CplvtO63mzFEzTBjy2Cl-58cfc6ae24c59ab047c3c80bb9bdd92d.jpg.avif?h=094654a7&itok=NiZatdtv)
+
+*   
 ### [Lessons from exchange: enjoy the moment for what it is](https://www.eur.nl/en/news/lessons-exchange-enjoy-moment-what-it)
 
  Raiden Metsa tells us about his four month exchange at Thammasat University in Bangkok. 
     *    Wednesday 14 Oct 2026
     *    General
 
-![Image 5: Young man sitting in front of temple in Thailand](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/_bkk6553-edit.JPG.avif?h=790be497&itok=cYG5ywYG)
-
-*   
-### [What happens after Europe tells someone to leave?](https://www.eur.nl/en/news/what-happens-after-europe-tells-someone-leave)
-
- A new short film looks at what happens when Europe tells someone to leave, and why return is often more complex than a return decision suggests. 
-    *    Tuesday 13 Oct 2026
-    *    Blogpost
-
-![Image 6: FAiR final video with Lois Mobach](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/fair-final-video-thumbnail.jpg.avif?h=d1cb525d&itok=wLbGYk76)
-
-*   
-### ['I'd rather build more than get stuck because of all sorts of rules'](https://www.eur.nl/en/news/id-rather-build-more-get-stuck-because-all-sorts-rules)
-
- Rotterdam wants to build 15,000 homes in the coming years. Matthijs Korevaar says this will be very challenging, due to economic uncertainty and lots of rules. 
-    *    Tuesday 13 Oct 2026
-    *    Issue 010
-
-![Image 7: A new house under construction in Rotterdam.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/CplvtO63mzFEzTBjy2Cl-58cfc6ae24c59ab047c3c80bb9bdd92d.jpg.avif?h=094654a7&itok=NiZatdtv)
+![Image 7: Young man sitting in front of temple in Thailand](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/_bkk6553-edit.JPG.avif?h=790be497&itok=cYG5ywYG)
 
 Compare 0 study programmes
 

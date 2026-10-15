@@ -3,6 +3,8 @@ Title: Chevening
 
 URL Source: https://www.chevening.org/
 
+Published Time: Thu, 15 Oct 2026 16:23:22 GMT
+
 Markdown Content:
 [Skip to content](https://www.chevening.org/#main)
 
@@ -245,4 +247,9 @@ Subscribe to our newsletter
 | - [x] | Facebook Pixel | Facebook |  | 90 |
 | - [x] | Twitter | Twitter |  | 90 |
 
- Customise cookies
+ Customise cookies 
+
+Chat widget is currently expanded and visible Chat widget is currently collapsed and hidden
+
+![Image 24: Widget icon](https://wotnot-chat-widget-icon.storage.googleapis.com/59065/3b6821de-6618-11f0-8018-763a578ae72a_2025Cheveninglogo-darkbluetransparen%20%281%29.jpeg)
+Ask your question

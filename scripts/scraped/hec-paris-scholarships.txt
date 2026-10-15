@@ -3,8 +3,6 @@ Title: Error 404
 
 URL Source: https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships
 
-Published Time: Thu, 15 Oct 2026 02:37:51 GMT
-
 Markdown Content:
 *   en
 
@@ -650,18 +648,16 @@ International Finance
             *   [Members](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/about-so/so-members "Members")
             *   [Newsletter](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/about-so/newsletter-institut-sustainability-organizations-so "Newsletter")
 
-        *   Inclusive Economy
+        *   Social
 
-            *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/act-impact "Act")
-            *   [Teach](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/teach "Teach")
-            *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/inclusive-economy/think "Think")
+            *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/social/act-impact "Act")
+            *   [Teach](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/social/teach "Teach")
+            *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/social/think "Think")
 
-        *   Climate & Earth
+        *   Climate 
 
-            *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate-earth/act-impact "Act")
-            *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate-earth/think "Think")
-
-        *   [Impact LAB](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/impact-lab "Impact LAB")
+            *   [Act](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate/act-impact "Act")
+            *   [Think](https://www.hec.edu/en/hec-institute/sustainability-organizations-center/climate/think "Think")
 
     *   Purpose
 
@@ -692,7 +688,7 @@ International Finance
         *   [ACT](https://www.hec.edu/en/hec-institute/family-business/act "ACT")
         *   [MEMBERS](https://www.hec.edu/en/hec-institute/family-business/members-family-business-center "MEMBERS")
         *   [FRANCO-GERMAN PLATFORM](https://www.hec.edu/en/hec-institute/family-business/franco-german-platform "FRANCO-GERMAN PLATFORM")
-        *   [TRANSMISSION IN PRACTICE](https://www.hec.edu/en/institutes-and-centers-expertise/family-business/transmission-practice "TRANSMISSION IN PRACTICE")
+        *   [TRANSMISSION IN PRACTICE](https://www.hec.edu/en/hec-institute/family-business/transmission-practice "TRANSMISSION IN PRACTICE")
 
     *   Laboratoire of Innovation & Future Transformations
 

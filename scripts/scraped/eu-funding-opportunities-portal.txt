@@ -22,8 +22,6 @@ Browse through EU funded projects and learn about the results. Invest in opportu
 [Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
 Proposals and projects need evaluations, monitoring and domain-specific knowledge advice from experts.
 
-Highlights
-
 EU programmes involved
 
 ![Image 1: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
@@ -31,7 +29,3 @@ EU programmes involved
 Discover the range of EU Programmes, a wide variety of EU funding opportunities implemented through the 2021-2027 multiannual financial framework, divided by heading and cluster. Access specific EU funding Programme's information, from reference documents to eligibility criteria and guidelines for participants or projects and results.
 
 [View all EU programmes](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes)
-
-News
-
-No recent news
