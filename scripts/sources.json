@@ -3805,5 +3805,19 @@
     "country": "United States",
     "url": "https://www.professionalfellows.states.gov/",
     "note": "Government-funded international exchange and fellowship program."
+  },
+  {
+    "slug": "daad-scholarships-germany",
+    "name": "DAAD Scholarships (Deutscher Akademischer Austauschdienst)",
+    "country": "Germany",
+    "url": "https://www.daad.de",
+    "note": "Main portal for German Academic Exchange Service scholarships."
+  },
+  {
+    "slug": "erasmus-mundus-glocal-scholarship",
+    "name": "Erasmus Mundus GLOCAL Scholarship",
+    "country": "European Union",
+    "url": "https://www.glocalment.com/",
+    "note": "Major international organization scholarship programme"
   }
 ]
