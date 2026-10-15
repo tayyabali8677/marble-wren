@@ -39,7 +39,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -966,7 +966,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation

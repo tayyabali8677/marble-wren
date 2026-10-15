@@ -6,6 +6,6 @@ URL Source: https://studyinbelarus.by/en/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-![Image 1](https://optim.tildacdn.biz/tild3963-3561-4663-b639-313531653230/-/resize/960x/-/format/webp/6342468.jpg.webp)
+![Image 1](https://thb.tildacdn.biz/tild3963-3561-4663-b639-313531653230/-/empty/6342468.jpg)
 
 [http://studyinbelarus.by/](http://studyinbelarus.by/)

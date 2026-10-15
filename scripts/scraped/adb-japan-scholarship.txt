@@ -1923,6 +1923,7 @@ Tajikistan
 Thailand
 Timor-Leste
 Tonga
+Türkiye
 Turkmenistan
 Tuvalu
 Uzbekistan
@@ -1943,18 +1944,18 @@ Statutory Reports and Official Records ADB records and annual reports
 Country Planning Documents Describes country operations or strategies in ADB members
 Contracts and Agreements Memoranda between ADB and other organizations
 Featured Publications and Documents
-July 2026
-Satellite Earth Observation: A Compendium of Capabilities and Applications for Development
-This report looks at how Satellite Earth Observation can help solve development challenges by providing key environmental information globally in a timely, accurate, and consistent way.
-July 2026
-Exploring the Impact and Opportunities of Carbon Pricing in the Transport Sector in CAREC Countries
-This report explains how countries in the Central Asia Regional Economic Cooperation (CAREC) region can use carbon pricing strategies to help tackle rising transport-related emissions, drive innovation, and generate public revenues.
-June 2026
-Asia Bond Monitor – June 2026
-This edition shows tightened financial conditions, analyzes the impact of the Middle East conflict on equity markets, the compression of bond yield spreads between developing Asia and the Pacific versus advanced economies, and how fiscal imbalances can complicate monetary policy.
-June 2026
-AI Systems as Digital Public Goods: Evidence and Recommendations from a Multi-Stakeholder Assessment
-This publication presents research findings that highlight practical changes to make “AI as Digital Public Goods” become a credible implementation pathway, as well as addressing current challenges experienced in meeting existing Digital Public Goods standards.
+September 2026
+Asian Development Review: Volume 43, Number 3
+This volume explores diverse topics that include migration, industrialization and innovation, digital economy development, and social protection.
+September 2026
+Guiding Principles for Developing Inclusive and Resilient Social Protection Systems in Asia and the Pacific
+This report examines how countries in Asia and the Pacific can develop more inclusive and resilient social protection systems that reduce poverty and vulnerability, promote social inclusion, and strengthen resilience to shocks and long-term stresses.
+September 2026
+Asia Bond Monitor – September 2026
+Financing conditions in emerging East Asia remained challenging amid elevated oil prices, higher global bond yields, cautious domestic monetary policy stances, and expectations of monetary tightening in the United States, this edition explains.
+August 2026
+Data and Analytics in Tax Administration: A Practical Guide to Capability, Governance, and Implementation
+Tax administrations face complexity due to globalization, evolving taxpayer behavior, and technological advances. This guide establishes a practical framework that combines analytical techniques with governance and ethics to institutionalize data analytics within tax agencies.
 Latest Publications Latest Documents
 Subscribe to our monthly digest of latest ADB publications.
 Sign up now
@@ -1963,6 +1964,9 @@ Follow ADB Publications on Facebook
 Follow ADB Publications on X (Twitter)
 Follow ADB Publications on LinkedIn
 Key Publications
+August 2026
+Key Indicators for Asia and the Pacific 2026
+This publication shows how evidence on both shared household circumstances and the experiences of individuals within a household can provide a fuller understanding of socioeconomic deprivation.
 September 2026
 Asian Development Outlook September 2026: Navigating Prolonged Energy Shocks and El Niño
 This edition projects that growth in developing Asia and the Pacific will moderate from 5.5% in 2025 to 5% in 2026 before edging up to 5.1% in 2027. The 2026 forecast is 0.1 percentage points higher than the previous outlook in July.
@@ -1972,9 +1976,6 @@ This Annual Report provides a comprehensive account of ADB's operational, instit
 February 2026
 Asian Economic Integration Report 2026: Leveraging Regional Cooperation and Integration to Navigate Global Uncertainties
 This report highlights that Asia and the Pacific is continuing to deepen economic integration amid global uncertainties. It sets out the latest trends and discusses policy priorities to help strengthen resilience and advance inclusive, sustainable integration.
-August 2025
-Key Indicators for Asia and the Pacific 2025
-This publication provides updated statistics on a comprehensive set of economic, financial, social, and environmental measures as well as select indicators for the Sustainable Development Goals (SDGs).
 Economic Research Series
 Asia Bond Monitor
 Examines East Asian local currency bond markets which enable governments to raise capital to invest in infrastructure.
@@ -2008,6 +2009,9 @@ Annual achievements in ADB's cofinancing operations for current and prospective 
 ADB Sustainability Reports
 Information on ADB's continued work in promoting environmentally sustainable and inclusive growth and reducing its corporate footprint, in accordance to the Global Reporting Initiative's reporting guidelines.
 Focus on Climate Change
+15 Oct 2026
+| Papers and Briefs
+Closing the Financing Gap for Climate-Resilient Health Systems: High-Level Health Care Climate Action Principle 4
 07 Oct 2026
 | Reports
 Understanding Emission Trends in Mongolia: Insights from Environmentally Extended Multiregional Input–Output Tables
@@ -2017,9 +2021,6 @@ Regional Programmatic Approach for Climate Action - Annex 6: Environmental and S
 02 Oct 2026
 | Papers and Briefs
 Strengthening Climate-Sensitive Health Risk Management Across the Greater Mekong Subregion
-24 Sep 2026
-| Papers and Briefs
-Strengthening Climate Resilience Through Social Protection Programs
 More climate change publications
 Depository Library Program
 ADB partners with well-established libraries across the region who have agreed to house ADB's digital publications and to promote their use among a diverse group of users.

@@ -3,10 +3,10 @@ Title: Page not found
 
 URL Source: https://www.uliege.be/cms/c_8699355/en/scholarships
 
-Warning: Target URL returned error 404: 404
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[](https://www.uliege.be/cms/c_8699355/en/scholarships)
+[](https://www.uliege.be/)
 
 # Page not found!
 
@@ -14,13 +14,13 @@ Markdown Content:
 
 The page you are looking for may have been removed, had its name changed or may be temporarily unavailable. We apologize for the inconvenience.
 
-*   [![Image 2](https://www.uliege.be/cms/c_8699355/en/s.gif) Français](https://www.uliege.be/cms/c_8699355/en/scholarships#)
-*   [![Image 3](https://www.uliege.be/cms/c_8699355/en/s.gif) English](https://www.uliege.be/cms/c_8699355/en/scholarships#)
-*   [![Image 4](https://www.uliege.be/cms/c_8699355/en/s.gif) Deutsch](https://www.uliege.be/cms/c_8699355/en/scholarships#)
-*   [![Image 5](https://www.uliege.be/cms/c_8699355/en/s.gif) Nederlands](https://www.uliege.be/cms/c_8699355/en/scholarships#)
+*   [![Image 2](https://www.uliege.be/s.gif) Français](https://www.uliege.be/#)
+*   [![Image 3](https://www.uliege.be/s.gif) English](https://www.uliege.be/#)
+*   [![Image 4](https://www.uliege.be/s.gif) Deutsch](https://www.uliege.be/#)
+*   [![Image 5](https://www.uliege.be/s.gif) Nederlands](https://www.uliege.be/#)
 
-eNq1mF1v2jAUhu/5FVHuSZq1tGQKVBtrN6RWY23Rpt1UJjmAmWunxzYf+/VzAttgStTVxDdIxOY9Jz6vHx+cXK6fmLcElFTwnh8FJ74HPBUZ5bOeP364bnf9y34rWZAl2Zt2EZwEUex7KSNS9vxiNJgA4TL4dnvzAczvAf1+y0vEZAGpOpinFWXBJyLntyQv5njJUtDMewI1F1nPz7Uqn3qJVGiy6K8E/pA5SSEJd0/2RxePZ/vPk7AQ+w9VLQFvCJ9VigK30kw1InA1IApmAjc1+Z5aaVN5B1JoTGFE1HyEYkkzyCpDTAmTYBVkusruAZcMVBGkUjxMn6SVNlmQ9R08D6tzfmdGB2qt2ift6CKO4viicx69ibpWoXBvparriygwLD+DhcwtCzISqAhzVAoqB4duchQH4fnFkje0XASJGQY0+97dyxRv8YCGRMys2z/6XDMWvjLr8Y4TjjIuMDQQmqsaXIzvbRdiILiCdX1V7Qin1js/UpDNyf4UvJruIz1hNLVlmcGNBqnGd8NalIXpY/c8jk87nRB4KNO5YATlnObS0uXviYQxuqPCV8ozsZLN02a/so6yz0tgVoqaMkRn3eg0tt5F342Hag6XK40ih9AAiMpjuDLkU3EsUYwtq6X+mLJRQ5ZtjkgJg5pGp21JGOPE332ZM6+720fbgUrRj1cPth75ogE39+XXY22SuqC38V6DKW53s5NmV2M1JeZK5fJtGK5Wq0AzCjMw/zoaak/2zkt33bWTQ3nbpGz55yj1yfZUe0VRbPfQS2d2E8XOqMwZ2ez63oZ6xBKyzlA4vGqern9bT2dpjw4Y4S5M2SYSRQV31broyfE+GfJrNAD4PJ3SmtsMhbo6vyTc3qT0W0lY3KL0W78A/xLRBA==
+eNq1mF1v2jAUhu/5FVHuiWGlK0yBamPthtSqrC3atJvKJAcwc+302OZjv35OYBudEnU18Q0SsXnPic/rxwfH55tHHqwAFZOiH7ajVhiASGTKxLwfTu4vm93wfNCIl3RFD6adRa2o3QuDhFOl+mE+Gk2BChV9u776CPb3gOGgEcRyuoREP5tnNOPRZ6oW1zTL5wTxSrI0eAS9kGk/zIwungax0mizGKwl/lAZTSAm+yeHo8uHzuHzmORi/6FqFOAVFfNSURBOmolBBKGHVMNc4rYi3xMnbaZuQUmDCYypXoxRrlgKaWmIGeUKnILM1ukd4IqDzoOUipPkUTlp0yXd3MLTqDzn93Z0qDe62Wq2z3pvWienp53uWafrFAoPVqq8vogSSfEZLVXmWJCxRE25p1IwNXzuJk9xEJ5eLHlNy0WR2mFAu+/9vUz+FvdoScTtuv2jLwzn5JVZT/ac8JRxjqGhNEJX4GJy57oQQyk0bKqr6kY4vdn7kYGqT/anFOV0H5spZ4kryyxuDCg9uR1VoowkD923vZ7FDQFBVLKQnKJasEw5uvwDVTBBf1T4ykQq16p+2hxW1lP2WQHMUlFbhnan2z7pOe+i79ZDFYfLhUGZAbEAYuoYrozETB5LFGvLcqk/pqzVkEWbIxPKoaLRaToSxjrxd1/mzev+9tFuoFT008W9q0e+GMDtXfH1WJskPuhtvVdjirvd7KXZNVhOiYXWmXpHyHq9jgxnMAf7r6Om9uTgvPTXXXs5lHdNyo5/nlKf7k61VxTFdQ+9dGbXUeyUqYzT7b7vralHLCDrDYWji/rp+rf19Jb2+Bkj/IUp2kSqmRS+WhczPd4nI3GJFgA3sxmruM3QaMrzi8nuJmXQiEl+izJo/ALRZtEB
 
-Bx5gTAarUMxg1BRQ
+6xQK4VfvmeJ2J88w
 
-![Image 6](https://www.uliege.be/cms/c_8699355/en/images/jalios/icons/ajax-wait.svg)
+![Image 6](https://www.uliege.be/images/jalios/icons/ajax-wait.svg)

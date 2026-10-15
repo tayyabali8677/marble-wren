@@ -249,7 +249,7 @@ Menu
 *   [My Courses 0](https://www.deakin.edu.au/my-courses)
 *   [Contact us](https://www.deakin.edu.au/contact)
 
-[![Image 1: Deakin University Logo](https://www.deakin.edu.au/__data/assets/git_bridge/0024/3858/dist/images/logo_deakin-rebrand-stacked.png?h=c4565e13c)](https://www.deakin.edu.au/)
+[![Image 1: Deakin University Logo](https://www.deakin.edu.au/__data/assets/git_bridge/0024/3858/dist/images/logo_deakin-rebrand-stacked.png?h=908ea769d)](https://www.deakin.edu.au/)
 
 *   [Study](https://www.deakin.edu.au/study)
 

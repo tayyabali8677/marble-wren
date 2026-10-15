@@ -291,7 +291,15 @@ Back to main menu[International students](https://swinburne.edu.au/international
     *   [Studying abroad in Melbourne](https://www.swinburne.edu.au/courses/planning-your-future/study-abroad-in-melbourne/ "Go to  Page title")
     *   [Find an agent](https://www.swinburne.edu.au/contact-us/find-an-education-agent/ "Go to  Page title")
 
+Start your search here... (currently filtered by All)  Submit search
+
+ Collections allow you to filter results down to a smaller subset. 
+
 [Apply now](https://www.swinburne.edu.au/courses/applying/application-portal)
+
+Start your search here... (currently filtered by All)  Submit search
+
+ Collections allow you to filter results down to a smaller subset. 
 
 [Apply now](https://www.swinburne.edu.au/courses/applying/application-portal)
 
@@ -375,4 +383,4 @@ RTO (TOID) 3059
 
 TEQSA PRV12148 Australian University
 
-![Image 6](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_6badbeeb-18a4-40ea-be84-1fb133445082&first_visited_at=1791997895190&stid=&ipv4=34.34.225.67&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1791997895270)
+![Image 6](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_8f3892b5-54da-41f7-8bcd-6330d0ef0013&first_visited_at=1792035910599&stid=&ipv4=34.96.49.140&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792035910924)

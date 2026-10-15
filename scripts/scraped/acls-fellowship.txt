@@ -4,130 +4,9 @@ Title: Programs Archive
 URL Source: https://www.acls.org/programs/
 
 Markdown Content:
-![Image 1: Revisit consent button](https://www.acls.org/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg)
-
-We value your privacy
-
-We use cookies to enhance your browsing experience, serve personalised ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies. See our [Privacy Policy](https://www.acls.org/privacy-policy/).
-
-Customise Reject All Accept All
-
-Customise Consent Preferences![Image 2](https://www.acls.org/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg)
-
-We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.
-
-The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...Show more
-
-Necessary Always Active
-
-Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.
-
-No cookies to display.
-
-Functional
-
-Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.
-
-No cookies to display.
-
-Analytics
-
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.
-
-No cookies to display.
-
-Performance
-
-Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-
-No cookies to display.
-
-Advertisement
-
-Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.
-
-No cookies to display.
-
- Reject All  Save My Preferences  Accept All 
-
 [Skip to main content](https://www.acls.org/programs/#main)
 
-[![Image 3: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo.svg)](https://www.acls.org/ "Home")[![Image 4: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo-no-text.svg)](https://www.acls.org/ "Home")
-
-Search Search[Apply](https://www.acls.org/online-fellowship-and-grant-administration-ofa-portals/)[Donate](https://give.acls.org/give/420306/#!/donation/checkout)
-
-Menu
-
-Close
-*   [About](https://www.acls.org/about/)Toggle SubNav
-    *   [Our History](https://www.acls.org/our-history/)Toggle SubNav
-        *   [ACLS Leadership](https://www.acls.org/acls-leadership/)
-        *   [ACLS Centennial](https://www.acls.org/acls-centennial/)
-
-    *   [Our Impact](https://www.acls.org/our-impact/)
-    *   [ACLS Strategic Framework](https://www.acls.org/strategic-framework-2025-2030-bold-action-for-growth-and-strength/)
-    *   [Inclusive Excellence](https://www.acls.org/about/inclusive-excellence/)
-    *   [Our Board](https://www.acls.org/about/governance-structure/acls-board-of-directors/)Toggle SubNav
-        *   [Structure & Governance](https://www.acls.org/about/governance-structure/)
-        *   [ACLS Committees](https://www.acls.org/about/governance-structure/acls-committees/)
-
-    *   [Funding](https://www.acls.org/funding/)
-    *   [Staff](https://www.acls.org/staff/)
-    *   [ACLS FAQ](https://www.acls.org/faqs/acls-faq/)
-
-*   [What We Do](https://www.acls.org/what-we-do/)Toggle SubNav
-    *   [Supporting Scholars & Scholarship](https://www.acls.org/what-we-do/supporting-scholars-scholarship/)Toggle SubNav
-        *   [Fellowship & Grant Programs](https://www.acls.org/fellowship-grant-programs/)
-        *   [Amplifying Humanistic Scholarship](https://www.acls.org/amplifying-humanistic-scholarship/)
-        *   [Mellon Mays Undergraduate Fellowship Program](https://www.acls.org/what-we-do/mellon-mays-undergraduate-fellowship-program/)
-        *   [Luce/ACLS China Studies Mapping Project](https://www.acls.org/resources/luce-acls-program-in-china-studies-digital-mapping-project/)
-        *   [Publicly Engaged Religion Mapping Project](https://www.acls.org/publicly-engaged-religion-mapping-project/)
-
-    *   [Connecting Academic Networks](https://www.acls.org/what-we-do/connecting-academic-networks/)Toggle SubNav
-        *   [Our Work with Member Societies](https://www.acls.org/what-we-do/connecting-academic-networks/our-work-with-member-societies/)
-        *   [Our Work with Member Institutions](https://www.acls.org/what-we-do/connecting-academic-networks/work-with-member-institutions/)
-
-    *   [Future of the Academy](https://www.acls.org/what-we-do/future-of-the-academy/)Toggle SubNav
-        *   [Intentional Design for an Equitable Academy](https://www.acls.org/what-we-do/idea/)
-        *   [Doctoral Futures Initiative](https://www.acls.org/doctoral-futures/)
-        *   [Building Blocks for A New Academy](https://www.acls.org/building-blocks-for-a-new-academy/)
-
-    *   [Publications & Discussions](https://www.acls.org/what-we-do/publications-discussions/)Toggle SubNav
-        *   [Commission on Fostering and Sustaining Diverse Digital Scholarship](https://www.acls.org/digital-commission-sustaining-diverse-scholarship/)
-        *   [Publications](https://www.acls.org/acls-resources/?_resource=acls-publications)
-        *   [Talks and Discussions](https://www.acls.org/acls-resources/?_resource=past-event)
-        *   [ACLS Scholar Recommendations](https://www.acls.org/acls-resources/?_resource=scholarly-resource-list)
-
-    *   [Advocacy](https://www.acls.org/what-we-do/advocacy/)Toggle SubNav
-        *   [Get Involved with ACLS](https://www.acls.org/get-involved-with-acls/)
-
-*   [Our Communities](https://www.acls.org/our-communities/)Toggle SubNav
-    *   [Member Societies](https://www.acls.org/acls-member-societies/)
-    *   [Delegates](https://www.acls.org/our-communities/delegates/)
-    *   [Conference of Executive Officers](https://www.acls.org/conference-of-executive-officers/)
-    *   [ACLS Research University Consortium](https://www.acls.org/our-communities/research-consortium/)
-    *   [Associate Members](https://www.acls.org/our-communities/associates/)
-    *   [Affiliate Members](https://www.acls.org/our-communities/affiliates/)
-
-*   [Fellowships & Grants](https://www.acls.org/fellowship-grant-programs/)Toggle SubNav
-    *   [Competition Deadlines](https://www.acls.org/competitions-and-deadlines/)
-    *   [Recent Fellows & Grantees](https://www.acls.org/recent-awardees/)Toggle SubNav
-        *   [All Awardees](https://www.acls.org/fellows-grantees/)
-        *   [Notable Awardees](https://www.acls.org/notable-fellows-and-grantees/)
-
-*   [News & Events](https://www.acls.org/news-events/)Toggle SubNav
-    *   [Events](https://www.acls.org/acls-events/)Toggle SubNav
-        *   [Past Event Videos](https://www.acls.org/acls-resources/?_resource=past-event)
-
-    *   [News](https://www.acls.org/acls-news/)
-    *   [ACLS Annual Meetings](https://www.acls.org/annual-meetings/)
-
-*   [Support ACLS](https://www.acls.org/support/)Toggle SubNav
-    *   [Impact of Giving](https://www.acls.org/impact-of-giving/)
-    *   [1919 Society](https://www.acls.org/1919-society/)
-    *   [Centennial Campaign](https://www.acls.org/centennial-campaign/)
-
-*   [Resource Library](https://www.acls.org/acls-resources/)
+[![Image 1: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo.svg)](https://www.acls.org/ "Home")[![Image 2: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo-no-text.svg)](https://www.acls.org/ "Home")
 
 Search Search[Apply](https://www.acls.org/online-fellowship-and-grant-administration-ofa-portals/)[Donate](https://give.acls.org/give/420306/#!/donation/checkout)
 
@@ -201,11 +80,9 @@ Search Search[Apply](https://www.acls.org/online-fellowship-and-grant-administra
 
 *   [Resource Library](https://www.acls.org/acls-resources/)
 
-Explore More Explore More
-
 ## Sorry, no results found.
 
-[![Image 5: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo-no-text.svg)](https://www.acls.org/ "Home")
+[![Image 3: Home](https://www.acls.org/wp-content/themes/gesso/images/ACLS-header-logo-no-text.svg)](https://www.acls.org/ "Home")
 
 Formed in 1919, ACLS is a nonprofit federation of 86 scholarly organizations. As the preeminent representative of American scholarship in the humanities and social sciences, ACLS holds a core belief that knowledge is a public good.
 

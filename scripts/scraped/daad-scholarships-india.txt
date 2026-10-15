@@ -230,7 +230,7 @@ Fristenende:02.11.2026 Programm für:Promovierte
 
 ### Entwicklungszusammenarbeit
 
-![Image 27: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+![Image 27: Ein Studentin erklärt einem Studenten mit einem Notebook etwas](https://api.daad.de/api/image/tea_sm/media/daad_de/der-daad/was-wir-tun/die-deutsche-sprache-foerdern/istock-869637890972x547.jpg.webp)
 
 ©
 
@@ -240,7 +240,7 @@ Auf vielfältige Weise und mit einem differenzierten Angebot an Stipendien engag
 
 ### Die deutsche Sprache fördern
 
-![Image 28: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+![Image 28: Collage mehrere Bilder](https://api.daad.de/api/image/tea_sm/media/daad_de/der-daad/was-wir-tun/die-deutsche-sprache-foerdern/aufgaben-ziele/daad_germanistik_grimmpreis_artikel_972x547.jpg.webp)
 
 ©
 
@@ -250,7 +250,7 @@ Es gibt viele Gründe, die deutsche Sprache zu lernen und zu studieren. Der DAAD
 
 ### Marketing: Beratung & Service
 
-![Image 29: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+![Image 29: Leute auf einer Informationsveranstaltung](https://api.daad.de/api/image/tea_sm/media/daad_de/infos-services-fuer-hochschulen/marketing-beratung-service/foma_ncje2014_dorl_972x547.jpg.webp)
 
 ©
 

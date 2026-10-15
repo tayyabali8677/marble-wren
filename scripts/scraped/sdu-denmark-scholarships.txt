@@ -1277,72 +1277,60 @@ These cookies make it possible to use basic website functionality, e.g. navigati
 Cookie report
 | Name | Provider / Domæne | Udløb | Description |
 | --- | --- | --- | --- |
-| WFESessionId | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement) app.powerbi.com | Session | Denne cookie bruges til at holde styr på en brugers session og sikre, at anmodninger inden for sessionen bliver dirigeret til det samme system for en konsekvent brugeroplevelse. |
-| __cf_bm | [Cloudflare Inc.](https://www.cloudflare.com/privacypolicy) .vimeo.com | 29 minutes 58 seconds | Denne cookie bruges til at skelne mellem mennesker og bots. Dette er gavnligt for hjemmesiden for at lave gyldige rapporter om brugen af deres hjemmeside. |
-| ARRAffinitySameSite | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) .sdu.dk | Session | When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that requests from one visitor browsing session are always handled by the same server in the cluster. |
-| __RequestVerificationToken | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) www.sdu.dk | Session | Dette er en anti-forfalskning cookie indstillet af webapplikationer bygget med ASP.NET MVC teknologier. Det er designet til at stoppe uautoriseret udstationering af indhold til et websted, kendt som forfalskning på tværs af websteder. Det indeholder ingen oplysninger om brugeren og ødelægges, når browseren lukkes. |
-| __cf_bm | [Cloudflare Inc.](https://www.cloudflare.com/privacypolicy) .twitter.com | 29 minutes 57 seconds | Denne cookie bruges til at skelne mellem mennesker og bots. Dette er gavnligt for hjemmesiden for at lave gyldige rapporter om brugen af deres hjemmeside. |
-| ApplicationGatewayAffinityCORS | sdu.dk | Session | Denne cookie bruges sammen med belastningsbalancering, for at sikre, at klientanmodninger er rettet til den samme server for enhver browsing session, øge brugeroplevelsen ved at fremme effektiv ressource brug. CORS (Cross-Origin Resource Sharing) version understøtter håndtering af anmodninger på tværs af forskellige domæner. |
-| CookieScriptConsent | [CookieScript](https://cookie-script.com/privacy-policy.html) www.sdu.dk | 11 months 3 weeks | This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences. It is necessary for Cookie-Script.com cookie banner to work properly. |
-| ARRAffinity | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) .sdu.dk | Session | This cookie is set by websites run on the Windows Azure cloud platform. It is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session. |
-| VISITOR_PRIVACY_METADATA | [YouTube](https://policies.google.com/privacy) .youtube.com | 5 months 4 weeks | Denne cookie bruges til at gemme brugerens samtykke og privatlivsvalg for deres interaktion med webstedet. Det registrerer data på den besøgendes samtykke om forskellige politikker for beskyttelse af personlige oplysninger og indstillinger, så deres præferencer bliver hædret i fremtidige sessioner. |
-| ARRAffinitySameSite | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) .app.powerbi.com | Session | Når du bruger Microsoft Azure som en hostingplatform og muliggør belastningsafbalancering, sikrer denne cookie, at anmodninger fra en besøgende browsersession altid håndteres af den samme server i klyngen. |
-| website#lang | [Sitecore Holding II A/S](https://www.sitecore.com/trust/privacy-policy) www.sdu.dk | Session | This is most likely to be a cookie that stores a preferred language setting to enable localisation functionality in a site. |
-| ASP.NET_SessionId | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) www.sdu.dk | Session | General purpose platform session cookie, used by sites written with Microsoft .NET based technologies. Usually used to maintain an anonymised user session by the server. |
 | nmstat | [Siteimprove A/S](https://siteimprove.com/en/privacy/privacy-policy/) .sdu.dk | 1 year 1 month | This cookie is set by SiteImprove. It registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator. |
+| __RequestVerificationToken | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) www.sdu.dk | Session | Dette er en anti-forfalskning cookie indstillet af webapplikationer bygget med ASP.NET MVC teknologier. Det er designet til at stoppe uautoriseret udstationering af indhold til et websted, kendt som forfalskning på tværs af websteder. Det indeholder ingen oplysninger om brugeren og ødelægges, når browseren lukkes. |
+| ARRAffinity | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) .sdu.dk | Session | This cookie is set by websites run on the Windows Azure cloud platform. It is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session. |
+| ARRAffinitySameSite | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) .sdu.dk | Session | When using Microsoft Azure as a hosting platform and enabling load balancing, this cookie ensures that requests from one visitor browsing session are always handled by the same server in the cluster. |
+| CookieScriptConsent | [CookieScript](https://cookie-script.com/privacy-policy.html) www.sdu.dk | 11 months 3 weeks | This cookie is used by Cookie-Script.com service to remember visitor cookie consent preferences. It is necessary for Cookie-Script.com cookie banner to work properly. |
+| VISITOR_PRIVACY_METADATA | [YouTube](https://policies.google.com/privacy) .youtube.com | 5 months 4 weeks | Denne cookie bruges til at gemme brugerens samtykke og privatlivsvalg for deres interaktion med webstedet. Det registrerer data på den besøgendes samtykke om forskellige politikker for beskyttelse af personlige oplysninger og indstillinger, så deres præferencer bliver hædret i fremtidige sessioner. |
+| __cf_bm | [Cloudflare Inc.](https://www.cloudflare.com/privacypolicy) .vimeo.com | 29 minutes 59 seconds | Denne cookie bruges til at skelne mellem mennesker og bots. Dette er gavnligt for hjemmesiden for at lave gyldige rapporter om brugen af deres hjemmeside. |
+| website#lang | [Sitecore Holding II A/S](https://www.sitecore.com/trust/privacy-policy) www.sdu.dk | Session | This is most likely to be a cookie that stores a preferred language setting to enable localisation functionality in a site. |
 | ApplicationGatewayAffinity | sdu.dk | Session | Denne cookie bruges til at opretholde brugersession affinitet, og sikre, at en brugers anmodninger inden for en session sendes til den samme server for konsekvent interaktion med webapplikationen. |
+| ApplicationGatewayAffinityCORS | sdu.dk | Session | Denne cookie bruges sammen med belastningsbalancering, for at sikre, at klientanmodninger er rettet til den samme server for enhver browsing session, øge brugeroplevelsen ved at fremme effektiv ressource brug. CORS (Cross-Origin Resource Sharing) version understøtter håndtering af anmodninger på tværs af forskellige domæner. |
+| ASP.NET_SessionId | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) www.sdu.dk | Session | General purpose platform session cookie, used by sites written with Microsoft .NET based technologies. Usually used to maintain an anonymised user session by the server. |
 
 Third-party statistics cookies provide the university with anonymised data on how the user interacts with the website. For example, information about how often the user visits the website, and which pages the user visits.
 
 Cookie report
 | Name | Provider / Domæne | Udløb | Description |
 | --- | --- | --- | --- |
-| _ga_Z6LB1V9XDR | .sdu.dk | 1 year 1 month | Denne cookie bruges af Google Analytics til at fortsætte sessionstilstanden. |
-| _ga_260071200 | .sdu.dk | 1 year 1 month | Denne cookie bruges af Google Analytics til at fortsætte sessionstilstanden. |
-| _dc_gtm_UA-5108699-1 | .sdu.dk | 58 seconds | Denne cookie indstilles af Google Analytics. Den gemmer og opdaterer en unik værdi for hver besøgte side og bruges til at tælle og spore sidevisninger. |
-| ai_session | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) app.powerbi.com | 29 minutes 58 seconds | Dette cookienavn er knyttet til Microsoft Application Insights-softwaren, der indsamler statisk brugs- og telemetriinformation til apps bygget på Azure cloud-platformen. Dette er en unik anonym sessionidentifikationscookie. |
 | SC_ANALYTICS_GLOBAL_COOKIE | [Sitecore Holding II A/S](https://www.sitecore.com/trust/privacy-policy) www.sdu.dk | 1 year 1 month | Dette cookienavn er knyttet til Sitecore Content Management System, som det bruges til webanalyse til at identificere gentagne besøg af unikke brugere. |
-| GUID | .tradedoubler.com | 1 year | Denne cookie bruges typisk til sporing og analyseformål, unikt identificerer en besøgendes enhed eller browsersession med henblik på optimering af brugeroplevelser eller indsamling af statistiske data. |
-| ai_user | [Microsoft Corporation](https://privacy.microsoft.com/privacystatement) app.powerbi.com | 1 year | Dette cookienavn er knyttet til Microsoft Application Insights-softwaren, der indsamler statisk brugs- og telemetriinformation til apps bygget på Azure cloud-platformen. Dette er en unik cookie, der gør det muligt at tælle antallet af brugere, der får adgang til applikationen over tid. |
 | _ga | [Google LLC](https://policies.google.com/privacy) .sdu.dk | 1 year 1 month | This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports. |
+| _dc_gtm_UA-5108699-1 | .sdu.dk | 57 seconds | Denne cookie indstilles af Google Analytics. Den gemmer og opdaterer en unik værdi for hver besøgte side og bruges til at tælle og spore sidevisninger. |
 | _gid | [Google LLC](https://policies.google.com/privacy) .sdu.dk | 1 day | This cookie is set by Google Analytics. It stores and update a unique value for each page visited and is used to count and track pageviews. |
+| _ga_260071200 | .sdu.dk | 1 year 1 month | Denne cookie bruges af Google Analytics til at fortsætte sessionstilstanden. |
+| _ga_Z6LB1V9XDR | .sdu.dk | 1 year 1 month | Denne cookie bruges af Google Analytics til at fortsætte sessionstilstanden. |
 
 These cookies make it possible for the university to target advertising on our websites and social media, so you will see the content that is most relevant for you.
 
 Cookie report
 | Name | Provider / Domæne | Udløb | Description |
 | --- | --- | --- | --- |
-| YSC | [Google LLC](https://policies.google.com/privacy) .youtube.com | Session | Denne cookie indstilles af YouTube til at spore visninger af indlejrede videoer. |
-| test_cookie | [Google LLC](https://policies.google.com/privacy) .doubleclick.net | 15 minutes | This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies. |
 | IDE | [Google LLC](https://policies.google.com/privacy) .doubleclick.net | 1 year | This cookie is set by Doubleclick and carries out information about how the end user uses the website and any advertising that the end user may have seen before visiting the said website. |
-| uuid | [MediaMath Inc.](https://www.mediamath.com/privacy-policy/) www.sdu.dk | 1 year | Denne cookie bruges til at optimere annoncerelevans ved at indsamle besøgsdata fra flere websteder - denne udveksling af besøgsdata leveres normalt af et tredjepartsdatacenter eller annonceudveksling. |
+| _fbp | [Meta Platform Inc.](https://www.facebook.com/policy.php) .sdu.dk | 2 months 4 weeks | Used by Meta to deliver a series of advertisement products such as real time bidding from third party advertisers |
 | VISITOR_INFO1_LIVE | [Google LLC](https://policies.google.com/privacy) .youtube.com | 5 months 4 weeks | Denne cookie indstilles af Youtube for at holde styr på brugerpræferencer for Youtube-videoer, der er indlejret i websteder; den kan også afgøre, om webstedsbesøgende bruger den nye eller gamle version af Youtube-grænsefladen. |
 | _gcl_au | [Google LLC](https://policies.google.com/privacy) .sdu.dk | 2 months 4 weeks | Denne cookie er indstillet af Doubleclick og udfører oplysninger om, hvordan slutbrugeren bruger hjemmesiden og enhver reklame, som slutbrugeren måtte have set før han besøgte det nævnte websted. |
-| _fbp | [Meta Platform Inc.](https://www.facebook.com/policy.php) .sdu.dk | 2 months 4 weeks | Used by Meta to deliver a series of advertisement products such as real time bidding from third party advertisers |
+| uuid | [MediaMath Inc.](https://www.mediamath.com/privacy-policy/) www.sdu.dk | 1 year | Denne cookie bruges til at optimere annoncerelevans ved at indsamle besøgsdata fra flere websteder - denne udveksling af besøgsdata leveres normalt af et tredjepartsdatacenter eller annonceudveksling. |
+| YSC | [Google LLC](https://policies.google.com/privacy) .youtube.com | Session | Denne cookie indstilles af YouTube til at spore visninger af indlejrede videoer. |
+| test_cookie | [Google LLC](https://policies.google.com/privacy) .doubleclick.net | 15 minutes | This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies. |
 
 These cookies store information about the user’s choices on the website such as language or login.
-
-Cookie report
-| Name | Provider / Domæne | Udløb | Description |
-| --- | --- | --- | --- |
-| _cfuvid | .vimeo.com | Session | Denne cookie bruges til brug for sporing af brugere på tværs af sessioner for at optimere brugeroplevelse ved at opretholde session konsistens og give personlige tjenester. |
-| _cfuvid | .challenges.cloudflare.com | Session | Denne cookie bruges til brug for sporing af brugere på tværs af sessioner for at optimere brugeroplevelse ved at opretholde session konsistens og give personlige tjenester. |
 
 Ikke-klassificerede cookies er cookies, der ikke hører til nogen anden kategori eller at vi i færd med at kategorisere dem.
 
 Cookie report
 | Name | Provider / Domæne | Udløb | Description |
 | --- | --- | --- | --- |
-| heimdal_ff123 | webcomponents.sdu.dk | Session |  |
-| TS01514c5e | webcomponents.sdu.dk | Session |  |
-| flash#lang | www.sdu.dk | Session |  |
-| __Secure-YNID | .youtube.com | 5 months 4 weeks |  |
-| adiposign#lang | www.sdu.dk | Session |  |
-| atlas#lang | www.sdu.dk | Session |  |
-| shell#lang | www.sdu.dk | Session | Denne cookie, gemmer en foretrukken sprogindstilling for at muliggøre lokaliseringsfunktionalitet på et websted. |
-| sif#lang | www.sdu.dk | Session |  |
 | __Secure-ROLLOUT_TOKEN | .youtube.com | 5 months 4 weeks |  |
+| heimdal_ff123 | webcomponents.sdu.dk | Session |  |
+| TSa7723836027 | webcomponents.sdu.dk | Session |  |
+| adiposign#lang | www.sdu.dk | Session |  |
 | delt#lang | www.sdu.dk | Session |  |
+| TS01514c5e | webcomponents.sdu.dk | Session |  |
+| __Secure-YNID | .youtube.com | 5 months 4 weeks |  |
+| atlas#lang | www.sdu.dk | Session |  |
+| sif#lang | www.sdu.dk | Session |  |
+| shell#lang | www.sdu.dk | Session | Denne cookie, gemmer en foretrukken sprogindstilling for at muliggøre lokaliseringsfunktionalitet på et websted. |
 
 A cookie is a text file, that is stored on your computer, mobile or similar device. When visiting our website it is sent forth and back between your browser and a web server. It is used by SDU or a third party, which is described more specific under the cookie descriptions at the bottom of this page. Cookies cannot contain malicious code such as virus.  
   
@@ -1352,4 +1340,4 @@ We also use cookies to collect data for the purpose of personalizing and measuri
 
 Cookies consent ID: 
 
-Cookie [report](https://cookie-script.com/cookie-report?identifier=106296a2465a964bf17eda36d93bae0e) created by [CookieScript](https://cookie-script.com/ "CookieScript Consent Management Platform")
+Cookie [report](https://cookie-script.com/cookie-report?identifier=8152da6490034378248d08aa2e83c856) created by [CookieScript](https://cookie-script.com/ "CookieScript Consent Management Platform")

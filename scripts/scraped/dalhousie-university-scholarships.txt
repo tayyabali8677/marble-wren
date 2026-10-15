@@ -3,6 +3,8 @@ Title: Oops! Page not found!
 
 URL Source: https://www.dal.ca/admissions/money_matters/scholarships_awards.html
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 *   [Support Dal](https://alumniapps2.dal.ca/giving/index)
 *   [Current Students](https://www.dal.ca/information-current-students.html)
@@ -100,7 +102,3 @@ Halifax, Nova Scotia, Canada B3H 4R2
 [](https://www.dal.ca/contact_us.html "Contact us")
 
 [](https://www.dal.ca/contact_us.html "Contact us")
-
-## Search Dal.ca
-
-![Image 13](https://bat.bing.com/action/0?ti=187017885&Ver=2&mid=29dd637d-b398-40d1-a657-975f43980f2d&bo=1&sid=695dd000c7f211f19eed375f6a88fbab&vid=695dc160c7f211f19ebd77a2a0ca1302&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Oops!%20Page%20not%20found!%20-%20Dalhousie%20University&p=https%3A%2F%2Fwww.dal.ca%2Fadmissions%2Fmoney_matters%2Fscholarships_awards.html&r=&lt=306&evt=pageLoad&sv=2&cdb=AQAQ&rn=630271)

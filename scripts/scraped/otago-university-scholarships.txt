@@ -4,6 +4,14 @@ Title: Scholarships Database
 URL Source: https://www.otago.ac.nz/scholarships/
 
 Markdown Content:
+Skip to main content Enable accessibility for low vision Open the accessibility menu
+
+![Image 1: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
+![Image 2](https://cdn.userway.org/widgetapp/images/body_wh.svg)
+
+![Image 3: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
 [Skip to main content](https://www.otago.ac.nz/scholarships/#main)[Skip to side navigation](https://www.otago.ac.nz/scholarships/#aside-nav)
 
 *   [Current students](https://aonui.otago.ac.nz/)
@@ -12,7 +20,7 @@ Markdown Content:
 *   [Library](https://www.otago.ac.nz/library)
 *   [Contact](https://www.otago.ac.nz/contacts)
 
-[![Image 1](https://www.otago.ac.nz/__data/assets/file/0034/568366/UoO_Logo_RGB_Horz_Gold-REV.svg) Home](https://www.otago.ac.nz/)
+[![Image 4](https://www.otago.ac.nz/__data/assets/file/0034/568366/UoO_Logo_RGB_Horz_Gold-REV.svg) Home](https://www.otago.ac.nz/)
 
 *    Toggle submenu  Ngā tauira o āpōpō  Future Students 
     *    Return to previous menu  Ngā tauira o āpōpō  Future Students 
@@ -539,9 +547,7 @@ In this section
     *   [External Scholarships](https://www.otago.ac.nz/study/postgraduate-study/scholarships/external)
     *   [Frequently Asked Questions](https://www.otago.ac.nz/study/postgraduate-study/scholarships/faq)
 
-## Fund your study with a scholarship, so that you can focus on what matters
-
-### Gain the financial support you need to achieve academic success
+Explore scholarships to help fund your study at the University of Otago. Search opportunities for undergraduate and postgraduate study, and available funding for research, conference and travel grants. Gain the financial support you need to achieve academic success.
 
 There are in excess of NZ$18 million worth of scholarships available for students wanting to study at the University of Otago – and for Otago students wishing to study at other institutions around the world.
 
@@ -585,7 +591,7 @@ Funding to help with research costs including fieldwork and conference attendanc
 
 ## [Scholarships for External Overseas Study](https://search.otago.ac.nz/s/search.html?f.Scholarship+type%7CscholarshipType=Overseasstudy&profile=subs-and-quals-search&query=&f.Tabs%7Cuoot-prod%7Eds-university-of-otago-scholarships=Scholarships&collection=uoot-prod%7Esp-course-search)
 
-External scholarships to allow current Otago students to continue their study at prestigious overseas Universities
+External scholarships to allow current Otago students to continue their study at prestigious overseas Universities.
 
 ### Was this page useful?
 
@@ -617,7 +623,7 @@ Thanks, we appreciate your feedback
 
 [AskOtago](https://ask.otago.ac.nz/)
 
-![Image 2: %globals_asset_attribute_alt:568108](https://www.otago.ac.nz/__data/assets/image/0028/568108/1869-emblem.png)
+![Image 5: %globals_asset_attribute_alt:568108](https://www.otago.ac.nz/__data/assets/image/0028/568108/1869-emblem.png)
 *   [Future Students](https://www.otago.ac.nz/future-students)
     *   [Subjects](https://www.otago.ac.nz/subjects)
     *   [Fees and scholarships](https://www.otago.ac.nz/future-students/fees-and-scholarships)
@@ -669,7 +675,7 @@ Thanks, we appreciate your feedback
     *   [Phonebook search](https://www.otago.ac.nz/contacts/search)
     *   [Expertise database](https://www.otago.ac.nz/research/expertise)
 
-[![Image 3: Matariki Network logo](https://www.otago.ac.nz/__data/assets/image/0029/568136/matariki-logo-white.png)Link for Matariki Network logo](https://www.matarikinetwork.org/)[![Image 4: QS Overall 5 Stars Plus Rated Outstanding](https://www.otago.ac.nz/__data/assets/image/0015/2814/QS-Overall-5-Stars-Plus.png)Link for QS Overall 5 Stars Plus Rated Outstanding](https://www.topuniversities.com/universities/university-otago)[LinkedIn](https://www.linkedin.com/school/university-of-otago/ "LinkedIn")[Facebook](https://www.facebook.com/otagouniversity "Facebook")[Instagram](https://instagram.com/universityofotago "Instagram")[YouTube](https://www.youtube.com/OtagoUniversity "YouTube")
+[![Image 6: Matariki Network logo](https://www.otago.ac.nz/__data/assets/image/0029/568136/matariki-logo-white.png)Link for Matariki Network logo](https://www.matarikinetwork.org/)[![Image 7: QS Overall 5 Stars Plus Rated Outstanding](https://www.otago.ac.nz/__data/assets/image/0015/2814/QS-Overall-5-Stars-Plus.png)Link for QS Overall 5 Stars Plus Rated Outstanding](https://www.topuniversities.com/universities/university-otago)[LinkedIn](https://www.linkedin.com/school/university-of-otago/ "LinkedIn")[Facebook](https://www.facebook.com/otagouniversity "Facebook")[Instagram](https://instagram.com/universityofotago "Instagram")[YouTube](https://www.youtube.com/OtagoUniversity "YouTube")
 
 *   [Contact Otago](https://www.otago.ac.nz/contacts)
 *   [Search](https://search.otago.ac.nz/s/search.html?query=&collection=uoot-prod%7Esp-otago-search)
