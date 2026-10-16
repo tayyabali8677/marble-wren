@@ -3,18 +3,12 @@ Title: Page not found (404) | University of Helsinki
 
 URL Source: https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs
 
+Published Time: Fri, 16 Oct 2026 03:35:04 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 [Skip to main content](https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs#main-content)
-
-Home[Home](https://www.helsinki.fi/en)
-
-Close
-
-[Support us](https://www.helsinki.fi/en/innovations-and-cooperation/support-us)
-
-[University of Helsinki](https://www.helsinki.fi/en)
 
 *   News
 
@@ -117,6 +111,10 @@ Close menu
 
 Close menu
 
+Home[Home](https://www.helsinki.fi/en)
+
+Close
+
 [Support us](https://www.helsinki.fi/en/innovations-and-cooperation/support-us)
 
 [](https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs)
@@ -128,33 +126,19 @@ Close menu
 
 Sorry, but the page cannot be found. The page may have been moved or deleted.
 
-You can try looking for the page with our search function or go to the [front page](https://www.helsinki.fi/en) of the University of Helsinki website. You can also try our [degree and course finder](https://www.helsinki.fi/en/admissions-and-education/search-programmes-and-courses) or [people finder](https://www.helsinki.fi/en/about-us/people/people-finder).
+You can try looking for the page with our search function or go to the  of the University of Helsinki website. You can also try our  or .
 
 #### Maybe these links could help you?
 
-[News](https://www.helsinki.fi/en/news)
+If you want, you can also give us.
 
-[Admissions and education](https://www.helsinki.fi/en/admissions-and-education)
-
-[Research](https://www.helsinki.fi/en/research)
-
-[Innovations and cooperation](https://www.helsinki.fi/en/innovations-and-cooperation)
-
-[About us](https://www.helsinki.fi/en/about-us)
-
-[Faculties and units](https://www.helsinki.fi/en/faculties-and-units)
-
-If you want, you can also give us[feedback](https://www.helsinki.fi/en/give-feedback).
-
-![Image 1](https://www.helsinki.fi/assets/drupal/styles/16_10_fallback/s3/media-image/404hy.jpg.jpeg?itok=2yFB-fQ7)
+![Image 2](https://www.helsinki.fi/assets/drupal/styles/16_10_fallback/s3/media-image/404hy.jpg.jpeg?itok=2yFB-fQ7)
 
 Up 
 
 ## Campuses
 
 The University operates on four campuses in Helsinki and in ten other locations.
-
-[See all](https://www.helsinki.fi/en/faculties-and-units)
 
 ### [City Centre Campus](https://www.helsinki.fi/en/about-us/visit-us/campuses/city-centre-campus)
 

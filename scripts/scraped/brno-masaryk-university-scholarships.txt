@@ -60,10 +60,10 @@ Research at MU
     *   [Our equipment](https://www.muni.cz/en/research/our-equipment)
     *   [MU International Scientific Advisory Board](https://www.muni.cz/en/research/isab)
 
-[Publications and Projects](https://www.muni.cz/en/research/publications/1164043,1713025518)
+[Publications and Projects](https://www.muni.cz/en/research/publications)
 
-    *   [Publications](https://www.muni.cz/en/research/publications/1164043,1713025518)
-    *   [Projects](https://www.muni.cz/en/research/projects/1164043,1713025518)
+    *   [Publications](https://www.muni.cz/en/research/publications)
+    *   [Projects](https://www.muni.cz/en/research/projects)
     *   [Munipress publisher](https://www.press.muni.cz/en/)
 
 Academic qualifications
@@ -88,7 +88,7 @@ About us
 Contacts
 
     *   [Contacts](https://www.muni.cz/en/directories)
-    *   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/1164043,1713025518)
+    *   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/organizational-structure-of-economic-unit)
     *   [MU official bodies](https://www.muni.cz/en/about-us/organizational-structure#organy)
     *   [MU Map](https://www.muni.cz/en/map)
 
@@ -152,10 +152,10 @@ Research at MU
     *   [Our equipment](https://www.muni.cz/en/research/our-equipment)
     *   [MU International Scientific Advisory Board](https://www.muni.cz/en/research/isab)
 
-[Publications and Projects](https://www.muni.cz/en/research/publications/1164043,1713025518)
+[Publications and Projects](https://www.muni.cz/en/research/publications)
 
-    *   [Publications](https://www.muni.cz/en/research/publications/1164043,1713025518)
-    *   [Projects](https://www.muni.cz/en/research/projects/1164043,1713025518)
+    *   [Publications](https://www.muni.cz/en/research/publications)
+    *   [Projects](https://www.muni.cz/en/research/projects)
     *   [Munipress publisher](https://www.press.muni.cz/en/)
 
 Academic qualifications
@@ -180,7 +180,7 @@ About us
 Contacts
 
     *   [Contacts](https://www.muni.cz/en/directories)
-    *   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/1164043,1713025518)
+    *   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/organizational-structure-of-economic-unit)
     *   [MU official bodies](https://www.muni.cz/en/about-us/organizational-structure#organy)
     *   [MU Map](https://www.muni.cz/en/map)
 
@@ -232,8 +232,8 @@ Our mission
 *   [Research achievements](https://www.muni.cz/en/research/research-achievements "Research achievements")
 *   [Research topics](https://www.muni.cz/en/research/research-topics "Research topics")
 *   [Our equipment](https://www.muni.cz/en/research/our-equipment "Our equipment")
-*   [Publications](https://www.muni.cz/en/research/publications/1164043,1713025518 "Publications")
-*   [Projects](https://www.muni.cz/en/research/projects/1164043,1713025518 "Projects")
+*   [Publications](https://www.muni.cz/en/research/publications "Publications")
+*   [Projects](https://www.muni.cz/en/research/projects "Projects")
 *   [Habilitation procedure at MU](https://www.muni.cz/en/research/academic-affairs/habilitacni-rizeni-na-mu "Habilitation procedure at MU")
 *   [Professorship procedure at MU](https://www.muni.cz/en/research/academic-affairs/rizeni-ke-jmenovani-profesorem-na-mu "Professorship procedure at MU")
 
@@ -252,7 +252,7 @@ Our mission
 [](https://www.muni.cz/en/about-us/academic-staff/scholarships# "Show submenu")
 
 *   [Directories](https://www.muni.cz/en/directories "Directories")
-*   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/1164043,1713025518 "Organizational structure")
+*   [Organizational structure](https://www.muni.cz/en/about-us/organizational-structure/organizational-structure-of-economic-unit "Organizational structure")
 *   [MU Official bodies](https://www.muni.cz/en/about-us/organizational-structure "MU Official bodies")
 *   [Libraries and publications](https://libraries.muni.cz/ "Libraries and publications")
 *   [Contact and orientation](https://www.muni.cz/en/map "Contact and orientation")

@@ -10,14 +10,14 @@ Markdown Content:
 
 [Stanford University](https://www.stanford.edu/)
 
-[Stanford Graduate Diversity](https://graddiversity.stanford.edu/)
+[Stanford Graduate Staff Council](https://graddiversity.stanford.edu/)
 
 Search this site Submit Search
 
 Menu
 *   [Home](https://graddiversity.stanford.edu/)
-*   [Graduate Fee Waivers](https://graddiversity.stanford.edu/gre-fee-reduction-certificate-program-waiver)
 *   [Prospective Students](https://graddiversity.stanford.edu/prospective-students)
+*   [Graduate Fee Waivers](https://graddiversity.stanford.edu/gre-fee-reduction-certificate-program-waiver)
 *   [GRAD Day](https://graddiversity.stanford.edu/graduate-recruitment-and-diversity-day-grad-day-kick-off)
 
 # Stanford University
@@ -30,7 +30,7 @@ Main content start
 
  Back to Top 
 
-[Stanford Graduate Diversity](https://graddiversity.stanford.edu/)
+[Stanford Graduate Staff Council](https://graddiversity.stanford.edu/)
 
 [Web Login](https://graddiversity.stanford.edu/saml/login?destination=/)
 

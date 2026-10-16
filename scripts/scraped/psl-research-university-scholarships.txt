@@ -3,10 +3,7 @@ Title: 404 | PSL
 
 URL Source: https://psl.eu/en/education/study-psl/scholarships
 
-Published Time: Thu, 15 Oct 2026 16:49:35 GMT
-
 Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ## Vos paramètres de cookies

@@ -261,7 +261,7 @@ LinkedIn
 
 [](https://www.linkedin.com/legal/privacy-policy)
 
-*   li_gc Used to store guest consent to the use of cookies for non-essential purposes 2 years 
+*   li_gc Used to store guest consent to the use of cookies for non-essential purposes 6 months 
 
 Cloudflare
 
@@ -287,7 +287,7 @@ Google
 
 [](https://business.safety.google/privacy/)
 
-*   __Secure-ENID Used by Google to prevent fraudulent login attempts. This also contains a Google user ID which can be used for statistics and marketing purposes following a successful login 11 months 
+*   __Secure-ENID Used by Google to prevent fraudulent login attempts. This also contains a Google user ID which can be used for statistics and marketing purposes following a successful login 13 months 
 
 Erasmus University Rotterdam
 

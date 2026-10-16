@@ -134,16 +134,16 @@ What is a STEM degree?
 Guide to the PGCE
 What are you searching for?
 Find your scholarship now
-2,268 scholarships available
+2,269 scholarships available
 Popular subjects
 Economics
 23
 scholarships
 Human Resources Management
-10
+11
 scholarships
 Law
-88
+87
 scholarships
 Medical Sciences
 22
@@ -395,7 +395,7 @@ PG certificates are a perfect stepping stone to a Masters degree as you’ll not
 Similar articles and videos
 How to become a speech and language therapist
 05 th June 2023
-867 views
+870 views
 How to become a paramedic
 05 th June 2023
 528 views
@@ -625,7 +625,7 @@ PG certificates are a perfect stepping stone to a Masters degree as you’ll not
 Similar articles and videos
 How to become a speech and language therapist
 05 th June 2023
-867 views
+870 views
 How to become a paramedic
 05 th June 2023
 528 views
@@ -853,7 +853,7 @@ Best Universities for Business Studies
 989 views
 Best Universities for Aeronautical and Aerospace Engineering
 15 th June 2023
-816 views
+818 views
 Best Universities for Chemistry
 15 th June 2023
 679 views
@@ -1072,7 +1072,7 @@ Best Universities for Business Studies
 989 views
 Best Universities for Aeronautical and Aerospace Engineering
 15 th June 2023
-816 views
+818 views
 Best Universities for Chemistry
 15 th June 2023
 679 views
@@ -1568,31 +1568,8 @@ Clear Show all 151 results
 Funding
 Scholarships
 Law
-Postgraduate International Achievement Scholarship
-Liverpool John Moores University
-Award criteria:
-Academic excellence
-Funding amount:
-£3,500
-Deadline:
-Not specified
-Request info Visit website
-Postgraduate Regional Scholarship
-Liverpool John Moores University
-Award criteria:
-Mature students
-Funding amount:
-£4,000
-Deadline:
-Not specified
-Request info Visit website
-Early Bird Tuition Fee Discount Business, Law and Public Health Students
-Liverpool John Moores University
-Award criteria:
-Mature students
-Deadline:
-Not specified
-Request info Visit website
+Filter ( 0 )
+Reset
 Rice-Jones Charitable Trust Postgraduate Law Scholarship
 University of Lancashire
 Award criteria:
@@ -1600,6 +1577,12 @@ Academic excellence, Income related
 Deadline:
 Not specified
 Request info Visit website
+Scholarship FAQs
+What is a scholarship?
+Where do scholarships come from?
+What are scholarships awarded for?
+Can you have multiple scholarships?
+Do you have to pay scholarships back?
 Southampton Law Postgraduate International Scholarship
 University of Southampton
 Award criteria:
@@ -1618,6 +1601,33 @@ Funding amount:
 Deadline:
 Not specified
 Request info Visit website
+Vice-Chancellor&#x27;s Scholarship
+Bristol, UWE
+Award criteria:
+Mature students
+Funding amount:
+50% of fees
+Deadline:
+Not specified
+Request info Visit website
+UWE Cares PG Bursary
+Bristol, UWE
+Award criteria:
+Mature students
+Funding amount:
+50% of fees
+Deadline:
+Not specified
+Request info Visit website
+Postgraduate International Achievement Scholarship
+Liverpool John Moores University
+Award criteria:
+Academic excellence
+Funding amount:
+£3,500
+Deadline:
+Not specified
+Request info Visit website
 1
 2
 3
@@ -1625,13 +1635,5 @@ Request info Visit website
 5
 ...
 26
-Scholarship FAQs
-Filter ( 0 )
-Reset
-What is a scholarship?
-Where do scholarships come from?
-What are scholarships awarded for?
-Can you have multiple scholarships?
-Do you have to pay scholarships back?
 Postgraduate Law Scholarships
 Here are 151 Law scholarships that match your criteria. Scroll through to find the funding options that are right for you. Click on a scholarship to find out more.

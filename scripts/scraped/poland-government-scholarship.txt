@@ -924,37 +924,39 @@ Szczegółowe informacje, aktualne wymagania oraz zasady składania wniosków zn
 16
 Lip
 2026
-Stypendium im. Johna Kluge’a w dziedzinie digital studies 2026/27
-16.07.2026 - 15.10.2026
-Kluge Fellowships in Digital Studies to rezydencyjne stypendium badawcze John W. Kluge Center przy Library of Congress w Stanach Zjednoczonych. Program jest otwarty dla badaczy i praktyków z całego świata oraz dla osób reprezentujących wszystkie dyscypliny. Szczególnie mile widziane są projekty interdyscyplinarne i międzykulturowe wykorzystujące metody cyfrowe, cyfrowe kolekcje Library of Congress, narzędzia badawcze i wsparcie kuratorskie.
-Szczegóły
-16
-Lip
-2026
-Stypendia badawcze Smithsonian Institution Fellowship Program 2026
-16.07.2026 - 15.10.2026
-Smithsonian Institution Fellowship Program (SIFP) to program rezydencyjnych fellowshipów badawczych oferowanych przez Smithsonian Office of Academic Appointments and Internships. Program umożliwia prowadzenie niezależnych badań lub studiów związanych z kolekcjami, zapleczem badawczym oraz zainteresowaniami badawczymi Smithsonian Institution i jego pracowników.
-Szczegóły
-16
-Lip
-2026
-Program stypendialny Deutsches Museum 2027
-16.07.2026 - 15.10.2026
-Deutsches Museum w Monachium prowadzi program stypendialny Scholar in Residence skierowany do badaczy zainteresowanych historią nauki i technologii oraz badaniami opartymi na pracy z obiektami muzealnymi.
-Szczegóły
-16
-Lip
-2026
-Stypendia badawcze PICAIS na Uniwersytecie w Passau 2026
-16.07.2026 - 15.10.2026
-PICAIS zaprasza do składania wniosków na stanowisko gościnne na Uniwersytecie w Pasawie w dwóch rundach selekcyjnych każdego roku.
-Szczegóły
-16
-Lip
-2026
 Fulbright STEM Impact Award 2026-27
 16.07.2026 - 30.10.2026
 Fulbright STEM Impact Award to stypendium dla osób, które kierują projektami badawczymi w obszarach STEM (Science, Technology, Engineering, Mathematics) i pracują w polskich uczelniach lub instytucjach naukowych. Program umożliwia wyjazd do USA na okres od 2 do 6 tygodni, w trakcie których można: realizować projekt badawczy, prowadzić zajęcia (np. wykłady, seminaria, warsztaty), a także zdobywać wiedzę o funkcjonowaniu amerykańskich instytucji naukowych i poznawać zasady komercjalizacji nauki, czyli wdrażania wyników badań w praktyce. Stypendium można realizować w jednej , samodzielnie wybranej instytucji w USA: uczelni, instytucie badawczym non-profit lub w innej zatwierdzonej niekomercyjnej instytucji badawczej.
+Szczegóły
+16
+Lip
+2026
+Stypendium na studia związane z nauczaniem języka chińskiego – Lanzhou University
+16.07.2026 - 31.10.2026
+Stypendium International Chinese Language Teachers Scholarship – Lanzhou University (Chiny)
+Lanzhou University oferuje w 2026 roku stypendia w ramach programu International Chinese Language Teachers Scholarship, wspieranego przez Center for Language Education and Cooperation. Program skierowany jest do osób zainteresowanych nauczaniem języka chińskiego oraz studiami nad kulturą i językiem Chin.
+Szczegóły
+16
+Lip
+2026
+Frankel Institute Fellowship 2027-2028 – rezydencja badawcza w USA
+16.07.2026 - 02.11.2026
+Frankel Institute Fellowship 2027-2028 to rezydencja badawcza Frankel Institute for Advanced Judaic Studies na University of Michigan w Ann Arbor. Edycja 2027-2028 dotyczy tematu „Rethinking Jewish Peoplehood: Towards a New Archive” i jest skierowana do osób prowadzących badania lub działalność twórczą związaną z tym obszarem.
+Szczegóły
+16
+Lip
+2026
+Ambizione: granty dla naukowców od Swiss National Science Foundation 2026
+16.07.2026 - 03.11.2026
+Ambizione to program Swiss National Science Foundation skierowany do naukowców na wczesnym etapie kariery, którzy chcą prowadzić, zarządzać i kierować niezależnym projektem badawczym w szwajcarskiej instytucji szkolnictwa wyższego. Program wspiera badaczy ze Szwajcarii i z zagranicy; aplikować mogą także osoby zatrudnione na nieprofesorskich stanowiskach akademickich w instytucjach szkolnictwa wyższego.
+Szczegóły
+16
+Lip
+2026
+Stypendium badawcze Fundacji im. Aleksandra von Humboldta dla młodych naukowców 2026
+16.07.2026 - 15.11.2026
+Humboldt Research Fellowship – stypendium badawcze w Niemczech dla naukowców po doktoracie
+Humboldt Research Fellowship to prestiżowy program stypendialny wspierający naukowców z całego świata w realizacji badań w Niemczech. Program jest częścią inicjatywy Global Minds Initiative Germany finansowanej przez Federalne Ministerstwo Badań, Technologii i Przestrzeni Kosmicznej.
 Szczegóły
 Start
 Poprzedni
@@ -963,7 +965,6 @@ Poprzedni
 3
 4
 5
-6
 Następny
 Koniec
 Menu

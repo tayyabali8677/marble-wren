@@ -3,8 +3,6 @@ Title: EU Funding & Tenders Portal
 
 URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
 
-Published Time: Mon, 12 Oct 2026 09:17:16 GMT
-
 Markdown Content:
 Discover the funding & tenders opportunities
 
@@ -22,10 +20,44 @@ Browse through EU funded projects and learn about the results. Invest in opportu
 [Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
 Proposals and projects need evaluations, monitoring and domain-specific knowledge advice from experts.
 
+Highlights
+
+[![Image 1: Are You Looking to Advance Your Research Career in the EU?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30353/v13/ChooseEurope_Attracting_researchers_1920x1080%20FINAL.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30353)
+
+Discover a world of opportunity in the European Union.
+
+[![Image 2: Download “EU funding & me” The Mobile app that Simplifies Access to EU Funding](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30392/v6/GIF%20last_small.gif)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30392)
+
+The App that offers intuitive features and seamless access to EU funding services anytime, anywhere.
+
+[![Image 3: Are You Ready to Discover EU-funded Projects in Action?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30468/v2/FTP-EUFAME_news_poster%20(1).jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30468)
+
+With the new interactive Map in the EU funding & me app, you can see where EU funding is making a difference. Download the app to discover !
+
 EU programmes involved
 
-![Image 1: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
+![Image 4: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
 
 Discover the range of EU Programmes, a wide variety of EU funding opportunities implemented through the 2021-2027 multiannual financial framework, divided by heading and cluster. Access specific EU funding Programme's information, from reference documents to eligibility criteria and guidelines for participants or projects and results.
 
 [View all EU programmes](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes)
+
+News
+
+[![Image 5: Join New Online Episode of Infrastructure Stories on 20 October!](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40088/v1/Infrastructure%20Stories%20webinar_mini.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40088)
+
+Published on 15 October 2026
+
+Topic of this episode is around overcoming challenges in quantum computing with SemiQon and VTT. Join online!
+
+[![Image 6: EU-funded project ARTILLERY: AI for early detection of chronic disease risks in breast cancer patients](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40086/v1/Breast-Cancer-V3-04smaller.png)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40086)
+
+Published on 14 October 2026
+
+The Horizon Europe ARTILLERY project is developing AI systems to extract information on risk factors of chronic diseases in breast cancer patients from computed tomography (CT) scans.
+
+[![Image 7: Over €210 million boost for the Marie Skłodowska-Curie Actions to support more researchers in Europe](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40080/v1/MSCA%20-%20Choose%20Europe%20funding%20(1).png)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40080)
+
+Published on 7 October 2026
+
+Additional funding was announced as part of the Choose Europe initiative. It will strengthen the MSCA Postdoctoral Fellowships & Doctoral Networks in 2026-2027, benefiting over 700 extra researchers.

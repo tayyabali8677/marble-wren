@@ -55,7 +55,7 @@ Main Menu Toggle Search Form
     *   [Funding and Resources](https://gradschool.cornell.edu/inclusion/funding-and-resources/)
     *   [Faculty Resources](https://gradschool.cornell.edu/inclusion/faculty-resources/)
     *   [Student Organizations](https://gradschool.cornell.edu/inclusion/student-organizations/)
-    *   [Reporting Bias](https://gradschool.cornell.edu/inclusion/reporting-bias/)
+    *   [Reporting Bias, Assault, & Harassment](https://gradschool.cornell.edu/inclusion/reporting-bias/)
 
 *   [Professional Development](https://gradschool.cornell.edu/career-and-professional-development/)
     *   [Office of Career and Professional Development](https://gradschool.cornell.edu/career-and-professional-development/office-of-career-and-professional-development-2/)
@@ -230,7 +230,7 @@ More in this Section
         *   [Implicit Bias Resources](https://gradschool.cornell.edu/inclusion/faculty-resources/implicit-bias-resources/)
 
     *   [Student Organizations](https://gradschool.cornell.edu/inclusion/student-organizations/)
-    *   [Reporting Bias](https://gradschool.cornell.edu/inclusion/reporting-bias/)
+    *   [Reporting Bias, Assault, & Harassment](https://gradschool.cornell.edu/inclusion/reporting-bias/)
 
 *   [Professional Development](https://gradschool.cornell.edu/career-and-professional-development/)
     *   [Office of Career and Professional Development](https://gradschool.cornell.edu/career-and-professional-development/office-of-career-and-professional-development-2/)

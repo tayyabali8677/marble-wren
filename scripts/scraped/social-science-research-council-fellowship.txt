@@ -3,6 +3,8 @@ Title: Fellowship and Grants Administration
 
 URL Source: https://www.ssrc.org/fellowships/
 
+Published Time: Fri, 16 Oct 2026 03:19:19 GMT
+
 Markdown Content:
 [Skip to content](https://www.ssrc.org/fellowships/#content)
 
@@ -12,22 +14,24 @@ Markdown Content:
 *   [Our Work](https://www.ssrc.org/our-work/)
 *   Current Opportunities
     *   Current Opportunities
-        *   [![Image 2: nextgenj](https://www.ssrc.org/wp-content/uploads/2026/04/nextgenj.png)SSRC-JF Next Generation Japan Studies Development Grants – New opportunities for students, faculty, and institutions to deepen Japan-related research and teaching in the United States](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
+        *   [![Image 2: apdd_circle](https://www.ssrc.org/wp-content/uploads/2026/10/apdd_circle.png)African Peacebuilding and Developmental Dynamics (APDD) Fellowships – Supporting emerging African scholars advancing research on peacebuilding and development through mentorship, funding, and regional networks.](https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/)
+        *   [![Image 3: nextgenj](https://www.ssrc.org/wp-content/uploads/2026/04/nextgenj.png)SSRC-JF Next Generation Japan Studies Development Grants – New opportunities for students, faculty, and institutions to deepen Japan-related research and teaching in the United States](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
+        *   [![Image 4: crop-rt](https://www.ssrc.org/wp-content/uploads/2026/10/crop-rt.png)The Rachel Tanur Memorial Prize for Visual Sociology – Supporting emerging African scholars advancing research on peacebuilding and development through mentorship, funding, and regional networks.](https://racheltanurmemorialprize.ssrc.org/)
 
 *   [Our Network](https://www.ssrc.org/our-network/)
-    *           *   [![Image 3](https://www.ssrc.org/wp-content/uploads/2024/01/cuf_initiatives_logo-2.png) College and University Fund for the Social Sciences](https://www.ssrc.org/college-and-university-fund-for-the-social-sciences/)A consortium of higher education institutions dedicated to strengthening the infrastructure for social and behavioral science.  
-        *   [![Image 4](https://www.ssrc.org/wp-content/uploads/2026/01/frontiers_meta2.png) Frontiers in Social Science](https://www.ssrc.org/frontiers/)Frontiers in Social Science features new research in the flagship journals of the Social Science Research Council’s founding disciplinary associations.  
-        *   [![Image 5](https://www.ssrc.org/wp-content/uploads/2024/09/0rzZEf-QMy.avif) Social Science Research Council Funders](https://www.ssrc.org/funders/)Our funders—philanthropic foundations, public science agencies, and institutional partners—enable the SSRC to catalyze new ideas, nurture scholars, and translate research into public impact.  
+    *           *   [![Image 5](https://www.ssrc.org/wp-content/uploads/2024/01/cuf_initiatives_logo-2.png) College and University Fund for the Social Sciences](https://www.ssrc.org/college-and-university-fund-for-the-social-sciences/)A consortium of higher education institutions dedicated to strengthening the infrastructure for social and behavioral science.  
+        *   [![Image 6](https://www.ssrc.org/wp-content/uploads/2026/01/frontiers_meta2.png) Frontiers in Social Science](https://www.ssrc.org/frontiers/)Frontiers in Social Science features new research in the flagship journals of the Social Science Research Council’s founding disciplinary associations.  
+        *   [![Image 7](https://www.ssrc.org/wp-content/uploads/2024/09/0rzZEf-QMy.avif) Social Science Research Council Funders](https://www.ssrc.org/funders/)Our funders—philanthropic foundations, public science agencies, and institutional partners—enable the SSRC to catalyze new ideas, nurture scholars, and translate research into public impact.  
 
 *   [News & Events](https://www.ssrc.org/news-events/)
     *           *   ### Recent News
 
-[![Image 6](https://www.ssrc.org/wp-content/uploads/2026/10/tanur26b-768x400.png) News The Rachel Tanur Memorial Prize for Visual Sociology Opens 2027 Applications](https://racheltanurmemorialprize.ssrc.org/the-award/)  [![Image 7](https://www.ssrc.org/wp-content/uploads/2026/09/Group-335-768x374.png) News Announcing the 2026 Innovation in Religion and Spirituality Seed Grant recipients](https://www.ssrc.org/news/2026/09/28/announcing-the-2026-innovation-in-religion-and-spirituality-seed-grant-recipients/)   
+[![Image 8](https://www.ssrc.org/wp-content/uploads/2026/10/tanur26b-768x400.png) News The Rachel Tanur Memorial Prize for Visual Sociology Opens 2027 Applications](https://racheltanurmemorialprize.ssrc.org/the-award/)  [![Image 9](https://www.ssrc.org/wp-content/uploads/2026/09/Group-335-768x374.png) News Announcing the 2026 Innovation in Religion and Spirituality Seed Grant recipients](https://www.ssrc.org/news/2026/09/28/announcing-the-2026-innovation-in-religion-and-spirituality-seed-grant-recipients/)   
         *   [MORE NEWS](https://www.ssrc.org/news-events/) 
 
     *           *   ### Featured
 
-[![Image 8](https://www.ssrc.org/wp-content/uploads/2026/05/Goroff-horizontal-2-1-768x432.png) Announcement Daniel Goroff Named 16th President of the Social Science Research Council](https://www.ssrc.org/announcements/2026/05/18/daniel-goroff-named-16th-president-of-the-social-science-research-council/) 
+[![Image 10](https://www.ssrc.org/wp-content/uploads/2026/05/Goroff-horizontal-2-1-768x432.png) Announcement Daniel Goroff Named 16th President of the Social Science Research Council](https://www.ssrc.org/announcements/2026/05/18/daniel-goroff-named-16th-president-of-the-social-science-research-council/) 
         *   [LEARN MORE](https://www.ssrc.org/events/2025-college-and-university-fund-conference-on-earning-trust-the-case-for-the-social-sciences/) 
 
 *   About
@@ -130,7 +134,7 @@ Page Navigation
 *   [Convening Innovation Networks](https://www.ssrc.org/how-we-work/convening-innovation-networks/)
 *   [Fiscal Sponsorship](https://www.ssrc.org/how-we-work/fiscal-sponsorship/)
 
-[![Image 9: SSRC](https://www.ssrc.org/wp-content/themes/ssrcorg-child/assets/images/ssrc-logo-white.svg)](https://www.ssrc.org/)
+[![Image 11: SSRC](https://www.ssrc.org/wp-content/themes/ssrcorg-child/assets/images/ssrc-logo-white.svg)](https://www.ssrc.org/)
 
 Mobilizing social science for the public good.
 
@@ -219,7 +223,9 @@ Menu
 
 *   [Our Work](https://www.ssrc.org/our-work/)
 *   Current Opportunities
-    *           *   [SSRC-JF Next Generation Japan Studies Development Grants](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
+    *           *   [African Peacebuilding and Developmental Dynamics (APDD) Fellowships](https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/)
+        *   [SSRC-JF Next Generation Japan Studies Development Grants](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
+        *   [The Rachel Tanur Memorial Prize for Visual Sociology](https://racheltanurmemorialprize.ssrc.org/)
         *   [Back](https://www.ssrc.org/fellowships/)
 
     *   [Back](https://www.ssrc.org/fellowships/)
