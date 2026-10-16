@@ -4,7 +4,6 @@ Title: 提示信息
 URL Source: https://en.nankai.edu.cn/admissions/scholarships.htm
 
 Warning: Target URL returned error 410: Gone
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ![Image 1](https://en.nankai.edu.cn/_images/error/error.gif)

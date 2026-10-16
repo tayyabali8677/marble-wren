@@ -3,6 +3,8 @@ Title: Home
 
 URL Source: https://www.undp.org/
 
+Published Time: Tue, 23 Jun 2026 02:06:19 GMT
+
 Markdown Content:
 [Skip to main content](https://www.undp.org/#main-content)
 
@@ -526,6 +528,16 @@ news**
 [![Image 57: Orange cat sitting on a wooden dock, overlooking a calm sea and distant city skyline.](https://www.undp.org/sites/g/files/zskgke326/files/styles/featured_content_card_mobile_343_x_150_/public/2026-10/shutterstock_2250092215-2.jpg?h=a1e1a043&itok=dXybz22F) ###### Blog ##### Urban October: Istanbul Demonstrating equality through food Read more](https://www.undp.org/blog/urban-october-istanbul)
 
 [![Image 58: Colorful multi-story buildings line a riverbank with rocky shore and hills behind.](https://www.undp.org/sites/g/files/zskgke326/files/styles/featured_content_card_mobile_343_x_150_/public/2026-10/undp-np-nuwakot.jpg?h=c6980913&itok=8TJwsqXZ) ###### Stories ##### Nepal’s flood recovery starts with helping people rebuild their lives New challenges emerge for survivors Read more](https://www.undp.org/stories/nepals-flood-recovery-starts-helping-people-rebuild-their-lives)
+
+[×](javascript:void(0) "Clear search box")
+
+Custom Search
+
+Sort by
+
+Relevance
+
+Date
 
 [![Image 59: back](https://www.undp.org/libraries/undp--design-system-assets/images/back.svg) Back](https://www.undp.org/#)
 

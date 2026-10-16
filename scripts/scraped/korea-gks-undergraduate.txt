@@ -10,10 +10,8 @@ Markdown Content:
 
 ## 404
 
-요청하신 페이지는 존재하지 않습니다.
-
+요청하신 페이지는 존재하지 않습니다.  
  The page you requested could not be found.
 
-3초 후 메인 페이지로 이동합니다.
-
+3초 후 메인 페이지로 이동합니다.  
  Redirecting to main page in 3 seconds...

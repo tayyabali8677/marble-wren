@@ -3,6 +3,10 @@ Title: Page not found | Applicants & Students
 
 URL Source: https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-awards
 
+Published Time: Fri, 16 Oct 2026 16:20:58 GMT
+
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to main content](https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-awards#main-content)
 

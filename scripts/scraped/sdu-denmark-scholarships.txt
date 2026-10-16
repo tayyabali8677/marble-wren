@@ -635,10 +635,10 @@ Markdown Content:
     *   [Find person Search for contact information on employees](https://www.sdu.dk/en/service/findperson)
     *   [Directory Finding your way at the University of Southern Denmark](https://www.sdu.dk/en/service/vejviser)
 
-*   [Start page](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships)
-    *   [Login](https://www.sdu.dk/identity/login/website/SitecoreIdentityServer/IdS4-AzureAd-Frontend?returnUrl=https://www.sdu.dk/en/pagenotfound?fromlogin=1)
-    *   [Reset default page](javascript:localStorage.setItem('defaultPage', 'none');alert('The default page has been reset.');location.reload();)
-    *   [Set as default page](javascript:localStorage.removeItem('none');localStorage.setItem('defaultPage', window.location.href);localStorage.setItem('defaultPageExpiry', '0');location.reload();)
+*   [Startside](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships)
+    *   [Log ind](https://www.sdu.dk/identity/login/website/SitecoreIdentityServer/IdS4-AzureAd-Frontend?returnUrl=https://www.sdu.dk/en/pagenotfound?fromlogin=1)
+    *   [Nulstil standardsiden](javascript:localStorage.setItem('defaultPage', 'none');alert('Standardsiden er blevet nulstillet.');location.reload();)
+    *   [Indstil som standardsiden](javascript:localStorage.removeItem('none');localStorage.setItem('defaultPage', window.location.href);localStorage.setItem('defaultPageExpiry', '0');location.reload();)
 
 [DA](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships?sc_lang=da)/[EN](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships)
 
@@ -1091,12 +1091,12 @@ next
 
 [Vacant positions We are always looking for talent that can bring our research to new hights Read more](https://www.sdu.dk/en/om-sdu/job-sdu)
 
-Find what you're looking for 
+Find det, du søger 
 
 *   [Find person](https://www.sdu.dk/en/service/findperson)
 *   [Find your way to SDU](https://www.sdu.dk/en/service/vejviser)
 
-Find what you're looking for Search
+Find what you're looking for Søg
 
 [SDU](https://www.sdu.dk/en/)[Nonexisting page (404)/Siden eksisterer ikke](https://www.sdu.dk/en/pagenotfound)
 
@@ -1120,15 +1120,15 @@ Du har nu følgende valgmuligheder:
   
  For at komme tilbage til den foregående side skal du bruge din browsers tilbage-knap.
 
-## Share on
+## Del siden på
 
-[Facebook](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'facebook');)[X](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'twitter');)[Linkedin](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'linkedin');)[Email](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound', 'options':{'subject': 'Nonexisting page (404)/Siden eksisterer ikke'}}, 'email');)[Copy link](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships "link: Copy URL To Clipboard")
+[Facebook](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'facebook');)[X](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'twitter');)[Linkedin](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound'}, 'linkedin');)[Email](javascript:Cabana.Share({'url':'https://www.sdu.dk/en/pagenotfound', 'options':{'subject': 'Nonexisting page (404)/Siden eksisterer ikke'}}, 'email');)[Kopiér link](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships "link: Kopier URL til udklipsholder")
 
-Last Updated 12.10.2026
+Sidst opdateret: 12.10.2026
 
 About SDU
 
-![Image 28: University of Southern Denmark map](https://www.sdu.dk/-/media/genereltsystem/danmark-sdu.png)
+![Image 28: Syddansk Universitet kort](https://www.sdu.dk/-/media/genereltsystem/danmark-sdu.png)
 *   [](https://www.sdu.dk/en/om-sdu/sdu-campusser/esbjerg2)
 **[SDU Esbjerg](https://www.sdu.dk/en/om-sdu/sdu-campusser/esbjerg2)**  
  Degnevej 14  
@@ -1217,40 +1217,3 @@ The University of Southern Denmark received its first students in Odense in Sept
 [Cookie Settings](javascript:CookieScript.instance.show())
 
 [Whistleblowing scheme at SDU](https://www.sdu.dk/en/service/kontakt/whistleblowerordning)
-
-This website uses tracking cookies
-
-We use cookies to personalize our content and to show you social media features and to analyze our traffic. We also share information about your use of our website with our social media partners and analytics partners. Our partners may combine this data with other information that you have provided to them or that they have collected from your use of their services. Select "Show details" below to see futher information.
-
-[Read more](https://www.sdu.dk/en/om_sdu/Om_dette_websted/Brug_af_cookies)
-
-Necessary
-
-- [x] 
-
- 
-
-Third-party statistics
-
-- [x] 
-
- 
-
-Marketing
-
-- [x] 
-
- 
-
-Functionality
-
-- [x] 
-
- 
-
-Accept all cookies Do not allow cookies Show details
-
-*    Danish
-*    English
-
-English

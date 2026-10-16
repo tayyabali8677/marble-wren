@@ -511,7 +511,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -527,7 +527,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu sluiten
+Menu openen
 News
 Agenda
 Grants
@@ -694,7 +694,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu sluiten
+Menu openen
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting

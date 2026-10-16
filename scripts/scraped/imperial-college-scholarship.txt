@@ -405,7 +405,7 @@ Prospective students
 Continuing students
 Only open scholarships
 Clear filters
-Showing 292 results
+Showing 306 results
 Postgraduate doctoral
 A PhD Studentship in Wireless Communications and Signal Processing
 Award value
@@ -436,6 +436,16 @@ Academic year
 2025/2026
 Application deadline
 30/05/2025 Closed
+Postgraduate doctoral
+Ada Lovelace PhD Scholarship in Computational and Data Science (2026)
+Award value
+UKRI rate bursary for 3.5 years; tuition fees for 3 years (Home or, for some awards, Overseas); small contribution towards research and training costs.
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+11/01/2027
 Postgraduate doctoral
 Ada Lovelace PhD Scholarship in Computational and Data Science (2026)
 Award value
@@ -1202,6 +1212,16 @@ Application deadline
 Undergraduate
 Engineering Access Grant
 Award value
+One-off cash bursary of &pound;1,000 paid in 2026/27 only
+Available to
+, Full time
+Academic year
+2026/2027
+Application deadline
+16/11/2026
+Undergraduate
+Engineering Access Grant
+Award value
 One-off cash bursary of &pound;1,000 paid in 2025-26 only
 Available to
 Home, Full time, Part time
@@ -1259,6 +1279,16 @@ Academic year
 2025/2026
 Application deadline
 16/03/2025 Closed
+Undergraduate
+ESE Undergraduate Financial Bursary
+Award value
+&pound;2,500
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+28/05/2027
 Undergraduate
 ESE Undergraduate Financial Bursary
 Award value
@@ -1560,6 +1590,16 @@ Academic year
 2025/2026
 Application deadline
 03/02/2025 Closed
+Postgraduate doctoral
+HealthBRIDGE DLA: 4 year (1+3) PhD Studentships in Medical Research
+Award value
+Tuition Fees (at UKRI rate), a competitive bursary, consumables and conference support funds
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+11/11/2026
 Postgraduate taught, Master's research
 HESPAL (Higher Education Scholarships for Palestinians)
 Award value
@@ -1882,6 +1922,16 @@ Academic year
 Application deadline
 13/12/2025 Closed
 Postgraduate doctoral
+Janet Watson PhD Scholarship in Earth Science and Engineering
+Award value
+Bursary for 3.5 years (UKRI rate) plus tuition fees for 3 years (Home or Overseas). Includes a small allowance for research and training costs.
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+11/01/2027
+Postgraduate doctoral
 Janet Watson PhD Scholarship in Earth Science and Engineering 2026
 Award value
 Bursary for 3.5 years (UKRI rate) plus tuition fees for 3 years (Home or Overseas). Includes a small allowance for research and training costs
@@ -2150,6 +2200,15 @@ Application deadline
 Postgraduate taught, Master's research
 MRes Biomedical Research Bursary
 Award value
+&pound;2,000 towards tuition fees.
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+Postgraduate taught, Master's research
+MRes Biomedical Research Bursary
+Award value
 &pound;2,000 towards the tuition fee rate
 Available to
 Home, Overseas, Full time
@@ -2157,6 +2216,15 @@ Academic year
 2026/2027
 Application deadline
 29/05/2026 Closed
+Master's research
+MRes Clinical Research Bursary
+Award value
+&pound;2,000 towards tuition fees. For part-time study, &pound;1,000 will be awarded for each year of the two-year degree.
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
 Master's research
 MRes Clinical Research Bursary
 Award value
@@ -2237,6 +2305,15 @@ Academic year
 2026/2027
 Application deadline
 29/05/2026 Closed
+Postgraduate taught, Master's research
+MSc Applied Multiomics in Biomedicine Bursary
+Award value
+&pound;2,000 towards tuition fees.
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
 Postgraduate taught
 MSc Business Analytics (Online) Home Student Scholarship
 Award value
@@ -2260,6 +2337,15 @@ Application deadline
 Postgraduate taught
 MSc Computational Biomedicine (Online) Bursary
 Award value
+&pound;2,000 towards the tuition fee rate
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+Postgraduate taught
+MSc Computational Biomedicine (Online) Bursary
+Award value
 &pound;2000 towards the tuition fee rate for 2026-27
 Available to
 Home, Overseas, Part time
@@ -2267,6 +2353,15 @@ Academic year
 2026/2027
 Application deadline
 26/06/2026 Closed
+Master's research
+MSc Human Molecular Genetics Bursary
+Award value
+&pound;2,000 towards tuition fees.
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
 Master's research
 MSc Human Molecular Genetics Bursary
 Award value
@@ -2297,6 +2392,24 @@ Academic year
 2026/2027
 Application deadline
 29/05/2026 Closed
+Postgraduate taught
+MSc Immunology Scholarship for students of Black heritage
+Award value
+Full tuition fees at the Home rate and a maintenance stipend at the applicable UKRI minimum stipend rate. Includes use of a department laptop, subject to confirmation.
+Available to
+Home, Full time
+Academic year
+2027/2028
+Application deadline
+Master's research
+MSc Reproductive and Developmental Biology Bursary
+Award value
+&pound;2,000 towards tuition fees.
+Available to
+Home, Overseas, Part time
+Academic year
+2027/2028
+Application deadline
 Master's research
 MSc Reproductive and Developmental Biology Bursary
 Award value
@@ -2571,11 +2684,31 @@ Rio Tinto Scholarship
 Award value
 Full tuition fees and a stipend of &pound;17,082 per annum
 Available to
+Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+28/05/2027
+Undergraduate
+Rio Tinto Scholarship
+Award value
+Full tuition fees and a stipend of &pound;17,082 per annum
+Available to
 Home, Overseas, Full time
 Academic year
 2025/2026
 Application deadline
 30/05/2025 Closed
+Undergraduate
+Rocky Fund Bursary
+Award value
+Cash bursary of &pound;2,500 per year
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+28/05/2027
 Undergraduate
 Rocky Fund Bursary
 Award value

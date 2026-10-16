@@ -241,7 +241,6 @@ Markdown Content:
                 *   [Before You Leave](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/international-students/during-your-studies/before-you-leave/)
                 *   [Winners of the DAAD Prize](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/international-students/during-your-studies/winners-of-the-daad-prize/)
                 *   [Made in Mannheim: FIT for Studies | Check In](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/international-students/during-your-studies/made-in-mannheim-fit-for-studies-check-in/)
-                *   [Study Success Session](https://www.uni-mannheim.de/en/studium/vom-ausland-nach-mannheim/internationale-vollzeitstudierende/waehrend-des-studiums/study-success-session-1/)
 
             *   [Starting Your Career](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/international-students/starting-your-career/)
                 *   [Made in Mannheim](https://www.uni-mannheim.de/en/academics/coming-to-mannheim/international-students/starting-your-career/step-by-step/)

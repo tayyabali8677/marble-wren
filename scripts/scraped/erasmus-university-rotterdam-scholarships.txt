@@ -138,7 +138,7 @@ Desiderius Erasmus
     *    Thursday 15 Oct 2026
     *    General
 
-![Image 5: Woman with texts "DOPE" and "Indringend theater en dans over de lijn die al onze levens verbindt". Also featuring the logos of "watwedoen.nl", "Lloyds Company" and "FORT-PORT".](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/dope-banner-artwork.png.avif?h=8a86ce09&itok=KZqQpjBl)
+![Image 5: Robby Roks (DOPE video)](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/robby-roks-dope-video.png.avif?h=21f40944&itok=67hwpFLS)
 
 *   
 ### ['I'd rather build more than get stuck because of all sorts of rules'](https://www.eur.nl/en/news/id-rather-build-more-get-stuck-because-all-sorts-rules)
@@ -255,23 +255,15 @@ Consent Studio
 *   consent-studio__implicit-consent-triggered When a website has implicit consent configured, this cookie stores whether or not it has been triggered or not. 30 days 
 *   consent-studio__gpc-consent-triggered Records that your browser's Global Privacy Control signal was detected, so non-essential cookies were automatically declined on your behalf. 30 days 
 
-LinkedIn
-
-LinkedIn
-
-[](https://www.linkedin.com/legal/privacy-policy)
-
-*   li_gc Used to store guest consent to the use of cookies for non-essential purposes 6 months 
-
 Cloudflare
 
 Cloudflare
 
 [](https://www.cloudflare.com/privacypolicy/)
 
-*   __cf_bm Cloudflare's bot products identify and mitigate automated traffic to protect your site from bad bots. Cloudflare places the __cf_bm cookie on End User devices that access Customer sites that are protected by Bot Management or Bot Fight Mode. The __cf_bm cookie is necessary for the proper functioning of these bot solutions. 30 minutes 
-*   _cfuvid The _cfuvid cookie is only set when a site uses this option in a Rate Limiting Rule, and is only used to allow the Cloudflare WAF to distinguish individual users who share the same IP address. Session 
-*   cf_clearance Whether a CAPTCHA or Javascript challenge has been solved. 30 minutes 
+*   __cf_bm Helps Cloudflare tell people and automated programs apart, to protect the site from bots. 30 minutes 
+*   _cfuvid Lets Cloudflare tell apart visitors who share the same internet connection, so traffic limits are applied fairly. Session 
+*   cf_clearance Remembers that you passed a Cloudflare security check, so you are not asked again. 30 minutes 
 
 HubSpot
 
@@ -280,14 +272,6 @@ HubSpot
 [](https://www.eur.nl/en/disclaimer/cookies)
 
 *   hs_sessionid* Identifies your current visit so HubSpot can keep your session consistent while you browse. — 
-
-Google
-
-Google
-
-[](https://business.safety.google/privacy/)
-
-*   __Secure-ENID Used by Google to prevent fraudulent login attempts. This also contains a Google user ID which can be used for statistics and marketing purposes following a successful login 13 months 
 
 Erasmus University Rotterdam
 
@@ -324,7 +308,7 @@ Google Analytics
 [](https://business.safety.google/privacy/)
 
 *   _ga ID used to identify users 2 years 
-*   _ga_* ID used to identify users 2 years 
+*   _ga_* Keeps track of your current visit for one specific Google Analytics property. 2 years 
 
 eur.nl
 
@@ -338,7 +322,6 @@ Website
 *   *__ga Identifies your browser so Google Analytics can tell returning visitors from new ones. — 
 *   *_FPID Identifies returning visitors so Google Analytics can report on visit patterns over time. 2 years 
 *   *_FPLC Helps Google Analytics keep a consistent visitor identifier when you move between this site's subdomains or linked domains. 20 hours 
-*   *_FPAU Records which audience segments Google Analytics has assigned to you, used for reporting on visitor groups. 90 days 
 
 Hotjar
 
@@ -355,24 +338,20 @@ These cookies and similar technologies help advertising and social media partner
 
 Google
 
-Google
-
-[](https://business.safety.google/privacy/)
-
-*   _gcl_au Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. 90 days 
-*   NID This cookies is used to collect website statistics and track conversion rates and Google ad personalisation 6 months 
-
-DoubleClick/Google Marketing
-
-[](https://business.safety.google/privacy/)
-
-*   IDE This cookie is used for targeting, analyzing and optimisation of ad campaigns in DoubleClick/Google Marketing Suite  13 months 
-
 Google Ads
 
 [](https://business.safety.google/privacy/)
 
+*   _gcl_au Identifies your browser so Google can link a later purchase or sign-up on this site to the adverts you saw or clicked. 90 days 
+*   IDE Recognises your browser so Google can measure how adverts perform and show you adverts that fit your interests. 13 months 
 *   _gcl_ls This item is used by Google Ads to store advertising click identifiers for conversion measurement. When visitors do not accept tracking cookies, Google can send a cookieless ping via Consent Mode v2 with anonymized data to measure conversions and advertising performance. Data may be stored temporarily or persistently, depending on the implementation. — 
+
+Google
+
+[](https://business.safety.google/privacy/)
+
+*   NID Lets Google remember your preferences and helps it choose which adverts to show you. 6 months 
+*   __Secure-ENID Remembers your Google preferences, such as language, and can be used to choose which adverts you see. 13 months 
 
 eur.nl
 
@@ -380,9 +359,10 @@ Website
 
 [](https://business.safety.google/privacy/)
 
-*   FPAU Assigns a specific ID to the visitor. This allows the website to determine the number of specific user-visits for analysis and statistics. 90 days 
+*   FPAU Identifies your browser so Google can link a later purchase or sign-up on this site to the adverts you saw or clicked. 90 days 
 *   *__fbp Stores a Meta (Facebook) browser identifier so visits and conversions can be attributed back to Meta advertising. — 
-*   *__gcl_au Stores the identifier of the advert you clicked, so a later purchase or sign-up can be credited to the right campaign. 90 days 
+*   *__gcl_au Identifies your browser so Google can link a later purchase or sign-up on this site to the adverts you saw or clicked. 90 days 
+*   *_FPAU Identifies your browser so Google can link a later purchase or sign-up on this site to the adverts you saw or clicked. 90 days 
 
 LinkedIn
 
@@ -390,16 +370,9 @@ LinkedIn
 
 [](https://www.linkedin.com/legal/privacy-policy)
 
-*   lidc Used by the social networking service, LinkedIn, for tracking the use of embedded services. 1 day 
-*   bcookie Used by LinkedIn to track the use of embedded services. 1 year 
-
-Facebook
-
-Facebook
-
-[](https://www.facebook.com/privacy/policy/)
-
-*   _fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers 90 days 
+*   lidc Helps LinkedIn choose which of its data centres handles your browser's requests. 1 day 
+*   bcookie Identifies your browser to LinkedIn when LinkedIn content or advertising is loaded on this site. 1 year 
+*   li_gc Remembers whether you agreed to LinkedIn's non-essential cookies as a visitor without a LinkedIn account. 6 months 
 
 Meta
 
@@ -407,6 +380,7 @@ Meta Pixel
 
 [](https://www.facebook.com/privacy/policy/)
 
+*   _fbp Identifies your browser to Meta, so your visits to this site can be used for advertising on Facebook and Instagram and to measure how adverts perform. 90 days 
 *   lastExternalReferrer Detects how the user reached the website by registering their last URL-address — 
 *   lastExternalReferrerTime Detects how the user reached the website by registering their last URL-address — 
 

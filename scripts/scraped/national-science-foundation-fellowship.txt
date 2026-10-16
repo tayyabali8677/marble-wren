@@ -1,360 +1,1265 @@
 ===== SOURCE PAGE: https://www.nsfgrfp.org/ =====
-Title: NSF Graduate Research Fellowship Program (NSF GRFP)
-
-URL Source: https://www.nsfgrfp.org/
-
-Markdown Content:
-[Skip to feedback](https://www.nsfgrfp.org/#fba-button)
-
-[Skip to main content](https://www.nsfgrfp.org/#content-wrap)
-
-![Image 6](https://www.nsfgrfp.org/themes/custom/nsf_theme/plugins/uswds/dist/img/us_flag_small.png)
-
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
 An official website of the United States government
-
 Here's how you know
-
 Here's how you know
-
-![Image 7](https://www.nsfgrfp.org/themes/custom/nsf_theme/plugins/uswds/dist/img/icon-dot-gov.svg)
-
-**Official websites use .gov**  
- A **.gov** website belongs to an official government organization in the United States.
-
-![Image 8](https://www.nsfgrfp.org/themes/custom/nsf_theme/plugins/uswds/dist/img/icon-https.svg)
-
-**Secure .gov websites use HTTPS.**  
- A **lock** () or **https://** means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
-
-[![Image 9: NSF - U.S. National Science Foundation - Home](https://www.nsfgrfp.org/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png)![Image 10](https://www.nsfgrfp.org/themes/custom/nsf_theme/components/molecules/logo/logo-wordmark.svg)](https://www.nsfgrfp.org/)
-
- Search Menu
-
-![Image 11: Close navigation](https://www.nsfgrfp.org/themes/custom/nsf_theme/images/icons/close-base-darkest.svg)
-
-Search search  
-  
-
-*   Find Funding
-    *           *   [Funding Search](https://www.nsfgrfp.org/funding/opportunities)
-        *   [Award Search](https://www.nsf.gov/awardsearch/)
-        *   [NSF-wide Initiatives](https://www.nsfgrfp.org/funding/initiatives)
-        *   [Research Experiences for Undergraduates](https://www.nsfgrfp.org/funding/initiatives/reu)
-
-    *   Where to Start
-        *   [For Everyone](https://www.nsfgrfp.org/funding/getting-started)
-        *   [For Early-Career Researchers](https://www.nsfgrfp.org/funding/early-career-researchers)
-        *   [For Postdoctoral Fellows](https://www.nsfgrfp.org/funding/postdocs)
-        *   [For Graduate Students](https://www.nsfgrfp.org/funding/graduate-students)
-        *   [For Undergraduates](https://www.nsfgrfp.org/funding/undergraduates)
-        *   [For Industry](https://www.nsfgrfp.org/funding/industry)
-        *   [For Entrepreneurs](https://www.nsfgrfp.org/funding/entrepreneurs)
-
-*   How to Apply
-    *           *   [Preparing Your Proposal](https://www.nsfgrfp.org/funding/preparing-proposal)
-        *   [Submitting Your Proposal](https://www.nsfgrfp.org/funding/submitting-proposal)
-        *   [Proposal & Award Policies & Procedures Guide (PAPPG)](https://www.nsfgrfp.org/policies/pappg)
-
-    *   Additional Resources
-        *   [Research.gov](https://www.research.gov/research-web/)
-        *   [Grants.gov](https://www.grants.gov/)
-        *   [How We Make Funding Decisions](https://www.nsfgrfp.org/funding/merit-review)
-
-*   Manage Your Award
-    *           *   [Getting Started](https://www.nsfgrfp.org/awards)
-        *   [Request a Change to Your Award](https://www.nsfgrfp.org/awards/request-a-change)
-        *   [Report Your Outcomes](https://www.nsfgrfp.org/awards/report-your-outcomes)
-        *   [Proposal & Award Policies & Procedures Guide (PAPPG)](https://www.nsfgrfp.org/policies/pappg)
-
-    *   Additional Resources
-        *   [Research.gov](https://www.research.gov/research-web/)
-        *   [NSF Public Access Repository](https://par.nsf.gov/)
-        *   [Who to Contact With Questions](https://www.nsfgrfp.org/awards/who-to-contact)
-
-*   Focus Areas
-    *   Major Initiatives
-        *   [Super Intelligence](https://www.nsfgrfp.org/focus-areas/si)
-        *   [Biotechnology](https://www.nsfgrfp.org/focus-areas/biotechnology)
-        *   [Quantum](https://www.nsfgrfp.org/focus-areas/quantum)
-        *   [STEM Workforce](https://www.nsfgrfp.org/focus-areas/workforce)
-
-    *   Focus Areas
-        *   [Explore All Focus Areas](https://www.nsfgrfp.org/focus-areas)
-        *   [Arctic and Antarctic](https://www.nsfgrfp.org/focus-areas/arctic-antarctic)
-        *   [Astronomy and Space](https://www.nsfgrfp.org/focus-areas/astronomy-space)
-        *   [Biology](https://www.nsfgrfp.org/focus-areas/biology)
-        *   [Chemistry](https://www.nsfgrfp.org/focus-areas/chemistry)
-        *   [Computing](https://www.nsfgrfp.org/focus-areas/computing)
-        *   [Earth and Environment](https://www.nsfgrfp.org/focus-areas/earth-environment)
-        *   [Education and Training](https://www.nsfgrfp.org/focus-areas/education)
-        *   [Engineering](https://www.nsfgrfp.org/focus-areas/engineering)
-        *   [Facilities and Infrastructure](https://www.nsfgrfp.org/focus-areas/infrastructure)
-        *   [Materials Research](https://www.nsfgrfp.org/focus-areas/materials)
-        *   [Mathematics](https://www.nsfgrfp.org/focus-areas/mathematics)
-        *   [People and Society](https://www.nsfgrfp.org/focus-areas/people-society)
-        *   [Physics](https://www.nsfgrfp.org/focus-areas/physics)
-        *   [Research Partnerships](https://www.nsfgrfp.org/focus-areas/research-partnerships)
-        *   [Technology](https://www.nsfgrfp.org/focus-areas/technology)
-
-*   News & Events
-    *           *   [News & Announcements](https://www.nsfgrfp.org/news)
-        *   [NSF Impacts](https://www.nsfgrfp.org/impacts)
-        *   [Science Matters Blog](https://www.nsfgrfp.org/science-matters)
-        *   [For the Press](https://www.nsfgrfp.org/news/media-toolkits)
-
-    *           *   [Upcoming Events](https://www.nsfgrfp.org/events)
-
-*   About
-    *   [About NSF](https://www.nsfgrfp.org/about)
-        *   [Careers at NSF](https://www.nsfgrfp.org/careers)
-        *   [Updates on NSF Priorities](https://www.nsfgrfp.org/updates-on-priorities)
-        *   [Contact Us](https://www.nsfgrfp.org/about/contact-us)
-
-    *   Our Directorates & Offices
-        *   [How NSF Is Organized](https://www.nsfgrfp.org/about/directorates-offices)
-        *   [Biological Sciences (BIO)](https://www.nsfgrfp.org/bio)
-        *   [Computer & Information Science & Engineering (CISE)](https://www.nsfgrfp.org/cise)
-        *   [Engineering (ENG)](https://www.nsfgrfp.org/eng)
-        *   [Geosciences (GEO)](https://www.nsfgrfp.org/geo)
-        *   [Integrative Activities (OIA)](https://www.nsfgrfp.org/od/oia)
-        *   [International Science & Engineering (OISE)](https://www.nsfgrfp.org/od/oise)
-        *   [Mathematical & Physical Sciences (MPS)](https://www.nsfgrfp.org/mps)
-        *   [Social, Behavioral & Economic Sciences (SBE)](https://www.nsfgrfp.org/sbe)
-        *   [STEM Education (EDU)](https://www.nsfgrfp.org/edu)
-        *   [Technology, Innovation & Partnerships (TIP)](https://www.nsfgrfp.org/tip/latest)
-        *   [National Center for Science & Engineering Statistics (NCSES)](https://ncses.nsf.gov/)
-        *   [National Science Board (NSB)](https://www.nsf.gov/nsb/)
-
-![Image 12: GRFP Hero](https://nsf-gov-resources.nsf.gov/styles/hero_small/s3/media_hub/GRFP_Zoom_Hero_1200x468.jpg.webp?itok=dHzSaXxT)
-
-[Major Initiatives](https://www.nsfgrfp.org/funding/initiatives)
-
-# NSF Graduate Research Fellowship Program (NSF GRFP)
-
-**Out now**: View the [NSF GRFP Notice of Funding Opportunity](https://www.nsfgrfp.org/funding/opportunities/grfp-nsf-graduate-research-fellowship-program "NSF Graduate Research Fellowship Program (GRFP)").
-
-**Policies and procedures for recipients:**View the [GRFP Administrative Guide](https://www.nsfgrfp.org/policies/document/graduate-research-fellowship-program-grfp-administrative "Graduate Research Fellowship Program (GRFP) Administrative Guide").
-
-## NSF Graduate Research Fellowship Program (NSF GRFP)
-
-*    Applicants 
-
-    *   [Getting Started](https://www.nsfgrfp.org/funding/initiatives/grfp/applicants)
-    *   [Am I Eligible?](https://www.nsfgrfp.org/funding/initiatives/grfp/eligibility)
-    *   [Major Fields of Study](https://www.nsfgrfp.org/funding/initiatives/grfp/fields-of-study)
-    *   [How Do I Apply?](https://www.nsfgrfp.org/funding/initiatives/grfp/how-to-apply)
-    *   [How Are Applications Reviewed?](https://www.nsfgrfp.org/funding/initiatives/grfp/review-process)
-    *   [FAQs](https://www.nsfgrfp.org/funding/initiatives/grfp/applicants/faq)
-    *   [Additional Resources](https://www.nsfgrfp.org/funding/initiatives/grfp/applicants/resources)
-    *   [Application Help Videos](https://www.nsfgrfp.org/funding/initiatives/grfp/applicants/application-help-videos)
-
-*   [Reference Writers](https://www.nsfgrfp.org/funding/initiatives/grfp/references)
-*   [Reviewers](https://www.nsfgrfp.org/funding/initiatives/grfp/reviewers)
-*   [Events](https://www.nsfgrfp.org/events?query=grfp&sort=date_ASC)
-*   [About GRFP](https://www.nsfgrfp.org/funding/initiatives/grfp/about)
-*   [GRFP Module Login](https://www.research.gov/grfp/Login.do)
-*   [Contact Us](https://www.nsfgrfp.org/funding/initiatives/grfp/contact)
-
-## Share
-
-[Share on Facebook](https://www.nsfgrfp.org/)[Share on X (formerly known as Twitter)](https://www.nsfgrfp.org/)[Share on LinkedIn](https://www.nsfgrfp.org/)[Email](https://www.nsfgrfp.org/)
-
-## Organization(s)
-
-[U.S. National Science Foundation (NSF)](https://www.nsfgrfp.org/nsf)
-
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
 The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
-
-[2027 NSF GRFP Notice of Funding Opportunity](https://www.nsfgrfp.org/funding/opportunities/grfp-nsf-graduate-research-fellowship-program "2027 NSF GRFP Notice of Funding Opportunity")
-
-## Applicant deadlines
-
-*   October 16, 2026 by 8:00 p.m. Eastern time All reference letters due.   
-*   October 19, 2026 by 8:00 p.m. Eastern time Life Sciences   
-*   October 20, 2026 by 8:00 p.m. Eastern time Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences   
-*   October 22, 2026 by 8:00 p.m. Eastern time Engineering   
-*   October 23, 2026 by 8:00 p.m. Eastern time Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy   
-*   November 15, 2026 You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.   
-
-## Program goals
-
-![Image 13: A medal with a star in the center](https://nsf-gov-resources.nsf.gov/styles/cta_icon/s3/media_hub/Medal_color.png?itok=7bQ1WFBu)
-
-### Support outstanding graduate students pursuing research-based degrees
-
-![Image 14: Atomic_energy_color](https://nsf-gov-resources.nsf.gov/styles/cta_icon/s3/2023-10/Atomic_energy_color.png?itok=rN1qdqn2)
-
-### Increase participation in science, technology, education, and mathematics (STEM)
-
-![Image 15: Graduate_color](https://nsf-gov-resources.nsf.gov/styles/cta_icon/s3/2023-10/Graduate_color.png?itok=h31J7Uup)
-
-### Build the next generation of scientific leaders
-
-![Image 16: Four people (three men and a woman) stand inside a room with machines with lots of wires.](https://nsf-gov-resources.nsf.gov/styles/cta_image/s3/media_hub/Endres-Research%20Group-6100%20Qubits-8224.jpg?itok=jO7YZdNj)
-
-## Fellowship benefits
-
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
 The fellowship offers:
-
-*   Five-year award with three years of financial support:
-    *   $37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
-    *   COE payment covers **all**tuition and mandatory fees (no cost to student).
-    *   $53,000 each year for three years over a five-year period.
-
-*   No post-graduate study service requirement.
-*   Access to supplemental funding to sustain research while on medical leave.
-
-[Learn more](https://www.nsfgrfp.org/funding/initiatives/grfp/about "Learn more")
-
-## NSF GRFP by the numbers
-
- 70K+ 
-
-* * *
-
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
 Annual fellowships historically
-
- 500+ 
-
-* * *
-
+500+
 Institutions supported historically
-
- 73 
-
-* * *
-
+73
 Years of innovation
-
-## Information for
-
+Information for
 Find resources tailored to your role in the GRFP community.
-
-## Applicants
-
+Applicants
 Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
-
-[Learn more](https://www.nsfgrfp.org/funding/initiatives/grfp/applicants "Learn more")
-
-## Reference writers
-
+Learn more
+Reference writers
 Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
-
-[Learn more](https://www.nsfgrfp.org/funding/initiatives/grfp/references "Learn more")
-
-## Reviewers
-
+Learn more
+Reviewers
 Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
-
-[Learn more](https://www.nsfgrfp.org/funding/initiatives/grfp/reviewers "Learn more")
-
-[Top](https://www.nsfgrfp.org/#)
-
-*   Publication date:  August 25, 2026 
-*   Last updated:  October 8, 2026 
-
-[![Image 17: NSF - U.S. National Science Foundation - Home](https://www.nsfgrfp.org/themes/custom/nsf_theme/components/molecules/logo/logo-desktop.png)![Image 18](https://www.nsfgrfp.org/themes/custom/nsf_theme/components/molecules/logo/logo-wordmark--white.svg)](https://www.nsfgrfp.org/)
-
-Randolph Building  
-401 Dulany Street  
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
 Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language
 
-[(703) 292-5111](tel:(703)292-5111)
+===== SOURCE PAGE: https://www.nsfgrfp.org/funding/opportunities =====
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
+The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
+The fellowship offers:
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
+Annual fellowships historically
+500+
+Institutions supported historically
+73
+Years of innovation
+Information for
+Find resources tailored to your role in the GRFP community.
+Applicants
+Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
+Learn more
+Reference writers
+Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
+Learn more
+Reviewers
+Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
+Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language
 
-[Sign up for email updates](https://service.govdelivery.com/accounts/USNSF/subscriber/new?qsp=823)
+===== SOURCE PAGE: https://www.nsfgrfp.org/funding/initiatives =====
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
+The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
+The fellowship offers:
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
+Annual fellowships historically
+500+
+Institutions supported historically
+73
+Years of innovation
+Information for
+Find resources tailored to your role in the GRFP community.
+Applicants
+Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
+Learn more
+Reference writers
+Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
+Learn more
+Reviewers
+Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
+Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language
 
-*   [![Image 19: Facebook](https://www.nsfgrfp.org/libraries/nsf_iconset/facebook-icon_square_32x32.png)](https://www.facebook.com/US.NSF)
-*   [![Image 20: X (formerly known as Twitter)](https://www.nsfgrfp.org/libraries/nsf_iconset/x-twitter-icon_square_32x32.png)](https://x.com/NSF "X (formerly known as Twitter)")
-*   [![Image 21: Instagram](https://www.nsfgrfp.org/libraries/nsf_iconset/instagram-icon_square_32x32.png)](https://www.instagram.com/nsfgov)
-*   [![Image 22: YouTube](https://www.nsfgrfp.org/libraries/nsf_iconset/youtube-icon_square_32x32.png)](https://www.youtube.com/user/VideosatNSF)
-*   [![Image 23: LinkedIn](https://www.nsfgrfp.org/libraries/nsf_iconset/linkedin-icon_square_32x32.png)](https://www.linkedin.com/company/national-science-foundation)
-*   [![Image 24: RSS](https://www.nsfgrfp.org/libraries/nsf_iconset/nsfrss-icon_square_32x32.png)](https://nsf.gov/rss)
+===== SOURCE PAGE: https://www.nsfgrfp.org/funding/initiatives/reu =====
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
+The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
+The fellowship offers:
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
+Annual fellowships historically
+500+
+Institutions supported historically
+73
+Years of innovation
+Information for
+Find resources tailored to your role in the GRFP community.
+Applicants
+Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
+Learn more
+Reference writers
+Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
+Learn more
+Reviewers
+Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
+Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language
 
-## Footer
+===== SOURCE PAGE: https://www.nsfgrfp.org/funding/getting-started =====
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
+The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
+The fellowship offers:
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
+Annual fellowships historically
+500+
+Institutions supported historically
+73
+Years of innovation
+Information for
+Find resources tailored to your role in the GRFP community.
+Applicants
+Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
+Learn more
+Reference writers
+Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
+Learn more
+Reviewers
+Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
+Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language
 
-*   ### About Us
-
-    *   [About NSF](https://www.nsfgrfp.org/about)
-    *   [Careers](https://www.nsfgrfp.org/careers)
-    *   [Our Directorates & Offices](https://www.nsfgrfp.org/about/directorates-offices)
-    *   [National Science Board](https://www.nsfgrfp.org/nsb)
-    *   [Contact Us](https://www.nsfgrfp.org/about/contact-us)
-
-*   ### What's New
-
-    *   [News & Announcements](https://www.nsfgrfp.org/news)
-    *   [Events](https://www.nsfgrfp.org/events)
-    *   [Science Matters Blog](https://www.nsfgrfp.org/science-matters)
-
-*   ### Information For
-
-    *   [Funding Seekers](https://www.nsfgrfp.org/funding)
-    *   [NSF Awardees](https://www.nsfgrfp.org/awards)
-    *   [Congress](https://www.nsfgrfp.org/about/congress)
-    *   [Media](https://www.nsfgrfp.org/news/media-toolkits)
-    *   [Educators](https://www.nsfgrfp.org/focus-areas/education#educational-resources)
-    *   [Panelists](https://www.nsfgrfp.org/about/meetings)
-
-*   ### Resources
-
-    *   [Documents & Reports](https://www.nsfgrfp.org/documents-reports)
-    *   [Budget, Performance & Financial Reporting](https://www.nsfgrfp.org/about/budget)
-    *   [Public Access](https://www.nsfgrfp.org/public-access)
-    *   [Stopping Harassment](https://www.nsfgrfp.org/stopping-harassment)
-    *   [Research Security](https://www.nsfgrfp.org/research-security)
-    *   [Scientific Integrity](https://www.nsfgrfp.org/policies/scientific-integrity)
-    *   [Research.gov](https://www.research.gov/research-web/)
-
-## Required Policy Links
-
-*   [Vulnerability disclosure](https://www.nsfgrfp.org/policies/digital/vulnerability-disclosure)
-*   [Inspector General](https://oig.nsf.gov/home/)
-*   [Privacy](https://www.nsfgrfp.org/policies/privacy)
-*   [FOIA](https://www.nsfgrfp.org/policies/foia)
-*   [No FEAR Act](https://www.nsfgrfp.org/od/ocr/no-fear-act)
-*   [USA.gov](https://www.usa.gov/)
-*   [Accessibility](https://www.nsf.gov/policies/accessibility)
-*   [Plain language](https://www.nsfgrfp.org/policies/nsf_plain_language.jsp)
-
-Feedback
-
-![Image 25: National Science Foundation logo](https://cg-1b082c1b-3db7-477f-9ca5-bd51a786b41e.s3-us-gov-west-1.amazonaws.com/uploads/form/logo/2586/logo_square_NSF_Official_logo_High_Res_1200ppi.png)
-
-## NSF website feedback
-
- Let us know how we're doing, and how we can make NSF.gov better for you.
-This survey is for feedback on the **NSF website experience only**. If you have questions or comments about NSF's programs, offices, staff or publications, please [visit our Contact Us page](https://www.nsf.gov/about/contact-us).
-
-A red asterisk (*) indicates a required field.
-
-### Success
-
- Thank you for your valuable feedback. 
-
-### Error
-
-alert message
-
- Was this page helpful to you? * 
-
- How can we improve this page?   2500 characters allowed 
-
- I'm a...  
-
- The NSF website design team may want to learn more about your experience. If it is okay for us to contact you, please provide your email. 
-
- Your email address is used solely to communicate with you about your feedback in order to improve the NSF website. NSF does not use it for any other purpose or provide it to any third parties. 
-
- 
-
-Submit
-
-* * *
-
-_A federal agency may not conduct or sponsor a collection of information unless it displays a currently valid OMB control number; the number for this is 3145-0215._
-[Privacy Act Statement for Design Research](https://www.gsa.gov/reference/gsa-privacy-program/privacy-act-statement-for-design-research)
-
-![Image 26: U.S. flag](https://touchpoints.app.cloud.gov/img/us_flag_small.png)
-
-An official form of the United States government. Provided by [Touchpoints](https://touchpoints.digital.gov/)  
- OMB Approval #3145-0215 · Expiration Date 10/31/2029
+===== SOURCE PAGE: https://www.nsfgrfp.org/funding/early-career-researchers =====
+NSF Graduate Research Fellowship Program (NSF GRFP) | NSF - U.S. National Science Foundation
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS.
+A lock
+( Lock Locked padlock
+)
+or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Search
+Menu
+Search
+search
+Find Funding
+Funding Search
+Award Search
+NSF-wide Initiatives
+Research Experiences for Undergraduates
+Where to Start
+For Everyone
+For Early-Career Researchers
+For Postdoctoral Fellows
+For Graduate Students
+For Undergraduates
+For Industry
+For Entrepreneurs
+How to Apply
+Preparing Your Proposal
+Submitting Your Proposal
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+Grants.gov
+How We Make Funding Decisions
+Manage Your Award
+Getting Started
+Request a Change to Your Award
+Report Your Outcomes
+Proposal & Award Policies & Procedures Guide (PAPPG)
+Additional Resources
+Research.gov
+NSF Public Access Repository
+Who to Contact With Questions
+Focus Areas
+Major Initiatives
+Super Intelligence
+Biotechnology
+Quantum
+STEM Workforce
+Focus Areas
+Explore All Focus Areas
+Arctic and Antarctic
+Astronomy and Space
+Biology
+Chemistry
+Computing
+Earth and Environment
+Education and Training
+Engineering
+Facilities and Infrastructure
+Materials Research
+Mathematics
+People and Society
+Physics
+Research Partnerships
+Technology
+News & Events
+News & Announcements
+NSF Impacts
+Science Matters Blog
+For the Press
+Upcoming Events
+About
+About NSF
+Careers at NSF
+Updates on NSF Priorities
+Contact Us
+Our Directorates & Offices
+How NSF Is Organized
+Biological Sciences (BIO)
+Computer & Information Science & Engineering (CISE)
+Engineering (ENG)
+Geosciences (GEO)
+Integrative Activities (OIA)
+International Science & Engineering (OISE)
+Mathematical & Physical Sciences (MPS)
+Social, Behavioral & Economic Sciences (SBE)
+STEM Education (EDU)
+Technology, Innovation & Partnerships (TIP)
+National Center for Science & Engineering Statistics (NCSES)
+National Science Board (NSB)
+Major Initiatives
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Out now : View the NSF GRFP Notice of Funding Opportunity .
+Policies and procedures for recipients: View the GRFP Administrative Guide .
+NSF Graduate Research Fellowship Program (NSF GRFP)
+Applicants
+Getting Started
+Am I Eligible?
+Major Fields of Study
+How Do I Apply?
+How Are Applications Reviewed?
+FAQs
+Additional Resources
+Application Help Videos
+Reference Writers
+Reviewers
+Events
+About GRFP
+GRFP Module Login
+Contact Us
+Share
+Share on Facebook Share on X (formerly known as Twitter) Share on LinkedIn Email
+Organization(s)
+U.S. National Science Foundation (NSF)
+The purpose of the U.S. National Science Foundation Graduate Research Fellowship Program (NSF GRFP) is to help ensure the quality, vitality, and strength of the scientific and engineering workforce of the United States.
+2027 NSF GRFP Notice of Funding Opportunity
+Applicant deadlines
+October 16, 2026 by 8:00 p.m. Eastern time
+All reference letters due.
+October 19, 2026 by 8:00 p.m. Eastern time
+Life Sciences
+October 20, 2026 by 8:00 p.m. Eastern time
+Computer and Information Science and Engineering; Materials Research; Psychology; Social Sciences
+October 22, 2026 by 8:00 p.m. Eastern time
+Engineering
+October 23, 2026 by 8:00 p.m. Eastern time
+Chemistry; Geosciences; Mathematical Sciences; Physics and Astronomy
+November 15, 2026
+You can withdraw your application anytime. However, this is the last day to withdraw your application and not have it count towards the number of times you apply to NSF GRFP.
+Program goals
+Support outstanding graduate students pursuing research-based degrees
+Increase participation in science, technology, education, and mathematics (STEM)
+Build the next generation of scientific leaders
+Fellowship benefits
+The fellowship offers:
+Five-year award with three years of financial support:
+$37,000 stipend plus $16,000 cost of education (COE) paid to the institution for each year of funding support.
+COE payment covers all tuition and mandatory fees (no cost to student).
+$53,000 each year for three years over a five-year period.
+No post-graduate study service requirement.
+Access to supplemental funding to sustain research while on medical leave.
+Learn more
+NSF GRFP by the numbers
+70K+
+Annual fellowships historically
+500+
+Institutions supported historically
+73
+Years of innovation
+Information for
+Find resources tailored to your role in the GRFP community.
+Applicants
+Find resources to help you check eligibility, prepare strong applications, submit your application, and understand what happens after you apply.
+Learn more
+Reference writers
+Find resources to help you write effective GRFP reference letters, understand the review criteria, and submit your reference letters.
+Learn more
+Reviewers
+Find resources to guide your GRFP review, including timelines, evaluation criteria, writing effective reviews, and submitting your evaluation.
+Learn more
+Top
+Publication date:
+August 25, 2026
+Last updated:
+October 8, 2026
+Randolph Building
+401 Dulany Street
+Alexandria, VA 22314
+(703) 292-5111
+Sign up for email updates
+Footer
+About Us
+About NSF
+Careers
+Our Directorates & Offices
+National Science Board
+Contact Us
+What&#039;s New
+News & Announcements
+Events
+Science Matters Blog
+Information For
+Funding Seekers
+NSF Awardees
+Congress
+Media
+Educators
+Panelists
+Resources
+Documents & Reports
+Budget, Performance & Financial Reporting
+Public Access
+Stopping Harassment
+Research Security
+Scientific Integrity
+Research.gov
+Required Policy Links
+Vulnerability disclosure
+Inspector General
+Privacy
+FOIA
+No FEAR Act
+USA.gov
+Accessibility
+Plain language

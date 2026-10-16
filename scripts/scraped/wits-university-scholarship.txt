@@ -70,7 +70,7 @@ Search
 
 ##### Share
 
-0 0
+[Tweet](https://twitter.com/share)0 0
 ### In this section
 
 *   [Study at Wits](https://www.wits.ac.za/study-at-wits/)
@@ -127,17 +127,3 @@ Close
 [](https://www.wits.ac.za/postgraduate-hub/postgraduate-funding/)
 
 ShareThis Copy and Paste
-
-Chat with me
-
-# Kudubot
-
- Reply in 10 seconds. 
-
-My name is Kudubot. Start a conversation with me below. 
-
-##### Start Conversation
-
-Send us a message
-
-![Image 8: Start Conversation](https://widget.botsify.com/dist/images/Menu/start.png)

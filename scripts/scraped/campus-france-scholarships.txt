@@ -278,6 +278,7 @@ Preference for all services
         *   [Events organised by Campus France](https://www.campusfrance.org/en/organisation-events-Campus-France "Campus France organises very different types of events to promote French higher education throughout the world.")
         *   [Press room](https://www.campusfrance.org/en/press-room "Find all of the agency's publications and events programme in the Campus France press room")
         *   [Public procurement](https://www.campusfrance.org/en/public-procurement "Pour répondre à ses besoins en matière de fournitures, services et travaux, Campus France conclut des marchés publics dans le respect des principes de liberté d'accès à la commande publique, d'égalité de traitement des candidats et de transparence des pro")
+        *   [Mobile applications](https://careers.campusfrance.org/ "Find out about Immersion France and Campus France Kiosque, the two mobile applications developed by Campus France for foreign students.")
 
         [](https://www.campusfrance.org/en/scholarships#)
 
@@ -537,11 +538,11 @@ The French Agency for the promotion of higher education,international student se
 
 Campus France
 
-*   [Files](https://www.campusfrance.org/fr/recherche/type/dossier)
 *   [Press room](https://www.campusfrance.org/en/press-room)
-*   [Videos](https://www.campusfrance.org/fr/recherche/type/video)
+*   [Jobs](https://careers.campusfrance.org/)
 *   [News](https://www.campusfrance.org/fr/recherche/type/actualite)
 *   [Events](https://www.campusfrance.org/fr/recherche/type/agenda/type/evenement)
+*   [Files](https://www.campusfrance.org/fr/recherche/type/dossier)
 
 Help and support
 

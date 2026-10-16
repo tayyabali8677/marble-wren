@@ -373,7 +373,7 @@ Indigenous students, and
 students who have written contests such as the Euclid and the Canadian Senior Mathematics Contest.
 Faculty of Science
 Programs
-Environmental Sciences, Honours Science, Medical Sciences, Science and Aviation, Science and Business, Science and Financial Management, and majors within Life Sciences (e.g., Biology, Biochemistry, etc) and Physical Sciences (e.g., Chemistry, Physics, etc) .
+Biomedical Sciences, Environmental Sciences, Honours Science, Medical Sciences, Science and Aviation, Science and Business, Science and Financial Management, and majors within Life Sciences (e.g., Biology, Biochemistry, etc) and Physical Sciences (e.g., Chemistry, Physics, etc) .
 The scholarships are available to students entering first year of full-time undergraduate studies in the Faculty of Science.
 Scholarship
 Eligible programs
@@ -389,19 +389,19 @@ Early May admission average as follows.
 80-84.9% = $500
 These scholarships are in addition to the President’s Scholarship of Distinction, President’s Scholarship, or Merit Scholarship, as applicable based on admission average.
 An application is not required.
-Faculty of Science Contest and Camp Award
+Faculty of Science Contest and Camp Award
 All programs (excluding Aviation, Optometry, Pharmacy)
 $1,000
 Available to high school students completing one of the following Waterloo contests: Sir Isaac Newton Contest , Chem 13 News Contest , or the Euclid math contest . Participation in these contests must be co-ordinated through your school.
 Students who participated in Waterloo's GeoX or ChemX Camps are also eligible.
-Eligible students may receive one  $1,000 award only.
+Eligible students may receive one $1,000 award only.
 Science SHSM Entrance Award
 All programs (excluding Aviation, Optometry, Pharmacy)
 $1,000
 Available to students completing any Specialist High Skills Major (SHSM) at an Ontario high school. No application is required.
 Faculty of Science International Student Scholarships
 All programs (excluding Medical Sciences, Optometry, Pharmacy)
-$25,000 to $80,000
+Up to 15 scholarships valued at $25,000 to $80,000
 An application is required . Available to international fee-paying students only.
 Various
 All programs (excluding Medical Sciences, Optometry, Pharmacy)
@@ -1822,7 +1822,7 @@ I agree that the University of Waterloo may send me emails.
 (You can change your preferences or unsubscribe at any time.)
 CAPTCHA
 Math question
-2 + 0 =
+13 + 1 =
 Solve this simple math problem and enter the result. E.g. for 1+3, enter 4.
 This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.
 Leave this field blank
