@@ -3819,5 +3819,19 @@
     "country": "European Union",
     "url": "https://www.glocalment.com/",
     "note": "Major international organization scholarship programme"
+  },
+  {
+    "slug": "friedrich-ebert-stiftung-scholarship-germany",
+    "name": "Friedrich Ebert Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.fes.de",
+    "note": "SPD-aligned political foundation for Masters and PhD students."
+  },
+  {
+    "slug": "konrad-adenauer-stiftung-scholarship-germany",
+    "name": "Konrad Adenauer Foundation Scholarship",
+    "country": "Germany",
+    "url": "https://www.kas.de",
+    "note": "CDU-aligned political foundation focusing on conservative values and civic engagement."
   }
 ]
