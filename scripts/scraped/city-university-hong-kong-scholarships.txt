@@ -4,7 +4,6 @@ Title: Page Not Found | City University of Hong Kong
 URL Source: https://www.cityu.edu.hk/sas/scholarship/
 
 Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 We're sorry but we couldn’t find that page.  

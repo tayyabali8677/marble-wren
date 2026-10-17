@@ -33,6 +33,7 @@ Markdown Content:
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
     *   [General](https://www.moe.gov.bn/general/)
+    *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
         *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
             *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)
@@ -92,6 +93,7 @@ Markdown Content:
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
     *   [General](https://www.moe.gov.bn/general/)
+    *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
         *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
             *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)

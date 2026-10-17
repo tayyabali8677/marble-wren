@@ -716,19 +716,19 @@ You must be signed in to add to your saved scholarships list.
 
 ## We value your privacy
 
-We use cookies and other tracking technologies to operate the site, enhance your browsing experience, serve personalized content or ads about our programs, and analyze our traffic, consistent with your choices and as described in our Cookie Notice.   
+We use cookies and other tracking technologies to operate the site, enhance your browsing experience, serve personalized content or ads about our programs, and analyze our traffic, with your consent and as described in our Cookie Notice.   
   
- We use strictly necessary cookies to make our site work. By continuing to browse or by clicking “Accept All”, you consent to ALL of our website’s cookie use as described in our Cookie Notice. This includes marketing cookies and other non-essential cookies to improve website performance and enhance its functionality. By clicking “Reject Optional”, you reject all non-essential cookies.   
+ We use strictly necessary cookies to make our site work. By clicking “Reject Optional”, you reject all non-essential cookies and consent to strictly necessary cookies. By clicking “Accept All”, you consent to ALL of our website’s cookie use as described in our Cookie Notice. This includes marketing cookies and other non-essential cookies to improve website performance and enhance its functionality.   
   
- By clicking on “Manage Cookies”, you can learn more and further control your preferences for cookies that are not strictly necessary.   
+ By clicking on “Manage Cookies”, you can learn more and further control your consent.   
   
- You can manage your options at any time through a “Manage Cookies” link at the footer of a College Board webpage or a floating cookie icon at the bottom of your screen while on our website.   
+ After you consent, you can manage your options at any time through a “Manage Cookies” link at the footer of a College Board webpage or a floating cookie icon at the bottom of your screen while on our website.   
   
- Please review our [Cookie Notice](https://privacy.collegeboard.org/cookie-notice?kiwi-ccb) for further details.[Privacy Statement](https://privacy.collegeboard.org/privacy-statement?kiwi-ccb)
+ Please review our [Cookie Notice](https://privacy.collegeboard.org/cookie-notice?kiwi-ccb) before interacting further with this site and for further details.[Privacy Statement](https://privacy.collegeboard.org/privacy-statement?kiwi-ccb)
 
 Accept All Reject Optional Manage Cookies
 
-![Image 1: The College Board Logo](https://cdn.cookielaw.org/logos/65a38c3f-4f1f-4acc-9e16-9a9cd7f86053/0197c28c-1572-7702-9802-447c7195a31f/48a3082b-a80c-414f-a717-9499f5a563c8/Corporate-Black-RGB-505x87-9ca8b14.jpg)
+![Image 1: The College Board Logo](https://cdn.cookielaw.org/logos/65a38c3f-4f1f-4acc-9e16-9a9cd7f86053/0197c2b3-d022-74fa-9e3a-deed6e45bc32/71c13765-8578-4a53-9f97-97a1ddecaa90/Corporate-Black-RGB-505x87-9ca8b14.jpg)
 
 Opt-Out Request Honored
 
@@ -793,19 +793,19 @@ URL Source: https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholar
 Markdown Content:
 ## We value your privacy
 
-We use cookies and other tracking technologies to operate the site, enhance your browsing experience, serve personalized content or ads about our programs, and analyze our traffic, consistent with your choices and as described in our Cookie Notice.   
+We use cookies and other tracking technologies to operate the site, enhance your browsing experience, serve personalized content or ads about our programs, and analyze our traffic, with your consent and as described in our Cookie Notice.   
   
- We use strictly necessary cookies to make our site work. By continuing to browse or by clicking “Accept All”, you consent to ALL of our website’s cookie use as described in our Cookie Notice. This includes marketing cookies and other non-essential cookies to improve website performance and enhance its functionality. By clicking “Reject Optional”, you reject all non-essential cookies.   
+ We use strictly necessary cookies to make our site work. By clicking “Reject Optional”, you reject all non-essential cookies and consent to strictly necessary cookies. By clicking “Accept All”, you consent to ALL of our website’s cookie use as described in our Cookie Notice. This includes marketing cookies and other non-essential cookies to improve website performance and enhance its functionality.   
   
- By clicking on “Manage Cookies”, you can learn more and further control your preferences for cookies that are not strictly necessary.   
+ By clicking on “Manage Cookies”, you can learn more and further control your consent.   
   
- You can manage your options at any time through a “Manage Cookies” link at the footer of a College Board webpage or a floating cookie icon at the bottom of your screen while on our website.   
+ After you consent, you can manage your options at any time through a “Manage Cookies” link at the footer of a College Board webpage or a floating cookie icon at the bottom of your screen while on our website.   
   
- Please review our [Cookie Notice](https://privacy.collegeboard.org/cookie-notice?kiwi-ccb) for further details.[Privacy Statement](https://privacy.collegeboard.org/privacy-statement?kiwi-ccb)
+ Please review our [Cookie Notice](https://privacy.collegeboard.org/cookie-notice?kiwi-ccb) before interacting further with this site and for further details.[Privacy Statement](https://privacy.collegeboard.org/privacy-statement?kiwi-ccb)
 
 Accept All Reject Optional Manage Cookies
 
-![Image 1: The College Board Logo](https://cdn.cookielaw.org/logos/65a38c3f-4f1f-4acc-9e16-9a9cd7f86053/0197c28c-1572-7702-9802-447c7195a31f/48a3082b-a80c-414f-a717-9499f5a563c8/Corporate-Black-RGB-505x87-9ca8b14.jpg)
+![Image 1: The College Board Logo](https://cdn.cookielaw.org/logos/65a38c3f-4f1f-4acc-9e16-9a9cd7f86053/0197c2b3-d022-74fa-9e3a-deed6e45bc32/71c13765-8578-4a53-9f97-97a1ddecaa90/Corporate-Black-RGB-505x87-9ca8b14.jpg)
 
 Opt-Out Request Honored
 

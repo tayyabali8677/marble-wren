@@ -3,6 +3,8 @@ Title: EU Funding & Tenders Portal
 
 URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
 
+Published Time: Fri, 16 Oct 2026 11:13:06 GMT
+
 Markdown Content:
 Discover the funding & tenders opportunities
 
@@ -61,3 +63,28 @@ The Horizon Europe ARTILLERY project is developing AI systems to extract informa
 Published on 7 October 2026
 
 Additional funding was announced as part of the Choose Europe initiative. It will strengthen the MSCA Postdoctoral Fellowships & Doctoral Networks in 2026-2027, benefiting over 700 extra researchers.
+
+Events
+
+1792497600000
+
+* * *
+
+1793170800000
+
+* * *
+
+1794474000000
+
+* * *
+
+1794902400000
+
+[European Mission Soil Week 2026](https://mission-soil-platform.ec.europa.eu/news-events/events/european-mission-soil-week-2026)
+The fourth edition of the European Mission Soil Week will take place in Ireland, hosted by Teagasc and the Irish Presidency of the Council of the EU.
+
+ 09:00 - 18:00 
+
+* * *
+
+[See more events](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/events)
