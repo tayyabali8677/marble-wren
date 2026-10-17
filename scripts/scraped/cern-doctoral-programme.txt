@@ -177,7 +177,6 @@ CIO - Office of the Chief Information Officer
 DG – Director General’s Unit
 EN - Engineering
 EP – Experimental Physics
-FAP – Finance and Administrative Processes
 FCC
 HR – Human Resources
 IPT – Industry, Procurement and Knowledge Transfer

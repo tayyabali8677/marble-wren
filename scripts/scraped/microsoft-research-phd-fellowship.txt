@@ -33,6 +33,7 @@ About Microsoft Research
 Careers & internships
 People
 News & awards
+AI for Science
 Asia-Pacific
 Cambridge
 Catalyst Lab
@@ -185,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: f142654c9973318acca54ded920a20d9
+This is the Trace Id: 33efcec45affea95ddb71cb595bf056b
 Skip to main content
 Education
 Azure for education

@@ -1,14 +1,189 @@
 ===== SOURCE PAGE: https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships =====
-Title: Something's wrong
+Title: ASEAN Scholarship | MOE
 
 URL Source: https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships
 
-Warning: Target URL returned error 403: Forbidden
-
 Markdown Content:
-Not quite sure what happened here, while you're waiting:
+![Image 2](https://www.moe.gov.sg/_next/image?url=%2Fmedia%2Fmoe%2Fassets%2F4f24da8d-0ce9-438c-9c0f-ecba0849db81.svg&w=32&q=75)A Singapore Government Agency Website How to identify
 
-• Try refreshing your browser, it often does the trick!  
- • Feel free to take a quick break and come back shortly.
+![Image 3](https://www.moe.gov.sg/media/images/microsite/6b738a92-26e3-4df0-8293-4f0d35488b82.svg)
 
-If it persists, email us at [optical_support@tech.gov.sg](mailto:optical_support@tech.gov.sg?subject=Encountered%20a%20website%20issue&body=Hi%20Optical%20Team%2C%0A%0AI%20encountered%20an%20error%20while%20browsing%20your%20website%20and%20wanted%20to%20flag%20it%20for%20your%20attention.%0A%0APlease%20find%20the%20details%20below:%0A%0A-%20Website%20link%3A%20%0A%5BInsert%20link%20here%5D%0A%0A-%20Date%20and%20time%20it%20happened%3A%20%0A%5BInclude%20a%20full%20screenshot%20showing%20the%20error%20screen%20and%20timestamp%5D%0A%0A-%20What%20I%20was%20doing%20at%20the%20time%3A%20%0A%5Be.g.%20Submitting%20a%20form%20%2F%20navigating%20between%20pages%20%2F%20uploading%20a%20file%5D%0A%0A-%20Browser%20%2F%20device%3A%20%0A%5Be.g.%20Chrome%20on%20Windows%2011%20%2F%20Safari%20on%20iPhone%5D%0A%0A-%20Additional%20info%20(if%20any)%3A%20%0A%5BAdd%20any%20other%20helpful%20details%5D%0A%0AHope%20this%20helps!%20Thanks%20for%20looking%20into%20it.%0A%0AKind%20regards%2C%0A%5BYour%20Name%5D).
+**Official website links end with .gov.sg**
+
+Government agencies communicate via**.gov.sg**website  
+(e.g. go.gov.sg/open).[Trusted websites](https://go.gov.sg/trusted-sites)
+
+![Image 4: lock](https://www.moe.gov.sg/media/images/microsite/883b363a-c2a1-494d-8b2c-506ed8075881.svg)
+
+**Secure websites use HTTPS**
+
+Look for a**lock (![Image 5: lock](https://www.moe.gov.sg/media/images/microsite/883b363a-c2a1-494d-8b2c-506ed8075881.svg))**or https:// as an added precaution.  
+Share sensitive information only on official, secure websites.
+
+*   [SchoolFinder](https://www.moe.gov.sg/schoolfinder)
+*   [CourseFinder](https://www.moe.gov.sg/coursefinder)
+*   [Academic calendar](https://www.moe.gov.sg/calendar)
+*   [Quick links](https://www.moe.gov.sg/quick-links)
+*   [My shortlisted(0)](https://www.moe.gov.sg/shortlist)
+
+[![Image 6: MOE logo](https://www.moe.gov.sg/media/images/microsite/e2ce6af3-7c9d-444f-b576-922550cffb18.svg)](https://www.moe.gov.sg/)
+
+Education level
+
+*   [Education levels](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships#)show submenu for Education levels
+
+ 
+    *   [Preschool](https://www.moe.gov.sg/preschool)
+    *   [Primary](https://www.moe.gov.sg/primary)
+    *   [Secondary](https://www.moe.gov.sg/secondary)
+    *   [Post-secondary](https://www.moe.gov.sg/post-secondary)
+
+*   [Financial matters](https://www.moe.gov.sg/financial-matters)show submenu for Financial matters
+
+ 
+    *   [Awards and scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships)
+    *   [Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account)
+    *   [School fees](https://www.moe.gov.sg/financial-matters/fees)
+    *   [Financial assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+    *   [Loan scheme](https://www.moe.gov.sg/financial-matters/government-loan-scheme)
+    *   [Post-Secondary Education Account](https://www.moe.gov.sg/financial-matters/psea)
+    *   [Tuition Grant Scheme](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme)
+
+*   [Education in SG](https://www.moe.gov.sg/education-in-sg)show submenu for Education in SG
+
+ 
+    *   [21st Century Competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)
+    *   [Compulsory education](https://www.moe.gov.sg/primary/compulsory-education)
+    *   [Desired Outcomes of Education](https://www.moe.gov.sg/education-in-sg/desired-outcomes)
+    *   [Educational technology journey](https://www.moe.gov.sg/education-in-sg/educational-technology-journey)
+    *   [Addressing bullying](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying)
+    *   [Our programmes](https://www.moe.gov.sg/education-in-sg/our-programmes)
+    *   [Our students](https://www.moe.gov.sg/education-in-sg/our-students)
+    *   [Our teachers](https://www.moe.gov.sg/education-in-sg/our-teachers)
+    *   [Our schools](https://www.moe.gov.sg/education-in-sg/our-schools)
+    *   [Private education](https://www.moe.gov.sg/private-education)
+
+*   [Newsroom](https://www.moe.gov.sg/newsroom)show submenu for Newsroom
+
+ 
+    *   [EdTalks](https://www.moe.gov.sg/newsroom/edtalks)
+    *   [News](https://www.moe.gov.sg/search?q=&cid=e4bdd727-f778-4662-a5a8-cd5a737bd031&filterList=%5B%7B%22type%22%3A%22and%22%2C%22value%22%3A%5B%7B%22type%22%3A%22EqualsTo%22%2C%22key%22%3A%22agencyContentType%22%2C%22value%22%3A%22News%22%7D%5D%7D%5D&scope=domain&sortList=%5B%7B%22key%22%3A%22lastUpdatedAt%22%2C%22order%22%3A%22desc%22%7D%5D)
+
+*   [Careers](https://www.moe.gov.sg/careers)
+*   [About MOE](https://www.moe.gov.sg/about-us)
+
+Search
+
+# [![Image 7: MOE logo](https://www.moe.gov.sg/media/images/microsite/e2ce6af3-7c9d-444f-b576-922550cffb18.svg)](https://www.moe.gov.sg/)
+
+[](https://www.moe.gov.sg/shortlist)
+
+Search
+
+*   ### [Education levels](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships#)
+
+    *   [Preschool](https://www.moe.gov.sg/preschool)
+    *   [Primary](https://www.moe.gov.sg/primary)
+    *   [Secondary](https://www.moe.gov.sg/secondary)
+    *   [Post-secondary](https://www.moe.gov.sg/post-secondary)
+
+*   ### [Financial matters](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships#)
+
+    *   [Awards and scholarships](https://www.moe.gov.sg/financial-matters/awards-scholarships)
+    *   [Edusave Account](https://www.moe.gov.sg/financial-matters/edusave-account)
+    *   [School fees](https://www.moe.gov.sg/financial-matters/fees)
+    *   [Financial assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+    *   [Loan scheme](https://www.moe.gov.sg/financial-matters/government-loan-scheme)
+    *   [Post-Secondary Education Account](https://www.moe.gov.sg/financial-matters/psea)
+    *   [Tuition Grant Scheme](https://www.moe.gov.sg/financial-matters/tuition-grant-scheme)
+
+*   ### [Education in SG](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships#)
+
+    *   [21st Century Competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies)
+    *   [Compulsory education](https://www.moe.gov.sg/primary/compulsory-education)
+    *   [Desired Outcomes of Education](https://www.moe.gov.sg/education-in-sg/desired-outcomes)
+    *   [Educational technology journey](https://www.moe.gov.sg/education-in-sg/educational-technology-journey)
+    *   [Addressing bullying](https://www.moe.gov.sg/education-in-sg/our-approach-to-addressing-bullying)
+    *   [Our programmes](https://www.moe.gov.sg/education-in-sg/our-programmes)
+    *   [Our students](https://www.moe.gov.sg/education-in-sg/our-students)
+    *   [Our teachers](https://www.moe.gov.sg/education-in-sg/our-teachers)
+    *   [Our schools](https://www.moe.gov.sg/education-in-sg/our-schools)
+    *   [Private education](https://www.moe.gov.sg/private-education)
+
+*   ### [Newsroom](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarships#)
+
+    *   [EdTalks](https://www.moe.gov.sg/newsroom/edtalks)
+    *   [News](https://www.moe.gov.sg/search?q=&cid=e4bdd727-f778-4662-a5a8-cd5a737bd031&filterList=%5B%7B%22type%22%3A%22and%22%2C%22value%22%3A%5B%7B%22type%22%3A%22EqualsTo%22%2C%22key%22%3A%22agencyContentType%22%2C%22value%22%3A%22News%22%7D%5D%7D%5D&scope=domain&sortList=%5B%7B%22key%22%3A%22lastUpdatedAt%22%2C%22order%22%3A%22desc%22%7D%5D)
+
+*   ### [Careers](https://www.moe.gov.sg/careers)
+*   ### [About MOE](https://www.moe.gov.sg/about-us)
+
+*   [My shortlisted(0)](https://www.moe.gov.sg/shortlist) 
+*   [SchoolFinder](https://www.moe.gov.sg/schoolfinder) 
+*   [CourseFinder](https://www.moe.gov.sg/coursefinder) 
+*   [Academic calendar](https://www.moe.gov.sg/calendar) 
+*   [Quick links](https://www.moe.gov.sg/quick-links) 
+
+*   [MOE](https://www.moe.gov.sg/)
+*   [FINANCIAL MATTERS](https://www.moe.gov.sg/financial-matters)
+*   [AWARDS SCHOLARSHIPS](https://www.moe.gov.sg/financial-matters/awards-scholarships)
+*   ASEAN SCHOLARSHIP
+
+*   [MOE](https://www.moe.gov.sg/)
+*   [FINANCIAL MATTERS](https://www.moe.gov.sg/financial-matters)
+*   [AWARDS SCHOLARSHIPS](https://www.moe.gov.sg/financial-matters/awards-scholarships)
+
+Last Updated: 16 May 2026
+
+# ASEAN Scholarship
+
+Students from ASEAN countries can apply for the ASEAN Scholarship to study in Singapore. Find out if you are eligible and how to apply.
+
+![Image 8: ASEAN scholarship](https://www.moe.gov.sg/media/images/scholarships/c45111c9-05a7-48e3-98dd-b0f474bd6626.jpg)
+
+Applications for all countries are now closed.
+
+MOE offers scholarships to bright young students from ASEAN countries to study in Singapore.
+
+Students will have opportunities to broaden their horizons and develop important skills such as leadership, communication and other life skills. They can also help to promote goodwill and understanding among young people from different countries and Singapore. Both international and local students can look forward to opportunities to develop cross-cultural skills and a global outlook.
+
+Find out more about the scholarships for students from these countries and other [FAQs](https://www.moe.gov.sg/faq?categoryid=6F1A4E283DEA49BD8C9F356A6649F608):
+
+## [Brunei This ASEAN Scholarship is for students from Brunei joining Secondary 1, Secondary 3 or Pre-university 1 in selected Singapore secondary schools or junior colleges. **Application period** January to March](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/brunei)
+
+## [Cambodia This ASEAN Scholarship is for students from Cambodia joining Secondary 3 in selected Singapore secondary schools. **Application period** April to May](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/cambodia)
+
+## [Indonesia This ASEAN Scholarship is for students from Indonesia joining Secondary 1 or Secondary 3 in selected Singapore secondary schools. **Application period** January to February](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/indonesia)
+
+## [Lao PDR This ASEAN Scholarship is for students from Lao PDR joining Secondary 3 in selected Singapore secondary schools. **Application period** April to May](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/lao)
+
+## [Malaysia This ASEAN Scholarship is for students from Malaysia joining Secondary 1, Secondary 3 or Pre-university 1 in selected Singapore secondary schools or junior colleges. **Application period** January to April](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/malaysia)
+
+## [Myanmar This ASEAN Scholarship is for students from Myanmar joining Secondary 3 in selected Singapore secondary schools. **Application period** April to May](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/myanmar)
+
+## [Thailand This ASEAN Scholarship is for students from Thailand joining Secondary 3 or Pre-university 1 in selected Singapore secondary schools or junior colleges. **Application period** January to March](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/thailand)
+
+## [The Philippines This ASEAN Scholarship is for students from the Philippines joining Secondary 3 in selected Singapore secondary schools. **Application period** January to February](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/philippines)
+
+## [Vietnam This ASEAN Scholarship is for students from Vietnam joining Secondary 3 in selected Singapore secondary schools. **Application period** January to March](https://www.moe.gov.sg/financial-matters/awards-scholarships/asean-scholarship/vietnam)
+
+Ministry of Education
+
+*   [](https://www.facebook.com/moesingapore) 
+*   [](https://www.linkedin.com/company/ministry-of-education-singapore/) 
+*   [](https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fmoesingapore%2F&is_from_rle) 
+*   [](https://x.com/MOEsg) 
+*   [](https://www.youtube.com/user/MOESpore) 
+
+*   [Contact](https://www.moe.gov.sg/contact-us) 
+*   [Feedback](https://www.moe.gov.sg/feedback) 
+*   [FAQ](https://www.moe.gov.sg/faq) 
+*   [Sitemap](https://www.moe.gov.sg/sitemap) 
+*   [Report vulnerability](https://www.tech.gov.sg/report-vulnerability) 
+*   [Privacy statement](https://www.moe.gov.sg/privacy-statement) 
+*   [Terms of use](https://www.moe.gov.sg/terms-of-use) 
+*   [User research](https://www.moe.gov.sg/moe-user-research) 
+
+© 2026, Government of Singapore
+
+![Image 9](https://r.turn.com/r/beacon?b2=qg9ZYdqREbvlqkbXD_1uJzK7wvOVLwXoiJpRIp3wg-eanSKT_Tb8JFbdd4S4DuT78Ss9cXvgA0sn05AAnXr6gQ&cid=)

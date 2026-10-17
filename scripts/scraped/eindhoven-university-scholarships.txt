@@ -3,178 +3,720 @@ Title: 404 Page Not Found
 
 URL Source: https://www.tue.nl/en/education/masters-programs/scholarships/
 
+Published Time: Mon, 04 Apr 2022 07:23:49 GMT
+
 Markdown Content:
-*   
-These cookies help make our website more usable by enabling basic functions such as page navigation and access to secure areas. Without these necessary cookies, our website cannot function properly.
+[Skip to content](https://www.tue.nl/en/education/masters-programs/scholarships/#mainContent)
 
-    *   [Cloudflare 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 1: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cloudflare.com/privacypolicy/ "Learn more about this provider Cloudflare's privacy policy - opens in a new window")**cf.turnstile.u**This cookie is used to distinguish between humans and bots.
+ Menu 
 
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage 
-    *   [Cookiebot 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 2: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cookiebot.com/goto/privacy-policy/ "Learn more about this provider Cookiebot's privacy policy - opens in a new window")**CookieConsent**Stores the user's cookie consent state for the current domain
+ Close the menu 
 
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie 
-    *   [Google 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 3: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
-
-**test_cookie**Used to check if the user's browser supports cookies.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  
-    *   [LinkedIn 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 4: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**bcookie**Used in order to detect spam and improve the website's security.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **li_gc**Stores the user's cookie consent state for the current domain
-
-**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  
-    *   [Unibuddy 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 5: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mp_opt_in_out_#**Stores the user's cookie consent state for the current domain
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie 
-    *   [linkedin.com vimeo.com 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)**__cf_bm[x2]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie 
-
-*   
-These cookies enable our website to remember information that affects its behavior and design, such as your preferred language or the region you are in.
-
-    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie 
-    *   [Unibuddy 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 7: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**UB_UUID**Used by third-party student enrollment service.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage 
-
-*   
-Statistics cookies help us to understand how you, our visitor, interact with our website by collecting and reporting anonymous data.
-
-    *   [Hotjar 6](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 8: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.hotjar.com/legal/policies/privacy/ "Learn more about this provider Hotjar's privacy policy - opens in a new window")**_hjSession_#[x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **_hjSessionUser_#[x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **_hjTLDTest**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie **_hjCookieTest**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie  
-    *   [Unibuddy 9](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**hjActiveViewportIds**This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **hjViewportId**Saves the user's screen size in order to adjust the size of images on the website.
-
-**Maximum Storage Duration**: Session**Type**: HTML Local Storage **p.gif**Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **invite_id**Used by third-party student enrollment service.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ld:#:$diagnostics**Used to monitor website performance for statistical purposes.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ub_campaign**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ub_content**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ub_medium**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ub_source**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  
-    *   [open.spotify.com cdn.unibuddy.co 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)**sentryReplaySession[x2]**Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization.
-
-**Maximum Storage Duration**: Session**Type**: HTML Local Storage 
-
-*   
-These cookies are used to track behavior when you visit one or more websites. The goal is to better tailor our ads to be as relevant as possible for you instead of generic ads.
-
-    *   [Meta Platforms, Inc. 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_fbp**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
-
-**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  
-    *   [Google 12](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
-
-**IDE**Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
-
-**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie **pagead/1p-user-list/#**Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **ccm/conversion/751426430/**Pending
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **ccm/conversion/833847406/**Pending
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **ccm/conversion/866074224/**Pending
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **ccm/conversion/866077027/**Pending
-
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **__gsas**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-
-**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
-
-**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie **_gcl_au**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
-
-**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **GoogleAdServingTest**Used to register what ads have been displayed to the user.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  
-    *   [Microsoft 8](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_uetsid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_uetsid_exp**Contains the expiry-date for the cookie with corresponding name.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_uetvid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_uetvid_exp**Contains the expiry-date for the cookie with corresponding name.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **MR**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
-
-**Maximum Storage Duration**: 7 days**Type**: HTTP Cookie **MUID**Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **_uetsid**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **_uetvid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  
-    *   [Spotify 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.spotify.com/uk/legal/privacy-policy/ "Learn more about this provider Spotify's privacy policy - opens in a new window")**sp_landing**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **sp_t**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  
-    *   [Unibuddy 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mpq_#_#**Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **mp_#_mixpanel**Pending
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website.
-
-**Maximum Storage Duration**: Persistent**Type**: IndexedDB  
-    *   [YouTube 16](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie **TESTCOOKIESENABLED[x2]**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **yt-icons-last-purged[x2]**Necessary for the implementation and functionality of YouTube video-content on the website.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **ytidb::LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **YtIdbMeta#databases[x2]**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: Persistent**Type**: IndexedDB **__Secure-ROLLOUT_TOKEN**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie **__Secure-YNID**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.
-
-**Maximum Storage Duration**: Persistent**Type**: IndexedDB **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
-
-**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie  
-
-*   Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. 
-
-    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**li_fat_id**Pending
-
-**Maximum Storage Duration**: 30 days**Type**: HTTP Cookie 
-    *   [Tu/e 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.tue.nl/en/storage/disclaimer/ "Learn more about this provider Tu/e's privacy policy - opens in a new window")**aff_93e95bd6a**Pending
-
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie **page_view_count**Pending
-
-**Maximum Storage Duration**: Session**Type**: HTML Local Storage  
-    *   [YouTube 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**yt-player-caption-persistence**Pending
-
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage
+ Menu [Eindhoven University of Technology](https://www.tue.nl/en/)
+*   [Education](https://www.tue.nl/en/education)
+*   [Research](https://www.tue.nl/en/research)
+*   [Our university](https://www.tue.nl/en/our-university)
+*   [Working at TU/e](https://www.tue.nl/en/working-at-tue)
+*   [News and Events](https://www.tue.nl/en/news-and-events/news-events)
+*   [Impact](https://www.tue.nl/en/impact)
+
+[×](javascript:void(0) "Clear search box")
+
+[Search](https://www.tue.nl/en/)[Nederlands NL](https://www.tue.nl/zoeken/404-page-not-found)
+
+[](https://www.tue.nl/en/education/masters-programs/scholarships/)
+1.   [Home](https://www.tue.nl/en/)
+2.   [Search](https://www.tue.nl/en/search "Search")
+3.   [404 Page Not Found](https://www.tue.nl/en/search/404-page-not-found "404 Page Not Found")
+
+ 00110100 00110000 00110100 
+# 404 Page Not Found
+
+_sorry
+
+*   [Bachelor programs](https://www.tue.nl/en/education/degree-programs/bachelor-programs)
+*   [Master programs](https://www.tue.nl/en/education/degree-programs/master-programs)
+*   [Admission and enrollment](https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment)
+*   [Working at TU/e](https://www.tue.nl/en/working-at-tue)
+*   [Search staff](https://www.tue.nl/en/search-staff)
+*   [Route & map](https://www.tue.nl/en/our-university/tue-campus)
+*   [Education Guide](https://educationguide.tue.nl/)
+*   [Intranet](https://intranet.tue.nl/en/)
+*   [Cursor](https://www.cursor.tue.nl/en/)
+
+### Navigation address
+
+De Zaale
+
+Eindhoven
+
+[Phone number: +31 (0)40 247 9111](tel:0031402479111)
+
+[Contact](https://www.tue.nl/en/our-university/contact)
+
+### Postal address
+
+PO Box 513
+
+5600 MB Eindhoven
+
+### Follow us
+
+[](https://bsky.app/profile/tue.nl "Bluesky")[Like TU/e on Facebook](https://www.facebook.com/TU.Eindhoven "Facebook")[Follow TU/e on LinkedIn](https://www.linkedin.com/company/4838 "LinkedIn")[Follow TU/e on YouTube](https://www.youtube.com/user/tueindhoven "YouTube")[](https://www.instagram.com/tueindhoven/ "Instagram")
+
+*    © 2026 TU/e 
+*   [Disclaimer](https://www.tue.nl/en/storage/disclaimer)
+*   [Privacy](https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/privacy)
+
+[Eindhoven University of Technology](https://www.tue.nl/en/)
+*   [Education](https://www.tue.nl/en/education)
+*   [Research](https://www.tue.nl/en/research)
+*   [Our university](https://www.tue.nl/en/our-university)
+*   [Working at TU/e](https://www.tue.nl/en/working-at-tue)
+*   [News and Events](https://www.tue.nl/en/news-and-events/news-events)
+*   [Impact](https://www.tue.nl/en/impact)
+
+*   [TU/e Image Bank](http://imagebank.tue.nl/)
+*   [Educationguide](https://educationguide.tue.nl/)
+*   [Intranet](https://intranet.tue.nl/en)
+*   [Cursor](https://www.cursor.tue.nl/en)
+
+[](https://www.tue.nl/en/education/masters-programs/scholarships/)
+
+[×](javascript:void(0) "Clear search box")
+
+*   [Education](https://www.tue.nl/en/education)
+    *    Education 
+    *   [Education](https://www.tue.nl/en/education)
+    *   [Why study at TU/e](https://www.tue.nl/en/education/why-study-at-tue)
+        *    Why study at TU/e 
+        *   [Why study at TU/e](https://www.tue.nl/en/education/why-study-at-tue)
+        *   [Challenge-Based Learning](https://www.tue.nl/en/education/why-study-at-tue/challenge-based-learning)
+        *   [Internationally renowned research and education](https://www.tue.nl/en/education/why-study-at-tue/internationally-renowned-research-and-education)
+        *   [A great boost for your career](https://www.tue.nl/en/education/why-study-at-tue/a-great-boost-for-your-career)
+        *   [Excellent atmosphere](https://www.tue.nl/en/education/why-study-at-tue/excellent-atmosphere)
+        *   [More than a degree: where study meets career](https://www.tue.nl/en/education/why-study-at-tue/more-than-a-degree-where-study-meets-career)
+
+    *   [Bachelor College](https://www.tue.nl/en/education/bachelor-college)
+        *    Bachelor College 
+        *   [Bachelor College](https://www.tue.nl/en/education/bachelor-college)
+        *   [Bachelor's programs](https://www.tue.nl/en/education/degree-programs/bachelor-programs)
+        *   [Program structure](https://www.tue.nl/en/education/bachelor-college/program-structure)
+            *    Program structure 
+            *   [Program structure](https://www.tue.nl/en/education/bachelor-college/program-structure)
+            *   [Student-and study coaching](https://www.tue.nl/en/education/bachelor-college/program-structure/student-and-study-coaching)
+
+        *   [Selection](https://www.tue.nl/en/education/bachelor-college/selection)
+        *   [Study-choice check](https://www.tue.nl/en/education/bachelor-college/study-choice-check)
+        *   [Honors Academy](https://www.tue.nl/en/education/bachelor-college/honors-academy)
+        *   [Types of universities](https://www.tue.nl/en/education/bachelor-college/types-of-universities)
+        *   [Upcoming events](http://www.tue.nl/en/education/mystarttue/?utm_source=eventnavigation&utm_medium=link&utm_campaign=topmenu)
+        *   [Pre-TU/e offer](https://www.tue.nl/en/education/bachelor-college/pre-tue-offer)
+
+    *   [Graduate School](https://www.tue.nl/en/education/graduate-school)
+        *    Graduate School 
+        *   [Graduate School](https://www.tue.nl/en/education/graduate-school)
+        *   [Master's programs](https://www.tue.nl/en/education/degree-programs/master-programs)
+        *   [How we teach](https://www.tue.nl/en/education/graduate-school/how-we-teach)
+        *   [Honors Academy](https://www.tue.nl/en/education/graduate-school/honors-academy)
+        *   [Pre-Master](https://www.tue.nl/en/education/graduate-school/pre-master)
+            *    Pre-Master 
+            *   [Pre-Master](https://www.tue.nl/en/education/graduate-school/pre-master)
+            *   [Basic math](https://www.tue.nl/en/education/graduate-school/pre-master/basic-math)
+            *   [HBO (TOP) Minor at TU/e](https://www.tue.nl/en/education/graduate-school/pre-master/hbo-top-minor)
+
+        *   [EngD at TU/e](https://www.tue.nl/en/education/graduate-school/engd-at-tue)
+            *    EngD at TU/e 
+            *   [EngD at TU/e](https://www.tue.nl/en/education/graduate-school/engd-at-tue)
+            *   [More information for potential industrial partners](https://www.tue.nl/en/education/graduate-school/engd-at-tue/more-information-for-potential-industrial-partners)
+
+        *   [PhD](https://www.tue.nl/en/education/graduate-school/phd)
+            *    PhD 
+            *   [PhD](https://www.tue.nl/en/education/graduate-school/phd)
+            *   [Becoming a PhD candidate](https://www.tue.nl/en/education/graduate-school/phd-at-tue/how-to-become-a-phd-candidate)
+            *   [Life as PhD](https://www.tue.nl/en/education/graduate-school/phd/life-as-phd)
+            *   [PhD completion and beyond](https://www.tue.nl/en/education/graduate-school/phd/phd-completion-and-beyond)
+
+        *   [Graduate programs](https://www.tue.nl/en/education/graduate-school/graduate-programs)
+        *   [Upcoming events](https://www.tue.nl/en/education/mystarttue/?utm_source=eventnavigation&utm_medium=link&utm_campaign=topmenu#c269951)
+
+    *   [Become a TU/e student](https://www.tue.nl/en/education/become-a-tue-student)
+        *    Become a TU/e student 
+        *   [Become a TU/e student](https://www.tue.nl/en/education/become-a-tue-student)
+        *   [Admission and enrollment](https://www.tue.nl/en/education/become-a-tue-student/admission-and-enrollment)
+        *   [Visa & Residence Permit](https://www.tue.nl/en/education/become-a-tue-student/visa-residence-permit)
+        *   [Tuition fees and other study costs](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs)
+            *    Tuition fees and other study costs 
+            *   [Tuition fees and other study costs](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs)
+            *   [Application fee](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/application-fee)
+            *   [Tuition fee](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/tuition-fee)
+            *   [Guarantee fee](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/guarantee-fee)
+            *   [Proof of financial means](https://www.tue.nl/en/education/become-a-tue-student/tuition-fees-and-other-study-costs/proof-of-financial-means)
+
+        *   [Scholarships and grants](https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants)
+            *    Scholarships and grants 
+            *   [Scholarships and grants](https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants)
+            *   [TU/e Scholarship for Excellence: Shaping the Future of Microchip Innovation](https://www.tue.nl/en/education/become-a-tue-student/scholarships-and-grants/tue-scholarship-for-excellence-shaping-the-future-of-microchip-innovation)
+
+        *   [Housing](https://www.tue.nl/en/education/become-a-tue-student/housing)
+
+    *   [Academy for Learning and Teaching](https://www.tue.nl/en/academy-for-learning-and-teaching)
+        *    Academy for Learning and Teaching 
+        *   [Academy for Learning and Teaching](https://www.tue.nl/en/academy-for-learning-and-teaching)
+        *   [About ALT](https://www.tue.nl/en/academy-for-learning-and-teaching/about-alt)
+        *   [Teacher Development](https://www.tue.nl/en/academy-for-learning-and-teaching/teacher-development)
+        *   [Learning and Teaching Resources](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-and-teaching-resources)
+        *   [Educational Innovation and Development](https://www.tue.nl/en/academy-for-learning-and-teaching/educational-innovation-and-development)
+        *   [Partners](https://www.tue.nl/en/academy-for-learning-and-teaching/education-innovation-partners)
+        *   [Events and News](https://www.tue.nl/en/academy-for-learning-and-teaching/events-and-news)
+        *   [Learning Communities](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities)
+            *    Learning Communities 
+            *   [Learning Communities](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities)
+            *   [AI Learning Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/ai-learning-community)
+            *   [CBL Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/cbl-community)
+            *   [Learning Analytics Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/learning-analytics-community)
+            *   [Sustainability Learning Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/sustainability-learning-community)
+            *   [EDI Learning Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/edi-learning-community)
+            *   [Assessment Learning Community](https://www.tue.nl/en/academy-for-learning-and-teaching/learning-communities/assessment-learning-community)
+
+    *   [TU/e innovation Space](https://www.tue.nl/en/education/tue-innovation-space)
+        *    TU/e innovation Space 
+        *   [TU/e innovation Space](https://www.tue.nl/en/education/tue-innovation-space)
+        *   [About](https://www.tue.nl/en/education/tue-innovation-space/about)
+        *   [Student](https://www.tue.nl/en/education/tue-innovation-space/student)
+        *   [TU/e staff](https://www.tue.nl/en/education/tue-innovation-space/tue-staff)
+        *   [Partners](https://www.tue.nl/en/education/tue-innovation-space/partners)
+        *   [Education Innovation projects](https://www.tue.nl/en/education/tue-innovation-space/education-innovation-projects)
+        *   [TU/e Contest](https://www.tue.nl/en/education/tue-innovation-space/tue-contest)
+            *    TU/e Contest 
+            *   [TU/e Contest](https://www.tue.nl/en/education/tue-innovation-space/tue-contest)
+            *   [About](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/about)
+            *   [News](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/news)
+            *   [Partners](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/partners)
+            *   [Participants](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/participants)
+            *   [Timeline 2027](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/timeline-2027)
+            *   [Contact and Press](https://www.tue.nl/en/education/tue-innovation-space/tue-contest/contact-and-press)
+
+        *   [News and Events](https://www.tue.nl/en/education/tue-innovation-space/news-and-events)
+
+    *   [Professional Education](https://www.tue.nl/en/education/professional-education)
+
+*   [Research](https://www.tue.nl/en/research)
+    *    Research 
+    *   [Research](https://www.tue.nl/en/research)
+    *   [Institutes](https://www.tue.nl/en/research/institutes)
+        *    Institutes 
+        *   [Institutes](https://www.tue.nl/en/research/institutes)
+        *   [Casimir Institute](https://www.tue.nl/en/research/institutes/casimir-institute)
+            *    Casimir Institute 
+            *   [Casimir Institute](https://www.tue.nl/en/research/institutes/casimir-institute)
+            *   [Future Chips](https://www.tue.nl/en/research/institutes/casimir-institute/future-chips)
+            *   [High-Tech Systems](https://www.tue.nl/en/research/institutes/casimir-institute/high-tech-systems)
+            *   [Sustainability](https://www.tue.nl/en/research/institutes/casimir-institute/sustainability)
+            *   [esss](https://www.tue.nl/en/research/institutes/casimir-institute/esss)
+            *   [Celebrating 100 years of quantum](https://www.tue.nl/en/research/institutes/casimir-institute/quantum-timeline)
+            *   [Research Propositions](https://www.tue.nl/en/research/institutes/casimir-institute/research-propositions)
+            *   [Research in Focus](https://www.tue.nl/en/research/institutes/casimir-institute/research-in-focus)
+
+        *   [Eindhoven Artificial Intelligence Systems Institute](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute)
+            *    Eindhoven Artificial Intelligence Systems Institute 
+            *   [Eindhoven Artificial Intelligence Systems Institute](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute)
+            *   [About EAISI](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/about-eaisi)
+            *   [News](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/news)
+            *   [AI Education](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/ai-education)
+            *   [AI Research](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/ai-research)
+            *   [EAISI Moonshots](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/eaisi-moonshots)
+            *   [Partnerships and alliances](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/partnerships-and-alliances)
+            *   [EAISI Labs](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/eaisi-labs)
+            *   [AI Projects](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/ai-projects)
+            *   [BKOU - Bijlagen](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/bkou-bijlagen)
+
+        *   [Eindhoven Institute for Renewable Energy Systems](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems)
+            *    Eindhoven Institute for Renewable Energy Systems 
+            *   [Eindhoven Institute for Renewable Energy Systems](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems)
+            *   [About EIRES](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/focus-areas/about-eires)
+            *   [Education](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/education)
+            *   [Research](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/research)
+            *   [All news articles](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/all-news-articles)
+            *   [Events](https://www.tue.nl/en/research/institutes/eindhoven-institute-for-renewable-energy-systems/events)
+
+        *   [Institute for Complex Molecular Systems](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems)
+            *    Institute for Complex Molecular Systems 
+            *   [Institute for Complex Molecular Systems](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems)
+            *   [News](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/icms-news)
+            *   [Flagship Advanced Materials](https://www.tue.nl/en/impact/flagship-advanced-materials)
+            *   [Community](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/community)
+            *   [Research](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/research)
+            *   [Education](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/education)
+            *   [Partnerships](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/partnerships)
+            *   [Expert Services](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/expert-services)
+            *   [Facilities](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/facilities)
+            *   [ICMS Highlights](https://www.tue.nl/en/research/institutes/institute-for-complex-molecular-systems/expert-services/icms-magazine)
+
+    *   [Research Areas](https://www.tue.nl/en/research/research-areas)
+        *    Research Areas 
+        *   [Research Areas](https://www.tue.nl/en/research/research-areas)
+        *   [Advanced Robotics](https://www.tue.nl/en/research/research-areas/robotics)
+            *    Advanced Robotics 
+            *   [Advanced Robotics](https://www.tue.nl/en/research/research-areas/robotics)
+            *   [Robot icons](https://www.tue.nl/en/research/institutes/eindhoven-artificial-intelligence-systems-institute/robotics/robot-icons)
+
+        *   [Artificial Intelligence](https://www.tue.nl/en/research/research-areas/artificial-intelligence)
+        *   [Smart Mobility](https://www.tue.nl/en/research/research-areas/smart-mobility)
+        *   [Integrated Photonics](https://www.tue.nl/en/research/research-areas/integrated-photonics)
+        *   [Quantum Technology](https://www.tue.nl/en/research/research-areas/quantum-technology)
+        *   [Humans and Technology](https://www.tue.nl/en/research/research-areas/humans-and-technology)
+
+    *   [Research Groups](https://www.tue.nl/en/research/research-groups)
+    *   [Research Labs](https://www.tue.nl/en/research/research-labs)
+        *    Research Labs 
+        *   [Research Labs](https://www.tue.nl/en/research/research-labs)
+        *   [Other labs and facilities](https://www.tue.nl/en/research/research-labs/other-labs-and-facilities)
+
+    *   [Research Projects](https://www.tue.nl/en/research/research-projects)
+    *   [Researchers](https://www.tue.nl/en/research/researchers)
+    *   [Departments](https://www.tue.nl/en/our-university/departments)
+        *    Departments 
+        *   [Departments](https://www.tue.nl/en/our-university/departments)
+        *   [Applied Physics and Science Education](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/research)
+        *   [Biomedical Engineering](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research)
+        *   [Built Environment](https://www.tue.nl/en/our-university/departments/built-environment/research)
+        *   [Chemical Engineering and Chemistry](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/research)
+        *   [Eindhoven School of Education](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education/research)
+        *   [Electrical Engineering](https://www.tue.nl/en/our-university/departments/electrical-engineering/research)
+        *   [Industrial Design](https://www.tue.nl/en/our-university/departments/industrial-design)
+        *   [Industrial Engineering and Innovation Sciences](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/research)
+        *   [Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/research)
+        *   [Mechanical Engineering](https://www.tue.nl/en/our-university/departments/mechanical-engineering/research)
+
+    *   [Grants & Awards](https://www.tue.nl/en/research/grants-awards)
+        *    Grants & Awards 
+        *   [Grants & Awards](https://www.tue.nl/en/research/grants-awards)
+        *   [National Grants](https://www.tue.nl/en/research/grants-awards/national-grants)
+        *   [International Grants](https://www.tue.nl/en/research/grants-awards/international-grants)
+        *   [Winners TU/e Science Awards](https://www.tue.nl/en/research/grants-awards/winners-tue-science-awards)
+
+    *   [Research Support](https://www.tue.nl/en/research/research-support)
+
+*   [Our university](https://www.tue.nl/en/our-university)
+    *    Our university 
+    *   [Our university](https://www.tue.nl/en/our-university)
+    *   [About the University](https://www.tue.nl/en/our-university)
+        *    About the University 
+        *   [About the University](https://www.tue.nl/en/our-university)
+        *   [Our CORe values](https://www.tue.nl/en/our-university/about-the-university/core-values)
+        *   [TU/e Strategy 2030](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030)
+            *    TU/e Strategy 2030 
+            *   [TU/e Strategy 2030](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030)
+            *   [Strategic directions](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/strategic-directions)
+            *   [One TU/e](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/one-tue)
+            *   [Talent](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/talent)
+            *   [Science, Engineering, Design](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/cooperation)
+            *   [Value for society](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/resilience)
+            *   [Our strategy, our stories](https://www.tue.nl/en/our-university/about-the-university/tue-strategy-2030/our-strategy-our-stories)
+
+        *   [Organization](https://www.tue.nl/en/our-university/about-the-university/organization)
+            *    Organization 
+            *   [Organization](https://www.tue.nl/en/our-university/about-the-university/organization)
+            *   [Executive Board](https://www.tue.nl/en/our-university/about-the-university/organization/executive-board)
+            *   [Supervisory Board](https://www.tue.nl/en/our-university/about-the-university/organization/supervisory-board)
+            *   [Departmental boards](https://www.tue.nl/en/our-university/about-the-university/organization/departmental-boards)
+            *   [General PhD Council](https://www.tue.nl/en/our-university/about-the-university/organization/general-phd-council)
+            *   [Legal Affairs](https://www.tue.nl/en/our-university/about-the-university/organization/legal-affairs/open-government-act-woo)
+
+        *   [Support Services](https://www.tue.nl/en/our-university/about-the-university/support-services)
+        *   [Rankings](https://www.tue.nl/en/our-university/about-the-university/world-leading-university-in-cooperation-with-industry/rankings)
+        *   [Publications](https://www.tue.nl/en/our-university/about-the-university/publications)
+            *    Publications 
+            *   [Publications](https://www.tue.nl/en/our-university/about-the-university/publications)
+            *   [Educational Policy Publications](https://www.tue.nl/en/our-university/about-the-university/publications/educational-policy-publications)
+            *   [TU/e annual report](https://www.tue.nl/en/our-university/about-the-university/publications/tue-annual-report)
+            *   [Facts & Figures](https://www.tue.nl/en/our-university/about-the-university/publications/facts-figures)
+
+        *   [University alliances & networks](https://www.tue.nl/en/our-university/about-the-university/university-alliances-networks)
+            *    University alliances & networks 
+            *   [University alliances & networks](https://www.tue.nl/en/our-university/about-the-university/university-alliances-networks)
+            *   [Strategic alliance TU/e, WUR, UU and UMC Utrecht](https://www.tue.nl/en/our-university/about-the-university/university-alliances-networks/strategic-alliance-tue-wur-uu-and-umc-utrecht)
+            *   [TU/e EuroTech PhD program](https://www.tue.nl/en/our-university/about-the-university/university-alliances-networks/tue-eurotech-phd-program)
+            *   [Engineer the future with us](https://www.tue.nl/en/our-university/about-the-university/university-alliances-networks/engineer-the-future-with-us)
+
+        *   [Integrity and social safety](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety)
+            *    Integrity and social safety 
+            *   [Integrity and social safety](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety)
+            *   [Information and support for students](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/information-and-support-for-students)
+            *   [Information and support for staff](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/information-and-support-for-staff)
+            *   [Integrity and Social Safety Desk](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/integrity-and-social-safety-desk)
+            *   [Scientific integrity](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/scientific-integrity)
+            *   [Organizational integrity](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/organizational-integrity)
+            *   [TU/e Code of Conduct and regulations](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety/tue-code-of-conduct-and-regulations)
+
+        *   [Equity, Diversity and Inclusion](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion)
+            *    Equity, Diversity and Inclusion 
+            *   [Equity, Diversity and Inclusion](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion)
+            *   [TU/e Gender Equality Plan](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion/tue-gender-equality-plan)
+            *   [Yearly Celebrations](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion/yearly-celebrations)
+            *   [Voices of our Community](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion/voices-of-our-community)
+            *   [Irène Curie program](https://www.tue.nl/en/our-university/about-the-university/diversity-and-inclusion/irene-curie-program)
+            *   [Tools and Trainings (Intranet)](https://tuenl.sharepoint.com/sites/intranet-human-resources-management/SitePages/HRM-intranet/Equity,-Diversion-%26-Inclusion-Toolbox.aspx)
+
+        *   [TU/e Alumni Community](https://www.tue.nl/en/our-university/about-the-university/tue-alumni-community)
+        *   [TU/e Sustainability](https://www.tue.nl/en/our-university/about-the-university/sustainability)
+            *    TU/e Sustainability 
+            *   [TU/e Sustainability](https://www.tue.nl/en/our-university/about-the-university/sustainability)
+            *   [Sustainability in Education](https://www.tue.nl/en/our-university/about-the-university/sustainability/education)
+            *   [Sustainability in Research](https://www.tue.nl/en/our-university/about-the-university/sustainability/sustainability-in-research)
+            *   [Sustainability in Valorization](https://www.tue.nl/en/our-university/about-the-university/sustainability/sustainability-in-valorization)
+            *   [Sustainability in Operations](https://www.tue.nl/en/our-university/about-the-university/sustainability/sustainability-in-operations)
+            *   [Events & Workshops](https://www.tue.nl/en/our-university/about-the-university/sustainability/events-workshops)
+            *   [Sustainability Reports](https://www.tue.nl/en/our-university/about-the-university/sustainability/sustainability-reports)
+            *   [Sustainability News](https://www.tue.nl/en/our-university/about-the-university/sustainability/sustainability-news)
+            *   [About the Sustainability Office](https://www.tue.nl/en/our-university/about-the-university/sustainability/about-the-sustainability-office)
+            *   [GO Green Office](https://www.tue.nl/en/our-university/about-the-university/sustainability/go-green-office)
+
+        *   [Safety, security and integrity](https://www.tue.nl/en/our-university/about-the-university/security)
+            *    Safety, security and integrity 
+            *   [Safety, security and integrity](https://www.tue.nl/en/our-university/about-the-university/security)
+            *   [Physical security](https://www.tue.nl/en/our-university/about-the-university/security/physical-security)
+            *   [Information security](https://www.tue.nl/en/our-university/about-the-university/support-services/library-and-information-services/privacy-security)
+            *   [Knowledge security](https://www.tue.nl/en/our-university/about-the-university/security/knowledge-security)
+            *   [Occupational Health, Safety, Environment and Radiation Protection](https://www.tue.nl/en/our-university/about-the-university/support-services/human-resources-management/occupational-health-safety-environment-and-radiation-protection-ohser)
+            *   [Integrity and Social Safety](https://www.tue.nl/en/our-university/about-the-university/integrity-and-social-safety)
+
+        *   [Student wellbeing](https://educationguide.tue.nl/guidance-and-development/student-wellbeing)
+        *   [Facilities](https://www.tue.nl/en/our-university/about-the-university/facilities)
+        *   [EuFlex Technificent](https://www.tue.nl/en/our-university/about-the-university/euflex-technificent)
+
+    *   [Departments](https://www.tue.nl/en/our-university/departments)
+        *    Departments 
+        *   [Departments](https://www.tue.nl/en/our-university/departments)
+        *   [Applied Physics and Science Education](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education)
+            *    Applied Physics and Science Education 
+            *   [Applied Physics and Science Education](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education)
+            *   [Education](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/valorization)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/the-department)
+            *   [All News](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/all-news)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education/working-at-1)
+
+        *   [Biomedical Engineering](https://www.tue.nl/en/our-university/departments/biomedical-engineering)
+            *    Biomedical Engineering 
+            *   [Biomedical Engineering](https://www.tue.nl/en/our-university/departments/biomedical-engineering)
+            *   [News and events](https://www.tue.nl/en/our-university/departments/biomedical-engineering/news-and-events)
+            *   [Education](https://www.tue.nl/en/our-university/departments/biomedical-engineering/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/biomedical-engineering/research)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/biomedical-engineering/the-department)
+
+        *   [Built Environment](https://www.tue.nl/en/our-university/departments/built-environment)
+            *    Built Environment 
+            *   [Built Environment](https://www.tue.nl/en/our-university/departments/built-environment)
+            *   [Education](https://www.tue.nl/en/our-university/departments/built-environment/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/built-environment/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/built-environment/valorization)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/built-environment/the-department)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/built-environment/working-at)
+
+        *   [Chemical Engineering and Chemistry](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry)
+            *    Chemical Engineering and Chemistry 
+            *   [Chemical Engineering and Chemistry](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry)
+            *   [Education](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/valorization)
+            *   [Alumni](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/alumni)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/the-department)
+            *   [Working at CE&C](https://www.tue.nl/en/our-university/departments/chemical-engineering-and-chemistry/working-at-cec)
+
+        *   [Eindhoven School of Education](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education)
+            *    Eindhoven School of Education 
+            *   [Eindhoven School of Education](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education)
+            *   [Our organization](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education/our-organization)
+            *   [Education](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education/education-1)
+            *   [Research](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education/research)
+            *   [Innovation](https://www.tue.nl/en/our-university/departments/eindhoven-school-of-education/innovation)
+
+        *   [Electrical Engineering](https://www.tue.nl/en/our-university/departments/electrical-engineering)
+            *    Electrical Engineering 
+            *   [Electrical Engineering](https://www.tue.nl/en/our-university/departments/electrical-engineering)
+            *   [All News](https://www.tue.nl/en/our-university/departments/electrical-engineering/all-news)
+            *   [Education](https://www.tue.nl/en/our-university/departments/electrical-engineering/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/electrical-engineering/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/electrical-engineering/valorization)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/electrical-engineering/the-department)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/electrical-engineering/working-at)
+
+        *   [Industrial Design](https://www.tue.nl/en/our-university/departments/industrial-design)
+            *    Industrial Design 
+            *   [Industrial Design](https://www.tue.nl/en/our-university/departments/industrial-design)
+            *   [ID25 - 25 Years of Industrial Design](https://www.tue.nl/en/our-university/departments/industrial-design/id25-25-years-of-industrial-design)
+            *   [Education](https://www.tue.nl/en/our-university/departments/industrial-design/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/industrial-design/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/industrial-design/valorization)
+            *   [The department](https://www.tue.nl/en/our-university/departments/industrial-design/the-department)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/industrial-design/working-at)
+
+        *   [Industrial Engineering and Innovation Sciences](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences)
+            *    Industrial Engineering and Innovation Sciences 
+            *   [Industrial Engineering and Innovation Sciences](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences)
+            *   [Education](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/valorization)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/the-department)
+            *   [Working at IE&IS](https://www.tue.nl/en/our-university/departments/industrial-engineering-and-innovation-sciences/working-at-ieis)
+
+        *   [Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science)
+            *    Mathematics and Computer Science 
+            *   [Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science)
+            *   [The Department](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/the-department)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/valorization)
+            *   [Research](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/research)
+            *   [Education](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/education)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/working-at)
+
+        *   [Mechanical Engineering](https://www.tue.nl/en/our-university/departments/mechanical-engineering)
+            *    Mechanical Engineering 
+            *   [Mechanical Engineering](https://www.tue.nl/en/our-university/departments/mechanical-engineering)
+            *   [Education](https://www.tue.nl/en/our-university/departments/mechanical-engineering/education)
+            *   [Research](https://www.tue.nl/en/our-university/departments/mechanical-engineering/research)
+            *   [Valorization](https://www.tue.nl/en/our-university/departments/mechanical-engineering/valorization)
+            *   [The department](https://www.tue.nl/en/our-university/departments/mechanical-engineering/the-department)
+            *   [Wellbeing](https://www.tue.nl/en/our-university/departments/mechanical-engineering/wellbeing)
+            *   [Working at](https://www.tue.nl/en/our-university/departments/mechanical-engineering/working-at)
+
+    *   [Calendar and events](https://www.tue.nl/en/our-university/calendar-and-events)
+        *    Calendar and events 
+        *   [Calendar and events](https://www.tue.nl/en/our-university/calendar-and-events)
+        *   [Academic events](https://www.tue.nl/en/our-university/calendar-and-events/academic-events)
+            *    Academic events 
+            *   [Academic events](https://www.tue.nl/en/our-university/calendar-and-events/academic-events)
+            *   [Opening Academic Year](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/opening-academic-year)
+            *   [TU/e Best Teacher Awards](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/tue-best-teacher-awards)
+            *   [MomenTUm: the academic celebration of the year](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/momentum-the-academic-celebration-of-the-year)
+            *   [TU/e Academic Awards](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/tue-academic-awards)
+            *   [TU/e Science Awards](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/tue-science-awards)
+            *   [Inaugural and valedictory lectures](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/inaugural-and-valedictory-lectures)
+            *   [Holst Memorial Lecture](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/holst-memorial-lecture)
+            *   [Research Day](https://www.tue.nl/en/our-university/calendar-and-events/academic-events/research-day)
+
+    *   [TU/e Campus](https://www.tue.nl/en/our-university/tue-campus)
+        *    TU/e Campus 
+        *   [TU/e Campus](https://www.tue.nl/en/our-university/tue-campus)
+        *   [Access to the campus](https://www.tue.nl/en/our-university/tue-campus/accessibility)
+            *    Access to the campus 
+            *   [Access to the campus](https://www.tue.nl/en/our-university/tue-campus/accessibility)
+            *   [Access by Car](https://www.tue.nl/en/our-university/tue-campus/accessibility/access-by-car)
+            *   [Access by Bike](https://www.tue.nl/en/our-university/tue-campus/accessibility/access-by-bike)
+            *   [Access by public transport](https://www.tue.nl/en/our-university/tue-campus/accessibility/access-by-public-transport)
+            *   [Constructions on TU/e Campus](https://www.tue.nl/en/our-university/tue-campus/accessibility/constructions-on-tue-campus)
+
+        *   [Study on campus](https://www.tue.nl/en/our-university/tue-campus/study-on-campus)
+        *   [Living on campus](https://www.tue.nl/en/our-university/tue-campus/living-on-campus)
+        *   [Business on campus](https://www.tue.nl/en/our-university/tue-campus/business-on-campus)
+        *   [Work on campus](https://www.tue.nl/en/our-university/tue-campus/work-on-campus)
+            *    Work on campus 
+            *   [Work on campus](https://www.tue.nl/en/our-university/tue-campus/work-on-campus)
+            *   [Workwalk](https://www.tue.nl/en/our-university/tue-campus/work-on-campus/workwalk)
+
+        *   [Buildings](https://www.tue.nl/en/our-university/tue-campus/buildings)
+            *    Buildings 
+            *   [Buildings](https://www.tue.nl/en/our-university/tue-campus/buildings)
+            *   [Opening hours buildings](https://www.tue.nl/en/our-university/tue-campus/buildings/opening-hours-buildings)
+            *   [Regulations buildings](https://www.tue.nl/en/our-university/tue-campus/buildings/regulations-buildings)
+            *   [Aurora](https://www.tue.nl/en/our-university/tue-campus/buildings/aurora)
+            *   [Atlas](https://www.tue.nl/en/our-university/tue-campus/buildings/atlas)
+            *   [Auditorium](https://www.tue.nl/en/our-university/tue-campus/buildings/auditorium)
+            *   [Ceres](https://www.tue.nl/en/our-university/tue-campus/buildings/ceres)
+            *   [Flux](https://www.tue.nl/en/our-university/tue-campus/buildings/flux)
+            *   [Gaslab](https://www.tue.nl/en/our-university/tue-campus/buildings/gaslab)
+            *   [Gemini](https://www.tue.nl/en/our-university/tue-campus/buildings/gemini)
+            *   [Haven](https://www.tue.nl/en/our-university/tue-campus/buildings/haven)
+            *   [Helix](https://www.tue.nl/en/our-university/tue-campus/buildings/helix)
+            *   [Luna](https://www.tue.nl/en/our-university/tue-campus/buildings/luna)
+            *   [Matrix](https://www.tue.nl/en/our-university/tue-campus/buildings/matrix)
+            *   [MetaForum](https://www.tue.nl/en/our-university/tue-campus/buildings/metaforum)
+            *   [Neuron](https://www.tue.nl/en/our-university/tue-campus/buildings/neuron)
+            *   [Paviljoen: circular demolition](https://www.tue.nl/en/our-university/tue-campus/buildings/paviljoen-circular-demolition)
+            *   [Student Sports Center](https://www.tue.nl/en/our-university/tue-campus/buildings/student-sports-center)
+            *   [Traverse](https://www.tue.nl/en/our-university/tue-campus/buildings/traverse)
+            *   [Vertigo](https://www.tue.nl/en/our-university/tue-campus/buildings/vertigo)
+
+        *   [TU/e Campus Quality Committee](https://www.tue.nl/en/our-university/tue-campus/tue-campus-quality-committee)
+        *   [TU/e Heritage](https://www.tue.nl/en/our-university/tue-campus/tue-heritage)
+        *   [TU/e Art Collection](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection)
+            *    TU/e Art Collection 
+            *   [TU/e Art Collection](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection)
+            *   [Collection](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection/collection)
+            *   [On display](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection/on-display)
+            *   [Research & publications](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection/research-publications)
+            *   [Committee](https://www.tue.nl/en/our-university/tue-campus/tue-art-collection/art-committee)
+
+        *   [Campuses in the Netherlands](https://www.tue.nl/en/our-university/tue-campus/campuses-in-the-netherlands)
+        *   [A smoke-free TU/e campus](https://www.tue.nl/en/our-university/tue-campus/a-smoke-free-tue-campus)
+
+    *   [Library](https://www.tue.nl/en/our-university/library)
+        *    Library 
+        *   [Library](https://www.tue.nl/en/our-university/library)
+        *   [Collections in the spotlight](https://www.tue.nl/en/our-university/library/collections-in-the-spotlight)
+        *   [Resources](https://www.tue.nl/en/our-university/library/resources)
+            *    Resources 
+            *   [Resources](https://www.tue.nl/en/our-university/library/resources)
+            *   [(E-)Books](https://www.tue.nl/en/our-university/library/resources/e-books)
+            *   [Databases](https://www.tue.nl/en/our-university/library/resources/databases)
+            *   [(E-)Journals](https://www.tue.nl/en/our-university/library/resources/e-journals)
+            *   [Open Access](https://www.tue.nl/en/our-university/library/resources/open-access)
+            *   [TU/e Publications](https://www.tue.nl/en/our-university/library/resources/tue-publications)
+            *   [Multimedia](https://www.tue.nl/en/our-university/library/resources/multimedia)
+            *   [Archive](https://www.tue.nl/en/our-university/library/resources/archive)
+            *   [Academic Heritage](https://www.tue.nl/en/our-university/library/resources/academic-heritage)
+
+        *   [Library for researchers and PhDs](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds)
+            *    Library for researchers and PhDs 
+            *   [Library for researchers and PhDs](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds)
+            *   [Open Science](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/open-science)
+            *   [Searching and organizing literature](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/searching-and-organizing-literature)
+            *   [Scientific publishing](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/scientific-publishing)
+            *   [Research Data Management](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/research-data-management)
+            *   [Training and Workshops](https://www.tue.nl/en/our-university/library/library-for-researchers-and-phds/training-and-workshops)
+
+        *   [Library for students](https://www.tue.nl/en/our-university/library/library-for-students)
+            *    Library for students 
+            *   [Library for students](https://www.tue.nl/en/our-university/library/library-for-students)
+            *   [Searching literature: tips and collections](https://www.tue.nl/en/our-university/library/library-for-students/searching-literature-tips-and-collections)
+            *   [Library Facilities](https://www.tue.nl/en/our-university/library/library-for-students/library-facilities)
+            *   [Training and workshops](https://www.tue.nl/en/our-university/library/library-for-students/training-and-workshops)
+
+        *   [Library for lecturers](https://www.tue.nl/en/our-university/library/library-for-lecturers)
+            *    Library for lecturers 
+            *   [Library for lecturers](https://www.tue.nl/en/our-university/library/library-for-lecturers)
+            *   [Resources for your courses](https://www.tue.nl/en/our-university/library/library-for-lecturers/resources-for-your-courses)
+            *   [Creating education resources](https://www.tue.nl/en/our-university/library/library-for-lecturers/creating-education-resources)
+
+        *   [How to use the library](https://www.tue.nl/en/our-university/library/how-to-use-the-library)
+            *    How to use the library 
+            *   [How to use the library](https://www.tue.nl/en/our-university/library/how-to-use-the-library)
+            *   [The library for external users](https://www.tue.nl/en/our-university/library/how-to-use-the-library/the-library-for-external-users)
+            *   [Opening Hours](https://www.tue.nl/en/our-university/library/how-to-use-the-library/opening-hours)
+            *   [Digital (remote) access](https://www.tue.nl/en/our-university/library/how-to-use-the-library/digital-remote-access)
+            *   [Borrow/Renewal/Purchase](https://www.tue.nl/en/our-university/library/how-to-use-the-library/borrowrenewalpurchase)
+            *   [Reservation of books](https://www.tue.nl/en/our-university/library/how-to-use-the-library/reservation-of-books)
+            *   [Inter Library Loan](https://www.tue.nl/en/our-university/library/how-to-use-the-library/inter-library-loan)
+            *   [Reservation of study space](https://www.tue.nl/en/our-university/library/how-to-use-the-library/reservation-of-study-space)
+            *   [Collection floorplan](https://www.tue.nl/en/our-university/library/how-to-use-the-library/collection-floorplan)
+            *   [Personal tour](https://www.tue.nl/en/our-university/library/how-to-use-the-library/personal-tour)
+            *   [Regulations](https://www.tue.nl/en/our-university/library/how-to-use-the-library/regulations)
+
+        *   [Facts & figures](https://www.tue.nl/en/our-university/library/facts-figures)
+        *   [Calendar](https://www.tue.nl/en/our-university/library/26-11-2020-calendar)
+        *   [Library news](https://www.tue.nl/en/our-university/library/library-news)
+        *   [FAQ](https://www.tue.nl/en/our-university/library/faq)
+            *    FAQ 
+            *   [FAQ](https://www.tue.nl/en/our-university/library/faq)
+            *   [FAQ Full text](https://www.tue.nl/en/our-university/library/faq/faq-full-text)
+            *   [FAQ Proxy server](https://www.tue.nl/en/our-university/library/faq/faq-proxy-server)
+            *   [FAQ Copyright](https://www.tue.nl/en/our-university/library/faq/faq-copyright)
+            *   [FAQ Mendeley and search databases](https://www.tue.nl/en/our-university/library/faq/faq-mendeley-and-search-databases)
+            *   [FAQ Information Literacy and Information Skills](https://www.tue.nl/en/our-university/library/faq/faq-information-literacy-and-information-skills)
+            *   [FAQ Practical information about using the library](https://www.tue.nl/en/our-university/library/faq/faq-practical-information-about-using-the-library)
+            *   [FAQ Ordering material from the library](https://www.tue.nl/en/our-university/library/faq/faq-ordering-material-from-the-library)
+            *   [FAQ Open Access](https://www.tue.nl/en/our-university/library/faq/faq-open-access)
+            *   [FAQ Pure](https://www.tue.nl/en/our-university/library/faq/faq-pure)
+            *   [FAQ External customers](https://www.tue.nl/en/our-university/library/faq/faq-external-customers)
+
+    *   [Community](https://www.tue.nl/en/our-university/community)
+        *    Community 
+        *   [Community](https://www.tue.nl/en/our-university/community)
+        *   [Overview communities](https://www.tue.nl/en/our-university/community/overview-communities)
+
+    *   [Student Teams](https://www.tue.nl/en/our-university/tue-student-teams/student-teams)
+
+*   [Working at TU/e](https://www.tue.nl/en/working-at-tue)
+    *    Working at TU/e 
+    *   [Working at TU/e](https://www.tue.nl/en/working-at-tue)
+    *   [Vacancies](https://www.tue.nl/en/working-at-tue/vacancy-overview)
+    *   [Scientific Staff](https://www.tue.nl/en/working-at-tue/scientific-staff)
+        *    Scientific Staff 
+        *   [Scientific Staff](https://www.tue.nl/en/working-at-tue/scientific-staff)
+        *   [Scientific Staff](https://www.tue.nl/en/working-at-tue/scientific-staff)
+        *   [Academic Perspectives](https://www.tue.nl/en/working-at-tue/scientific-staff/academic-perspectives)
+        *   [Irène Curie Program](https://www.tue.nl/en/working-at-tue/scientific-staff/irene-curie-program)
+        *   [Learning & Development](https://www.tue.nl/en/working-at-tue/scientific-staff/learning-development)
+        *   [Personal Grants](https://www.tue.nl/en/working-at-tue/scientific-staff/personal-grants)
+        *   [Partner Career Support Program](https://www.tue.nl/en/working-at-tue/scientific-staff/partner-career-support-program)
+        *   [Scientific Staff Vacancies](https://www.tue.nl/en/working-at-tue/vacancy-overview?filters=1051&search=&_gl=1*m7tfus*_up*MQ..*_ga*NDc5MDQxODY2LjE3NDQxMTEyMTE.*_ga_JN37M497TT*MTc0NDExMTIxMC4xLjEuMTc0NDExMTIxOS4wLjAuMA)
+
+    *   [Support Staff](https://www.tue.nl/en/working-at-tue/support-staff)
+        *    Support Staff 
+        *   [Support Staff](https://www.tue.nl/en/working-at-tue/support-staff)
+        *   [Support Staff](https://www.tue.nl/en/working-at-tue/support-staff)
+        *   [Learning & Development](https://www.tue.nl/en/working-at-tue/support-staff/learning-development)
+        *   [Support Staff Vacancies](https://www.tue.nl/en/working-at-tue/vacancy-overview?filters=1052&search=&_gl=1*1sceer7*_up*MQ..*_ga*NDc5MDQxODY2LjE3NDQxMTEyMTE.*_ga_JN37M497TT*MTc0NDExMTIxMC4xLjEuMTc0NDExMTQ0Mi4wLjAuMA)
+
+    *   [PhD](https://www.tue.nl/en/education/graduate-school/phd)
+    *   [EngD](https://www.tue.nl/en/education/graduate-school/engd-at-tue)
+    *   [At TU/e](https://www.tue.nl/en/working-at-tue/why-tue)
+        *    At TU/e 
+        *   [At TU/e](https://www.tue.nl/en/working-at-tue/why-tue)
+        *   [Why TU/e](https://www.tue.nl/en/working-at-tue/why-tue)
+        *   [Conditions of Employment](https://www.tue.nl/en/working-at-tue/why-tue/conditions-of-employment)
+        *   [Application Process](https://www.tue.nl/en/working-at-tue/why-tue/application-process)
+        *   [Support for Internationals](https://www.tue.nl/en/working-at-tue/internationals)
+
+*   [News and Events](https://www.tue.nl/en/news-and-events/news-events)
+    *    News and Events 
+    *   [News and Events](https://www.tue.nl/en/news-and-events/news-events)
+    *   [News overview](https://www.tue.nl/en/news-and-events/news-overview)
+    *   [Media relations](https://www.tue.nl/en/news-and-events/media-relations)
+
+*   [Impact](https://www.tue.nl/en/impact)
+    *    Impact 
+    *   [Impact](https://www.tue.nl/en/impact)
+    *   [Cooperation with Industry](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry)
+        *    Cooperation with Industry 
+        *   [Cooperation with Industry](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry)
+        *   [TU/e cooperation with industry](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry)
+            *    TU/e cooperation with industry 
+            *   [TU/e cooperation with industry](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry)
+            *   [The great value of collaboration with industry](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry/the-great-value-of-collaboration-with-industry)
+            *   [How does TU/e collaborate with industry?](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry/how-does-tue-collaborate-with-industry)
+            *   [The right ground rules](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry/the-right-ground-rules)
+            *   [Tech Talent for Brainport](https://www.tue.nl/en/impact/cooperation-with-industry/tue-cooperation-with-industry/tech-talent-for-brainport)
+
+    *   [Knowledge Transfer Office](https://www.tue.nl/en/impact/knowledge-transfer-office)
+        *    Knowledge Transfer Office 
+        *   [Knowledge Transfer Office](https://www.tue.nl/en/impact/knowledge-transfer-office)
+        *   [Student Entrepreneurship](https://www.tue.nl/en/impact/knowledge-transfer-office/student-entrepreneurship)
+        *   [TU/e Innovation Fund](https://www.tue.nl/en/impact/knowledge-transfer-office/tue-innovation-fund)
+        *   [Startup Readiness Program (SRP)](https://www.tue.nl/en/impact/knowledge-transfer-office/startup-readiness-program-srp)
+        *   [Entrepreneur-in-Residence (EIR) Program](https://www.tue.nl/en/impact/knowledge-transfer-office/entrepreneur-in-residence-eir-program)
+
+    *   [TU/e Participations](https://www.tue.nl/en/impact/tue-participations)
+        *    TU/e Participations 
+        *   [TU/e Participations](https://www.tue.nl/en/impact/tue-participations)
+        *   [Supervisory Board](https://www.tue.nl/en/impact/tue-participations/supervisory-board)
+        *   [Spin-offs in TU/e Participations](https://www.tue.nl/en/impact/tue-participations/spin-offs-in-tue-participations)
+
+    *   [Starting your business](https://www.tue.nl/en/impact/starting-your-business)
+        *    Starting your business 
+        *   [Starting your business](https://www.tue.nl/en/impact/starting-your-business)
+        *   [Knowledge valorization](https://www.tue.nl/en/impact/knowledge-valorization)
+
+    *   [Intellectual Property](https://www.tue.nl/en/impact/intellectual-property-rights)
+        *    Intellectual Property 
+        *   [Intellectual Property](https://www.tue.nl/en/impact/intellectual-property-rights)
+        *   [Intellectual Property for students](https://www.tue.nl/en/impact/intellectual-property-rights/intellectual-property-for-students)
+        *   [Intellectual Property Rights for staff](https://www.tue.nl/en/impact/intellectual-property-rights/intellectual-property-rights-for-staff)
+
+    *   [Stay rates](https://www.tue.nl/en/impact/stay-rates)
+    *   [Brainport for Eachother](https://www.tue.nl/en/impact/brainport/brainport-for-eachother)
+
+*   [TU/e Image Bank](http://imagebank.tue.nl/)
+*   [Educationguide](https://educationguide.tue.nl/)
+*   [Intranet](https://intranet.tue.nl/en)
+*   [Cursor](https://www.cursor.tue.nl/en)
+
+|  |  |
+| --- | --- |
+
+|  |  |
+| --- | --- |
+
+![Image 1](https://bat.bing.com/action/0?ti=97258960&tm=gtm002&Ver=2&mid=ba7593a4-d4e1-4155-a5bc-bfb3df8703e4&bo=1&sid=0c335b20c9da11f18164891e5d537703&vid=0c336270c9da11f199b43bfd198eafd0&vids=1&msclkid=N&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%20Page%20Not%20Found&p=https%3A%2F%2Fwww.tue.nl%2Fen%2Feducation%2Fmasters-programs%2Fscholarships%2F&r=&lt=1316&evt=pageLoad&sv=2&cdb=AQIR&rn=541426)

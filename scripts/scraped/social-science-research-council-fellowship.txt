@@ -3,8 +3,6 @@ Title: Fellowship and Grants Administration
 
 URL Source: https://www.ssrc.org/fellowships/
 
-Published Time: Fri, 16 Oct 2026 16:35:33 GMT
-
 Markdown Content:
 [Skip to content](https://www.ssrc.org/fellowships/#content)
 
@@ -14,9 +12,9 @@ Markdown Content:
 *   [Our Work](https://www.ssrc.org/our-work/)
 *   Current Opportunities
     *   Current Opportunities
-        *   [![Image 2: apdd_circle](https://www.ssrc.org/wp-content/uploads/2026/10/apdd_circle.png)African Peacebuilding and Developmental Dynamics (APDD) Fellowships – Supporting emerging African scholars advancing research on peacebuilding and development through mentorship, funding, and regional networks.](https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/)
+        *   [![Image 2: apdd_circle](https://www.ssrc.org/wp-content/uploads/2026/10/apdd_circle.png)African Peacebuilding and Developmental Dynamics (APDD) Fellowships – Supporting emerging African scholars advancing research on peacebuilding and development through mentorship, funding, and regional networks](https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/)
         *   [![Image 3: nextgenj](https://www.ssrc.org/wp-content/uploads/2026/04/nextgenj.png)SSRC-JF Next Generation Japan Studies Development Grants – New opportunities for students, faculty, and institutions to deepen Japan-related research and teaching in the United States](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
-        *   [![Image 4: crop-rt](https://www.ssrc.org/wp-content/uploads/2026/10/crop-rt.png)The Rachel Tanur Memorial Prize for Visual Sociology – Supporting emerging African scholars advancing research on peacebuilding and development through mentorship, funding, and regional networks.](https://racheltanurmemorialprize.ssrc.org/)
+        *   [![Image 4: crop-rt](https://www.ssrc.org/wp-content/uploads/2026/10/crop-rt.png)The Rachel Tanur Memorial Prize for Visual Sociology – Annual prize recognizing outstanding visual sociology work, honoring Rachel Tanur’s legacy in the field](https://racheltanurmemorialprize.ssrc.org/)
 
 *   [Our Network](https://www.ssrc.org/our-network/)
     *           *   [![Image 5](https://www.ssrc.org/wp-content/uploads/2024/01/cuf_initiatives_logo-2.png) College and University Fund for the Social Sciences](https://www.ssrc.org/college-and-university-fund-for-the-social-sciences/)A consortium of higher education institutions dedicated to strengthening the infrastructure for social and behavioral science.  
