@@ -89,6 +89,6 @@ You may find these frequently visited LSA and university web resources helpful:
 *   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
 *   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
 *   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://prod.lsa.umich.edu/content/michigan-lsa/cscs/en/people/affiliated-faculty/gomenn/jcr:content/jcr:content/news_feed.story.html/1.html)
+*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/UMICH/en/eeb/Home/People/Rabosky_CV_Feb2016.pdf)
 
  © [2026 Regents of the University of Michigan](http://regents.umich.edu/)

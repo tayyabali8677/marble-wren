@@ -3,28 +3,12 @@ Title: Page not found | ICTP
 
 URL Source: https://www.ictp.it/programmes.aspx
 
-Published Time: Sat, 17 Oct 2026 15:43:36 GMT
+Published Time: Sun, 18 Oct 2026 03:42:41 GMT
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[Skip to main content](https://www.ictp.it/programmes.aspx#main-content)
-
-[ICTP](https://www.ictp.it/)
-
-## Breadcrumbs
-
-Search
-
-Close Search
-
 [![Image 1: logo-ictp-white](https://www.ictp.it/themes/custom/ictp/assets/loghi/newlogo-white.png)](https://www.ictp.it/)
-
-BACK
-
-Search
-
-Close Search
 
 ## Main navigation
 
@@ -270,219 +254,81 @@ Close Search
         *   [Associates Programme](https://www.ictp.it/sti/associates-programme)
         *   [Postdoctoral Opportunities](https://www.ictp.it/sti/postdoctoral-opportunities)
 
-![Image 2: Mark Mezard with ICTP students](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/Mezard_Students_1280x720.jpg?h=8298316b&itok=ijrj5Pe_)
+![Image 2: physics](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/physics_abstract.jpg?h=3b4a0432&itok=KL5Xlsb8)
 
- Who We Are 
+Research Fields
 
- Uniting the world through science 
-
-[DISCOVER MORE](https://www.ictp.it/home/who-we-are)
-
-![Image 3: blackboard](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/Blackboard_plantH.jpg?h=520d7406&itok=DicUUGgt)
-
- What We Do 
-
- A hub for global scientific excellence 
-
-[DISCOVER MORE](https://www.ictp.it/home/what-we-do)
-
-![Image 4: physics](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/physics_abstract.jpg?h=3b4a0432&itok=KL5Xlsb8)
-
- Research Fields 
-
- Fostering advanced studies in physics and mathematics 
+Fostering advanced studies in physics and mathematics
 
 [DISCOVER MORE](https://www.ictp.it/home/research-fields)
 
-![Image 5: Library](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/LibraryShelves_reduced.jpg?h=f110d9c1&itok=VeDzfncL)
+![Image 3: MMP graduation](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/MMP_Grad1280.jpg?h=b705d922&itok=OwVio9SR)
 
- Publications 
+Opportunities Overview
 
-[DISCOVER MORE](https://www.ictp.it/home/publications)
-
-[seminars 13 Oct 2026 02 Mar 2027 Earth System Physics ### ESP Seminar - Tuesdays 11:00 CET Hybrid](https://indico.ictp.it/event/11306)[scientific activity 12 Oct 2026 23 Oct 2026 Earth System Physics ### *** CANCELLED *** Earthquake Tectonics and Hazards on the Continents |... Physical](https://indico.ictp.it/event/11167)[scientific activity 12 Oct 2026 30 Oct 2026 Condensed Matter and Statistical Physics ### Joint ICTP-WE Heraeus College on Advances in Topological Quantum Matte... Physical](https://indico.ictp.it/event/11168)[seminars 09 Oct 2026 26 Feb 2027 Earth System Physics ### Current Weather - Fridays 14:30 CET Hybrid](https://indico.ictp.it/event/11291)[scientific activity 13 Aug 2026 17 Dec 2026 ### PWF Central America: Journal Club and Seminars in Field Theory Online](https://indico.ictp.it/event/11343)[scientific activity 20 Jul 2026 20 Oct 2026 ### PWF Bangladesh: Summer Internship Program 2026 Online](https://indico.ictp.it/event/11374)
-
-[Discover all events](https://www.ictp.it/home/scientific-calendar)
-
-![Image 6: MMP graduation](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/MMP_Grad1280.jpg?h=b705d922&itok=OwVio9SR)
-
- Opportunities Overview 
-
- ICTP: A unique, international learning environment 
+ICTP: A unique, international learning environment
 
 [DISCOVER MORE](https://www.ictp.it/home/opportunities-overview)
 
- ICTP Science Outreach 
+ICTP Science Outreach
 
- Nurturing sustainable science throughout the world 
+Nurturing sustainable science throughout the world
 
 [DISCOVER MORE](https://www.ictp.it/home/ictp-science-outreach)
 
- Partner Institutes 
+Partner Institutes
 
- ICTP has opened four partner institutes 
+ICTP has opened four partner institutes
 
 [DISCOVER MORE](https://www.ictp.it/home/partner-institutes)
 
- Campus map 
+![Image 4: blackboard with ray of light](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/RBF_1248_RBf.jpg?h=1edc22ea&itok=EwfHaDBM)
 
-[DISCOVER MORE](https://www.ictp.it/home/campus-map)
+About
 
-![Image 7: blackboard with ray of light](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/RBF_1248_RBf.jpg?h=1edc22ea&itok=EwfHaDBM)
-
- About 
-
- High Energy, Cosmology and Astroparticle Physics 
+High Energy, Cosmology and Astroparticle Physics
 
 [DISCOVER MORE](https://www.ictp.it/hecap/about)
 
-![Image 8: HECAP people](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/HECAP_web_People.jpg?h=109434ca&itok=Fscynq1L)
+Opportunities Overview
 
- People 
-
- HECAP Scientists and Staff 
-
-[DISCOVER MORE](https://www.ictp.it/hecap/people)
-
- Publications 
-
-[DISCOVER MORE](https://www.ictp.it/hecap/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in high energy, cosmology and astroparticle physics 
+Discover ICTP's education and training programmes in high energy, cosmology and astroparticle physics
 
 [DISCOVER MORE](https://www.ictp.it/hecap/opportunities-overview)
 
-![Image 9: CMSP Blackboard](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/A09A1521_RBf.jpg?h=5289dd55&itok=hhA9gbgV)
+Opportunities Overview
 
- About 
-
- Condensed Matter and Statistical Physics 
-
-[DISCOVER MORE](https://www.ictp.it/cmsp/about)
-
-![Image 10: CMSP Students](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/RBF_0774_RBf.jpg?h=0d9b0a61&itok=rut3zCww)
-
- People 
-
- CMSP scientists and secretariat staff 
-
-[DISCOVER MORE](https://www.ictp.it/cmsp/people)
-
- Publications 
-
- CMSP publications 
-
-[DISCOVER MORE](https://www.ictp.it/cmsp/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in condensed matter and statistical physics 
+Discover ICTP's education and training programmes in condensed matter and statistical physics
 
 [DISCOVER MORE](https://www.ictp.it/cmsp/opportunities-overview)
 
-![Image 11: Handheld spectrum analyzer](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/A09A2085_RBf.jpg?h=af6a3401&itok=dKdXZ8RC)
+Opportunities Overview
 
- About 
-
- Science, Technology and Innovation 
-
-[DISCOVER MORE](https://www.ictp.it/sti/about)
-
-![Image 12: STI people](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/STI_web_People.png?h=4a4c2be6&itok=HYqdbUO6)
-
- People 
-
-[DISCOVER MORE](https://www.ictp.it/sti/people)
-
- Publications 
-
- STI publications 
-
-[DISCOVER MORE](https://www.ictp.it/sti/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in science, technology and innovation 
+Discover ICTP's education and training programmes in science, technology and innovation
 
 [DISCOVER MORE](https://www.ictp.it/sti/opportunities-overview)
 
- Laboratory Opportunities 
+Laboratory Opportunities
 
- Hands-on experience in world-class laboratories 
+Hands-on experience in world-class laboratories
 
 [DISCOVER MORE](https://www.ictp.it/sti/laboratory-opportunities)
 
-![Image 13: MATH Notes](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/A09A1567_RBf.jpg?h=e9a72e6b&itok=50h8hCIq)
+Opportunities Overview
 
- About 
-
- Mathematics 
-
-[DISCOVER MORE](https://www.ictp.it/math/about)
-
-![Image 14: Mathematicians](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/MathPeopleBannerWeb.png?h=b4334cdc&itok=lbIvxwi-)
-
- People 
-
-[DISCOVER MORE](https://www.ictp.it/math/people)
-
- Publications 
-
-[DISCOVER MORE](https://www.ictp.it/math/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in mathematics 
+Discover ICTP's education and training programmes in mathematics
 
 [DISCOVER MORE](https://www.ictp.it/math/opportunities-overview)
 
-![Image 15: QLS Bird flock](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/birdflock2.png?h=7aaabf38&itok=a65uu6uS)
+Opportunities Overview
 
- About 
-
- Quantitative Life Sciences 
-
-[DISCOVER MORE](https://www.ictp.it/qls/about)
-
-![Image 16: QLS Research Scientists](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/RBF_0915_RBf.jpg?h=8df4e373&itok=DJ-oQ_aD)
-
- People 
-
-[DISCOVER MORE](https://www.ictp.it/qls/people)
-
- Publications 
-
- QLS recent publications 
-
-[DISCOVER MORE](https://www.ictp.it/qls/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in quantitative life sciences 
+Discover ICTP's education and training programmes in quantitative life sciences
 
 [DISCOVER MORE](https://www.ictp.it/qls/opportunities-overview)
 
-![Image 17: Man pointing to a map](https://www.ictp.it/sites/default/files/styles/page_banner/public/images/ESP%2008_low.jpg?h=b28c5b4b&itok=YVsz43DQ)
+Opportunities Overview
 
- About 
-
- Earth System Physics 
-
-[DISCOVER MORE](https://www.ictp.it/esp/about)
-
- People 
-
-[DISCOVER MORE](https://www.ictp.it/esp/people)
-
- Publications 
-
-[DISCOVER MORE](https://www.ictp.it/esp/publications)
-
- Opportunities Overview 
-
- Discover ICTP's education and training programmes in earth system physics 
+Discover ICTP's education and training programmes in earth system physics
 
 [DISCOVER MORE](https://www.ictp.it/esp/opportunities-overview)
 
@@ -501,25 +347,23 @@ Close Search
 *   [Linkedin](https://www.linkedin.com/company/abdus-salam-international-centre-for-theoretical-physics-ictp-/)
 *   [Flickr](https://www.flickr.com/photos/ictpimages/albums/with/72157655087163664)
 
-Search
-
-Close Search
-
-[homepage](https://www.ictp.it/)
-
 ## Main navigation (Mobile)
 
 *   [Home](https://www.ictp.it/)
     *   About
-        *   [Who We Are](https://www.ictp.it/home/who-we-are) 
-            About  / Who We Are 
+        *   [Who We Are](https://www.ictp.it/home/who-we-are)
+            
+About  / Who We Are
+
             *   [Our Mission](https://www.ictp.it/home/our-mission)
             *   [Governance](https://www.ictp.it/home/governance)
             *   [Institutional Partners](https://www.ictp.it/home/institutional-partners)
             *   [Our History](https://www.ictp.it/home/our-history)
 
-        *   [What We Do](https://www.ictp.it/home/what-we-do) 
-            About  / What We Do 
+        *   [What We Do](https://www.ictp.it/home/what-we-do)
+            
+About  / What We Do
+
             *   [Research](https://www.ictp.it/home/research)
             *   [Education](https://www.ictp.it/home/education)
             *   [Global Outreach](https://www.ictp.it/home/global-outreach)
@@ -538,22 +382,28 @@ Close Search
         *   [Publications](https://www.ictp.it/home/publications)
 
     *   Scientific Calendar
-        *   [Current Events](https://www.ictp.it/home/scientific-calendar) 
-            Scientific Calendar  / Current Events 
+        *   [Current Events](https://www.ictp.it/home/scientific-calendar)
+            
+Scientific Calendar  / Current Events
+
             *   [Conferences](https://www.ictp.it/home/scientific-calendar?ty%5B56%5D=56&ty%5B60%5D=60)
             *   [Schools](https://www.ictp.it/home/scientific-calendar?ty%5B54%5D=54&ty%5B60%5D=60)
             *   [Workshops](https://www.ictp.it/home/scientific-calendar?ty%5B55%5D=55&ty%5B60%5D=60)
             *   [Seminars](https://www.ictp.it/home/scientific-calendar?ty%5B52%5D=52)
 
-        *   [ICTP Special Events](https://www.ictp.it/home/ictp-special-events) 
-            Scientific Calendar  / ICTP Special Events 
+        *   [ICTP Special Events](https://www.ictp.it/home/ictp-special-events)
+            
+Scientific Calendar  / ICTP Special Events
+
             *   [Salam Distinguished Lectures](https://www.ictp.it/home/salam-distinguished-lectures-series?ty%5B51%5D=51)
             *   [Colloquia](https://www.ictp.it/home/colloquia-series?ty%5B53%5D=53)
             *   [Ceremonies](https://www.ictp.it/home/ceremonies-series?ty%5B59%5D=59&ty%5B58%5D=58)
 
         *   [Events Archive](https://www.ictp.it/home/ictp-events-archive)
-        *   [About the Scientific Calendar](https://www.ictp.it/home/about-ictps-scientific-calendar) 
-            Scientific Calendar  / About the Scientific Calendar 
+        *   [About the Scientific Calendar](https://www.ictp.it/home/about-ictps-scientific-calendar)
+            
+Scientific Calendar  / About the Scientific Calendar
+
             *   [Attend an event](https://www.ictp.it/home/attend-ictp-event)
             *   [Check your application status](https://e-portal.ictp.it/applicant/login)
             *   [Propose an event](https://www.ictp.it/home/propose-ictp-event)
@@ -592,18 +442,24 @@ Close Search
 
     *   ICTP Library
         *   [Search the ICTP Library Catalogue](https://cat.ictp.it/)
-        *   [Resources and Services](https://library.ictp.it/library/licensed-resources) 
-            ICTP Library  / Resources and Services 
+        *   [Resources and Services](https://library.ictp.it/library/licensed-resources)
+            
+ICTP Library  / Resources and Services
+
             *   [Request an Article](https://www.ictp.it/library/request-article)
 
-        *   [For Developing Countries](https://www.ictp.it/library/developing-countries) 
-            ICTP Library  / For Developing Countries 
+        *   [For Developing Countries](https://www.ictp.it/library/developing-countries)
+            
+ICTP Library  / For Developing Countries
+
             *   [Book Donation Programme](https://www.ictp.it/library/book-donation-programme)
             *   [eJournals Delivery Service](http://ejds.ictp.it/ejds/)
             *   [Special Initiatives for Developing Countries](https://www.ictp.it/library/special-initiatives-developing-countries)
 
-        *   [About the ICTP Library](https://www.ictp.it/library) 
-            ICTP Library  / About the ICTP Library 
+        *   [About the ICTP Library](https://www.ictp.it/library)
+            
+ICTP Library  / About the ICTP Library
+
             *   [ICTP Library Staff](https://www.ictp.it/library/ictp-library-staff)
             *   [For Librarians](https://www.ictp.it/library/librarians)
 
@@ -775,144 +631,7 @@ Close Search
 *    Quantitative Life Sciences 
 *    Science, Technology and Innovation 
 
-# Sorry, this page   
+## Sorry, this page   
  is not available
 
 ### The page you were looking for couldn't be found.
-
-Please check the url or visit [ICTP HOMEPAGE](https://www.ictp.it/)
-
-[![Image 18: logo-ictp-white](https://www.ictp.it/themes/custom/ictp/assets/loghi/newlogo-white.png)](https://www.ictp.it/)
-
-## Social link
-
-*   [Facebook](https://www.facebook.com/ictp.page)
-*   [Bluesky](https://bsky.app/profile/ictp.bsky.social)
-*   [Youtube](https://www.youtube.com/user/ICTPchannel/featured)
-*   [Instagram](https://www.instagram.com/ictp.news/)
-*   [Linkedin](https://www.linkedin.com/company/abdus-salam-international-centre-for-theoretical-physics-ictp-/)
-*   [Flickr](https://www.flickr.com/photos/ictpimages/albums/with/72157655087163664)
-
-## Governing members
-
-ICTP is governed by the IAEA, Italy and UNESCO, and is a UNESCO Category 1 Institute.
-
-[![Image 19: logo-iaea-white](https://www.ictp.it/themes/custom/ictp/assets/loghi/logo-iaea-white.svg)](https://www.iaea.org/)[![Image 20: logo-repubblica-italiana-white](https://www.ictp.it/themes/custom/ictp/assets/loghi/logo-repubblica-italiana-white.svg)](https://www.governo.it/)[![Image 21: logo-unesco-white](https://www.ictp.it/themes/custom/ictp/assets/loghi/logo-unesco-white-2.svg)](https://www.unesco.org/)
-
-### E-News from ICTP
-
-Stay up-to-date with ICTP's latest news, activities and events by subscribing to our monthly e-newsletter.
-
-[Subscribe](https://e-applications.ictp.it/news/subscription)
-
-Your support is essential to advance international cooperation through science. Please click on the button below to make a difference.
-
-[SUPPORT ICTP](https://www.ictp.it/home/why-support-ictp)
-
-[High Energy, Cosmology and Astroparticle Physics](https://www.ictp.it/hecap)
-
-[Condensed Matter and Statistical Physics](https://www.ictp.it/cmsp)
-
-[Mathematics](https://www.ictp.it/math)
-
-[Earth System Physics](https://www.ictp.it/esp)
-
-[Quantitative Life Sciences](https://www.ictp.it/qls)
-
-[Science, Technology and Innovation](https://www.ictp.it/sti)
-
-## About
-
-*   [Who We Are](https://www.ictp.it/home/who-we-are)
-*   [What We Do](https://www.ictp.it/home/what-we-do)
-*   [News](https://www.ictp.it/home/news)
-*   [ICTP and the Developing World](https://www.ictp.it/home/ictp-and-developing-world)
-*   [Work With ICTP](https://www.ictp.it/home/work-ictp)
-*   [Open Bids](https://www.ictp.it/home/open-bids)
-*   [Contacts](https://www.ictp.it/home/contacts)
-
-## Research
-
-*   [Our Research](https://www.ictp.it/home/our-research)
-*   [Research Fields](https://www.ictp.it/home/research-fields)
-*   [Publications](https://www.ictp.it/home/publications)
-
-## Scientific calendar
-
-*   [Current Events](https://www.ictp.it/home/scientific-calendar)
-*   [ICTP Special Events](https://www.ictp.it/home/ictp-special-events)
-*   [Events Archive](https://www.ictp.it/home/ictp-events-archive)
-*   [About the Scientific Calendar](https://www.ictp.it/home/about-ictps-scientific-calendar)
-
-## Higher education
-
-*   [Opportunities Overview](https://www.ictp.it/home/opportunities-overview)
-*   Educational Programmes
-*   [Postgraduate Diploma Programme](https://www.ictp.it/opportunity/ictp-postgraduate-diploma-programme)
-*   [Master's Programmes](https://www.ictp.it/home/masters-degree-programmes)
-*   [PhD and Sandwich Programmes](https://www.ictp.it/home/phd-and-sandwich-programmes)
-*   Career Development Programmes
-*   [Laboratory Opportunities](https://www.ictp.it/home/laboratory-opportunities)
-*   [Associates Programme](https://www.ictp.it/home/associates-programme)
-*   [Postdoctoral Opportunities](https://www.ictp.it/home/postdoctoral-opportunities)
-
-## Global ICTP
-
-*   [Overview](https://www.ictp.it/home/ictp-science-outreach)
-*   [Partner Institutes](https://www.ictp.it/home/partner-institutes)
-*   [Affiliated Centres](https://www.ictp.it/home/affiliated-centres)
-*   [Research Networks](https://www.ictp.it/home/research-networks)
-*   [Other Opportunities for Institutes](https://www.ictp.it/home/other-opportunities-institutes)
-*   [Physics Without Frontiers](https://www.ictp.it/home/physics-without-frontiers)
-*   [Consortium for Scientific Computing](https://www.ictp.it/home/consortium-scientific-computing)
-
-## Visitor's guide
-
-*   [Campus map](https://www.ictp.it/home/campus-map)
-*   [Transportation](https://www.ictp.it/home/transportation)
-*   [Childcare and Schools](https://www.ictp.it/home/childcare-and-schools)
-
-## Shortcuts
-
-*   [Login](https://www.ictp.it/user/login?current=/programmes.aspx)
-*   [ICTP Library](https://library.ictp.it/)
-*   [Calendar](https://www.ictp.it/home/scientific-calendar)
-*   [News](https://www.ictp.it/home/news)
-*   [Phonebook](https://www.ictp.it/home/phonebook)
-*   [Campus map](https://www.ictp.it/home/campus-map)
-*   [Webmail](https://webmail.ictp.it/webmail/src/login.php?secure_login=yes)
-
-ICTP - Strada Costiera, 11 | 34151 | Trieste, Italy  
- (+39) 040 2240 4111  
-[sc-portal@ictp.it](mailto:sc-portal@ictp.it)
-
-## GDPR menu
-
-*   [privacy notice](https://www.ictp.it/home/privacy-notice)
-*   [cookie policy](https://www.ictp.it/home/cookie-policy)
-*   [applicants' terms and conditions](https://www.ictp.it/home/applicants-terms-and-conditions)
-*   cookie settings
-
-Privacy settings
-
-Close
-
-## ICTP uses cookies on this site to enhance your user experience.
-
-More information about how we use cookies is on our Privacy Policy page
-
-- [x] Technical cookies 
-
-Technical cookies are the cookies required for proper functioning of the website and allow you to use its main features. Technical cookies cannot be blocked. 
-
-- [x] Allow monitoring cookies 
-
-This website uses a service called 'Google Analytics' to monitor and analyse the web traffic in order to improve your user experience.
-
-- [x] Allow video cookies (Youtube) 
-
-Video-sharing services enrich the website with multimedia content and increase its visibility. You will not be able to view videos on our website if you disable these cookies.
-
-Save preferences
-
-Reject/deny all Accept all cookies Withdraw consent SET PREFERENCES

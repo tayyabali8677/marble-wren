@@ -6,10 +6,6 @@ URL Source: https://www.epfl.ch/education/master/programs/excellence-fellowship/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-When you access EPFL websites, we may set cookies on your devices and process personal data about you in accordance with our [privacy policy](https://go.epfl.ch/privacy-policy). You can block cookies by using your browser settings.
-
-[OK](https://www.epfl.ch/education/master/programs/excellence-fellowship/)
-
 [Skip to content](https://www.epfl.ch/education/master/programs/excellence-fellowship/#content)[![Image 1: Logo EPFL, École polytechnique fédérale de Lausanne](https://www.epfl.ch/education/master/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg)](https://www.epfl.ch/en/)
 *   [About](https://www.epfl.ch/about/)
 *   [Education](https://www.epfl.ch/education/)

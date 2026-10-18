@@ -123,7 +123,6 @@ Search
 *   [England](https://england.britishcouncil.org/)
 *   [Estonia](https://www.britishcouncil.ee/)
 *   [Ethiopia](https://ethiopia.britishcouncil.org/)
-
 *   [Finland](https://www.britishcouncil.fi/)
 *   [France](https://www.britishcouncil.fr/)
 *   [Georgia](https://www.britishcouncil.ge/en)
@@ -155,7 +154,6 @@ Search
 *   [Malta](https://www.britishcouncil.org.mt/)
 *   [Mauritius](https://www.britishcouncil.mu/)
 *   [Mexico](https://www.britishcouncil.org.mx/)
-
 *   [Montenegro](https://www.britishcouncil.me/)
 *   [Morocco](https://www.britishcouncil.ma/en)
 *   [Mozambique](https://www.britishcouncil.org.mz/)
@@ -187,7 +185,6 @@ Search
 *   [Slovakia](https://www.britishcouncil.sk/)
 *   [Slovenia](https://www.britishcouncil.org/)
 *   [South Africa](https://www.britishcouncil.org.za/)
-
 *   [South Sudan](https://southsudan.britishcouncil.org/)
 *   [Spain](https://www.britishcouncil.org/spain)
 *   [Sri Lanka](https://www.britishcouncil.lk/)
@@ -219,25 +216,21 @@ Search
     *   [Our values](https://www.britishcouncil.org/about-us/our-values)
     *   [Our history](https://www.britishcouncil.org/about-us/history)
     *   [Our Patron](https://www.britishcouncil.org/about-us/our-patron "Our Patron is Her Majesty Queen Elizabeth II")
-    *   [](https://www.britishcouncil.org/study-work-abroad/scholarships#)
 
 *   [Work with us](https://www.britishcouncil.org/work)
     *   [Careers](https://www.britishcouncil.org/work/jobs)
     *   [Partner with us](https://www.britishcouncil.org/partner/international-development)
     *   [Staff and alumni associations](https://www.britishcouncil.org/work/staff-alumni)
     *   [Affiliate programme](https://www.britishcouncil.org/work/affiliate)
-    *   [](https://www.britishcouncil.org/study-work-abroad/scholarships#)
 
 *   [Voices Magazine](https://www.britishcouncil.org/voices-magazine)
     *   [Partnership stories](https://www.britishcouncil.org/work/partnership-stories)
-    *   [](https://www.britishcouncil.org/study-work-abroad/scholarships#)
 
 *   [Contact us](https://www.britishcouncil.org/contact)
     *   [Press office](https://www.britishcouncil.org/contact/press)
     *   [Contact your local British Council office](https://www.britishcouncil.org/contact/local-office)
     *   [Make a freedom of information request](https://www.britishcouncil.org/contact/freedom-of-information)
     *   [Make a complaint](https://www.britishcouncil.org/contact/complaints)
-    *   [](https://www.britishcouncil.org/study-work-abroad/scholarships#)
 
 Connect with us
 

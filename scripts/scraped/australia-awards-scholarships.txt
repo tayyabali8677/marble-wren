@@ -3,6 +3,8 @@ Title: Australia Awards Scholarships
 
 URL Source: https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships
 
+Published Time: Sat, 17 Oct 2026 20:28:46 GMT
+
 Markdown Content:
 [Skip to main content](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#main-content)
 
@@ -30,11 +32,17 @@ Enter search terms
 *   [People-to-people](https://www.dfat.gov.au/people-to-people)
 *   [Travel](https://www.dfat.gov.au/travel)
 
+[Countries, economies and regions](https://www.dfat.gov.au/geo/countries-economies-and-regions)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### Countries, economies and regions
 
 *   [Select a country, economy or region to find embassies, country briefs, economic fact sheets, trade agreements, aid programs, information on sanctions and more.](https://www.dfat.gov.au/geo/countries-economies-and-regions "Countries, economies and regions")
 *   [Heads of Government](https://www.dfat.gov.au/geo/heads-of-government)
 
+[International relations](https://www.dfat.gov.au/international-relations)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### [International relations](https://www.dfat.gov.au/international-relations "International relations")
 
 #### [Global security](https://www.dfat.gov.au/international-relations/security/global-security "Global security")
@@ -83,6 +91,9 @@ Enter search terms
 
 #### [Foreign Arrangements Scheme](https://www.foreignarrangements.gov.au/)
 
+[Trade and investment](https://www.dfat.gov.au/trade/trade-and-investment)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### [Trade and investment](https://www.dfat.gov.au/trade/trade-and-investment "Trade and investment")
 
 #### [About free trade agreements (FTAs)](https://www.dfat.gov.au/trade/about-ftas/about-free-trade-agreements "About free trade agreements (FTAs)")
@@ -167,6 +178,9 @@ Enter search terms
 *   [Australia-Singapore Digital Economy Agreement](https://www.dfat.gov.au/trade/services-and-digital-trade/australia-and-singapore-digital-economy-agreement "Australia-Singapore Digital Economy Agreement")
 *   [Digital trade & the digital economy](https://www.dfat.gov.au/trade/services-and-digital-trade/e-commerce-and-digital-trade "Digital trade and the digital economy")
 
+[Australia’s development program](https://www.dfat.gov.au/development/australias-development-program)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### Development
 
 #### [Australia’s development program](https://www.dfat.gov.au/development/australias-development-program "Australia’s development program")
@@ -200,6 +214,9 @@ Where and how Australia provides emergency assistance.
 
 #### [Performance assessment](https://www.dfat.gov.au/development/performance-assessment "Australia’s development program — performance assessment")
 
+[People-to-people](https://www.dfat.gov.au/people-to-people)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### [People-to-people](https://www.dfat.gov.au/people-to-people "People-to-people")
 
 #### [Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards "Australia Awards")
@@ -246,6 +263,9 @@ Australia is a successful global leader and innovator in sport.
 
 *   [Language Programs](https://www.dfat.gov.au/people-people/diplomatic-academy/language-programs "Language Programs")
 
+[Travel](https://www.dfat.gov.au/travel)
+
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### [About Australia](https://www.dfat.gov.au/about-australia "About Australia")
 
 Australia is a stable, democratic and culturally diverse nation with a highly skilled workforce and one of the strongest performing economies in the world.
@@ -254,6 +274,7 @@ Australia is a stable, democratic and culturally diverse nation with a highly sk
 
 This is the 52nd edition of Australia in Brief, revised and updated in February 2021
 
+[Close](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships#)
 ### [Travel](https://www.dfat.gov.au/travel/Pages/travel.aspx)
 
 #### Travel advice
@@ -301,7 +322,7 @@ The Australian Passport Office and its agents are committed to providing a secur
 ## [People-to-people](https://www.dfat.gov.au/people-to-people)
 
 *   [Australia Awards](https://www.dfat.gov.au/people-to-people/australia-awards)
-    *   Australia Awards Scholarships
+    *   [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships)
         *   [Australia Awards - Participating Institutions](https://www.dfat.gov.au/development/australia-awards-participating-institutions)
         *   [Participating countries](https://www.dfat.gov.au/people-to-people/australia-awards/participating-countries)
         *   [Opening and closing dates](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships-opening-and-closing-dates)

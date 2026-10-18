@@ -3,6 +3,8 @@ Title: Page Not Found - MBA Program
 
 URL Source: https://mba.wharton.upenn.edu/mba-program/tuition-funding/fellowships/
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 ## “Never ruin an apology with an excuse.”   
 — Benjamin Franklin

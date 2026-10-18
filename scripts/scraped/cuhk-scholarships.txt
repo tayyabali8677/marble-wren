@@ -8,17 +8,9 @@ Published Time: Tue, 28 Feb 2012 02:32:30 GMT
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-	 
-
-
-	
-
-	
-Sorry, the CUHK page you are looking for cannot be found. The URL address may be incorrect or the page may be outdated. Try visiting our main page at http://www.cuhk.edu.hk/ for the related information or search for your page with CUHK Google Search. You can also report dead links to CUHK Web Administrator
-(www-admin@cuhk.edu.hk).
-很抱歉，我們未能提供你所找尋的路徑。該路徑也許不正確或已被移除。請到我們的主頁
-http://www.cuhk.edu.hk/ 搜尋相關資料，或以中大谷歌搜尋服務搜尋，亦可電郵該路徑予中大的網站管理員
-(www-admin@cuhk.edu.hk) 以便跟進。
-很抱歉，我们未能提供你所找寻的路径。该路径也许不正确或已被移除。请到我们的主页
-http://www.cuhk.edu.hk/ 搜寻相关资料，或以中大谷歌搜寻服务搜寻，亦可电邮该路径予中大的网站管理员
-(www-admin@cuhk.edu.hk) 以便跟进。
+                               Sorry, the CUHK page you are looking for cannot be found. The URL address may be incorrect or the page may be outdated. Try visiting our main page at http://www.cuhk.edu.hk/ for the related information or search for your page with CUHK Google Search. You can also report dead links to CUHK Web Administrator
+ (www-admin@cuhk.edu.hk).   很抱歉，我們未能提供你所找尋的路徑。該路徑也許不正確或已被移除。請到我們的主頁
+ http://www.cuhk.edu.hk/ 搜尋相關資料，或以中大谷歌搜尋服務搜尋，亦可電郵該路徑予中大的網站管理員
+ (www-admin@cuhk.edu.hk) 以便跟進。   很抱歉，我们未能提供你所找寻的路径。该路径也许不正确或已被移除。请到我们的主页
+ http://www.cuhk.edu.hk/ 搜寻相关资料，或以中大谷歌搜寻服务搜寻，亦可电邮该路径予中大的网站管理员
+ (www-admin@cuhk.edu.hk) 以便跟进。
