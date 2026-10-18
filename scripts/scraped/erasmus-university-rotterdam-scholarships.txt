@@ -103,19 +103,19 @@ Markdown Content:
 
 Misschien zocht je:
 
-![Image 1: two persons talking in front of a building and trees](https://www.eur.nl/sites/corporate/files/styles/responsive_w1450_r21_8/public/2023-01/eur-beeldbank-project-rsm-high-res-10.jpg.avif?h=ac778ff2&itok=QZsr9FJY)
+![Image 7: two persons talking in front of a building and trees](https://www.eur.nl/sites/corporate/files/styles/responsive_w1450_r21_8/public/2023-01/eur-beeldbank-project-rsm-high-res-10.jpg.avif?h=ac778ff2&itok=QZsr9FJY)
 
 ## [Overzicht bacheloropleidingen](https://www.eur.nl/onderwijs/bachelor/overzicht)
 
-![Image 2: Studying in a busy library](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2017-10/studeren_in_een_drukke_ub.jpg.avif?h=a6a2ad25&itok=4oJ1p1GJ)
+![Image 8: Studying in a busy library](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2017-10/studeren_in_een_drukke_ub.jpg.avif?h=a6a2ad25&itok=4oJ1p1GJ)
 
 ## [Overzicht masteropleidingen](https://www.eur.nl/onderwijs/master/overzicht)
 
-![Image 3: A few student studying on a table.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2018-07/Studenten%20laptops%20beeldbank%20eur%20Eric%20Fecken.jpg.avif?h=10d202d3&itok=_v7lRWKo)
+![Image 9: A few student studying on a table.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2018-07/Studenten%20laptops%20beeldbank%20eur%20Eric%20Fecken.jpg.avif?h=10d202d3&itok=_v7lRWKo)
 
 ## [Vind je studie!](https://www.eur.nl/en/node/58112)
 
-![Image 4: Prospective students at Master Open Day in a lecture hall.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/cf3sIUbFD49N18tS15qX-d8abeb1eb94192ae428dd4a895ff51ad.jpg.avif?h=7b93e6c7&itok=y7XXDvEH)
+![Image 10: Prospective students at Master Open Day in a lecture hall.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/cf3sIUbFD49N18tS15qX-d8abeb1eb94192ae428dd4a895ff51ad.jpg.avif?h=7b93e6c7&itok=y7XXDvEH)
 
 ## "Wat mooi is, kost moeite"
 
@@ -132,13 +132,22 @@ Desiderius Erasmus
 [Meer nieuws](https://www.eur.nl/en/news/overview)
 
 *   
+### [Progress through Partnership: RGHI celebrates 15 years](https://www.eur.nl/en/news/progress-through-partnership-rghi-celebrates-15-years)
+
+ Rotterdam Global Health Initiative celebrates 15 years by reflecting on its progress and looking ahead to 2030. Autonomy and local partnerships are key. 
+    *    Saturday 17 Oct 2026
+    *    General
+
+![Image 11: Visitors admire wildlife photographs displayed on easels along a brightly lit corridor.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/image-10.jpeg.avif?h=a5d603db&itok=AVcojZ1g)
+
+*   
 ### [Beyond the paper: can theatre change how we communicate research?](https://www.eur.nl/en/news/beyond-paper-can-theatre-change-how-we-communicate-research)
 
  What happens when research on drugs and organised crime leaves the academic world and enters the theatre? 
     *    Thursday 15 Oct 2026
     *    General
 
-![Image 5: Robby Roks (DOPE video)](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/robby-roks-dope-video.png.avif?h=21f40944&itok=67hwpFLS)
+![Image 12: Robby Roks (DOPE video)](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/robby-roks-dope-video.png.avif?h=21f40944&itok=67hwpFLS)
 
 *   
 ### ['I'd rather build more than get stuck because of all sorts of rules'](https://www.eur.nl/en/news/id-rather-build-more-get-stuck-because-all-sorts-rules)
@@ -147,16 +156,7 @@ Desiderius Erasmus
     *    Thursday 15 Oct 2026
     *    Issue 010
 
-![Image 6: A new house under construction in Rotterdam.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/CplvtO63mzFEzTBjy2Cl-58cfc6ae24c59ab047c3c80bb9bdd92d.jpg.avif?h=094654a7&itok=NiZatdtv)
-
-*   
-### [Lessons from exchange: enjoy the moment for what it is](https://www.eur.nl/en/news/lessons-exchange-enjoy-moment-what-it)
-
- Raiden Metsa tells us about his four month exchange at Thammasat University in Bangkok. 
-    *    Wednesday 14 Oct 2026
-    *    General
-
-![Image 7: Young man sitting in front of temple in Thailand](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/_bkk6553-edit.JPG.avif?h=790be497&itok=cYG5ywYG)
+![Image 13: A new house under construction in Rotterdam.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/CplvtO63mzFEzTBjy2Cl-58cfc6ae24c59ab047c3c80bb9bdd92d.jpg.avif?h=094654a7&itok=NiZatdtv)
 
 Compare 0 study programmes
 
@@ -216,7 +216,7 @@ Breadcrumb
 
 [](https://www.eur.nl/en)
 
-![Image 8: Logo](blob:http://localhost/f037e0cd26d3c50e864c96adc3dc0213)
+![Image 14: Logo](blob:http://localhost/f037e0cd26d3c50e864c96adc3dc0213)
 ## Our website uses cookies
 
  Overview 

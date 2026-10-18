@@ -3,7 +3,7 @@ Title: 404 – Page not found
 
 URL Source: https://www.lunduniversity.lu.se/international-admissions/fees-and-funding/scholarships-and-grants
 
-Published Time: Sun, 18 Oct 2026 03:04:08 GMT
+Published Time: Sun, 18 Oct 2026 15:31:31 GMT
 
 Warning: Target URL returned error 404: Not Found
 

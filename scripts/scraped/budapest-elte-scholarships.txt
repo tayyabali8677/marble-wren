@@ -967,6 +967,13 @@ Markdown Content:
 *   [Innovation](https://www.elte.hu/en/innovation)
 *   [University life](https://www.elte.hu/en/university-life)
 
+1.   [V. Excellence in Higher Education Conference](https://www.elte.hu/en/node/334042)
+2.   [SemioSyS 2026 Student Conference](https://www.elte.hu/en/semiosys-2026-student-conference)
+3.   [4th Students' Letters Conference 2026](https://www.elte.hu/en/node/333199)
+4.   [CREATE 30 Conference](https://www.elte.hu/en/create-30-conference)
+5.   [Tales of Global South: Film Screening and Discussion](https://www.elte.hu/en/tales-of-global-south-film-screening-and-discussion)
+[More results](https://www.elte.hu/en/search?query=)
+
 ## User account menu
 
 *   [Log in](https://www.elte.hu/saml/login?destination=/en/system/404)

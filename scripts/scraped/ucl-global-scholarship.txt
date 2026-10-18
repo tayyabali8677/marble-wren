@@ -3,10 +3,6 @@ Title: UCL - 404: Document Not Found
 
 URL Source: https://www.ucl.ac.uk/scholarships/international-students
 
-Published Time: Sat, 17 Oct 2026 15:06:14 GMT
-
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 *   [UCL Home](https://www.ucl.ac.uk/)
 *   [Not Found](https://www.ucl.ac.uk/scholarships/international-students#)

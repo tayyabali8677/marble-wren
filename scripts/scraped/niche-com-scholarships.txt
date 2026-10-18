@@ -975,6 +975,8 @@ Title: Page Not Found - Niche
 
 URL Source: https://www.niche.com/scholarships/?matches=your-matches
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to Main Content](https://www.niche.com/scholarships/?matches=your-matches#maincontent)
 
@@ -1137,8 +1139,6 @@ Do you work for a school or college? [Claim Your School](https://www.niche.com/c
 Learn more about our [College Search App](https://www.niche.com/about/mobile/)
 
 [![Image 8: Download on the App Store](https://assets.niche.com/static/app-cta/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/us/app/niche-college-search/id1356697847?itsct=apps_box_badge&amp;itscg=30200)[![Image 9: Get it on Google Play](https://assets.niche.com/static/app-cta/Get_it_on_Google_play.png)](https://play.google.com/store/apps/details?id=com.nicheinc.nichealpha&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-![Image 10](https://bat.bing.com/action/0?ti=4027386&tm=gtm002&Ver=2&mid=7a212a26-46b2-4387-be50-dbc50d16764a&bo=1&sid=d44cc200caa211f1b08b6fb5ee509d51&vid=d44cdae0caa211f1b481ed354290d811&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20Not%20Found%20-%20Niche&p=https%3A%2F%2Fwww.niche.com%2Fscholarships%2F%3Fmatches%3Dyour-matches&r=&lt=2076&evt=pageLoad&sv=2&cdb=AQAS&rn=174401)
 
 
 ===== SOURCE PAGE: https://www.niche.com/about/scholarship-information =====
