@@ -3833,5 +3833,12 @@
     "country": "Germany",
     "url": "https://www.kas.de",
     "note": "CDU-aligned political foundation focusing on conservative values and civic engagement."
+  },
+  {
+    "slug": "erasmus-mundus-scholarships-europe",
+    "name": "Erasmus Mundus Joint Master Scholarships",
+    "country": "European Union",
+    "url": "https://www.erasmus-mundus.eu",
+    "note": "Fully funded joint master's programs across Europe."
   }
 ]
