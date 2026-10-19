@@ -3,8 +3,6 @@ Title: Page not found
 
 URL Source: https://www.cardiff.ac.uk/study/international/funding-and-scholarships
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [Skip to main content](https://www.cardiff.ac.uk/study/international/funding-and-scholarships#page-title)
 
@@ -16,6 +14,12 @@ Markdown Content:
 *   [Search the website](https://www.cardiff.ac.uk/search)
 
 Search the website [](https://www.cardiff.ac.uk/study/international/funding-and-scholarships#)
+
+## Cookie notice
+
+We use cookies to enable helpful features and collect information about how well our website and advertising are working.
+
+[Accept all cookies](https://www.cardiff.ac.uk/study/international/funding-and-scholarships#)[Manage your cookie preferences](https://www.cardiff.ac.uk/help/cookies/preferences)
 
 [Menu](https://www.cardiff.ac.uk/study/international/funding-and-scholarships#)
 
@@ -261,3 +265,5 @@ Copyright Cardiff University. Registered charity no. 1136855
 *   [Privacy](https://www.cardiff.ac.uk/help/privacy)
 *   [Terms of use](https://www.cardiff.ac.uk/help/termsofuse)
 *   [Cookies](https://www.cardiff.ac.uk/help/cookies)
+
+Contact Us

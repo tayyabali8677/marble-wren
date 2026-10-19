@@ -35,6 +35,7 @@ Markdown Content:
     *   [General](https://www.moe.gov.bn/general/)
     *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
+        *   [State of Education in ASEAN (Endorsed by SOM-ED)](https://www.moe.gov.bn/wp-content/uploads/2026/10/endorsed-by-SOM-ED_State-of-Education-in-ASEAN-report-1.pdf)
         *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
             *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)
 
@@ -95,6 +96,7 @@ Markdown Content:
     *   [General](https://www.moe.gov.bn/general/)
     *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
+        *   [State of Education in ASEAN (Endorsed by SOM-ED)](https://www.moe.gov.bn/wp-content/uploads/2026/10/endorsed-by-SOM-ED_State-of-Education-in-ASEAN-report-1.pdf)
         *   [SEA-PLM Quarterly Newsletter](https://www.moe.gov.bn/)
             *   [September 2026](https://mailchi.mp/eed75cf3c97e/sea-plm-quarterly-newsletter-june-10344894?e=2a2cf40913)
 

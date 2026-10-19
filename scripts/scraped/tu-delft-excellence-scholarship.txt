@@ -511,7 +511,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu openen
+Menu sluiten
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -702,7 +702,7 @@ Studentenportal
 Lifelong Learning
 Voor scholen
 Onderzoek
-Menu openen
+Menu sluiten
 Maatschappelijke uitdagingen
 Faculteiten en instituten
 Onderzoeksfaciliteiten

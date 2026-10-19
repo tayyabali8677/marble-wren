@@ -3,9 +3,13 @@ Title: Access to this page has been denied
 
 URL Source: https://www.chegg.com/scholarships
 
-Warning: Target URL returned error 403: Forbidden
 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
+![Image 1](https://chegg-mobile-promotions.cheggcdn.com/px/Chegg-logo-79X22.png)
 
+Press & Hold to confirm you are  
+a human (and not a bot).
+
+Reference ID 186c931a-cbed-11f1-ae80-efcddf6908c0

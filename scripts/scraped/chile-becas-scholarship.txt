@@ -8,7 +8,7 @@ Warning: Target URL returned error 523
 Markdown Content:
 ## Origin is unreachable Error code 523
 
-2026-10-17 02:58:05 UTC
+2026-10-19 18:25:40 UTC
 
 You
 
@@ -36,4 +36,4 @@ Please try again in a few minutes.
 
 Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page.[Additional troubleshooting information here.](https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-523/)
 
-Cloudflare Ray ID: **a4bc0a1d0a481b59**• Your IP: 34.96.49.131•Performance & security by[Cloudflare](https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=www.agencia.cl)
+Cloudflare Ray ID: **a4d1d39af8b91b58**• Your IP: 2600:1900:0:2107::1a00•Performance & security by[Cloudflare](https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_523&utm_campaign=www.agencia.cl)

@@ -287,6 +287,6 @@ Allow all
 
 [![Image 18: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)
 
-![Image 21](https://ad.doubleclick.net/ddm/activity/src=10551026;type=invmedia;cat=uom-a000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=1?)
+![Image 20](https://ad.doubleclick.net/ddm/activity/src=10551026;type=invmedia;cat=uom-a000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;gdpr=$%7BGDPR%7D;gdpr_consent=$%7BGDPR_CONSENT_755%7D;ord=1?)
 
-![Image 22](https://bat.bing.com/action/0?ti=17173579&Ver=2&mid=93647b50-3459-4cd0-acfa-13c9bb622cbe&bo=1&sid=99222010cb6b11f18f0859a231ed21a6&vid=992232f0cb6b11f1986389bde2d5aac3&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%20File%20Not%20Found%20%7C%20The%20University%20of%20Manchester&p=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Finternational%2Ffees-and-funding%2Fscholarships%2F&r=&lt=1223&evt=pageLoad&sv=2&cdb=AQER&rn=717495)
+![Image 22](https://bat.bing.com/action/0?ti=17173579&Ver=2&mid=3fcaec8f-a0b3-429e-bee3-f8b6bf64b8bb&bo=1&sid=51f9e1b0cbeb11f1bc4163fb78f54ca4&vid=51f9c740cbeb11f1891a5fad522c93e7&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%20File%20Not%20Found%20%7C%20The%20University%20of%20Manchester&p=https%3A%2F%2Fwww.manchester.ac.uk%2Fstudy%2Finternational%2Ffees-and-funding%2Fscholarships%2F&r=&lt=1068&evt=pageLoad&sv=2&cdb=AQER&rn=597022)

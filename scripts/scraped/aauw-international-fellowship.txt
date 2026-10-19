@@ -1,119 +1,12 @@
 ===== SOURCE PAGE: https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/ =====
-Title: International Project Grants
+Title: Just a moment...
 
 URL Source: https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/
 
+Warning: Target URL returned error 403: Forbidden
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+
 Markdown Content:
-International Project Grants support community-based initiatives that advance gender equity for women and girls and that are led by AAUW International Fellowship Alumnae. These grants equip and empower alumnae to do so within the context of their home countries and communities by making funding available to them in order to apply their academic expertise and leadership skills in a way that has a direct, positive impact on women and girls.
+## Checking your browser...
 
-### Award Details
-
-Award Ceiling: $10,000  
- Grant Term: July 1, 2025 – June 30, 2026  
- Grant funds must be maintained in an account dedicated to project purposes.
-
-International Project Grants are awarded exclusively to individuals.
-
-*   Applicants must be or identify as a woman
-*   Applicants must be an AAUW International Fellowship alumna and have successfully completed the academic program for which they received a fellowship and all related reporting requirements by June 30th of the year of application.
-*   Applicants must reside and implement the proposed project in their home country for the duration of the grant period.
-*   Applicants must be the primary project director, with control over all programmatic, budgetary, administrative and editorial decisions.
-
-##### Citizenship & Immigration Status
-
-Grant recipients must be non-U.S. citizens or permanent residents.
-
-The following are not eligible for consideration:
-
-*   Members of the AAUW Board of Directors
-*   Employees of AAUW, including paid or unpaid, part-time or temporary employees, consultants, interns and contract employees.
-*   Review Panelists
-*   Immediate families (i.e., spouses and dependent children) of individuals described in the points above
-*   AAUW International Fellows who did not successfully complete the academic program for which they received a fellowship, and/or who did submit all required reporting in connection with their fellowship.
-*   Previous AAUW International Project Grant recipients
-
-*   A project’s clear alignment with advancing equity for women and girls and ability to directly and positivity impact these stakeholder groups.
-*   Strength of project rationale – the project meets a demonstrable local need
-*   A clear project design with specific target outcomes and proposed activities and outputs logically connected to the project’s goals.
-*   Project proposals must reflect how community/stakeholder participation is considered in the project’s design.
-*   Demonstrated capacity of the alumna to deliver quality programming and meet established goals and the feasibility of in a time frame and within a budget that is hat is feasible and reflects stakeholder participation
-*   Reflect a commitment to learning and evaluation by (1) incorporating monitoring/evaluation methods that enable assessment of project outcomes; and (2) describing how results and/or learnings from project implementation with stakeholders and/or the communities which the project intends to serve.
-
-| Milestone | Date |
-| --- | --- |
-| Grant Application Submission Period | September 16, 2024 – November 22, 2024 |
-| Grant Award Status Notification | April 15, 2025 |
-| Disbursement of Grant Funds (in full or part) | July 2025 |
-| Grant Term | July 1, 2025 – June 30, 2026 |
-| Interim Project Report (if applicable) | December 15, 2025 |
-| Grant Impact Reports Due | July 31, 2026 |
-
-International Scholarship & Tuition Services (ISTS) serves as the application portal for AAUW International Project Grants. Please follow the steps below to start the application process:
-
-1.   Review the eligibility criteria to ensure you are eligible
-2.   Click the Apply Now button below to access the application and create an ISTS account. If a program key is requested, please use the following program key: **AAUW-IPG**
-3.   Follow the instructions provided in the Applicant Guide.
-
-For any inquiries related to the application process or if you encounter technical issues, please contact [AAUW@applyists.com](mailto:AAUW@applyists.com) or call (866) 795-4892.
-
-##### Selection Process
-
-Applications to the International Project Grants are reviewed by panels of distinguished scholars and experts in international development.
-
-Applicants are required to submit a narrative project proposal and supporting budget.
-
-**Narrative Project Proposal**
-
-The required narrative project proposal includes the following components:
-
-*   Abstract
-*   Rationale (Need Statement)
-*   Description of Community
-*   Project Description
-*   Community Partners
-*   Project Evaluation
-
-**Project Budget**
-
-An accurate, itemized budget for the proposed project is required, accompanied by a budget narrative.
-
-_Prohibited Costs_
-
-Please note grant funds cannot be used to:
-
-*   Fund salaries or stipends of the project director or other staff
-*   Influence legislation
-*   Influence the outcome of elections
-*   Carry out voter registration drives
-*   Finance fundraising activities
-*   Make grants to individuals or other organizations
-*   Pay for tuition or provide educational scholarships
-*   Renovate infrastructure or initiate building projects
-
-Applications to the International Project Grants are reviewed by panels of experts in global philanthropy and development and former recipients of International Project Grants.
-
-**Review Process**
-
-Prior to the International Project Grant Panel Review, AAUW’s Fellowships & Grants Team reviews applications for completeness and ensures compliance with eligibility requirements.
-
-Each application is subsequently read by two panel reviewers. Reviewers assess applications based on the selection criteria described above.
-
-### Tax Liability
-
-International Project Grantees do not need to submit any tax information to AAUW. AAUW does not provide any tax‐related forms to grantees or withhold any amount for payment of U.S. taxes.
-
-The determination of whether there is a home country tax obligation associated with the receipt of an AAUW grant is the sole responsibility of the grantee. Specific questions regarding income tax matters should be addressed to a local tax adviser. AAUW cannot provide tax advice.
-
-### Use of Funds
-
-AAUW’s grant agreement specifies the terms of the grant, including the use of grant funds and reporting schedule. Grant funds must only be used for the purposes, over the timeframe, and in the manner set forth in the grant agreement and finalized proposal.
-
-Awarded grant funds may not be expended on project costs incurred prior to the grant start date or after the grant end date without AAUW’s prior written approval. In carrying out grant-funded projects, grantees must comply with all applicable local, country and international laws and regulations. Grantees are also expected to maintain controls to see that use of grant funds complies with the rules and guidance promulgated by the [United States Office of Foreign Assets Control.](https://ofac.treasury.gov/about-ofac)
-
-**Is it possible to be notified of my award status prior to April 15th?**
-
-No, AAUW is not able to honor requests for earlier notification.
-
-**If I had to decline an AAUW award in the past due to eligibility concerns or personal reasons, am I allowed to reapply?**
-
-Yes, if you were awarded an AAUW fellowship or grant but had to decline it without receiving your stipend, you are eligible to reapply.
+This may take a few seconds.

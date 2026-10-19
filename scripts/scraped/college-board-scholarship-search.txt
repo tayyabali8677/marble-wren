@@ -488,12 +488,12 @@ My Scholarship List
 More
 Display Site Navigation
 BigFuture Scholarships
-$40k Scholarships for Seniors and Juniors
+$40k Scholarships for Sophomores, Juniors, and Seniors
 Qualify by completing steps on your dashboard by logging in or creating an account today.
 Sign In
 Create an Account
 No Essay Required
-$40k Scholarships for Sophomores and Juniors
+$40k Scholarships for Sophomores, Juniors, and Seniors
 Qualify by completing steps on your dashboard.
 Qualify Now
 ✦Increase Your Chances to Win if Your Family Earns Less Than $60K Per Year ✦
@@ -506,6 +506,9 @@ Get Started Seniors
 Class of 2028
 Junior year is your launchpad to scholarships and finding your future college.
 Get Started Juniors
+Class of 2029
+Start with building your vision then earn more entries by completing steps on your BigFuture dashboard.
+Get Started Sophmores
 🎉Scholarships Extended Through Class of 2030: $6.5M+ in New Awards, $32M+ since 2019🎉
 Additional Links
 Official Rules

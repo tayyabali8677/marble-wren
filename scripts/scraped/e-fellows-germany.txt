@@ -447,6 +447,7 @@ Datenbanken
 Bücher
 E-Learning
 Sparempfehlungen
+Geldstipendien
 Gutscheine und Rabatte
 Suche
 15 kostenlose Abos
@@ -513,6 +514,10 @@ Online-Rechner : Kreditkarten vergleichen
 Online-Rechner : Mobilfunk-Verträge vergleichen
 Online-Rechner : Depots vergleichen
 Online-Rechner : Tagesgeldkonten vergleichen
+Geld- und Studiengebührenstipendien
+Geldstipendium : Fachstipendium: 600 Euro und Mentoring für deinen Karrierestart
+Studiengebührenstipendium : MBA-Stipendien für e-fellows von Partner-Business-Schools
+Studiengebührenstipendium : LL.M.-Stipendien für e-fellows von Partner-Law-Schools
 Noch mehr Vergünstigungen für dich
 Mal wieder die Freunde daheim besuchen: Mit Gutscheinen von Flixtrain kommen Stipendiat:innen günstiger ans Ziel. Außerdem profitieren e-fellows von Rabatten auf wichtige Versicherungen und nutzen Software gratis.
 Gutscheine und Rabatte
@@ -549,6 +554,7 @@ Coaching
 Datenbanken
 Digital-Abo
 E-Learning
+Geld- & Studiengebührenstipendien
 Gutschein
 Mitgliedschaften
 Print-Abo

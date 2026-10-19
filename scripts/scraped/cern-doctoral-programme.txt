@@ -123,37 +123,50 @@ Show filters
 Filter by
 Fields of Work
 Currently, there are no open positions for these Fields of Work
+Applied Physics
+0
 Civil Engineering
 0
+Data Science, AI & Analytics
+0
+Electrical Engineering
+0
+Electronics Engineering
+0
 Health, Safety, Environment & Sustainability
+0
+Chemical, Materials & Process Engineering
+0
+Mechanical Engineering
+0
+Information Technologies
 0
 Technology Transfer & Innovation
 0
 Experience level
 Entry level
 0 - 2 year(s)
-0
+17
 Experienced
 > 6 years
-0
+10
 Mid-Level
 2 - 6 years
-0
+9
 Student
 1
 Profile
 Administrative
-0
+8
 Engineering
-0
+25
 Research
-1
+7
 Technical
-0
+10
 More filters
 More filters
 Filter by
-Fields of Work
 Experience level
 Entry level
 0 - 2 year(s)
@@ -192,57 +205,34 @@ Team supervision
 Possible recruitment of Non Member State nationals
 Apply ( 0 )
 Delete all filters
-Fields of Work
-Roles
-Applied Physics
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Chemical, Materials & Process Engineering
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Data Science, AI & Analytics
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Electrical Engineering
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Electronics Engineering
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Information Technologies
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
-Mechanical Engineering
-Create an alert
-Doctoral Student Programme 2027-1
-TSC-2027-1/DOCT
-12 to 36 month contract
-Fully Onsite
 Sorry, no job openings match your search.
 There are no open positions for the Doctoral Studentship for these Fields of Work
+Applied Physics
+Be the first to hear about new open roles in Applied Physics
+Create an alert
 Civil Engineering
 Be the first to hear about new open roles in Civil Engineering
 Create an alert
+Data Science, AI & Analytics
+Be the first to hear about new open roles in Data Science, AI & Analytics
+Create an alert
+Electrical Engineering
+Be the first to hear about new open roles in Electrical Engineering
+Create an alert
+Electronics Engineering
+Be the first to hear about new open roles in Electronics Engineering
+Create an alert
 Health, Safety, Environment & Sustainability
 Be the first to hear about new open roles in Health, Safety, Environment & Sustainability
+Create an alert
+Chemical, Materials & Process Engineering
+Be the first to hear about new open roles in Chemical, Materials & Process Engineering
+Create an alert
+Mechanical Engineering
+Be the first to hear about new open roles in Mechanical Engineering
+Create an alert
+Information Technologies
+Be the first to hear about new open roles in Information Technologies
 Create an alert
 Technology Transfer & Innovation
 Be the first to hear about new open roles in Technology Transfer & Innovation

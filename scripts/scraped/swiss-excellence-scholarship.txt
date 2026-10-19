@@ -106,7 +106,8 @@ Service
 Swiss Government Excellence Scholarships at a Glance
 The following information is intended for individuals interested in applying for a Swiss Government Excellence Scholarship. Here you will find all the details needed to prepare your scholarship application.
 Research scholarships
-Research stay
+These scholarships are available to postgraduate researchers in any discipline wishing to pursue research at any Swiss cantonal university, university of applied sciences, either of Switzerland’s two federal institutes of technology (ETHZ or EPFL) or at one of the four research institutes within the ETH Domain (PSI, WSL, Empa, Eawag). Prerequisite: the scholarship application must be backed by an academic supervisor in Switzerland who is willing to direct and guide the applicant’s proposed research.
+Research fellowships
 Objective
 The scholarship enables selected applicants to carry out a one-year research project as part of their doctoral studies at a Swiss higher education institution or recognised research institute.
 Valid only for full-time research in Switzerland .
@@ -362,8 +363,6 @@ FAQ
 Here you will find answers to the most frequently asked questions from interested applicants and academic supervisors.
 Swiss Government Excellence Scholarships: FAQ for interested applicants and for academic supervisors
 Links
-Information on application deadlines and scholarship opportunities by country of origin will be published here in August 2026.
-Survey of former scholarship holders:
 «Career-boosting scholarships».
 Online survey of ESKAS alumni from the 2016-2021 cohort and follow-up survey of the 1996-2015 cohort - in German, summary in French and English
 PDF 11.01 MB 6 October 2026
@@ -371,7 +370,7 @@ Scholarships that change lives
 Online survey of FCS scholarship holders from 1996–2015 (in German, summary in English)
 PDF 1.93 MB 6 October 2026
 User Guide Onboarding Scholarship Candidates
-PDF 1.91 MB 13 August 2026
+PDF 1.81 MB 15 October 2026
 Index
 Research scholarships
 Art scholarships

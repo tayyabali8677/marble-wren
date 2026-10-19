@@ -21,9 +21,13 @@ Menu
     *   Back[Study](https://www.deakin.edu.au/study) 
     *   [Find a course](https://www.deakin.edu.au/study/find-a-course)
         *   Back[Find a course](https://www.deakin.edu.au/study/find-a-course) 
-        *   [Courses by trimester](https://www.deakin.edu.au/trimester-one)
-        *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course/courses-by-study-area)
+        *   [March intake](https://www.deakin.edu.au/trimester-one)
+        *   [Study areas](https://www.deakin.edu.au/study/find-a-course)
+        *   [Key dates](https://www.deakin.edu.au/study/key-dates)
+        *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
+    *   [Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
+    *   [Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
     *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
         *   Back[Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar) 
         *   [Year 12 students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
@@ -80,7 +84,7 @@ Menu
     *   [Accommodation](https://www.deakin.edu.au/accommodation)
     *   [Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support)
         *   Back[Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support) 
-        *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students/nikeri-institute)
+        *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/nikeri-institute)
         *   [Programs and pathways](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students)
         *   [Scholarships](https://www.deakin.edu.au/student-life-and-services/support-for-indigenous-students/scholarships)
 
@@ -234,8 +238,14 @@ Menu
 
 [Find a course](https://www.deakin.edu.au/study/find-a-course)
 
-    *   [Courses by trimester](https://www.deakin.edu.au/trimester-one)
-    *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course/courses-by-study-area)
+    *   [March intake](https://www.deakin.edu.au/trimester-one)
+    *   [Study areas](https://www.deakin.edu.au/study/find-a-course)
+    *   [Key dates](https://www.deakin.edu.au/study/key-dates)
+    *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
+
+[Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
+
+[Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
 
 [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
 
@@ -297,7 +307,7 @@ Menu
 
 [Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support)
 
-    *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students/nikeri-institute)
+    *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/nikeri-institute)
     *   [Programs and pathways](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students)
     *   [Scholarships](https://www.deakin.edu.au/student-life-and-services/support-for-indigenous-students/scholarships)
 

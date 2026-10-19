@@ -3,47 +3,11 @@ Title: 404 Page not found | 404 Page not found | University of Stirling
 
 URL Source: https://www.stir.ac.uk/international/fees-and-scholarships/
 
-Published Time: 2026-10-02
+Published Time: 2026-10-19
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-# Let us know if you agree to cookies
-
-We use cookies to give you the best experience on our site. Some essential features on our site just won’t work without cookies, while other cookies help us to improve your experience. We recommend you turn on performance and marketing cookies.   
-  
- All the cookies we use on this website are listed in our [website privacy statement](https://www.stir.ac.uk/cookies/).   
-  
- Accept all performance and marketing cookies:
-
-Accept all cookies
-
-* * *
-
-## Necessary cookies
-
-These cookies are needed for our website to function correctly and are always turned on. They can only be disabled by changing your browser settings, but this may negatively affect your website experience.
-
-* * *
-
-### Performance cookies
-
-We use performance cookies to help us to improve our website by collecting and reporting information such as the number of visits and traffic sources, and how users navigate and interact with our site.
-
-- [x] performance On Off 
-
-* * *
-
-### Marketing cookies
-
-We use marketing cookies to improve the relevancy of marketing campaigns that you see such as showing you Open Day reminders when you are on other websites or social media platforms. We do this by sharing information with our selected advertising partners.
-
-- [x] marketing On Off 
-
-* * *
-
-Use my settings
-
 [skip to main content](https://www.stir.ac.uk/international/fees-and-scholarships/#content)[×](https://www.stir.ac.uk/international/fees-and-scholarships/# "Close mobile menu")
 *   [Home](https://www.stir.ac.uk/)
 *   [Find a course](https://www.stir.ac.uk/courses/)

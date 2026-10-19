@@ -801,17 +801,14 @@ Immigration conditions
 Enquiries
 Overview
 From 2026/27, the CSC has launched a new ‘Commonwealth Fellowship Programme’ featuring two strands: the current Professional Fellowships alongside a new strand of Academic Fellowships.
-Both strands are open to candidates from  ALL  Commonwealth countries.
 Commonwealth Professional Fellowships  are for mid-career professionals from eligible Commonwealth countries (other than the UK) to undertake a programme of professional development at a UK host organisation working in their sector.
 Commonwealth Academic Fellowships  are for academic staff who hold a PhD and are employed at a university in an eligible Commonwealth country (other than the UK) to undertake a programme of academic skills update, knowledge exchange and networking, with a view to establishing future collaboration, at a UK university.
-Purpose:  Commonwealth Academic and Professional Fellowships are for citizens of Commonwealth countries to spend a period of time in the UK at an organisation working on a programme of professional or academic development which will have a developmental impact upon their return home.
+Purpose:  Commonwealth Academic and Professional Fellowships are for citizens of eligible Commonwealth countries to spend a period of time in the UK at an organisation working on a programme of professional or academic development which will have a developmental impact upon their return home.
 Intended   beneficiaries:
 Professional Fellows  should be mid-career professionals with five years’ relevant experience working in organisations in an eligible Commonwealth country.
 Academic Fellows  should have a PhD and be employed by a university in an eligible Commonwealth country.
-We provisionally plan to offer around 40 Fellowships in total:
-Approximately 10 Fellowships are available for citizens of Commonwealth countries not eligible for ODA (overseas development assistance).
-Approximately 30 Fellowships available for citizens of Commonwealth countries eligible for ODA.
-Please refer to the eligible countries tab for full details.
+We provisionally plan to offer around 12 fellowships in total.
+Please refer to the eligible countries tab for full details and note that each programme has its own country eligibility requirements .
 These fellowships are offered under six development themes:
 Science and technology for development
 Improving population health, health systems and capacity
@@ -819,195 +816,65 @@ Promoting innovation and entrepreneurship
 Strengthening peace, security and governance
 Strengthening resilience and response to crises
 Access, inclusion and opportunity
-Professional Fellowships in 2026/27 must:
-Begin between mid-February to mid-March 2027
-Be between six weeks and three months duration
-Academic Fellowships in 2026/27 must:
-Begin in January/February 2027
-Be of three months duration
+Professional and Academic Fellowships in 2026/27 will begin in March 2027 and run for up to three months.
 Host organisation programmes
 Different UK based organisations have applied to host Commonwealth Fellows in 2027. Each host organisation has applied to run a bespoke fellowship programme that candidates can apply for.
-You can find the details of each successfully selected organisation and the programme that they are running on this page. Click on the programme detail and eligibility link for each host organisation to read more in-depth details about their programme and eligibility criteria.
-Please note that some hosts intend to nominate candidates from their known and established networks. Where this is the case, it is indicated on this page. To avoid disappointment please consider contacting these hosts directly using the information on their websites before applying for their fellowship programme.
-Bees for Development – Professional Fellowships
-British Geological Survey – Professional Fellowships
-Causeway Coast and Glens Borough Council – Professional Fellowships
-Christ Apostolic Church – House of Prayer UK – Professional Fellowships
-Doctoral Training Centre, University of Oxford – Academic Fellowships
-Goodnews Community Outreach – Professional Fellowships
-Imperial College London – Academic Fellowships
-Justice Defenders – Professional Fellowships
-Knowledge for Change – Professional Fellowships
-Lifegate Outreach Centre – Professional Fellowships
-LifeLine Network International – Professional Fellowships
-London North West University Healthcare Trust – Professional Fellowships
-Royal College of Emergency Medicine – Professional Fellowships
-Salford University – Professional Fellowships
-University College London – Professional Fellowships
-University of Bath – Academic Fellowships
-University of Bradford Institute of Cancer Therapeutics – Academic Fellowships
-University of East London – School of Health, Sport and Bioscience – Professional Fellowships
-University of Oxford – Department of Physics – Academic Fellowships
-University of Reading – Academic Fellowships
-University of Strathclyde – Pure and Applied Chemistry Department – Professional Fellowships
-University of Strathclyde – National Centre for Prosthetics and Orthotics – Professional Fellowships
-Wessex Global Stroke Partnerships – Professional Fellowships
-Bees for Development – Professional Fellowships
-Proposed programme dates: 15/03/2027 to 23/04/2027
-Priority theme: Promoting innovation and entrepreneurship
-Recruiting from an established network: No
-Website: beesfordevelopment.org/what-we-do
-Programme detail and eligibility
-Back to list of host organisations
-British Geological Survey – Professional Fellowships
-Proposed programme dates: 01/03/2027 to 28/05/2027
+You can find the details of each successfully selected organisation and the programme that they are running on this page.
+Please note that some hosts intend to nominate candidates from their known and established networks as indicated against each one . Where this is the case, it is indicated on this page. To avoid disappointment please consider contacting these hosts directly using the information on their website   before applying for the fellowship programme.
+For each programme host, it states whether it is part of the Academic or Professional Fellowship strand. You must meet the CSC&#8217;s eligibility criteria for the particular strand you are applying for, as well as any eligibility requirements set out by the host organisation.
+University of Bristol, School of Chemistry – Academic or Professional Fellowships
+Proposed programme dates: 1 March 2027 to 30 April 2027
 Priority theme: Science and technology for development
 Recruiting from an established network: Yes
-Website: bgs.ac.uk/geological-research/science-facilities/environmental-geochemistry/inorganic-geochemistry-facility
-Programme detail and eligibility
-Back to list of host organisations
-Causeway Coast and Glens Borough Council – Professional Fellowships
-Proposed programme dates: 10/02/2027 to 11/05/2027
-Priority theme: Strengthening peace, security and governance
-Recruiting from an established network: Yes
-Website: causewaycoastandglens.gov.uk
-Programme detail and eligibility
-Back to list of host organisations
-Christ Apostolic Church – House of Prayer UK – Professional Fellowships
-Proposed programme dates: 14/02/2027 to 14/05/2027
-Priority theme: Science and technology for development
-Recruiting from an established network: No
-Website: cacahouseofprayer.org
-Programme detail and eligibility
-Back to list of host organisations
-Doctoral Training Centre, University of Oxford – Academic Fellowships
-Proposed programme dates: 10/02/2027 to 11/05/2027
+Website:  www.bristol.ac.uk/chemistry/research/acrg
+About the programme
+The Atmospheric Chemistry Research Group in the School of Chemistry at the University of Bristol will host two Fellows through the Commonwealth Fellowship Scheme for Caribbean non-ODA countries (see separate list of eligible countries). The programme is designed to provide professional/academic development in atmospheric greenhouse gas, ozone depleting substance and air quality measurements for Fellows from Caribbean non-ODA Commonwealth countries working in the atmospheric and environmental sciences. A blend of theory and practical courses in trace gas measurements will be given to help improve knowledge base and build capacity within the region. During the programme, Fellows will get the opportunity to network with academic and industrial scientists, get hands on experience with state-of-the-art instrumentation, troubleshooting instruments, data analysis, and visits to two atmospheric measurement research stations. These activities have been designed to transfer knowledge and build capacity within the prospective Fellows’ countries.
+Eligibility
+Prospective Fellows through the Commonwealth Fellowship Scheme must be from non-ODA Caribbean countries and either have a minimum of five years’ experience working within an organisation associated with atmospheric and/or environmental sciences, or have a PhD and be employed at a university.
+Potential applicants, regardless of their sex, race, religion, culture, ethnicity and sexual orientation are encouraged to apply for the Commonwealth Fellowship in the Atmospheric Chemistry Research Group at the University of Bristol.
+University of Oxford, Department of Chemistry – Academic Fellowships
+Proposed programme dates: 1 March 2027 to 31 May 2027
 Priority theme: Science and technology for development
 Recruiting from an established network: Yes
-Website: schmidtaifaculty.site.ox.ac.uk/home
-Programme detail and eligibility
-Back to list of host organisations
-Goodnews Community Outreach – Professional Fellowships
-Proposed programme dates: 15/02/2027 to 14/05/2027
-Priority theme: Strengthening resilience and response to crises
-Recruiting from an established network: No
-Programme detail and eligibility
-Back to list of host organisations
-Imperial College London – Academic Fellowships
-Proposed programme dates: 10/02/2027 to 08/05/2027
+Website:  www.chem.ox.ac.uk
+Programme
+This is a knowledge-exchange fellowship in the area of energy storage. The University of Oxford has world-leading strength in this area, with experts in the field in Chemistry, Materials and Engineering. Energy storage is the core focus of the Oxford spoke of the Henry Royce Institute, and a principal theme of the ZERO Institute at Oxford, which are both cross-departmental institutes. This fellowship seeks to engage with a world-class academic from New Zealand by having them resident within Oxford for knowledge and skills exchange. This will be facilitated through 1) the Fellow delivering lectures through Oxford&#8217;s taught Masters in energy systems, as well as seminars to Oxford&#8217;s cross-disciplinary community on energy through the ZERO Institute and Oxford Energy Network, 2) the Fellow gaining new skills through forming new collaborations across Oxford, leading to joint projects and joint-supervision of students, and long-lasting connections to benefit the home country.
+Eligibility
+The Fellow will need to be a faculty member in a University in New Zealand. They should have experience and expertise in energy storage in areas complementary to the main efforts at the University of Oxford. Desired areas include saltwater batteries and Mg-based batteries. The Fellow should also be experienced in leading a research group and teaching at the undergraduate and graduate level. This is to ensure that they can fully engage with the programme of activities planned for this visit.
+University of Surrey, Faculty of Engineering and Physical Sciences (FEPS) – Academic Fellowships
+Proposed programme dates: 1 March 2027 to 31 May 2027
 Priority theme: Science and technology for development
-Recruiting from an established network: No
-Website: imperial.ac.uk/imperial-global-development-lab/commonwealth&#8212;imperial-early-career-academic-fellowships
-Programme detail and eligibility
-Back to list of host organisations
-Justice Defenders – Professional Fellowships
-Proposed programme dates: 09/03/2027 to 16/04/2027
-Priority theme: Strengthening peace, security and governance
 Recruiting from an established network: Yes
-Website: justice-defenders.org
-Programme detail and eligibility
-Back to list of host organisations
-Knowledge for Change – Professional Fellowships
-Proposed programme dates: 15/02/2027 to 11/05/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Programme detail and eligibility
-Back to list of host organisations
-Lifegate Outreach Centre – Professional Fellowships
-Proposed programme dates: 15/02/2027 to 11/05/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: No
-Website: lifegatecentre.org/lifegate-communities
-Programme detail and eligibility
-Back to list of host organisations
-LifeLine Network International – Professional Fellowships
-Proposed programme dates: 24/02/2027 to 07/04/2027
+Website: www.surrey.ac.uk/faculty-engineering-physical-sciences/international
+Programme
+The Faculty of Engineering and Physical Sciences (FEPS) at the University of Surrey, in collaboration with the Commonwealth Scholarships Commission, is accepting applications to host two Academic Fellows for a tailored 3-month programme designed to broaden academic skills, exchange knowledge and build networks for future collaboration. Fellows will work with a nominated FEPS mentor and academic team, engaging with colleagues across our four schools and partners in industry and academia. Activities will include visits to collaborators in the UK, interaction with our global network of partners, participation in day-to-day academic activities, and interaction with Surrey’s pan-university Institutes in People-Centred AI, Institute for Sustainability and Surrey Space Institute. We welcome research and educational interests in science and technology for development, resilience and crisis response, and innovation and entrepreneurship, particularly around sustainability of the built environment and physical and digital resilience of systems from an engineering and applied science approach.
+Eligibility
+The Fellowship programme proposed is open to academics from non-ODA eligible Commonwealth countries who meet the CSC Academic Fellowship requirements, including holding a PhD and being employed in an eligible Commonwealth country.
+We welcome research and educational interests in science and technology for development, resilience and crisis response, and innovation and entrepreneurship, particularly around sustainability of the built environment and physical and digital resilience of systems from an engineering and applied science approach. Applications are welcome across core engineering disciplines (aeronautical, civil, chemical, electronic and mechanical engineering) and applied sciences (chemistry, computing, mathematics and physics).
+University of Surrey, Faculty of Health and Medical Sciences – Academic Fellowship
+Proposed programme dates: 1 March 2027 to 31 May 2027
 Priority theme: Access, inclusion and opportunity
 Recruiting from an established network: Yes
-Programme detail and eligibility
-Back to list of host organisations
-London North West University Healthcare Trust – Professional Fellowships
-Proposed programme dates: 01/03/2027 to 12/04/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Website: lnwh.nhs.uk
-Programme detail and eligibility
-Back to list of host organisations
-Royal College of Emergency Medicine – Professional Fellowships
-Proposed programme dates: 23/02/2027 to 16/04/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Programme detail and eligibility
-Back to list of host organisations
-Salford University – Professional Fellowships
-Proposed programme dates: 10/02/2027 to 11/05/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Website: salford.ac.uk
-Programme detail and eligibility
-Back to list of host organisations
-University College London – Professional Fellowships
-Proposed programme dates: 11/02/2027 to 10/05/2027
-Priority theme: Access, inclusion and opportunity
-Recruiting from an established network: Yes
-Website: ucl.ac.uk/population-health-sciences/our-institutes-and-schools
-Programme detail and eligibility
-Back to list of host organisations
-University of Bath – Academic Fellowships
-Proposed programme dates: 20/01/2027 to 16/04/2027
+Website: www.surrey.ac.uk/faculty-health-medical-sciences/international
+Programme detail and eligibility :
+Programme
+The University of Surrey Faculty of Health and Medical Sciences Commonwealth Academic Fellowship Programme will provide academics from eligible non-ODA Commonwealth countries with a three-month programme of academic skills development, capacity building, reciprocal knowledge exchange and networking.
+Fellows will be embedded within specialist academic groups and matched with Surrey mentors. Tailored programmes will combine methodological and technical skills development with interdisciplinary knowledge exchange, spanning advanced scientific approaches to understanding health and disease and inclusive cognitive and educational approaches to improving learning and opportunity. Pathways to impact will align with Surrey’s Vision 2041 ambition for transformative research and innovation.
+The programme supports three CSC development themes: Science and technology for development; Improving population health, health systems and capacity; and Access, inclusion and opportunity.
+A central focus will be translating Fellowship learning into home-country benefit through knowledge and skills transfer, collaborative outputs and sustained UK–Commonwealth academic partnerships beyond the Fellowship.
+Eligibility
+The programme is open to academic staff from non-ODA eligible Commonwealth countries who meet CSC Academic Fellowship requirements, including holding a PhD and university employment.
+Applicants should align with FHMS expertise and at least one selected CSC development theme: Science and technology for development; Improving population health, health systems and capacity; or Access, inclusion and opportunity.
+Applications are welcomed across health, biosciences, psychology, medicine, health sciences and related interdisciplinary areas. Applicants should demonstrate how knowledge and skills gained through the Fellowship will be transferred and applied within their home institution and country following their return.
+University of Warwick, Department of Chemistry – Academic Strand
+Proposed programme dates: 1 March 2027 to 31 May 2027
 Priority theme: Science and technology for development
-Recruiting from an established network: Yes
-Programme detail and eligibility
-Back to list of host organisations
-University of Bradford Institute of Cancer Therapeutics – Academic Fellowships
-Proposed programme dates: 10/02/2027 to 07/05/2027
-Priority theme: Improving population health, health systems and capacity
 Recruiting from an established network: Yes
-Website: bradford.ac.uk/ict
-Programme detail and eligibility
-Back to list of host organisations
-University of East London – School of Health, Sport and Bioscience – Professional Fellowships
-Proposed programme dates: 15/02/2027 to 14/05/2027
-Priority theme: Science and technology for development
-Recruiting from an established network: No
-Website: uel.ac.uk/about/our-schools/school-health-sport-bioscience
-Programme detail and eligibility
-Back to list of host organisations
-University of Oxford – Department of Physics – Academic Fellowships
-Proposed programme dates: 17/02/2027 to 11/05/2027
-Priority theme: Science and technology for development
-Recruiting from an established network: Yes
-Website: physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics
-Programme detail and eligibility
-Back to list of host organisations
-University of Reading – Academic Fellowships
-Proposed programme dates: 01/02/2027 to 30/04/2027
-Priority theme: Access, inclusion and opportunity
-Recruiting from an established network: Yes
-Website: reading.ac.uk/classics
-Programme detail and eligibility
-Back to list of host organisations
-University of Strathclyde – Pure and Applied Chemistry Department – Professional Fellowships
-Proposed programme dates: 11/02/2027 to 11/05/2027
-Priority theme: Science and technology for development
-Recruiting from an established network: No
-Website: strath.ac.uk/science/chemistry
-Programme detail and eligibility
-Back to list of host organisations
-University of Strathclyde – National Centre for Prosthetics and Orthotics – Professional Fellowships
-Proposed programme dates: 10/02/2027 to 07/04/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Website: strath.ac.uk/engineering/biomedicalengineering
-Programme detail and eligibility
-Back to list of host organisations
-Wessex Global Stroke Partnerships – Professional Fellowships
-Proposed programme dates: 01/03/2027 to 11/04/2027
-Priority theme: Improving population health, health systems and capacity
-Recruiting from an established network: Yes
-Website: wgstroke.org
-Programme detail and eligibility
-Back to list of host organisations
+Website:  warwick.ac.uk/fac/sci/chemistry
+Programme
+This Fellowship will host a researcher within the Department of Chemistry, University of Warwick, ranked 9th for Research Power among UK Chemistry departments (REF 2021), with 100% of its research rated world-leading or internationally excellent. The Department&#8217;s work spans three priority areas: Health, including drug discovery, antimicrobial resistance and drug delivery innovation; Sustainability, Energy and the Environment; and Data and Modelling, including AI-driven prediction of molecular properties, delivered through groups spanning synthetic biology, computational and theoretical chemistry, energy materials, analytical chemistry, polymers, and synthesis and catalysis. It suits researchers in chemistry, drug design, materials or computational science, particularly those connected to institutions with an existing relationship with Warwick, such as the Monash-Warwick Alliance. The Fellowship is expected to build lasting research links with the Fellow&#8217;s home institution, generate joint publications and grant applications, and support the Fellow&#8217;s career development through exposure to techniques and facilities not available at home.
+Eligibility
+Eligibility is restricted to applicants from Non-ODA eligible Commonwealth countries with an existing research relationship with the Department of Chemistry, University of Warwick. Priority will be given to a candidate from Monash University, Australia, working in pharmaceutical sciences, polymer chemistry or nanomaterials for drug delivery, reflecting the established collaboration between the two institutions through the Monash-Warwick Alliance. Applicants should hold a postdoctoral or equivalent research position, have a track record of relevant publications, and be able to demonstrate how a period of research at Warwick would benefit their home institution and career development.
 How to apply
 ​ Application s for the 2027 Commonwealth Fellowships are now closed.
 The CSC is unable to accept any applications or documentation not submitted via the above form .
@@ -1025,7 +892,7 @@ For full details see the s election criteria for assessment of applications .
 Fellow eligibility
 To be eligible for these Fellowships, prospective Fellows must:
 Be a citizen of or have been granted refugee status by an eligible Commonwealth country, or be a British Protected Person.
-Be permanently resident in an eligible Commonwealth country. Prospective Fellows should not have indefinite leave to remain in the UK.
+Be permanently resident in an eligible Commonwealth country ( see the ‘Eligible countries’ tab for details ) . Prospective Fellows should not have indefinite leave to remain in the UK.
 Professional Fellows: have at least five years’ full-time, or equivalent part-time, relevant work experience, in a profession related to the subject of the Fellowships programme, by the proposed start of the fellowship – voluntary work experience will not be counted towards this minimum.
 Academic Fellows: hold a PhD and be employed by a university in a Commonwealth country other than the UK.
 Be in employment at the time of application at an organisation that they will return to upon completion of the fellowship.
@@ -1037,52 +904,7 @@ The CSC aims to identify talented individuals who have the potential to make cha
 Please note that personal information will be used to conduct necessary due diligence checks by the CSC. These checks will be carried out before proceeding with any type of formal agreement or contractual relationship. In most cases, the due diligence checks will be straightforward, but further information may be requested, so we ask for full cooperation from candidates to speed up the process.
 If candidates do not agree to their personal data being used for the purpose of conducting due diligence, the CSC will not be able to proceed further with the selection process.
 Eligible countries
-Candidates should check the eligibility for each individual programme.
-Bangladesh
-Belize
-Botswana
-Cameroon
-Dominica
-Eswatini
-Fiji
-Gabon
-The Gambia
-Ghana
-Grenada
-Guyana
-India
-Jamaica
-Kenya
-Kiribati
-Lesotho
-Malawi
-Malaysia
-Maldives
-Mauritius
-Montserrat
-Mozambique
-Namibia
-Nauru
-Nigeria
-Pakistan
-Papua New Guinea
-Rwanda
-Saint Helena
-Saint Lucia
-Saint Vincent and the Grenadines
-Samoa
-Sierra Leone
-Solomon Islands
-South Africa
-Sri Lanka
-Tanzania
-Togo
-Tonga
-Tuvalu
-Uganda
-Vanuatu
-Zambia
-Non-ODA eligible countries (approximately ten fellowships on offer):
+Non-ODA eligible countries. Please n ote that individual programmes have their own geographical eligibility requirements.
 Anguilla
 Antigua and Barbuda
 Australia
@@ -1107,7 +929,6 @@ Completing the application form
 Applications for 2027 Commonwealth Fellowships are now open.
 To apply for a Commonwealth Fellowship you must complete the application form by clicking on the link below:
 Commonwealth Fellowship Application Form
-Applications for Fellows open at 9:00 BST Tuesday 28 July and close at 16:00 BST Tuesday 25 August.
 The CSC is unable to accept any applications or documentation not submitted via the above form.
 In the application form, prospective Fellows are asked to:
 List all undergraduate and postgraduate university qualifications obtained (where applicable).

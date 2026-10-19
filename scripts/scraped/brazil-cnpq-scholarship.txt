@@ -47,7 +47,6 @@ Governança
 Parcerias
 Prêmios
 Plataforma Lattes
-Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
 Carta de Serviços
@@ -277,7 +276,7 @@ Consultar CPF
 5
 Consultar CNPJ
 6
-Consultar restituição do imposto de renda
+Obter passaporte e outros documentos de viagem
 Serviços em destaque do govbr
 Outros
 Tela Brasil
@@ -297,6 +296,9 @@ Fechar
 Fechar
 Fechar
 Info
+Asas para o Futuro: CNPq divulga resultado preliminar, que indica aprovação de 3.320 bolsas para jovens negras, indígenas e quilombolas
+Foram contempladas 28 propostas institucionais, com oferta de 3.320 bolsas de Apoio à Difusão do Conhecimento (ADC-2B); prazo para interposição de recursos vai até 26/10
+Saiba mais sobre Asas para o Futuro: CNPq divulga resultado preliminar, que indica aprovação de 3.320 bolsas para jovens negras, indígenas e quilombolas
 Chamada ARC, de auxílio à promoção de eventos científicos, tecnológicos e de inovação, tem inscrições abertas até 04/12
 Iniciativa pretende apoiar a realização de ações de educação, popularização e/ou divulgação científica que se enquadrem na Estratégia Nacional de Ciência, Tecnologia e Inovação (ENCTI) 2024-2034.
 Saiba mais sobre Chamada ARC, de auxílio à promoção de eventos científicos, tecnológicos e de inovação, tem inscrições abertas até 04/12
@@ -309,9 +311,6 @@ Saiba mais sobre Chamada Pepe Mujica terá suplementação para atender alta dem
 Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
 Ação do CNPq conta com parceria da CAPES e busca fortalecer a pesquisa, o empreendedorismo e a inovação nas Instituições Científicas, Tecnológicas e de Inovação.
 Saiba mais sobre Chamada MAI/DAI financiará pesquisas de mestrado e doutorado em parceria com empresas; inscrições até 11/12
-Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado preliminar
-Todas as 27 unidades federativas tiveram projetos aprovados; propostas contemplam iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências; e comunicação pública da ciência.
-Saiba mais sobre Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado preliminar
 Pop Ciência: chamada de apoio a feiras e mostras científicas divulga resultado final
 Planos de ação preveem duas edições do evento, em 2026 e 2027.
 Saiba mais sobre Pop Ciência: chamada de apoio a feiras e mostras científicas divulga resultado final
@@ -332,9 +331,9 @@ Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os
 Faperj informou também o início do funcionamento de 18 Institutos Nacionais de Ciência e Tecnologia aprovados nas chamadas públicas realizadas pelo CNPq em 2022 e 2024.
 14/07/2026 10h59
 Educação e Pesquisa
-Study UK Alumni Awards 2027: prêmio do British Council tem inscrições abertas até 15/10
-Premiação reconhece ex-alunos que estudaram no Reino Unido que estão gerando impacto positivo em suas comunidades, seus setores e no Brasil.
-02/10/2026 16h46
+Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado preliminar
+Todas as 27 unidades federativas tiveram projetos aprovados; propostas contemplam iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências; e comunicação pública da ciência.
+18/10/2020 08h24
 Ciência e Tecnologia
 32º Prêmio Jovem Cientista: confira as inscrições pré-selecionadas
 05/10/2026 11h48
@@ -432,7 +431,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
@@ -639,7 +637,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
@@ -890,7 +887,6 @@ Governança
 Parcerias
 Prêmios
 Plataforma Lattes
-Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
 Carta de Serviços
@@ -1096,7 +1092,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
@@ -1362,7 +1357,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
@@ -1732,6 +1726,434 @@ Agora não
 Responder pesquisa
 Não exibir esta mensagem novamente.
 
+===== SOURCE PAGE: https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro?origem=maisacessado_inst =====
+Obter passaporte
+Ir para o
+Conteúdo
+1
+Ir para a
+Página Inicial
+2
+Ir para o menu de
+Navegação
+3
+Ir para a
+Busca
+4
+Ir para o
+Mapa do site
+5
+Atenção!
+Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.
+Abrir menu principal de navegação
+Serviços e Informações do Brasil
+Termos mais buscados
+Desenrola Brasil
+assinatura
+mei
+imposto de renda
+cnh
+Termos mais buscados
+Desenrola Brasil
+assinatura
+mei
+Serviços
+Buscar serviços por
+Categorias
+Órgãos
+Estados
+Serviços por público alvo
+Cidadãos
+Empresas
+Órgãos e Entidades Públicas
+Demais segmentos (ONGs, organizações sociais, etc)
+Servidor Público
+Temas em Destaque
+Orçamento Nacional
+Redes de Atendimento da Administração Pública Federal
+Proteção de Dados Pessoais
+Serviços para Imigrantes
+Política e Orçamento Educacionais
+Educação Profissional e Tecnológica
+Educação Profissional para Jovens e Adultos
+Trabalho e Emprego
+Serviços para Pessoas com Deficiência
+Combate à Discriminação Racial
+Política de Proteção Social
+Política para Mulheres
+Saúde Reprodutiva da Mulher
+Cuidados na Primeira Infância
+Habitação Popular
+Controle de Poluição e Resíduos Sólidos
+Notícias
+Galeria de Aplicativos
+Acompanhe o Planalto
+Navegação
+Acessibilidade
+Mapa do Site
+Termo de Uso e Aviso de Privacidade
+Consultar minhas solicitações
+Órgãos do Governo
+Por dentro do Gov.br
+Dúvidas Frequentes em relação ao Portal gov.br
+Dúvidas Frequentes da conta gov.br
+Ajuda para Navegar o Portal
+Conheça os elementos do Portal
+Política de e-participação
+Termos de Uso
+Governo Digital
+Guia de Edição de Serviços do Portal Gov.br
+Canais do Executivo Federal
+Dados da Administração Pública Federal
+Dados Abertos
+Painel Estatístico de Pessoal
+Painel de Compras da Administração Pública Federal
+Acesso à Informação
+Empresas e Negócios
+Links Úteis
+Galeria de Aplicativos
+Participe
+Galeria de Aplicativos
+Participe
+Ajude a melhorar o gov.br
+Redes sociais
+Instagram
+Facebook
+YouTube
+Linkedin
+WhatsApp canal
+TikTok
+Kwai
+Você está aqui:
+Página Inicial
+Serviços
+Obter passaporte
+Obter passaporte
+Aviso
+As alterações feitas no estado "Em edição" estarão visíveis a todos.
+Info
+Viagens e Turismo
+Preparação para Viagem
+>
+Brasileiro indo para o exterior
+Obter passaporte
+Iniciar
+Avaliação:
+4.8
+(77691)
+Avaliação
+O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5.
+Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço.
+Os números são atualizados diariamente.
+Iniciar
+Imprimir
+Compartilhe:
+Compartilhe no Whatsapp
+Compartilhe no Facebook
+Compartilhe no Twitter
+Compartilhe no Linkedin
+Compartilhar essa página
+Última Modificação: 07/10/2026
+O que é?
+Olá! Este é o único site OFICIAL do governo brasileiro onde você pode solicitar Passaporte e outros documentos de viagem como passaporte de Emergência, Laissez-passer e Passaporte para Estrangeiro.
+ATENÇÃO EDITOR — para evitar perda da formatação, edite DIRETAMENTE no código fonte, clicando no botão acima HTML .
+Passaporte é um documento de viagem , ou seja, documento aceito como dentificação do brasileiro em outro país. Nele podem ser registrados vistos, autorizações, entradas e saídas.
+Passaportes Diplomático, Oficial e de Serviço  não são emitidos aqui. Acesse o serviço consular para saber mais.
+Aqui, além do Passaporte comum, também são emitidos Passaporte para Estrangeiro e Laissez-passer, desde que atendidas as condições legais.
+Quem pode utilizar este serviço?
+Este serviço se dedica exclusivamente a quem se encontra em território brasileiro , desde que atenda aos requisitos legais , de acordo com a nacionalidade, brasileiro ou não brasileiro .
+Os requisitos necessários dependem da nacionalidade: brasileiro ou não brasileiro
+RESUMO DAS ETAPAS
+A imagem mostra as etapas do serviço que serão descritas a seguir:
+Etapas para a realização deste serviço
+Preencher o formulário
+Atenção ao preenchimento do formulário: campos em branco ou informação falsa levarão a atraso na entrega do passaporte e pode configurar crime.
+Código Penal
+Art. 299 — Omitir ou inserir informação falsa configura crime de falsidade ideológica, com pena de reclusão de 1 a 5 anos e multa.
+Antes de preencher o formulário, confira atentamente quais documentos deverão ser apresentados no dia do atendimento.
+Canais de prestação
+Web
+:
+Preencher Formulário
+Procedimentos de atendimento quando o sistema informatizado se encontrar indisponível
+Indisponível :   Como proceder
+Tempo de duração da etapa
+Até
+10
+minuto(s)
+Pagar taxa
+O pagamento poderá ser feito por PagTesouro (PIX ou Cartão de Crédito), Boleto (via código de barras) ou DDA disponibilizado em conta.
+A taxa é gerada automaticamente no final da etapa anterior (envio do formulário e geração do protocolo). Utilize o canal a seguir somente se ainda não fez o pagamento.
+Canais de prestação
+Web
+:
+Pagar taxa
+Procedimentos de atendimento quando o sistema informatizado se encontrar indisponível
+Indisponível :   Como proceder
+Custos
+Taxa COMUM a todas as solicitações
+R$
+257,25
+Urgência e Emergência: Taxa comum ✛ Taxa ADICIONAL de R$ 77,17 gerada no atendimento, totalizando
+R$
+334,42
+Passaporte anterior VÁLIDO extraviado ou perdido: Taxa comum ✛ Taxa ADICIONAL de R$ 257,25 gerada no atendimento, totalizando
+R$
+514,50
+Tempo de duração da etapa
+Entre
+24
+e
+72
+hora(s)
+Agendar atendimento
+Após a compensação do pagamento, você deverá agendar o atendimento presencial. A compensação do pagamento por PIX é imediata.
+Escolha o local de atendimento considerando que a entrega do passaporte pronto ocorrerá no mesmo posto e que o passaporte será cancelado caso não o busque em até 90 (noventa) dias corridos, com total prejuízo da taxa paga.
+Canais de prestação
+Web
+:
+Agendar ou Reagendar
+Procedimentos de atendimento quando o sistema informatizado se encontrar indisponível
+Indisponível :   Como proceder
+Tempo de duração da etapa
+Entre
+1
+e
+15
+dia(s) útil(eis)
+Comparecer à unidade escolhida
+No dia agendado, você deverá comparecer à unidade escolhida, apresentando toda a documentação necessária em via original .
+O atendente analisará a documentação e as informações que você forneceu ao preencher o formulário, coletará dados biométricos — impressões digitais e fotografia facial — e informará o prazo de entrega, em geral, entre 6 e 10 dias úteis.
+Canais de prestação
+Presencial
+:
+O atendimento presencial é obrigatório a todo solicitante de passaporte, inclusive no caso do solicitante menor de 18 anos.
+Tempo estimado de espera
+:
+Até
+20
+minuto(s)
+Documentação
+Documentação em comum para todos os casos
+Solicitante brasileiro
+Solicitante não brasileiro
+Tempo de duração da etapa
+Entre
+5
+e
+20
+minuto(s)
+Consultar andamento
+Após o atendimento presencial, é possível consultar o andamento da solicitação. O passaporte estará disponível para entrega somente quando a consulta indicar que o documento de viagem está disponível para entrega .
+A entrega ocorrerá no mesmo posto em que ocorreu o atendimento e o passaporte será cancelado caso não o busque em até 90 (noventa) dias corridos, com total prejuízo da taxa paga.
+Canais de prestação
+Web
+:
+Consultar andamento
+Procedimentos de atendimento quando o sistema informatizado se encontrar indisponível
+Indisponível :   Como proceder
+Tempo de duração da etapa
+Entre
+6
+e
+10
+dia(s) útil(eis)
+Receber passaporte pronto
+O titular deve comparecer ao mesmo posto para buscar o passaporte pronto, munido de documento de identificação pessoal.
+No dia do atendimento presencial, a unidade informará se a entrega será realizada por ordem de chegada ou por agendamento prévio. Em todos os casos serão observadas as situações de prioridade legalmente previstas.
+Sendo possível, evite horário do almoço e final da tarde: são horários de maior procura por quem não têm alternativas.
+Canais de prestação
+Presencial
+:
+O passaporte é entregue somente ao titular . Menor de 16 anos deve estar acompanhado por responsável legal. O menor de 12 anos não precisa comparecer: seu passaporte será entregue ao responsável legal, desde que apresente documento original do menor.
+Tempo estimado de espera
+:
+Até
+30
+minuto(s)
+Recebeu seu passaporte?
+Web
+:
+Pesquisa de satisfação
+Documentação
+Documentação em comum para todos os casos
+Documento de identificação do titular
+Acompanhante do menor
+Documento de identificação do acompanhante
+Autorização específica , caso o acompanhante não seja genitor e não tenha acompanhado o menor durante a solicitação
+Tempo de duração da etapa
+Entre
+2
+e
+5
+minuto(s)
+Outras Informações
+Quanto tempo leva?
+Entre
+6
+e
+10
+dia(s) útil(eis)
+é o tempo estimado para a prestação deste serviço.
+Informações adicionais ao tempo estimado
+Em alguns períodos do ano, o tempo de atendimento pode aumentar em virtude da aproximação de períodos de férias escolares ou feriados prolongados. Caso tenha uma urgência, verifique as condições de atendimento .
+Para mais informações ou dúvidas sobre este serviço, entre em contato
+Unidades da Polícia Federal
+A Polícia Federal não possui call center ou telefone para contato referente ao serviço Obter passaporte. Visite nossa seção de Dúvidas Frequentes
+Este é um serviço do(a)
+Polícia Federal
+. Em caso de dúvidas, reclamações ou sugestões favor contactá-lo.
+Informações adicionais ao tempo de validade
+TIPO DE PASSAPORTE
+VALIDADE
+Passaporte de Emergência
+até 1 ano
+Passaporte para Estrangeiro
+até 2 anos
+Laissez-passer
+até 2 anos
+Passaporte Comum
+idade até 1 ano
+1 ano
+idade entre 1 e 2 anos
+2 anos
+idade entre 2 e 3 anos
+3 anos
+idade entre 3 e 4 anos
+4 anos
+idade entre 4 e 18 anos
+5 anos
+maior de 18 anos
+10 anos
+Legislação
+Decreto Nº 1.983, de 14 de Agosto de 1996.
+Instrução Normativa 173, de 21 de julho de 2020.
+Tratamento a ser dispensado ao usuário no atendimento
+Em respeito aos princípios expressos na Lei nº 13.460/17, o usuário deve receber um atendimento pautado nas seguintes diretrizes: Urbanidade ― Respeito ― Acessibilidade ― Cortesia ― Presunção da boa-fé ― Igualdade ― Eficiência ― Segurança e Ética.
+Informações sobre as condições de acessibilidade, sinalização, limpeza e conforto dos locais de atendimento
+O usuário do serviço público, conforme estabelecido pela lei nº 13.460/17, tem direito a atendimento presencial (quando necessário) em instalações salubres, seguras, sinalizadas, acessíveis e adequadas ao serviço e ao atendimento.
+Informação sobre quem tem direito a tratamento prioritário
+Pessoas com deficiência, idosos com idade igual ou superior a 60 anos, gestantes, lactantes, pessoas com crianças de colo e obesos, conforme estabelecido na Lei 10.048 de 8 de novembro de 2000, têm direito a atendimento prioritário. Exatamente por isso, é recomendável agendar o atendimento , pois ele permite que a espera na unidade seja a menor possível.
+Outros Assuntos - Passaporte
+Outros serviços oferecidos pela Policia Federal estão disponíveis na área Assuntos .
+Iniciar
+Pagamento Integrado
+Este serviço permite pagamento pelo PagTesouro. Plataforma oficial de pagamentos do GOV.BR.
+(Pix, cartão, carteira digital ou boleto)
+Dúvidas sobre o PagTesouro?
+Saiba mais
+Serviços relacionados
+Serviços para Estrangeiros
+Cadastrar Entidade de Adoção Internacional
+Outros Direitos
+Obter passaporte brasileiro no exterior
+Brasileiro indo para o exterior
+Obter passaporte diplomático ou oficial
+Ouvidoria
+Denúncia
+Denúncia
+Para comunicar a ocorrência de alguma irregularidade relacionada ao serviço
+Reclamação
+Reclamação
+Se você foi mal atendido e está insatisfeito com o atendimento e/ou serviço prestado
+Elogio
+Elogio
+Se você ficou satisfeito com o serviço prestado
+Sugestão
+Sugestão
+Se você tiver uma idéia ou proposta de melhoria para este serviço
+Tags: Férias Visto Viagem Passaporte Emitir Passaporte Renovar Passaporte Laissez-Passer Documento de viagem Documentos de viagem Papel internacional Carteira para viajar Passaporte para estrangeiro
+Aviso
+Sua avaliação já foi realizada
+Erro
+Avaliação indisponível no momento
+Erro
+Erro ao gravar motivo da avaliação.
+As informações desta página foram úteis para você?
+33%
+67%
+Média dos últimos 12 meses.
+Não é o serviço que eu estava procurando
+Não encontrei as informações que preciso
+Não entendi a informação
+Outros
+Justificativa
+250
+Agradecemos a sua contribuição para a melhoria do GOV.BR!
+Serviços
+Buscar serviços por
+Categorias
+Órgãos
+Estados
+Serviços por público alvo
+Cidadãos
+Empresas
+Órgãos e Entidades Públicas
+Demais segmentos (ONGs, organizações sociais, etc)
+Servidor Público
+Temas em Destaque
+Orçamento Nacional
+Redes de Atendimento da Administração Pública Federal
+Proteção de Dados Pessoais
+Serviços para Imigrantes
+Política e Orçamento Educacionais
+Educação Profissional e Tecnológica
+Educação Profissional para Jovens e Adultos
+Trabalho e Emprego
+Serviços para Pessoas com Deficiência
+Combate à Discriminação Racial
+Política de Proteção Social
+Política para Mulheres
+Saúde Reprodutiva da Mulher
+Cuidados na Primeira Infância
+Habitação Popular
+Controle de Poluição e Resíduos Sólidos
+Notícias
+Galeria de Aplicativos
+Acompanhe o Planalto
+Navegação
+Acessibilidade
+Mapa do Site
+Termo de Uso e Aviso de Privacidade
+Consultar minhas solicitações
+Órgãos do Governo
+Por dentro do Gov.br
+Dúvidas Frequentes em relação ao Portal gov.br
+Dúvidas Frequentes da conta gov.br
+Ajuda para Navegar o Portal
+Conheça os elementos do Portal
+Política de e-participação
+Termos de Uso
+Governo Digital
+Guia de Edição de Serviços do Portal Gov.br
+Canais do Executivo Federal
+Dados da Administração Pública Federal
+Dados Abertos
+Painel Estatístico de Pessoal
+Painel de Compras da Administração Pública Federal
+Acesso à Informação
+Empresas e Negócios
+Redefinir Cookies
+Redes sociais
+Instagram
+Facebook
+YouTube
+Linkedin
+WhatsApp canal
+TikTok
+Kwai
+Acesso à Informação
+Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada .
+Voltar ao topo da página
+Rejeitar
+Fale Agora
+Refazer a busca
+Ajude a melhorar o gov.br
+Ao compartilhar sua opinião, você nos ajuda a identificar problemas e a melhorar a navegação para você.
+Agora não
+Responder pesquisa
+Não exibir esta mensagem novamente.
+
 ===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/profix-cb-18-fundacoes-de-amparo-a-pesquisa-ja-lancaram-chamada-do-programa =====
 Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados — Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Ir para o
@@ -1780,7 +2202,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador
@@ -2098,471 +2519,6 @@ Serviços
 Governança
 Parcerias
 Prêmios
-Plataforma Lattes
-Plataforma Lattes
-Plataforma Integrada Carlos Chagas
-Programas financiados pelo Fundo de Amparo ao Trabalhador
-Carta de Serviços
-Participação Social
-Participação Social no CNPq
-Acessibilidade
-Ouvidoria
-Convênios e Transferências
-Convênios e Transferências
-Termo de Execução Descentralizada - TED
-Emendas Parlamentares
-Receitas e Despesas
-Receita Pública Execução Orçamentária Execução da Despesa
-Despesas com Diárias e Passagens
-Licitações e Contratos
-Licitações
-Contratos
-Auditorias
-Prestação de Contas
-Auditoria Interna
-Servidores
-Servidores do CNPq
-Desenvolvimento de Pessoal
-PGD
-Concursos
-Terceirizados
-Informações Classificadas
-Serviço de Informação ao Cidadão
-Apresentação
-Sistema E-SIC
-Lei de Acesso à Informação
-Ouvidoria
-Publicações
-Dados Abertos
-Apresentação
-Privacidade e Proteção de Dados
-Consulta de Dados
-Painéis de Dados
-Bolsas e Auxílios
-Apresentação
-Bolsas no País e no Exterior
-Auxílios
-Cartão Pesquisa
-Cartão Bolsista no Exterior
-Chamadas Abertas
-Chamadas em Análise
-Resultados
-Mapa de Fomento em Ciência, Tecnologia e Inovação - Bolsas e Projetos Vigentes
-Bolsistas Egressos (Exterior)
-Prestação de Contas - Relatório técnico
-Encomendas
-Base Jurídica
-Lei nº 1.310 de 15 de Janeiro de 1951
-Regimento Interno
-Estatuto do CNPq
-Corregedoria
-Competências
-Procedimentos e Processos Correcionais
-Legislação
-Informes
-Informes
-Relatório de Gestão
-Certidão Negativa
-Denúncias e Representações
-Quem é quem
-Fale Conosco
-Correição em Temas
-Painel de Corregedorias da Corregedoria Geral da União (CRG)
-Fluxogramas dos Processos Finalísticos da Corregedoria
-Orientações e Suporte às Comissões de PAD
-Orientações e Suporte às Comissões Investigativas
-Planejamento, Governança e Orçamento
-Planejamento
-PPA 2020-2023
-Orçamento
-Relatórios de Gestão
-Prestação de Contas
-Auditoria Interna
-Normas
-Plano Diretor de Tecnologia da Informação - PDTI
-Perguntas Frequentes
-CGU
-Denúncia
-Reclamação
-Solicitação
-Elogio
-Sugestão
-Acesso à Informação
-Simplifique
-Assuntos
-Notícias - Defeso Eleitoral
-Popularização da Ciência
-Por que popularizar?
-O CNPq e a Divulgação Científica
-Semana Nacional de Ciência e Tecnologia
-Museus e Centros de Ciência
-Feiras e Mostras de Ciência
-Programas de Editorial
-Olímpiadas Científicas
-Pioneiras da Ciência
-Prêmios
-Entrevistas
-Relatório de Pesquisa
-Links Interessantes
-Comitês de Assessoramento
-Apresentação dos CAs
-Painel dos Comitês Assessores
-Guias e Tutoriais
-Renovação dos CAs
-Páginas dos CAs
-Política de Integridade
-Centro de Memória
-Canais de Atendimento
-Central de Atendimento
-Marca do CNPq
-Defeso Eleitoral - Uso da Marca
-Manual de Aplicação
-Agendamento de Eventos
-Centrais de Conteúdo
-Manuais de uso das plataformas do CNPq
-Manuais de uso das plataformas do CNPq
-Composição
-Diretoria Executiva
-Presidência
-Diretoria de Gestão Administrativa - DADM
-Diretoria de Análise de Resultados e Soluções Digitais - DASD
-Diretoria de Cooperação Institucional, Internacional e Inovação - DCOI
-Diretoria Científica - DCTI
-Comitês de Assessoramento
-Membros
-Renovação dos CAs 2026
-Comissão de Integridade na Atividade Científica
-Apresentação
-Composição
-Diretrizes
-Documentos
-Comissão de Ética
-Apresentação
-Conselho Deliberativo
-Quem é Quem
-Diretoria Executiva
-Perfis de Cargos (pdf)
-Perfis de Cargos Comissionados
-Redefinir Cookies
-Redes sociais
-Twitter
-YouTube
-Facebook
-Instagram
-Flickr
-Acesso à Informação
-Todo o conteúdo deste site está publicado sob a licença Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada .
-Voltar ao topo da página
-Rejeitar
-Fale Agora
-Refazer a busca
-
-===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/acesso-a-informacao/dados-abertos/paineis-de-dados/painel-de-demanda-e-atendimento =====
-Painel de Demanda e Atendimento — Conselho Nacional de Desenvolvimento Científico e Tecnológico
-Ir para o
-Conteúdo
-1
-Ir para a
-Página Inicial
-2
-Ir para o menu de
-Navegação
-3
-Ir para a
-Busca
-4
-Ir para o
-Mapa do site
-5
-Atenção!
-Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.
-Abrir menu principal de navegação
-Conselho Nacional de Desenvolvimento Científico e Tecnológico
-Termos mais buscados
-Desenrola Brasil
-assinatura
-mei
-imposto de renda
-cnh
-Termos mais buscados
-Desenrola Brasil
-assinatura
-mei
-Acesso à Informação
-Institucional
-Apresentação
-Histórico
-Organograma
-Competências
-Base Jurídica
-Quem é Quem
-Agenda de Autoridades
-Biografia dos Dirigentes
-Atos Normativos
-Ações e Programas
-Programas
-Serviços
-Governança
-Parcerias
-Prêmios
-Plataforma Lattes
-Plataforma Lattes
-Plataforma Integrada Carlos Chagas
-Programas financiados pelo Fundo de Amparo ao Trabalhador
-Carta de Serviços
-Participação Social
-Participação Social no CNPq
-Acessibilidade
-Ouvidoria
-Convênios e Transferências
-Convênios e Transferências
-Termo de Execução Descentralizada - TED
-Emendas Parlamentares
-Receitas e Despesas
-Receita Pública Execução Orçamentária Execução da Despesa
-Despesas com Diárias e Passagens
-Licitações e Contratos
-Licitações
-Contratos
-Auditorias
-Prestação de Contas
-Auditoria Interna
-Servidores
-Servidores do CNPq
-Desenvolvimento de Pessoal
-PGD
-Concursos
-Terceirizados
-Informações Classificadas
-Serviço de Informação ao Cidadão
-Apresentação
-Sistema E-SIC
-Lei de Acesso à Informação
-Ouvidoria
-Publicações
-Dados Abertos
-Apresentação
-Privacidade e Proteção de Dados
-Consulta de Dados
-Painéis de Dados
-Bolsas e Auxílios
-Apresentação
-Bolsas no País e no Exterior
-Auxílios
-Cartão Pesquisa
-Cartão Bolsista no Exterior
-Chamadas Abertas
-Chamadas em Análise
-Resultados
-Mapa de Fomento em Ciência, Tecnologia e Inovação - Bolsas e Projetos Vigentes
-Bolsistas Egressos (Exterior)
-Prestação de Contas - Relatório técnico
-Encomendas
-Base Jurídica
-Lei nº 1.310 de 15 de Janeiro de 1951
-Regimento Interno
-Estatuto do CNPq
-Corregedoria
-Competências
-Procedimentos e Processos Correcionais
-Legislação
-Informes
-Informes
-Relatório de Gestão
-Certidão Negativa
-Denúncias e Representações
-Quem é quem
-Fale Conosco
-Correição em Temas
-Painel de Corregedorias da Corregedoria Geral da União (CRG)
-Fluxogramas dos Processos Finalísticos da Corregedoria
-Orientações e Suporte às Comissões de PAD
-Orientações e Suporte às Comissões Investigativas
-Planejamento, Governança e Orçamento
-Planejamento
-PPA 2020-2023
-Orçamento
-Relatórios de Gestão
-Prestação de Contas
-Auditoria Interna
-Normas
-Plano Diretor de Tecnologia da Informação - PDTI
-Perguntas Frequentes
-CGU
-Denúncia
-Reclamação
-Solicitação
-Elogio
-Sugestão
-Acesso à Informação
-Simplifique
-Assuntos
-Notícias - Defeso Eleitoral
-Popularização da Ciência
-Por que popularizar?
-O CNPq e a Divulgação Científica
-Semana Nacional de Ciência e Tecnologia
-Museus e Centros de Ciência
-Feiras e Mostras de Ciência
-Programas de Editorial
-Olímpiadas Científicas
-Pioneiras da Ciência
-Prêmios
-Entrevistas
-Relatório de Pesquisa
-Links Interessantes
-Comitês de Assessoramento
-Apresentação dos CAs
-Painel dos Comitês Assessores
-Guias e Tutoriais
-Renovação dos CAs
-Páginas dos CAs
-Política de Integridade
-Centro de Memória
-Canais de Atendimento
-Central de Atendimento
-Marca do CNPq
-Defeso Eleitoral - Uso da Marca
-Manual de Aplicação
-Agendamento de Eventos
-Centrais de Conteúdo
-Manuais de uso das plataformas do CNPq
-Manuais de uso das plataformas do CNPq
-Composição
-Diretoria Executiva
-Presidência
-Diretoria de Gestão Administrativa - DADM
-Diretoria de Análise de Resultados e Soluções Digitais - DASD
-Diretoria de Cooperação Institucional, Internacional e Inovação - DCOI
-Diretoria Científica - DCTI
-Comitês de Assessoramento
-Membros
-Renovação dos CAs 2026
-Comissão de Integridade na Atividade Científica
-Apresentação
-Composição
-Diretrizes
-Documentos
-Comissão de Ética
-Apresentação
-Conselho Deliberativo
-Quem é Quem
-Diretoria Executiva
-Perfis de Cargos (pdf)
-Perfis de Cargos Comissionados
-GOV.BR
-Serviços
-Buscar serviços por
-Categorias
-Órgãos
-Estados
-Serviços por público alvo
-Cidadãos
-Empresas
-Órgãos e Entidades Públicas
-Demais segmentos (ONGs, organizações sociais, etc)
-Servidor Público
-Temas em Destaque
-Orçamento Nacional
-Redes de Atendimento da Administração Pública Federal
-Proteção de Dados Pessoais
-Serviços para Imigrantes
-Política e Orçamento Educacionais
-Educação Profissional e Tecnológica
-Educação Profissional para Jovens e Adultos
-Trabalho e Emprego
-Serviços para Pessoas com Deficiência
-Combate à Discriminação Racial
-Política de Proteção Social
-Política para Mulheres
-Saúde Reprodutiva da Mulher
-Cuidados na Primeira Infância
-Habitação Popular
-Controle de Poluição e Resíduos Sólidos
-Notícias
-Galeria de Aplicativos
-Acompanhe o Planalto
-Navegação
-Acessibilidade
-Mapa do Site
-Termo de Uso e Aviso de Privacidade
-Consultar minhas solicitações
-Órgãos do Governo
-Por dentro do Gov.br
-Dúvidas Frequentes em relação ao Portal gov.br
-Dúvidas Frequentes da conta gov.br
-Ajuda para Navegar o Portal
-Conheça os elementos do Portal
-Política de e-participação
-Termos de Uso
-Governo Digital
-Guia de Edição de Serviços do Portal Gov.br
-Canais do Executivo Federal
-Dados da Administração Pública Federal
-Dados Abertos
-Painel Estatístico de Pessoal
-Painel de Compras da Administração Pública Federal
-Acesso à Informação
-Empresas e Negócios
-Links Úteis
-Galeria de Aplicativos
-Participe
-Galeria de Aplicativos
-Participe
-Redes sociais
-Twitter
-YouTube
-Facebook
-Instagram
-Flickr
-Você está aqui:
-Página Inicial
-Acesso à Informação
-Dados Abertos
-Painéis de Dados
-Painel de Demanda e Atendimento
-Info
-Painel de Demanda e Atendimento
-Compartilhe:
-Compartilhe por Facebook
-Compartilhe por Twitter
-Compartilhe por LinkedIn
-Compartilhe por WhatsApp
-link para Copiar para área de transferência
-Publicado em
-21/03/2024 15h11
-Atualizado em
-11/06/2026 11h13
-Painel de Demanda e Atendimento
-Os dados disponibilizados pelo Painel de Demanda e Atendimento são fundamentais para a análise sobre a dimensão e distribuição da demanda por recursos para fomento à pesquisa solicitados ao CNPq, bem como a capacidade de atendimento dessa demanda pelo Órgão.
-As estatísticas disponíveis abrangem as etapas de demanda e atendimento de bolsas e auxílios, incluindo a quantidade e valores da demanda bruta e atendida. Esses números oferecem insights importantes sobre a distribuição geográfica, áreas do conhecimento mais demandadas, instituições beneficiadas, entre outros aspectos relevantes.
-É importante ressaltar que os dados foram carregados a partir do ano de 2006, o que permite uma análise histórica do comportamento das demandas ao longo do tempo. Além disso, é possível consultar essas informações por área do conhecimento, instituição, região, chamada de fomento, entre outros filtros disponíveis na plataforma.
-Essa riqueza de dados proporciona uma visão abrangente sobre as principais linhas de fomento do CNPq, possibilitando a identificação de tendências e necessidades no cenário acadêmico e científico brasileiro. O acesso a essas informações é fundamental para orientar políticas públicas, tomadas de decisão estratégicas e o direcionamento eficiente dos recursos disponíveis para pesquisa e desenvolvimento.
-Acesse o painel
-Compartilhe:
-Compartilhe por Facebook
-Compartilhe por Twitter
-Compartilhe por LinkedIn
-Compartilhe por WhatsApp
-link para Copiar para área de transferência
-Acesso à Informação
-Institucional
-Apresentação
-Histórico
-Organograma
-Competências
-Base Jurídica
-Quem é Quem
-Agenda de Autoridades
-Biografia dos Dirigentes
-Atos Normativos
-Ações e Programas
-Programas
-Serviços
-Governança
-Parcerias
-Prêmios
-Plataforma Lattes
 Plataforma Lattes
 Plataforma Integrada Carlos Chagas
 Programas financiados pelo Fundo de Amparo ao Trabalhador

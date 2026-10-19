@@ -55,7 +55,7 @@ Search for:  Search
         *   [STEM*FYI](https://grad.berkeley.edu/students/finding-community/stemfyi/)
 
     *   [Graduate Writing Center](https://grad.berkeley.edu/students/graduate-writing-center/)
-    *   [GSI Teaching and Resource Center (link is external)](https://gsi.berkeley.edu/)
+    *   [GSI Teaching and Resource Center](https://gsi.berkeley.edu/)
     *   [GradPro Career Development](https://grad.berkeley.edu/students/gradpro/)
         *   [Professional Development Guide](https://grad.berkeley.edu/students/gradpro/guide/)
         *   [Professional Development Resource Lists](https://grad.berkeley.edu/students/gradpro/resource-lists/)
@@ -114,9 +114,9 @@ Search for:  Search
         *   [Giving Opportunities](https://grad.berkeley.edu/about/giving/giving-opportunities/)
         *   [Other Funds](https://grad.berkeley.edu/about/giving/other-funds/)
         *   [Donor Profiles](https://grad.berkeley.edu/about/giving/donor-profiles/)
-        *   [Give Now (link is external)](https://give.berkeley.edu/fund/FL0207000)
+        *   [Give Now](https://give.berkeley.edu/fund/FL0207000)
 
-    *   [Grad Dashboard (link is external)](https://graddashboard.berkeley.edu/)
+    *   [Grad Dashboard](https://graddashboard.berkeley.edu/)
 
 # Page Not Found
 
@@ -129,18 +129,18 @@ We could not find the page you requested
 
     *   [Contact the Graduate Division](https://grad.berkeley.edu/about/contact/)
     *   [Workshops and Events](https://grad.berkeley.edu/events/)
-    *   [Organizational Chart (link is external)](https://docs.google.com/presentation/d/e/2PACX-1vQCl8VUQKmjfGplQoq0jo9OCW0-RgNktgZIC10jXZzSDB0LnXtUUJ1I7iViqvxZyq0da4hKfye6j3lv/pub?start=false&loop=false&delayms=3000&slide=id.g3e4c3a8ac20_0_181)
+    *   [Organizational Chart](https://docs.google.com/presentation/d/e/2PACX-1vQCl8VUQKmjfGplQoq0jo9OCW0-RgNktgZIC10jXZzSDB0LnXtUUJ1I7iViqvxZyq0da4hKfye6j3lv/pub?start=false&loop=false&delayms=3000&slide=id.g3e4c3a8ac20_0_181)
     *   [Website Feedback](https://grad.berkeley.edu/feedback/)
 
 *   ## Our Network
 
-    *   [GSI Teaching & Resource Center (link is external)](https://gsi.berkeley.edu/)
-    *   [Berkeley Graduate Lectures (link is external)](https://gradlectures.berkeley.edu/)
-    *   [Tanner Lectures (link is external)](https://tannerlectures.berkeley.edu/)
-    *   [Back-Up Child Care (link is external)](https://backupchildcare.berkeley.edu/)
-    *   [Graduate Mentoring Awards (link is external)](https://mentoringawards.berkeley.edu/)
-    *   [SMART Mentoring (link is external)](https://smart.berkeley.edu/)
-    *   [Grad Dashboard (for Faculty & Staff) (link is external)](https://graddashboard.berkeley.edu/)
+    *   [GSI Teaching & Resource Center](https://gsi.berkeley.edu/)
+    *   [Berkeley Graduate Lectures](https://gradlectures.berkeley.edu/)
+    *   [Tanner Lectures](https://tannerlectures.berkeley.edu/)
+    *   [Back-Up Child Care](https://backupchildcare.berkeley.edu/)
+    *   [Graduate Mentoring Awards](https://mentoringawards.berkeley.edu/)
+    *   [SMART Mentoring](https://smart.berkeley.edu/)
+    *   [Grad Dashboard (for Faculty & Staff)](https://graddashboard.berkeley.edu/)
 
 *   ## Admissions
 
@@ -152,14 +152,14 @@ We could not find the page you requested
 
 *   [Support Graduate Division](https://grad.berkeley.edu/about/giving/giving-opportunities/)
 
-    *   [Graduate Division on X (link is external)](https://x.com/graddivision)
-    *   [Graduate Division on LinkedIn (link is external)](https://www.linkedin.com/company/40837717/)
-    *   [Graduate Division on Instagram (link is external)](https://www.instagram.com/ucberkeleygraduate/)
+    *   [Graduate Division on X](https://x.com/graddivision)
+    *   [Graduate Division on LinkedIn](https://www.linkedin.com/company/40837717/)
+    *   [Graduate Division on Instagram](https://www.instagram.com/ucberkeleygraduate/)
 
-[![Image 2: UC Berkeley](https://grad.berkeley.edu/wp-content/themes/gallantry/dist/imgs/logo-uc-berkeley.svg) (link is external)](https://www.berkeley.edu/)
+[![Image 2: UC Berkeley](https://grad.berkeley.edu/wp-content/themes/gallantry/dist/imgs/logo-uc-berkeley.svg)](https://www.berkeley.edu/)
 
 *   [Privacy](https://grad.berkeley.edu/privacy/)
-*   [Nondiscrimination (link is external)](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement)
-*   [Accessibility (link is external)](https://dap.berkeley.edu/get-help/report-web-accessibility-issue)
+*   [Nondiscrimination](https://ophd.berkeley.edu/policies-and-procedures/nondiscrimination-policy-statement)
+*   [Accessibility](https://dap.berkeley.edu/get-help/report-web-accessibility-issue)
 
 Copyright © 2026 UC Regents; all rights reserved

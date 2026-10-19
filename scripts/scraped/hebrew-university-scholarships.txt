@@ -4,6 +4,8 @@ Title: 404 - Page not found
 URL Source: https://info.huji.ac.il/en/financial-aid
 
 Markdown Content:
+404 - Page not found | הרשמה לאוניברסיטה העברית
+
 [Skip to main content](https://info.huji.ac.il/en/financial-aid#main-content)
 
 [![Image 1](https://new.huji.ac.il/profiles/openscholar/themes/os_bootstrap/images/logo.png)](https://info.huji.ac.il/en)[![Image 2](https://info.huji.ac.il/profiles/huji/themes/custom/huji/images/homepage/phone-icon.png)](tel:02-5882888)[![Image 3](https://info.huji.ac.il/profiles/huji/themes/custom/huji/images/homepage/mail-icon.png)](mailto:nirshamimsite@huji.ac.il)

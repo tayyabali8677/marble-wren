@@ -18,7 +18,7 @@ Header
 
 Switch target audience: 
 *   [For Students](https://www.students.uzh.ch/en.html)
-*   [For Staff](https://www.staff.uzh.ch/en.html)
+*   [For Staff](https://uzh.sharepoint.com/sites/uzhub)
 
 ## Section navigation
 
@@ -43,7 +43,7 @@ back [Choose UZH](https://www.uzh.ch/en/studies/whyuzh.html)
         *   [Assistance in Difficult Situations](https://www.uzh.ch/en/studies/whyuzh/counselling.html)
         *   [Student Services](https://www.uzh.ch/en/studies/whyuzh/services.html)
         *   [Mobility and Exchange Opportunities](https://www.uzh.ch/en/studies/whyuzh/mobility.html)
-        *   [Student Organizations](https://www.uzh.ch/en/studies/whyuzh/organizations.html)
+        *   [Student Groups](https://www.uzh.ch/en/studies/whyuzh/organizations.html)
         *   [Courses and Offers](https://www.uzh.ch/en/studies/whyuzh/courses.html)
         *   [Zurich, Switzerland](https://www.uzh.ch/en/studies/whyuzh/zurich.html)
 

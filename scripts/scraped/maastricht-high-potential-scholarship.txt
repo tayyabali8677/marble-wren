@@ -305,7 +305,7 @@ Housing and student life
         *   [Budgeting for your studies](https://www.maastrichtuniversity.nl/studeren/studentenleven/cost-studying-financial-assistance)
         *   [INKOM & introduction days](https://www.maastrichtuniversity.nl/news/inkom-2024)
         *   [Parking](https://www.maastrichtuniversity.nl/study/student-life/parking)
-        *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
+        *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/studeren/studentenleven/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
 
 *   [Research](https://www.maastrichtuniversity.nl/research)Open Research
 
@@ -549,7 +549,7 @@ Support & guidance for students
         *   [Student wellbeing](https://www.maastrichtuniversity.nl/studeren/support/student-wellbeing)Open Student wellbeing
 
 Student wellbeing
-            *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/wellbeing-movement)
+            *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/studeren/support/studentenwelzijn/wellbeing-movement)
             *   [MoodLift](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/moodlift)
 
         *   [Disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability)Open Disability support
@@ -612,7 +612,7 @@ Housing and student life
 
 Housing in Maastricht
             *   [UM Guesthouse](https://www.maastrichtuniversity.nl/study/student-life/woonruimte-maastricht/um-guesthouse)
-            *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
+            *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/studeren/studentenleven/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
 
         *   [Housing in Venlo](https://www.maastrichtuniversity.nl/study/student-life/housing-venlo)
         *   [Housing in Heerlen](https://www.maastrichtuniversity.nl/study/student-life/housing-heerlen)
@@ -676,7 +676,7 @@ Budgeting for your studies
 
         *   [INKOM & introduction days](https://www.maastrichtuniversity.nl/news/inkom-2024)
         *   [Parking](https://www.maastrichtuniversity.nl/study/student-life/parking)
-        *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
+        *   [Useful tips and warnings](https://www.maastrichtuniversity.nl/studeren/studentenleven/useful-tips-and-warnings "Living in Maastricht: Useful tips and warnings")
 
 *   [Research](https://www.maastrichtuniversity.nl/research)Open Research
 
@@ -802,7 +802,7 @@ Student Services Centre
                 *   [Staff](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre/staff)
                 *   [Access to building SSC](https://www.maastrichtuniversity.nl/about-um/service-centres/student-services-centre/access-building-ssc)
 
-            *   [University Library](https://www.maastrichtuniversity.nl/support/university-library)Open University Library
+            *   [University Library](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library)Open University Library
 
 University Library
                 *   [About the library](https://www.maastrichtuniversity.nl/about-um/service-centres/university-library/nutshell)Open About the library
@@ -1733,7 +1733,7 @@ The page you were trying to reach cannot be found. The link might be outdated, c
 *   [Bachelor's programmes](https://www.maastrichtuniversity.nl/education/bachelor/programmes)
 *   [Master's programmes](https://www.maastrichtuniversity.nl/education/master/programmes)
 
-*   [Research pages](https://www.maastrichtuniversity.nl/research)
+*   [Research pages](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research)
 *   [Support pages](https://www.maastrichtuniversity.nl/support)
 *   [Library pages](https://library.maastrichtuniversity.nl/)
 *   [Contact information](https://www.maastrichtuniversity.nl/contact)

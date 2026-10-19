@@ -3,39 +3,9 @@ Title: Eötvös Loránd University
 
 URL Source: https://www.elte.hu/en/scholarships
 
-Published Time: Sun, 18 Oct 2026 16:00:28 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Welcome to All in One Accessibility screen reader. To start the All in One Accessibility screen reader, press "Ctrl + /". This shortcut activates the screen reader to help you navigate and interact with the content.
-
-Skip to Content
-
-↵
-
-ENTER
-
-Skip to Navigation
-
-↵
-
-ENTER
-
-Open Accessibility Toolbar
-
-↵
-
-ENTER
-
-Skip to Footer
-
-↵
-
-ENTER
-
-Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/aioa-icon-type-1.svg)
-
 [Skip to main content](https://www.elte.hu/en/scholarships#main-content)
 
 ## Lebegő közösségi linkek
@@ -46,7 +16,7 @@ Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/a
 *   [LinkedIn](https://hu.linkedin.com/school/eotvos-lorand-university-/)
 *   [Tiktok](https://www.tiktok.com/@elteinternational)
 
-[![Image 2: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 3: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
+[![Image 3: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 4: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
 
 *    About ELTE  
 
@@ -272,7 +242,7 @@ Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/a
 
         *   Prospective Students[Information for applicants](https://www.elte.hu/en/prospective-students)
         *   [Start to apply here](https://apply.elte.hu/)
-        *   [Degree programs](https://www.elte.hu/en/find-degree-program)
+        *   [Find degree program](https://www.elte.hu/en/find-degree-program)
         *   [Request information](https://www.elte.hu/en/form/request-information)
         *   [How to apply](https://www.elte.hu/en/how-to-apply)
         *   [Meet us in your country](https://www.elte.hu/en/meet-us-in-your-country)
@@ -599,7 +569,11 @@ Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/a
     *    Summer university  
 
         *   Summer university
-        *   [Budapest Summer University](https://www.elte.hu/en/elte-budapest-summer-university)
+        *    Budapest Summer University  
+
+            *   Budapest Summer University
+            *   [Budapest Guide](https://www.elte.hu/en/dstore/document/343059/2027%20BSU%20Budapest%20Guide.pdf)
+
         *    Archive  
 
             *   Archive
@@ -997,13 +971,6 @@ Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/a
 *   [Innovation](https://www.elte.hu/en/innovation)
 *   [University life](https://www.elte.hu/en/university-life)
 
-1.   [V. Excellence in Higher Education Conference](https://www.elte.hu/en/node/334042)
-2.   [SemioSyS 2026 Student Conference](https://www.elte.hu/en/semiosys-2026-student-conference)
-3.   [4th Students' Letters Conference 2026](https://www.elte.hu/en/node/333199)
-4.   [CREATE 30 Conference](https://www.elte.hu/en/create-30-conference)
-5.   [Tales of Global South: Film Screening and Discussion](https://www.elte.hu/en/tales-of-global-south-film-screening-and-discussion)
-[More results](https://www.elte.hu/en/search?query=)
-
 ## User account menu
 
 *   [Log in](https://www.elte.hu/saml/login?destination=/en/system/404)
@@ -1021,7 +988,7 @@ Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/a
 
  The requested page could not be found. 
 
-[![Image 4: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 5: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
+[![Image 5: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 6: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
 
 H-1053 Budapest, Egyetem tér 1-3  
 +36 1 411 6500
@@ -1046,7 +1013,7 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Apply Now](https://apply.elte.hu/)
 *   [Visit us](https://www.elte.hu/en/content/visit-us.t.250?m=119)
 
-[![Image 6](https://www.elte.hu/sites/default/files/ELTE/icons/2026-09/ELTE.elte_zaszloshajo_weboldal_angol_logo_lablec.svg)](https://www.elte.hu/en/flagship-programmes)
+[![Image 7](https://www.elte.hu/sites/default/files/ELTE/icons/2026-09/ELTE.elte_zaszloshajo_weboldal_angol_logo_lablec.svg)](https://www.elte.hu/en/flagship-programmes)
 
  © 2026 Eötvös Loránd University. All rights reserved. 
 
