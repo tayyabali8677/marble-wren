@@ -3,8 +3,6 @@ Title: Page Not Found | Keio University
 
 URL Source: https://www.keio.ac.jp/en/student-life/scholarships/
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [![Image 1: Keio University](https://www.keio.ac.jp/logos/keio-en.svg)](https://www.keio.ac.jp/en/)
 
@@ -46,7 +44,7 @@ Markdown Content:
 
 [Research](https://www.keio.ac.jp/en/research/)
 
-[J-PEAKS](https://www.keio.ac.jp/en/research/jpeaks/)[Explore Research](https://www.keio.ac.jp/en/research/about/)[News and Events](https://www.keio.ac.jp/en/research/news-event/)[Research Promotion and Support (for Researchers)](https://www.keio.ac.jp/en/research/support-service/)[Startup Support (for Entrepreneurs)](https://www.keio.ac.jp/en/research/startup-support/)[About Intellectual Property](https://www.keio.ac.jp/en/research/intellectual/)[Inquiries about Industry-Academia-Government Collaboration and Intellectual Assets](https://www.keio.ac.jp/en/research/contact/)[Make a Donation](https://www.keio.ac.jp/en/research/donate)[Keio FUTURE](https://www.keio.ac.jp/en/keio-future/)
+[J-PEAKS](https://www.keio.ac.jp/en/research/jpeaks/)[Explore Research](https://www.keio.ac.jp/en/research/about/)[News and Events](https://www.keio.ac.jp/en/research/news-event/)[Research Promotion and Support (for Researchers)](https://www.keio.ac.jp/en/research/support-service/)[Startup Support (for Entrepreneurs)](https://www.keio.ac.jp/en/research/startup-support/)[About Intellectual Property](https://www.keio.ac.jp/en/research/intellectual/)[Inquiries about Industry-Academia-Government Collaboration and Intellectual Assets](https://www.keio.ac.jp/en/research/contact/)[Make a Donation](https://www.keio.ac.jp/en/research/donate)[Keio FUTURE](https://www.keio.ac.jp/en/keio-future/)[Researcher Database](https://www.keio.ac.jp/en/researcher/)
 
 [Student Life](https://www.keio.ac.jp/en/student-life/)
 

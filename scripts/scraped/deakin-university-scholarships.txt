@@ -21,18 +21,8 @@ Menu
     *   Back[Study](https://www.deakin.edu.au/study) 
     *   [Find a course](https://www.deakin.edu.au/study/find-a-course)
         *   Back[Find a course](https://www.deakin.edu.au/study/find-a-course) 
-        *   [Courses by trimester](https://www.deakin.edu.au/trimester-three)
-        *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course)
-        *   [Undergraduate courses](https://www.deakin.edu.au/study/find-a-course/undergraduate-courses)
-        *   [Double degrees](https://www.deakin.edu.au/study/find-a-course/double-degrees)
-        *   [Online degrees](https://www.deakin.edu.au/study/study-online)
-        *   [Postgraduate courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses)
-        *   [Research degrees and PhD](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
-        *   [Short courses](https://www.deakin.edu.au/study/find-a-course/short-courses)
-
-    *   [Unbeatable employability](https://www.deakin.edu.au/about-deakin/why-deakin/unbeatable-employability)
-        *   Back[Unbeatable employability](https://www.deakin.edu.au/about-deakin/why-deakin/unbeatable-employability) 
-        *   [Study and career stories](https://www.deakin.edu.au/study/study-areas/study-and-career-stories)
+        *   [Courses by trimester](https://www.deakin.edu.au/trimester-one)
+        *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course/courses-by-study-area)
 
     *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
         *   Back[Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar) 
@@ -48,23 +38,12 @@ Menu
         *   [Find a pathway](https://www.deakin.edu.au/study/entry-pathways/find-a-pathway)
         *   [Deakin Uni Ready](https://www.deakin.edu.au/study/entry-pathways/deakin-uni-ready)
 
-    *   [Access programs](https://www.deakin.edu.au/study/access-programs)
-        *   Back[Access programs](https://www.deakin.edu.au/study/access-programs) 
-        *   [Deakin Uni Ready](https://www.deakin.edu.au/study/access-programs/deakin-uni-ready)
-        *   [Deakin engagement and access program](https://www.deakin.edu.au/study/access-programs/deakin-engagement-and-access-program)
-        *   [Deakin Guaranteed ATAR](https://www.deakin.edu.au/study/access-programs/deakin-guaranteed-atar)
-        *   [Equity schemes and scholarships](https://www.deakin.edu.au/study/how-to-apply/equity-schemes-and-scholarships)
-        *   [Regional and remote entry scheme](https://www.deakin.edu.au/faculty-of-health/regional-and-remote-entry-scheme)
-        *   [Rural training stream](https://www.deakin.edu.au/faculty-of-health/school-of-medicine/study-with-us/rural-training-stream)
-        *   [Indigenous student pathways](https://www.deakin.edu.au/study/access-programs/indigenous-student-pathways)
-
     *   [Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships)
         *   Back[Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships) 
         *   [Fees and costs](https://www.deakin.edu.au/study/fees-and-scholarships/fees-and-costs)
         *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
         *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
 
-    *   [Key dates](https://www.deakin.edu.au/study/key-dates)
     *   [How to apply](https://www.deakin.edu.au/study/how-to-apply)
         *   Back[How to apply](https://www.deakin.edu.au/study/how-to-apply) 
         *   [Undergraduate applications](https://www.deakin.edu.au/study/how-to-apply/undergraduate-applications)
@@ -101,8 +80,8 @@ Menu
     *   [Accommodation](https://www.deakin.edu.au/accommodation)
     *   [Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support)
         *   Back[Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support) 
-        *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study/nikeri-institute)
-        *   [Pathways](https://www.deakin.edu.au/indigenous-students/pathways)
+        *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students/nikeri-institute)
+        *   [Programs and pathways](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students)
         *   [Scholarships](https://www.deakin.edu.au/student-life-and-services/support-for-indigenous-students/scholarships)
 
     *   [Graduation](https://www.deakin.edu.au/student-life-and-services/graduation)
@@ -255,18 +234,8 @@ Menu
 
 [Find a course](https://www.deakin.edu.au/study/find-a-course)
 
-    *   [Courses by trimester](https://www.deakin.edu.au/trimester-three)
-    *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course)
-    *   [Undergraduate courses](https://www.deakin.edu.au/study/find-a-course/undergraduate-courses)
-    *   [Double degrees](https://www.deakin.edu.au/study/find-a-course/double-degrees)
-    *   [Online degrees](https://www.deakin.edu.au/study/study-online)
-    *   [Postgraduate courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses)
-    *   [Research degrees and PhD](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
-    *   [Short courses](https://www.deakin.edu.au/study/find-a-course/short-courses)
-
-[Unbeatable employability](https://www.deakin.edu.au/about-deakin/why-deakin/unbeatable-employability)
-
-    *   [Study and career stories](https://www.deakin.edu.au/study/study-areas/study-and-career-stories)
+    *   [Courses by trimester](https://www.deakin.edu.au/trimester-one)
+    *   [Courses by study area](https://www.deakin.edu.au/study/find-a-course/courses-by-study-area)
 
 [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
 
@@ -282,23 +251,11 @@ Menu
     *   [Find a pathway](https://www.deakin.edu.au/study/entry-pathways/find-a-pathway)
     *   [Deakin Uni Ready](https://www.deakin.edu.au/study/entry-pathways/deakin-uni-ready)
 
-[Access programs](https://www.deakin.edu.au/study/access-programs)
-
-    *   [Deakin Uni Ready](https://www.deakin.edu.au/study/access-programs/deakin-uni-ready)
-    *   [Deakin engagement and access program](https://www.deakin.edu.au/study/access-programs/deakin-engagement-and-access-program)
-    *   [Deakin Guaranteed ATAR](https://www.deakin.edu.au/study/access-programs/deakin-guaranteed-atar)
-    *   [Equity schemes and scholarships](https://www.deakin.edu.au/study/how-to-apply/equity-schemes-and-scholarships)
-    *   [Regional and remote entry scheme](https://www.deakin.edu.au/faculty-of-health/regional-and-remote-entry-scheme)
-    *   [Rural training stream](https://www.deakin.edu.au/faculty-of-health/school-of-medicine/study-with-us/rural-training-stream)
-    *   [Indigenous student pathways](https://www.deakin.edu.au/study/access-programs/indigenous-student-pathways)
-
 [Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships)
 
     *   [Fees and costs](https://www.deakin.edu.au/study/fees-and-scholarships/fees-and-costs)
     *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
     *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
-
-[Key dates](https://www.deakin.edu.au/study/key-dates)
 
 [How to apply](https://www.deakin.edu.au/study/how-to-apply)
 
@@ -340,8 +297,8 @@ Menu
 
 [Support for Indigenous students](https://www.deakin.edu.au/indigenous-students/support)
 
-    *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study/nikeri-institute)
-    *   [Pathways](https://www.deakin.edu.au/indigenous-students/pathways)
+    *   [NIKERI Institute](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students/nikeri-institute)
+    *   [Programs and pathways](https://www.deakin.edu.au/indigenous-students/study-programs-for-indigenous-students)
     *   [Scholarships](https://www.deakin.edu.au/student-life-and-services/support-for-indigenous-students/scholarships)
 
 [Graduation](https://www.deakin.edu.au/student-life-and-services/graduation)
@@ -576,6 +533,8 @@ Did you know we have a frequently asked questions page? It's pretty great. Our F
 Our expert advisers are here to chat about everything Deakin – from courses and support services to partnerships, events and how we can help you make the most of your Deakin experience.
 
 [Find the number you need](https://www.deakin.edu.au/contact)
+
+Was this page helpful?
 
 We use cookies to improve your experience. You consent to the use of our cookies if you proceed. Visit our [Privacy policy](https://www.deakin.edu.au/footer/privacy) for more information.
 

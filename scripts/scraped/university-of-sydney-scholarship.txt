@@ -3,7 +3,7 @@ Title: Error (404)
 
 URL Source: https://www.sydney.edu.au/scholarships/prospective.html
 
-Warning: Target URL returned error 404: Not Found
+Published Time: Wed, 30 Sep 2026 09:34:43 GMT
 
 Markdown Content:
 ## Page not found

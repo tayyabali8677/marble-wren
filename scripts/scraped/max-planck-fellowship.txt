@@ -1,19 +1,226 @@
 ===== SOURCE PAGE: https://www.mpg.de/fellowships =====
-Title: Webseite nicht erreichbar / Webseite Unavailable
+Title: Max-Planck-Gesellschaft
 
 URL Source: https://www.mpg.de/fellowships
 
-Warning: Target URL returned error 503: Service Unavailable
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-## Fehler: Die Webseite 'www.mpg.de' ist momentan nicht verfügbar
+[Hauptinhalt](https://www.mpg.de/fellowships#page_content)
 
-Entweder werden Wartungsarbeiten durchgeführt oder es liegt ein Fehler vor.  
- Sollten Sie Fragen dazu haben, dann wenden Sie sich bitte an den Helpdesk unter [support@maxit.mpg.de](mailto:support@maxit.mpg.de?subject=Fehler%20auf%20www.mpg.de%20(LB%20failed%20error%20page)) bzw. Tel. +49 89 909311-222.
+[](https://www.mpg.de/de)
 
-* * *
+*   [English](https://www.mpg.de/en)
+*    
 
-## Error: The website 'www.mpg.de' is currently not available
+Toggle navigation
 
-This can be due to maintenance work or an error occured.  
- For further information please contact the helpdesk at [support@maxit.mpg.de](mailto:support@maxit.mpg.de?subject=Fehler%20auf%20www.mpg.de%20(LB%20failed%20error%20page)) or phone +49 89 909311-222.
+*   [Über uns](https://www.mpg.de/fellowships)[](https://www.mpg.de/fellowships)
+    *           *   [Forschung fördern](https://www.mpg.de/forschungsfoerderung)
+        *   [Profil & Selbstverständnis](https://www.mpg.de/11695540/profil-selbstverstaendnis)
+            *   [Porträt](https://www.mpg.de/kurzportrait)
+            *   [Nachhaltigkeit](https://www.mpg.de/nachhaltigkeit)
+            *   [Zahlen & Fakten](https://www.mpg.de/zahlen-und-fakten)
+            *   [Regeln & Verfahren](https://www.mpg.de/ueber_uns/verfahren)
+            *   [Vereinsorgane & Gremien](https://www.mpg.de/ueber-uns/vereinsorgane)
+
+        *   [Publikationen](https://www.mpg.de/11769096/publikationen)
+            *   [Jahresbericht](https://www.mpg.de/jahresbericht)
+            *   [Jahrbuch-Highlights](https://www.mpg.de/jahrbuch-highlights)
+            *   [Paktbericht](https://www.mpg.de/11772450/pakt-fuer-forschung-und-innovation)
+            *   [Stellungnahmen](https://www.mpg.de/standpunkte)
+
+    *           *   [Präsident](https://www.mpg.de/praesident)
+            *   [Reden](https://www.mpg.de/praesident/reden)
+            *   [Videos & Podcasts](https://www.mpg.de/20391491/videos-und-podcasts)
+            *   [Foto-Galerie](https://www.mpg.de/praesident/fotos)
+            *   [Interviews & Namensbeiträge](https://www.mpg.de/20680665/interviews-namensbeitraege)
+            *   [Wissenschaftliche Vizepräsident*innen](https://www.mpg.de/vizepraesidenten)
+            *   [Amtsvorgänger](https://www.mpg.de/de/praesident/ehemalige-praesidenten)
+
+        *   [Geschichte](https://www.mpg.de/geschichte)
+            *   [Max-Planck-Gesellschaft](https://www.mpg.de/178581/chronik-der-max-planck-gesellschaft)
+            *   [Kaiser-Wilhelm-Gesellschaft](https://www.mpg.de/geschichte/kaiser-wilhelm-gesellschaft)
+            *   [Geschichte vor Ort erleben und reflektieren](https://www.mpg.de/23836900/geschichte-vor-ort)
+            *   [Forschung und Aufarbeitung](https://www.mpg.de/geschichte/forschung-und-aufarbeitung)
+            *   [Max Planck – Revolutionär wider Willen](https://www.mpg.de/19247064/max-planck)
+            *   [Pionierinnen der Wissenschaft](https://www.mpg.de/pionierinnen-der-wissenschaft)
+
+    *           *   [Umgang mit Konflikten](https://www.mpg.de/umgang-mit-konflikten)
+            *   [Meldestelle Fehlverhalten](https://www.mpg.de/meldung-fehlverhalten)
+
+        *   [Verwaltung und Büros](https://www.mpg.de/11769529/verwaltung-bueros)
+            *   [Zentrale Einrichtungen](https://www.mpg.de/zentrale-einrichtungen)
+            *   [Beauftragte der MPG](https://www.mpg.de/beauftragte-der-mpg)
+            *   [Beschäftigtenvertretungen](https://www.mpg.de/1180098/beschaeftigtenvertretungen)
+            *   [Zentrale Gleichstellungsbeauftragte](https://www.mpg.de/zgb)
+            *   [Ombudswesen](https://www.mpg.de/ueber-uns/vereinsorgane/ombudswesen)
+
+*   [Forschung](https://www.mpg.de/fellowships)[](https://www.mpg.de/fellowships)
+    *           *   [Institute](https://www.mpg.de/institute?tab=institutes)
+            *   [Regionale Verteilung](https://www.mpg.de/institute_karte)
+
+        *   [Wissenschaftliche Mitglieder](https://www.mpg.de/institute?tab=experts)
+        *   [Forschung & Gesellschaft](https://www.mpg.de/11773204/forschung-gesellschaft)
+            *   [Klima & Nachhaltigkeit](https://www.mpg.de/klima)
+            *   [Biodiversität](https://www.mpg.de/biodiversitaet)
+            *   [Tierversuche](https://www.mpg.de/themenportal/tierversuche)
+            *   [Digitale Transformation](https://www.mpg.de/12545963/geo-anthropologie-digitale-transformation)
+            *   [Genom Editierung](https://www.mpg.de/genom-editierung)
+            *   [Synthetische Biologie](https://www.synthetische-biologie.mpg.de/)
+            *   [Open Access](https://openaccess.mpg.de/)
+
+    *           *   [Auszeichnungen an MPG-Forscher*innen](https://www.mpg.de/auszeichnungen)
+            *   [Nobelpreis](https://www.mpg.de/mpg/de/ueber-uns/auszeichnungen-an-max-planck-forscher/Nobelpreise)
+            *   [Körber-Preis](https://www.mpg.de/24226734/koerber-preis)
+            *   [Lasker-Preis](https://www.mpg.de/17580753/lasker-preis)
+            *   [Fields-Medaille](https://www.mpg.de/178492/fields-medaille)
+            *   [Leibniz-Preis](https://www.mpg.de/Leibniz-Preis)
+
+        *   [Auszeichnungen der MPG](https://www.mpg.de/129654/Preistraeger)
+            *   [Max-Planck-Humboldt-Forschungspreis](https://www.mpg.de/preise/max-planck-humboldt-forschungspreis)
+            *   [Harnack-Medaille](https://www.mpg.de/preise/harnack-medaille)
+            *   [International Prize for Translational Neuroscience](https://www.mpg.de/preise/international-prize-for-translational-neuroscience)
+            *   [Für Nachwuchsforscher*innen](https://www.mpg.de/178556/auszeichnungen-an-nachwuchsforscher)
+
+    *           *   [Zentral geförderte Projekte](https://www.mpg.de/kooperation-mit-fraunhofer)
+            *   [Kooperation mit Fraunhofer](https://www.mpg.de/kooperation-mit-fraunhofer)
+            *   [Lise-Meitner-Gruppen](https://www.mpg.de/190940/lise-meitner-gruppen)
+            *   [Forschungsgruppen an Universitäten](https://www.mpg.de/190952/forschungsgruppen-an-universitaeten)
+
+        *   [Forschungsservice](https://www.mpg.de/6923281/forschungsservice)
+        *   [International](https://www.mpg.de/15297895/max-planck-weltweit)
+            *   [Post aus](https://www.mpg.de/karriere/international)
+            *   [Länderportale](https://www.mpg.de/184065/laenderportale)
+            *   [Zahlen & Fakten](https://www.mpg.de/internationales/zahlen-und-fakten)
+            *   [Max Planck Center](https://www.mpg.de/maxplanckcenter)
+            *   [Partnergruppen](https://www.mpg.de/de/international/partnergruppen)
+            *   [Dioscuri-Programm](https://www.mpg.de/internationales/dioscuri-programm)
+
+*   [Newsroom](https://www.mpg.de/de/newsroom)
+*   [Karriere](https://www.mpg.de/fellowships)[](https://www.mpg.de/fellowships)
+    *           *   [Karriere bei Max-Planck](https://www.mpg.de/karriere)
+        *   [Stellenangebote](https://www.mpg.de/stellenboerse)
+        *   [Gute Gründe für Max-Planck](https://www.mpg.de/191418/gute-gruende-fuer-max-planck)
+        *   [Internationale Bewerber*innen](https://www.mpg.de/22867233/informationen-fuer-internationale-bewerber-innen)
+            *   [Die International Offices](https://www.mpg.de/23563703/die-international-offices)
+
+        *   [Mitarbeiter*innen in Forschungsservice & Verwaltung](https://www.mpg.de/191616/forschungsservice-und-verwaltung)
+        *   [Auszubildende](https://www.mpg.de/mpg/de/karriere/auszubildende)
+        *   [Bachelor-Absolvent*innen](https://www.mpg.de/bachelors)
+
+    *           *   [Doktorand*innen](https://www.mpg.de/karriere/doktoranden)
+            *   [International Max Planck Research Schools](https://www.mpg.de/de/imprs)
+            *   [Max Planck Graduate Center](https://www.mpg.de/graduate-center)
+            *   [Max Planck Schools](https://www.mpg.de/maxplanckschools)
+
+        *   [Postdocs](https://www.mpg.de/karriere/postdocs)
+            *   [Max-Planck-Postdoc-Programm](https://www.mpg.de/de/max-planck-postdoc-program)
+            *   [Max-Planck-Weizmann-Postdoc-Programm](https://www.mpg.de/20473379/max-planck-weizmann-postdoc-programm)
+
+        *   [Leiter*innen Forschungsgruppen](https://www.mpg.de/mpg/de/karriere/leiter-von-forschungsgruppen)
+            *   [Lise-Meitner-Exzellenzprogramm](https://www.mpg.de/lise-meitner-exzellenzprogramm)
+            *   [Max-Planck-Forschungsgruppen](https://www.mpg.de/karriere/max-planck-forschungsgruppen)
+            *   [Elisabeth-Schiemann-Kolleg](https://www.mpg.de/elisabeth-schiemann-kolleg)
+
+        *   [Direktor*innen](https://www.mpg.de/direktorinnen-und-direktoren)
+
+    *           *   [Planck Academy](https://www.mpg.de/14168821/weiterbildung-karriereentwicklung)
+            *   [Industry Track: Von der Wissenschaft in die Wirtschaft](https://www.mpg.de/16935982/industry-track)
+
+        *   [Alumni](https://www.mpg.de/alumnibetreuung)
+            *   [Über Max-Planck-Alumni](https://www.mpg.de/27027999/ueber-max-planck-alumni)
+            *   [Unsere Alumni](https://www.mpg.de/27025892/unsere-alumni-und-ihre-geschichten)
+
+        *   [Personalentwicklung & Chancen](https://www.mpg.de/personalentwicklung-und-chancen)
+
+*   [Innovation](https://www.mpg.de/fellowships)[](https://www.mpg.de/fellowships)
+    *           *   [Technologietransfer & Entrepreneurship](https://www.mpg.de/24748987/innovation)
+        *   [Patente & Lizenzen](https://www.mpg.de/24702417/patente-lizenzen)
+        *   [Start-ups & Entrepreneurship](https://www.mpg.de/147221/start-ups-entrepreneurship)
+        *   [DeepTech & Technologiefelder](https://www.mpg.de/913313/deeptech-technologiefelder)
+
+    *           *   [Tech-News](https://www.mpg.de/8965443/tech-news)
+        *   [Max-Planck-Innovation](https://www.mpg.de/913359/max-planck-innovation)
+        *   [Max-Planck-Gründungspreis des Stifterverbandes](https://www.mpg.de/max-planck-gruendungspreis-des-stifterverbandes)
+
+[English](https://www.mpg.de/en)
+
+ Max-Planck-Gesellschaft 
+
+## 404-Fehlerseite
+
+Die gesuchte Seite kann nicht gefunden werden.
+
+Hier sind stattdessen einige hilfreiche Links:
+
+*   [Newsroom](https://www.mpg.de/de/newsroom)
+*   [Themensammlung](https://www.mpg.de/13872536/themensammlung)
+*   [Jobbörse](https://www.mpg.de/stellenboerse)
+*   [Zahlen & Fakten](https://www.mpg.de/zahlen-und-fakten)
+*   [Institute](https://www.mpg.de/institute)
+*   [MaxPlanckForschung Magazin](https://www.mpg.de/maxplanckforschung)
+
+## 404 Error Page
+
+The page you are looking for can't be found.
+
+Here are some helpful links instead:
+
+*   [Newsroom](https://www.mpg.de/en/newsroom)
+*   [Keyword Collection](https://www.mpg.de/13872581/keyword-collection)
+*   [Job Board](https://www.mpg.de/jobboard)
+*   [Facts & Figures](https://www.mpg.de/facts-and-figures)
+*   [Institutes](https://www.mpg.de/institutes)
+*   [MaxPlanckResearch Magazine](https://www.mpg.de/mpresearch)
+
+[Top](https://www.mpg.de/fellowships#top)
+
+#### Quick Links
+
+*   [Präsident](https://www.mpg.de/praesident)
+*   [Zahlen und Fakten](https://www.mpg.de/zahlen-und-fakten)
+*   [Jahresbericht](https://www.mpg.de/jahresbericht)
+*   [Einkauf](https://www.mpg.de/de/einkauf)
+*   [Meldestelle Fehlverhalten](https://www.mpg.de/meldung-fehlverhalten)
+
+#### Social Media
+
+*   [Bluesky](https://bsky.app/profile/maxplanck.de)
+*   [Mastodon](https://wisskomm.social/@maxplanckgesellschaft)
+*   [LinkedIn](https://www.linkedin.com/school/max-planck-society)
+*   [TikTok](https://www.tiktok.com/@maxplanckscience)
+
+#### Social Media
+
+*   [Facebook](https://www.facebook.com/maxplanckgesellschaft/)
+*   [Instagram](https://www.instagram.com/maxplanckgesellschaft/)
+*   [YouTube](https://www.youtube.com/user/MaxPlanckSociety)
+*   [Netiquette](https://www.mpg.de/socialmedia/netiquette)
+
+*   [Kontakt](https://www.mpg.de/12626591/ansprechpersonen-institute-und-generalverwaltung)
+*   [Presse Newsletter](https://www.mpg.de/de/newsletter)
+*   [Veranstaltungen](https://www.mpg.de/veranstaltungen)
+*   [Themensammlung](https://www.mpg.de/13872536/themensammlung)
+*   [RSS](https://www.mpg.de/de/forschung.rss)
+
+Max-Planck-Gesellschaft
+
+*   [Sitemap](https://www.mpg.de/sitemap-de)
+*   [Impressum](https://www.mpg.de/impressum)
+*   [Datenschutzhinweis](https://www.mpg.de/datenschutzhinweis)
+*   [Barrierefreiheit](https://www.mpg.de/19305225/erklaerung-zur-barrierefreiheit)
+
+ © 
+
+2026, Max-Planck-Gesellschaft
+
+© 2003-2026, Max-Planck-Gesellschaft
+
+ Web-Ansicht 
+
+ Seite Drucken 
+
+[Im neuen Fenster öffnen](https://www.mpg.de/de?print=yes)
+
+ Geschätzte DIN-A4 Seiten-Breite

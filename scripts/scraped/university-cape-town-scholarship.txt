@@ -6,7 +6,7 @@ URL Source: https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-a
 Markdown Content:
 [Skip to main content](https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-awards#main-content)
 
-[![Image 1: University of Cape Town logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
+[![Image 1: Applicants & Students logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
 
 *   [University of Cape Town](https://www.uct.ac.za/students/fees-funding/scholarships-bursaries-awards#)
     *   [Home](https://uct.ac.za/uct-main-home-page)
@@ -361,7 +361,7 @@ This could be because it was deleted or because its URL has changed.
 *   [Staff directory](https://whitepages.uct.ac.za/)
 *   [Emergency numbers](https://uct.ac.za/students/support-emergencies/emergency-contacts)
 
-[![Image 2: University of Cape Town logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
+[![Image 2: Applicants & Students logo](https://www.uct.ac.za/themes/custom/blip_uct/logo.svg)](https://uct.ac.za/ "Home")
 
 University of Cape Town,  
 Private Bag X3,  
@@ -369,8 +369,6 @@ Rondebosch 7701,
 South Africa
 
 +27(0)21 650 9111
-
-Grad livestream Close
 
 *   [Facebook](https://www.facebook.com/uct.ac.za/)
 *   [Twitter](https://twitter.com/UCT_news)

@@ -253,6 +253,7 @@ Markdown Content:
 *   [Tianjin--Tianjin Tianjin Medical University](https://www.campuschina.org/universities_art/index.html?key=AE711C6B59672EA6)
 *   [Tianjin--Tianjin Tianjin Normal University](https://www.campuschina.org/universities_art/index.html?key=CCF6F81BC5EFD277)
 *   [Tianjin Tianjin University of Finance and Economics](https://www.campuschina.org/universities_art/index.html?key=AAA225E9F56571FF)
+*   [Tianjin--Tianjin Tianjin University of Science and Technology](https://www.campuschina.org/universities_art/index.html?key=135B8171ACB16CEE)
 *   [Tianjin--Tianjin Tianjin University of Technology and Education](https://www.campuschina.org/universities_art/index.html?key=00D8BC592E2C5169)
 *   [Tianjin--Tianjin Tianjin University of Technology&#x2c; China](https://www.campuschina.org/universities_art/index.html?key=995FD4DF88AFD3E8)
 *   [Tianjin--Tianjin Tianjin University of Traditional Chinese Medicine](https://www.campuschina.org/universities_art/index.html?key=21669FC47621C26A)

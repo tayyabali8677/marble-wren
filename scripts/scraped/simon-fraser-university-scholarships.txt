@@ -3,8 +3,6 @@ Title: Page not found
 
 URL Source: https://www.sfu.ca/students/scholarships.html
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [Skip to content](https://www.sfu.ca/students/scholarships.html#content-start)[Skip to main navigation](https://www.sfu.ca/students/scholarships.html#main-navigation)
 
@@ -12,7 +10,7 @@ Markdown Content:
 
 ![Image 1](https://www.sfu.ca/etc/designs/clf/clientlibs/clf4/default/img/sfu-logo-only@2x.png)
 
-MENU
+MENU undefined undefined
 
 [![Image 2](https://www.sfu.ca/etc/designs/clf/clientlibs/clf4/default/img/SFU@2x.png) ![Image 3](https://www.sfu.ca/students/scholarships.html)![Image 4](https://www.sfu.ca/students/scholarships.html)](https://www.sfu.ca/students/404-not-found.html)
 
@@ -25,7 +23,7 @@ MENU
     *   [go SFU](https://go.sfu.ca/)
     *   [Canvas](https://canvas.sfu.ca/)
 
-_Search_
+_Search undefined_
 
 This Site SFU.ca 
 
@@ -71,11 +69,13 @@ Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqu
 
 [Terms & Conditions](https://www.sfu.ca/contact/terms-conditions.html)[Privacy policy](https://www.sfu.ca/contact/terms-conditions/privacy.html)[© Simon Fraser University](https://www.sfu.ca/)
 
+[Page not found](https://www.sfu.ca/students/404-not-found.html)
+
 *   [SFU.CA](https://www.sfu.ca/)
 
 Search
 
-_Search_
+_Search undefined_
 
 This Site SFU.ca 
 
@@ -84,3 +84,5 @@ This Site SFU.ca
 *   [Canvas](https://canvas.sfu.ca/)
 
 close
+
+![Image 8](https://t.co/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na%261&eci=2&event_id=1affef8f-7df7-46f1-b982-c318d313308e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=366786d7-fe09-4358-889d-07bcbffb4d34&tw_ch_fvl=Google%20Chrome%2F155.0.8059.84%2CChromium%2F155.0.8059.84%2CNot(A%3ABrand%2F24.0.0.0&tw_document_href=https%3A%2F%2Fwww.sfu.ca%2Fstudents%2Fscholarships.html&tw_engaged_ms=8&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1792381672055-321341716&tw_session_start=1&twpid=tw.1792381672055.363458046312083366&txn_id=o3ae8&type=javascript&version=2.4.12)![Image 9](https://analytics.twitter.com/i/adsct?bci=3&dv=UTC%26en-US%2Cen%26Google%20Inc.%26Linux%20x86_64%26255%261280%261280%2610%2624%261280%261280%260%26na%261&eci=2&event_id=1affef8f-7df7-46f1-b982-c318d313308e&events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=366786d7-fe09-4358-889d-07bcbffb4d34&tw_ch_fvl=Google%20Chrome%2F155.0.8059.84%2CChromium%2F155.0.8059.84%2CNot(A%3ABrand%2F24.0.0.0&tw_document_href=https%3A%2F%2Fwww.sfu.ca%2Fstudents%2Fscholarships.html&tw_engaged_ms=8&tw_iframe_status=0&tw_order_quantity=0&tw_pid_src=1&tw_sale_amount=0&tw_session_count=1&tw_session_id=1792381672055-321341716&tw_session_start=1&twpid=tw.1792381672055.363458046312083366&txn_id=o3ae8&type=javascript&version=2.4.12)

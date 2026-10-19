@@ -6,82 +6,20 @@ URL Source: https://www.tilburguniversity.edu/education/scholarships
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[Skip to navigation](https://www.tilburguniversity.edu/education/scholarships#navigation)[Skip to main content](https://www.tilburguniversity.edu/education/scholarships#main)
+This website uses different types of cookies. Some cookies are set by third-party services. You can find a more detailed explanation of what the cookies are used for in our [**cookie statement**](https://www.tilburguniversity.edu/disclaimer/cookies).
 
-[Go to the homepage of](https://www.tilburguniversity.edu/ "Home")
+Basic
 
-Open Menu
+These **functional cookies** ensure that the website works technically and is safe to use.
 
-[Open Search](https://www.tilburguniversity.edu/search)
+Preferences
 
-Select language
+These cookies store anonymous **preferences** in your browser regarding information and settings on the website, without you having to create a personal account or log into the website.
 
-*   [Home](https://www.tilburguniversity.edu/)
-*   [About Tilburg University](https://www.tilburguniversity.edu/about)
-*   [Collaboration](https://www.tilburguniversity.edu/collaboration)
-*   [Study programs](https://www.tilburguniversity.edu/education)
-*   [Research](https://www.tilburguniversity.edu/research)
-*   [Campus](https://www.tilburguniversity.edu/campus)
-*   [Alumni](https://www.tilburguniversity.edu/alumni)
-*   [Current](https://www.tilburguniversity.edu/current)
-*   [Contact and visit](https://www.tilburguniversity.edu/contact)
-*   [Disclaimer and cookies](https://www.tilburguniversity.edu/disclaimer)
+Statistics
 
-![Image 1: A cute image to ease your discomfort](https://www.tilburguniversity.edu/sites/default/files/styles/epic_compact_small/public/image/tamias_sibiricus2_2.jpg?h=165e7e94&itok=R4Y-4Pt-)
+With these **analytical cookies** we collect anonymous statistics from which sources our website visitors come and how our website is used. We use **Google Analytics** from the American company Google for this purpose.
 
-## Oooops!
+Marketing
 
-## Breadcrumb
-
-1.   [Home](https://www.tilburguniversity.edu/)
-2.   [Education at Tilburg University](https://www.tilburguniversity.edu/education)
-
-**Maybe the Search bar below can help you find the information you are looking for.**
-
-Search 
-
-## Do you suspect that something has gone wrong?
-
-If you suspect that something has gone wrong - maybe you got this page after clicking on a link on the website or in Google - please report this at[website@tilburguniversity.edu](mailto:website@tilburguniversity.edu).
-
-## Search our website
-
-### Other sources
-
-*   [Publications](https://research.tilburguniversity.edu/en/publications/)
-*   [Library collection](https://www.tilburguniversity.edu/campus/university-library/searching-information)
-*   [Study guide](https://uvt.osiris-student.nl/#/onderwijscatalogus/extern/examenprogramma?taal=en)
-*   [Univers Online](https://universonline.nl/)
-
-### Find persons
-
-*   [Experts & Expertise](https://www.tilburguniversity.edu/staff)
-*   [Press officers](https://www.tilburguniversity.edu/contact/pr-advisers)
-
-### Find organizations
-
-*   [Research institutes](https://www.tilburguniversity.edu/research/institutes-and-research-groups)
-*   [Schools](https://www.tilburguniversity.edu/about/organization)
-
-* * *
-
-Tilburg University  
- Warandelaan 2  
- 5037 AB Tilburg
-
-[**+31 (0)13 466 9111**](tel:0031134669111)
-
-## Contact Web and Marketing Technology
-
-*   **E-mail address**  
-[website@tilburguniversity.edu](mailto:website@tilburguniversity.edu)
-
-*   **Visiting address**  
-[Koopmans building](https://www.tilburguniversity.edu/contact/campus-map-and-buildings/koopmans "Koopmans building")  
- 11th floor  
- Warandelaan 2  
- 5037 AB Tilburg
-
-*   **Postal address**  
- PO Box 90153  
- 5000 LE Tilburg
+These **tracking cookies** provide information about your website visit to third parties who can use this information for **user research** or **personalized and non-personalized advertisements** from Tilburg University. Learn how Google uses data when you interact with our site in Google's [**Business Data Responsibility**](https://business.safety.google/privacy/) information.
