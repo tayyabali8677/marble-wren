@@ -11,6 +11,7 @@ Go to content
 *   [Login](https://www.chalmers.se/en/login)
 *   [Intranet (Opens in new tab)](https://intranet.chalmers.se/en/)
 *   [Library (Opens in new tab)](https://www.lib.chalmers.se/en/)
+*   [Your studies](https://www.chalmers.se/en/education/your-studies/)
 
 *   Search
 *   [Svenska](https://www.chalmers.se/)
@@ -24,8 +25,6 @@ Go to content
 *   Departments
 
 Search[Svenska](https://www.chalmers.se/)Menu
-
-*   Updated website We have updated chalmers.se with our new visual identity. Not everything is in place yet, but we are gradually adding more content and new features. Some pages may also have moved to new URLs. Please use the main menu to find what you are looking for.     
 
 # Page not found (404)
 

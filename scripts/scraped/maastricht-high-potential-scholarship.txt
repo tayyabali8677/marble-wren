@@ -17,8 +17,6 @@ This website uses cookies
 
 We use cookies to analyse the traffic on our website and use the findings from such analyses to improve the user experience. On certain pages we also use, after you have given your consent, cookies to personalise content, emails and ads, but only with your consent. You can allow installation of all cookies on your device or allow necessary cookies only. View our[cookie statement](https://www.maastrichtuniversity.nl/maastricht-university-cookie-laws).
 
-[[#DSR_FORM_URL_TEXT#]](https://www.maastrichtuniversity.nl/education/why-um/scholarships-and-grants/[#DSR_FORM_URL#])
-
 [#GPC_BANNER_ICON#]
 
 [#GPC_TOAST_TEXT#]
@@ -275,7 +273,7 @@ Support & guidance for students
         *   [Study advisers](https://www.maastrichtuniversity.nl/study/support/study-advisers)
         *   [Psychological support](https://www.maastrichtuniversity.nl/studeren/support/psychological-support)
         *   [Student wellbeing](https://www.maastrichtuniversity.nl/studeren/support/student-wellbeing)
-        *   [Disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability)
+        *   [Disability support](https://www.maastrichtuniversity.nl/study/support/studying-disability)
         *   [The InnBetween: Student Chaplaincy](https://www.maastrichtuniversity.nl/study/support/innbetween-student-chaplaincy)
         *   [Support for international students](https://www.maastrichtuniversity.nl/studeren/support/support-international-students)
         *   [Studying or interning abroad](https://www.maastrichtuniversity.nl/studeren/support/studying-or-interning-abroad)
@@ -550,10 +548,10 @@ Student wellbeing
             *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/studeren/support/studentenwelzijn/wellbeing-movement)
             *   [MoodLift](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/moodlift)
 
-        *   [Disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability)Open Disability support
+        *   [Disability support](https://www.maastrichtuniversity.nl/study/support/studying-disability)Open Disability support
 
 Disability support
-            *   [Applying for disability support](https://www.maastrichtuniversity.nl/studeren/support/studying-disability/applying-disability-support)
+            *   [Applying for disability support](https://www.maastrichtuniversity.nl/studeren/support/studeren-met-een-functiebeperking-chronische-ziekte/applying-disability-support)
             *   [Tips for studying with a disability](https://www.maastrichtuniversity.nl/studeren/support/studeren-met-een-functiebeperking-chronische-ziekte/tips-studying-disability-andor)
             *   [Disability facilities per faculty or educational unit](https://www.maastrichtuniversity.nl/studeren/support/studying-disability/disability-facilities-faculty-or-educational-unit)
             *   [FAQ disability support](https://www.maastrichtuniversity.nl/studeren/support/studeren-met-een-functiebeperking-chronische-ziekte/faq-disability-support)
@@ -1518,21 +1516,24 @@ Getting involved
                 *   [Networks for staff & students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students)Open Networks for staff & students
 
 Networks for staff & students
+                    *   [UnliMited Network](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-network)Open UnliMited Network
+
+UnliMited Network
+                        *   [UnliMited-Students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-students)
+                        *   [UnliMited-Staff](https://www.maastrichtuniversity.nl/over-de-um/diversiteit-inclusiviteit/gerelateerde-organisaties-um/unlimited-netwerk/unlimited-staff)
+                        *   [UnliMited-PhD](https://www.maastrichtuniversity.nl/unlimited-phd)
+                        *   [Disability Inclusion Group](https://www.maastrichtuniversity.nl/disability-inclusion-group-dig)
+                        *   [Our stories](https://www.maastrichtuniversity.nl/node/48581/our-stories)
+                        *   [Resources & information](https://www.maastrichtuniversity.nl/resources-information)
+
                     *   [Female Empowerment](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/fem-female-empowerment)Open Female Empowerment
 
 Female Empowerment
                         *   [Publications & resources](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/related-organisations/female-empowerment/publications-resources)
 
                     *   [UM Pride](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/um-pride)
+                    *   [ACMUS](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/related-organisations/acmus)
                     *   [PAC Network](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/pac-network-parents)
-                    *   [UnliMited Network](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-network)Open UnliMited Network
-
-UnliMited Network
-                        *   [UnliMited-Students](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/getting-involved/networks-staff-and-students/unlimited-students)
-                        *   [UnliMited-Staff](https://www.maastrichtuniversity.nl/over-de-um/diversiteit-inclusiviteit/gerelateerde-organisaties-um/unlimited-netwerk/unlimited-staff)
-                        *   [Disability Inclusion Group](https://www.maastrichtuniversity.nl/disability-inclusion-group-dig)
-                        *   [Our stories](https://www.maastrichtuniversity.nl/node/48581/our-stories)
-                        *   [Resources & information](https://www.maastrichtuniversity.nl/resources-information)
 
             *   [Inclusive facilities](https://www.maastrichtuniversity.nl/about-um/diversity-inclusivity/inclusive-facilities)Open Inclusive facilities
 
@@ -1731,7 +1732,7 @@ The page you were trying to reach cannot be found. The link might be outdated, c
 *   [Bachelor's programmes](https://www.maastrichtuniversity.nl/education/bachelor/programmes)
 *   [Master's programmes](https://www.maastrichtuniversity.nl/education/master/programmes)
 
-*   [Research pages](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research)
+*   [Research pages](https://www.maastrichtuniversity.nl/research)
 *   [Support pages](https://www.maastrichtuniversity.nl/support)
 *   [Library pages](https://library.maastrichtuniversity.nl/)
 *   [Contact information](https://www.maastrichtuniversity.nl/contact)

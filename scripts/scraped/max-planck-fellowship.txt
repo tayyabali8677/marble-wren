@@ -19,10 +19,11 @@ Toggle navigation
     *           *   [Forschung fördern](https://www.mpg.de/forschungsfoerderung)
         *   [Profil & Selbstverständnis](https://www.mpg.de/11695540/profil-selbstverstaendnis)
             *   [Porträt](https://www.mpg.de/kurzportrait)
-            *   [Nachhaltigkeit](https://www.mpg.de/nachhaltigkeit)
+            *   [Grundwerte und Satzung](https://www.mpg.de/27044793/grundwerte-und-satzung)
             *   [Zahlen & Fakten](https://www.mpg.de/zahlen-und-fakten)
             *   [Regeln & Verfahren](https://www.mpg.de/ueber_uns/verfahren)
             *   [Vereinsorgane & Gremien](https://www.mpg.de/ueber-uns/vereinsorgane)
+            *   [Nachhaltigkeit](https://www.mpg.de/nachhaltigkeit)
 
         *   [Publikationen](https://www.mpg.de/11769096/publikationen)
             *   [Jahresbericht](https://www.mpg.de/jahresbericht)

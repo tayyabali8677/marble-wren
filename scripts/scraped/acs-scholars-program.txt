@@ -3,13 +3,9 @@ Title: 404: Not Found
 
 URL Source: https://www.acs.org/education/students/college/acs-scholars.html
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
-Opens in a new window Opens an external website Opens an external website in a new window
-
-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: [Privacy Policy](https://www.acs.org/privacy.html)[Cookie Policy](https://www.acs.org/privacy.html#cookies)
-
-Manage Preferences 
-
 [Skip to Main Content](https://www.acs.org/education/students/college/acs-scholars.html#maincontent)
 
 [](https://www.acs.org/)
@@ -45,25 +41,6 @@ Membership Package Expires Soon
 *   [Log Out](https://www.acs.org/education/students/college/acs-scholars.html#)
 
 [Join ACS](https://www.acs.org/education/students/college/acs-scholars.html#)[Membership](https://www.acs.org/education/students/college/acs-scholars.html#)[Upgrade](https://www.acs.org/education/students/college/acs-scholars.html#)
-
-[Donate](https://www.acs.org/donate.html)
-
-Log In
-
-[Log In](https://www.acs.org/bin/acs/sso/login)
-
-Membership Package Expires Soon 
-
-[Explore Membership](https://www.acs.org/membership.html)[Upgrade/Renew](https://www.renew.acs.org/)
-
-*   [Account](https://myaccount.acs.org/myaccount/HomePage.html)
-*   [My Benefits](https://www.acs.org/membership/my-benefits.html)
-*   [Refer a Friend](https://membership.acs.org/membership_referral/info)
-*   [Reward Points](https://membership.acs.org/reward/customer/info)
-*   [Help Center](https://www.acs.org/help.html)
-*   [Log Out](https://www.acs.org/bin/acs/sso/session?action=logout)
-
-[Join ACS](https://www.acs.org/membership.html)[Membership](https://www.acs.org/membership.html)[Upgrade](https://www.renew.acs.org/)
 
 [](https://www.acs.org/)
 
@@ -136,7 +113,7 @@ Helpful Links
 
 [ChemMatters](https://www.acs.org/education/chemmatters.html)[Committees](https://www.acs.org/about/governance/committees.html)[Site Map](https://www.acs.org/sitemap.html)
 
-[![Image 5: American Chemical Society, Chemistry for Life](https://www.acs.org/etc.clientlibs/acs-cdn/aem6/cdn/static/resources/images/redesign/logos/logo-acs-redesign-white.svg)](https://www.acs.org/)
+[![Image 2: American Chemical Society, Chemistry for Life](https://www.acs.org/etc.clientlibs/acs-cdn/aem6/cdn/static/resources/images/redesign/logos/logo-acs-redesign-white.svg)](https://www.acs.org/)
 
 [service@acs.org](mailto:service@acs.org)
 
@@ -164,5 +141,3 @@ GET INVOLVED[Advocate](https://www.acs.org/policy.html)[Donate](https://www.acs.
 *   [Help](https://www.acs.org/help.html)
 
 [Copyright ©](https://www.acs.org/copyright.html) 2026 American Chemical Society
-
-![Image 6](https://bat.bing.com/action/0?ti=283031664&tm=al001&Ver=2&mid=91c08eb8-1c31-41b2-9960-569696e8873a&bo=1&sid=e5933820cc3a11f185b145ba6168f8be&vid=e5940a80cc3a11f1b9ad41fccb95ee17&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%3A%20Not%20Found&p=https%3A%2F%2Fwww.acs.org%2Feducation%2Fstudents%2Fcollege%2Facs-scholars.html&r=&lt=699&pt=1792468873799,270,270,,,7,7,7,7,7,,18,249,344,272,529,639,699,,,&pn=1,0&evt=pageLoad&sv=2&cdb=AQAQ&rn=540328)

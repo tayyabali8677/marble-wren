@@ -329,7 +329,7 @@ az
 en
 ru
 NAZİRLİK
-XƏBƏRLƏR 5
+XƏBƏRLƏR 1
 Təqvim
 Əlaqə
 Elektron sənəd yoxlanışı ✓

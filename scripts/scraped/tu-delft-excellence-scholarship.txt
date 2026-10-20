@@ -39,7 +39,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -308,7 +308,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -511,7 +511,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu sluiten
+Menu openen
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -702,7 +702,7 @@ Studentenportal
 Lifelong Learning
 Voor scholen
 Onderzoek
-Menu sluiten
+Menu openen
 Maatschappelijke uitdagingen
 Faculteiten en instituten
 Onderzoeksfaciliteiten
@@ -966,7 +966,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1235,7 +1235,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu sluiten
+Menu openen
 Programmes
 Admission and Application
 Study Programme Orientation

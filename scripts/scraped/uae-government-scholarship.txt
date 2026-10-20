@@ -77,6 +77,7 @@ Results will be displayed automatically after typing your search.Search
     *   [National qualifications centre (NQC)](https://mohesr.gov.ae/EN/NQC/Pages/default.aspx)
     *   [Commission for academic accreditation](https://caa.ae/)
     *   [UAE Award for Higher Education](https://mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
+    *   [UAE Skills](https://mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
 
 My Applications
 
@@ -174,6 +175,7 @@ Results will be displayed automatically after typing your search.Search
 *   [National qualifications centre (NQC)](https://mohesr.gov.ae/EN/NQC/Pages/default.aspx)
 *   [Commission for academic accreditation](https://caa.ae/)
 *   [UAE Award for Higher Education](https://mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
+*   [UAE Skills](https://mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
 
 ![Image 4: Error 404](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/error-404-0d242c6a118e643c7450.svg)
 #### Page not found

@@ -26,16 +26,42 @@ Menu
         *   [Key dates](https://www.deakin.edu.au/study/key-dates)
         *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
+    *   [Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
+        *   Back[Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university) 
+        *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
+        *   [Change of preference](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/change-of-preference)
+        *   [Deakin Uni Ready](https://www.deakin.edu.au/study/access-programs/deakin-uni-ready)
+        *   [Parents and caregivers](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/parents-and-caregivers)
+        *   [Career practitioners](https://www.deakin.edu.au/study/year-12-guide-for-students/career-practitioners)
+
     *   [Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
+        *   Back[Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide) 
+        *   [Undergraduate courses](https://www.deakin.edu.au/study/find-a-course/undergraduate-courses)
+        *   [Online courses](https://www.deakin.edu.au/study/find-a-course/online-degrees)
+        *   [Double degrees](https://www.deakin.edu.au/study/undergraduate-study-guide/double-degrees)
+
     *   [Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
-    *   [Study online](https://www.deakin.edu.au/study/study-online)
-        *   Back[Study online](https://www.deakin.edu.au/study/study-online) 
+        *   Back[Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide) 
+        *   [Postgraduate courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses)
+        *   [Online courses](https://www.deakin.edu.au/study/find-a-course/online-degrees)
+        *   [One-year masters](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses/one-year-masters)
+        *   [Government-subsidsed courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses/government-subsidised-postgraduate-courses)
+        *   [Recognition of prior learning](https://www.deakin.edu.au/study/postgraduate-study-guide/recognition-of-prior-learning)
+
+    *   [Research guide](https://www.deakin.edu.au/research)
+        *   Back[Research guide](https://www.deakin.edu.au/research) 
+        *   [Research degrees and PhDs](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
+        *   [Recognition of prior learning](https://www.deakin.edu.au/study/research-guide/recognition-of-prior-learning)
+
+    *   [Study online guide](https://www.deakin.edu.au/study/study-online)
+        *   Back[Study online guide](https://www.deakin.edu.au/study/study-online) 
         *   [How online study works](https://www.deakin.edu.au/study/study-online/how-online-study-works)
 
     *   [Entry pathways](https://www.deakin.edu.au/study/entry-pathways)
         *   Back[Entry pathways](https://www.deakin.edu.au/study/entry-pathways) 
         *   [Find a pathway](https://www.deakin.edu.au/study/entry-pathways/find-a-pathway)
-        *   [Deakin Uni Ready](https://www.deakin.edu.au/study/entry-pathways/deakin-uni-ready)
+        *   [Access programs](https://www.deakin.edu.au/study/access-programs)
+        *   [Transfer to Deakin](https://www.deakin.edu.au/study/entry-pathways/transfer-to-deakin)
 
     *   [Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships)
         *   Back[Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships) 
@@ -43,12 +69,13 @@ Menu
         *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
         *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
 
-    *   [How to apply](https://www.deakin.edu.au/study/how-to-apply)
-        *   Back[How to apply](https://www.deakin.edu.au/study/how-to-apply) 
+    *   [Applications guide](https://www.deakin.edu.au/study/how-to-apply)
+        *   Back[Applications guide](https://www.deakin.edu.au/study/how-to-apply) 
         *   [Undergraduate applications](https://www.deakin.edu.au/study/how-to-apply/undergraduate-applications)
         *   [Postgraduate coursework applications](https://www.deakin.edu.au/study/how-to-apply/postgraduate-coursework-applications)
         *   [International student applications](https://www.deakin.edu.au/study/how-to-apply/international-student-applications)
-        *   [Research degree applications](https://www.deakin.edu.au/study/how-to-apply/research-degree-applications)
+        *   [Research degree applications](https://www.deakin.edu.au/research/research-degrees/how-to-apply-for-a-research-degree)
+        *   [Application dates](https://www.deakin.edu.au/study/how-to-apply/application-dates)
 
 *   [Student life and services](https://www.deakin.edu.au/student-life-and-services)
     *   Back[Student life and services](https://www.deakin.edu.au/student-life-and-services) 
@@ -238,18 +265,42 @@ Menu
     *   [Key dates](https://www.deakin.edu.au/study/key-dates)
     *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
+[Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
+
+    *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
+    *   [Change of preference](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/change-of-preference)
+    *   [Deakin Uni Ready](https://www.deakin.edu.au/study/access-programs/deakin-uni-ready)
+    *   [Parents and caregivers](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/parents-and-caregivers)
+    *   [Career practitioners](https://www.deakin.edu.au/study/year-12-guide-for-students/career-practitioners)
+
 [Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
+
+    *   [Undergraduate courses](https://www.deakin.edu.au/study/find-a-course/undergraduate-courses)
+    *   [Online courses](https://www.deakin.edu.au/study/find-a-course/online-degrees)
+    *   [Double degrees](https://www.deakin.edu.au/study/undergraduate-study-guide/double-degrees)
 
 [Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
 
-[Study online](https://www.deakin.edu.au/study/study-online)
+    *   [Postgraduate courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses)
+    *   [Online courses](https://www.deakin.edu.au/study/find-a-course/online-degrees)
+    *   [One-year masters](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses/one-year-masters)
+    *   [Government-subsidsed courses](https://www.deakin.edu.au/study/find-a-course/postgraduate-courses/government-subsidised-postgraduate-courses)
+    *   [Recognition of prior learning](https://www.deakin.edu.au/study/postgraduate-study-guide/recognition-of-prior-learning)
+
+[Research guide](https://www.deakin.edu.au/research)
+
+    *   [Research degrees and PhDs](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
+    *   [Recognition of prior learning](https://www.deakin.edu.au/study/research-guide/recognition-of-prior-learning)
+
+[Study online guide](https://www.deakin.edu.au/study/study-online)
 
     *   [How online study works](https://www.deakin.edu.au/study/study-online/how-online-study-works)
 
 [Entry pathways](https://www.deakin.edu.au/study/entry-pathways)
 
     *   [Find a pathway](https://www.deakin.edu.au/study/entry-pathways/find-a-pathway)
-    *   [Deakin Uni Ready](https://www.deakin.edu.au/study/entry-pathways/deakin-uni-ready)
+    *   [Access programs](https://www.deakin.edu.au/study/access-programs)
+    *   [Transfer to Deakin](https://www.deakin.edu.au/study/entry-pathways/transfer-to-deakin)
 
 [Fees and scholarships](https://www.deakin.edu.au/study/fees-and-scholarships)
 
@@ -257,12 +308,13 @@ Menu
     *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
     *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
 
-[How to apply](https://www.deakin.edu.au/study/how-to-apply)
+[Applications guide](https://www.deakin.edu.au/study/how-to-apply)
 
     *   [Undergraduate applications](https://www.deakin.edu.au/study/how-to-apply/undergraduate-applications)
     *   [Postgraduate coursework applications](https://www.deakin.edu.au/study/how-to-apply/postgraduate-coursework-applications)
     *   [International student applications](https://www.deakin.edu.au/study/how-to-apply/international-student-applications)
-    *   [Research degree applications](https://www.deakin.edu.au/study/how-to-apply/research-degree-applications)
+    *   [Research degree applications](https://www.deakin.edu.au/research/research-degrees/how-to-apply-for-a-research-degree)
+    *   [Application dates](https://www.deakin.edu.au/study/how-to-apply/application-dates)
 
 [Explore the study hub](https://www.deakin.edu.au/study)
 

@@ -409,23 +409,6 @@ SVS
 SEN
 SHS
 In progress
-SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-29 June 2026
-14:00
-Closing
-20 October 2026
-14:00
-Read more about SAS (Slovakia) - Bilateral Call with the Slovak Academy of Sciences
-International projects
-SVS
-SEN
-SHS
-In progress
 NRF (South Africa) - Bilateral call with The National Research Foundation
 Category
 International & Mobility
@@ -438,25 +421,6 @@ Closing
 05 November 2026
 14:00
 Read more about NRF (South Africa) - Bilateral call with The National Research Foundation
-International projects
-SEN
-SHS
-Sustainability
-In progress
-Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
-Category
-International & Mobility
-Profile
-Permanent research status (R3) and Senior research position (R4)
-Opening
-08 September 2026
-08:00
-Closing
-18 November 2026
-14:00
-Periodicity
-Exceptional
-Read more about Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
 International projects
 SEN
 SHS
@@ -476,6 +440,25 @@ Closing
 Periodicity
 Annual
 Read more about Biodiversa+ Call 26/27 - “Novel ecosystems: biodiversity, socio-ecological consequences and future trajectories (BiodivFuture)”
+International projects
+SEN
+SHS
+Sustainability
+In progress
+Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
+Category
+International & Mobility
+Profile
+Permanent research status (R3) and Senior research position (R4)
+Opening
+08 September 2026
+08:00
+Closing
+18 November 2026
+14:00
+Periodicity
+Exceptional
+Read more about Water4All JTC 2026 Call - “Sustainable Water Management” (excluding extreme events and circularity)
 International projects
 SEN
 SHS
@@ -531,6 +514,20 @@ Closing
 Periodicity
 Exceptional
 Read more about FOREST JTC 2026 - "Building Knowledge and Solutions for Resilient Forests and Sustainable Forest-Based Futures
+Mobility
+SVS
+SEN
+SHS
+Sustainability
+Ongoing
+Scientific meeting abroad (OUT)
+Category
+International & Mobility
+Profile
+PhD (R1),
+Postdoc (R2),
+Permanent research status (R3) and Senior research position (R4)
+Read more about Scientific meeting abroad (OUT)
 Mobility
 SVS
 SEN
