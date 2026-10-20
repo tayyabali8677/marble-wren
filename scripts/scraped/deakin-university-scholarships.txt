@@ -28,11 +28,6 @@ Menu
 
     *   [Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
     *   [Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
-    *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
-        *   Back[Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar) 
-        *   [Year 12 students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
-        *   [Change of preference](https://www.deakin.edu.au/study/find-a-course-by-atar/change-of-preference)
-
     *   [Study online](https://www.deakin.edu.au/study/study-online)
         *   Back[Study online](https://www.deakin.edu.au/study/study-online) 
         *   [How online study works](https://www.deakin.edu.au/study/study-online/how-online-study-works)
@@ -246,11 +241,6 @@ Menu
 [Undergraduate study guide](https://www.deakin.edu.au/study/undergraduate-study-guide)
 
 [Postgraduate study guide](https://www.deakin.edu.au/study/postgraduate-study-guide)
-
-[Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
-
-    *   [Year 12 students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
-    *   [Change of preference](https://www.deakin.edu.au/study/find-a-course-by-atar/change-of-preference)
 
 [Study online](https://www.deakin.edu.au/study/study-online)
 

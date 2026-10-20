@@ -219,6 +219,7 @@ Find information on how to make a Protected Disclosure under the external proced
         *   [Athena Swan](https://hea.ie/policy/centre-of-excellence-for-edi/athena-swan/)
         *   [HEI Staff Profiles](https://hea.ie/policy/centre-of-excellence-for-edi/statistics/)
 
+    *   [Teaching and Learning](https://hea.ie/policy/policy-development/teaching-and-learning/)
     *   [Health and Wellbeing](https://hea.ie/policy/health-and-wellbeing-landing-page/)Open submenu for Health and Wellbeing
         *   [Healthy Campus](https://hea.ie/policy/health-and-wellbeing-landing-page/healthy-campus-landing-page/)
         *   [Mental Health Framework](https://hea.ie/policy/health-and-wellbeing-landing-page/mental-health-framework/)
@@ -375,6 +376,7 @@ While you are here, have a read of some of our recent news
     *   [Research Policy](https://hea.ie/policy/research-policy/)
     *   [HE Reform](https://hea.ie/policy/he-reform/)
     *   [Centre of Excellence for Equality, Diversity and Inclusion](https://hea.ie/policy/centre-of-excellence-for-edi/)
+    *   [Teaching and Learning](https://hea.ie/policy/policy-development/teaching-and-learning/)
     *   [Health and Wellbeing](https://hea.ie/policy/health-and-wellbeing-landing-page/)
 
 *   [Funding, Governance and Performance](https://hea.ie/funding-governance-performance/)

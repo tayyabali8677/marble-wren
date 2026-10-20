@@ -4,13 +4,16 @@ Title: 404 | Helmholtz-Gemeinschaft Deutscher Forschungszentren
 URL Source: https://www.helmholtz.de/en/career/research-funding/
 
 Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-## Seite nicht gefunden
+## Ihre Cookie-Einstellungen
 
-Diese URL existiert nicht (mehr). Wir hoffen, dass wir Ihnen trotzdem helfen können. Wenn Sie nach einem Ansprechpartner in der Geschäftsstelle suchen, versuchen Sie es hier. Über unsere Suchfunktion finden Sie leicht weitere passende Inhalte auf unsere Website.
+Um unsere Website für Sie optimal zu gestalten und fortlaufend zu verbessern, verwenden wir Cookies. Durch Bestätigen des Buttons „Akzeptieren“ stimmen Sie der Verwendung zu. Über den Button „Konfigurieren“ können Sie Ihre Einstellungen anpassen. Sie können jederzeit Ihre Einwilligung widerrufen und Cookies deaktivieren. Weitere Informationen hierzu erhalten Sie in unserer [Datenschutzerklärung](https://www.helmholtz.de/datenschutz).
 
-*   [Zur Suche](https://www.helmholtz.de/suche/)
-*   [Zur Startseite](https://www.helmholtz.de/)
-*   [Zur Geschäftsstelle](https://www.helmholtz.de/ueber-uns/die-gemeinschaft/geschaeftsstelle/)
+## Einstellungen
+
+Ohne Ihre Zustimmung setzen wir keine Cookies auf unserer Website ein. Ausschließlich nach Ihrer Zustimmung verarbeiten wir anonyme Daten, aus denen pseudonymisierte Nutzungsprofile erstellt und ausgewertet werden. Dazu nutzen wir die Webanalysedienst-Software Matomo. Hier können Sie den Cookie aktivieren oder deaktivieren. Sie können Ihre Einstellungen jederzeit ändern. [Zur Datenschutzerklärung.](https://www.helmholtz.de/datenschutz)
+
+### Optionale Cookies
+
+Tracking-Cookies aktivieren

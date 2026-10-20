@@ -112,6 +112,8 @@ Title: Scholarship Search - BigFuture | College Board
 
 URL Source: https://bigfuture.collegeboard.org/scholarship-search
 
+Published Time: Thu, 25 Jun 2026 12:36:40 GMT
+
 Markdown Content:
 #### Filters
 
@@ -119,13 +121,13 @@ Narrow your search with the filters below.
 
 43,513 Results
 
-Win up to$5,000
+Win up to$15,000
 
-### Tradition of Caring Scholarship
+### The Legacy Lab Scholarship
 
-Opens:07/01/2026
+Opens:09/16/2026
 
-Closes:10/20/2026
+Closes:10/21/2026
 
 * * *
 
@@ -139,13 +141,13 @@ Need-Based No
 
 ![Image 3](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
-Essay Required Yes
+Essay Required No
 
-Win up to$15,000
+Award Amount Varies
 
-### The Legacy Lab Scholarship
+### Erin Trujeque Memorial Scholarship
 
-Opens:09/16/2026
+Opens:02/01/2026
 
 Closes:10/21/2026
 
@@ -161,28 +163,6 @@ Need-Based No
 
 ![Image 6](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
-Essay Required No
-
-Award Amount Varies
-
-### Erin Trujeque Memorial Scholarship
-
-Opens:02/01/2026
-
-Closes:10/21/2026
-
-* * *
-
-![Image 7](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
-
-Merit-Based No
-
-![Image 8](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
-
-Need-Based No
-
-![Image 9](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
-
 Essay Required Yes
 
 Win up to$1,000
@@ -195,15 +175,15 @@ Closes:10/21/2026
 
 * * *
 
-![Image 10](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+![Image 7](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
 
 Merit-Based Yes
 
-![Image 11](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+![Image 8](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
 
 Need-Based No
 
-![Image 12](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+![Image 9](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
 Essay Required No
 
@@ -217,21 +197,43 @@ Closes:10/21/2026
 
 * * *
 
-![Image 13](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+![Image 10](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
 
 Merit-Based No
 
-![Image 14](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+![Image 11](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
 
 Need-Based Yes
 
-![Image 15](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+![Image 12](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
 Essay Required No
 
 Win up to$2,000
 
 ### Fred J. Miller Memorial Music Education Fund Scholarship
+
+Opens:08/02/2026
+
+Closes:10/22/2026
+
+* * *
+
+![Image 13](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+
+Merit-Based No
+
+![Image 14](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+
+Need-Based No
+
+![Image 15](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+
+Essay Required No
+
+Win up to$1,000
+
+### Music for All Foundation Scholarship
 
 Opens:08/02/2026
 
@@ -251,28 +253,6 @@ Need-Based No
 
 Essay Required No
 
-Win up to$1,000
-
-### Music for All Foundation Scholarship
-
-Opens:08/02/2026
-
-Closes:10/22/2026
-
-* * *
-
-![Image 19](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
-
-Merit-Based No
-
-![Image 20](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
-
-Need-Based No
-
-![Image 21](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
-
-Essay Required No
-
 Win up to$5,000
 
 ### Philadelphia Association of Black Journalists College Scholarship
@@ -283,15 +263,15 @@ Closes:10/23/2026
 
 * * *
 
-![Image 22](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+![Image 19](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
 
 Merit-Based Yes
 
-![Image 23](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+![Image 20](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
 
 Need-Based No
 
-![Image 24](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+![Image 21](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
 Essay Required Yes
 
@@ -300,6 +280,28 @@ Win up to$5,000
 ### Braly Trade/Vocational Scholarship
 
 Opens:09/17/2026
+
+Closes:10/23/2026
+
+* * *
+
+![Image 22](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+
+Merit-Based No
+
+![Image 23](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+
+Need-Based No
+
+![Image 24](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+
+Essay Required No
+
+Win up to$600
+
+### IREM Chapter Scholarship
+
+Opens:09/02/2026
 
 Closes:10/23/2026
 
@@ -317,13 +319,13 @@ Need-Based No
 
 Essay Required No
 
-Win up to$600
+Award Amount Varies
 
-### IREM Chapter Scholarship
+### Automotive Student Scholarship
 
-Opens:09/02/2026
+Opens:01/02/2026
 
-Closes:10/23/2026
+Closes:10/24/2026
 
 * * *
 
@@ -341,7 +343,7 @@ Essay Required No
 
 Award Amount Varies
 
-### Automotive Student Scholarship
+### Ross Family Automotive Scholarship
 
 Opens:01/02/2026
 
@@ -363,7 +365,7 @@ Essay Required No
 
 Award Amount Varies
 
-### Ross Family Automotive Scholarship
+### Automotive Parts and Services Association (APSA) of Illinois - Ralph Silverman Memorial Scholarship
 
 Opens:01/02/2026
 
@@ -385,9 +387,9 @@ Essay Required No
 
 Award Amount Varies
 
-### Automotive Parts and Services Association (APSA) of Illinois - Ralph Silverman Memorial Scholarship
+### Alabama National Guard Education Assistance Program
 
-Opens:01/02/2026
+Opens:10/25/2025
 
 Closes:10/24/2026
 
@@ -399,31 +401,9 @@ Merit-Based No
 
 ![Image 38](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
 
-Need-Based No
-
-![Image 39](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
-
-Essay Required No
-
-Award Amount Varies
-
-### Alabama National Guard Education Assistance Program
-
-Opens:10/25/2025
-
-Closes:10/24/2026
-
-* * *
-
-![Image 40](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
-
-Merit-Based No
-
-![Image 41](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
-
 Need-Based Yes
 
-![Image 42](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+![Image 39](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 
 Essay Required No
 
@@ -437,13 +417,35 @@ Closes:10/24/2026
 
 * * *
 
+![Image 40](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
+
+Merit-Based No
+
+![Image 41](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
+
+Need-Based No
+
+![Image 42](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
+
+Essay Required No
+
+Award Amount Varies
+
+### Dale Flener Automotive Technology Scholarship
+
+Opens:01/02/2026
+
+Closes:10/24/2026
+
+* * *
+
 ![Image 43](https://bigfuture.collegeboard.org/scholarship-search/88c3c4a4d80d5ff0f9e8.svg)
 
 Merit-Based No
 
 ![Image 44](https://bigfuture.collegeboard.org/scholarship-search/b19283e79b255c32362c.svg)
 
-Need-Based No
+Need-Based Yes
 
 ![Image 45](https://bigfuture.collegeboard.org/scholarship-search/bf2bea50795ebbaa1afc.svg)
 

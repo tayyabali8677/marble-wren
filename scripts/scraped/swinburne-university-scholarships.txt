@@ -383,4 +383,4 @@ RTO (TOID) 3059
 
 TEQSA PRV12148 Australian University
 
-![Image 6](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_48367a6e-57d4-4c10-f7b5-ee2e0775acf2&first_visited_at=1792436502707&stid=&ipv4=34.34.225.81&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792436502836)
+![Image 6](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_31babe50-f553-4bdd-958c-e52a05feedfd&first_visited_at=1792468583130&stid=&ipv4=34.34.225.128&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792468583457)

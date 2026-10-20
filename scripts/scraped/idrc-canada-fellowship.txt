@@ -92,7 +92,9 @@ Funding
 IDRC champions and funds research and innovation within and alongside developing regions to drive global change
 Discover our open calls below for competitive and institutional grants designed to fund research topics aligned with our priorities and programming aimed at finding solutions for development challenges. For information and guidelines about application procedures, please see the specific announcements.
 Open calls
-It looks like we have no open calls at the moment. Sign up for our funding alert to receive an email whenever a new funding opportunity is launched.
+IDRC invites applications for the John G. Bene Fellowship 2026
+Call For: Applications
+Deadline: November 30, 2026
 Stay up to date on funding opportunities
 You must have JavaScript enabled to use this form.
 Email
@@ -277,7 +279,9 @@ Funding
 IDRC champions and funds research and innovation within and alongside developing regions to drive global change
 Discover our open calls below for competitive and institutional grants designed to fund research topics aligned with our priorities and programming aimed at finding solutions for development challenges. For information and guidelines about application procedures, please see the specific announcements.
 Open calls
-It looks like we have no open calls at the moment. Sign up for our funding alert to receive an email whenever a new funding opportunity is launched.
+IDRC invites applications for the John G. Bene Fellowship 2026
+Call For: Applications
+Deadline: November 30, 2026
 Stay up to date on funding opportunities
 You must have JavaScript enabled to use this form.
 Email
@@ -976,8 +980,8 @@ Terms of use
 Transparency
 &copy; 2026 IDRC
 
-===== SOURCE PAGE: https://idrc.ca/en/funding/supporting-stisa-2034-sgci-multilateral-research-call-advancing-africas-science-technology =====
-Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities | IDRC - International Development Research Centre
+===== SOURCE PAGE: https://idrc.ca/en/funding/idrc-invites-applications-john-g-bene-fellowship-2026 =====
+IDRC invites applications for the John G. Bene Fellowship 2026 | IDRC - International Development Research Centre
 Skip to main content
 To homepage
 To homepage
@@ -1067,87 +1071,40 @@ Media
 Fulltext search
 Home
 Funding
-Supporting STISA 2034: SGCI Multilateral Research Call advancing Africa’s Science, Technology and Innovation priorities
-Closed
+IDRC invites applications for the John G. Bene Fellowship 2026
+Open
 Call for
-Expressions of interest
+Applications
 Deadline
-Friday, September 25, 2026 - 23:59 ET
+Monday, November 30, 2026 - 23:59 ET
 Programs
-Education and Science
-Science Granting Councils Initiative in Sub-Saharan Africa
+Climate-Resilient Food Systems
+Duration
+10 weeks to 12 months
 Topic(s)
-Science and Technology
-Countries
-Botswana
-Burkina Faso
-Côte d&#039;Ivoire
-Ethiopia
-Ghana
-Kenya
-Malawi
-Mozambique
-Namibia
-Nigeria
-Rwanda
-Senegal
-Sierra Leone
-South Africa
-Tanzania
-Togo
-Uganda
-Zambia
-Zimbabwe
-Funded by
-Science Granting Councils Initiative in Sub-Saharan Africa (SGCI)
-Budget
-Ranging from CAD50,000 to CAD300,000 per consortium member
-Point of contact
-SGCSSA@idrc.ca
-Type
-Grant
-Status
-Closed
-Scope
-The SGCI Multilateral Research Call in support of STISA-2034 will fund collaborative, multi-country research projects that advance Africa’s science, technology and innovation priorities and contribute to sustainable development outcomes across the continent.
-The call supports research aligned with five thematic streams:
-Agriculture
-Health
-Artificial intelligence and Digital technologies
-Energy
+Development
 Environment
-Through this call, the Science Granting Councils Initiative (SGCI) seeks to:
-Support high-quality research that addresses regional development challenges
-Strengthen cross-border partnership
-Promote the use of evidence in policy and practice
-Consortia must include institutions from multiple participating SGCI countries and demonstrate how their proposed research contributes to national and continental priorities.
-The call aims to strengthen Africa’s science, technology and innovation ecosystem while generating knowledge and innovations that support inclusive and sustainable development.
+Food and Agriculture
+Natural Resources
+Funded by
+Bene Endowment fund and IDRC
+Budget
+Up to ten awards of a maximum of CA$30,000
+Point of contact
+benefellowship@idrc.ca
+Type
+Student award
+Status
+Open
+Scope
+IDRC has helped graduate students undertake research in the field of international development since 1982. The Bene fellowship, a bequest from the estate of John G. Bene, is offered to Canadians and permanent residents of Canada pursuing master’s or doctoral studies at a Canadian university. Candidates should have an academic background that combines an interest in forests (landscape and forest management and restoration, forestry, agroforestry), environment, ecology and food systems, with a social sciences lens (gender and inclusion, Indigenous knowledge and science, biodiversity conservation, governance of nature).
+This fellowship aims to facilitate practical field research on gender-responsive integrated forest, landscape and food systems restoration and management including within fire prone, degraded or disputed landscapes. Linking the broader climate-food-inclusivity nexus, it emphasizes nature-based solutions and approaches that have the potential to drive transformative change for smallholder farmers, including youth, women, and Indigenous communities in developing countries. The successful candidate will propose research that benefits less privileged people in developing countries aiming to increase the resilience of individuals and forest/agroforest communities facing difficult contexts and challenges. Note that work focused on genomics and/or genetic modification is not eligible.
+Proposals that align with IDRC's REVIVE Initiative on post-fires forest and food restauration and food systems transformation are welcome.
+Learn more about John G. Bene.
 Eligibility
-Applications must be submitted by a consortium consisting of one lead applicant organization and two to four co-applicant organizations from participating SGCI countries.
-All applicant organizations must:
-Be eligible institution types
-Nominate a full-time principal investigator
-Demonstrate the capacity to manage research funding
-Propose research that aligns with at least one of the call’s thematic streams and research avenues
-Versão em português disponível aqui
-Clique aqui
+This call is open to Canadians and permanent residents of Canada pursuing master’s or doctoral studies at a Canadian university. The award under this call will cover costs of field research conducted for a master’s thesis or doctoral dissertation in one or more countries of the Global South. Please consult the detailed call document for more specific eligibility requirements.
 More details
-For more information, please read the detailed call for proposals document and  frequently asked questions.
-The Science, Technology and Innovation Strategy for Africa (STISA-2034) is the African Union’s continental framework for driving socio-economic transformation through science, technology, and innovation (STI). STISA-2034 positions STI as a key driver of Africa’s response to global challenges such as:
-Climate change
-Pandemics
-Food insecurity
-Energy access
-Economic shocks
-The Science Granting Councils Initiative (SGCI) is a continental platform of 20 national Science Granting Councils that support research and innovation aligned with national and regional development priorities. Through this call, SGCI is supporting collaborative research that contributes to the implementation of STISA-2034 across five priority thematic streams: Agriculture, Health, Artificial Intelligence, Energy, and Environment.
-Funded by:
-Participating African Science Granting Councils
-The International Development Research Centre (IDRC)
-The Government of Norway, the United Kingdom’s Foreign, Commonwealth and Development Office (FCDO)
-Wellcome
-The call seeks to generate high-quality, policy-relevant research, strengthen regional partnerships, and accelerate the uptake of research evidence to support inclusive and sustainable development across Africa
-How to apply
-To submit an Expression of Interest, applicants must complete and submit their application through the SurveyMonkey Apply (SMA) portal. Click the "Get started" button below to access the application portal.
+For more information, please read the detailed call for proposals document and frequently asked questions.
 Ready to apply?
 To apply for this funding opportunity, you’ll need an account on SurveyMonkey Apply. If you don’t have an account yet, or need help with your existing one, please refer to our Account setup guide .
 Get started

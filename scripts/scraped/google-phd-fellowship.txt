@@ -376,49 +376,6 @@ Terms
 Cookies management controls
 &times;
 
-===== SOURCE PAGE: https://research.google/deepreview =====
-Title: Deep Review
-
-URL Source: https://research.google/deepreview
-
-Markdown Content:
-## ![Image 1: Deep Review](https://www.gstatic.com/_/boq-research-operations-deepreview-uiserver/_/r/-dVJqACCWWM.svg)
-
-Get expert-level feedback on your writing. Deep Review uses advanced logic and broad literature searches to analyze your document for weak arguments, missing context, and overall clarity. Enjoy 2 free reviews per week on us! If you would like more, submit your Gemini API key below.
-
-Conference-tested
-
-Deployed in official pilot programs across premier machine learning and theoretical computer science conferences—STOC, ICML, NeurIPS, ICLR, and AISTATS.
-
-Expert-level feedback
-
-Found significant mathematical errors >30% theoretical papers. Deep Review feedback caused 60% of authors to run entirely new experiments. Now with Gemini 4 Argon, reviews reach an even higher level of depth.
-
-Highly secure
-
-Your documents are stored securely on private encrypted servers and will not be used for model training without your permission. Documents are stored for up to one year for display before deletion.
-
-## FAQs
-
-To use Deep Review, navigate to select a PDF to upload, then click 'Upload'. All uploads must comply with our [Generative AI Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy). After submission, the results of the review will be ready in the "Your documents" table.
-
-Deep Review leverages Google's Gemini models via an inference-time scaling and reasoning-centric pipeline. The system helps authors identify issues with their documents by deeply reviewing technical details, logical soundness, and accuracy.
-
-Enjoy 2 free reviews per week on us. Beyond that, if you provide your own Gemini API key, you only pay for the API calls involved in the agentic run at standard public rates. There is no additional charge for using Deep Review. You are only billed by Google for the underlying Gemini API model calls. Expected costs for a 40 page document range from ~$3.00 for Low with 3.8 Flash to $20 with 4 Argon on Extra High. Actual API usage charges will vary depending on the document and this estimate is provided only as a guide.
-
-Deep Review reads your document to produce its review and may perform web searches to find related work, but your document remains private. Google stores the uploaded document for your future reference and will not use that data for any other purpose. You can opt in to give the research team permission to use your data to improve Deep Review.
-
-Send us your most dense, challenging, and complex documents. Deep Review supports PDFs, text, Google Docs, and Google Slides across many domains including research, legal, and finance. If you find it's not very helpful for your work, or there are specific features or specialized prompts for your area of work, please give us feedback.
-
-Deep Review’s core engine has powered official author feedback programs at [STOC](https://research.google/blog/gemini-provides-automated-feedback-for-theoretical-computer-scientists-at-stoc-2026/), [ICML](https://blog.icml.cc/2026/03/30/retrospective-on-pat-x-icml-2026-ai-paper-assistant-program/), [NeurIPS](https://blog.neurips.cc/2026/04/21/neurips-supports-authors-with-googles-paper-assistant-tool-pat/), [ICLR](https://blog.iclr.cc/2026/09/10/making-googles-paper-assistant-tool-pat-available-to-iclr-submitters/), and AISTATS. Across these programs, the tool reviewed over 15,000 papers. For detailed statistics and pilot findings, see the conference blog posts linked above and our paper at [https://arxiv.org/abs/2606.28277](https://arxiv.org/abs/2606.28277).
-
-You can refer to a preprint that describes an early iteration of Deep Review at: [https://arxiv.org/abs/2606.28277](https://arxiv.org/abs/2606.28277).
-
-Feel free to contact the team at [deepreview@google.com](mailto:deepreview@google.com).
-
-Share feedback by emailing us at [deepreview@google.com](mailto:deepreview@google.com).
-
-
 ===== SOURCE PAGE: https://research.google/people/ =====
 People – Google Research
 Skip to main content

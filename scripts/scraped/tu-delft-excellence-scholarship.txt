@@ -308,7 +308,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -321,7 +321,7 @@ Faculties and institutes
 Research facilities
 Stories
 Innovation & Impact
-Menu sluiten
+Menu openen
 Business collaboration
 Pioneering Tech
 Entrepreneurship
