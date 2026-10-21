@@ -3,8 +3,6 @@ Title: ご指定のページが見つかりません／Not Found｜JICA
 
 URL Source: https://www.jica.go.jp/english/our_work/capacity_building/scholarship/index.html
 
-Published Time: Thu, 09 Jul 2026 05:38:27 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

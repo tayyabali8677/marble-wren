@@ -865,7 +865,7 @@ Scholarship paid directly to recipient.
 Applicants from the North East of England with a household income below &pound;42,875. Postcode regions: CA, DH, DL, NE, SR or TS.
 &pound;4,000 per academic year.
 Open Date:
-October 2026
+Open
 Close Date:
 25 March 2027
 Durham University Military Scholarships
@@ -882,7 +882,7 @@ Glaister Northern Scholarships
 Applicants from the North East of England with a household income below &pound;42,875. Postcode regions: CA, DH, DL, LA, NE, SR, TS.
 &pound;4,000.00 per academic year.
 Open Date:
-October 2026
+Open
 Close Date:
 25 March 2027
 Global Sports Award: International Scholarship
@@ -907,7 +907,7 @@ Low household income applicants from the North East of England with a preference
 Postcode regions: DH, DL, NE, SR, TS.
 &pound;5,000.00 per academic year
 Open Date:
-October 2026
+Open
 Close Date:
 25 March 2027
 Hogan Lovells Cadwalader Scholarships
@@ -915,7 +915,7 @@ Scholarship paid directly to the recipient.
 Applicants for LLB Law or LLB Law with Foundation who have a household income below &pound;42,875. and an interest in Commercial Law.
 &pound;3,000 per eligible academic year.
 Open Date:
-October 2026
+Open
 Close Date:
 18 March 2027
 Keep Making History - Norman Jackson Scholarship
@@ -964,7 +964,7 @@ Low household income applicants from the North East of England with a preference
 Postcode regions: CA, DH, DL, NE, SR, TS.
 &pound;5,000.00
 Open Date:
-October 2026
+Open
 Close Date:
 25 March 2027
 Weldon Le Huray Arts and Humanities Scholarships
@@ -972,7 +972,7 @@ Scholarship paid directly to the recipient
 Applicants with a household income below &pound;42,875. who can demonstrate an exceptional level of potential in the field of Arts and Humanities .
 &pound;5,000 per academic year.
 Open Date:
-October 2026
+Open
 Close Date:
 26 March 2027
 Weldon Le Huray Sport Scholarships
@@ -980,7 +980,7 @@ Scholarship paid directly to the recipient
 Applicants with a household income below &pound;42,875. who can demonstrate an exceptional level of excellence in Sport; such as events at a national or international level.
 &pound;5,000 per academic year.
 Open Date:
-October 2026
+Open
 Close Date:
 12 March 2027
 Durham University makes every effort to ensure that the information published or contained on its website is accurate. However, the University cannot guarantee the information may not subsequently be altered owing to circumstances beyond the University's reasonable control. Such circumstances include (but are not limited to) changes in Government policy or change of law. Whilst any changes will be incorporated into the University's website any person wishing to clarify the details of a particular scholarship/s should contact scholarships.advice@durham.ac.uk .

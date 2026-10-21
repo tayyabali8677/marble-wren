@@ -1,106 +1,31 @@
 ===== SOURCE PAGE: https://ec.europa.eu/info/funding-tenders/opportunities/portal/ =====
-Server temporarily unavailable
-Server inaccessibility
-bg български
-Сървърът е временно недостъпен
-Извиняваме се за неудобството. Моля, опитайте пак по-късно.
-cs čeština
-Server je dočasně nedostupný
-Omlouváme se za způsobené nepříjemnosti. Zkuste to prosím znovu později.
-da dansk
-Serveren er midlertidigt utilgængelig
-Vi undskylder ulejligheden. Prøv igen senere.
-de
-Deutsch
-Der Server ist vorübergehend nicht verfügbar
-Wir entschuldigen uns für etwaige Unannehmlichkeiten. Bitte
-versuchen Sie es später noch einmal.
-el
-Ελληνικά
-Ο διακομιστής δεν είναι διαθέσιμος προσωρινά
-Ζητούμε συγγνώμη για τυχόν προβλήματα. Δοκιμάστε ξανά αργότερα.
-en
-English
-The server is temporarily unavailable
-We apologise for any inconvenience. Please try again later.
-es
-español
-El servidor no está disponible temporalmente
-Le rogamos disculpe las molestias. Vuelva a intentarlo más
-tarde.
-et
-eesti
-Server ei ole ajutiselt kättesaadav
-Palume vabandust tekkinud ebamugavuste pärast. Palun proovige
-hiljem uuesti.
-fi
-suomi
-Palvelin on väliaikaisesti poissa käytöstä
-Pahoittelemme mahdollista haittaa. Yritä myöhemmin uudelleen.
-fr
-français
-Le serveur est temporairement indisponible
-Veuillez nous excuser pour ce désagrément. Merci de réessayer
-plus tard.
-ga
-Gaeilge
-Níl fáil ar an bhfreastalaí i láthair na huaire
-Is oth linn an chiotaí. Bain triail as arís ar ball.
-hr
-hrvatski
-Poslužitelj je privremeno nedostupan
-Ispričavamo se zbog neugodnosti. Pokušajte ponovno kasnije.
-hu
-magyar
-A szerver átmenetileg nem érhető el, kérjük, próbálkozzon újra
-később
-Az esetleges kellemetlenségekért elnézését kérjük.
-it
-italiano
-Il server è temporaneamente non disponibile
-Ci scusiamo per il disagio arrecato. Riprovare più tardi.
-lt
-lietuvių
-Serveris laikinai neveikia
-Atsiprašome už nepatogumus. Bandykite dar kartą vėliau.
-lv
-latviešu
-Serveris pagaidām nav pieejams
-Atvainojamies par neērtībām. Mēģiniet vēlreiz vēlāk.
-mt
-Malti
-Is-server mhux disponibbli temporanjament
-Niskużaw ruħna għal kwalunkwe inkonvenjenza. Jekk jogħġbok erġa’
-pprova aktar tard.
-nl
-Nederlands
-De server is tijdelijk niet beschikbaar
-Onze excuses voor het ongemak. Probeer het later nog een keer.
-pl
-polski
-Serwer jest tymczasowo niedostępny
-Przepraszamy za wszelkie niedogodności. Proszę spróbować
-później.
-pt
-português
-O servidor está temporariamente indisponível
-Pedimos desculpa pelo incómodo. Volte a tentar mais tarde.
-ro
-română
-Serverul este temporar indisponibil
-Ne cerem scuze pentru eventualele inconveniente. Vă rugăm să
-reîncercați mai târziu.
-sk
-slovenčina
-Server je dočasne nedostupný
-Ospravedlňujeme sa za prípadné problémy, ktoré môžu v dôsledku
-toho vzniknúť.
-sl
-slovenščina
-Strežnik je začasno nedosegljiv
-Opravičujemo se za morebitne nevšečnosti. Poskusite ponovno
-pozneje.
-sv
-svenska
-Servern är inte tillgänglig för tillfället
-Vi ber om ursäkt för besväret. Försök igen senare.
+Title: EU Funding & Tenders Portal
+
+URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
+
+Published Time: Mon, 19 Oct 2026 10:27:08 GMT
+
+Markdown Content:
+Discover the funding & tenders opportunities
+
+Find out how to participate by following [these key steps](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/how-to-participate/1).
+
+[Find calls for proposals](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals)
+Explore the available EU funding opportunities by searching for calls for proposals within your topics of interest, find partners and submit a proposal.
+
+[Find calls for tenders](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders)
+Find business opportunities in the calls for tenders managed by EU institutions, bodies and agencies.
+
+[View projects and results](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-results)
+Browse through EU funded projects and learn about the results. Invest in opportunities and get inspired by the highlights and success stories.
+
+[Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
+Proposals and projects need evaluations, monitoring and domain-specific knowledge advice from experts.
+
+EU programmes involved
+
+![Image 1: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
+
+Discover the range of EU Programmes, a wide variety of EU funding opportunities implemented through the 2021-2027 multiannual financial framework, divided by heading and cluster. Access specific EU funding Programme's information, from reference documents to eligibility criteria and guidelines for participants or projects and results.
+
+[View all EU programmes](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes)

@@ -91,7 +91,7 @@ Markdown Content:
         *   [Graduate School of Business](https://uct.ac.za/students/study-uct-degrees-diplomas-graduate-school-business/graduate-school-business-postgraduate)
             *   [Graduate School of Business: postgraduate](https://uct.ac.za/students/study-uct-degrees-diplomas-graduate-school-business/graduate-school-business-postgraduate)
 
-        *   [Short courses & lifelong learning](https://uct.ac.za/students/study-uct-short-courses/continuing-education)
+        *   [Short courses & lifelong learning](https://uct.ac.za/short-courses-lifelong-learning)
 
     *   [UCT entrepreneurship ecosystem](https://uct.ac.za/students/empower-future)
         *   [Empower the future](https://uct.ac.za/students/empower-future)

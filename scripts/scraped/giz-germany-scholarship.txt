@@ -3,6 +3,8 @@ Title: 404
 
 URL Source: https://www.giz.de/en/workingwithgiz/scholarships.html
 
+Published Time: Wed, 21 Oct 2026 11:23:53 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

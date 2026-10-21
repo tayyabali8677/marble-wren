@@ -1,177 +1,153 @@
 ===== SOURCE PAGE: https://www.uni-freiburg.de/en/study/scholarships =====
-Title: Page not found – University of Freiburg
-
-URL Source: https://www.uni-freiburg.de/en/study/scholarships
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-[](https://www.uni-freiburg.de/en "University of Freiburg homepage")
-
- Menu 
-
-[](https://www.uni-freiburg.de/en "University of Freiburg homepage")
-
- Menu 
-
-1.   [University of Freiburg](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
-
-1.   [](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
-
-1.   [University of Freiburg](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
-
-*    Menu 
-*   [Search](https://uni-freiburg.de/en/?q=)
-*    Language 
-*    Service 
-
-Welcome to the new website of the University of Freiburg
-
-Dear visitor
-
-As part of the website relaunch, the pages on [uni-freiburg.de/en](https://uni-freiburg.de/en) have been reorganized. The content you are looking for may now be in a different location. Please use the site search to find what you are looking for.
-
-## The page could not be found.
-
-It seems that nothing was found at this location. Would you like to start a search?
-
- Search:  
-
-- [x]  Page  
-
-- [x]  News  
-
-### More search options
-
-[Person Search](https://uni-freiburg.link/personensuche)
-
-Campus Management System
-
-[UB-Search](https://www.ub.uni-freiburg.de/recherche)
-
-Catalogs, Databases, Portals of the University Library
-
-[FreiDok Plus](https://freidok.uni-freiburg.de/)
-
-Publication platform, university bibliography, and research documentation system
-
-[Freikon](https://freikon.uni-freiburg.de/)
-
-Image Database
-
-[Service A-Z in Administration](https://uni-freiburg.link/saz)
-
-Intranet
-
-[Course Catalog](https://uni-freiburg.link/vvz)
-
-[Video Portal](https://videoportal.uni-freiburg.de/)
-
- Media credits 
-
-![Image 1: Logo of Epicur](https://uni-freiburg.de/en/wp-content/uploads/sites/61/Epicur-Header-inline-1568x1045-1-e1724228907195.jpg)
-
-Epicur
-
-![Image 2: Logo of Eucor](https://uni-freiburg.de/en/wp-content/uploads/sites/61/eucor.png)
-
-Eucor
-
-![Image 3: Logo of German U15](https://uni-freiburg.de/en/wp-content/uploads/sites/61/u15.png)
-
-German U15
-
-![Image 4: Logo of Charta der Vielfalt](https://uni-freiburg.de/en/wp-content/uploads/sites/61/charta-1.png)
-
-Charta der Vielfalt
-
-![Image 5: Logo of LeRu21](https://uni-freiburg.de/en/wp-content/uploads/sites/61/leru.png)
-
-LeRu
-
-![Image 6: Logo of Total Equality](https://uni-freiburg.de/en/wp-content/uploads/sites/61/diversity.png)
-
+2026-10-21 10:39: Maßnahme im Zusammenhang mit der kritischen Schwachstelle PHP (CVE-2026-109618 und CVE-2026-109619) — Rechenzentrum
+English
+Deutsch
+Menü
+Rechenzentrum
+Website durchsuchen
+nur im aktuellen Bereich
+Erweiterte Suche…
+Sie sind hier:
+Startseite
+›
+…
+›
+News & Störmeldungen
+›
+Störmeldungen
+›
+2026-10-21 10:39: Maßnahme im …
+Info
+2026-10-21 10:39: Maßnahme im Zusammenhang mit der kritischen Schwachstelle PHP (CVE-2026-109618 und CVE-2026-109619)
+#ufrstatus #wartung #stoerung Aufgrund kurzfristig bekannt gewordener Sicherheitslücken in der weit verbreiteten Programmiersprache PHP müssen am heutigen Mittwoch, 21. Oktober 2026, vorsorglich verschiedene Websites und zentrale Dienste der Universität Freiburg abschaltet werden. Auf den abgeschalteten Websites ist eine Weiterleitung auf diese Seite eingerichtet worden.
+Warum Sie diese Seite sehen:
+Die Universität Freiburg hat wie derzeit zahlreiche andere Universitäten und Organisationen reagiert und PHP-basierte Systeme vom Netz genommen, so auch die zentralen Webseiten der Universität.
+Dies ist eine Reaktion aufgrund einer kurzfristig bekannt gewordenen Sicherheitslücken in der weit verbreiteten Programmiersprache PHP. Wir müssen am heutigen Mittwoch, 21. Oktober 2026, vorsorglich verschiedene Websites und zentrale Dienste der Universität Freiburg abschalten, um unsere IT-Systeme und Daten zu schützen. Verschiedene Angebote werden daher vorübergehend nicht erreichbar sein.
+Die Sicherheitslücken betreffen grundsätzlich alle Einrichtungen und Organisationen weltweit, die PHP-basierte Systeme einsetzen. Die PHP Foundation hat für heute Nachmittag Sicherheitsupdates angekündigt, mit denen die Schwachstellen behoben werden sollen. Sobald diese verfügbar sind, wird das Rechenzentrum der Universität die Updates einspielen und die Dienste überprüfen. Admins von dezentralen Systemen aller Institute und Einrichtungen sind angehalten, sich ebenfalls um die Aktualisierung der von Ihnen betreuten Systeme zu kümmern.
+Die Lücke wirde von den PHP-Autoren selbst als hoch kritisch eingestuft (CVSS 9.2). Die Schwachstellen erlauben einem entfernten Angreifer die Ausführung von beliebigem Code (Remote Code Execution, RCE). Technische Details sind bisher noch nicht bekannt, und erst für den Nachmittag angekündigt.
+Auswirkungen:
+Ein Team von Expert*innen der Universität beobachtet die Situation fortlaufend und arbeitet daran, die betroffenen Angebote schnellstmöglich wieder sicher bereitzustellen, sobald entsprechende Patches zur Verfügung stehen.
+Folgende Dienste sind aktuell betroffen:
+Websites, die mit WordPress des Website-Relaunchs betrieben werden
+Alle Webseiten, die auf sonstigen Webservern des Rechenzentrums liegen
+Dienste, die einen Login über MyLogin erfordern, wie etwa das Intranet
+Lernplattform ILIAS
+Zugriff auf die Webmail studentische Mailadressen (da MyLogin nicht verfügbar)
+Dienste der Universitätsbibliothek
+Weitere Systeme sind betroffen, sofern sie PHP einsetzen.
+Update: 21. Oktober, 18 Uhr
+​ Die PHP Foundation hat heute Nachmittag wie angekündigt Details zu den Sicherheitslücken bekanntgegeben. Diese bestätigen, dass die von der Universität Freiburg getroffenen Vorsichtsmaßnahmen begründet sind. Zudem wurden von der PHP Foundation Patches zur Behebung veröffentlicht. Diese werden nun schrittweise in den jeweiligen Betriebssystemen als Update s zur Verfügung gestellt. Alle betroffenen Systeme werden nun aktualisiert. Im Anschluss wird sorgfältig und umfassend geprüft, ob die Systeme voll funktionsfähig sind und online gehen können. Das soll schrittweise ab dem morgigen Vormittag geschehen.
+Handlungsempfehlungen
+Wir bitten alle dezentralen Administratoren, ihre eigenen PHP-Systeme ebenfalls mit den bereitgestellten Update zu versorgen und dies noch vorsorglich bis morgen Vormittag noch offline zu belassen (Dienste sollten für Dritte nicht mehr erreichbar sein).
+Prüfen Sie, ob und wo Sie PHP-basierte Dienste einsetzen, ob für Ihre Serverdistribution bereits Patches verfügbar sind.
+Testen und installieren Sie Sicherheitsupdates sobald verfügbar.
+Solange keine Patches verfügbar sind: Schränken Sie weiterhin die Zugriffsmöglichkeiten ein oder - soweit möglich - schalten Sie entsprechende Server ab, bis Sicherheitsupdates bereitstehen.
+Aktuelle Informationen zu den Updates finden sich unter https://www.php.net/archive/2026.php#2026-10-20-1
+Wir werden die Seite um weitere Informationen ergänzen, sobald Sie uns vorliegen.
+Ihr RZ-Team
+Wichtige Links
+myAccount
+Lernplattform ILIAS
+Videokonferenz BBB
+Campus-Management-System HISinOne
+RZ-Wiki
+CMS-Support
+BW-PC
+Startseite
+Schnellzugriff
+Aktuelles zu Services des Rechenzentrums
+Telefonkonferenzen mit universitätseigenen Ressourcen einfach und schnell nutzen
+Werkzeugkasten Digitale Lehre
+Videokonferenzplattformen
+Flyer: Services und Adressen für Studierende
+Informationen für...
+Admin/IT-Beauftragte
+Mitarbeitende
+Wir über uns
+News & Störmeldungen
+Unser Auftrag
+Organisation
+Öffnungszeiten
+Ihr Weg zu uns
+Publikationen
+Barrierefreiheit
+Services
+Beschaffung
+Campus Management HISinOne
+Druckservice
+E-Learning
+Forschungsunterstützung / Scientific Computing
+HPC / Rechenressourcen
+Landesweite IT-Services
+Leihgeräte
+KI
+Machine-Hosting
+Medientechnik
+Netz&Telefon
+PC-Arbeitsplätze
+Serverdienste
+Sicherheit
+UniAccount
+UniCards
+Speicherdienste
+Projekte
+Kosmic-Kompetenzorientierte Online-Selbstlernangebote für Mathematik, Interkulturalität und Chemie
+Freiräume für wissenschaftliche Weiterbildung
+Kurse
+Kurse des Rechenzentrums
+... für Mitarbeiter/innen
+Helpcenter
+Dienste von A-Z
+Downloads des RZ
+Studentische Beratung
+Ansprechstellen
+Wiki
+permanente Links
+Informationssicherheit
+ZUV-EDV-Support
+Navigation
+Aktuelles zu Services des Rechenzentrums
+Informationen für...
+Wir über uns
+News & Störmeldungen
+Nachrichten & Informationen
+Störmeldungen
+Nachrichten Archiv
+Nachrichten zu Phishingsites
+Unser Auftrag
+Organisation
+Öffnungszeiten
+Ihr Weg zu uns
+Publikationen
+Barrierefreiheit
+Services
+Projekte
+Kurse
+Helpcenter
+Informationssicherheit
+ZUV-EDV-Support
+Wichtige Links
+myAccount
+Lernplattform ILIAS
+Videokonferenz BBB
+Campus-Management-System HISinOne
+RZ-Wiki
+CMS-Support
+BW-PC
+Übersicht
+Barrierefreiheit
+Kontakt
+Impressum
+A
+A
+A
+Copyright ©
+2026
 Universität Freiburg
-
-*   [![Image 7: Logo of Epicur](https://uni-freiburg.de/en/wp-content/uploads/sites/61/Epicur-Header-inline-1568x1045-1-e1724228907195.jpg)](https://epicur.edu.eu/)
-*   [![Image 8: Logo of Eucor](https://uni-freiburg.de/en/wp-content/uploads/sites/61/eucor.png)](https://www.eucor-uni.org/en/)
-*   [![Image 9: Logo of German U15](https://uni-freiburg.de/en/wp-content/uploads/sites/61/u15.png)](https://www.german-u15.de/en/index.html)
-*   [![Image 10: Logo of Charta der Vielfalt](https://uni-freiburg.de/en/wp-content/uploads/sites/61/charta-1.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-*   [![Image 11: Logo of LeRu21](https://uni-freiburg.de/en/wp-content/uploads/sites/61/leru.png)](https://www.leru.org/)
-*   [![Image 12: Logo of Total Equality](https://uni-freiburg.de/en/wp-content/uploads/sites/61/diversity.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-*   [![Image 13: Logo of Epicur](https://uni-freiburg.de/en/wp-content/uploads/sites/61/Epicur-Header-inline-1568x1045-1-e1724228907195.jpg)](https://epicur.edu.eu/)
-*   [![Image 14: Logo of Eucor](https://uni-freiburg.de/en/wp-content/uploads/sites/61/eucor.png)](https://www.eucor-uni.org/en/)
-*   [![Image 15: Logo of German U15](https://uni-freiburg.de/en/wp-content/uploads/sites/61/u15.png)](https://www.german-u15.de/en/index.html)
-*   [![Image 16: Logo of Charta der Vielfalt](https://uni-freiburg.de/en/wp-content/uploads/sites/61/charta-1.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-*   [![Image 17: Logo of LeRu21](https://uni-freiburg.de/en/wp-content/uploads/sites/61/leru.png)](https://www.leru.org/)
-*   [![Image 18: Logo of Total Equality](https://uni-freiburg.de/en/wp-content/uploads/sites/61/diversity.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-*   [![Image 19: Logo of Epicur](https://uni-freiburg.de/en/wp-content/uploads/sites/61/Epicur-Header-inline-1568x1045-1-e1724228907195.jpg)](https://epicur.edu.eu/)
-*   [![Image 20: Logo of Eucor](https://uni-freiburg.de/en/wp-content/uploads/sites/61/eucor.png)](https://www.eucor-uni.org/en/)
-*   [![Image 21: Logo of German U15](https://uni-freiburg.de/en/wp-content/uploads/sites/61/u15.png)](https://www.german-u15.de/en/index.html)
-*   [![Image 22: Logo of Charta der Vielfalt](https://uni-freiburg.de/en/wp-content/uploads/sites/61/charta-1.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-*   [![Image 23: Logo of LeRu21](https://uni-freiburg.de/en/wp-content/uploads/sites/61/leru.png)](https://www.leru.org/)
-*   [![Image 24: Logo of Total Equality](https://uni-freiburg.de/en/wp-content/uploads/sites/61/diversity.png)](https://uni-freiburg.de/en/university/equity-diversity-inclusion/)
-
-1.   [Contact](https://uni-freiburg.de/en/university/contact-and-directory/contact/)
-2.   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-3.   [Imprint](https://uni-freiburg.de/en/imprint/)
-4.   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-5.   [Emergency assistance](https://uni-freiburg.de/en/university/emergency-assistance/)
-6.   [Directions and opening hours](https://uni-freiburg.de/en/maps/)
-7.   [Service disruptions](https://uni-freiburg.info/)
-
-[](https://www.uni-freiburg.de/en)
-Visitor address: Friedrichstraße 39, 79098 Freiburg   
- Postal address: Postfach, 79085 Freiburg
-
- Social Media 
-
-*   [Imprint](https://uni-freiburg.de/en/imprint/)
-*   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-*   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-
-*   [Contact](https://uni-freiburg.de/en/university/contact-and-directory/contact/)
-*   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-*   [Imprint](https://uni-freiburg.de/en/imprint/)
-*   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-*   [Emergency assistance](https://uni-freiburg.de/en/university/emergency-assistance/)
-*   [Maps](https://uni-freiburg.de/en/maps/)
-
-*   [Imprint](https://uni-freiburg.de/en/imprint/)
-*   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-*   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-
-## University of Freiburg
-
-*   [Facebook unifreiburg](https://www.facebook.com/unifreiburg)
-*   [Instagram @unifreiburg](https://www.instagram.com/unifreiburg)
-*   [Mastodon @unifreiburg@bawü.social](https://xn--baw-joa.social/@unifreiburg)
-*   [Bluesky uni-freiburg.de](https://bsky.app/profile/uni-freiburg.de)
-*   [YouTube UniversitätFreiburg](https://www.youtube.com/c/Universit%C3%A4tFreiburg)
-*   [LinkedIn albert-ludwigs-universitaet-freiburg](https://www.linkedin.com/school/albert-ludwigs-universitaet-freiburg)
-
-*   [Imprint](https://uni-freiburg.de/en/imprint/)
-*   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-*   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-
-*   [Deutsch](https://www.uni-freiburg.de/en/study/scholarships)
-*   [English](https://www.uni-freiburg.de/en/study/scholarships)
-
-*   [Imprint](https://uni-freiburg.de/en/imprint/)
-*   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
-*   [Accessibility](https://uni-freiburg.de/en/accessibility/)
-
-Language
-*   [Deutsch](https://www.uni-freiburg.de/en/study/scholarships)
-*   [English](https://www.uni-freiburg.de/en/study/scholarships)
-
-Search
-
- Search:  
-
-- [x]  Page  
-
-- [x]  News
+Anmelden
+Quelle:
+2026-10-21 10:39: Maßnahme im Zusammenhang mit der kritischen Schwachstelle PHP (CVE-2026-109618 und CVE-2026-109619) — Rechenzentrum
+https://www.rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-10-21-10-39-massnahme-im-zusammenhang-mit-der-kritischen-schwachstelle-php-cve-2026-109618-und-cve-2026-109619
+(
+21.10.2026
+)

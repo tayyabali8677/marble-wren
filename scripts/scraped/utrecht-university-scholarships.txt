@@ -26,7 +26,7 @@ Search
 
 ## Breadcrumb
 
-1.   [UU.nl](https://www.uu.nl/en)
+1.   [Home](https://www.uu.nl/en)
 2.   Page not available (Error 404)
 
 ![Image 3: students cycling on the street](https://www.uu.nl/sites/default/files/styles/image_1600x400/public/ubd-ssst-1600x400.jpg?itok=dgUMfCBE)

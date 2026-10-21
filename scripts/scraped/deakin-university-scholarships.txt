@@ -50,8 +50,7 @@ Menu
 
     *   [Research guide](https://www.deakin.edu.au/research)
         *   Back[Research guide](https://www.deakin.edu.au/research) 
-        *   [Research degrees and PhDs](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
-        *   [Recognition of prior learning](https://www.deakin.edu.au/study/research-guide/recognition-of-prior-learning)
+        *   [Research degrees and PhDs](https://www.deakin.edu.au/study/research-guide/research-degrees-and-phds)
 
     *   [Study online guide](https://www.deakin.edu.au/study/study-online)
         *   Back[Study online guide](https://www.deakin.edu.au/study/study-online) 
@@ -289,8 +288,7 @@ Menu
 
 [Research guide](https://www.deakin.edu.au/research)
 
-    *   [Research degrees and PhDs](https://www.deakin.edu.au/research/research-degrees/find-a-research-degree-or-phd)
-    *   [Recognition of prior learning](https://www.deakin.edu.au/study/research-guide/recognition-of-prior-learning)
+    *   [Research degrees and PhDs](https://www.deakin.edu.au/study/research-guide/research-degrees-and-phds)
 
 [Study online guide](https://www.deakin.edu.au/study/study-online)
 

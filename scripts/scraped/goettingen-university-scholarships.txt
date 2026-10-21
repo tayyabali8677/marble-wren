@@ -1,38 +1,58 @@
 ===== SOURCE PAGE: https://www.uni-goettingen.de/en/scholarships+and+financial+support/84697.html =====
-Title: 404 Not Found – 🙈
-
-URL Source: https://www.uni-goettingen.de/en/scholarships+and+financial+support/84697.html
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-[![Image 1: Georg-August-Universität Göttingen](https://www.uni-goettingen.de/img/redesign/logo.svg)](https://www.uni-goettingen.de/)In publica commoda
-
-# 404 Not Found – 🙈
-
-Die angeforderte Seite/Datei konnte nicht gefunden werden.
-
-### Kontakt
-
- Georg-August-Universität Göttingen  
- Wilhelmsplatz 1  
- 37073 Göttingen  
- Tel. +49 551 39-0 
-
-### Online-Dienste
-
-*   [Vorlesungsverzeichnis und Personensuche (UniVZ)](https://univz-archiv.uni-goettingen.de/)
-*   [Prüfungsverwaltung (FlexNow)](https://www.uni-goettingen.de/de/45574.html)
-*   [Lernmanagement (Stud.IP)](https://studip.uni-goettingen.de/)
-*   [Studierendenportal (eCampus)](https://ecampus.uni-goettingen.de/)
-*   [Mitarbeiterinnen- und Mitarbeiterportal (MaP)](https://intern.uni-goettingen.de/)
-*   [Stellenausschreibungen](https://www.uni-goettingen.de/de/305223.html)
-*   [Stellenwerk Göttingen](https://www.stellenwerk-goettingen.de/)
-
-### Service
-
-1.   [Datenschutz](https://www.uni-goettingen.de/de/439479.html)
-2.   [Kontakt](https://www.uni-goettingen.de/de/545353.html)
-3.   [Notfall](https://www.uni-goettingen.de/de/100652.html)
-4.   [Lageplan](http://www.geodata.uni-goettingen.de/lageplan/)
-5.   [Impressum](https://www.uni-goettingen.de/de/105.html)
+Notfallkommunikation der Universität Göttingen
+Zum Inhalt springen
+Notfallkommunikation der Universität Göttingen
+Main Menu
+Globale Sicherheitslücke &#8211; www.uni-goettingen.de vorübergehend abgeschaltet
+Impressum
+Globale Sicherheitslücke &#8211; www.uni-goettingen.de vorübergehend abgeschaltet
+Aufgrund einer aktuellen Sicherheitslücke, von der weltweit zahlreiche Server betroffen sind, haben wir die Webseite der Georg-August-Universität Göttingen vorübergehend offline genommen. Es handelt sich um eine Vorsichtsmaßnahme, um die Sicherheit der Daten und der IT-Infrastruktur der Universität Göttingen gewährleisten zu können.
+Wir arbeiten mit Hochdruck an einer Lösung und hoffen, dass wir schnellstmöglich mit dem gewohnten Service zur Verfügung stehen.
+Bis dahin informieren wir Sie auf dieser Notfall-Seite über aktuelle Entwicklungen, Kontaktmöglichkeiten und die Verfügbarkeit einzelner Webservices.
+Mit Fragen wenden Sie sich bitte per E-Mail an oeffentlichkeitsarbeit@uni-goettingen.de , per Telefon an 0551 39-24341 (Thomas Richter).
+Sie finden keine Telefonnummer der Einrichtung oder Ansprechpartner*innen, die Sie erreichen möchten? Lassen Sie sich bitte über unsere Telefonzentrale 0551 39-0 vermitteln.
+Bei Notfällen und Störungen rufen Sie bitte die Störmeldezentrale an: 0551 39-20000.
+Es ist gut möglich, dass in den kommenden Tagen diese Situation ausgenutzt wird und Sie verstärkt Phishing-Mails erhalten oder auf Webseiten geleitet werden, die vorgeben, zur Universität zu gehören. Wir werden ausschließlich über diese Webseite und über unsere social media Kanäle kommunizieren.
+Ihr Team aus Web-Redaktion & Öffentlichkeitsarbeit
+21.10.2026 17:30 Uhr
+Global security vulnerability: www.uni-goettingen.de temporarily taken offline
+Due to a current security vulnerability affecting numerous servers worldwide, we have temporarily taken the website of the University of Göttingen offline. This is a precautionary measure to protect the security of the University of Göttingen’s data and IT infrastructure.
+We are working intensively on a solution and hope to restore our usual service as soon as possible.
+Until then, our emergency page (this page here) will keep you informed about current developments, ways to contact us, and the availability of individual web services.
+If you have any questions, please email oeffentlichkeitsarbeit@uni-goettingen.de or call extension +49 551 39-24341 (Thomas Richter).
+In case of emergencies or technical faults, please call the Fault Reporting Centre: +49 551 39-20000.
+Please be aware that this situation may be exploited in the coming days. You may receive more phishing emails or be directed to websites that falsely claim to belong to the University. We will communicate exclusively via this website and our social media channels.
+Your Web Editorial & Public Relations Team
+21 October 2026, 5:30 p.m.
+Dienst-Ampel-Liste
+Service Status Dashboard
+Erreichbarkeit innerhalb des Netzwerks der Universität Göttingen
+Webseite der Universität
+Nicht verfügbar
+Aufgrund einer aktuellen, kritischen PHP-Sicherheitslücke präventiv abgeschaltet. Wir warten auf die von den Herstellern zur Verfügung gestellten, aktualisierten Versionen.
+eCampus
+Verfügbar
+StudIP
+Nicht verfügbar
+Aufgrund einer aktuellen, kritischen PHP-Sicherheitslücke präventiv abgeschaltet. Wir warten auf die von den Herstellern zur Verfügung gestellten, aktualisierten Versionen.
+FlexNow
+Verfügbar
+Lageplan
+Verfügbar
+Niedersächsische Staats- und Universitätsbibliothek Göttingen
+Verfügbar
+Newsletter
+Nicht verfügbar
+Aufgrund einer aktuellen, kritischen PHP-Sicherheitslücke präventiv abgeschaltet. Wir warten auf die von den Herstellern zur Verfügung gestellten, aktualisierten Versionen.
+Hochschulsport
+Verfügbar
+Stellenportal
+Verfügbar
+Statusseite der Services der GWDG: https://status.gwdg.de/
+Kontakt
+Georg-August-Universität Göttingen
+Wilhelmsplatz 1 (Aula)
+37073 Göttingen
+Tel. 0551 39-0
+Impressum
+Scroll to Top

@@ -18,7 +18,7 @@ Header
 
 Switch target audience: 
 *   [For Students](https://www.students.uzh.ch/en.html)
-*   [For Staff](https://uzh.sharepoint.com/sites/uzhub)
+*   [For Staff](https://uzh.sharepoint.com/sites/uzhub/SitePages/en/Home.aspx)
 
 ## Section navigation
 

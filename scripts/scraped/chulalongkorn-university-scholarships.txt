@@ -6,7 +6,7 @@ URL Source: https://www.inter.chula.ac.th/in/scholarship/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[The Office of International Affairs and Global Network](https://www.inter.chula.ac.th/)
+[](https://www.inter.chula.ac.th/)[The Office of International Affairs and Global Network](https://www.inter.chula.ac.th/)
 
 *   [CUBIC](https://cubic.inter.chula.ac.th/)
 *   [Summer Camp](https://www.inter.chula.ac.th/chula-summer-camp/)

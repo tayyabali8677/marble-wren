@@ -3,6 +3,8 @@ Title: Page not found (404) | University of Helsinki
 
 URL Source: https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs
 
+Published Time: Wed, 21 Oct 2026 03:42:26 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

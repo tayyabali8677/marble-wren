@@ -4,10 +4,6 @@ Title: Sorry, the page you requested could not be found
 URL Source: https://www.qmul.ac.uk/international/international-students/fees-and-funding/
 
 Markdown Content:
-We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy. You can change your cookie settings at any time by clicking “Preferences.” 
-
-Accept
-
 [honeypot link](https://4xvmpmomo3.execute-api.us-east-1.amazonaws.com/ProdStage)[Skip to main content](https://www.qmul.ac.uk/international/international-students/fees-and-funding/#main-content)
 
 [](https://www.qmul.ac.uk/international/international-students/fees-and-funding/#)
@@ -291,4 +287,4 @@ Queen Mary University of London
 
 [Back to top](https://www.qmul.ac.uk/international/international-students/fees-and-funding/#top)
 
-![Image 6](https://bat.bing.com/action/0?ti=85083482&tm=gtm002&Ver=2&mid=db576dbc-188d-4b22-bc2d-0dc018734b81&bo=1&sid=dce0de20cd0011f18090f749e2f6cfd3&vid=dce10e50cd0011f18998e316b276b75b&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Sorry,%20the%20page%20you%20requested%20could%20not%20be%20found%20-%20Queen%20Mary%20University%20of%20London&p=https%3A%2F%2Fwww.qmul.ac.uk%2Finternational%2Finternational-students%2Ffees-and-funding%2F&r=&lt=402&evt=pageLoad&sv=2&cdb=AQAS&rn=288013)
+![Image 6](https://bat.bing.com/action/0?ti=85083482&tm=gtm002&Ver=2&mid=e7cfe536-9b2f-402b-9375-ff9b31126552&bo=1&sid=e70dd1b0cd7111f1b1973d5a4764a8fd&vid=e70df6a0cd7111f19ac725c8ffc1540c&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Sorry,%20the%20page%20you%20requested%20could%20not%20be%20found%20-%20Queen%20Mary%20University%20of%20London&p=https%3A%2F%2Fwww.qmul.ac.uk%2Finternational%2Finternational-students%2Ffees-and-funding%2F&r=&lt=223&evt=pageLoad&sv=2&cdb=AQAS&rn=695565)

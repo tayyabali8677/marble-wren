@@ -53,14 +53,14 @@ Menu
     *   [SCHOOL OF SCIENCE](https://en.uoa.gr/schools_and_departments/school_of_science "School of Science")
     *   [SCHOOL OF THEOLOGY](https://en.uoa.gr/schools_and_departments/school_of_theology "School of Theology")
 
-*   [STUDIES](https://en.uoa.gr/studies "Studies")
-    *   [UNDERGRADUATE PROGRAMS](https://en.uoa.gr/studies/undergraduate_programs "Undergraduate Programs")
-    *   [POSTGRADUATE PROGRAMS](https://en.uoa.gr/studies/postgraduate_programs "Postgraduate Programs")
+*   [STUDY](https://en.uoa.gr/study "Study")
+    *   [UNDERGRADUATE STUDY](https://en.uoa.gr/study/undergraduate_study "Undergraduate Study")
+    *   [POSTGRADUATE PROGRAMMES](https://en.uoa.gr/study/postgraduate_programmes "Postgraduate Programmes")
     *   [CYPRUS BRANCH](https://cy-en.uoa.gr/ "Cyprus Branch")
-    *   [MASTER PROGRAMS IN VARIOUS LANGUAGES](https://en.uoa.gr/studies/master_programs_in_various_languages "Master Programs in Various Languages")
-    *   [ACADEMIC CALENDAR](https://en.uoa.gr/studies/academic_calendar "Academic Calendar")
-    *   [LIFELONG LEARNING](https://en.uoa.gr/studies/lifelong_learning "Lifelong Learning")
-    *   [SUMMER SCHOOLS](https://en.uoa.gr/studies/summer_schools "Summer Schools")
+    *   [NON-GREEK-TAUGHT PROGRAMMES](https://en.uoa.gr/study/non_greek_taught_programmes "NON-GREEK-TAUGHT PROGRAMMES")
+    *   [ACADEMIC CALENDAR](https://en.uoa.gr/study/academic_calendar "Academic Calendar")
+    *   [LIFELONG LEARNING](https://en.uoa.gr/study/lifelong_learning "Lifelong Learning")
+    *   [SUMMER COURSE IN MODERN GREEK STUDIES](https://en.uoa.gr/study/summer_course_in_modern_greek_studies "SUMMER COURSE IN MODERN GREEK STUDIES")
 
 *   [ANNOUNCEMENTS AND EVENTS](https://en.uoa.gr/announcements_and_events "ANNOUNCEMENTS AND EVENTS")
     *   [TOP PICKS](https://en.uoa.gr/announcements_and_events/top_picks "Top Picks")
@@ -126,9 +126,9 @@ You can use search or go back to our [homepage](https://www.uoa.gr/).
 
 ## Studies:
 
-*   [All Master Programs](https://en.uoa.gr/studies/postgraduate_programs)
-*   [Master Programs in English](https://en.uoa.gr/studies/master_programs_in_various_languages)
-*   [Summer Schools](https://en.uoa.gr/studies/summer_schools)
+*   [All Master Programs](https://en.uoa.gr/study/postgraduate_programmes)
+*   [Master Programs in English](https://en.uoa.gr/study/non_greek_taught_programmes)
+*   [Summer Schools](https://en.uoa.gr/study/summer_course_in_modern_greek_studies)
 *   [Modern Greek Language Teaching Center](http://en.greekcourses.uoa.gr/)
 
 ## Services:

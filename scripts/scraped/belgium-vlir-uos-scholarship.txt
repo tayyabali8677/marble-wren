@@ -23,7 +23,7 @@ ICP Connect study programmes are accredited international study programmes. We a
 The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026. The list of available programmes and the application deadlines for each programme will be updated then.
 Can I apply?
 Candidates that meet the following criteria* may apply for an ICP Connect scholarship:
-Nationality and country of residence: Candidates must hold nationality from one of the 28 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
+Nationality and country of residence: Candidates must hold nationality from one of the 25 eligible countries and reside in any of these countries at the time of application (though not necessarily in their country of nationality).
 Age: Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year, while candidates for an advanced master cannot be older than 45. Additionally, candidates for a bachelor programme must be at least 19 years old by 1 January of the intake year.
 Professional background and experience: Preference will be given to candidates employed in higher education, government, or civil society, or those targeting a career in one of these sectors. Newly graduated candidates or those employed in the private sector with no work experience may also be considered if they provide strong motivation and a compelling profile.
 Scholarship applications: Candidates may apply for only one ICP Connect scholarship per year. Candidates cannot receive any other scholarship or grant to participate in this study programme or another programme simultaneously. Applying for more than one ICP Connect scholarship or receiving an extra (different) scholarship will lead to exclusion
@@ -72,7 +72,7 @@ Discover our Advanced Masters
 Master of Science in Development Evaluation and Management
 Master in Globalisation and Development
 Master in Governance and Development
-Phasing out ICP Scholarship Programmes
+No longer available for scholarship
 International Master of Science in Agro- & Environmental Nematology
 International Master of Science in Rural Development (IMRD)
 Master of Human Settlements
@@ -82,7 +82,8 @@ Master of Statistics and Data Science
 Master of science in Sustainable Development
 Master of Science in Water Resources Engineering (WRE)
 These programmes are still ongoing but will not be available for scholarship in AY 2027-2028
-Watch the Information Session
+Join our Information Session
+We will have an information session on November 26, from 14h30 - 16h30 CET . Click the link to register for the information session.
 Hear what students have to say!
 Master of Aquaculture (IMAQUA)
 Master of Cultural Anthropology and Development Studies (CADES)

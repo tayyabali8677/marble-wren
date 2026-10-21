@@ -1,35 +1,23 @@
 ===== SOURCE PAGE: https://www.daad.de =====
-Title: Deutscher Akademischer Austauschdienst
+Title: Wartungsarbeiten / Maintenance - 503 Service Unavailable
 
 URL Source: https://www.daad.de/
 
+Warning: Target URL returned error 503: Service Unavailable
+
 Markdown Content:
-Wandel durch Austausch
+## Wir sind vorübergehend offline
 
-Seit über 100 Jahren fördert der DAAD internationalen akademischen Austausch und trägt damit substanziell zum Wandel in Gesellschaft, Politik, Wirtschaft, Wissenschaft, Technik, Kunst und Kultur bei. Historische Einblicke und inspirierende Portraits von DAAD-Alumni und -Alumnae zeigen, wie Austausch die Welt gestern, heute und morgen prägt.
+Aus Vorsicht haben wir diese Website vorübergehend offline genommen, da eine kritische Sicherheitslücke in PHP bekannt wurde - einer Programmiersprache, die von einem Großteil aller Websites weltweit verwendet wird.
 
-DAAD fördert neues Zentrum für Deutschland- und Europastudien in Polen
+Es handelt sich nicht um ein Problem, das speziell diese Website betrifft.
 
-Der DAAD fördert ab dem 1. Januar 2027 den Aufbau eines neuen Zentrums für Deutschland- und Europastudien an der Universität Łódź in Polen
+Viele andere Organisationen, darunter Behörden und große Nachrichtenseiten, haben denselben Schritt unternommen. Es gibt keine Hinweise darauf, dass diese Website kompromittiert wurde oder Daten abgeflossen sind.
 
-„Roboter müssen erfassen, welche Auswirkungen ihre Handlungen in der physischen Welt haben“
+## We are temporarily offline
 
-HAW.International: Wie Wissenschaft und Wirtschaft profitieren
+As a precaution, we have temporarily taken this website offline because a critical security vulnerability has been discovered in PHP—a programming language used by the vast majority of websites worldwide.
 
-DAAD fördert Internationalisierung der Hochschulen für Angewandte Wissenschaften
+This is not a problem specific to this website.
 
-Deutschland bleibt weltweit gefragter Standort für Studium und Promotion
-
-Ankommen erleichtern: Ausländerbehörde trifft Campus
-
-Consolas and Therese took different paths – but both found support through the DAAD to pursue their academic goals. Our In-Country/In-Region Scholarship Programme offers scholarships for selected SDG- ...
-
-Zum Beitrag
-
-Raus aus dem Hörsaal – rein in die Forschung: Bewirb dich bis zum 30. November für ein Auslandspraktikum in einem internationalen Forschungsteam! Mit RISE Weltweit verbringst du den Sommer in einem ...
-
-Zum Beitrag
-
-When Science Meets Diplomacy – and Diplomacy Meets Science! Wie entstehen neue internationale Wissenschaftskooperationen? Oft beginnt alles mit einem persönlichen Gespräch. Seit 2022 bringt unsere I ...
-
-Zum Beitrag
+Many other organizations, including government agencies and major news sites, have taken the same step. There is no evidence that this website has been compromised.

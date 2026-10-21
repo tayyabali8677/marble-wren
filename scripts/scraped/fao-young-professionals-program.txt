@@ -156,19 +156,19 @@ Markdown Content:
 
 ![Image 19: Water country profile](https://www.fao.org/media/images/corporatenavigationlibraries/default-album/water.jpg?sfvrsn=bb7c2b33_13)
 
-##### [Water and agriculture country profile](https://www.fao.org/aquastat/en/countries-and-basins/country-profiles)
+##### [Water and agriculture country profile](http://www.fao.org/aquastat/en/countries-and-basins/country-profiles)
 
 FAO's Global Information System on Water and Agriculture
 
 ![Image 20: GIAHS cover](https://www.fao.org/media/images/corporatenavigationlibraries/default-album/giahs.jpg?sfvrsn=f421b7a1_11)
 
-##### [Preserving agricultural heritage around the world](https://www.fao.org/giahs/en/)
+##### [Preserving agricultural heritage around the world](http://www.fao.org/giahs/en/)
 
 Globally Important Agricultural Heritage Systems (GIAHS) are sites that have survived ...
 
 ![Image 21: FAO building](https://www.fao.org/media/images/corporatenavigationlibraries/default-album/fao-building.jpg?sfvrsn=a208ee6e_17)
 
-##### [FAO Members Gateway](https://www.fao.org/members-gateway/home/en/)
+##### [FAO Members Gateway](http://www.fao.org/members-gateway/home/en/)
 
 *   [Publications](https://www.fao.org/employment/young-professionals-programme/en/#)
 
@@ -194,11 +194,11 @@ Globally Important Agricultural Heritage Systems (GIAHS) are sites that have sur
 
 ##### Share
 
-*   [![Image 25: facebook](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-facebook.svg)](https://www.facebook.com/sharer/sharer.php?u=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fmarkets-and-trade%2fdo-not-touch%2fpublications-original(2)%2ftea-a-resilient-sector%2f9%2fen "facebook")
-*   [![Image 26: linkedin](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&title=404%20Error%20Page&url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fmarkets-and-trade%2fdo-not-touch%2fpublications-original(2)%2ftea-a-resilient-sector%2f9%2fen "linkedin")
-*   [![Image 27: pinterest](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-pinterest.svg)](https://pinterest.com/pin/create/button/?url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fmarkets-and-trade%2fdo-not-touch%2fpublications-original(2)%2ftea-a-resilient-sector%2f9%2fen&description=404%20Error%20Page "pinterest")
-*   [![Image 28: twitter](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-twitter-x.svg)](https://twitter.com/intent/tweet?text=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fmarkets-and-trade%2fdo-not-touch%2fpublications-original(2)%2ftea-a-resilient-sector%2f9%2fen "twitter X")
-*   [![Image 29: weibo](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-weibo.svg)](https://service.weibo.com/share/share.php?title=404%20Error%20Page&url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fmarkets-and-trade%2fdo-not-touch%2fpublications-original(2)%2ftea-a-resilient-sector%2f9%2fen "weibo")
+*   [![Image 25: facebook](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-facebook.svg)](https://www.facebook.com/sharer/sharer.php?u=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fppr%2fnews-and-events%2fppr-stakeholder-series%2fcalendar%2fen%2f "facebook")
+*   [![Image 26: linkedin](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-linkedin.svg)](https://www.linkedin.com/shareArticle?mini=true&title=404%20Error%20Page&url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fppr%2fnews-and-events%2fppr-stakeholder-series%2fcalendar%2fen%2f "linkedin")
+*   [![Image 27: pinterest](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-pinterest.svg)](https://pinterest.com/pin/create/button/?url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fppr%2fnews-and-events%2fppr-stakeholder-series%2fcalendar%2fen%2f&description=404%20Error%20Page "pinterest")
+*   [![Image 28: twitter](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-twitter-x.svg)](https://twitter.com/intent/tweet?text=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fppr%2fnews-and-events%2fppr-stakeholder-series%2fcalendar%2fen%2f "twitter X")
+*   [![Image 29: weibo](https://www.fao.org/ResourcePackages/FAO/assets/dist/img/social-icons/social-icon-weibo.svg)](https://service.weibo.com/share/share.php?title=404%20Error%20Page&url=http://www.fao.org/corporatepage/404/en?initialRequestUrl=http%3a%2f%2fwww.fao.org%2fcorporatepage%2f404%3f404%3bhttp%3a%2f%2fwww.fao.org%3a80%2fppr%2fnews-and-events%2fppr-stakeholder-series%2fcalendar%2fen%2f "weibo")
 *   [![Image 30: icon-wechat](https://www.fao.org/images/corporatelibraries/social-icons/social-icon-wechat.svg)](https://www.fao.org/employment/young-professionals-programme/en/# "wechat")
 
 Close

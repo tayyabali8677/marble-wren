@@ -1,15 +1,13 @@
 ===== SOURCE PAGE: https://www.chegg.com/scholarships =====
-Title: Access to this page has been denied
+Title: Page Not Found
 
 URL Source: https://www.chegg.com/scholarships
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-![Image 1](https://chegg-mobile-promotions.cheggcdn.com/px/Chegg-logo-79X22.png)
+## Oops, we're sorry!
 
-Press & Hold to confirm you are  
-a human (and not a bot).
+Like the abominable snowman, this page does not exist.
 
-Reference ID 37f1901e-cd00-11f1-af0b-bfc4fd9b6f37
+[Go to Homepage](https://www.chegg.com/)

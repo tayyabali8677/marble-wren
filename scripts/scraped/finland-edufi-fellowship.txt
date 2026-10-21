@@ -1,25 +1,43 @@
 ===== SOURCE PAGE: https://www.oph.fi/en/programmes-and-projects/edufi-fellowships =====
-Title: 404 - Page Not Found
+Title: oph.fi - käyttökatko
 
 URL Source: https://www.oph.fi/en/programmes-and-projects/edufi-fellowships
 
-Warning: Target URL returned error 404: Not Found
+Warning: Target URL returned error 503: Service Unavailable
 
 Markdown Content:
-## Etsimääsi sivua ei valitettavasti löytynyt
+## Käyttökatko Opetushallituksen verkkopalveluissa
 
-Tarkista, että olet kirjoittanut osoitepolun "`/en/programmes-and-projects/edufi-fellowships`" oikein. Sivu jota etsit, on mahdollisesti voitu myös siirtää tai poistaa.
+Laajalti käytössä olevasta, verkkopalvelujen toteuttamiseen käytetystä PHP-ohjelmistosta on löydetty kaksi kriittistä haavoittuvuutta. Opetushallituksen useita verkkopalveluita, kuten esimerkiksi Oph.fi- ja Kotus.fi-sivustot, on poistettu käytöstä siihen saakka, kunnes haavoittuvuuden korjaava välttämätön tietoturvapäivitys saadaan tehtyä.
 
-Voit jatkaa sivuston selaamista osoitteesta: [www.oph.fi](https://www.oph.fi/)
+Avaamme palvelut heti, kun se on taas turvallista
 
-## Sidan du letar efter kan tyvärr inte hittas
+Voit seurata meitä myös sosiaalisessa mediassa:
 
-Kolla upp att du har skrivit adresssökväg "`/en/programmes-and-projects/edufi-fellowships`" korrekt. Sidan du letar efter kan också ha flyttats eller tagits bort.
+*   [Facebook](https://www.facebook.com/opetushallitus)
+*   [LinkedIn](https://www.linkedin.com/company/finnish-national-board-of-education)
+*   [Youtube](https://www.youtube.com/opetushallitus)
 
-Du kan fortsätta bläddra på webbsidan på adressen: [www.oph.fi/sv](https://www.oph.fi/sv)
+## Avbrott i Utbildningsstyrelsens onlinetjänster
 
-## The page you are looking for could not be found
+Två kritiska sårbarheter har upptäckts i programmeringsspråket PHP, som används allmänt för att skapa webbtjänster. Flera av Utbildningsstyrelsens webbtjänster, till exempel webbplatserna Oph.fi och Sprakinstitutet.fi, har tagits ur bruk tills den dataskyddsuppdatering som krävs för att avhjälpa sårbarheten har blivit genomförd.
 
-Please check that you have entered the path "`/en/programmes-and-projects/edufi-fellowships`" correctly. The page you are looking for may have been moved or deleted.
+Vi öppnar tjänsterna så fort det är tryggt att göra det.
 
-You can continue browsing the site at: [www.oph.fi/en](https://www.oph.fi/en)
+Följ oss på sociala medier:
+
+*   [Facebook](https://www.facebook.com/opetushallitus)
+*   [LinkedIn](https://www.linkedin.com/company/finnish-national-board-of-education)
+*   [Youtube](https://www.youtube.com/opetushallitus)
+
+## Service maintenance in the Finnish National Agency for Education online services
+
+Two critical vulnerabilities have been discovered in PHP, a widely used software platform for developing web services. As a precaution, several online services operated by the Finnish National Agency for Education have been temporarily taken offline, including the oph.fi and kotus.fi websites, until the necessary security update addressing the vulnerability has been applied.
+
+We will restore these services as soon as it is safe to do so.
+
+Follow us on social media:
+
+*   [Facebook](https://www.facebook.com/opetushallitus)
+*   [LinkedIn](https://www.linkedin.com/company/finnish-national-board-of-education)
+*   [Youtube](https://www.youtube.com/opetushallitus)
