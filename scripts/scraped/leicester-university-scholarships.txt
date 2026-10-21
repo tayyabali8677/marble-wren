@@ -1,16 +1,11 @@
 ===== SOURCE PAGE: https://le.ac.uk/study/international-students/fees-and-funding =====
-Title: Just a moment...
+Title: University of Leicester | 404: Not Found
 
 URL Source: https://le.ac.uk/study/international-students/fees-and-funding
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-![Image 1: Icon for le.ac.uk](https://le.ac.uk/favicon.ico)
+## 404 - We can’t find the page you’re looking for
 
-## le.ac.uk
-
-## Performing security verification
-
-This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+This page you were trying to reach at this address doesn’t seem to exist. This is usually the result of a bad or outdated link. We apologise for any inconvenience.

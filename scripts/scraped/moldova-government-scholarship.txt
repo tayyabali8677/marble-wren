@@ -3,8 +3,6 @@ Title: 404 - Page not found
 
 URL Source: https://mecc.gov.md/en/content/government-scholarships-international-students
 
-Published Time: Tue, 20 Oct 2026 16:40:13 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

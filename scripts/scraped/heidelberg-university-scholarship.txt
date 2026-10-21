@@ -1,5 +1,5 @@
 ===== SOURCE PAGE: https://www.uni-heidelberg.de/en/internationales/scholarships/ =====
-Title: Page not found
+Title: Heidelberg University - Zukunft seit 1386
 
 URL Source: https://www.uni-heidelberg.de/en/internationales/scholarships/
 
@@ -101,5 +101,3 @@ Markdown Content:
 *   [Imprint](https://www.uni-heidelberg.de/en/imprint)
 *   [Privacy Statement](https://www.uni-heidelberg.de/en/privacy-statement)
 *   [Accessibility](https://www.uni-heidelberg.de/en/statement-on-accessibility)
-
-New Page: Page not found

@@ -13,11 +13,11 @@ Markdown Content:
 Government agencies communicate via**.gov.sg**website  
 (e.g. go.gov.sg/open).[Trusted websites](https://go.gov.sg/trusted-sites)
 
-![Image 4: lock](https://www.moe.gov.sg/media/images/microsite/883b363a-c2a1-494d-8b2c-506ed8075881.svg)
+![Image 4](https://www.moe.gov.sg/media/images/microsite/883b363a-c2a1-494d-8b2c-506ed8075881.svg)
 
 **Secure websites use HTTPS**
 
-Look for a**lock (![Image 5: lock](https://www.moe.gov.sg/media/images/microsite/883b363a-c2a1-494d-8b2c-506ed8075881.svg))**or https:// as an added precaution.  
+Look for a**lock (![Image 5: lock](https://cms.moe.gov.sg/assets/883b363a-c2a1-494d-8b2c-506ed8075881/883b363a-c2a1-494d-8b2c-506ed8075881.svg))**or https:// as an added precaution.  
 Share sensitive information only on official, secure websites.
 
 *   [SchoolFinder](https://www.moe.gov.sg/schoolfinder)
@@ -72,13 +72,9 @@ Education level
 *   [Careers](https://www.moe.gov.sg/careers)
 *   [About MOE](https://www.moe.gov.sg/about-us)
 
-Search
-
 # [![Image 7: MOE logo](https://www.moe.gov.sg/media/images/microsite/e2ce6af3-7c9d-444f-b576-922550cffb18.svg)](https://www.moe.gov.sg/)
 
 [](https://www.moe.gov.sg/shortlist)
-
-Search
 
 *   ### [Education levels](https://www.moe.gov.sg/financial-matters/awards-scholarships#)
 

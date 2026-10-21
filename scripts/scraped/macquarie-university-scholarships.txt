@@ -3,19 +3,12 @@ Title: Page not found
 
 URL Source: https://www.mq.edu.au/study/scholarships
 
+Published Time: Tue, 06 Oct 2026 08:38:00 GMT
+
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+
 Markdown Content:
-*   [Current students](https://students.mq.edu.au/)
-*   [Staff](https://mqoutlook.sharepoint.com/sites/mq-staff-intranet)
-*   [Alumni](https://www.mq.edu.au/alumni)
-*   [Library](https://www.mq.edu.au/about/facilities/library)
-*   [Maps](https://www.mq.edu.au/about/locations/maps)
-*   [Contact](https://www.mq.edu.au/about/locations/contacts)
-
-# Page not found
-
-1.   [Macquarie University](https://www.mq.edu.au/)
-2.   Page not found
-
 The page you are looking for isn't available.
 
 This might be because:
@@ -24,5 +17,3 @@ This might be because:
 *   the page you were looking for has been moved or deleted
 
 [Return to the Macquarie University homepage](https://www.mq.edu.au/home)
-
-![Image 2](https://bat.bing.com/action/0?ti=16003138&tm=gtm002&Ver=2&mid=885bed8e-cf2f-42d1-a5ee-937be939a3bf&bo=1&sid=948c95b0cca811f189e1a168afc65bcd&vid=948cb970cca811f1a0fe51f9ec423db6&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20not%20found%20-%20Macquarie%20University&p=https%3A%2F%2Fwww.mq.edu.au%2Fstudy%2Fscholarships&r=&lt=7032&evt=pageLoad&sv=2&cdb=AQAQ&rn=909157)

@@ -38,12 +38,6 @@ Markdown Content:
         *   [Contact us](https://www.sdu.dk/en/uddannelse/bachelor/kontakt) 
 
     *   [Master's programmes](https://www.sdu.dk/en/uddannelse/kandidat) 
-        *   [Master's programmes for working professionals](https://www.sdu.dk/en/uddannelse/kandidat/erhvervskandidat) 
-            *   [How to apply](https://www.sdu.dk/en/uddannelse/kandidat/optagelse) 
-            *   [Contact us](https://www.sdu.dk/en/uddannelse/kandidat/erhvervskandidat/kontakt) 
-
-        *   [Apply for vacant study places in master's programme](https://www.sdu.dk/en/uddannelse/kandidat/ledige-pladser) 
-        *   [The master's degree reform](https://www.sdu.dk/en/uddannelse/kandidat/kandidatreformen) 
         *   [Apply for admission to master's studies](https://www.sdu.dk/en/uddannelse/kandidat/kandidat-erhvervskandidat) 
             *   [Language requirements](https://www.sdu.dk/en/uddannelse/kandidat/kandidat-erhvervskandidat/sprogkrav) 
             *   [Registration prior to completion of the Bachelor's programme](https://www.sdu.dk/en/uddannelse/kandidat/kandidat-erhvervskandidat/tilmelding-til-kandidatfag-uden-ba) 
@@ -55,6 +49,12 @@ Markdown Content:
             *   [Legal claim](https://www.sdu.dk/en/uddannelse/kandidat/kandidat-erhvervskandidat/retskrav) 
             *   [Supplementing for a Master's degree programme](https://www.sdu.dk/en/uddannelse/kandidat/kandidat-erhvervskandidat/supplering-til-kandidat) 
 
+        *   [Master's programmes for working professionals](https://www.sdu.dk/en/uddannelse/kandidat/erhvervskandidat) 
+            *   [How to apply](https://www.sdu.dk/en/uddannelse/kandidat/optagelse) 
+            *   [Contact us](https://www.sdu.dk/en/uddannelse/kandidat/erhvervskandidat/kontakt) 
+
+        *   [Apply for vacant study places in master's programme](https://www.sdu.dk/en/uddannelse/kandidat/ledige-pladser) 
+        *   [The master's degree reform](https://www.sdu.dk/en/uddannelse/kandidat/kandidatreformen) 
         *   [Find your programme](https://www.sdu.dk/en/uddannelse/kandidat/find_your_masters) 
         *   [Contact](https://www.sdu.dk/en/uddannelse/kandidat/kontakt) 
 

@@ -26,8 +26,8 @@ Menu
         *   [Key dates](https://www.deakin.edu.au/study/key-dates)
         *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
-    *   [Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
-        *   Back[Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university) 
+    *   [Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
+        *   Back[Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university) 
         *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
         *   [Change of preference](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/change-of-preference)
         *   [Deakin Uni Ready](https://www.deakin.edu.au/study/access-programs/deakin-uni-ready)
@@ -254,7 +254,7 @@ Menu
 *   [My Courses 0](https://www.deakin.edu.au/my-courses)
 *   [Contact us](https://www.deakin.edu.au/contact)
 
-[![Image 1: Deakin University Logo](https://www.deakin.edu.au/__data/assets/git_bridge/0024/3858/dist/images/logo_deakin-rebrand-stacked.png?h=908ea769d)](https://www.deakin.edu.au/)
+[![Image 1: Deakin University Logo](https://www.deakin.edu.au/__data/assets/git_bridge/0024/3858/dist/images/logo_deakin-rebrand-stacked.png?h=ec664cb7b)](https://www.deakin.edu.au/)
 
 *   [Study](https://www.deakin.edu.au/study)
 
@@ -265,7 +265,7 @@ Menu
     *   [Key dates](https://www.deakin.edu.au/study/key-dates)
     *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
-[Year 12 guide for students](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
+[Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
 
     *   [Find a course by ATAR](https://www.deakin.edu.au/study/find-a-course-by-atar)
     *   [Change of preference](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/change-of-preference)

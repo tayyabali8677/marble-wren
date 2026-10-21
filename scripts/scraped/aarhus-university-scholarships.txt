@@ -1,5 +1,5 @@
 ===== SOURCE PAGE: https://www.au.dk/en/education/scholarships/ =====
-Title: logos.svg
+Title: https://cdn.au.dk/2016/assets/img/logos.svg
 
 URL Source: https://www.au.dk/en/education/scholarships/
 
