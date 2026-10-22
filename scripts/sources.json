@@ -3840,5 +3840,19 @@
     "country": "European Union",
     "url": "https://www.erasmus-mundus.eu",
     "note": "Fully funded joint master's programs across Europe."
+  },
+  {
+    "slug": "erasmus-mundus-joint-master-degrees",
+    "name": "Erasmus Mundus Joint Master Degrees",
+    "country": "European Union",
+    "url": "https://www.erasmus-mundus.eu",
+    "note": "Fully funded two-year Master's programs taught across multiple European universities."
+  },
+  {
+    "slug": "faculty-mobility-for-partnership-building-program-canada",
+    "name": "Faculty Mobility for Partnership Building Program",
+    "country": "Canada",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Extracted from EduCanada portal listing for international and faculty mobility opportunities."
   }
 ]
