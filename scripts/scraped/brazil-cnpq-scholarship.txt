@@ -296,6 +296,9 @@ Fechar
 Fechar
 Fechar
 Info
+Importações para pesquisas das universidades federais podem contar com imunidade tributária, anuncia Ministério da Fazenda
+Insumos e equipamentos destinados à pesquisa científica importados através de fundações de apoio poderão se beneficiar da imunidade tributária prevista pela Constituição.
+Saiba mais sobre Importações para pesquisas das universidades federais podem contar com imunidade tributária, anuncia Ministério da Fazenda
 Chamada Pepe Mujica: resultado preliminar indica aprovação de 378 projetos de cooperação científica na América Latina e Caribe
 Alta demanda qualificada levou à suplementação da chamada pelo FNDCT; entre os aprovados, 98 projetos que envolvem Inteligência Artificial.
 Saiba mais sobre Chamada Pepe Mujica: resultado preliminar indica aprovação de 378 projetos de cooperação científica na América Latina e Caribe
@@ -326,6 +329,10 @@ Saiba mais sobre Chamada PIBPG: CNPq divulga resultado preliminar, que indica ap
 Ver essa foto no Instagram
 Um post compartilhado por CNPq | Defeso Eleitoral (@cnpq_oficial_2)
 Ciência e Tecnologia
+Prêmio Mulheres e Ciência: CNPq divulga resultado preliminar da análise de elegibilidade da 3ª edição
+Candidatas poderão interpor recurso administrativo ao resultado preliminar da análise de elegibilidade de 22 a 26 de outubro.
+21/10/2026 17h12
+Ciência e Tecnologia
 2º Prêmio de Incentivo à Pesquisa em Direitos Humanos: CNPq e MDHC divulgam resultado final
 Iniciativa reconhece e valoriza pesquisas, práticas e projetos voltados à produção e ao uso de evidências em direitos humanos no Brasil.
 19/10/2026 16h51
@@ -333,10 +340,6 @@ Ciência e Tecnologia
 AGU permite renegociação de débitos junto ao CNPq com até 70% de desconto; confira prazo e condições
 Prazo para solicitar a renegociação vai de 16 de outubro de 2026 a 31 de março de 2027.
 07/10/2026 15h42
-Ciência e Tecnologia
-Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados
-Faperj informou também o início do funcionamento de 18 Institutos Nacionais de Ciência e Tecnologia aprovados nas chamadas públicas realizadas pelo CNPq em 2022 e 2024.
-14/07/2026 10h59
 Ciência e Tecnologia
 32º Prêmio Jovem Cientista: confira as inscrições pré-selecionadas
 05/10/2026 11h48
@@ -2076,8 +2079,8 @@ Avaliação indisponível no momento
 Erro
 Erro ao gravar motivo da avaliação.
 As informações desta página foram úteis para você?
-34%
-66%
+33%
+67%
 Média dos últimos 12 meses.
 Não é o serviço que eu estava procurando
 Não encontrei as informações que preciso
@@ -2160,8 +2163,8 @@ Agora não
 Responder pesquisa
 Não exibir esta mensagem novamente.
 
-===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/assuntos/defeso-eleitoral/profix-cb-18-fundacoes-de-amparo-a-pesquisa-ja-lancaram-chamada-do-programa =====
-Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados — Conselho Nacional de Desenvolvimento Científico e Tecnológico
+===== SOURCE PAGE: https://www.gov.br/cnpq/pt-br/acesso-a-informacao/dados-abertos/paineis-de-dados/painel-de-demanda-e-atendimento =====
+Painel de Demanda e Atendimento — Conselho Nacional de Desenvolvimento Científico e Tecnológico
 Ir para o
 Conteúdo
 1
@@ -2419,13 +2422,12 @@ Instagram
 Flickr
 Você está aqui:
 Página Inicial
-Assuntos
-Notícias - Defeso Eleitoral
-Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados
+Acesso à Informação
+Dados Abertos
+Painéis de Dados
+Painel de Demanda e Atendimento
 Info
-Notícias
-Profix-CB: Faperj e Fapes anunciam chamadas de fixação de doutores; confira os editais abertos em 18 estados
-Faperj informou também o início do funcionamento de 18 Institutos Nacionais de Ciência e Tecnologia aprovados nas chamadas públicas realizadas pelo CNPq em 2022 e 2024.
+Painel de Demanda e Atendimento
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter
@@ -2433,75 +2435,15 @@ Compartilhe por LinkedIn
 Compartilhe por WhatsApp
 link para Copiar para área de transferência
 Publicado em
-14/07/2026 10h59
+21/03/2024 15h11
 Atualizado em
-28/08/2026 18h40
-Imagem ilustrativa mostra pesquisadores em bancada.
-- Foto:
-Imagem de Magnific
-Mais duas fundações estaduais de amparo à pesquisa - a Faperj, do Rio de Janeiro, e a Fapes, do Espírito Santo - anunciaram editais do Programa de Apoio à Fixação de Doutores no Brasil - Conhecimento Brasil (Profix-CB) . Até o momento, 18 das 27 fundações estaduais que aderiram ao programa já anunciaram seus editais. Confira abaixo a lista.
-Os editais preveem que o CNPq oferecerá bolsas de fixação de doutores no valor de R$ 13 mil, com recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT), enquanto a Capes disponibilizará uma bolsa de mestrado e/ou de doutorado por projeto. Adicionalmente, as FAPs se comprometem a oferecer contrapartidas, de acordo com a disponibilidade orçamentária de cada uma.
-No evento, a Faperj também anunciou a implantação dos 18 Institutos Nacionais de Ciência e Tecnologia aprovados na chamadas públicas realizadas pelo CNPq em 2022 e 2024 e que contavam com financiamento da fundação estadual para iniciar suas atividades, em áreas como física nuclear, tecnologias em diagnóstico de câncer, doenças crônicas e neurociência, entre outras.
-Cientistas reuniram-se na Faperj, com as presenças dos presidentes do CNPq e da Capes.
-Edital da Faperj
-A Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro (Faperj) anunciou que seu edital Profix estará disponível no dia 17 de setembro, em ato realizado na sede da instituição, com as presenças dos presidentes do CNPq, Olival Freire Jr., e da Capes, Denise Pires de Carvalho, que assinaram o acordo de cooperação que viabiliza a ação.
-O plano de trabalho assinado prevê a oferta de 80 bolsas Conhecimento Brasil pelo CNPq; 80 bolsas de mestrado e 80 de doutorado pela Capes; e mais 80 bolsas de mestrado e 80 de doutorado pela Faperj.
-Edital da Fapes
-A Fundação de Amparo à Pesquisa do Espírito Santo (Fapes) publicou edital, que tem prazo de inscrições até 01 de outubro. Estão previstas 26 bolsas Conhecimento Brasil do CNPq; 26 bolsas de mestrado e 26 de doutorado da Capes; e até 4 bolsas de iniciação científica da Fapes, que também concederá apoio financeiro aos projetos selecionados.
-Veja todas as chamadas já anunciadas:
-AM
-Fundação de Amparo à Pesquisa do Estado do Amazonas
-Edital prevê até 26 projetos apoiados pelo Profix/CB.
-AP
-Fundação de Amparo à Pesquisa do Amapá
-Edital prevê até 20 projetos apoiados pelo Profix/CB.
-CE
-Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico
-Edital prevê o apoio a até 36 projetos pelo Profix/CB.
-ES
-Fundação de Amparo à Pesquisa e Inovação do Espírito Santo
-Edital prevê o apoio a até 26 projetos pelo Profix/CB.
-GO
-Fundação de Amparo à Pesquisa do Estado de Goiás
-Edital prevê o apoio a até 30 projetos pelo Profix/CB.
-MA
-Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão
-Edital prevê o apoio a até 30 projetos pelo Profix/CB.
-MT
-Fundação de Amparo à Pesquisa do Estado de Mato Grosso
-Edital prevê o apoio a até 24 projetos pelo Profix/CB.
-MS
-Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul
-Edital prevê o apoio a até 26 projetos pelo Profix/CB.
-PA
-- Fundação Amazônia de Amparo a Estudos e Pesquisas do Pará
-Chamada financiará até 35 projetos pelo Profix/CB .
-PB
-Fundação de Apoio à Pesquisa do Estado da Paraíba
-Edital prevê o até 31 projetos financiados pelo Profix/CB e 22 projetos financiados pela fundação
-PE
-Fundação de Amparo à Ciência e Tecnologia de Pernambuco
-Edital prevê até 39 projetos apoiados pelo Profix/CB.
-PI
-Fundação de Amparo à Pesquisa do Estado do Piauí
-Edital prevê apoio para até 24 projetos pelo Profix/CB.
-RJ
-Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro
-Edital será publicado em 17 de setembro e prevê o apoio a até 80 projetos pelo Profix/CB.
-RR
-Fundação de Amparo à Pesquisa do Estado de Roraima
-Edital prevê o apoio a até 30 projetos pelo Profix/CB.
-RS
-Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul
-Edital prevê o apoio a até 61 projetos pelo Profix/CB
-SE
-Fundação de Apoio à Pesquisa e à Inovação Tecnológica do Estado de Sergipe
-Edital prevê apoiar até 24 projetos pelo Profix/CB.
-SP
-Fundação de Amparo à Pesquisa do Estado de São Paulo
-Chamada financiará até 100 projetos pelo Profix/CB.
-Categoria
-Ciência e Tecnologia
+11/06/2026 11h13
+Painel de Demanda e Atendimento
+Os dados disponibilizados pelo Painel de Demanda e Atendimento são fundamentais para a análise sobre a dimensão e distribuição da demanda por recursos para fomento à pesquisa solicitados ao CNPq, bem como a capacidade de atendimento dessa demanda pelo Órgão.
+As estatísticas disponíveis abrangem as etapas de demanda e atendimento de bolsas e auxílios, incluindo a quantidade e valores da demanda bruta e atendida. Esses números oferecem insights importantes sobre a distribuição geográfica, áreas do conhecimento mais demandadas, instituições beneficiadas, entre outros aspectos relevantes.
+É importante ressaltar que os dados foram carregados a partir do ano de 2006, o que permite uma análise histórica do comportamento das demandas ao longo do tempo. Além disso, é possível consultar essas informações por área do conhecimento, instituição, região, chamada de fomento, entre outros filtros disponíveis na plataforma.
+Essa riqueza de dados proporciona uma visão abrangente sobre as principais linhas de fomento do CNPq, possibilitando a identificação de tendências e necessidades no cenário acadêmico e científico brasileiro. O acesso a essas informações é fundamental para orientar políticas públicas, tomadas de decisão estratégicas e o direcionamento eficiente dos recursos disponíveis para pesquisa e desenvolvimento.
+Acesse o painel
 Compartilhe:
 Compartilhe por Facebook
 Compartilhe por Twitter

@@ -1,23 +1,1360 @@
 ===== SOURCE PAGE: https://www.daad.de/en/study-and-research-in-germany/scholarships/ =====
-Title: Wartungsarbeiten / Maintenance - 503 Service Unavailable
+Title: 
 
 URL Source: https://www.daad.de/en/study-and-research-in-germany/scholarships/
 
-Warning: Target URL returned error 503: Service Unavailable
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-## Wir sind vorübergehend offline
-
-Aus Vorsicht haben wir diese Website vorübergehend offline genommen, da eine kritische Sicherheitslücke in PHP bekannt wurde - einer Programmiersprache, die von einem Großteil aller Websites weltweit verwendet wird.
-
-Es handelt sich nicht um ein Problem, das speziell diese Website betrifft.
-
-Viele andere Organisationen, darunter Behörden und große Nachrichtenseiten, haben denselben Schritt unternommen. Es gibt keine Hinweise darauf, dass diese Website kompromittiert wurde oder Daten abgeflossen sind.
-
-## We are temporarily offline
-
-As a precaution, we have temporarily taken this website offline because a critical security vulnerability has been discovered in PHP—a programming language used by the vast majority of websites worldwide.
-
-This is not a problem specific to this website.
-
-Many other organizations, including government agencies and major news sites, have taken the same step. There is no evidence that this website has been compromised.
+{
+  "error": true,
+  "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+  "statusCode": 404,
+  "statusMessage": "Not Found",
+  "message": "[GET] \"http://hoehenhaus/api/page/en/study-and-research-in-germany/scholarships/\": 404 Not Found",
+  "data": {
+    "docId": "6714",
+    "request": {
+      "requestId": "2a0c193c-cdc7-11f1-bc19-aa0007046693",
+      "apiVersion": "v1.0.0"
+    },
+    "meta": {
+      "title": "Error 404 - We could not find that page - DAAD",
+      "rawTitle": "Error 404 - We could not find that page",
+      "shortTitle": "404",
+      "category": {
+        "nodeId": "/2/6709/6714",
+        "path": "unknown"
+      },
+      "imperia": {
+        "publishDate": "02.01.2020",
+        "oneClickEditTag": "<meta name=\"X-Imperia-Live-Info\" content=\"4a32c7ae-a27a-98ff-cf3b-864200a99063/2/6709/6714-/daad_de/fehlerseiten/docs_6714/index.xml.en\" />",
+        "imperiaId": "unknown"
+      },
+      "language": "en",
+      "languageSwitchTarget": [
+        {
+          "language": "de",
+          "url": "/fehlerseiten/404/",
+          "docId": "",
+          "active": false,
+          "notAvailable": false
+        },
+        {
+          "language": "en",
+          "url": "",
+          "docId": "",
+          "active": true,
+          "notAvailable": false
+        }
+      ],
+      "metaTags": {
+        "meta": [
+          {
+            "name": "keywords",
+            "property": "keywords",
+            "content": "404"
+          },
+          {
+            "name": "description",
+            "property": "description",
+            "content": "404"
+          },
+          {
+            "name": "og:description",
+            "property": "og:description",
+            "content": "404"
+          },
+          {
+            "name": "og:image",
+            "property": "og:image",
+            "content": "https://api.daad.de/api/image/og/media/daad_de/fuesse-pfeile_972x547.jpg"
+          },
+          {
+            "name": "og:title",
+            "property": "og:title",
+            "content": "404"
+          },
+          {
+            "name": "og:url",
+            "property": "og:url",
+            "content": "https://www.daad.de/errorpages/404/"
+          },
+          {
+            "name": "og:site_name",
+            "property": "og:site_name",
+            "content": "www.daad.de"
+          },
+          {
+            "name": "og:locale",
+            "property": "og:locale",
+            "content": "en"
+          },
+          {
+            "name": "robots",
+            "property": "robots",
+            "content": "noindex"
+          },
+          {
+            "name": "og:type",
+            "property": "og:type",
+            "content": "article"
+          },
+          {
+            "name": "X-Imperia-Live-Info",
+            "property": "X-Imperia-Live-Info",
+            "content": "4a32c7ae-a27a-98ff-cf3b-864200a99063/2/6709/6714-/daad_de/fehlerseiten/docs_6714/index.xml.en"
+          },
+          {
+            "name": "format-detection",
+            "property": "format-detection",
+            "content": "telephone=no"
+          }
+        ],
+        "link": [
+          {
+            "rel": "copyright",
+            "href": "/de/imprint/",
+            "type": "text/html",
+            "title": "Imprint"
+          },
+          {
+            "rel": "help",
+            "href": "/en/help/",
+            "type": "text/html",
+            "title": "Help"
+          },
+          {
+            "rel": "start",
+            "href": "/en/",
+            "type": "text/html",
+            "title": "Homepage"
+          },
+          {
+            "rel": "contents",
+            "href": "/en/overview/",
+            "type": "text/html",
+            "title": "Overview"
+          }
+        ]
+      },
+      "url": "/errorpages/404/",
+      "allowRedirect": true,
+      "canonicalUrl": "",
+      "lastModified": {
+        "date": "02.01.2020",
+        "show": false
+      },
+      "ldJson": [
+        {
+          "@context": "http://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": []
+        }
+      ]
+    },
+    "page": {
+      "navigation": {
+        "type": "html",
+        "data": [],
+        "html": "<h2 class=\"aural\">Hauptnavigation</h2>",
+        "text": ""
+      },
+      "template": "daad_articlepage",
+      "sections": {
+        "header": {
+          "breadcrumb": [],
+          "metaNavigation": {
+            "data": {
+              "id": "meta-nav",
+              "label": "Metanavigation",
+              "links": [
+                {
+                  "href": "/en/the-daad/contact/",
+                  "type": "internal",
+                  "text": "Contact"
+                }
+              ]
+            },
+            "type": "data"
+          },
+          "accessibilityNavigation": {
+            "data": {
+              "id": "accessibility-nav",
+              "label": "Language switcher (content)",
+              "links": [
+                {
+                  "href": "/en/sign-language/",
+                  "type": "internal",
+                  "text": "Sign Language",
+                  "icon": "hand"
+                }
+              ]
+            },
+            "type": "data"
+          },
+          "search": {
+            "searchRoute": "/en/search/",
+            "searchParam": "s-q",
+            "autoCompleteRoute": "/api/ajax/search/suggest/en"
+          },
+          "navigation": {
+            "type": "html",
+            "data": [],
+            "html": "",
+            "text": ""
+          },
+          "modules": []
+        },
+        "main": {
+          "mainContent": [
+            {
+              "type": "header",
+              "id": "header-content-block-1",
+              "modules": [
+                {
+                  "id": "Headline-6714",
+                  "name": "Headline",
+                  "template": "headline",
+                  "data": {
+                    "title": "Error 404 - We could not find that page",
+                    "kicker": null
+                  },
+                  "lazy": false,
+                  "ssr": true
+                }
+              ]
+            },
+            {
+              "type": "default",
+              "id": "main-content-block-2",
+              "modules": [
+                {
+                  "id": "iwe_editor_1100_0",
+                  "name": "IWE Editor",
+                  "template": "iwe_editor",
+                  "ordernumber": "0",
+                  "data": {
+                    "html": "<img src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" alt=\"Feet in front of arrows pointing into 3 directions\" data-caption=\"\" data-copyright=\"© iStock.com / Delpixart\" data-direction=\"left\" class=\"js-img\" width=\"648\" height=\"365\" data-src-large='{\"href\":\"https:\\/\\/api.daad.de\\/api\\/image\\/xl1st\\/media\\/daad_de\\/fuesse-pfeile_972x547.jpg.webp\",\"width\":972,\"height\":547}' data-src-medium='{\"href\":\"https:\\/\\/api.daad.de\\/api\\/image\\/lg1st\\/media\\/daad_de\\/fuesse-pfeile_972x547.jpg.webp\",\"width\":972,\"height\":547}' data-src='{\"href\":\"https:\\/\\/api.daad.de\\/api\\/image\\/md1st\\/media\\/daad_de\\/fuesse-pfeile_972x547.jpg.webp\",\"width\":648,\"height\":365}'>\n\n<p class=\"introduction\">We are continously working to extend and improve our online services for you.<br>\n<br>\nUnfortunately we could not find the page you are looking for at this link.</p>\n\n<p><strong>What to do now? </strong></p>\n\n<ul>\n\t<li>Use the menue on the top of the page to navigate to the correct page.</li>\n\t<li>Visit the <a class=\"js-link\" href=\"/en/\" data-has-icon=\"true\" data-type=\"internal\">homepage </a>for a better orientation. </li>\n\t<li>Update the link in your bookmark.</li>\n</ul>\n\n<p>Thanks for your comprehension!</p> <!--parsed iweplugins:7-->",
+                    "narrow": false,
+                    "spacingTop": false
+                  },
+                  "isFirst": true,
+                  "lazy": false,
+                  "ssr": true
+                }
+              ]
+            },
+            {
+              "type": "footer",
+              "id": "main-content-block-3",
+              "modules": []
+            }
+          ],
+          "bottomContent": []
+        },
+        "footer": {
+          "navigation": {
+            "data": {
+              "id": "footer-nav-1",
+              "label": "Servicenavigation",
+              "links": [
+                {
+                  "href": "/en/imprint/",
+                  "type": "internal",
+                  "text": "Imprint",
+                  "icon": ""
+                },
+                {
+                  "href": "/en/data-privacy-statement/",
+                  "type": "internal",
+                  "text": "Data Privacy Statement",
+                  "icon": ""
+                },
+                {
+                  "href": "#",
+                  "type": "cookie-consent",
+                  "text": "Cookies",
+                  "icon": ""
+                },
+                {
+                  "href": "/en/declaration-on-accessibility/",
+                  "type": "internal",
+                  "text": "Declaration on accessibility",
+                  "icon": ""
+                },
+                {
+                  "href": "/en/report-an-accessibility-issue/",
+                  "type": "report-barrier",
+                  "text": "Report accessibility issue",
+                  "icon": ""
+                },
+                {
+                  "href": "/en/sign-language/",
+                  "type": "internal",
+                  "text": "Sign Language",
+                  "icon": "hand"
+                }
+              ]
+            }
+          },
+          "socialMediaLinks": {
+            "headline": "Links to the Social Media",
+            "links": [
+              {
+                "href": "https://www.facebook.com/DAAD.Worldwide/",
+                "text": "Visit DAAD on Facebook",
+                "type": "external",
+                "icon": "facebook"
+              },
+              {
+                "href": "https://www.threads.net/@daad_worldwide",
+                "text": "Visit DAAD on Threads",
+                "type": "external",
+                "icon": "threads"
+              },
+              {
+                "href": "https://www.youtube.com/channel/UC2OducLYmtJGJ0zTCNr7NrA",
+                "text": "Visit DAAD on YouTube",
+                "type": "external",
+                "icon": "youtube"
+              },
+              {
+                "href": "https://www.instagram.com/daad_worldwide/",
+                "text": "Visit DAAD on Instagram",
+                "type": "external",
+                "icon": "instagram"
+              },
+              {
+                "href": "https://www.linkedin.com/school/daad-worldwide",
+                "text": "Visit DAAD on LinkedIn",
+                "type": "external",
+                "icon": "linkedin"
+              },
+              {
+                "href": "https://bsky.app/profile/daadworldwide.bsky.social",
+                "text": "Visit DAAD on Bluesky",
+                "type": "external",
+                "icon": "bluesky"
+              }
+            ]
+          },
+          "modules": [
+            {
+              "id": "mega_footer",
+              "template": "column_content",
+              "data": {
+                "items": [
+                  {
+                    "headline": "Address",
+                    "content": [
+                      {
+                        "id": "mega_footer_iwe1",
+                        "template": "iwe_editor",
+                        "data": {
+                          "html": "<p>Deutscher Akademischer Austauschdienst e.V.<br>\nKennedyallee 50<br>\n53175 Bonn</p>\n\n<p>Germany</p>\n\n<p><a class=\"js-link\" href=\"/en/the-daad/map/daad-network/\" data-has-icon=\"true\" data-type=\"internal\">All addresses in the DAAD Network</a></p> <!--parsed iweplugins:7-->"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "headline": "DAAD Newsletters",
+                    "content": [
+                      {
+                        "id": "mega_footer_newsletter",
+                        "template": "iwe_editor",
+                        "data": {
+                          "html": "<p>Receive regular up-to-date information about our work and organisation.</p><p><a href=\"/en/the-daad/communication-publications/newsletter/\" class=\"js-link\" data-has-icon=\"true\">Newsletter - DAAD</a></p>"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "headline": "Useful Links",
+                    "content": [
+                      {
+                        "id": "mega_footer_iwe2",
+                        "template": "iwe_editor",
+                        "data": {
+                          "html": "<ul class=\"link-list\">\n\t<li><a class=\"js-link\" href=\"/en/studying-in-germany/scholarships/\" data-has-icon=\"true\" data-type=\"internal\">Find Scholarships</a></li>\n\t<li><a class=\"js-link\" href=\"/en/the-daad/map/daad-network/\" data-has-icon=\"true\" data-type=\"internal\">DAAD offices worldwide</a></li>\n\t<li><a class=\"js-link\" href=\"https://www.daad.de/en/the-daad/who-we-are/strategy-2030/\" data-has-icon=\"true\" data-type=\"internal\">Strategy 2030</a></li>\n\t<li><a class=\"js-link\" href=\"/en/the-daad/communication-publications/press/\" data-has-icon=\"true\" data-type=\"internal\">Press</a></li>\n</ul> <!--parsed iweplugins:7-->"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              "lazy": true,
+              "ssr": false
+            }
+          ]
+        }
+      },
+      "showSubNavigation": true,
+      "navigationTree": {
+        "navigation": {
+          "type": "data",
+          "data": [
+            {
+              "link": {
+                "url": "/en/studying-in-germany/",
+                "text": "Study &amp; research<br>in Germany",
+                "textSubNavigation": "Study and Research in Germany",
+                "type": "internal"
+              },
+              "subNavigationOrder": 0,
+              "children": [
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/universities/",
+                    "text": "Universities &amp; Programmes",
+                    "textSubNavigation": "Universities & Programmes",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/universities/",
+                        "text": "The Right University",
+                        "textSubNavigation": "The Right University",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/the-right-degree-programme/",
+                        "text": "The Right Degree Programme",
+                        "textSubNavigation": "The Right Degree Programme",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/all-degree-programmes/",
+                        "text": "Degree Programmes in Germany",
+                        "textSubNavigation": "All Degree Programmes",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/che-ranking/",
+                        "text": "CHE Ranking",
+                        "textSubNavigation": "CHE Ranking",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/",
+                        "text": "International Programmes",
+                        "textSubNavigation": "International Programmes",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/subject-groups/",
+                        "text": "The Main Subject Groups",
+                        "textSubNavigation": "The Main Subject Groups",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/the-basics/",
+                        "text": "Good to Know - The Basics",
+                        "textSubNavigation": "Good to Know - The Basics",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "https://www2.daad.de/deutschland/studienangebote/sommerkurse/en/",
+                        "textSubNavigation": "Language & Short Courses",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 3,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/universities/dual-studies/",
+                        "textSubNavigation": "Dual Studies",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 7,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/scholarships/",
+                    "text": "Scholarships &amp; Funding",
+                    "textSubNavigation": "Scholarships & Funding",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+                        "text": "Scholarship database",
+                        "textSubNavigation": "Scholarship database",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/scholarships/daad-scholarships/",
+                        "text": "DAAD Scholarships - An Overview",
+                        "textSubNavigation": "DAAD-Scholarships - An Overview",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/scholarships/information-for-scholarship-applicants/",
+                        "text": "Important Information for Scholarship Applicants",
+                        "textSubNavigation": "Information for Scholarship Applicants",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/scholarships/music-art/",
+                        "text": "Funding Programmes for Musicians and Artists",
+                        "textSubNavigation": "Funding Programmes for Musicians & Artists",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/scholarships/funding-options/",
+                        "textSubNavigation": "Funding Options",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 5,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/mobility-with-a-disability/",
+                        "textSubNavigation": "Mobility with a Disability",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 6,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/requirements/",
+                    "text": "Requirements &amp; Enrolment",
+                    "textSubNavigation": "Requirements & Enrolment",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/overview/",
+                        "text": "Requirements Overview",
+                        "textSubNavigation": "Overview",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/admission-database/",
+                        "text": "Database on Admission Requirements",
+                        "textSubNavigation": "Admission Database",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/application-process/",
+                        "text": "Application Process",
+                        "textSubNavigation": "Application Process",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/enrolling/",
+                        "text": "Enrolling at a University",
+                        "textSubNavigation": "Enrolling",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/studienkollegs/",
+                        "text": "Studienkollegs (preparatory courses)",
+                        "textSubNavigation": "Studienkollegs",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/gce/",
+                        "textSubNavigation": "GCE",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 5,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/requirements/ib-diploma/",
+                        "textSubNavigation": "IB-Diploma",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 6,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/living-in-germany/",
+                    "text": "Living in Germany",
+                    "textSubNavigation": "Living in Germany",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/visa/",
+                        "text": "Visas",
+                        "textSubNavigation": "Visa",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/finances/",
+                        "text": "Costs of Education and Living",
+                        "textSubNavigation": "Finances",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/german-language/",
+                        "text": "The German Language",
+                        "textSubNavigation": "The German language",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": [
+                        {
+                          "link": {
+                            "url": "/en/studying-in-germany/living-in-germany/german-language/learning/",
+                            "textSubNavigation": "Learning",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 1,
+                          "children": []
+                        },
+                        {
+                          "link": {
+                            "url": "/en/studying-in-germany/living-in-germany/german-language/improving/",
+                            "textSubNavigation": "Improving",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 2,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/renting/",
+                        "text": "Renting a Room",
+                        "textSubNavigation": "Renting a Room",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/accommodation-finder/",
+                        "text": "Accommodation Finder",
+                        "textSubNavigation": "Accommodation Finder",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/health-insurance/",
+                        "text": "Healthcare and Health Insurance",
+                        "textSubNavigation": "Health Insurance",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/safety/",
+                        "text": "Safety in Germany",
+                        "textSubNavigation": "Safety",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/living-in-germany/registering/",
+                        "textSubNavigation": "Registering",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 3,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/work-career/",
+                    "text": "Work &amp; Career",
+                    "textSubNavigation": "Work & Career",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/work-career/side-jobs/",
+                        "text": "Side Jobs",
+                        "textSubNavigation": "Side jobs",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/work-career/work-placements/",
+                        "text": "Work Placements",
+                        "textSubNavigation": "Work placements",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/work-career/career-planning/",
+                        "text": "Career Planning",
+                        "textSubNavigation": "Career Planning",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    }
+                  ],
+                  "align": "right"
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/phd-studies-research/",
+                    "text": "PhD Studies &amp; Research",
+                    "textSubNavigation": "PhD Studies & Research",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/ways-to-your-phd/",
+                        "text": "Ways to your PhD",
+                        "textSubNavigation": "Ways to your PhD",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/finding-a-phd-position/",
+                        "text": "Finding a Position",
+                        "textSubNavigation": "Finding a PhD Position",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/phd-germany/",
+                        "text": "PhDGermany-Database",
+                        "textSubNavigation": "PhDGermany",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/finance-your-phd/",
+                        "text": "Financing",
+                        "textSubNavigation": "Finance your PhD",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/first-steps-to-your-phd/",
+                        "text": "Preliminaries",
+                        "textSubNavigation": "First steps to your PhD",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/postdocs/",
+                        "textSubNavigation": "Postdocs and early career researchers",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 5,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/phd-studies-research/advanced-researchers/",
+                        "textSubNavigation": "Experienced researchers",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 6,
+                      "children": []
+                    }
+                  ],
+                  "align": "right"
+                },
+                {
+                  "link": {
+                    "url": "/en/studying-in-germany/advisory-service/",
+                    "text": "Advisory Service",
+                    "textSubNavigation": "Advisory Service",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/advisory-service/publications/",
+                        "text": "Brochures on Studying in Germany",
+                        "textSubNavigation": "Publications",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/advisory-service/contact/",
+                        "text": "Contact",
+                        "textSubNavigation": "Contact",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/mobility-with-a-disability/",
+                        "text": "Mobility with a Disability",
+                        "textSubNavigation": "Mobility with a Disability",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/advisory-service/psychological-wellbeing/",
+                        "text": "Psychological Wellbeing",
+                        "textSubNavigation": "Psychological Wellbeing",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/studying-in-germany/advisory-service/international-office/",
+                        "text": "The First Point of Contact",
+                        "textSubNavigation": "First Point of Contact",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/daad-network/",
+                        "text": "Reginal Offices and Information Centres",
+                        "textSubNavigation": "DAAD Network",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    }
+                  ],
+                  "align": "right"
+                },
+                {
+                  "link": {
+                    "url": "/en/alumni/",
+                    "text": "Alumni",
+                    "textSubNavigation": "Alumni",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/alumni/funding/",
+                        "text": "Funding Information",
+                        "textSubNavigation": "Funding Information",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/funding/alumni-associations-and-events/alumni-associations-and-networks/",
+                        "text": "Alumni Associations and Networks",
+                        "textSubNavigation": "Alumni Associations and Networks",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/stories/",
+                        "text": "Spotlight on Alumni",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/information-communication-newsletter/",
+                        "text": "Information, communication and newsletter",
+                        "textSubNavigation": "Information, communication, newsletter",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/commitment/",
+                        "text": "Commitment",
+                        "textSubNavigation": "Commitment",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/service-area/",
+                        "text": "Service Area",
+                        "textSubNavigation": "Service Area",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    }
+                  ],
+                  "align": "right"
+                }
+              ]
+            },
+            {
+              "link": {
+                "url": "/en/study-research-teach-abroad/",
+                "text": "Study, research &amp; teach<br>abroad",
+                "textSubNavigation": "Study, research & teach abroad",
+                "type": "internal"
+              },
+              "subNavigationOrder": 0,
+              "children": []
+            },
+            {
+              "link": {
+                "url": "/en/information-services-for-higher-education-institutions/",
+                "text": "Info &amp; Services for<br>Higher Education Institutions",
+                "textSubNavigation": "Info & Services for Higher Education Institutions",
+                "type": "internal"
+              },
+              "subNavigationOrder": 0,
+              "children": []
+            },
+            {
+              "link": {
+                "url": "/en/the-daad/",
+                "text": "The DAAD",
+                "textSubNavigation": "The DAAD",
+                "type": "internal"
+              },
+              "subNavigationOrder": 0,
+              "children": [
+                {
+                  "link": {
+                    "url": "/en/the-daad/who-we-are/",
+                    "text": "Who we are",
+                    "textSubNavigation": "Who we are",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/organisational-structure/",
+                        "text": "Organisational structure",
+                        "textSubNavigation": "Organisational structure",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/motto/",
+                        "text": "Motto",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/strategy-2030/",
+                        "text": "Strategy",
+                        "textSubNavigation": "Strategy 2030",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/monitoring-evaluation/",
+                        "text": "Monitoring &amp; Evaluation",
+                        "textSubNavigation": "Monitoring & evaluation",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/daad-history/",
+                        "text": "History",
+                        "textSubNavigation": "DAAD History 1925-2025",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/change-by-exchange/",
+                        "text": "Change by Exchange",
+                        "textSubNavigation": "Change by Exchange – since 1925",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": [
+                        {
+                          "link": {
+                            "url": "/en/the-daad/who-we-are/change-by-exchange/departure-and-rupture/",
+                            "textSubNavigation": "Departure and Rupture",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 1,
+                          "children": []
+                        },
+                        {
+                          "link": {
+                            "url": "/en/the-daad/who-we-are/change-by-exchange/new-foundations/",
+                            "textSubNavigation": "New Foundations",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 2,
+                          "children": []
+                        },
+                        {
+                          "link": {
+                            "url": "/en/the-daad/who-we-are/change-by-exchange/crossing-borders/",
+                            "textSubNavigation": "Crossing Borders",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 3,
+                          "children": []
+                        },
+                        {
+                          "link": {
+                            "url": "/en/the-daad/who-we-are/change-by-exchange/future-needs-exchange/",
+                            "textSubNavigation": "Future Needs Exchange",
+                            "type": "internal"
+                          },
+                          "subNavigationOrder": 4,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/who-we-are/strategy/",
+                        "textSubNavigation": "Strategy",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 3,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/the-daad/what-we-do/",
+                    "text": "What we do",
+                    "textSubNavigation": "What we do",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/information-services-for-higher-education-institutions/",
+                        "text": "Programmes for Higher Education Institutions",
+                        "textSubNavigation": "Info & Services for Higher Education Institutions",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/alumni/",
+                        "text": "Alumni activities",
+                        "textSubNavigation": "Alumni",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "www.daad.de/en/the-daad/what-we-do/eu-higher-education-cooperation-in-the-daad-erasmus/",
+                        "text": "EU Higher Education Cooperation",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/what-we-do/sustainability/",
+                        "text": "Sustainability",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/what-we-do/sustainable-development/",
+                        "text": "Development cooperation",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/what-we-do/prizes-awards/",
+                        "text": "Prizes &amp; awards",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/what-we-do/facts-figures/",
+                        "text": "Facts &amp; Figures",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "link": {
+                    "url": "/en/the-daad/daad-network/",
+                    "text": "DAAD network",
+                    "textSubNavigation": "DAAD Network",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": []
+                },
+                {
+                  "link": {
+                    "url": "/en/the-daad/communication-publications/",
+                    "text": "Communication &amp; publications",
+                    "textSubNavigation": "Communication & publications",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/newsletter/",
+                        "text": "Newsletter",
+                        "textSubNavigation": "Newsletter",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/reports/",
+                        "text": "Reports",
+                        "textSubNavigation": "Reports",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/press/",
+                        "text": "Press",
+                        "textSubNavigation": "Press",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/events-appointments/",
+                        "text": "Events",
+                        "textSubNavigation": "Selection of events & dates",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/positions/",
+                        "text": "Position papers",
+                        "textSubNavigation": "DAAD position papers",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 0,
+                      "children": []
+                    },
+                    {
+                      "link": {
+                        "url": "/en/the-daad/communication-publications/facts-figures/",
+                        "textSubNavigation": "Facts & figures",
+                        "type": "internal"
+                      },
+                      "subNavigationOrder": 4,
+                      "children": []
+                    }
+                  ],
+                  "align": "right"
+                },
+                {
+                  "link": {
+                    "url": "/en/the-daad/contact/",
+                    "text": "Contact",
+                    "textSubNavigation": "Contact",
+                    "type": "internal"
+                  },
+                  "subNavigationOrder": 0,
+                  "children": [],
+                  "align": "right"
+                }
+              ]
+            }
+          ],
+          "html": "",
+          "text": ""
+        },
+        "modules": []
+      },
+      "showFullWidth": false,
+      "title": "Error 404 - We could not find that page"
+    },
+    "moduleResponseCode": 0,
+    "moduleAdditionalHeader": [],
+    "healthStatus": {
+      "status": 1,
+      "message": "OK"
+    }
+  }
+}

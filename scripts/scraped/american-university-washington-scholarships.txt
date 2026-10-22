@@ -175,7 +175,3 @@ Consent Leg.Interest
 Reject All Confirm My Choices
 
 [![Image 4: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
-
-![Image 11](https://bat.bing.com/action/0?ti=4066691&tm=gtm002&Ver=2&mid=7b948983-550c-49ee-95c6-e339c209b5b4&bo=1&sid=47aff420cd7411f18f2cc562c2bface0&vid=47b02af0cd7411f1828d418c01b97237&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20Not%20Found&p=https%3A%2F%2Fwww.american.edu%2Fadmissions%2Fscholarships%2F&r=&lt=541&evt=pageLoad&sv=2&cdb=AQER&rn=345171)
-
-![Image 12: Youvisit Pixel](https://trck.youvisit.com/page/139567.png?embed=270475085203620110&pageSessionId=e46a75c5-04f5-45be-9980-8c2398f66871&source=vhost)

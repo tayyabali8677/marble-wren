@@ -1,52 +1,102 @@
 ===== SOURCE PAGE: https://www.kent.ac.uk/scholarships/international/ =====
-Title: some web services temporarily unavailable
+Title: 404 error
 
 URL Source: https://www.kent.ac.uk/scholarships/international/
 
-Warning: Target URL returned error 503: Service Unavailable
-
 Markdown Content:
-![Image 1: LASE University Group logo](blob:http://localhost/071a39bbb5d9660a3b0e768e4abbfb92)
-## This web page is temporarily unavailable
+Responsible use of your data
+We and our 1086 partners process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content, ad and content measurement, audience research and services development. You have a choice in who uses your data and for what purposes. Your privacy choices are only applicable on this digital property where you have made your choices. You can change or withdraw your consent any time from the Cookie Declaration or by clicking on the Privacy trigger icon.
 
-### The services below should all still be available:
+If you allow, we would also like to:
+Collect information about your geographical location which can be accurate to within several meters
+Identify your device by actively scanning it for specific characteristics (fingerprinting)
+Find out more about how your personal data is processed and set your preferences in the details section.
 
-#### Courses and applications:
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Consent Selection
+Necessary
+Preferences
+Statistics
+Marketing
+Show details
+Allow all
+Allow selection
+Deny
+Jump to content
+Visit us
+Contact us
+Study
+International
+Research
+Partner with us
+Menu
+404 error
+Sorry, we’ve lost the trail
 
-*   Email: [study@kent.ac.uk](mailto:study@kent.ac.uk)
-*   Telephone: +44 (0)1227 827272
-*   [KentVision](https://evision.kent.ac.uk/)
+View the links below or search the website.
 
-#### For students and staff:
+Highlighted links
+Undergraduate
+Postgraduate
+International
+Contact us
+General information
+University of Kent Error 404
+Contact us
+Part of the
+London and South East University Group
 
-*   [KentVision](https://evision.kent.ac.uk/)
-*   [LibrarySearch](http://librarysearch.kent.ac.uk/)
-*   [Library e-journals and e-books](https://student.kent.ac.uk/studies/library-it/your-digital-library)
-*   [Reading lists](https://kent.rl.talis.com/index.html)
-*   [Moodle](https://moodle.kent.ac.uk/)
-*   [Email for students and staff (Office 365)](https://outlook.office365.com/kent.ac.uk) - your email address is username**@kent.ac.uk**
-*   [MyFolio](https://myfolio.kent.ac.uk/myfolio/)
-*   [Staff Connect](https://staffconnect.kent.ac.uk/)
+Contact us
 
-#### Other websites and services:
+University of Kent, Canterbury, Kent, CT2 7NZ
+About us
+About us
+Research
+Governance and planning
+Access agreements
+Transparency return
+Modern Slavery Act Statement
+Academic freedom
+Charity information
+Locations
+Support us
+What's on
+News
+Business services
+Career opportunities
+Sustainability
+Study
+Courses
+Undergraduates
+Postgraduates
+International students
+Part-time and short courses
+Student experience
+Accommodation
+Fees and funding
+Scholarships
+Term dates
+Information for
+Applicants
+Parents and family
+Students
+Staff
+Alumni
+Business and partners
+Paying online
+Accessibility Statement
+Contact us
+Feedback
+Legal
+Privacy notice
+Cookies
+Update your cookies
+Social media links
+Connect with us on Facebook
+Follow us on X
+Follow us on Instagram
+Connect with us on LinkedIn
+Subscribe to us on Youtube
+Subscribe to us on TikTok
 
-*   [Gulbenkian](http://thegulbenkian.co.uk/your-visit/booking/)
-*   [School of Computing](http://www.cs.kent.ac.uk/)
-*   [Kent Union](http://www.kentunion.co.uk/)
-*   [Fee payments](https://epay.kent.ac.uk/epay/)
-*   [Online Store](http://store.kent.ac.uk/)
-*   [Alumni online](https://kent.ac.uk/alumni/)
-
-#### University of Kent social media channels:
-
-*   [University of Kent on Facebook](https://www.facebook.com/UniversityofKent)
-*   X: [@UniKent](https://x.com/UniKent/)
-*   [YouTube](http://www.youtube.com/user/UniversityofKent/)
-*   [Flickr](http://www.flickr.com/photos/universityofkent/collections/)
-
-* * *
-
-**The University of Kent, Canterbury, Kent, CT2 7NZ**
-
-Telephone +44 (0)1227 764000   
-Find us using Google maps: [Canterbury](http://maps.google.co.uk/maps?f=q&hl=en&q=ct27nz&sll=50.820971,4.392922&sspn=0.008784,0.022852&layer=&ie=UTF8&z=16&om=1&iwloc=addr); [Medway](https://www.google.com/maps/place/Medway+campus+-+University+of+Kent/@51.397967,0.5409553,17z/data=!3m1!4b1!4m2!3m1!1s0x47d8cd9820942c75:0xccce352ef01f4b7f?hl=en_uk); © University of Kent
+© London and South East University Group

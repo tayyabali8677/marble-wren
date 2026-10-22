@@ -149,5 +149,5 @@ Quelle:
 2026-10-21 10:39: Maßnahme im Zusammenhang mit der kritischen Schwachstelle PHP (CVE-2026-109618 und CVE-2026-109619) — Rechenzentrum
 https://www.rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-10-21-10-39-massnahme-im-zusammenhang-mit-der-kritischen-schwachstelle-php-cve-2026-109618-und-cve-2026-109619
 (
-21.10.2026
+22.10.2026
 )

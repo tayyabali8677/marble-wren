@@ -1,23 +1,94 @@
 ===== SOURCE PAGE: https://www.studyinnl.org/finances/sino-dutch-scholarship =====
-Title: Tijdelijk offline / Temporarily offline
+Title: Page not found | Study in NL
 
 URL Source: https://www.studyinnl.org/finances/sino-dutch-scholarship
 
-Warning: Target URL returned error 503: Service Unavailable
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-## Website tijdelijk offline
+[Skip to main content](https://www.studyinnl.org/finances/sino-dutch-scholarship#main-content)
 
-Deze website is tijdelijk offline gehaald vanwege een beveiligingsupdate voor PHP.
+[Go to the homepage](https://www.studyinnl.org/)
 
-We voeren de update zo snel mogelijk door. Daarna is de website weer bereikbaar.
+Your official starting point to studying in the Netherlands
 
-* * *
+Search 
 
-## Website temporarily offline
+Remove search Search
 
-This website has been taken offline temporarily because of a security update for PHP.
+Search
 
-We are applying the update as soon as possible. The website will be available again afterwards.
+ Show all results 
 
-PSA-2026-10-20
+No content has been found with the given search term.
+
+ Searching for results... 
+
+Menu
+
+*   [Home](https://www.studyinnl.org/)
+*   [Dutch education](https://www.studyinnl.org/dutch-education "Find out about the Dutch education system, institutions, degrees and study programmes.")
+*   [Finances](https://www.studyinnl.org/finances "What does it cost to study in the Netherlands and how to finance this?")
+*   [Plan your stay](https://www.studyinnl.org/plan-your-stay "If you come and study in the Netherlands, you will need to prepare for your stay and arrange quite a few things.")
+*   [Life in NL](https://www.studyinnl.org/life-in-nl "What is it like to live in the Netherlands as an international student?")
+*   [After your studies](https://www.studyinnl.org/after-your-studies "A Dutch diploma gives you endless possibilities to build up a successful future.")
+*   [Student stories](https://www.studyinnl.org/student-stories "Read blogs from international students in the Netherlands")
+*   [Newsletter](https://www.studyinnl.org/our-newsletter "Sign up for our Study in NL newsletter")
+
+[](https://www.studyinnl.org/finances/sino-dutch-scholarship# "Focus menu links after opening mobile menu")
+*   [Home](https://www.studyinnl.org/)
+*   [Dutch education](https://www.studyinnl.org/dutch-education "Find out about the Dutch education system, institutions, degrees and study programmes.")
+*   [Finances](https://www.studyinnl.org/finances "What does it cost to study in the Netherlands and how to finance this?")
+*   [Plan your stay](https://www.studyinnl.org/plan-your-stay "If you come and study in the Netherlands, you will need to prepare for your stay and arrange quite a few things.")
+*   [Life in NL](https://www.studyinnl.org/life-in-nl "What is it like to live in the Netherlands as an international student?")
+*   [After your studies](https://www.studyinnl.org/after-your-studies "A Dutch diploma gives you endless possibilities to build up a successful future.")
+*   [Student stories](https://www.studyinnl.org/student-stories "Read blogs from international students in the Netherlands")
+*   [Newsletter](https://www.studyinnl.org/our-newsletter "Sign up for our Study in NL newsletter")
+
+1.   [Home](https://www.studyinnl.org/)
+2.   Page not found
+
+[](https://www.studyinnl.org/finances/sino-dutch-scholarship)
+
+# Page not found
+
+Oops! We cannot find the page you wanted to visit. What now?
+
+There are 3 things you can do:
+
+1.   check the web address you entered;
+2.   search by using the magnifying glass on the top right-hand side of this page;
+3.   go to our homepage using the button below.
+
+[Go to homepage](https://www.studyinnl.org/homepage)
+
+_Error code: 404_
+
+## About us
+
+*   [About Study in NL](https://www.studyinnl.org/about-study-in-the-netherlands "About Study in NL")
+*   [Our newsletter](https://www.studyinnl.org/our-newsletter "Our newsletter")
+*   [Events](https://www.studyinnl.org/events)
+
+## Contact
+
+*   [Contact details](https://www.studyinnl.org/contact-details)
+*   [Support in your home country](https://www.studyinnl.org/support-in-your-home-country)
+*   [Complaints and objections](https://www.studyinnl.org/complaints-and-objections "Complaints and objections")
+*   [Report a vulnerability](https://www.studyinnl.org/report-a-vulnerability)
+
+## Footer
+
+*   [Copyright](https://www.studyinnl.org/copyright)
+*   [Accessibility](https://www.studyinnl.org/accessibility)
+*   [Cookie statement](https://www.studyinnl.org/cookie-statement)
+*   [Disclaimer](https://www.studyinnl.org/disclaimer)
+*   [Privacy Policy](https://www.studyinnl.org/privacy-policy)
+
+## Social links
+
+*   [Facebook](https://www.facebook.com/StudyinHolland)
+*   [Instagram](https://www.instagram.com/studyinNL)
+*   [Youtube](https://www.youtube.com/studyinNL)
+
+![Image 1: An initiative from Nuffic. Meet the world.](https://www.studyinnl.org/themes/custom/nuffic_sih_theme/src/svg/footer-logo.svg)[![Image 2: NL Platform logo](https://www.studyinnl.org/themes/custom/nuffic_sih_theme/src/svg/nl-sticker.svg)](https://www.nlplatform.com/destination-nl/research-and-education)

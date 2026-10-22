@@ -4,6 +4,7 @@ Title: Content not found | GOV.SI
 URL Source: https://www.gov.si/en/policies/education/scholarships/
 
 Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 **The requested content does not exist on this URL.**

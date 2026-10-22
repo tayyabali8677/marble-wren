@@ -1,47 +1,53 @@
 ===== SOURCE PAGE: https://www.studyinnorway.no/study-in-norway/scholarships =====
-Title: Vi er snart tilbake – We’ll be back soon
+Title: Page not found | Study in Norway
 
 URL Source: https://www.studyinnorway.no/study-in-norway/scholarships
 
-Warning: Target URL returned error 503: Service Unavailable
+Published Time: Thu, 22 Oct 2026 03:41:30 GMT
+
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Sikkerhetsoppgradering pågår
+[Skip to main content](https://www.studyinnorway.no/study-in-norway/scholarships#main-content)
 
-Vi gjennomfører en sikkerhetsoppgradering, og tjenestene våre er derfor midlertidig utilgjengelige. Arbeidet startet onsdag 21.oktober klokken 16:00, og vi regner med å være tilbake i løpet av kvelden.
+[![Image 1: Home](https://www.studyinnorway.no/themes/custom/studyinnorway/logo.svg)](https://www.studyinnorway.no/)
 
-## Disse tjenestene er berørt:
+## Main menu
 
-*   utdanning.no
-*   min.utdanning.no
-*   data.utdanning.no
-*   ovttas.no
-*   veilederforum.no
-*   studyinnorway.no
-*   karriereveiledning.no
+*   [Why Norway](https://www.studyinnorway.no/why-norway)
+*   [Study opportunities](https://www.studyinnorway.no/study-opportunities)
+*   [Cost and requirements](https://www.studyinnorway.no/cost-and-requirements)
+*   [Student experiences](https://www.studyinnorway.no/student-experiences)
+*   [Map](https://www.studyinnorway.no/map)
+*   [Search](https://www.studyinnorway.no/search)
 
-## Hva betyr dette for deg?
+[![Image 2: Search](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/search.svg)](https://www.studyinnorway.no/search)![Image 3: Open menu](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/menu.svg)![Image 4: Close menu](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/close-alt.svg)
+## Main menu
 
-Du kan ikke bruke nettstedene og verktøyene våre mens arbeidet pågår. Data du har lagret er trygt og blir ikke berørt.
+*   [Why Norway](https://www.studyinnorway.no/why-norway)
+*   [Study opportunities](https://www.studyinnorway.no/study-opportunities)
+*   [Cost and requirements](https://www.studyinnorway.no/cost-and-requirements)
+*   [Student experiences](https://www.studyinnorway.no/student-experiences)
+*   [Map](https://www.studyinnorway.no/map)
+*   [Search](https://www.studyinnorway.no/search)
 
-Oppgraderingen gjøres for å styrke sikkerheten og sørge for at tjenestene fortsatt er trygge og stabile å bruke.
+## Breadcrumb
 
-Vi beklager ulempene og takker for tålmodigheten. Prøv igjen litt senere.
+1.   [Home](https://www.studyinnorway.no/)
 
-Med vennlig hilsen  
-Teknisk team i utdanning.no
+ The requested page could not be found. 
 
-* * *
+[![Image 5: Logo Study in Norway](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/logo.svg)](https://www.studyinnorway.no/)![Image 6: Norwegian Directorate for Higher Education and Skills](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/hk-dir.svg)
 
-Security upgrade in progress
+## Useful Information
 
-## We’ll be back soon
+*   [Universal Access](https://www.studyinnorway.no/webpage-everyone)
+*   [Cookie preferences](https://www.studyinnorway.no/)
 
-We are carrying out a security upgrade, and our services are temporarily unavailable. The work started on Wednesday 21 October at 16:00 (CET), and we expect to be back online later this evening.
+## Follow us
 
-Any data you have saved is safe and will not be affected.
+*   [![Image 7: Facebook](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/logo-facebook.svg)](https://www.facebook.com/studyinnorway)
+*   [![Image 8: YouTube](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/logo-youtube.svg)](https://www.youtube.com/user/StudyinNorway)
+*   [![Image 9: Instagram](https://www.studyinnorway.no/themes/custom/studyinnorway/public/images/logo-instagram.svg)](https://instagram.com/studyinnorway/)
 
-We apologise for the inconvenience and thank you for your patience.
-
-Best regards  
-The technical team at utdanning.no
+StudyinNorway.no is developed and maintained by [The Norwegian Directorate for Higher Education and Skills](https://hkdir.no/en). [Privacy policy](https://www.studyinnorway.no/privacy-policy)

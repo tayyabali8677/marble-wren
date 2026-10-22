@@ -23,7 +23,7 @@ If you have any questions, please email oeffentlichkeitsarbeit@uni-goettingen.de
 In case of emergencies or technical faults, please call the Fault Reporting Centre: +49 551 39-20000.
 Please be aware that this situation may be exploited in the coming days. You may receive more phishing emails or be directed to websites that falsely claim to belong to the University. We will communicate exclusively via this website and our social media channels.
 Your Web Editorial & Public Relations Team
-21 October 2026, 5:30 p.m.
+21 October 2026, 5:30 p.m
 Dienst-Ampel-Liste
 Service Status Dashboard
 Erreichbarkeit innerhalb des Netzwerks der Universität Göttingen
@@ -48,6 +48,9 @@ Hochschulsport
 Verfügbar
 Stellenportal
 Verfügbar
+XLAB
+Nicht verfügbar
+Aufgrund einer aktuellen, kritischen PHP-Sicherheitslücke präventiv abgeschaltet. Wir warten auf die von den Herstellern zur Verfügung gestellten, aktualisierten Versionen.
 Statusseite der Services der GWDG: https://status.gwdg.de/
 Kontakt
 Georg-August-Universität Göttingen

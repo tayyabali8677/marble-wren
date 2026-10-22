@@ -1,12 +1,103 @@
 ===== SOURCE PAGE: https://www.uni-heidelberg.de/en/internationales/scholarships/ =====
-Currently not available
-Currently not available
-Websites wegen dringendem Sicherheitsupdate offline
-Aufgrund einer kurzfristig bekannt gewordenen Sicherheitslücke wurden alle universitären Websites vorübergehend offline genommen. Es handelt sich um eine reine Vorsichtsnahme, um die Sicherheit der Daten und der IT-Infrastruktur der Universität Heidelberg zu gewährleisten.
-Aktuell werden Sicherheitspatches eingespielt und damit die nötigen Wartungen vorgenommen, so dass Sie hoffentlich heute im Laufe des Tages wieder wie gewohnt auf unsere Seiten zugreifen können.
-Uns ist bewusst, dass diese zwingend notwendige Sicherheitsmaßnahme zu unvorhergesehenen Einschränkungen und Unannehmlichkeiten führt und danken für Ihr Verständnis.
-Websites offline due to an urgent security update
-Following the discovery of a security vulnerability at short notice, all university websites have been temporarily taken offline. This is a purely precautionary measure to protect the security of the University of Heidelberg’s data and IT infrastructure.
-Security patches are currently being installed and the necessary maintenance is underway. We hope you will be able to access our websites as usual again later today.
-We understand that this essential security measure may cause unexpected disruption and inconvenience, and we thank you for your understanding.
-Statusseite
+Title: Heidelberg University - Zukunft seit 1386
+
+URL Source: https://www.uni-heidelberg.de/en/internationales/scholarships/
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+## Accessibility links
+
+[Jump to main content](https://www.uni-heidelberg.de/en/internationales/scholarships/#mainContent)[Open Main Navigation](https://www.uni-heidelberg.de/en/internationales/scholarships/?overlay=menu)[Open Search Form](https://www.uni-heidelberg.de/en/internationales/scholarships/?overlay=search)
+
+[](https://www.uni-heidelberg.de/en/internationales/scholarships/?overlay=menu)[](https://www.uni-heidelberg.de/en/internationales/scholarships/?overlay=search)
+
+*   [University](https://www.uni-heidelberg.de/en/university)
+*   [Research](https://www.uni-heidelberg.de/en/research)
+*   [Study](https://www.uni-heidelberg.de/en/study)
+*   [Transfer](https://www.uni-heidelberg.de/en/transfer)
+
+[![Image 1: Heidelberg University logo](https://backend.uni-heidelberg.de/sites/default/files/site_logo/icon-symbol-uh-logo-black_1_0.svg)](https://www.uni-heidelberg.de/en)
+
+# Page not found
+
+*   [Last visited page](https://www.uni-heidelberg.de/en/internationales/scholarships/)
+*   [Search](https://www.uni-heidelberg.de/en/internationales/scholarships/?overlay=search)
+
+[Return to the home page](https://www.uni-heidelberg.de/en)
+
+## Footer
+
+### Main menu
+
+*   [University](https://www.uni-heidelberg.de/en/university)
+*   [Research](https://www.uni-heidelberg.de/en/research)
+*   [Study](https://www.uni-heidelberg.de/en/study)
+*   [Transfer](https://www.uni-heidelberg.de/en/transfer)
+*   [Newsroom](https://www.uni-heidelberg.de/en/newsroom)
+*   [Events](https://www.uni-heidelberg.de/en/events)
+*   [Maps](https://www.uni-heidelberg.de/en/university/maps)
+
+### Information For
+
+*   [Alumni](https://www.uni-heidelberg.de/en/alumni "Alumni")
+*   [Employees](https://www.uni-heidelberg.de/en/employees-in-science-administration-and-technical-services "Employees")
+*   [Doctoral Candidates](https://www.uni-heidelberg.de/en/doctoral-candidates "Doctoral Candidates")
+*   [Lecturers](https://www.uni-heidelberg.de/en/teaching-services-portal "Lecturers")
+*   [Press & Media](https://www.uni-heidelberg.de/en/press-media "Press & Media")
+*   [Friends & Supporters](https://www.uni-heidelberg.de/en/friends-supporters "Friends & Supporters")
+
+### Quick Links
+
+*   [Institutions](https://www.uni-heidelberg.de/en/institutions)
+*   [Faculties](https://www.uni-heidelberg.de/en/institutions/faculties)
+*   [International](https://www.uni-heidelberg.de/en/international-affairs)
+*   [Excellence Strategy](https://www.uni-heidelberg.de/en/research/research-profile/excellence-strategy)
+*   [Key Dates & Deadlines](https://www.uni-heidelberg.de/en/study/management-of-studies/key-dates-deadlines)
+*   [Course Overview](https://www.uni-heidelberg.de/de/studium/vorlesungsverzeichnisse)
+*   [Job Market](https://www.uni-heidelberg.de/en/job-market)
+
+### Footer Memberships
+
+*   [](https://4euplus.eu/)
+*   [](http://www.leru.org/)
+*   [](http://www.coimbra-group.eu/)
+*   [](https://www.german-u15.de/)
+*   [](https://www.health-life-sciences.de/de-de/)
+*   [](https://www.m-r-n.com/)
+*   [](https://www.heidelberg.de/hd,Lde/HD.html)
+*   [](https://www.uni-heidelberg.de/en/university/about-the-university/family-friendly-university)
+
+[](https://www.uni-heidelberg.de/)
+
+### Languages
+
+*   [English](https://www.uni-heidelberg.de/en/internationales/scholarships/)
+*   [Deutsch](https://www.uni-heidelberg.de/de/internationales/scholarships/)
+*   [Spanish](https://www.uni-heidelberg.de/es/internationales/scholarships/)
+*   [](https://www.uni-heidelberg.de/fr/internationales/scholarships/)
+*   [](https://www.uni-heidelberg.de/it/internationales/scholarships/)
+*   [Japanese](https://www.uni-heidelberg.de/ja/internationales/scholarships/)
+
+### Footer Legal
+
+*   [Imprint](https://www.uni-heidelberg.de/en/imprint)
+*   [Privacy Statement](https://www.uni-heidelberg.de/en/privacy-statement)
+*   [Accessibility](https://www.uni-heidelberg.de/en/statement-on-accessibility)
+
+### Footer Social Media
+
+*   [](https://www.facebook.com/uniheidelberg/)
+*   [](https://bsky.app/profile/uniheidelberg.bsky.social)
+*   [](https://xn--baw-joa.social/@uniheidelberg)
+*   [](https://www.instagram.com/uniheidelberg/)
+*   [](https://www.linkedin.com/school/uni-heidelberg)
+*   [](https://www.youtube.com/uniheidelberg)
+
+©2026 Heidelberg University
+
+### Footer Legal
+
+*   [Imprint](https://www.uni-heidelberg.de/en/imprint)
+*   [Privacy Statement](https://www.uni-heidelberg.de/en/privacy-statement)
+*   [Accessibility](https://www.uni-heidelberg.de/en/statement-on-accessibility)

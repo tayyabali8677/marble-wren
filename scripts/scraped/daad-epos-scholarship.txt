@@ -4,20 +4,15 @@ Title: Wartungsarbeiten / Maintenance - 503 Service Unavailable
 URL Source: https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/
 
 Warning: Target URL returned error 503: Service Unavailable
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-## Wir sind vorübergehend offline
+Wir führen zur Zeit Wartungsarbeiten an unserer Website durch. Unser Angebot wird voraussichtlich im Laufe des Tages erreichbar sein. Bitte kommen Sie bald wieder.
 
-Aus Vorsicht haben wir diese Website vorübergehend offline genommen, da eine kritische Sicherheitslücke in PHP bekannt wurde - einer Programmiersprache, die von einem Großteil aller Websites weltweit verwendet wird.
+Gern können Sie per E-Mail unter [webmaster@daad.de](mailto:webmaster@daad.de) Kontakt mit uns aufnehmen.
 
-Es handelt sich nicht um ein Problem, das speziell diese Website betrifft.
+## Maintenance
 
-Viele andere Organisationen, darunter Behörden und große Nachrichtenseiten, haben denselben Schritt unternommen. Es gibt keine Hinweise darauf, dass diese Website kompromittiert wurde oder Daten abgeflossen sind.
+We are currently performing some maintenance. Our website is expected to be available in the course of the day. Please come back soon.
 
-## We are temporarily offline
-
-As a precaution, we have temporarily taken this website offline because a critical security vulnerability has been discovered in PHP—a programming language used by the vast majority of websites worldwide.
-
-This is not a problem specific to this website.
-
-Many other organizations, including government agencies and major news sites, have taken the same step. There is no evidence that this website has been compromised.
+You are welcome to contact us by e-mail at [webmaster@daad.de](mailto:webmaster@daad.de).

@@ -3,8 +3,6 @@ Title: Page not found | Campus France
 
 URL Source: https://www.campusfrance.org/en/scholarships
 
-Published Time: Wed, 21 Oct 2026 17:03:56 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
