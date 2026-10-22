@@ -38,25 +38,13 @@ Markdown Content:
 
 We're sorry. The page you have requested could not be found.
 
-**/content/michigan-lsa/admin/errors/404.html**
+**https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html**
 
 * * *
 
 ### Some Helpful Resources
 
 Keyword Search of en 
-
-### Search: {{$root.lsaSearchQuery.q}}, Page {{$root.page}}
-
-[{{item.title}}](https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html)
-
-![Image 2](https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html)
-
-{{item.snippet}}
-
-{{item.snippet}}
-
-[previous](https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html#) | [next](https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html#)
 
 You may find these frequently visited LSA and university web resources helpful:
 
@@ -72,7 +60,7 @@ You may find these frequently visited LSA and university web resources helpful:
 
 [Course Guide](http://www.lsa.umich.edu/cg/)
 
-[![Image 3: LSA - College of Literature, Science, and The Arts - University of Michigan](https://lsa.umich.edu/content/dam/michigan-lsa/admin/logos/lsa-logo.png)](https://lsa.umich.edu/)
+[![Image 2: LSA - College of Literature, Science, and The Arts - University of Michigan](https://lsa.umich.edu/content/dam/michigan-lsa/admin/logos/lsa-logo.png)](https://lsa.umich.edu/)
 
 *   Information For 
 *   [Prospective Students](https://lsa.umich.edu/lsa/prospective-students.html)
@@ -101,6 +89,6 @@ You may find these frequently visited LSA and university web resources helpful:
 *   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
 *   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
 *   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](https://lsa.umich.edu/cdn-cgi/l/email-protection#5f332c3e71283a3d712c2a2f2f302d2b1f2a32363c37713a3b2a600c2a3d353a3c2b620d3a2f302d2b7a6d6f1d2a387a6d6f703c30312b3a312b7032363c3736383e3172332c3e703e3b323631703a2d2d302d2c706b6f6b793e322f643d303b26622d3a2e2a3a2c2b0a0d137a6d6f372b2b2f657070332c3e712a32363c37713a3b2a703c30312b3a312b7032363c3736383e3172332c3e700a12161c17703a3170332d3c3c2c701730323a7016323e383a2c7a6d6f3e313b7a6d6f1b303c2a323a312b2c70130d1c1c0c3d333038363c303171383639)
+*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/biophysics/en/news-events/all-news/student-news/welcome-biophysics-reu-students.html)
 
  © [2026 Regents of the University of Michigan](http://regents.umich.edu/)

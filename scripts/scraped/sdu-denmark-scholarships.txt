@@ -327,6 +327,17 @@ Markdown Content:
 
     *   [Public sector collaboration](https://www.sdu.dk/en/samarbejde/myndighedsbetjening) 
     *   [Research facilities](https://www.sdu.dk/en/samarbejde/faciliteter) 
+        *   [Engineering Test Facilities for Businesses](https://www.sdu.dk/en/samarbejde/faciliteter/itv) 
+            *   [Acoustics Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/itv/akustiklaboratoriet) 
+            *   [Cathodoluminescence Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/itv/cathodoluminescence_laboratory) 
+            *   [Chemical Composition Nano Lab](https://www.sdu.dk/en/samarbejde/faciliteter/itv/chemical-compostition-nano-lab) 
+            *   [CREATE Lab](https://www.sdu.dk/en/samarbejde/faciliteter/itv/create-lab) 
+            *   [Nano Optics Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/itv/nano-optics-lab) 
+            *   [Photonics and Imaging Lab](https://www.sdu.dk/en/samarbejde/faciliteter/itv/photonics-and-imaging-lab) 
+            *   [SDU's Psychoacoustics Lab](https://www.sdu.dk/en/samarbejde/faciliteter/itv/psychoacoustics-lab) 
+            *   [Chemical material analysis with Raman spectroscopy](https://www.sdu.dk/en/samarbejde/faciliteter/itv/raman-lab) 
+            *   [skabelon-til-facilitet](https://www.sdu.dk/en/samarbejde/faciliteter/itv/sensor-lab) 
+
     *   [Tailored business courses](https://www.sdu.dk/en/samarbejde/skraeddersyede-virksomhedskurser) 
     *   [Strategic partnership](https://www.sdu.dk/en/samarbejde/bliverhvervspartner) 
     *   [Technologies](https://www.sdu.dk/en/samarbejde/kommercielle-teknologier) 

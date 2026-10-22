@@ -26,13 +26,15 @@ Markdown Content:
 
 *   [Departments](https://www.moe.gov.bn/department/)
 *   [Resources](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
+    *   [General](https://www.moe.gov.bn/general/)
+        *   [Legislative Council Newsletter Jan-June 2026](https://www.moe.gov.bn/wp-content/uploads/2026/10/MMN-Newsletter-June-2026.pdf)
+
     *   [Press Releases](https://www.moe.gov.bn/blog/category/pressreleases/)
     *   [School Term Calendar](https://www.moe.gov.bn/)
         *   [2026](https://www.moe.gov.bn//wp-content/uploads/2026/08/Kalendar-2026-1-1.pdf)
         *   [2027](https://drive.google.com/file/d/1DA21v9ZY7WafmMD3p2uWOf5csY_GYDFA/view)
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
-    *   [General](https://www.moe.gov.bn/general/)
     *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
         *   [State of Education in ASEAN (Endorsed by SOM-ED)](https://www.moe.gov.bn/wp-content/uploads/2026/10/endorsed-by-SOM-ED_State-of-Education-in-ASEAN-report-1.pdf)
@@ -87,13 +89,15 @@ Markdown Content:
 
 *   [Departments](https://www.moe.gov.bn/department/)
 *   [Resources](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
+    *   [General](https://www.moe.gov.bn/general/)
+        *   [Legislative Council Newsletter Jan-June 2026](https://www.moe.gov.bn/wp-content/uploads/2026/10/MMN-Newsletter-June-2026.pdf)
+
     *   [Press Releases](https://www.moe.gov.bn/blog/category/pressreleases/)
     *   [School Term Calendar](https://www.moe.gov.bn/)
         *   [2026](https://www.moe.gov.bn//wp-content/uploads/2026/08/Kalendar-2026-1-1.pdf)
         *   [2027](https://drive.google.com/file/d/1DA21v9ZY7WafmMD3p2uWOf5csY_GYDFA/view)
 
     *   [Teachers’ Day](https://www.moe.gov.bn/teachers-day/)
-    *   [General](https://www.moe.gov.bn/general/)
     *   [Reports](http://moe.gov.bn/)
     *   [International Education News](https://www.moe.gov.bn/international-education-newslettter/)
         *   [State of Education in ASEAN (Endorsed by SOM-ED)](https://www.moe.gov.bn/wp-content/uploads/2026/10/endorsed-by-SOM-ED_State-of-Education-in-ASEAN-report-1.pdf)

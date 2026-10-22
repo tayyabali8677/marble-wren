@@ -3,8 +3,6 @@ Title: Page not found | IsDB
 
 URL Source: https://www.isdb.org/scholarship-program
 
-Published Time: Thu, 22 Oct 2026 03:11:10 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -37,7 +35,7 @@ Search
     *   [Climate Change](https://www.isdb.org/climate-change)
     *   [Investor Relations](https://www.isdb.org/investor-relations)
     *   [Annual Report](https://2025.ar.isdb.org/)
-    *   [Project Information Dashboard](https://data.isdb.org/approvals/2026_Q2)
+    *   [Project Information Dashboard](https://data.isdb.org/approvals)
     *   [Annual Development Effectiveness Report](https://isdb-aders-2025.netlify.app/)
     *   [Corporate Procurement](https://www.isdb.org/corporate-procurement)
     *   [Economic Empowerment](https://www.isdb.org/what-we-do/economic-empowerment)

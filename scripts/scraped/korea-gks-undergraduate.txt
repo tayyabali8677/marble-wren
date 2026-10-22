@@ -4,7 +4,6 @@ Title: The page you requested could not be found.
 URL Source: https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do
 
 Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ## ![Image 1](https://www.studyinkorea.go.kr/public/v3/images/common/logo.svg)

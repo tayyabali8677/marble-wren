@@ -528,7 +528,7 @@ Tuition fees
         *   [Financing your studies](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies)Open Financing your studies
 
 Financing your studies
-            *   [Dutch student finance (DUO)](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/dutch-student-finance-duo)
+            *   [Dutch student finance (DUO)](https://www.maastrichtuniversity.nl/study/admission-enrolment/je-studie-financieren/dutch-student-finance)
             *   [Scholarships for international students](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships)
             *   [International financial aid](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies/country-based-financial-aid-international-students)
             *   [Cost of living & financial assistance](https://www.maastrichtuniversity.nl/studeren/studentenleven/cost-studying-financial-assistance)
@@ -545,7 +545,7 @@ Support & guidance for students
         *   [Student wellbeing](https://www.maastrichtuniversity.nl/studeren/support/student-wellbeing)Open Student wellbeing
 
 Student wellbeing
-            *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/studeren/support/studentenwelzijn/wellbeing-movement)
+            *   [Wellbeing Movement](https://www.maastrichtuniversity.nl/studeren/support/student-wellbeing/wellbeing-movement)
             *   [MoodLift](https://www.maastrichtuniversity.nl/study/support/studentenwelzijn/moodlift)
 
         *   [Disability support](https://www.maastrichtuniversity.nl/study/support/studying-disability)Open Disability support

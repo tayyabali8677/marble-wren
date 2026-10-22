@@ -526,8 +526,6 @@ WHO Regional websites
 
 *   [Headlines](https://www.who.int/news-room/headlines)
 
-Loading...
-
 *   [In focus](https://www.who.int/mega-menu/emergencies/emergencies)
     *   [Cholera](https://www.who.int/mega-menu/emergencies/emergencies/cholera)
     *   [Ebola disease](https://www.who.int/mega-menu/emergencies/emergencies/ebola-disease)

@@ -1166,6 +1166,8 @@ Footer
 
 [Video 2](https://www.uzh.ch/en/studies/application/scholarships.html)Close Video Overlay
 
+Close Video Overlay
+
 [[%=content%]](https://www.uzh.ch/en/studies/application/[%=href%])[[%=content%]](https://www.uzh.ch/en/studies/application/[%=href%])[[%=content%]](https://www.uzh.ch/en/studies/application/[%=href%])
 
 back

@@ -106,7 +106,7 @@ The Uni Guide and The Student Room are both part of The Student Room Group.
 
 ###### Who we work with
 
-[![Image 5: UCAS](https://www.theuniguide.co.uk/assets/logos/ucas-3f90b0b1f3c72ebc8c62e68571d9c146237bdf9957afed16e020a73f12650830.png)](https://www.ucas.com/)[![Image 6: HESA](https://cdn.theuniguide.co.uk/assets/logos/HESA_logo-5eca8aba17975f38f93b6de41f8d2884e288031fc96355a34b1130db96575867.png)](http://www.hesa.ac.uk/)[Find out more](https://www.theuniguide.co.uk/about/who-we-work-with)
+[![Image 5: UCAS](blob:http://localhost/b4994d1355d474988efe632841abb153)](https://www.ucas.com/)[![Image 6: HESA](blob:http://localhost/eb894f33e1ca485f2b5b150fd450e725)](http://www.hesa.ac.uk/)[Find out more](https://www.theuniguide.co.uk/about/who-we-work-with)
 
 ###### Connect with us
 

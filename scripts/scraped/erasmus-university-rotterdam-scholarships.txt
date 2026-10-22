@@ -3,8 +3,6 @@ Title: Pagina niet gevonden
 
 URL Source: https://www.eur.nl/en/education/scholarships-and-financial-support
 
-Published Time: Wed, 21 Oct 2026 11:23:06 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -105,19 +103,19 @@ Markdown Content:
 
 Misschien zocht je:
 
-![Image 1: two persons talking in front of a building and trees](https://www.eur.nl/sites/corporate/files/styles/responsive_w1450_r21_8/public/2023-01/eur-beeldbank-project-rsm-high-res-10.jpg.avif?h=ac778ff2&itok=QZsr9FJY)
+![Image 7: two persons talking in front of a building and trees](https://www.eur.nl/sites/corporate/files/styles/responsive_w1450_r21_8/public/2023-01/eur-beeldbank-project-rsm-high-res-10.jpg.avif?h=ac778ff2&itok=QZsr9FJY)
 
 ## [Overzicht bacheloropleidingen](https://www.eur.nl/onderwijs/bachelor/overzicht)
 
-![Image 2: Studying in a busy library](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2017-10/studeren_in_een_drukke_ub.jpg.avif?h=a6a2ad25&itok=4oJ1p1GJ)
+![Image 8: Studying in a busy library](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2017-10/studeren_in_een_drukke_ub.jpg.avif?h=a6a2ad25&itok=4oJ1p1GJ)
 
 ## [Overzicht masteropleidingen](https://www.eur.nl/onderwijs/master/overzicht)
 
-![Image 3: A few student studying on a table.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2018-07/Studenten%20laptops%20beeldbank%20eur%20Eric%20Fecken.jpg.avif?h=10d202d3&itok=_v7lRWKo)
+![Image 9: A few student studying on a table.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2018-07/Studenten%20laptops%20beeldbank%20eur%20Eric%20Fecken.jpg.avif?h=10d202d3&itok=_v7lRWKo)
 
 ## [Vind je studie!](https://www.eur.nl/en/node/58112)
 
-![Image 4: Prospective students at Master Open Day in a lecture hall.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/cf3sIUbFD49N18tS15qX-d8abeb1eb94192ae428dd4a895ff51ad.jpg.avif?h=7b93e6c7&itok=y7XXDvEH)
+![Image 10: Prospective students at Master Open Day in a lecture hall.](https://www.eur.nl/system/files/styles/responsive_w550_r16_9/private/verify/cf3sIUbFD49N18tS15qX-d8abeb1eb94192ae428dd4a895ff51ad.jpg.avif?h=7b93e6c7&itok=y7XXDvEH)
 
 ## "Wat mooi is, kost moeite"
 
@@ -134,31 +132,31 @@ Desiderius Erasmus
 [Meer nieuws](https://www.eur.nl/en/news/overview)
 
 *   
+### [Two applied economists at Erasmus School of Economics awarded NWO Vidi grants](https://www.eur.nl/en/news/two-applied-economists-erasmus-school-economics-awarded-nwo-vidi-grants)
+
+ The NWO has awarded Professor Chen Li and Assistant Professor Jana Cahlikova with prestigious Vidi grants. 
+    *    Thursday 22 Oct 2026
+    *    General
+
+![Image 11: Professor Chen Li and Assistant Professor Jana Cahlikova](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/foto-chen-li_jana-cahlikova.jpg.avif?h=c2939b6d&itok=5zARYE3r)
+
+*   
+### [Spinger Nature 2026 Open Access deal reaches cap](https://www.eur.nl/en/news/spinger-nature-2026-open-access-deal-reaches-cap)
+
+ The cap for Open Access articles in journals included in the institutional deal 2026 that the University Library made with Springer has been reached. 
+    *    Wednesday 21 Oct 2026
+    *    General
+
+![Image 12: Open access agreement Wiley](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2016-02/open_access_agreement_wiley.jpg.avif?h=6973cb0e&itok=YCXE3ZCJ)
+
+*   
 ### [Mary Pieterse-Bloem on Nieuwsuur: ‘I don’t think we should be talking about an AI bubble just yet’](https://www.eur.nl/en/news/mary-pieterse-bloem-nieuwsuur)
 
  Sharp falls in the share prices of several technology companies benefiting from the rise of artificial intelligence (AI) have raised questions about... 
     *    Monday 19 Oct 2026
     *    General
 
-![Image 5: Mary Pieterse-Bloem](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-05/mary-pieterse-bloem_1.JPG.avif?h=3019aee8&itok=5fh2iQby)
-
-*   
-### [The New CFO Marks 15 Years with Conference on the Economy and the Future](https://www.eur.nl/en/news/new-cfo-marks-15-years-conference-economy-and-future)
-
- Around 180 CFO's and CEOs gathered in Amsterdam on 6 October 2026 for a conference reflecting on economic developments, business, governance... 
-    *    Monday 19 Oct 2026
-    *    General
-
-![Image 6: Image - New CFO Conference](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/new_cfo_3.jpg.avif?h=8abcec71&itok=nyfTzG2d)
-
-*   
-### [Hefhouse: Connecting the Feijenoord neighbourhood for five years now](https://www.eur.nl/en/news/hefhouse-connecting-feijenoord-neighbourhood-five-years-now)
-
- Located at the foot of De Hef, the HefHouse is a place for socialising and learning. Young people, local residents and students come here to learn and develop. 
-    *    Monday 19 Oct 2026
-    *    Interview
-
-![Image 7: A small group listening to a guide on a wooden terrace by the river, beneath a green steel railway bridge.](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-10/dsc04445-copy.png.avif?h=1c9b88c9&itok=3aCya-MI)
+![Image 13: Mary Pieterse-Bloem](https://www.eur.nl/sites/corporate/files/styles/responsive_w550_r16_9/public/2026-05/mary-pieterse-bloem_1.JPG.avif?h=3019aee8&itok=5fh2iQby)
 
 Compare 0 study programmes
 
@@ -218,7 +216,7 @@ Breadcrumb
 
 [](https://www.eur.nl/en)
 
-![Image 8: Logo](blob:http://localhost/f037e0cd26d3c50e864c96adc3dc0213)
+![Image 14: Logo](blob:http://localhost/f037e0cd26d3c50e864c96adc3dc0213)
 ## Our website uses cookies
 
  Overview 

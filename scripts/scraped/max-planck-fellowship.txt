@@ -21,7 +21,7 @@ Toggle navigation
             *   [Porträt](https://www.mpg.de/kurzportrait)
             *   [Grundwerte und Satzung](https://www.mpg.de/27044793/grundwerte-und-satzung)
             *   [Zahlen & Fakten](https://www.mpg.de/zahlen-und-fakten)
-            *   [Regeln & Verfahren](https://www.mpg.de/ueber_uns/verfahren)
+            *   [Regeln & Verfahren](https://www.mpg.de/regeln-und-verfahren)
             *   [Vereinsorgane & Gremien](https://www.mpg.de/ueber-uns/vereinsorgane)
             *   [Nachhaltigkeit](https://www.mpg.de/nachhaltigkeit)
 

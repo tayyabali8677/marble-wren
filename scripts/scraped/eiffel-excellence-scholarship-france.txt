@@ -336,16 +336,16 @@ Flag this item
 Institutions
 Calls for applications
 Grants and financial aid
-Call for application 2026 is open.
+Call for application 2027 is open.
 The Eiffel Excellence Scholarship Program was established by the French Ministry for Europe and Foreign Affairs to enable French higher education institutions to attract top foreign students to enroll in their masters and PhD programs.
 It gives opportunity to the future foreign decision-makers of the private and public sectors, in priority areas of study, and encourages applicants from foreign countries up to 29 years old at master’s level, and applicants up to 35 years old at PhD level.
-2026 Campaign Timeline
-Opening of the call for applications: October 1, 2025
-Deadline for the reception of applications by Campus France: January 8, 2026 included .
-Publication of results: from the 30th of March, 2026
+2027 Campaign Timeline
+Opening of the call for applications: October 2026
+Deadline for the reception of applications by Campus France: January 6, 2027 included .
+Publication of results: from the 12th of April, 2027
 .
 Regulations
-Eiffel Programme rules – 2026 Session
+Eiffel Programme rules – 2027 Session
 Only applications submitted by French higher education institutions are accepted.
 You are an institution and you have already participated in the Eiffel program => You should have received an email concerning the access of application files. If that is not the case, please contact us .
 You are an institution participating for the first time in the Eiffel Program => Please Contact us in order download the application files.
@@ -392,11 +392,11 @@ Recommended items
 Flag this item
 Article
 Image
-General presentation of PHC
+MOPGA 2027: Visiting Fellowship Program for Early Career Researchers
 Flag this item
 Article
 Image
-Van Gogh program 2023
+Merlion Programme 2027
 All items
 Follow the main steps to come study in France
 Discover
@@ -802,7 +802,7 @@ Recommended items
 Flag this item
 Article
 Image
-How to stay fit in France?
+How to travel in France?
 Flag this item
 Article
 Image
@@ -1693,11 +1693,11 @@ Recommended items
 Flag this item
 Article
 Image
-France Excellence Eiffel scholarship program
+Campus France's expertise
 Flag this item
 Article
 Image
-The status of visiting professor or researcher
+Rights and obligations of the France Excellence Europa scholarship holder
 All items
 Follow the main steps to come study in France
 Discover
@@ -2086,11 +2086,11 @@ Recommended files
 Flag this item
 Dossier
 Image
-Seminar on international services
+Ukraine Emergency
 Flag this item
 Dossier
 Image
-Welcoming students and researchers in exile
+Covid-19
 All our reports
 Follow the main steps to come study in France
 Discover
@@ -2527,11 +2527,11 @@ Recommended items
 Flag this item
 Article
 Image
-Health, social security and insurance
+How to apply to the "Bienvenue en France" label?
 Flag this item
 Article
 Image
-A capital region
+The Campus France Residences
 All items
 Follow the main steps to come study in France
 Discover

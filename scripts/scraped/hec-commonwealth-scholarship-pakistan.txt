@@ -1,131 +1,65 @@
 ===== SOURCE PAGE: https://hec.gov.pk/ =====
-Title: English
-            
-            
-            Home
-
-URL Source: https://hec.gov.pk/
-
-Published Time: Sat, 17 Oct 2026 08:38:11 GMT
-
-Markdown Content:
-![Image 1](https://hec.gov.pk/_layouts/15/images/spcommon.png?rev=43)
-
-[Turn on more accessible mode](https://hec.gov.pk/#)
-
-[Turn off more accessible mode](https://hec.gov.pk/#)
-
-[Sign In](https://www.hec.gov.pk/english/_layouts/15/Authenticate.aspx?Source=%2Fenglish%2FPages%2Fdefault%2Easpx)
-
-[](https://hec.gov.pk/)
-
-![Image 2: header-hamburger](https://hec.gov.pk/Style%20Library/HEC/images/header-hamburger.svg)![Image 3: header-search](https://hec.gov.pk/Style%20Library/HEC/images/header-search.svg)
-
-[Close](https://hec.gov.pk/#)
-
-[![Image 4: Search](https://hec.gov.pk/_layouts/15/images/searchresultui.png?rev=43#ThemeKey=searchresultui)](javascript: {} "Search")
-
-###### Quick Links
-
-[![Image 5: play](https://hec.gov.pk/PublishingImages/Edu%20Tv.png)](https://edutv.hec.gov.pk/)
-
-![Image 6: hamburger](https://hec.gov.pk/Style%20Library/HEC/images/hamburger.svg)
-
-[![Image 7: HEC-logo](https://hec.gov.pk/Style%20Library/HEC/images/menu-logo.png)](https://hec.gov.pk/)![Image 8: close](https://hec.gov.pk/Style%20Library/HEC/images/close.svg)
-
-## Site Map
-
-### [Services & Facilities](https://hec.gov.pk/_catalogs/masterpage/HEC%20Services%20Detail%20Page%20With%20Side%20Nav.html)
-*   [Degree Attestation](https://hec.gov.pk/_catalogs/masterpage/HEC%20Services%20Detail%20Page%20With%20Side%20Nav.html#v-pills-home)
-*   [Equivalence Certificate](https://hec.gov.pk/_catalogs/masterpage/equivalence-Certificate.html)
-*   [Grievance Addressal](https://hec.gov.pk/_catalogs/masterpage/jobs-careers-c.html)
-*   [PM Laptop Scheme](https://hec.gov.pk/#)
-*   [Library & Utilities](https://hec.gov.pk/#)
-*   [Student Facilities](https://hec.gov.pk/#)
-
-### [Initiatives & Research](https://hec.gov.pk/_catalogs/masterpage/initiatives-research.html)
-*   [Research Programs](https://hec.gov.pk/_catalogs/masterpage/initiatives-research.html#initiative-research)
-*   [Initiative](https://hec.gov.pk/#)
-*   [Projects](https://hec.gov.pk/#)
-*   [Tenure Track](https://hec.gov.pk/#)
-*   [Quality Assurance](https://hec.gov.pk/#)
-
-### [Policies & Procedures](https://hec.gov.pk/_catalogs/masterpage/policies.html)
-*   [Policies & Procedures](https://hec.gov.pk/_catalogs/masterpage/policies.html)
-*   [Disability policy](https://hec.gov.pk/#)
-*   [Tenure track](https://hec.gov.pk/#)
-*   [Plagiarism policy](https://hec.gov.pk/#)
-*   [Collaboration criteria](https://hec.gov.pk/#)
-
-### [Jobs & Careers](https://hec.gov.pk/_catalogs/masterpage/jobs-careers.html)
-*   [Life at HEC](https://hec.gov.pk/_catalogs/masterpage/jobs-careers.html#life-at-hec)
-*   [Jobs](https://hec.gov.pk/_catalogs/masterpage/jobs-careers-b.html)
-*   [Career Development](https://hec.gov.pk/_catalogs/masterpage/jobs-careers.html#career-development)
-
-## Spotlight of the Month
-
-## Explore
-
-*   [About HEC](https://hec.gov.pk/_catalogs/masterpage/about.html)
-*   [Events](https://hec.gov.pk/_catalogs/masterpage/events.html)
-*   [News & Publications](https://hec.gov.pk/_catalogs/masterpage/news.html)
-*   [Blog](https://hec.gov.pk/_catalogs/masterpage/Detail_Page.html)
-*   [Help](https://hec.gov.pk/#)
-*   [Contact Us](https://hec.gov.pk/_catalogs/masterpage/contact-us.html)
-
-## Utility
-
-*   [Privacy policy](https://hec.gov.pk/#)
-*   [Terms & Condition](https://hec.gov.pk/#)
-
-*   [![Image 9: youtube](https://hec.gov.pk/Style%20Library/HEC/images/youtube.svg)](https://hec.gov.pk/#)
-*   [![Image 10: twitter](https://hec.gov.pk/Style%20Library/HEC/images/twitter.svg)](https://hec.gov.pk/#)
-*   [![Image 11: facebook](https://hec.gov.pk/Style%20Library/HEC/images/facebook.svg)](https://hec.gov.pk/#)
-
-[![Image 12: Higher Education Commission, Pakistan](https://hec.gov.pk/Style%20Library/HEC/images/main-logo.png)](https://hec.gov.pk/)
-
-# Welcome to HEC Pakistan
-
+English
+Home
+Turn on more accessible mode
+Turn off more accessible mode
+Sign In
+Close
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Quick Links
+Site Map
+Services & Facilities
+Degree Attestation
+Equivalence Certificate
+Grievance Addressal
+PM Laptop Scheme
+Library & Utilities
+Student Facilities
+Initiatives & Research
+Research Programs
+Initiative
+Projects
+Tenure Track
+Quality Assurance
+Policies & Procedures
+Policies & Procedures
+Disability policy
+Tenure track
+Plagiarism policy
+Collaboration criteria
+Jobs & Careers
+Life at HEC
+Jobs
+Career Development
+Spotlight of the Month
+Explore
+About HEC
+Events
+News & Publications
+Blog
+Help
+Contact Us
+Utility
+Privacy policy
+Terms & Condition
+Welcome to HEC Pakistan
 Empowering Pakistan through Higher Education
-
-[Close](https://hec.gov.pk/#)
-
-[![Image 13: Search](https://hec.gov.pk/_layouts/15/images/searchresultui.png?rev=43#ThemeKey=searchresultui)](javascript: {} "Search")
-
-###### Quick Links
-
-##### Announcements
-
-[See All](https://hec.gov.pk/english/HECAnnouncements/Pages/Announcements.aspx)
-
+Close
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Quick Links
+Announcements
+See All
 In continuation of its efforts to enable the country's higher education sector to become more effective in academic excellence, management and problem-oriented research, the HEC Pakistan Wednesday held launch conference of the NAHE.
-
-##### Spotlight
-
-Quick Links 
-*       *   [![Image 14: youtube](https://hec.gov.pk/Style%20Library/HEC/images/youtube.svg)](https://hec.gov.pk/#)
-    *   [![Image 15: twitter](https://hec.gov.pk/Style%20Library/HEC/images/twitter.svg)](https://hec.gov.pk/#)
-    *   [![Image 16: facebook](https://hec.gov.pk/Style%20Library/HEC/images/facebook.svg)](https://hec.gov.pk/#)
-
-*   [About HEC](https://hec.gov.pk/_catalogs/masterpage/about.html)
-*   [Contact Us](https://hec.gov.pk/english/Pages/ContactUs_Delete.aspx)
-*   [Blog](https://hec.gov.pk/english/Pages/Blog_Delete.aspx)
-*   [Events](https://hec.gov.pk/english/news/Pages/MainEventsPage.aspx)
-*   [Subscribe](https://hec.gov.pk/#)
-
-*   [Privacy policy](https://hec.gov.pk/#)
-*   [Terms & Condition](https://hec.gov.pk/#)
-*   [Copyrights HEC 2019](https://hec.gov.pk/#)
-
-*   [Terms & Condition](https://hec.gov.pk/#)
-*       *   [![Image 17: youtube](https://hec.gov.pk/Style%20Library/HEC/images/youtube.svg)](https://hec.gov.pk/#)
-    *   [![Image 18: twitter](https://hec.gov.pk/Style%20Library/HEC/images/twitter.svg)](https://hec.gov.pk/#)
-    *   [![Image 19: facebook](https://hec.gov.pk/Style%20Library/HEC/images/facebook.svg)](https://hec.gov.pk/#)
-
-*   [Copyrights HEC 2019](https://hec.gov.pk/#)
-
-[![Image 20: header-logo](https://hec.gov.pk/Style%20Library/HEC/images/header-logo.svg)](https://www.hec.gov.pk/)
-
-![Image 21: footer-subscribe-icon](https://hec.gov.pk/Style%20Library/HEC/images/footer-subscribe-icon.svg)
-
-*   [Sign In](https://www.hec.gov.pk/english/_layouts/15/Authenticate.aspx?Source=%2Fenglish%2FPages%2Fdefault%2Easpx)
+Spotlight
+Quick Links
+About HEC
+Contact Us
+Blog
+Events
+Subscribe
+Privacy policy
+Terms & Condition
+Copyrights HEC 2019
+Terms & Condition
+Copyrights HEC 2019
+Sign In
