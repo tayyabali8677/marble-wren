@@ -10,14 +10,14 @@ Markdown Content:
 
 MORE ABOUT HKUST
 
-*   [University News](https://hkust.edu.hk/news "University News")
-*   [Academic Departments A-Z](https://hkust.edu.hk/academics/list "Academic Departments A-Z")
-*   [Life@HKUST](https://hkust.edu.hk/lifehkust "Life@HKUST")
-*   [Library](https://library.ust.hk/ "Library (opens in a new window)")
-*   [Map & Directions](https://hkust.edu.hk/map-directions "Map & Directions")
-*   [Careers at HKUST](https://hkustcareers.ust.hk/ "Careers at HKUST (opens in a new window)")
-*   [Faculty Profiles](https://facultyprofiles.ust.hk/ "Faculty Profiles (opens in a new window)")
-*   [About HKUST](https://hkust.edu.hk/about "About HKUST")
+*   [University News](https://hkust.edu.hk/news "University News (opens in a new window)")
+*   [Academic Departments A-Z](https://hkust.edu.hk/academics/list "Academic Departments A-Z (opens in a new window)")
+*   [Life@HKUST](https://hkust.edu.hk/lifehkust "Life@HKUST (opens in a new window)")
+*   [Library](https://library.ust.hk/ "Library")
+*   [Map & Directions](https://hkust.edu.hk/map-directions "Map & Directions (opens in a new window)")
+*   [Careers at HKUST](https://hkustcareers.ust.hk/ "Careers at HKUST")
+*   [Faculty Profiles](https://facultyprofiles.ust.hk/ "Faculty Profiles")
+*   [About HKUST](https://hkust.edu.hk/about "About HKUST (opens in a new window)")
 
 [Search](https://pg.ust.hk/our-programs/financial-aids/scholarships-and-fellowship-schemes#)
 
@@ -46,7 +46,7 @@ Image
     *   Program Types
 
         *   [Program Types](https://pg.ust.hk/admissions/program-types) 
-        *   [Areas of Studies](https://fytgs.hkust.edu.hk/programs) 
+        *   [Areas of Studies](https://fytgs.hkust.edu.hk/programs "(opens in a new window)") 
         *   [PG Prospectus and Booklets](https://pg.ust.hk/about-fytgs/publications) 
         *   Continuing Education
 
@@ -96,11 +96,11 @@ Image
     *   [Programs & Courses](https://pg.ust.hk/academics/programs-courses) 
     *   Academic Regulations and Requirements
 
-        *   [Academic Standards](https://registry.hkust.edu.hk/resource-library/academic-standards) 
+        *   [Academic Standards](https://registry.hkust.edu.hk/resource-library/academic-standards "(opens in a new window)") 
         *   [Code of Practice for RPg Thesis Supervision](https://pg.ust.hk/code-practice-rpg-thesis-supervision) 
         *   [Academic Requirements for RPg Students](https://pg.ust.hk/academics/academic-regulations-and-requirements/academic-requirements-rpg-students) 
-        *   [Handbook for Research Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/preface) 
-        *   [Handbook for Taught Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Taught-Postgraduate-Studies/preface) 
+        *   [Handbook for Research Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/preface "(opens in a new window)") 
+        *   [Handbook for Taught Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Taught-Postgraduate-Studies/preface "(opens in a new window)") 
 
 ### Academics
 
@@ -116,49 +116,49 @@ Image
 
 *   Resources
 
-    *   [Guidelines & Forms](https://fytgs.hkust.edu.hk/academics/guidelines-forms) 
-    *   [Online Systems](https://fytgs.hkust.edu.hk/online-systems) 
-    *   [Program/Course Guidelines and Proposals](https://fytgs.hkust.edu.hk/resources/program-course-guidelines-and-proposals) 
+    *   [Guidelines & Forms](https://fytgs.hkust.edu.hk/academics/guidelines-forms "(opens in a new window)") 
+    *   [Online Systems](https://fytgs.hkust.edu.hk/online-systems "(opens in a new window)") 
+    *   [Program/Course Guidelines and Proposals](https://fytgs.hkust.edu.hk/resources/program-course-guidelines-and-proposals "(opens in a new window)") 
     *   Committees
 
         *   Committee on Postgraduate Studies
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/introduction) 
-            *   [Meeting Schedules](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/meeting-schedules) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/introduction "(opens in a new window)") 
+            *   [Meeting Schedules](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/meeting-schedules "(opens in a new window)") 
 
         *   Sub-Committee on Continuing & Professional Education
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/sub-committee-continuing-professional-education/introduction) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/sub-committee-continuing-professional-education/introduction "(opens in a new window)") 
 
         *   Faculty Committee for Asian Future Leaders Scholarship Program
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/aflsp/introduction) 
-            *   [Membership](https://fytgs.hkust.edu.hk/resources/committees/aflsp/membership) 
-            *   [Working Schedule](https://fytgs.hkust.edu.hk/resources/committees/aflsp/working-schedule) 
-            *   [Documents](https://fytgs.hkust.edu.hk/resources/committees/aflsp/documents) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/aflsp/introduction "(opens in a new window)") 
+            *   [Membership](https://fytgs.hkust.edu.hk/resources/committees/aflsp/membership "(opens in a new window)") 
+            *   [Working Schedule](https://fytgs.hkust.edu.hk/resources/committees/aflsp/working-schedule "(opens in a new window)") 
+            *   [Documents](https://fytgs.hkust.edu.hk/resources/committees/aflsp/documents "(opens in a new window)") 
 
-    *   [Student Surveys and Statistics](https://fytgs.hkust.edu.hk/resources/student-surveys-and-statistics) 
-    *   [PG Outreach and Admissions](https://pgadmission.ust.hk/ "(opens in a new window)") 
+    *   [Student Surveys and Statistics](https://fytgs.hkust.edu.hk/resources/student-surveys-and-statistics "(opens in a new window)") 
+    *   [PG Outreach and Admissions](https://pgadmission.ust.hk/) 
     *   [HKUST College of LifeLong Learning](https://pg.ust.hk/hkust-college-lifelong-learning) 
-    *   [Resources for Faculty](https://fytgs.hkust.edu.hk/resources-faculty) 
+    *   [Resources for Faculty](https://fytgs.hkust.edu.hk/resources-faculty "(opens in a new window)") 
 
 ### Resources
 
 *   [HKUST 2.0](https://pg.ust.hk/hkust-2.0) 
 
 *   [Quick Access](https://pg.ust.hk/quick-access)
-*   [Download Prospectus](https://fytgs.hkust.edu.hk/connect-with-us)
+*   [Download Prospectus](https://fytgs.hkust.edu.hk/connect-with-us "(opens in a new window)")
 *   [Apply Now](https://pg.ust.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/online-application)
 *   [FAQ](https://pg.ust.hk/admissions/faq)
 
 *   [Quick Access](https://pg.ust.hk/quick-access)
-*   [Download Prospectus](https://fytgs.hkust.edu.hk/connect-with-us)
+*   [Download Prospectus](https://fytgs.hkust.edu.hk/connect-with-us "(opens in a new window)")
 *   [Apply Now](https://pg.ust.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/online-application)
 *   [FAQ](https://pg.ust.hk/admissions/faq)
 
 [Search](https://pg.ust.hk/our-programs/financial-aids/scholarships-and-fellowship-schemes#)
 
-[![Image 7: HKUST](https://pg.ust.hk/sites/default/files/2026-03/SENG-logo_English_with35A_FullColor.png)](https://hkust.edu.hk/)
+[![Image 7: HKUST](https://pg.ust.hk/sites/default/files/2026-03/SENG-logo_English_with35A_FullColor.png)](https://hkust.edu.hk/ "(opens in a new window)")
 
 [![Image 8](https://pg.ust.hk/sites/default/files/2021-10/Logo_%20Fytgs.svg)](https://pg.ust.hk/)
 
@@ -185,7 +185,7 @@ Image
     *   Program Types
 
         *   [Program Types](https://pg.ust.hk/admissions/program-types) 
-        *   [Areas of Studies](https://fytgs.hkust.edu.hk/programs) 
+        *   [Areas of Studies](https://fytgs.hkust.edu.hk/programs "(opens in a new window)") 
         *   [PG Prospectus and Booklets](https://pg.ust.hk/about-fytgs/publications) 
         *   Continuing Education
 
@@ -235,11 +235,11 @@ Image
     *   [Programs & Courses](https://pg.ust.hk/academics/programs-courses) 
     *   Academic Regulations and Requirements
 
-        *   [Academic Standards](https://registry.hkust.edu.hk/resource-library/academic-standards) 
+        *   [Academic Standards](https://registry.hkust.edu.hk/resource-library/academic-standards "(opens in a new window)") 
         *   [Code of Practice for RPg Thesis Supervision](https://pg.ust.hk/code-practice-rpg-thesis-supervision) 
         *   [Academic Requirements for RPg Students](https://pg.ust.hk/academics/academic-regulations-and-requirements/academic-requirements-rpg-students) 
-        *   [Handbook for Research Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/preface) 
-        *   [Handbook for Taught Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Taught-Postgraduate-Studies/preface) 
+        *   [Handbook for Research Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Research-Postgraduate-Studies/preface "(opens in a new window)") 
+        *   [Handbook for Taught Postgraduate Studies](https://fytgs.hkust.edu.hk/academics/Academic-Regulations-and-Requirements/Handbook-for-Taught-Postgraduate-Studies/preface "(opens in a new window)") 
 
 ### Academics
 
@@ -255,31 +255,31 @@ Image
 
 *   Resources
 
-    *   [Guidelines & Forms](https://fytgs.hkust.edu.hk/academics/guidelines-forms) 
-    *   [Online Systems](https://fytgs.hkust.edu.hk/online-systems) 
-    *   [Program/Course Guidelines and Proposals](https://fytgs.hkust.edu.hk/resources/program-course-guidelines-and-proposals) 
+    *   [Guidelines & Forms](https://fytgs.hkust.edu.hk/academics/guidelines-forms "(opens in a new window)") 
+    *   [Online Systems](https://fytgs.hkust.edu.hk/online-systems "(opens in a new window)") 
+    *   [Program/Course Guidelines and Proposals](https://fytgs.hkust.edu.hk/resources/program-course-guidelines-and-proposals "(opens in a new window)") 
     *   Committees
 
         *   Committee on Postgraduate Studies
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/introduction) 
-            *   [Meeting Schedules](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/meeting-schedules) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/introduction "(opens in a new window)") 
+            *   [Meeting Schedules](https://fytgs.hkust.edu.hk/resources/committees/committee-postgraduate-studies/meeting-schedules "(opens in a new window)") 
 
         *   Sub-Committee on Continuing & Professional Education
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/sub-committee-continuing-professional-education/introduction) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/sub-committee-continuing-professional-education/introduction "(opens in a new window)") 
 
         *   Faculty Committee for Asian Future Leaders Scholarship Program
 
-            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/aflsp/introduction) 
-            *   [Membership](https://fytgs.hkust.edu.hk/resources/committees/aflsp/membership) 
-            *   [Working Schedule](https://fytgs.hkust.edu.hk/resources/committees/aflsp/working-schedule) 
-            *   [Documents](https://fytgs.hkust.edu.hk/resources/committees/aflsp/documents) 
+            *   [Introduction](https://fytgs.hkust.edu.hk/resources/committees/aflsp/introduction "(opens in a new window)") 
+            *   [Membership](https://fytgs.hkust.edu.hk/resources/committees/aflsp/membership "(opens in a new window)") 
+            *   [Working Schedule](https://fytgs.hkust.edu.hk/resources/committees/aflsp/working-schedule "(opens in a new window)") 
+            *   [Documents](https://fytgs.hkust.edu.hk/resources/committees/aflsp/documents "(opens in a new window)") 
 
-    *   [Student Surveys and Statistics](https://fytgs.hkust.edu.hk/resources/student-surveys-and-statistics) 
-    *   [PG Outreach and Admissions](https://pgadmission.ust.hk/ "(opens in a new window)") 
+    *   [Student Surveys and Statistics](https://fytgs.hkust.edu.hk/resources/student-surveys-and-statistics "(opens in a new window)") 
+    *   [PG Outreach and Admissions](https://pgadmission.ust.hk/) 
     *   [HKUST College of LifeLong Learning](https://pg.ust.hk/hkust-college-lifelong-learning) 
-    *   [Resources for Faculty](https://fytgs.hkust.edu.hk/resources-faculty) 
+    *   [Resources for Faculty](https://fytgs.hkust.edu.hk/resources-faculty "(opens in a new window)") 
 
 ### Resources
 
@@ -287,7 +287,7 @@ Image
 
 [Search](https://pg.ust.hk/our-programs/financial-aids/scholarships-and-fellowship-schemes#)
 
-[![Image 11: HKUST](https://pg.ust.hk/sites/default/files/2026-03/SENG-logo_English_with35A_FullColor.png)](https://hkust.edu.hk/)
+[![Image 11: HKUST](https://pg.ust.hk/sites/default/files/2026-03/SENG-logo_English_with35A_FullColor.png)](https://hkust.edu.hk/ "(opens in a new window)")
 
 [![Image 12](https://pg.ust.hk/sites/default/files/2021-10/Logo_%20Fytgs.svg)](https://pg.ust.hk/)
 
@@ -301,7 +301,7 @@ HKUST Postgraduate Admission 2027-28
 
 Join us to reach your vision and realize your dreams
 
-[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply)[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs)
+[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply "(opens in a new window)")[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs "(opens in a new window)")
 
 ![Image 13: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -309,7 +309,7 @@ Join us to reach your vision and realize your dreams
 
 An institution where research excellence is a reality, and “Dare to Dream” is our invitation.
 
-[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures)
+[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures "(opens in a new window)")
 
 ![Image 15: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -345,7 +345,7 @@ Distinguished Faculty
 
 With our distinguished faculty and robust infrastructure, we inspire your inquisitive mind, find solutions to today's problem, and create a better tomorrow.
 
-[Faculty Profiles](https://fytgs.hkust.edu.hk/faculty)
+[Faculty Profiles](https://fytgs.hkust.edu.hk/faculty "(opens in a new window)")
 
 ![Image 23: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -358,7 +358,7 @@ An internationally recognized award for the best PhD students from around the gl
 
 Application Deadline: 1 Dec 2026
 
-[Explore More](https://fytgs.hkust.edu.hk/hkpfs)
+[Explore More](https://fytgs.hkust.edu.hk/hkpfs "(opens in a new window)")
 
 ![Image 25: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -378,7 +378,7 @@ An exclusive scholarship for Asian scholars to pursue Master's studies and cross
 
 Application Deadline: 24 Jan 2027
 
-[Explore More](https://fytgs.hkust.edu.hk/aflsp)
+[Explore More](https://fytgs.hkust.edu.hk/aflsp "(opens in a new window)")
 
 ![Image 31: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -396,7 +396,7 @@ for Advanced Studies
 
 A scholarship for meritorious local students of selected taught master's program, with a tuition waiver up to HK$100,000(~US$12,768)
 
-[Explore More](https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies)
+[Explore More](https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies "(opens in a new window)")
 
 ![Image 36: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -406,7 +406,7 @@ HKUST Postgraduate Admission 2027-28
 
 Join us to reach your vision and realize your dreams
 
-[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply)[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs)
+[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply "(opens in a new window)")[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs "(opens in a new window)")
 
 ![Image 38: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -414,7 +414,7 @@ Join us to reach your vision and realize your dreams
 
 An institution where research excellence is a reality, and “Dare to Dream” is our invitation.
 
-[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures)
+[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures "(opens in a new window)")
 
 ![Image 40: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -450,7 +450,7 @@ Distinguished Faculty
 
 With our distinguished faculty and robust infrastructure, we inspire your inquisitive mind, find solutions to today's problem, and create a better tomorrow.
 
-[Faculty Profiles](https://fytgs.hkust.edu.hk/faculty)
+[Faculty Profiles](https://fytgs.hkust.edu.hk/faculty "(opens in a new window)")
 
 ![Image 48: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -463,7 +463,7 @@ An internationally recognized award for the best PhD students from around the gl
 
 Application Deadline: 1 Dec 2026
 
-[Explore More](https://fytgs.hkust.edu.hk/hkpfs)
+[Explore More](https://fytgs.hkust.edu.hk/hkpfs "(opens in a new window)")
 
 ![Image 50: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -483,7 +483,7 @@ An exclusive scholarship for Asian scholars to pursue Master's studies and cross
 
 Application Deadline: 24 Jan 2027
 
-[Explore More](https://fytgs.hkust.edu.hk/aflsp)
+[Explore More](https://fytgs.hkust.edu.hk/aflsp "(opens in a new window)")
 
 ![Image 56: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -501,7 +501,7 @@ for Advanced Studies
 
 A scholarship for meritorious local students of selected taught master's program, with a tuition waiver up to HK$100,000(~US$12,768)
 
-[Explore More](https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies)
+[Explore More](https://fytgs.hkust.edu.hk/hong-kong-future-talents-scholarship-scheme-advanced-studies "(opens in a new window)")
 
 ![Image 61: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -511,7 +511,7 @@ HKUST Postgraduate Admission 2027-28
 
 Join us to reach your vision and realize your dreams
 
-[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply)[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs)
+[How to Apply](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/how-to-apply "(opens in a new window)")[Wide-range of PG Programs](https://fytgs.hkust.edu.hk/programs "(opens in a new window)")
 
 ![Image 63: background](https://pg.ust.hk/themes/custom/ustfytgs/src/img/slide-1.svg)
 
@@ -531,13 +531,13 @@ What **Program**are You Looking for?
 
 ***Apply NOW!***​
 
-The University is now inviting applications for 2027/28 Fall Term and 2026/27 Spring Term admissions. Learn more about our wide selection of programs at [fytgs.hkust.edu.hk/programs](https://fytgs.hkust.edu.hk/programs). More details of the application deadlines are available in the “Application” tab of individual program page.​
+The University is now inviting applications for 2027/28 Fall Term and 2026/27 Spring Term admissions. Learn more about our wide selection of programs at [fytgs.hkust.edu.hk/programs](https://fytgs.hkust.edu.hk/programs "(opens in a new window)"). More details of the application deadlines are available in the “Application” tab of individual program page.​
 
 ## Globally Recognized
 
 Upholding our excellence in scholarship and research, we intend to stay globally focused and diversely grounded, and extend our welcome to the brightest minds like you.
 
-[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures)
+[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures "(opens in a new window)")
 
 ![Image 66](https://pg.ust.hk/sites/default/files/2021-10/IMG_0858_600x600.png)
 
@@ -579,7 +579,7 @@ University Grants Committee, Research Assessment Exercise 2020
 
 Do join us and get inspired by our outstanding faculty who are distinguished scholars, dedicated teachers and passionate life explorers.
 
-[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures)
+[Explore More](https://fytgs.hkust.edu.hk/about-fytgs/pg-facts-and-figures "(opens in a new window)")
 
 ![Image 71](https://pg.ust.hk/sites/default/files/2021-09/block1_0.jpg)
 
@@ -742,10 +742,10 @@ As a graduate of BEng and PhD and now a faculty member of the Department of Civi
 
 [Understanding HKUST](https://pg.ust.hk/quick-access/understanding-hkust)[Preparing Applications](https://pg.ust.hk/quick-access/preparing-applications)[Securing your Offer](https://pg.ust.hk/quick-access/securing-your-offer)[Registration and Enrolment](https://pg.ust.hk/quick-access/registration-and-enrolment)[Arranging your New Postgraduate Life @HKUST](https://pg.ust.hk/quick-access/arranging-your-new-postgraduate-life-hkust)[Academic Regulations and Requirements](https://pg.ust.hk/quick-access/academic-regulations-and-requirements)[Supports to Current Postgraduate Students](https://pg.ust.hk/quick-access/supports-current-postgraduate-students)[Guidelines, Forms and Online Systems](https://pg.ust.hk/quick-access/guidelines-forms-and-online-systems)[Study Reports and Thesis Examination](https://pg.ust.hk/quick-access/study-reports-and-thesis-examination)[Preparing for Graduation](https://pg.ust.hk/quick-access/preparing-graduation)
 
-[![Image 89](https://pg.ust.hk/sites/default/files/2021-10/in_UST_Eng_white.svg)](https://hkust.edu.hk/)
+[![Image 89](https://pg.ust.hk/sites/default/files/2021-10/in_UST_Eng_white.svg)](https://hkust.edu.hk/ "(opens in a new window)")
 
-*   [Privacy](https://dataprivacy.ust.hk/university-data-privacy-policy-statement "(opens in a new window)")
-*   [PICS for Students](https://fytgs.hkust.edu.hk/pics)
+*   [Privacy](https://dataprivacy.ust.hk/university-data-privacy-policy-statement)
+*   [PICS for Students](https://fytgs.hkust.edu.hk/pics "(opens in a new window)")
 
 Copyright © The Hong Kong University of Science and Technology. All rights reserved. Designed by MTPC.
 
@@ -753,14 +753,14 @@ Follow HKUST on
 
 [](https://www.facebook.com/hkustpg/ "(opens in a new window)")[](https://www.instagram.com/hkustpg/ "(opens in a new window)")[](https://www.youtube.com/c/HKUSTPostgraduateStudies "(opens in a new window)")[](https://www.linkedin.com/school/hkust/ "(opens in a new window)")
 
-*   [Privacy](https://dataprivacy.ust.hk/university-data-privacy-policy-statement "(opens in a new window)")
-*   [PICS for Students](https://fytgs.hkust.edu.hk/pics)
+*   [Privacy](https://dataprivacy.ust.hk/university-data-privacy-policy-statement)
+*   [PICS for Students](https://fytgs.hkust.edu.hk/pics "(opens in a new window)")
 
 Follow HKUST on
 
 [](https://www.facebook.com/hkustpg/ "(opens in a new window)")[](https://www.instagram.com/hkustpg/ "(opens in a new window)")[](https://www.youtube.com/c/HKUSTPostgraduateStudies "(opens in a new window)")[](https://www.linkedin.com/school/hkust/ "(opens in a new window)")
 
-[![Image 90](https://pg.ust.hk/sites/default/files/2021-10/in_UST_Eng_white.svg)](https://hkust.edu.hk/)
+[![Image 90](https://pg.ust.hk/sites/default/files/2021-10/in_UST_Eng_white.svg)](https://hkust.edu.hk/ "(opens in a new window)")
 
 Copyright © The Hong Kong University of Science and Technology. All rights reserved. Designed by MTPC.
 

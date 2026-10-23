@@ -3,6 +3,8 @@ Title: メンテナンス中｜国際交流基金(JF) The Japan Foundation
 
 URL Source: https://www.jpf.go.jp/e/program/index.html
 
+Published Time: Wed, 21 Oct 2026 12:56:41 GMT
+
 Warning: Target URL returned error 503: Service Unavailable
 
 Markdown Content:

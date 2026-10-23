@@ -1,11 +1,15 @@
 ===== SOURCE PAGE: https://www.who.int/careers/internships =====
 WHO Internship Programme
 Skip to main content
-World Health Organization
 Global
 Regions
-World Health Organization
 WHO Regional websites
+Africa
+Americas
+South-East Asia
+Europe
+Eastern Mediterranean
+Western Pacific
 When autocomplete results are available use up and down arrows to review and enter to select.
 Select language
 Select language
@@ -1620,7 +1624,7 @@ Stellis maintenance schedule​
 The Department of Information Management and Technology (IMT) at WHO strives to ensure that major systems are continually available for use with as little downtime as possible.
 In order to ensure continued stability and security as well as to maintain our product support, these systems require regular maintenance (updates, upgrades, performance tuning, and various other changes).
 Please therefore note a maintenance window is scheduled on a weekly basis, every Saturday morning, from 07:00 to 09:30 CET (Geneva time).
-There will be additional maintenance carried out on 26 September 2026 from 01:00 to 05:00 CET (Geneva time).
+There will be additional maintenance carried out on 30 October 2026 from 01:00 to 05:00 CET (Geneva time).
 WHO may, from time to time, need to change its planned maintenance schedule without prior notice.
 Learn more
 Careers main page

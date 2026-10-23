@@ -1,30 +1,15 @@
 ===== SOURCE PAGE: https://www.mq.edu.au/study/scholarships =====
-Title: Page not found
+Title: Just a moment...
 
 URL Source: https://www.mq.edu.au/study/scholarships
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-*   [Current students](https://students.mq.edu.au/)
-*   [Staff](https://mqoutlook.sharepoint.com/sites/mq-staff-intranet)
-*   [Alumni](https://www.mq.edu.au/alumni)
-*   [Library](https://www.mq.edu.au/about/facilities/library)
-*   [Maps](https://www.mq.edu.au/about/locations/maps)
-*   [Contact](https://www.mq.edu.au/about/locations/contacts)
+![Image 1: Icon for www.mq.edu.au](https://www.mq.edu.au/favicon.ico)
 
-# Page not found
+## www.mq.edu.au
 
-1.   [Macquarie University](https://www.mq.edu.au/)
-2.   Page not found
+## Performing security verification
 
-The page you are looking for isn't available.
-
-This might be because:
-
-*   you typed the web address incorrectly
-*   the page you were looking for has been moved or deleted
-
-[Return to the Macquarie University homepage](https://www.mq.edu.au/home)
-
-![Image 2](https://bat.bing.com/action/0?ti=16003138&tm=gtm002&Ver=2&mid=e57ba9ac-1eca-4d3f-8db6-e5b6f2237b0c&bo=1&sid=6ab56600ce3e11f1a0fd71714584d1ae&vid=6ab58790ce3e11f186b49768b4578927&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20not%20found%20-%20Macquarie%20University&p=https%3A%2F%2Fwww.mq.edu.au%2Fstudy%2Fscholarships&r=&lt=3644&evt=pageLoad&sv=2&cdb=AQAQ&rn=980498)
-
-We use cookies to improve your experience on our site and to show you personalised content. For more information about how we use cookies, please read our [Privacy](https://www.mq.edu.au/about/about-the-university/structure-governance/privacy) information.
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

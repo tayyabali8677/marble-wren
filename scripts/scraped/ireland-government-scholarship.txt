@@ -245,7 +245,7 @@ Find information on how to make a Protected Disclosure under the external proced
         *   [Overview](https://hea.ie/funding-governance-performance/governance/overview/)
         *   [Protected Disclosures](https://hea.ie/funding-governance-performance/governance/protected-disclosures/)
         *   [Governance Framework for the Higher Education Sys.](https://hea.ie/funding-governance-performance/governance/governance-framework-for-the-higher-education-system/)
-        *   [Legislation & Codes](https://hea.ie/funding-governance-performance/governance/legislation-codes/)
+        *   [Legislation and Codes](https://hea.ie/funding-governance-performance/governance/legislation-and-codes/)
 
     *   [Managing Performance](https://hea.ie/funding-governance-performance/managing-performance/)Open submenu for Managing Performance
         *   [System Performance Framework](https://hea.ie/funding-governance-performance/managing-performance/system-performance-framework/)
@@ -316,8 +316,6 @@ Tracking graduate outcomes is crucial to improving the quality of education for 
 
 *   [Publications](https://hea.ie/resources/publications)
 *   [News](https://hea.ie/news)
-
-show search
 
 You are here:
 
@@ -456,5 +454,3 @@ Email: info@hea.ie
 Search our Website 
 
 Submit
-
-Close Search

@@ -508,7 +508,7 @@ UniBuc - Universitatea din București[Declarație de accesibilitate](https://uni
 ## Accessibility Statement
 
 *   unibuc.ro
-*   22/10/2026
+*   23/10/2026
 
 ### Compliance status
 
@@ -561,7 +561,7 @@ We aim to support the widest array of browsers and assistive technologies as pos
 
 Despite our very best efforts to allow anybody to adjust the website to their needs, there may still be pages or sections that are not fully accessible, are in the process of becoming accessible, or are lacking an adequate technological solution to make them accessible. Still, we are continually improving our accessibility, adding, updating and improving its options and features, and developing and adopting new technologies. All this is meant to reach the optimal level of accessibility, following technological advancements. For any assistance, please reach out to
 
-![Image 12](https://pixel.wp.com/g.gif?v=ext&blog=161859428&post=0&tz=3&srv=unibuc.ro&arch_err=%2Fen%2Finternational%2Fscholarships%2F&j=1%3A16.3.1&host=unibuc.ro&ref=&fcp=4444&rand=0.8744143664788919)
+![Image 12](https://pixel.wp.com/g.gif?v=ext&blog=161859428&post=0&tz=3&srv=unibuc.ro&arch_err=%2Fen%2Finternational%2Fscholarships%2F&j=1%3A16.3.1&host=unibuc.ro&ref=&fcp=2688&rand=0.6412893554852712)
 
 Recunoaștere vocală Wait... 
 
@@ -603,7 +603,7 @@ Arată numerele Afișează numerele Activează numerele
 
 ![Image 22: Numărul ... ](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/number.svg)**Numărul ...**–Fă click pe elementul număr...
 
-Click șase Apasă șapte Deschide cinci
+Click șapte Apasă zero Deschide nouă
 
 ![Image 23: Ascunde numerele](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/hide-numbers.svg)**Ascunde numerele**–Ascunde numerele pentru elementele interactive
 

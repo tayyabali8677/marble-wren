@@ -1,23 +1,41 @@
 ===== SOURCE PAGE: https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/ =====
-Title: Wartungsarbeiten / Maintenance - 503 Service Unavailable
+Title: DAAD - Deutscher Akademischer Austauschdienst
 
 URL Source: https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/
 
-Warning: Target URL returned error 503: Service Unavailable
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-## Wir sind vorübergehend offline
+[Jump to content](https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/#content)
 
-Aus Vorsicht haben wir diese Website vorübergehend offline genommen, da eine kritische Sicherheitslücke in PHP bekannt wurde - einer Programmiersprache, die von einem Großteil aller Websites weltweit verwendet wird.
+[![Image 1: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service - to homepage](https://www.daad.de/_nuxt/logo-small-light.BeMXrHNY.svg)![Image 2: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service - to homepage](https://www.daad.de/_nuxt/logo-small-dark.BjXioAOO.svg)](https://www.daad.de/en/)
 
-Es handelt sich nicht um ein Problem, das speziell diese Website betrifft.
+*   [Deutsch](https://www.daad.de/fehlerseiten/404/ "Deutsche Version dieses Auftritts")
+*   English
+*   [](https://www.daad.de/en/sign-language/)
 
-Viele andere Organisationen, darunter Behörden und große Nachrichtenseiten, haben denselben Schritt unternommen. Es gibt keine Hinweise darauf, dass diese Website kompromittiert wurde oder Daten abgeflossen sind.
+[Contact](https://www.daad.de/en/the-daad/contact/)
 
-## We are temporarily offline
+Colour switch
 
-As a precaution, we have temporarily taken this website offline because a critical security vulnerability has been discovered in PHP—a programming language used by the vast majority of websites worldwide.
+Colour switch
 
-This is not a problem specific to this website.
+*   [Study, research & teach abroad](https://www.daad.de/en/study-research-teach-abroad/)
 
-Many other organizations, including government agencies and major news sites, have taken the same step. There is no evidence that this website has been compromised.
+*   [Info & Services for Higher Education Institutions](https://www.daad.de/en/information-services-for-higher-education-institutions/)
+
+## Error 404 - We could not find that page
+
+![Image 3: Feet in front of arrows pointing into 3 directions](https://www.daad.de/en/studying-in-germany/scholarships/sozialwissenschaften-public-policy-und-menschenrechte/%7B%22href%22:%22https:////api.daad.de//api//image//md1st//media//daad_de//fuesse-pfeile_972x547.jpg.webp%22,%22width%22:648,%22height%22:365%7D)
+
+We are continously working to extend and improve our online services for you.
+
+Unfortunately we could not find the page you are looking for at this link.
+
+**What to do now?**
+
+*   Use the menue on the top of the page to navigate to the correct page.
+*   Visit the [homepage](https://www.daad.de/en/)for a better orientation.
+*   Update the link in your bookmark.
+
+Thanks for your comprehension!

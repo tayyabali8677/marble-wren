@@ -127,9 +127,6 @@ Markdown Content:
 
 [](https://www.queensu.ca/admission/financial-support/scholarships)
 
-1.    Financial Support 
-2.    Page Not Found 
-
 # Page Not Found
 
 ## Queen's Undergraduate Admissions has a new site!

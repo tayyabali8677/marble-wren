@@ -4,6 +4,8 @@ Title: Home
 URL Source: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships
 
 Markdown Content:
+Welcome to All in One Accessibility screen reader. To start the All in One Accessibility screen reader, press "Ctrl + /". This shortcut activates the screen reader to help you navigate and interact with the content.
+
 Skip to Content
 
 ↵

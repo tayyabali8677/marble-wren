@@ -89,6 +89,6 @@ You may find these frequently visited LSA and university web resources helpful:
 *   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
 *   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
 *   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/biophysics/en/news-events/all-news/student-news/welcome-biophysics-reu-students.html)
+*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/sweetland/en/news-events/all-events/archived-events/2015/12/core-skills--publishing-articles-in-academic-journals-for-the-hu.lsa-image-servlet.jpg)
 
  © [2026 Regents of the University of Michigan](http://regents.umich.edu/)
