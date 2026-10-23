@@ -3854,5 +3854,12 @@
     "country": "Canada",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Extracted from EduCanada portal listing for international and faculty mobility opportunities."
+  },
+  {
+    "slug": "erasmus-mundus-joint-masters-scholarships-eu",
+    "name": "Erasmus Mundus Joint Masters Scholarships",
+    "country": "European Union",
+    "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
+    "note": "Mentioned on the EduCanada portal for international and Canadian mobility."
   }
 ]
