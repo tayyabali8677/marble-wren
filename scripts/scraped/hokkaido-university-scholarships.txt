@@ -119,8 +119,7 @@ Research & Education
     *   [Joint Facilities/Research Centers](https://www.global.hokudai.ac.jp/research-education/joint-facilities-research-centers/)
 
 *   Education Institutes/Centers 
-    *   [Advancement of Higher Education](https://www.global.hokudai.ac.jp/research-education/advancement-of-higher-education/)
-    *   [Advancement of Graduate Education](https://www.global.hokudai.ac.jp/research-education/advancement-of-graduate-education/)
+    *   [Institute for Academic Innovation](https://www.global.hokudai.ac.jp/research-education/institute-for-academic-innovation/)
     *   [Center for Open Education](https://www.global.hokudai.ac.jp/research-education/center-for-open-education/)
     *   [Student Counseling and Support Center](https://www.global.hokudai.ac.jp/research-education/student-advice-and-counseling/)
     *   [Center for Career Design](https://www.global.hokudai.ac.jp/research-education/career-center/)

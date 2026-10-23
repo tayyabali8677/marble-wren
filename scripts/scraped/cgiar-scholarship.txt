@@ -32,7 +32,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -42,6 +41,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council
@@ -587,7 +587,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -597,6 +596,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council
@@ -1126,7 +1126,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -1136,6 +1135,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council
@@ -1691,7 +1691,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -1701,6 +1700,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council
@@ -2125,7 +2125,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -2135,6 +2134,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council
@@ -2560,7 +2560,6 @@ Our Centers across the world
 Our Centers across the world Overview
 AfricaRice
 CIP
-Landscape Alliance
 The Alliance of Bioversity International and CIAT
 CIMMYT
 ICARDA
@@ -2570,6 +2569,7 @@ IITA
 ILRI
 IRRI
 IWMI
+Landscape Alliance
 WorldFish
 CGIAR Council
 CGIAR Council

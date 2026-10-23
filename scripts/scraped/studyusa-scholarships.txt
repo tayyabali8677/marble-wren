@@ -12,7 +12,7 @@ Markdown Content:
 
 [View Disclaimer](https://educationusa.state.gov/about/translation)
 
-![Image 2: Google Translate Icon](https://www.google.com/images/cleardot.gif)[![Image 3](https://www.google.com/images/cleardot.gif)​![Image 4](https://www.google.com/images/cleardot.gif)▼](https://educationusa.state.gov/your-5-steps-us-study/research-your-options/scholarships#)
+![Image 2: Google Translate Icon](https://www.google.com/images/cleardot.gif)[Select Language![Image 3](https://www.google.com/images/cleardot.gif)​![Image 4](https://www.google.com/images/cleardot.gif)▼](https://educationusa.state.gov/your-5-steps-us-study/research-your-options/scholarships#)
 
 ## Search form
 

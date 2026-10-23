@@ -1,11 +1,540 @@
 ===== SOURCE PAGE: https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/ =====
-Title: Thank you for your patience
+Microsoft Research PhD Fellowship - Microsoft Research
+Research
+Publications
+Code, datasets and models
+Artificial intelligence
+Audio & acoustics
+Computer vision
+Graphics & multimedia
+Human-computer interaction
+Human language technologies
+Search & information retrieval
+Data platforms and analytics
+Hardware & devices
+Programming languages & software engineering
+Quantum computing
+Security, privacy & cryptography
+Systems & networking
+Algorithms
+Mathematics
+Ecology & environment
+Economics
+Medical, health & genomics
+Social sciences
+Technology for emerging markets
+Academic programs
+Events & academic conferences
+Microsoft Research Forum
+Microsoft Research Blog
+Microsoft Research Podcast
+Microsoft Research Stories
+About Microsoft Research
+Careers & internships
+People
+News & awards
+AI for Science
+Asia-Pacific
+Cambridge
+Catalyst Lab
+India
+Montreal
+New England
+New York City
+Redmond
+Other research groups
+Register: Research Forum
+Microsoft Security
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft Teams
+Windows 365
+Microsoft AI
+Azure Space
+Mixed reality
+Microsoft HoloLens
+Microsoft Viva
+Quantum computing
+Sustainability
+Education
+Automotive
+Financial services
+Government
+Healthcare
+Manufacturing
+Retail
+Find a partner
+Become a partner
+Partner Network
+Microsoft Marketplace
+Software companies
+Blog
+Microsoft Advertising
+Developer Center
+Documentation
+Events
+Licensing
+Microsoft Learn
+Microsoft Research
+View Sitemap
+Microsoft Research PhD Fellowship
+Region:
+Global
+For eligible students at universities globally pursuing research aligned to Microsoft Research areas of focus.
+About
+Asia-Pacific
+Australia & New Zealand
+Canada & US
+Europe
+Middle East
+Africa
+Latin America
+2022 Recipients
+Past Fellows
+Update : Microsoft Research has paused our call for proposals/nominations for the 2023 calendar year. We are exploring new avenues to invest in our academic partnerships and bring together students and researchers to collaborate, share knowledge, and pursue new research directions.
+To learn more about the recently announced Microsoft Research AI & Society Fellows program , uniting eminent scholars and experts to collaborate on research at the intersection of AI and society, visit our program page .
+About
+The Microsoft Research PhD Fellowship is a global program that identifies and empowers the next generation of exceptional computing research talent. Microsoft recognizes the value of diversity in computing and aims to increase the pipeline of talent receiving advanced degrees in computing-related fields to build a stronger and inclusive computing-related research community. We currently offer PhD fellowships in Asia-Pacific, Canada and the United States, EMEA (Europe, Middle East, Africa), Latin America, Australia and New Zealand.
+Over the last two decades, the Microsoft Research PhD Fellowship program has supported over 700 fellows around the world, many of whom have gone on to work at Microsoft. Others have gone on to perform pioneering research elsewhere within the technology industry or accept faculty appointments at leading universities.
+Regions
+See your region for details, instructions, and answers to common questions.
+Asia-Pacific
+Australia & New Zealand
+Canada & United States
+Europe
+Middle East
+Africa
+Latin America
+We are always looking for the best and brightest talent and celebrate individuality. We invite and encourage candidates to come as they are and do what they love.
+The Microsoft Research 2022 Global PhD Fellowship recipients were announced in October 2022. Meet all the 2022 PhD Fellowship recipients on our &#8220; 2022 Fellows &#8221; page or hear about what this opportunity means to a few PhD fellows from around the globe below.
+Video playback requires cookie consent
+Opens in a new tab
+Follow us:
+Follow on X
+Like on Facebook
+Follow on LinkedIn
+Subscribe on Youtube
+Follow on Instagram
+Subscribe to our RSS feed
+Share this page:
+Share on X
+Share on Facebook
+Share on LinkedIn
+Share on Reddit
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Surface RTX Spark Dev Box
+Explore Copilot
+Explore Microsoft products
+Windows 11 apps
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Why buy from Microsoft Store
+Flexible Payments
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+AI for education
+Microsoft AI
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft Copilot
+Small Business
+Azure
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Software companies
+Visual Studio
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap
+Contact Microsoft
+Privacy
+Manage cookies
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads
 
-URL Source: https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/
+===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
+How to Buy Microsoft for Education | Microsoft Education
+This is the Trace Id: c7e2368d827959777a9a0fd8b33bba22
+Skip to main content
+Education
+Azure for education
+Copilot in education
+Devices
+Edge
+Microsoft 365
+Microsoft Teams
+Minecraft Education
+Office 365
+OneNote
+Windows 11
+Accessibility tools
+AI in education
+Cybersecurity solutions
+Learning Accelerators
+Learning tools
+Social-emotional learning
+K12 education leaders
+Higher education leaders
+IT leaders
+Educators
+Students
+Education blog
+Education events
+Frequently asked questions
+Learn Educator Center
+Resource Center
+Contact Sales
+Shop for home
+Why Microsoft Education
+Contact a sales partner
+HOW TO BUY
+Get help choosing the right Microsoft technology for your school or student</h1> ">
+Get help choosing the right Microsoft technology for your school or student
+Microsoft Education solutions work on any device, but the best experiences come together on Windows for students and teachers. Connect with a Microsoft Education expert to find solutions that work best for your school.
+Contact a sales partner
+Products
+Products
+Resources
+Devices
+Solutions
+FAQ
+Next Steps
+Products
+Explore Microsoft products</h2> ">
+Explore Microsoft products
+Windows 11 for education
+Reimagined for a new era of digital learning, Windows 11 for education supports students with powerful tools to learn, collaborate, and create.
+Learn more
+Microsoft 365 Education
+A comprehensive suite of products designed to enhance learning environments, Microsoft 365 Education has three tiers of academic plans to meet the needs of your school.
+Learn more
+Office 365 Education
+Microsoft donates Office 365 Education to eligible institutions at no cost, enabling students and educators to sign up for web versions of familiar products and AI tools for free.
+Learn more
+Microsoft 365 Copilot Chat
+Enhance learning experiences through AI-powered Copilot Chat, built into familiar products such as Microsoft Edge and Microsoft 365 Education.
+Learn more
+Microsoft Intune
+Intune helps simplify the set up and management of devices for students and teachers.
+Contact a sales partner
+Azure
+Azure for education gives students and educators the cloud development resources they need to build, deploy, and manage applications.
+Learn more
+Microsoft Teams
+Teams is the digital hub for collaboration that brings conversations, content, assignments, and apps together in one place.
+Learn more
+Microsoft Edge
+Make learning secure, accessible, and efficient with Microsoft Edge, complete with AI-powered Copilot built into the free web browser.
+Learn more
+Minecraft
+Minecraft – Education Edition engages students across subjects through immersive, game-based learning.
+Learn more
+Resources
+Resources to help you get education software</h2> ">
+Resources to help you get education software
+Microsoft Education licensing
+Choose cost-effective licensing when you buy education products for your institution. Microsoft Education licensing provides you access to the classroom technology you need.
+Download the licensing guide
+Get in touch
+Connect one-on-one with a Microsoft Education sales specialist to explore products and solutions for your school.
+Contact a sales partner
+Explore Education Apps
+Explore the most popular education apps—such as Minecraft Education, Duolingo, and Kahoot—that engage students and make learning fun.
+Browse education apps
+DEVICES
+Windows 11 devices</h2> ">
+Windows 11 devices
+Browse all Windows 11 devices for education to find the solutions that work best for your school or student.
+See devices for your school Shop for your home
+SOLUTIONS
+Explore Microsoft solutions by role</h2> ">
+Explore Microsoft solutions by role
+Whether you’re a school leader, IT professional, educator, or student, we've got thoughtful solutions for everyone in the education space.
+Previous Slide
+Next Slide
+School leaders</h3>">
+School leaders
+Empower your students to succeed, help teachers make the most of classroom time, and get more out of your budget with classroom technology tools.
+Start here
+IT Professionals</h3>">
+IT Professionals
+Deploy affordable, easy-to-manage education technology that transforms classroom time, with the safety and security you expect.
+Start here
+Educators</h3>">
+Educators
+Explore educational technology to create inclusive, student-centered classrooms and learning opportunities for all.
+Start here
+Students</h3>">
+Students
+Make schoolwork more fun with the education software that will successfully take you from school to the workplace.
+Start here
+Back to Solutions section
+Frequently asked questions
+Expand all
+Collapse all
+01/
+What are the pricing options for Microsoft 365 Education and Office 365?
+Both Microsoft 365 Education and Office 365 Education have various pricing options for schools. View the product comparison table and contact a sales partner to discuss your school’s needs.
+02/
+How do I get Microsoft Office 365 Education?
+Microsoft donates  Office 365 Education  for the classroom to eligible institutions at no cost to ensure all students have access to tools for learning and building skills for the future. Office 365 Education provides web versions of Word, Excel, PowerPoint, OneNote, Microsoft Teams, and Microsoft 365 Copilot Chat, plus additional AI-based tools for work and learning. Enter your school email address  to get started . If you’re a school seeking additional assistance in signing up your school for Microsoft Office 365,  Contact a sales partner .
+03/
+How can I get a Microsoft Education discount?
+Students and educators are eligible for a 10% discount on select items in the Microsoft Store with an active Microsoft account. (A Microsoft account is an email address and password that you use with Outlook.com (Hotmail), Office, OneDrive, Skype, Xbox, and/or Windows.) If you don’t have an active Microsoft account, see the Microsoft Store for discount details .
+Resources
+Microsoft Learn Educator Center</h2> ">
+Microsoft Learn Educator Center
+Browse interactive lessons, earn professional development hours, acquire certifications, and find programs that help meet your learning goals.
+Visit the Educator Center
+Resource Center
+Microsoft Education Resource Center
+Explore resources for education and empower your community with knowledge, insights, and how-to guides.
+Visit the Resource Center
+School stories
+Real schools, real results
+Learn how schools around the world have implemented and benefitted from Microsoft solutions.
+Explore school stories
+Follow Microsoft Education
+Surface Laptop Ultra
+Surface Pro
+Surface Laptop
+Surface RTX Spark Dev Box
+Explore Copilot
+Explore Microsoft products
+Windows 11 apps
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Why buy from Microsoft Store
+Flexible Payments
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+AI for education
+Microsoft AI
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft Copilot
+Small Business
+Azure
+Microsoft Developer
+Microsoft Learn
+Support for AI marketplace apps
+Microsoft Tech Community
+Microsoft Marketplace
+Software companies
+Visual Studio
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+English (United States)
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Consumer Health Privacy
+Contact us
+Privacy
+Manage cookies
+Terms of use
+Trademarks
+About our ads
 
-Warning: Target URL returned error 403: Forbidden
+===== SOURCE PAGE: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98 =====
+Title: Frontier Accelerate for Marketplace: How partners grow
+
+URL Source: https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98
 
 Markdown Content:
-We are currently experiencing high demand. Please wait and try again later.
+![Image 1: Two people working on a computer at a desk.](https://www.microsoft.com/-/media/bfb3a7170ea54d0889ee3365ccaa913a.png)![Image 2: Two people working on a computer at a desk.](https://www.microsoft.com/-/media/e9d2f2480fc94cbc91e8f453faef37cc.png)
 
-All external to Microsoft Health Beacon traffic should be routed to: http://www.msftncsi.com/ncsi.txt
+Build AI-powered solutions, monetize through Microsoft Marketplace, and scale revenue through Microsoft expertise, skilling, and investments.
+
+*   #### [Trusted expertise](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabe19b3c58-023e-4022-a093-2a146a7a2c2f-1)
+*   #### [Savings & investments](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabe19b3c58-023e-4022-a093-2a146a7a2c2f-2)
+*   #### [Skilled teams](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabe19b3c58-023e-4022-a093-2a146a7a2c2f-3)
+
+![Image 3: Person working on a laptop.](https://www.microsoft.com/-/media/b5cd9da3a86441468a8a61d4b016bb9c.png)
+
+#### **Reduce friction and publish faster**
+
+Build & publish Marketplace-ready AI apps and agents more efficiently with [AI-assisted self-service guidance](https://www.microsoft.com/software-development-companies/app-advisor "AI assisted self service guidance").
+
+![Image 4: Two people seated at a coffee shop with a laptop.](https://www.microsoft.com/-/media/da3d01a4f02e40a2aba2d170f77b9d4e.png)
+
+#### **Access expert Marketplace guidance**
+
+Accelerate Marketplace readiness with Microsoft expertise and guidance through Microsoft AI Cloud Partner Program Concierge and 1:1 technical consultations.
+
+![Image 5: Colleagues seated at a table working on a tablet.](https://www.microsoft.com/-/media/b8341f7e84954160b10c773c7839ec4e.png)
+
+#### **Increase Marketplace visibility**
+
+Optimize customer discovery of your solution in Marketplace through App Advisor listing optimization and merchandising guidance.
+
+![Image 6: Hands typing on a keyboard and tablet.](https://www.microsoft.com/-/media/fc1c576b68fb409a97765f99f8654006.png)
+
+#### **Publish to Marketplace for less**
+
+Frontier Accelerate for Marketplace Premium members receive $30,000 in Azure sponsorship to lower initial cost and increase win rate, as well as guidance from a named engagement manager.
+
+![Image 7: Colleagues working on a laptop.](https://www.microsoft.com/-/media/2d588264b816486a9a30501074665eda.png)
+
+#### **Unlock incentives and reach more customers**
+
+Drive customer acquisition and revenue growth through customer propensity scoring and [Partner Marketing Center Pro](https://partner.microsoft.com/marketing-center "Partner Marketing Center Pro"), and tap into performance-based cash incentives along the way.
+
+![Image 8: People seated at a coffee shop collaborating on a laptop.](https://www.microsoft.com/-/media/d88ac6a79ad648838c555818db047d53.png)
+
+#### **Differentiate your business with designations**
+
+Access [co-sell eligibility](https://partner.microsoft.com/partnership/azure-ip-co-sell "co sell eligibility") and [Solutions Partner* with certified software** designations](https://partner.microsoft.com/partnership/certified-software-designation-benefits-guide "Solutions Partner with certified software designations") to scale Marketplace Billed Sales and stand out to customers.
+
+![Image 9: People talking in front of a whiteboard.](https://www.microsoft.com/-/media/2fb63cebfabe4e138275e349a8f079a8.png)
+
+#### **Build capable and confident teams**
+
+Get Marketplace-ready with on-demand Marketplace-focused skilling content.
+
+![Image 10: Colleagues seated on the floor working on laptops.](https://www.microsoft.com/-/media/15603c3dbc8445809c630ce758fc45ff.png)
+
+#### **Equip teams to drive growth with go-to-market resources**
+
+Turn Marketplace presence into transactions through workshops, the [Marketplace Community](https://techcommunity.microsoft.com/t5/marketplace-for-partners/bd-p/Marketplace-Forum "Marketplace Community"), and [Microsoft Learn documentation](https://learn.microsoft.com/partner-center/marketplace-offers/transacting-commercial-marketplace#transacting-on-microsoft-marketplace-1 "Microsoft Learn documentation").
+
+![Image 11: Person walking in front of office windows.](https://www.microsoft.com/-/media/e2347619c8654ac6a9509ac8ed20c771.png)
+
+#### **Build capabilities that stand out to customers**
+
+Scale Marketplace Billed Sales (MBS) and co-sell engagement by building your capabilities through [Partner Skilling Hub](https://skilling-hub.com/ "Partner Skilling Hub") resources, including AI certification vouchers, to advance team credentials.
+
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-3)
+
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher98b0e93c-a613-41cf-a25d-87327a2b56c4-3)
+
+## Build & Publish
+
+### Build a Marketplace-ready solution—faster
+
+Use development credits, sandboxes, and technical guidance to prepare your solution for Microsoft Marketplace publication and transactability. Build & Publish benefits include:
+
+*   Technical and presales deployment consultations for hands-on guidance during upfront solution development.
+*   AI commercialization skilling to guide buyer- and offer-type alignment.
+*   A development sandbox and credits, including Microsoft Foundry and GitHub Copilot.
+
+[Browse resources](https://partner.microsoft.com/asset/collection/frontier-acc-mktplace-resource#/)
+
+### Drive revenue with targeted go-to-market (GTM) activation
+
+Use targeted GTM benefits and resources to broaden your reach and work toward early Marketplace revenue. Grow demand and accelerate sales with:
+
+*   Earned $30,000 Azure sponsorship for no-cost trials and accelerated deal closure.
+*   Personalized listing optimization to drive greater visibility.
+*   GTM resources designed to enable demand generation.
+*   Engagement manager guidance on co-sell requirements and readiness.
+
+[Browse resources](https://partner.microsoft.com/asset/collection/frontier-acc-mktplace-resource#/)
+
+## Differentiate
+
+### Scale with milestone-based investments and differentiation
+
+Expand your go-to-market (GTM) motions with milestone-based investments and solution differentiation as your Marketplace momentum grows. Scale with:
+
+*   Solutions Partner* with certified software** designations to signal solution credibility and differentiation.
+*   Enterprise propensity scoring to prioritize deal opportunities.
+*   Accrued GTM benefits to drive new customer acquisition and expanded deal size.
+
+[Explore certified software designations](https://partner.microsoft.com/en-us/partnership/solutions-partner)
+
+![Image 12: A person smiling while working on a laptop.](https://www.microsoft.com/-/media/aa4d8e86186a4559b2760677d133e86b.png)
+
+### **Frontier Accelerate for Marketplace**
+
+Publish, transact, and grow through Microsoft Marketplace with guidance, skilling, and milestone-based benefits available to eligible partners at no cost.
+
+*   To-partner incentives
+*   Go-to-market resources
+*   Eligibility to participate in co-sell and attain a Solutions Partner* with certified software** designation
+
+[Find out more](https://aka.ms/FA-for-Marketplace-Playbook "Go to the partner playbook.")
+
+![Image 13: Two people working together on a laptop.](https://www.microsoft.com/-/media/ebf86d7d91b643b787b50e736ebc754a.png)
+
+### **Frontier Accelerate for Marketplace Premium**
+
+This paid path is for partners seeking additional technical guidance, Azure sponsorship, go-to-market benefits, and co-sell readiness guidance. This path offers all Frontier Accelerate for Marketplace offerings, plus:
+
+*   Development environments and tools, including $30,000 of Azure sponsorships to build and test solutions
+*   Technical presales and deployment consultations throughout solution development
+*   Enhanced go-to-market engagement and benefits
+*   Co-sell readiness guidance
+
+[Find out more about Premium](https://aka.ms/FA-for-Marketplace-Playbook "Go to the partner playbook.")
+
+*   Become an active [Microsoft AI Cloud Partner Program](https://partner.microsoft.com/partnership "Microsoft AI Cloud Partner Program") member.
+*   Once enrolled in the program, continue to meet program requirements.
+
+*   Reach a global audience and transact at scale by enrolling in [Microsoft Marketplace](https://partner.microsoft.com/partnership/marketplace "Microsoft Marketplace").
+
+To meet eligibility validation, your solution must be:
+
+*   B2B-focused.
+*   Designed for repeatable sales.
+*   Intended to be published on Marketplace.
+*   Built on Microsoft Cloud.
+
+*“Solutions Partner” refers to a company that is a member of the Microsoft AI Cloud Partner Program and may offer software, services, and/or solutions to customers. Reference to “Solutions Partner” in any content, materials, resources, web properties, etc. and any associated designation should not be interpreted as an offer, endorsement, guarantee, proof of effectiveness or functionality, a commitment, or any other type of representation or warranty on the part of Microsoft. All decisions pertaining and related to your business needs including but not limited to strategies, solutions, partner selection, implementation, etc., rest solely with your business.
+
+**A certification is (1) specific to the solution’s interoperability with Microsoft products and (2) based on self-attestation by the solution owner. Solutions are only certified as of the date the solution is reviewed. Solution functionality and capability are controlled by the solution owner and may be subject to change. The inclusion of a solution in Marketplace and any such designations should not be interpreted as an offer, endorsement, guarantee, proof of effectiveness or functionality, a commitment, or any other type of representation or warranty on the part of Microsoft. All decisions pertaining and related to your business needs including but not limited to strategies, solutions, partner selection, implementation, etc. rest solely with your business.

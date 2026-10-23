@@ -594,7 +594,7 @@ Networking
 Operating Systems
 17
 Quantum Computing
-67
+68
 Responsible AI
 93
 Robotics
@@ -607,7 +607,7 @@ Software Systems
 221
 Speech Processing
 156
-1 - 30 of 2216 researchers
+1 - 30 of 2217 researchers
 chip template
 Remove
 Martín Abadi
@@ -646,20 +646,20 @@ Machine Intelligence
 Sameer Agarwal
 Algorithms and Theory
 Machine Perception
-Anmol Agarwal
-Natural Language Processing
-Shashank Agarwal
-Algorithms and Theory
-Data Mining and Modeling
-Education Innovation
-+2 more
-Alekh Agarwal
-Algorithms and Theory
-Machine Intelligence
 Mohit Agarwal
 Human-Computer Interaction and Visualization
 Machine Intelligence
 Machine Learning
++2 more
+Anmol Agarwal
+Natural Language Processing
+Alekh Agarwal
+Algorithms and Theory
+Machine Intelligence
+Shashank Agarwal
+Algorithms and Theory
+Data Mining and Modeling
+Education Innovation
 +2 more
 Gagan Aggarwal
 Algorithms and Theory
@@ -672,13 +672,13 @@ Distributed Systems and Parallel Computing
 Saksham Agrawal
 Distributed Systems and Parallel Computing
 Software Engineering
-Priyanka Agrawal
-Machine Intelligence
-Natural Language Processing
 Parth Agrawal
 Machine Learning
 Machine Perception
 Robotics
+Priyanka Agrawal
+Machine Intelligence
+Natural Language Processing
 Shreya Agrawal
 General Science
 Machine Intelligence
@@ -707,16 +707,16 @@ Algorithms and Theory
 Data Mining and Modeling
 Distributed Systems and Parallel Computing
 +3 more
-Zafarali Ahmed
-Machine Intelligence
-Mustaq Ahmed
-Algorithms and Theory
-Networking
 Tousif Ahmed
 Human-Computer Interaction and Visualization
 Mobile Systems
 Responsible AI
 +2 more
+Zafarali Ahmed
+Machine Intelligence
+Mustaq Ahmed
+Algorithms and Theory
+Networking
 1
 2
 3

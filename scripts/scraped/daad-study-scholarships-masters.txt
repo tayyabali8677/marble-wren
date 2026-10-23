@@ -26,7 +26,7 @@ Colour switch
 
 ## Error 404 - We could not find that page
 
-![Image 3: Feet in front of arrows pointing into 3 directions](blob:http://localhost/04125700ca050510a7da4e549e06b30e)
+![Image 3: Feet in front of arrows pointing into 3 directions](https://api.daad.de/api/image/md1st/media/daad_de/fuesse-pfeile_972x547.jpg.webp)
 
 © iStock.com / Delpixart
 

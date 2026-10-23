@@ -3,6 +3,8 @@ Title: 404 - page not found!
 
 URL Source: https://www.uzh.ch/en/studies/application/scholarships.html
 
+Published Time: Fri, 23 Oct 2026 17:05:07 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -1149,11 +1151,11 @@ Footer
 
 ## Additional links
 
-*   [![Image 6: Logo of the University of Zurich, to homepage](https://www.uzh.ch/docroot/logos/uzh_logo_d_pos.svg)](https://www.uzh.ch/en.html)
-*   [![Image 7: swissuniversities](https://www.uzh.ch/dam/jcr:eb2710fa-f35f-49c7-a439-8191f4b18e6c/logo_swissuniversities.svg)](https://www.swissuniversities.ch/en/)
-*   [![Image 8: LERU – League of European Research Universities](https://www.uzh.ch/dam/jcr:6f9d9cf1-233f-467d-9684-465cdbe258e0/leru.svg)](https://www.leru.org/)
-*   [![Image 9: Logo una europa](https://www.uzh.ch/dam/jcr:26c8d3ca-349c-4308-a5aa-6d4c086ee32e/unaeuropa2.svg)](https://www.una-europa.eu/)
-*   [![Image 10: Universitas 21](https://www.uzh.ch/dam/jcr:483afe9a-d8eb-4324-93d6-3195b72cf2c6/logo_u21.svg)](https://universitas21.com/)
+*   [![Image 1: Logo of the University of Zurich, to homepage](https://www.uzh.ch/docroot/logos/uzh_logo_d_pos.svg)](https://www.uzh.ch/en.html)
+*   [![Image 2: swissuniversities](https://www.uzh.ch/dam/jcr:eb2710fa-f35f-49c7-a439-8191f4b18e6c/logo_swissuniversities.svg)](https://www.swissuniversities.ch/en/)
+*   [![Image 3: LERU – League of European Research Universities](https://www.uzh.ch/dam/jcr:6f9d9cf1-233f-467d-9684-465cdbe258e0/leru.svg)](https://www.leru.org/)
+*   [![Image 4: Logo una europa](https://www.uzh.ch/dam/jcr:26c8d3ca-349c-4308-a5aa-6d4c086ee32e/unaeuropa2.svg)](https://www.una-europa.eu/)
+*   [![Image 5: Universitas 21](https://www.uzh.ch/dam/jcr:483afe9a-d8eb-4324-93d6-3195b72cf2c6/logo_u21.svg)](https://universitas21.com/)
 
 ©2023 Universität Zürich
 
@@ -1162,7 +1164,9 @@ Footer
 *   [Accessibility](https://www.uzh.ch/en/accessibility.html)
 *   [Data Protection Statement](https://www.uzh.ch/en/privacy.html)
 
-![Image 11](https://www.uzh.ch/en/studies/application/scholarships.html)Close Image Overlay
+*   [Deutsch](https://www.uzh.ch/de/error404.html)
+
+![Image 6](https://www.uzh.ch/en/studies/application/scholarships.html)Close Image Overlay
 
 [Video 2](https://www.uzh.ch/en/studies/application/scholarships.html)Close Video Overlay
 

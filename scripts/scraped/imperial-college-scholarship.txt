@@ -405,7 +405,7 @@ Prospective students
 Continuing students
 Only open scholarships
 Clear filters
-Showing 309 results
+Showing 322 results
 Postgraduate doctoral
 A PhD Studentship in Wireless Communications and Signal Processing
 Award value
@@ -799,6 +799,15 @@ Award value
 Available to
 Home, Overseas, Full time
 Academic year
+2027/2028
+Application deadline
+Undergraduate
+Ceres Scholarship
+Award value
+&pound;5,000 per year
+Available to
+Home, Overseas, Full time
+Academic year
 2026/2027
 Application deadline
 31/01/2026 Closed
@@ -1080,6 +1089,15 @@ Academic year
 2026/2027
 Application deadline
 31/01/2026 Closed
+Postgraduate taught
+Departmental MSc Tuition Fee Scholarships
+Award value
+Partial tuition fee waiver
+Available to
+,
+Academic year
+2027/2028
+Application deadline
 Undergraduate
 Departmental Scholarship - Materials
 Award value
@@ -1100,6 +1118,16 @@ Academic year
 2025/2026
 Application deadline
 31/01/2025 Closed
+Undergraduate
+Departmental Scholarship - Materials
+Award value
+Home fee waiver and &pound;6,000 stipend towards living costs.
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+31/01/2027
 Postgraduate doctoral
 Design Engineering PhD Scholarship (DEPS)
 Award value
@@ -1149,6 +1177,16 @@ Home, Overseas, Full time
 Academic year
 2027/2028
 Application deadline
+Postgraduate taught, Master's research
+Dr Jean Alero Thomas Scholarship
+Award value
+Partial or full tuition fees at the Home fee rate
+Available to
+Home, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+23/04/2027
 Postgraduate taught
 EEE MSc Studentships
 Award value
@@ -1289,6 +1327,15 @@ Academic year
 2025/2026
 Application deadline
 16/03/2025 Closed
+Postgraduate taught
+Equinor Civil and Environmental Engineering Fluid Mechanics MSc Scholarship
+Award value
+Typical contributions of &pound;5,000 to &pound;20,000 towards course tuition fees and, in some cases, subsistence
+Available to
+,
+Academic year
+2027/2028
+Application deadline
 Undergraduate
 ESE Undergraduate Financial Bursary
 Award value
@@ -1424,6 +1471,15 @@ Home, Overseas, Full time
 Academic year
 2027/2028
 Application deadline
+Postgraduate taught
+Frederick George Fund Scholarship
+Award value
+&pound;10,000 towards essential study and living costs
+Available to
+Home,
+Academic year
+2027/2028
+Application deadline
 Postgraduate taught, Master's research
 Fulbright-Imperial Scholarship
 Award value
@@ -1473,6 +1529,15 @@ Academic year
 2025/2026
 Application deadline
 31/05/2025 Closed
+Postgraduate taught
+Geotechnics MSc Industrial Bursaries
+Award value
+Typical contributions of &pound;5,000 to &pound;15,000 towards course tuition fees and, in some cases, subsistence
+Available to
+Home, Overseas,
+Academic year
+2027/2028
+Application deadline
 Master's research
 Global Future Leaders Scholarship
 Award value
@@ -2641,6 +2706,16 @@ Academic year
 Application deadline
 02/03/2026 Closed
 Undergraduate
+R W Barnes Scholarship Fund (Mathematics Award)
+Award value
+Cash bursary of &pound;16,500 per year for up to 4 academic years
+Available to
+Home, Full time
+Academic year
+2027/2028
+Application deadline
+02/03/2027
+Undergraduate
 R W Barnes Scholarship Fund (Physics Award)
 Award value
 Cash bursary of &pound;14,500 per year up to 4 academic years
@@ -2686,6 +2761,15 @@ Award value
 Up to 50% of tuition fees
 Available to
 Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+Postgraduate taught
+Rees Jeffreys Road Fund Bursaries
+Award value
+&pound;10,000 each
+Available to
+,
 Academic year
 2027/2028
 Application deadline
@@ -2899,6 +2983,16 @@ Application deadline
 Master's research
 School of Public Health Master's Scholarships
 Award value
+Full tuition fees at the Home rate
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+30/04/2027
+Master's research
+School of Public Health Master's Scholarships
+Award value
 Full tuition fee bursary for selected on-campus and online Master's programmes.
 Available to
 Home, Overseas, Full time, Part time
@@ -3017,6 +3111,16 @@ Application deadline
 Postgraduate taught, Master's research
 TEV UK-Imperial-Scholarship
 Award value
+Full tuition fees and stipend of &pound;23,805 per year
+Available to
+Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+15/03/2027
+Postgraduate taught, Master's research
+TEV UK-Imperial-Scholarship
+Award value
 Full tuition fees and stipend &pound;22,041 per annum
 Available to
 Overseas, Full time
@@ -3094,6 +3198,16 @@ Academic year
 2026/2027
 Application deadline
 30/04/2026 Closed
+Postgraduate taught, Master's research
+The Aziz Foundation: Imperial Hydrology and Water Resources Scholarship
+Award value
+Full Home tuition fee scholarship
+Available to
+Home, Full time
+Academic year
+2027/2028
+Application deadline
+30/04/2027
 Undergraduate
 The Beacon Scholarship
 Award value
@@ -3382,6 +3496,16 @@ Academic year
 2025/2026
 Application deadline
 29/01/2025 Closed
+Undergraduate
+Widening Participation Bursary - Department of Materials
+Award value
+&pound;5,000 stipend
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+31/01/2027
 Undergraduate
 Widening Participation Bursary - Department of Materials
 Award value
