@@ -3,12 +3,14 @@ Title: 404: Not Found
 
 URL Source: https://www.acs.org/education/students/college/acs-scholars.html
 
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 Opens in a new window Opens an external website Opens an external website in a new window
 
-This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. To learn more, view the following link: [Privacy Policy](https://www.acs.org/privacy.html)[Cookie Policy](https://www.acs.org/privacy.html#cookies)
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. [Privacy Policy](https://www.acs.org/privacy.html)[Cookie Policy](https://www.acs.org/privacy.html#cookies)
 
-Manage Preferences 
+Accept Deny Non-Essential Manage Preferences 
 
 [Skip to Main Content](https://www.acs.org/education/students/college/acs-scholars.html#maincontent)
 
@@ -136,7 +138,7 @@ Helpful Links
 
 [ChemMatters](https://www.acs.org/education/chemmatters.html)[Committees](https://www.acs.org/about/governance/committees.html)[Site Map](https://www.acs.org/sitemap.html)
 
-[![Image 5: American Chemical Society, Chemistry for Life](https://www.acs.org/etc.clientlibs/acs-cdn/aem6/cdn/static/resources/images/redesign/logos/logo-acs-redesign-white.svg)](https://www.acs.org/)
+[![Image 2: American Chemical Society, Chemistry for Life](https://www.acs.org/etc.clientlibs/acs-cdn/aem6/cdn/static/resources/images/redesign/logos/logo-acs-redesign-white.svg)](https://www.acs.org/)
 
 [service@acs.org](mailto:service@acs.org)
 
@@ -164,5 +166,3 @@ GET INVOLVED[Advocate](https://www.acs.org/policy.html)[Donate](https://www.acs.
 *   [Help](https://www.acs.org/help.html)
 
 [Copyright ©](https://www.acs.org/copyright.html) 2026 American Chemical Society
-
-![Image 6](https://bat.bing.com/action/0?ti=283031664&tm=al001&Ver=2&mid=5796d0c6-d004-425a-b8ad-7c86f16367d2&bo=1&sid=80081660cf0511f1a7f5e93a816188a7&vid=8008a630cf0511f1b3e90966033dce8c&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=404%3A%20Not%20Found&p=https%3A%2F%2Fwww.acs.org%2Feducation%2Fstudents%2Fcollege%2Facs-scholars.html&r=&lt=756&pt=1792775793662,328,328,,,3,3,3,3,3,,6,314,393,329,618,699,756,,,&pn=1,0&evt=pageLoad&sv=2&cdb=AQAQ&rn=163919)

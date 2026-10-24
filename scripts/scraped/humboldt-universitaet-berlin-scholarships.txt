@@ -9,4 +9,4 @@ Sadly, you must enable JavaScript to get past this challenge. This is required b
 Protected by Anubis From Techaro . Made with ❤️ in 🇨🇦.
 Mascot design by CELPHASE .
 Impressum | Datenschutzerklärung | Barrierefreiheit -- Imprint
-This website is running Anubis version v1.28.1 .
+This website is running Anubis version v1.28.2 .

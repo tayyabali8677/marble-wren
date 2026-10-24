@@ -161,9 +161,9 @@ Information for
 [Site and legal](https://www.bristol.ac.uk/style-guides/web/policies/)Site and legal
 
 *   [Help](https://www.bristol.ac.uk/help/)
-*   [Terms and conditions](https://www.bristol.ac.uk/style-guides/web/policies/legal/terms/)
-*   [Accessibility statements](https://www.bristol.ac.uk/style-guides/web/policies/web-accessibility/)
-*   [Privacy and cookie policy](https://www.bristol.ac.uk/style-guides/web/policies/legal/privacy/)
+*   [Terms and conditions](https://www.bristol.ac.uk/web-policies/terms/)
+*   [Accessibility statements](https://www.bristol.ac.uk/web-policies/web-accessibility/)
+*   [Privacy and cookie policy](https://www.bristol.ac.uk/web-policies/privacy/)
 *   [Privacy notices](https://www.bristol.ac.uk/secretary/data-protection/privacy-notices/)
 *   [Cookie preferences](https://www.bristol.ac.uk/students/support/finances/scholarships/think-big/#)
 *   [Modern Slavery statement](https://www.bristol.ac.uk/secretary/legal/modern-slavery/)

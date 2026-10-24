@@ -216,10 +216,10 @@ Visiting Scientist
 Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
 23 November 2026
-TWAS Research Professors in LDCs
+TWAS Visiting Expert Programme
 Visiting Scientist
 23 November 2026
-TWAS Visiting Expert Programme
+TWAS Research Professors in LDCs
 Visiting Scientist
 Research and Project Grants
 TWAS research grants are awarded to both individual scientists and research groups
@@ -1101,10 +1101,10 @@ Visiting Scientist
 Global Survey on Women Scientists in Crisis and Emergency Contexts
 External Opportunity
 23 November 2026
-TWAS Research Professors in LDCs
+TWAS Visiting Expert Programme
 Visiting Scientist
 23 November 2026
-TWAS Visiting Expert Programme
+TWAS Research Professors in LDCs
 Visiting Scientist
 Support TWAS
 Your donations will help us to build science in the developing world.
@@ -1410,7 +1410,7 @@ EXTERNAL OPPORTUNITIES
 Research Continuity Grants for Africa
 preview
 Under UNESCO’s Science for Crisis Response and Solutions (SCRS) Programme, six grants of up to USD 2,000 each will support African scientists based at recognized universities or research institutions in Africa to resume or complete natural sciences research interrupted by conflict or natural or biological hazards.
-- 24
+- 23
 days
 DEADLINE
 15 November 2026
@@ -1419,7 +1419,7 @@ Visiting Scientists
 TWAS-SISSA-Lincei Research Cooperation Visits Programme
 preview
 Young scientists from least developed countries who hold an MSc (or higher degree) can visit research laboratories in the Friuli Venezia Giulia Region of Italy for three months to carry out collaborative research projects and/or training internships in the fields that fall under the umbrella of the United Nations Sustainable Development Goals (SDGs).
-- 25
+- 24
 days
 EXTENDED DEADLINE
 16 November 2026
@@ -1429,7 +1429,7 @@ Global Survey on Women Scientists in Crisis and Emergency Contexts
 preview
 UNESCO, in collaboration with Data-Pop Alliance (DPA), is conducting a global study on women scientists in crisis and emergency contexts. The study aims to better understand the challenges faced by women scientists in these settings, identify existing support mechanisms, and inform recommendations to strengthen their participation, protection, and resilience.
 As part of this research, scientists who have experienced or are currently working in crisis and emergency contexts are invited to participate in an individual survey and share their experiences and perspectives.
-- 31
+- 30
 days
 DEADLINE
 22 November 2026
@@ -1438,7 +1438,7 @@ Visiting Scientists
 TWAS Research Professors in LDCs
 preview
 A number of TWAS Fellows and TWAS Young Affiliates/Alumni will be offered appointments as TWAS Research Professors for one year, during which he/she will visit the host institution in a LDC for a period of two to four weeks. TWAS provides travel support while living expenses are covered by the host centre. NB: Only TWAS Fellows and TWAS Young Affiliates/Alumni are eligible for appointment. Requests need to be submitted by research groups/scientific institutions in LDCs.
-- 32
+- 31
 days
 DEADLINE
 23 November 2026
@@ -1447,7 +1447,7 @@ Visiting Scientists
 TWAS Visiting Expert Programme
 preview
 This programme provides institutions and research groups in developing countries, especially the Least Developed Countries and those with limited outside contacts, with opportunities to establish long-term links with world leaders in areas of science other than mathematics and physics, and help develop capacity-building in their country.
-- 32
+- 31
 days
 DEADLINE
 23 November 2026
@@ -1456,7 +1456,7 @@ Fellowships
 TWAS-FAPESP Postdoctoral Fellowship Programme for Developing Countries
 preview
 The Research Support Foundation of the State of São Paulo (FAPESP) in Brazil and TWAS offer postdoctoral fellowships to researchers from Developing Countries, in all areas of natural, applied and social sciences.
-- 161
+- 160
 days
 DEADLINE
 01 April 2027
