@@ -3,10 +3,10 @@ Title: We can't find the page you are looking for
 
 URL Source: https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions
 
-Markdown Content:
-[](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#)
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-# This website uses cookies
+Markdown Content:
+## This website uses cookies
 
 We use technical cookies that are essential for the correct operation of our website. We also use cookies and other optional tracking tools that may be activated only with your consent.   
  Cookies and other optional tracking tools are used for statistical analysis, to ensure the efficacy of institutional communications, and to analyse user behaviour.   
@@ -15,41 +15,3 @@ We use technical cookies that are essential for the correct operation of our web
 You can provide your consent to the use of optional cookies by activating the “Personalise Cookies” option. If you wish to express a more specific consent, select “Show Profiling Cookies”.   
  You can always review your choices and check the status of your consent by going to the “Cookie Settings” section on the website.   
  For further information, [see our Cookie Policy](https://www.unibo.it/en/cookies).
-
-*   - [x] Profiling Cookies - Optional These cookies are used to analyse user browsing patterns, create user profiles based on browsing behaviour, and for marketing analysis. [Show profiling cookies](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#) 
-    *   - [x] Google/Youtube Video 
-    *   - [x] Facebook 
-    *   - [x] Vimeo 
-    *   - [x] Linkedin 
-
-*   - [x] Technical Cookies - Essential Technical cookies are used for a range of different purposes, including but not limited to ensuring the correct operation of the website, saving browsing preferences, load balancing, optimising website performance by reducing page loading times, and managing log-in procedures to access online services and reserved areas.  
-
-[Essential cookies only](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#chefcookie__decline)[Personalise cookies](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#chefcookie__settings)[Save my preferences](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#chefcookie__accept)[Accept all cookies](https://www.unibo.it/en/services-and-opportunities/study-grants-and-subsidies/scholarships-and-reductions#chefcookie__accept_all)
-
-[![Image 1: Logo dell'Università di Bologna - link alla home page del Portale](https://www.unibo.it/++theme++unibo.errorpages/img/logo.png)](https://www.unibo.it/)
-
-# We can't find the page you are looking for
-
-[Home](https://www.unibo.it/en)>Page not found
-
-Sorry, the requested page cannot be found https://www.unibo.it/en/services-and-opportunities
-*   You may have incorrectly entered the page address
-*   The link on the page you came from may be wrong or no longer valid.
-
-## Maybe you were searching for...
-
-[**Study****grants****and****subsidies** — University of Bologna](https://www.unibo.it/en/study/study-grants-and-subsidies/scholarships-and-funding-opportunities)**Study****grants****and****subsidies** You can count on financial support at every stage of your studies. Discover **opportunities** tailored to your, out how to participate **and** apply for the scholarship **Study****grants** for students experiencing difficulties **Scholarships** for those experiencing
-
-## To report the error, please contact technical support
-
-Fill in this form to contact the site owners.
-
- Enter your name  
-
- Enter your e-mail address  
-
- Would you like to add a note describing the error?  
-
- Captcha  
-
-©Copyright 2026 - ALMA MATER STUDIORUM - Università di Bologna - Via Zamboni, 33 - 40126 Bologna - PI: 01131710376 - CF: 80007010376 - [Privacy](https://www.unibo.it/en/university/privacy-policy-and-legal-notes/privacy-policy/personal-data-processing) e [Note legali](https://www.unibo.it/en/university/privacy-policy-and-legal-notes/legal-notes)

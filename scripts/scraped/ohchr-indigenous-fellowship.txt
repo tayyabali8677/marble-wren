@@ -3,8 +3,6 @@ Title: Sorry, we couldn't find that page
 
 URL Source: https://www.ohchr.org/en/indigenous-peoples/indigenous-fellowship-programme
 
-Published Time: Sat, 24 Oct 2026 03:32:17 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -14,7 +12,7 @@ Markdown Content:
 
 ## Resources
 
-*   [Resources](https://www.ohchr.org/en)
+*   [Resources](javascript:void(0);)
     *   [For](javascript:void(0);)
         *   [Civil society](https://www.ohchr.org/en/resources/civil-society)
         *   [Educators](https://www.ohchr.org/en/resources/educators/human-rights-education-training)
@@ -51,7 +49,7 @@ English
 
 ## Main Navigation OHCHR
 
-*   [What are human rights?](https://www.ohchr.org/en/what-are-human-rights)
+*   [What are human rights?](javascript:void(0);)
 
 French - Main Navigation OHCHR
 
@@ -65,10 +63,10 @@ Stand up for Human Rights. Join us and make a difference.
 
 [Get Involved](https://www.ohchr.org/en/get-involved)
 
-*   [Topics](https://www.ohchr.org/en/topics)Human rights Topics The UN Human Rights Office and the mechanisms we support work on a wide range of human rights topics. Learn more about each topic, see who's involved, and find the latest news, reports, events and more. [View all topics](https://www.ohchr.org/en/topics)    Go directly to a topic
+*   [Topics](javascript:void(0);)Human rights Topics The UN Human Rights Office and the mechanisms we support work on a wide range of human rights topics. Learn more about each topic, see who's involved, and find the latest news, reports, events and more. [View all topics](https://www.ohchr.org/en/topics)    Go directly to a topic
 
 Search Form        
-*   [Countries](https://www.ohchr.org/en/countries)
+*   [Countries](javascript:void(0);)
 
 French - Main Navigation OHCHR
 
@@ -80,7 +78,7 @@ Go to a country or territory
 
 Search Form 
 
-*   [Instruments & mechanisms](https://www.ohchr.org/en/instruments-and-mechanisms)
+*   [Instruments & mechanisms](javascript:void(0);)
 
 French - Main Navigation OHCHR
 
@@ -99,7 +97,7 @@ Learn about how you can report a human rights violation.
 
 [Get started](https://www.ohchr.org/en/reporting_violations)
 
-*   [Latest](https://www.ohchr.org/en/latest)
+*   [Latest](javascript:void(0);)
 
 French - Main Navigation OHCHR
 
@@ -118,7 +116,7 @@ Get the latest from our news, events and meetings.
 
 [Media Centre](https://www.ohchr.org/en/media-centre)
 
-*   [About us](https://www.ohchr.org/en/about-us)
+*   [About us](javascript:void(0);)
 
 French - Main Navigation OHCHR
 

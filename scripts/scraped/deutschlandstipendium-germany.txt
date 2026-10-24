@@ -4,6 +4,28 @@ Title: Startseite - BMFTR Deutschlandstipendium
 URL Source: https://www.deutschlandstipendium.de/
 
 Markdown Content:
+# Hinweis zur Verwendung von Cookies
+
+Sie können hier entscheiden, ob Sie neben technisch notwendigen Cookies erlauben, dass wir statistische Informationen vollständig anonym erfassen. Diese Informationen helfen uns zu verstehen, wie Besucherinnen und Besucher unsere Website nutzen. Weitere Informationen zum Datenschutz erhalten Sie über den folgenden Link: [Datenschutz](https://www.deutschlandstipendium.de/datenschutz "Datenschutz")
+
+Wer unsere Dienstleister sind, können Sie im Impressum unter folgendem Link nachlesen: [Impressum](https://www.deutschlandstipendium.de/impressum "Impressum")
+
+## Notwendige Cookies (nicht abwählbar)
+
+Einige Cookies sind technisch notwendig, um die Seite vollständig zu nutzen.
+
+- [x] immer aktiv 
+
+## Statistik
+
+Statistik-Cookies erfassen Informationen anonymisiert. Diese Informationen helfen uns zu verstehen, wie unsere Besucher und Besucherinnen unsere Website nutzen. Die Statistik-Software läuft im Auftrag des BMBF ausschließlich auf den Webservern unseres Dienstleisters ITZBund. Eine Speicherung der Nutzungsinformationen findet nur dort statt. Das Cookie hat eine Gültigkeit von 13 Monaten und löscht sich anschließend von selbst. Eine Weitergabe der Daten an Dritte erfolgt nicht.
+
+- [x] Statistik-Tracker einschalten 
+
+Auswahl bestätigen Alle auswählen
+
+Loading...
+
 [](https://www.deutschlandstipendium.de/)
 
 Navigation und Service
@@ -187,22 +209,27 @@ _Springe direkt zu:_
 
 # Aktuelle Inhalte
 
+![Image 9](https://www.deutschlandstipendium.de/SiteGlobals/Frontend/Images/icons/_common/slider-left.svg?__blob=normal&v=5)![Image 10](https://www.deutschlandstipendium.de/SiteGlobals/Frontend/Images/icons/_common/slider-right.svg?__blob=normal&v=5)
+
 Aktuelle Meldungen
 
-[![Image 9: Neuanfang mit Hindernissen](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/260709_neuanfang_mit_Hindernissen.jpg?__blob=normal&v=3) # Neuanfang mit Hindernissen Gerade auch für internationale Studierende hat das Deutschlandstipendium in den 15 Jahren seines Bestehens an Bedeutung gewonnen. Piyumi Pathirathna ist eine von ihnen und erzählt von Herausforderungen – und wie man sie überwindet. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/studierende/stipendiatinnen-und-stipendiaten-stellen-sich-vor/Neuanfang_mit_Hindernissen/Neuanfang_mit_Hindernissen.html)
+*   1
+*   2
+*   3
+*   4
 
-[![Image 10: „Einfach, zielgerichtet und wirkungsvoll“](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/Interview_The_Schaufler_Foundation.jpg?__blob=normal&v=2) # „Einfach, zielgerichtet und wirkungsvoll“ 15 Jahre Deutschlandstipendium – und die Schaufler Foundation ist seit Beginn dabei. Ein Engagement, aus dem nachhaltige Verbindungen entstanden sind, von denen sowohl die Geförderten als auch die Stiftung profitieren. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/foerdernde/aus-der-praxis/Interview_The_Schaufler_Foundation/Interview_The_Schaufler_Foundation.html)
+[![Image 11: Neuanfang mit Hindernissen](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/260709_neuanfang_mit_Hindernissen.jpg?__blob=normal&v=3) # Neuanfang mit Hindernissen Gerade auch für internationale Studierende hat das Deutschlandstipendium in den 15 Jahren seines Bestehens an Bedeutung gewonnen. Piyumi Pathirathna ist eine von ihnen und erzählt von Herausforderungen – und wie man sie überwindet. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/studierende/stipendiatinnen-und-stipendiaten-stellen-sich-vor/Neuanfang_mit_Hindernissen/Neuanfang_mit_Hindernissen.html)
 
-[![Image 11: „3 Fragen an…“ Bettina Stengl](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/portrait-bettina-stengl.jpg?__blob=normal&v=3) # „3 Fragen an…“ Bettina Stengl Die Hochschule Karlsruhe vergibt das Deutschlandstipendium seit dessen Einführung. Bettina Stengl, Leiterin des Center of Competence an der HKA, begleitet das Programm seit vielen Jahren und setzt sich mit großem Engagement dafür ein, Fördernde und Geförderte miteinander zu vernetzen. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/hochschulen/aus-der-praxis/3-fragen-an-bettina-stengl/3-fragen-an-bettina-stengl.html)
+[![Image 12: „Einfach, zielgerichtet und wirkungsvoll“](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/Interview_The_Schaufler_Foundation.jpg?__blob=normal&v=2) # „Einfach, zielgerichtet und wirkungsvoll“ 15 Jahre Deutschlandstipendium – und die Schaufler Foundation ist seit Beginn dabei. Ein Engagement, aus dem nachhaltige Verbindungen entstanden sind, von denen sowohl die Geförderten als auch die Stiftung profitieren. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/foerdernde/aus-der-praxis/Interview_The_Schaufler_Foundation/Interview_The_Schaufler_Foundation.html)
 
-[![Image 12: Wettbewerb „Deutschlandstipendium Stories“ - Innovative Kommunikationsformate gekürt](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/hochschulen/Wettbewerb_Stifterverband_jpg.jpg?__blob=normal&v=3) # Wettbewerb „Deutschlandstipendium Stories“ - Innovative Kommunikationsformate gekürt Mit welchen Kommunikationsmaßnahmen können Fördernde oder Geförderte des Deutschlandstipendiums besonders gut erreicht werden, um noch mehr private Mittel für das Programm einzuwerben oder Studierende von einer Bewerbung zu überzeugen? Der Wettbewerb „Deutschlandstipendium Stories“ des Stifterverbands für die Deutsche Wissenschaft e.V. zeigt es. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/hochschulen/aus-der-praxis/Wettbewerb_Stifterverband/Wettbewerb-Stifterverband_Artikel.html)
+[![Image 13: „3 Fragen an…“ Bettina Stengl](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/img/portrait-bettina-stengl.jpg?__blob=normal&v=3) # „3 Fragen an…“ Bettina Stengl Die Hochschule Karlsruhe vergibt das Deutschlandstipendium seit dessen Einführung. Bettina Stengl, Leiterin des Center of Competence an der HKA, begleitet das Programm seit vielen Jahren und setzt sich mit großem Engagement dafür ein, Fördernde und Geförderte miteinander zu vernetzen. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/hochschulen/aus-der-praxis/3-fragen-an-bettina-stengl/3-fragen-an-bettina-stengl.html)
+
+[![Image 14: Wettbewerb „Deutschlandstipendium Stories“ - Innovative Kommunikationsformate gekürt](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/hochschulen/Wettbewerb_Stifterverband_jpg.jpg?__blob=normal&v=3) # Wettbewerb „Deutschlandstipendium Stories“ - Innovative Kommunikationsformate gekürt Mit welchen Kommunikationsmaßnahmen können Fördernde oder Geförderte des Deutschlandstipendiums besonders gut erreicht werden, um noch mehr private Mittel für das Programm einzuwerben oder Studierende von einer Bewerbung zu überzeugen? Der Wettbewerb „Deutschlandstipendium Stories“ des Stifterverbands für die Deutsche Wissenschaft e.V. zeigt es. weiterlesen](https://www.deutschlandstipendium.de/deutschlandstipendium/de/hochschulen/aus-der-praxis/Wettbewerb_Stifterverband/Wettbewerb-Stifterverband_Artikel.html)
 
 *   **Seite 1**
-*   [Seite 2](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html?gtp=326052_Dokumente%253D2 "Seite 2")
-*   [Seite 3](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html?gtp=326052_Dokumente%253D3 "Seite 3")
-*   [Seite 4](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html?gtp=326052_Dokumente%253D4 "Seite 4")
-
-![Image 13](https://www.deutschlandstipendium.de/SiteGlobals/Frontend/Images/icons/_common/slider-left.svg?__blob=normal&v=5)![Image 14](https://www.deutschlandstipendium.de/SiteGlobals/Frontend/Images/icons/_common/slider-right.svg?__blob=normal&v=5)
+*   [Seite 2](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/_functions/buehne/buehne_table.html?nn=271010&gtp=326052_Dokumente%253D2&view=renderPlain&allElements=true "Seite 2")
+*   [Seite 3](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/_functions/buehne/buehne_table.html?nn=271010&gtp=326052_Dokumente%253D3&view=renderPlain&allElements=true "Seite 3")
+*   [Seite 4](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/_functions/buehne/buehne_table.html?nn=271010&gtp=326052_Dokumente%253D4&view=renderPlain&allElements=true "Seite 4")
 
 ## [Ein Stipendium bringt nicht nur finanziell Entlastung – es eröffnet Perspektiven. Dorothee Bär, Bundesministerin für Forschung, Technologie und Raumfahrt, wirbt aus persönlicher Erfahrung für das Deutschlandstipendium, betont neben der finanziellen Entlastung besonders ideelle Förderung, Vernetzung und Engagement. Sie ruft Studierende zur Bewerbung auf, gratuliert den Geförderten und dankt Fördernden sowie Hochschulen für die erfolgreiche öffentlich‑private Partnerschaft. weiterlesen ![Image 15](https://www.deutschlandstipendium.de/SharedDocs/Bilder/de/deutschlandstipendium/files/Ministerin_Video.jpg?__blob=normal&v=1) ©](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/_functions/Ministerin_Video_Teaser.html)
 

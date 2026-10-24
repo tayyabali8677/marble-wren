@@ -6,6 +6,10 @@ URL Source: https://srfs.upenn.edu/
 Markdown Content:
 [Skip to main content](https://srfs.upenn.edu/#main-content)
 
+announcement
+
+On Wednesday, October 28, 2026, The Mondre Family Student Service Center will open at 11 AM.
+
 ## SRFS Utility Links
 
 *   [Billing](https://srfs.upenn.edu/billing-payment "Billing")
@@ -667,7 +671,7 @@ Manage Cookies Accept Cookies
 University of Pennsylvania websites use cookies and other tracking technologies to collect data and improve your experience. If you continue to use our websites, please note that you are agreeing to our using these cookies and tracking technologies. Click on the cookie category headings to find out more about the types of cookies we use and to change the default cookie settings. Note that blocking some types of cookies may impact your experience of the site and services we are able to offer.   
 [University of Pennsylvania Privacy Policy](https://www.upenn.edu/about/privacy-policy)
 
-**User ID:** 6218afdc-e5ef-4388-9120-ba9f8f55ac46
+**User ID:** 98e2576a-54cf-49e0-8d47-64e2898910a7
 
 #### Strictly Necessary Cookies
 

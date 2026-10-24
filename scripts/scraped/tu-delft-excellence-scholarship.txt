@@ -511,7 +511,7 @@ Support innovative Education
 Entrepreneurship
 Talent
 Support us
-Menu sluiten
+Menu openen
 Become a donor
 Donations via notarial deed
 Become a Good Friend
@@ -694,7 +694,7 @@ Strategie
 Universiteitsfonds
 Zoeken
 Studenten & Onderwijs
-Menu openen
+Menu sluiten
 Opleidingen
 Toelating en aanmelding
 Studievoorlichting

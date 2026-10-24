@@ -31,11 +31,11 @@ Search
 
 ![Image 3: students cycling on the street](https://www.uu.nl/sites/default/files/styles/image_1600x400/public/ubd-ssst-1600x400.jpg?itok=dgUMfCBE)
 
-# [Page not available (Error 404)](https://www.uu.nl/en/404)
+# [Page not available (Error 404)](https://www.uu.nl/en)
 
 ## Page not available (Error 404)
 
-*   [Page not available (Error 404)](https://www.uu.nl/en/404)
+*   [Page not available (Error 404)](https://www.uu.nl/en)
 *   [Education](https://www.uu.nl/en/education)
 *   [Research](https://www.uu.nl/en/research)
 *   [Organisation](https://www.uu.nl/en/organisation)

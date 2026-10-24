@@ -4,10 +4,11 @@ Title: Columbia University in the City of New York
 URL Source: https://gsas.columbia.edu/student-guide/financial-support/fellowships-and-grants
 
 Warning: Target URL returned error 404: Not Found
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
 ![Image 1](https://gsas.columbia.edu/themes/custom/columbia/cu_base_theme1/templates/fast/bgdesktop_v1.png)![Image 2](https://gsas.columbia.edu/themes/custom/columbia/cu_base_theme1/templates/fast/bgdesktop_v1.png)
 
 # We couldn't find that page
 
-[Back to Site](https://gsas.columbia.edu/)[Search columbia.edu](https://search.columbia.edu/)
+[Back to Site](https://www.gsas.columbia.edu/)[Search columbia.edu](https://search.columbia.edu/)

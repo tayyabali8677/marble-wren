@@ -172,22 +172,22 @@ Search for a keyword
 Search
 Filters
 Aboriginal and Torres Strait Islander scholarships and grants
-Adelaide University offers a range of scholarships and grants to Aboriginal and Torres Strait Islander students.&nbsp;</p>\r\n<p>Some scholarships require only one application and automatically assess your eligibility for numerous scholarships. Other scholarships may require individual applications.</p>\r\n&#34;,&#34;repo:modifyDate&#34;:&#34;2026-05-13T23:41:22Z&#34;,&#34;dc:title&#34;:&#34;Aboriginal and Torres Strait Islander scholarships and grants&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
+Adelaide University offers a range of scholarships and grants to Aboriginal and Torres Strait Islander students.&nbsp;</p>\r\n<p>Some scholarships require only one application and automatically assess your eligibility for numerous scholarships. Other scholarships may require individual applications.</p>\r\n&#34;,&#34;dc:title&#34;:&#34;Aboriginal and Torres Strait Islander scholarships and grants&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
 Adelaide University offers a range of scholarships and grants to Aboriginal and Torres Strait Islander students.
 Some scholarships require only one application and automatically assess your eligibility for numerous scholarships. Other scholarships may require individual applications.
 View Aboriginal and Torres Strait Islander scholarships
 International student scholarships
-Adelaide University offers a range of scholarships to international students</p>\r\n<p>For most scholarships, you will be automatically assessed when applying for an eligible undergraduate or postgraduate degree. However some scholarships have additional application requirements, excluded programs and terms and conditions.</p>\r\n&#34;,&#34;repo:modifyDate&#34;:&#34;2026-05-13T23:41:32Z&#34;,&#34;dc:title&#34;:&#34;International student scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
+Adelaide University offers a range of scholarships to international students</p>\r\n<p>For most scholarships, you will be automatically assessed when applying for an eligible undergraduate or postgraduate degree. However some scholarships have additional application requirements, excluded programs and terms and conditions.</p>\r\n&#34;,&#34;dc:title&#34;:&#34;International student scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
 Adelaide University offers a range of scholarships to international students
 For most scholarships, you will be automatically assessed when applying for an eligible undergraduate or postgraduate degree. However some scholarships have additional application requirements, excluded programs and terms and conditions.
 View International scholarships
 Research degree scholarships
-Adelaide University offers a variety of scholarships to research students, designed to support with the costs associated with undertaking a research degree. </p>\r\n<p>Use the search tool to view available scholarships or visit the Research scholarships&nbsp;webpage for more information. </p>\r\n&#34;,&#34;repo:modifyDate&#34;:&#34;2026-05-13T23:41:43Z&#34;,&#34;dc:title&#34;:&#34;Research degree scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
+Adelaide University offers a variety of scholarships to research students, designed to support with the costs associated with undertaking a research degree. </p>\r\n<p>Use the search tool to view available scholarships or visit the Research scholarships&nbsp;webpage for more information. </p>\r\n&#34;,&#34;dc:title&#34;:&#34;Research degree scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
 Adelaide University offers a variety of scholarships to research students, designed to support with the costs associated with undertaking a research degree.
 Use the search tool to view available scholarships or visit the Research scholarships webpage for more information.
 View Research scholarships
 Rural, Regional and Remote scholarships and grants
-Adelaide University offers a range of scholarships and grants to rural, regional and remote students (current and future).&nbsp; These students may fit into one of the following categories: &nbsp;</p>\r\n<ul>\r\n<li>moving to Adelaide to undertake study at AU</li>\r\n<li>moving to a regional area to undertake study at AU</li>\r\n<li>studying at one of our regional campuses</li>\r\n<li>currently living in a regional or rural area</li>\r\n</ul>\r\n&#34;,&#34;repo:modifyDate&#34;:&#34;2026-05-13T23:42:15Z&#34;,&#34;dc:title&#34;:&#34;Rural, Regional and Remote scholarships and grants&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
+Adelaide University offers a range of scholarships and grants to rural, regional and remote students (current and future).&nbsp; These students may fit into one of the following categories: &nbsp;</p>\r\n<ul>\r\n<li>moving to Adelaide to undertake study at AU</li>\r\n<li>moving to a regional area to undertake study at AU</li>\r\n<li>studying at one of our regional campuses</li>\r\n<li>currently living in a regional or rural area</li>\r\n</ul>\r\n&#34;,&#34;dc:title&#34;:&#34;Rural, Regional and Remote scholarships and grants&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
 Adelaide University offers a range of scholarships and grants to rural, regional and remote students (current and future).  These students may fit into one of the following categories:
 moving to Adelaide to undertake study at AU
 moving to a regional area to undertake study at AU
@@ -195,7 +195,7 @@ studying at one of our regional campuses
 currently living in a regional or rural area
 View Rural, Regional and Remote scholarships
 Sport scholarships
-Explore Adelaide University’s sport scholarships and grants, designed to support your sporting goals while you study. Find out what opportunities are available and how they could help you succeed on and off the field.</p>\r\n&#34;,&#34;repo:modifyDate&#34;:&#34;2026-05-13T23:42:57Z&#34;,&#34;dc:title&#34;:&#34;Sport scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
+Explore Adelaide University’s sport scholarships and grants, designed to support your sporting goals while you study. Find out what opportunities are available and how they could help you succeed on and off the field.</p>\r\n&#34;,&#34;dc:title&#34;:&#34;Sport scholarships&#34;,&#34;@type&#34;:&#34;adelaideuniversity/common/components/contentblock&#34;}}">
 Explore Adelaide University’s sport scholarships and grants, designed to support your sporting goals while you study. Find out what opportunities are available and how they could help you succeed on and off the field.
 View Sport scholarships
 Find your degree

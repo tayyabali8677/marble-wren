@@ -22,7 +22,7 @@ Markdown Content:
 *   Health sciences
 *   Science and Engineering
 
-[](https://www.sorbonne-universite.fr/en)
+[![Image 1](https://www.sorbonne-universite.fr/en/international/international-students/scholarships-and-financial-aid)](https://www.sorbonne-universite.fr/en)
 
 *   [Education](https://www.sorbonne-universite.fr/en/education) 
 
@@ -224,7 +224,7 @@ Search
 
 La page demandée n’existe pas. [Cliquez-ici](https://www.sorbonne-universite.fr/en/sitemap) pour choisir une autre page dans le plan du site.
 
-[![Image 1](https://www.sorbonne-universite.fr/sites/default/files/media/2019-10/logo_4.svg)](https://www.sorbonne-universite.fr/en/international/international-students/scholarships-and-financial-aid)
+[![Image 2](https://www.sorbonne-universite.fr/sites/default/files/media/2019-10/logo_4.svg)](https://www.sorbonne-universite.fr/en/international/international-students/scholarships-and-financial-aid)
 
 *   [PUBLIC PROCUREMENT](https://www.sorbonne-universite.fr/en/public-procurement)
 *   [LEGAL NOTICE](https://www.sorbonne-universite.fr/en/legal-notice)
@@ -247,7 +247,7 @@ La page demandée n’existe pas. [Cliquez-ici](https://www.sorbonne-universite.
 *   [youtube](https://www.youtube.com/channel/UCJRfmVMO9aeYDHDAJuEv6bw "youtube")
 *   [facebook](https://www.facebook.com/sorbonne.univ.paris/ "facebook")
 
-Site réalisé par[![Image 2: Intuitiv Interactive](https://www.sorbonne-universite.fr/themes/custom/boots/assets/images/intuitiv-logo.svg)](https://www.intuitiv-interactive.com/)
+Site réalisé par[![Image 3: Intuitiv Interactive](https://www.sorbonne-universite.fr/themes/custom/boots/assets/images/intuitiv-logo.svg)](https://www.intuitiv-interactive.com/)
 
  Gestion des cookies 
 

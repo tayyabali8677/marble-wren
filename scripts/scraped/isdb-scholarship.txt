@@ -3,8 +3,6 @@ Title: Page not found | IsDB
 
 URL Source: https://www.isdb.org/scholarship-program
 
-Published Time: Sat, 24 Oct 2026 03:09:48 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -80,6 +78,7 @@ Search
 *   [IsDB Member Countries](https://www.isdb.org/isdb-member-countries)
 *   [Contact](https://www.isdb.org/who-we-are/contact)
 *   [Undergraduate Scholarship Program Scholarship Program for IsDB Least Developed Member Countries](https://www.isdb.org/publications/undergraduate-scholarship-program-scholarship-program-for-isdb-least-developed-member-countries)
+*   [Scholarship Program for Muslim Communities in Non-Member Countries (SPMC)](https://www.isdb.org/publications/scholarship-program-for-muslim-communities-in-non-member-countries-spmc-0)
 *   [Board of Governors](https://www.isdb.org/leadership/board-of-governors)
 
 # Page not found

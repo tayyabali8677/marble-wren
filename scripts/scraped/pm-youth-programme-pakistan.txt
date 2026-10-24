@@ -3,8 +3,6 @@ Title: Digital Youth Hub
 
 URL Source: https://pmyp.gov.pk/
 
-Published Time: Fri, 23 Oct 2026 08:15:53 GMT
-
 Markdown Content:
 ![Image 1: Nav1](https://pmyp.gov.pk/Navbar/1.png)![Image 2: Nav2](https://pmyp.gov.pk/Navbar/2.png)![Image 3: Nav3](https://pmyp.gov.pk/Navbar/3.png)![Image 4: Nav4](https://pmyp.gov.pk/Navbar/4.png)
 
@@ -18,7 +16,7 @@ Login🌐 اردو
 
 #### Welcome to Digital Youth Hub
 
-# Empowering Youth,Fostering Excellence
+# Empowering Youth,Shaping Future
 
 Pakistan’s largest youth platform, the Digital Youth Hub, connects young people with opportunities in jobs, education, entrepreneurship, and beyond. Developed through partnership between Prime Minister’s Youth Programme and UNICEF, it empowers youth to explore, grow, and lead their future.
 
@@ -210,7 +208,7 @@ Get ahead, stay up. The Digital Youth Hub App is your gateway to unlimited possi
 
 [![Image 27: Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.nitb.gov.kamyabnojawan&hl=en)[![Image 28: App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/digital-youth-hub/id1660916080)
 
-![Image 29: App Preview](https://pmyp.gov.pk/ip-mock1.png)
+![Image 29: App Preview](https://pmyp.gov.pk/ip-mock.png)
 
 [![Image 30: Digital Youth Hub Logo](https://pmyp.gov.pk/Navbar/main-logo.png)](https://pmyp.gov.pk/#)
 
