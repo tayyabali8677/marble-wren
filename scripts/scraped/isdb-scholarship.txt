@@ -3,8 +3,6 @@ Title: Page not found | IsDB
 
 URL Source: https://www.isdb.org/scholarship-program
 
-Published Time: Sun, 25 Oct 2026 03:04:33 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

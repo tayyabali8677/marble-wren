@@ -1,12 +1,23 @@
 ===== SOURCE PAGE: https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/ =====
-Title: 404 Not Found
+Title: Wartungsarbeiten / Maintenance - 503 Service Unavailable
 
 URL Source: https://www2.daad.de/deutschland/stipendien/stipendienkompass/en/27575-studying-in-all-academic-disciplines-postgraduate-degrees-in-all-academic-disciplines-epos/
 
-Warning: Target URL returned error 404: Not Found
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: Target URL returned error 503: Service Unavailable
 
 Markdown Content:
-# Not Found
+## Wir sind vorübergehend offline
 
-The requested URL was not found on this server.
+Aus Vorsicht haben wir diese Website vorübergehend offline genommen, da eine kritische Sicherheitslücke in PHP bekannt wurde - einer Programmiersprache, die von einem Großteil aller Websites weltweit verwendet wird.
+
+Es handelt sich nicht um ein Problem, das speziell diese Website betrifft.
+
+Viele andere Organisationen, darunter Behörden und große Nachrichtenseiten, haben denselben Schritt unternommen. Es gibt keine Hinweise darauf, dass diese Website kompromittiert wurde oder Daten abgeflossen sind.
+
+## We are temporarily offline
+
+As a precaution, we have temporarily taken this website offline because a critical security vulnerability has been discovered in PHP—a programming language used by the vast majority of websites worldwide.
+
+This is not a problem specific to this website.
+
+Many other organizations, including government agencies and major news sites, have taken the same step. There is no evidence that this website has been compromised.

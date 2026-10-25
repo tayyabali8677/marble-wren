@@ -8,7 +8,7 @@ Warning: Target URL returned error 503: Service Unavailable
 Markdown Content:
 URL: psl.eu/en/education/study-psl/scholarships
 
-Client IP: 34.34.253.173
+Client IP: 34.96.63.56
 
 ### What happened?
 

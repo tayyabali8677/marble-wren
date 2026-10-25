@@ -33,9 +33,13 @@ Toggle Menu Search toggle
 *   [Global partners](https://www.lancaster.ac.uk/study/partners/)
 *   [中文网站](https://www.lancasteruniversity.cn/)
 
-Main site search term Search
+Main site search term 
 
-Main site search term Search
+Search
+
+Main site search term 
+
+Search
 
 Close main menu×
 
@@ -296,7 +300,7 @@ United Kingdom
 *   [+44 (0)1524 65201](tel:+44-1524-65201)
 *   [Maps and travel](https://www.lancaster.ac.uk/about-us/maps-and-travel/)
 
-![Image 4: Lancaster University location in the UK](https://www.lancaster.ac.uk/media/lancaster-university/content-assets/images/foundation/placeholders/feature-550x300.png)
+![Image 4: Lancaster University location in the UK](https://www.lancaster.ac.uk/media/wdp/style-assets/images/location-map.svg)
 
 [![Image 5: Queen Elizabeth Prize for Education 2025 logo](https://www.lancaster.ac.uk/media/wdp/style-assets/images/RGB_Prize-winners-White.png)](https://royalanniversarytrust.org.uk/the-prizes/prize-winners/ "Lancaster University Ranking UK 2025-2026 Complete University Guide")[![Image 6: QS Stars rating excellent logo](https://www.lancaster.ac.uk/media/wdp/style-assets/images/qs-stars-overall-rating.png)](https://www.topuniversities.com/universities/lancaster-university "Top Universities Lancaster University Rankings, Fees and Courses Details")
 

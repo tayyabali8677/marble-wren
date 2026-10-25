@@ -3,8 +3,6 @@ Title: 404 - page not found!
 
 URL Source: https://www.uzh.ch/en/studies/application/scholarships.html
 
-Published Time: Sun, 25 Oct 2026 03:40:32 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
