@@ -3,8 +3,6 @@ Title: Error 404 | Swinburne
 
 URL Source: https://www.swinburne.edu.au/study/scholarships/
 
-Published Time: Fri, 23 Oct 2026 12:20:49 GMT
-
 Markdown Content:
 [Skip to search](https://www.swinburne.edu.au/study/scholarships/#site-search)[Skip to content](https://www.swinburne.edu.au/study/scholarships/#content-area)
 
@@ -476,3 +474,5 @@ CRICOS 00111D
 RTO (TOID) 3059
 
 TEQSA PRV12148 Australian University
+
+![Image 25](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_d781bd7d-8aa4-4d3d-f450-c15e0fad9118&first_visited_at=1792899925353&stid=&ipv4=34.96.52.17&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792899925670)

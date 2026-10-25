@@ -3,6 +3,8 @@ Title: Yenching Academy of Peking University
 
 URL Source: https://yenchingacademy.pku.edu.cn/
 
+Published Time: Tue, 20 Oct 2026 07:34:22 GMT
+
 Markdown Content:
 [![Image 1: 燕京学堂英文站](https://yenchingacademy.pku.edu.cn/dfiles/17946/uploadfile/2018/08/28/20180828163034olpq0h.jpg)](https://yenchingacademy.pku.edu.cn/index.htm "燕京学堂")
 
@@ -19,7 +21,7 @@ Markdown Content:
 *   [ALUMNI](https://yenchingacademy.pku.edu.cn/ALUMNI.htm)[Alumni News](https://yenchingacademy.pku.edu.cn/ALUMNI/Alumni_News.htm "Alumni News")[Notices & Newsletter](https://yenchingacademy.pku.edu.cn/ALUMNI/Notices___Newsletter.htm "Notices & Newsletter")[Alumni Directory](https://yenchingacademy.pku.edu.cn/directory.jsp?urltype=tree.TreeTempUrl&wbtreeid=1174 "Alumni Directory")[Giving & Volunteering](https://yenchingacademy.pku.edu.cn/ALUMNI/Giving___Volunteering.htm "Giving & Volunteering")
 *   [NEWS & NOTICES](https://yenchingacademy.pku.edu.cn/NEWS___NOTICES.htm)
 *   [中文](https://yenching.pku.edu.cn/ "中文")
-*   [_![Image 3](https://yenchingacademy.pku.edu.cn/dfiles/17946/res/yenching/images/fdj.png)_](javascript:void(0))  
+*   [_![Image 3](https://yenchingacademy.pku.edu.cn/dfiles/17946/res/yenching/images/fdj.png)_](javascript:void(0)) 
 
 [Video 3](https://yenchingacademy.pku.edu.cn/virtual_attach_file.vsb?afc=5L46CRn7-bnmW2MQ8V7MRMRn7VkMRUqZo7V2nmNsUm98ozG0gihFp2hmCIa0oSy4MYy4LYyPL4C8nR9Zol-YnzNsnRUZozfVMRLPLmUYUmrFn7WkL7LanlnFM4laozNbgtiaMROeo4xbqjA8QIZ0qIbtpYyxLYyxLYbw62p8c&oid=1536097907&e=.mp4)
 

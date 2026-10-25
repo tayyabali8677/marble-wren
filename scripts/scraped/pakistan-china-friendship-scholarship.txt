@@ -3,8 +3,6 @@ Title: Page not found
 
 URL Source: https://hec.gov.pk/english/scholarshipsgrants/Chinese%20Govt%20Scholarship/Pages/Pakistan-China-Friendship-Scholarship.aspx
 
-Published Time: Sat, 24 Oct 2026 15:41:11 GMT
-
 Markdown Content:
 ![Image 1](https://hec.gov.pk/_layouts/15/images/spcommon.png?rev=43)
 
@@ -55,6 +53,14 @@ Markdown Content:
 [![Image 16: Search](https://hec.gov.pk/_layouts/15/images/searchresultui.png?rev=43#ThemeKey=searchresultui)](javascript: {} "Search")
 
 ###### Quick Links
+
+*   [M & E](https://www.hec.gov.pk/english/services/universities/Monitoring-Evaluation/Pages/default.aspx)
+*   [Quality Assurance Agency](https://www.hec.gov.pk/english/services/universities/QAA/Pages/default.aspx)
+*   [Tenders & RFPs](https://www.hec.gov.pk/english/news/Pages/TendersRFPs.aspx)
+*   [Jobs & Careers](https://careers.hec.gov.pk/)
+*   [HEDP Project](https://www.hec.gov.pk/english/services/universities/HEDP/Pages/default.aspx)
+*   [Notifications](https://www.hec.gov.pk/english/Notifications/Pages/default.aspx)
+*   [NAHE](https://www.hec.gov.pk/english/NAHE/Pages/NAHE-Overview.aspx)
 
 Page Content
 

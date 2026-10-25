@@ -186,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: f3a18cb80708f6c9eb9cdcefd29c4ee9
+This is the Trace Id: 2935101c0264e16d70d7f0db7b218d48
 Skip to main content
 Education
 Azure for education
@@ -397,9 +397,9 @@ Markdown Content:
 
 Build AI-powered solutions, monetize through Microsoft Marketplace, and scale revenue through Microsoft expertise, skilling, and investments.
 
-*   #### [Trusted expertise](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab1f251677-11a5-4cf6-ac1b-ca74a16a55e7-1)
-*   #### [Savings & investments](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab1f251677-11a5-4cf6-ac1b-ca74a16a55e7-2)
-*   #### [Skilled teams](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab1f251677-11a5-4cf6-ac1b-ca74a16a55e7-3)
+*   #### [Trusted expertise](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab4707a07e-6e08-4d55-8a3d-e62dfcf534ee-1)
+*   #### [Savings & investments](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab4707a07e-6e08-4d55-8a3d-e62dfcf534ee-2)
+*   #### [Skilled teams](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab4707a07e-6e08-4d55-8a3d-e62dfcf534ee-3)
 
 ![Image 3: Person working on a laptop.](https://www.microsoft.com/-/media/b5cd9da3a86441468a8a61d4b016bb9c.png)
 
@@ -455,13 +455,13 @@ Turn Marketplace presence into transactions through workshops, the [Marketplace 
 
 Scale Marketplace Billed Sales (MBS) and co-sell engagement by building your capabilities through [Partner Skilling Hub](https://skilling-hub.com/ "Partner Skilling Hub") resources, including AI certification vouchers, to advance team credentials.
 
-*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-1)
-*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-2)
-*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-3)
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-3)
 
-*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-1)
-*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-2)
-*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher423a419d-f0d0-482e-8b05-121a9a297ae4-3)
+*   ##### [Build & Publish](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-1)
+*   ##### [Grow](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-2)
+*   ##### [Differentiate](https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcherc731f492-1aa5-460f-ad95-ff00a81dd8fb-3)
 
 ## Build & Publish
 

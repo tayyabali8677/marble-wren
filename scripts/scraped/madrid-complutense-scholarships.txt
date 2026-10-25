@@ -6,13 +6,7 @@ URL Source: https://www.ucm.es/becas-internacionales
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-![Image 2: Logo](https://www.ucm.es/themes/ucm16/media/img/logo.png)
-
-In our web pages we use cookies and other similar technologies of our own and of [third parties](javascript:Didomi.preferences.show('vendors')) to store, access and process personal data such as your visit to this Web. You can withdraw your consent or object to data processing based on legitimate interests at any time by clicking on "More information" or according to our [legal notice](https://www.ucm.es/aviso-legal) on this website.
-
-Learn More →Disagree and close Agree and close
-
-[![Image 3: Universidad Complutense de Madrid](https://www.ucm.es/themes/ucm24/media/img/logo.svg)](https://www.ucm.es/)
+[![Image 2: Universidad Complutense de Madrid](https://www.ucm.es/themes/ucm24/media/img/logo.svg)](https://www.ucm.es/)
 
 # [Universidad Complutense de Madrid](https://www.ucm.es/ "Portada - Universidad Complutense de Madrid")
 
@@ -20,15 +14,15 @@ Desplegar navegación
 
 *   [Navegar identificado](https://www.ucm.es/login_sso/)
 
-*   [![Image 4: English](https://www.ucm.es/themes/ucm24/media/img/banderas/en.png)](https://www.ucm.es/english "English: Complutense University of Madrid")
+*   [![Image 3: English](https://www.ucm.es/themes/ucm24/media/img/banderas/en.png)](https://www.ucm.es/english "English: Complutense University of Madrid")
 
-*   [![Image 5: Youtube](https://www.ucm.es/themes/ucm24/media/img/youtube.svg)](http://www.youtube.com/ucomplutensemadrid)
-*   [![Image 6: Facebook](https://www.ucm.es/themes/ucm24/media/img/facebook.svg)](https://www.facebook.com/UniComplutense)
-*   [![Image 7: Twitter](https://www.ucm.es/themes/ucm24/media/img/x.svg)](http://twitter.com/unicomplutense)
-*   [![Image 8: Linkedin](https://www.ucm.es/themes/ucm24/media/img/linkedin.svg)](https://www.linkedin.com/company/universidadcomplutense)
-*   [![Image 9: Instagram](https://www.ucm.es/themes/ucm24/media/img/instagram.svg)](https://www.instagram.com/uni.complutense/)
-*   [![Image 10: tiktok](https://www.ucm.es/themes/ucm24/media/img/tiktok.svg)](https://www.tiktok.com/@unicomplutense_oficial)
-*   [![Image 11: bluesky](https://www.ucm.es/themes/ucm24/media/img/bluesky.svg)](https://bsky.app/profile/ucm.es)
+*   [![Image 4: Youtube](https://www.ucm.es/themes/ucm24/media/img/youtube.svg)](http://www.youtube.com/ucomplutensemadrid)
+*   [![Image 5: Facebook](https://www.ucm.es/themes/ucm24/media/img/facebook.svg)](https://www.facebook.com/UniComplutense)
+*   [![Image 6: Twitter](https://www.ucm.es/themes/ucm24/media/img/x.svg)](http://twitter.com/unicomplutense)
+*   [![Image 7: Linkedin](https://www.ucm.es/themes/ucm24/media/img/linkedin.svg)](https://www.linkedin.com/company/universidadcomplutense)
+*   [![Image 8: Instagram](https://www.ucm.es/themes/ucm24/media/img/instagram.svg)](https://www.instagram.com/uni.complutense/)
+*   [![Image 9: tiktok](https://www.ucm.es/themes/ucm24/media/img/tiktok.svg)](https://www.tiktok.com/@unicomplutense_oficial)
+*   [![Image 10: bluesky](https://www.ucm.es/themes/ucm24/media/img/bluesky.svg)](https://bsky.app/profile/ucm.es)
 
 Buscar en la web 
 
@@ -289,7 +283,7 @@ Desplegar navegación
   
   
 
-![Image 12: Página no disponible](https://www.ucm.es/themes/ucm24/media/img/404.jpg)
+![Image 11: Página no disponible](https://www.ucm.es/themes/ucm24/media/img/404.jpg)
 ## La página solicitada no se encuentra disponible.  
   
 Es posible que la dirección no sea correcta o que la página se encuentre en mantenimiento.
@@ -302,17 +296,17 @@ Es posible que la dirección no sea correcta o que la página se encuentre en ma
 *   [Sugerencias y Quejas](https://www.ucm.es/buzon-de-sugerencias-y-quejas)
 *   [Canal denuncia Personal UCM](https://www.ucm.es/portaldetransparencia/cii-ucm)
 
-*   [![Image 13: HR Excellence in Research](https://www.ucm.es/themes/ucm24/media/img/hrs4r.png)](https://www.ucm.es/hrs4r_es)
-*   [![Image 14: Una Europa](https://www.ucm.es/themes/ucm24/media/img/una-europa.svg)](https://www.una-europa.eu/)
-*   [![Image 15: Universidades Españolas con Ucrania](https://www.ucm.es/themes/ucm24/media/img/ucrania.png)](https://www.ucm.es/informacion/pagina-principal)
+*   [![Image 12: HR Excellence in Research](https://www.ucm.es/themes/ucm24/media/img/hrs4r.png)](https://www.ucm.es/hrs4r_es)
+*   [![Image 13: Una Europa](https://www.ucm.es/themes/ucm24/media/img/una-europa.svg)](https://www.una-europa.eu/)
+*   [![Image 14: Universidades Españolas con Ucrania](https://www.ucm.es/themes/ucm24/media/img/ucrania.png)](https://www.ucm.es/informacion/pagina-principal)
 
-*   [![Image 16: Youtube](https://www.ucm.es/themes/ucm24/media/img/youtube.svg)](http://www.youtube.com/ucomplutensemadrid)
-*   [![Image 17: Facebook](https://www.ucm.es/themes/ucm24/media/img/facebook.svg)](https://www.facebook.com/UniComplutense)
-*   [![Image 18: Twitter](https://www.ucm.es/themes/ucm24/media/img/x.svg)](http://twitter.com/unicomplutense)
-*   [![Image 19: Linkedin](https://www.ucm.es/themes/ucm24/media/img/linkedin.svg)](https://www.linkedin.com/company/universidadcomplutense)
-*   [![Image 20: Instagram](https://www.ucm.es/themes/ucm24/media/img/instagram.svg)](https://www.instagram.com/uni.complutense/)
-*   [![Image 21: tiktok](https://www.ucm.es/themes/ucm24/media/img/tiktok.svg)](https://www.tiktok.com/@unicomplutense_oficial)
-*   [![Image 22: bluesky](https://www.ucm.es/themes/ucm24/media/img/bluesky.svg)](https://bsky.app/profile/ucm.es)
+*   [![Image 15: Youtube](https://www.ucm.es/themes/ucm24/media/img/youtube.svg)](http://www.youtube.com/ucomplutensemadrid)
+*   [![Image 16: Facebook](https://www.ucm.es/themes/ucm24/media/img/facebook.svg)](https://www.facebook.com/UniComplutense)
+*   [![Image 17: Twitter](https://www.ucm.es/themes/ucm24/media/img/x.svg)](http://twitter.com/unicomplutense)
+*   [![Image 18: Linkedin](https://www.ucm.es/themes/ucm24/media/img/linkedin.svg)](https://www.linkedin.com/company/universidadcomplutense)
+*   [![Image 19: Instagram](https://www.ucm.es/themes/ucm24/media/img/instagram.svg)](https://www.instagram.com/uni.complutense/)
+*   [![Image 20: tiktok](https://www.ucm.es/themes/ucm24/media/img/tiktok.svg)](https://www.tiktok.com/@unicomplutense_oficial)
+*   [![Image 21: bluesky](https://www.ucm.es/themes/ucm24/media/img/bluesky.svg)](https://bsky.app/profile/ucm.es)
 
 *   © Universidad Complutense Madrid
 *   [Localización y contacto](https://www.ucm.es/contacto)
