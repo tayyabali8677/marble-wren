@@ -3,19 +3,10 @@ Title: Page not found
 
 URL Source: https://www.mq.edu.au/study/scholarships
 
+Warning: Target URL returned error 404: Not Found
+Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+
 Markdown Content:
-*   [Current students](https://students.mq.edu.au/)
-*   [Staff](https://mqoutlook.sharepoint.com/sites/mq-staff-intranet)
-*   [Alumni](https://www.mq.edu.au/alumni)
-*   [Library](https://www.mq.edu.au/about/facilities/library)
-*   [Maps](https://www.mq.edu.au/about/locations/maps)
-*   [Contact](https://www.mq.edu.au/about/locations/contacts)
-
-# Page not found
-
-1.   [Macquarie University](https://www.mq.edu.au/)
-2.   Page not found
-
 The page you are looking for isn't available.
 
 This might be because:
@@ -24,7 +15,3 @@ This might be because:
 *   the page you were looking for has been moved or deleted
 
 [Return to the Macquarie University homepage](https://www.mq.edu.au/home)
-
-![Image 2](https://bat.bing.com/action/0?ti=16003138&tm=gtm002&Ver=2&mid=8fb386de-ebfc-4206-95cc-786ba36ef3bf&bo=1&sid=e1db4fb0d08e11f1aa244fbc1da3d1b4&vid=e1db8160d08e11f1a1583f1c7a77d6ea&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20not%20found%20-%20Macquarie%20University&p=https%3A%2F%2Fwww.mq.edu.au%2Fstudy%2Fscholarships&r=&lt=5386&evt=pageLoad&sv=2&cdb=AQAQ&rn=931092)
-
-We use cookies to improve your experience on our site and to show you personalised content. For more information about how we use cookies, please read our [Privacy](https://www.mq.edu.au/about/about-the-university/structure-governance/privacy) information.

@@ -146,24 +146,24 @@ Technology Transfer & Innovation
 Experience level
 Entry level
 0 - 2 year(s)
-15
+12
 Experienced
 > 6 years
-9
+10
 Mid-Level
 2 - 6 years
-8
+10
 Student
 1
 Profile
 Administrative
-7
+8
 Engineering
-21
+18
 Research
-7
+9
 Technical
-11
+10
 More filters
 More filters
 Filter by
@@ -195,6 +195,7 @@ HR – Human Resources
 IPT – Industry, Procurement and Knowledge Transfer
 IR – International Relations
 IT – Information Technology
+OSI - Organizational Support and Improvement
 RCS - Research & Computing Sector
 SCE – Site and Civil Engineering
 SO - Site Operations

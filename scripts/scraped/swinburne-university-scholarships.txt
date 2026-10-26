@@ -6,8 +6,6 @@ URL Source: https://www.swinburne.edu.au/study/scholarships/
 Markdown Content:
 [Skip to search](https://www.swinburne.edu.au/study/scholarships/#site-search)[Skip to content](https://www.swinburne.edu.au/study/scholarships/#content-area)
 
-Swinburne's website is currently experiencing intermittent outages across all pages.
-
 [![Image 10: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-small.svg)![Image 11: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-long-full.svg)](https://www.swinburne.edu.au/)
 
 Close
@@ -475,4 +473,4 @@ RTO (TOID) 3059
 
 TEQSA PRV12148 Australian University
 
-![Image 25](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_a9febea2-2cb3-49d8-c2bf-5109b2c3135a&first_visited_at=1792944762429&stid=&ipv4=34.96.46.128&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792944762836)
+![Image 25](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_9c37aea9-6ab6-4632-d11c-bf222c16df58&first_visited_at=1792986164848&stid=&ipv4=34.34.225.163&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1792986164958)

@@ -1,11 +1,15 @@
 ===== SOURCE PAGE: https://www.uc.pt/en/iii/bolsas-de-estudo =====
-Title: Establishing a secure connection ...
+Title: 404 Page
 
 URL Source: https://www.uc.pt/en/iii/bolsas-de-estudo
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Establishing a secure connection...
+This site uses cookies to analyze user behavior (**Traffic Analysis**), to present ads on other sites that may be of your interest (**Marketing**) and to integrate third-party multimedia content, such as videos and maps (**Multimedia**).
 
-Request ID: **3efdc3549676bfc0ba362e69e85db88d**
+By clicking "I Authorize", you accept all cookies and can browse the site with a more personalized experience.
+
+To learn more about cookies, partners, and how we use your data, please see our [Cookie Policy](https://www.uc.pt/protecao-de-dados-e-informacao-administrativa/politica-de-cookies/).
+
+You can withdraw your consent from the link available in the footer of any page of this website.

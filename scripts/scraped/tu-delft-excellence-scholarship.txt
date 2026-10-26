@@ -334,7 +334,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -531,12 +531,12 @@ Menu openen
 News
 Agenda
 Grants
-Menu sluiten
+Menu openen
 Students
 Researchers
 Alumni
 About us
-Menu openen
+Menu sluiten
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft

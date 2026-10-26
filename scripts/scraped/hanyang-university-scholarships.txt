@@ -12,8 +12,6 @@ Markdown Content:
 
 [![Image 1: Hanyang University](https://www.hanyang.ac.kr/o/hyu_homepage-theme/images/icons/logo_global.png)](https://www.hanyang.ac.kr/web/eng "Go to ")
 
-[한국어](https://www.hanyang.ac.kr/web/www)
-
 ### Search
 
 #ABC#ABC#ABC

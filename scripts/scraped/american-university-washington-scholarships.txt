@@ -3,8 +3,6 @@ Title: Page Not Found
 
 URL Source: https://www.american.edu/admissions/scholarships/
 
-Published Time: Wed, 06 May 2026 22:50:43 GMT
-
 Markdown Content:
 [Skip to main content](https://www.american.edu/admissions/scholarships/#a)
 
@@ -119,61 +117,3 @@ Copyright © 2026 American University.
 *   [Instagram](https://instagram.com/americanuniversity)
 
 [![Image 2: American University in Washington, DC](https://www.american.edu/customcf/2016-redesign/images/logos/crest-logotype-blue.svg) Homepage](https://www.american.edu/)
-
-By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. [Privacy Notice](https://www.american.edu/policies/privacy-notice.cfm)
-
-Cookies Settings Reject All Accept All Cookies
-
-![Image 3: American University logo](https://cdn.cookielaw.org/logos/80e105f1-9f01-4c29-b870-3014018d22cc/0194e234-617c-7084-8213-a635f456a2ab/19247f83-e7eb-4d13-9c9e-ffee9f1bab83/crest-logotype-blue-seo.png)
-
-## Privacy Preference Center
-
-When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.   
-[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)
-
-Allow All
-### Manage Consent Preferences
-
-#### Strictly Necessary Cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
-#### Functional Cookies
-
-- [x] Functional Cookies 
-
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
-
-#### Performance Cookies
-
-- [x] Performance Cookies 
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-#### Targeting Cookies
-
-- [x] Targeting Cookies 
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-### Cookie List
-
-Clear
-
-- [x] checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Reject All Confirm My Choices
-
-[![Image 4: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

@@ -7,7 +7,7 @@ Markdown Content:
 [Skip to content](https://www.latrobe.edu.au/scholarships#content)
 This website [uses cookies](https://www.latrobe.edu.au/statements/privacy) to ensure you get a better experience.Allow Cookies
 
-[![Image 1: La Trobe University](https://www.latrobe.edu.au/__data/assets/file/0010/796393/logo-white.svg)](https://www.latrobe.edu.au/)
+[![Image 1: La Trobe University](https://www.latrobe.edu.au/_media/la-trobe-api/v5/img/logo-white.svg)](https://www.latrobe.edu.au/)
 
 [MENU](https://www.latrobe.edu.au/scholarships#nav-container)
 *   [Students](https://www.latrobe.edu.au/students)
@@ -18,7 +18,7 @@ This website [uses cookies](https://www.latrobe.edu.au/statements/privacy) to en
 *   [Donate](https://www.latrobe.edu.au/philanthropy)
 *   [Contacts](https://www.latrobe.edu.au/contact)
 
-*   Study 
+*   Study with us 
 
     *   Browse by study level
         *   [Your first degree (Undergraduate)](https://www.latrobe.edu.au/study/undergrad)
@@ -88,7 +88,7 @@ Upskill fast or make a switch into a new career.
         *   [Postgraduate courses](https://www.latrobe.edu.au/study/postgrad)
         *   [Research courses](https://www.latrobe.edu.au/research/graduate-research)
 
-*   International 
+*   International students 
 
     *   [Study at La Trobe](https://www.latrobe.edu.au/international/study)
         *   [Why choose La Trobe](https://www.latrobe.edu.au/international/study/choose-latrobe)
@@ -141,7 +141,7 @@ Upskill fast or make a switch into a new career.
         *   [International webinars](https://www.latrobe.edu.au/international/support-and-help/webinars)
         *   [International student enquiries](https://www.latrobe.edu.au/international/support-and-help/question)
 
-*   Industry 
+*   Industry and Community 
 
     *   Industry partnerships
         *   [Find an expert](https://scholars.latrobe.edu.au/search)
@@ -206,7 +206,7 @@ Upskill fast or make a switch into a new career.
         *   [Office of Research Infrastructure](https://www.latrobe.edu.au/research-infrastructure)
         *   [Research leaders accelerator program](https://www.latrobe.edu.au/research/research-leaders-accelerator-program)
 
-*   [AI](https://www.latrobe.edu.au/ai) 
+*   AI [AI](https://www.latrobe.edu.au/ai) 
 *   About 
 
     *   Leadership & structure
@@ -237,14 +237,6 @@ Upskill fast or make a switch into a new career.
         *   [Careers at La Trobe](https://www.latrobe.edu.au/jobs)
         *   [Research at La Trobe](https://www.latrobe.edu.au/research)
         *   [Contact us](https://www.latrobe.edu.au/contact)
-
-*   [Students](https://www.latrobe.edu.au/students)
-*   [Staff](https://www.latrobe.edu.au/staff)
-*   [Alumni](https://www.latrobe.edu.au/alumni)
-*   [Library](https://www.latrobe.edu.au/library)
-*   [News](https://www.latrobe.edu.au/news)
-*   [Donate](https://www.latrobe.edu.au/philanthropy)
-*   [Contacts](https://www.latrobe.edu.au/contact)
 
 - [x] Search 
 

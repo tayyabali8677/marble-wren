@@ -135,20 +135,4 @@ Es el portal único de trámites, información y participación ciudadana. [Leer
 *   [![Image 10: gob.mx](https://www.gob.mx/cms/assets/instagram.png)](https://www.instagram.com/gobmexico/ "Enlace a instagram abre en una nueva ventana")
 *   [![Image 11: gob.mx](https://www.gob.mx/cms/assets/youtube.png)](https://www.youtube.com/@gobiernodemexico "Enlace a Youtube abre en una nueva ventana")
 
-*   [![Image 12: logo 079](https://framework-gb.cdn.gob.mx/gobmx/img/079.png)](tel:+079) 
-
-  
-  
-
-[](https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros#)*       *   - [x] Restablecer
-    *   - [x] Cambiar escala de grises
-    *   - [x] Usar un lector de pantalla
-    *   - [x] Cambiar tamaño de cursor
-    *   - [x] Cambiar el contraste de color
-    *   - [x] Mascara de lectura
-    *   - [x] Guia de Lectura
-    *   - [x] Cambio de tipografia dislexia
-    *   - [x] Espaciado vertical     
-    *   - [x] Espaciado Horizontal     
-    *     Cambiar tamaño
-    *   - [x] Resaltar Enlaces
+*   [![Image 12: logo 079](https://framework-gb.cdn.gob.mx/gobmx/img/079.png)](tel:+079)

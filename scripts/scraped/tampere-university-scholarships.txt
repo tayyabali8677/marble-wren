@@ -95,3 +95,11 @@ Feedback (required field)*
 Feedback (required field)* 
 
 Submit
+
+## About cookies on this site
+
+We use technologies, such as cookies, to customise content and advertising, to provide chat and social media features, and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners. You can change your cookie preferences from the link at the page footer.
+
+[Read more on cookies](https://www.tuni.fi/en/data-protection/cookies)
+
+Cookie settings Accept all Allow only necessary

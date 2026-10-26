@@ -1,22 +1,10 @@
 ===== SOURCE PAGE: https://studyinukraine.gov.ua/scholarships/ =====
-Title: WordPress › Error
+Title: WordPress &rsaquo; Error
 
 URL Source: https://studyinukraine.gov.ua/scholarships/
 
 Warning: Target URL returned error 500: Internal Server Error
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-**Warning**: mysqli_real_connect(): (HY000/2002): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение in **E:\test-dev.studyiukraine.gov.ua\wp-includes\class-wpdb.php** on line **1994**  
-WordPress › Error
 
-`Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение`
-
-## Error establishing a database connection
-
-This either means that the username and password information in your `wp-config.php` file is incorrect or that contact with the database server at `localhost` could not be established. This could mean your host’s database server is down.
-
-*   Are you sure you have the correct username and password?
-*   Are you sure you have typed the correct hostname?
-*   Are you sure the database server is running?
-
-If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the [WordPress support forums](https://wordpress.org/support/forums/).

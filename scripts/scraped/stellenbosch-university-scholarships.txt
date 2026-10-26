@@ -4,8 +4,6 @@ Title: Home
 URL Source: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships
 
 Markdown Content:
-Welcome to All in One Accessibility screen reader. To start the All in One Accessibility screen reader, press "Ctrl + /". This shortcut activates the screen reader to help you navigate and interact with the content.
-
 Skip to Content
 
 ↵
@@ -143,7 +141,7 @@ Search
 
 [](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships)
 
-[Video 2](https://files.su.ac.za/public/stellenbosch-university/videos/2026-09/web-background-video.mp4)
+[Video 2](about:blank)
 
 # Welcome to Stellenbosch University
 
@@ -187,7 +185,7 @@ Image by: Photo by Stefan Els
 
 [![Image 9: Watch Investing in future talent: MMI Holdings Limited on YouTube.](https://i.ytimg.com/vi/_6DaKklD31Y/sddefault.jpg)](https://www.youtube.com/watch?v=_6DaKklD31Y&embeds_referring_euri=https%3A%2F%2Fdev.su.ac.za%2F&embeds_referring_origin=https%3A%2F%2Fdev.su.ac.za&source_ve_path=MjM4NTE&themeRefresh=1 "Watch Investing in future talent: MMI Holdings Limited on YouTube.")
 
-[![Image 10: Graduation ](https://www.sun.ac.za/english/learning-teaching/student-affairs/undefined) Image by: Photo by Stefan Els ### Celebrate your success View the graduation programme, get tickets, and hire attire](https://www.su.ac.za/en/students/graduation)
+[![Image 10: Graduation ](https://files.su.ac.za/public/stellenbosch-university/images/2025-09/home-graduationjpg.jpg) Image by: Photo by Stefan Els ### Celebrate your success View the graduation programme, get tickets, and hire attire](https://www.su.ac.za/en/students/graduation)
 
 [](https://www.su.ac.za/en/students/graduation)
 
@@ -199,7 +197,7 @@ Image by: Photo by Stefan Els
 
 ### Coetzenburg Centre
 
-![Image 12: Registration banner](https://www.sun.ac.za/english/learning-teaching/student-affairs/undefined)
+![Image 12: Registration banner](https://files.su.ac.za/public/stellenbosch-university/images/2025-12/registration-homejpg.jpg)
 
 Image by: Photo by Stefan Els
 
@@ -215,7 +213,7 @@ Image by: Photo by Stefan Els
 
 Discover stories of our pursuit of impactful solutions, building learning communities that leverage the latest technologies, and our exceptional people.
 
-![Image 13: Teachers handing over resources to Ikaya Primary](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/teachers1.jpg?h=1c0ea4d5&itok=I3_2s-fY)
+![Image 13: Teachers handing over resources to Ikaya Primary](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/teachers1.jpg?h=1c0ea4d5&itok=f_Qv95kZ)
 
 #### Media release
 
@@ -225,7 +223,7 @@ A group of final-year education students at Stellenbosch University (SU) is turn
 
 [Read more](https://www.sun.ac.za/en/news/one-classroom-another-tackling-resource-shortages-one-maths-box-time)
 
-![Image 14: Social Justice Summit 2026](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/social-justice-summit-2026-webpng.png?itok=6RahLrxE)
+![Image 14: Social Justice Summit 2026](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/social-justice-summit-2026-webpng.png?itok=aFRTyv-u)
 
 #### Events
 
@@ -235,7 +233,7 @@ With South Africa’s local government elections just weeks away, a gathering of
 
 [Read more](https://www.sun.ac.za/en/news/eighth-social-justice-summit-puts-local-government-under-spotlight-ahead-elections)
 
-![Image 15: Research Excellence Awards 2026](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/research-excellence-awards-web-2026png.png?itok=kIgR2ZR0)
+![Image 15: Research Excellence Awards 2026](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/research-excellence-awards-web-2026png.png?itok=YthXKPau)
 
 #### Awards and milestones
 
@@ -245,7 +243,7 @@ The transformative power of research, and the remarkable people driving it, took
 
 [Read more](https://www.sun.ac.za/en/news/knowledge-changes-lives-su-celebrates-research-excellence)
 
-![Image 16: Prof Craig Kinnear photographed while delivering his inaugural lecture.](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/kinnear-inaugurallecture-2026png.png?itok=5bHNST0j)
+![Image 16: Prof Craig Kinnear photographed while delivering his inaugural lecture.](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/kinnear-inaugurallecture-2026png.png?itok=88m4FzxR)
 
 #### Institutional news
 
@@ -255,7 +253,7 @@ Prof Craig Kinnear of the[Division of Molecular Biology Human Genetics](https://
 
 [Read more](https://www.sun.ac.za/en/news/prof-craig-kinnear-unravels-role-dna-tuberculosis-and-immune-disorders)
 
-![Image 17: Multilingualism in Africa](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/roundtable-webpng.png?itok=QCUJL7-m)
+![Image 17: Multilingualism in Africa](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/roundtable-webpng.png?itok=3IKLwk2B)
 
 #### Arts, languages and social sciences
 
@@ -265,7 +263,7 @@ African universities must move beyond symbolic recognition of indigenous languag
 
 [Read more](https://www.sun.ac.za/en/news/african-universities-challenged-make-multilingualism-reality)
 
-![Image 18: One person serving food to another person to alleviate hunger.](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/world-food-day-2026png.png?itok=RJrzNpWu)
+![Image 18: One person serving food to another person to alleviate hunger.](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2026-10/world-food-day-2026png.png?itok=j8hy87At)
 
 #### Opinion and features
 
@@ -283,7 +281,7 @@ Stellenbosch University will be Africa's leading research-intensive university, 
 
 [Read more](https://www.sun.ac.za/en/research-innovation)
 
-![Image 19: Researcher](https://files.su.ac.za/public/styles/responsive_600w/public/stellenbosch-university/images/2025-09/home-researchjpg.jpg?itok=IKh-UHUD)
+![Image 19: Researcher](https://files.su.ac.za/public/styles/responsive_300w/public/stellenbosch-university/images/2025-09/home-researchjpg.jpg?itok=OaFV3wHz)
 
 Image by: Photo by Stefan Els
 
@@ -299,7 +297,7 @@ Image by: Photo by Stefan Els
 
 Attend our events for the opportunity to discover, grow, learn and engage with our community.
 
-![Image 20: Events](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships)
+![Image 20: Events](https://files.su.ac.za/public/styles/responsive_1.59_1_300w/public/stellenbosch-university/images/2025-07/events-3jpg.jpg?itok=EVQS3R-Y)
 
 #### [NITheCS Colloquium: Machine Learning at Takealot Group](https://www.sun.ac.za/en/events/nithecs-colloquium-machine-learning-takealot-group)
 
@@ -333,7 +331,7 @@ Reconnect with fellow Maties, engage in lifelong learning and play a role in sha
 
 [Explore Alumni Events](https://www.su.ac.za/en/alumni/events)[Support Bridge the Gap](https://matiesalumni.com/bridge-the-gap-annual-fund/)
 
-![Image 21: Alumni](https://files.su.ac.za/public/styles/responsive_600w/public/stellenbosch-university/images/2025-09/alumnijpg.jpg?itok=TrSHZchF)
+![Image 21: Alumni](https://files.su.ac.za/public/styles/responsive_300w/public/stellenbosch-university/images/2025-09/alumnijpg.jpg?itok=vVlJb867)
 
 Image by: Photo by Stefan Els
 

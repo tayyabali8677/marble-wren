@@ -1,13 +1,59 @@
 ===== SOURCE PAGE: https://www.rotary.org/en/our-programs/peace-fellowships =====
-Title: Vercel Security Checkpoint
+Title: Peace Fellowships
 
 URL Source: https://www.rotary.org/en/our-programs/peace-fellowships
 
-Warning: Target URL returned error 429: Too Many Requests
-
 Markdown Content:
-Vercel Security Checkpoint
+Through academic training, practice, and global networking opportunities, the Rotary Peace Centers program develops the capacity of peace and development professionals to become effective catalysts for peace. The fellowships cover tuition and fees, room and board, round-trip transportation, and internship and field-study expenses.
 
-|
+[Video 3](https://www.youtube.com/watch?v=D3yrkaOpjPk)
 
-cle1::1792942773-yKWvqgzepd6pdGh0sTQGjFrkh8GD1QIv
+Since the program began in 2002, the Rotary Peace Centers have trained more than 1,900 fellows who now work in over 140 countries. Many serve as leaders in governments; NGOs; education and research institutions; peacekeeping and law enforcement agencies; and international organizations like the United Nations and the World Bank.
+
+#### **Our fellowships**
+
+The Rotary Peace Fellowship is designed for leaders with work experience in peace and development. Our fellows are committed to community and international service and the pursuit of peace. Each year, [The Rotary Foundation](https://www.rotary.org/en/who-we-are/the-rotary-foundation) awards up to 50 fellowships for master’s degrees and up to 120 for certificate studies at premier universities.
+
+### Choose the program that's right for you
+
+**Master’s degree programs**
+
+Accepted candidates study peace and development issues with research-informed teaching and a diverse student body. The programs last 15 to 24 months and include a two- to three-month field study, which participants design themselves.
+
+**Professional development certificate program**
+
+During the one-year blended learning program, experienced peace and development professionals with diverse backgrounds gain practical skills to promote peace within their communities and regions. Fellows complete field studies and design and carry out a social change initiative. This postgraduate certificate program is intended for working professionals.
+
+Master's degree programs
+
+Professional development certificate program
+
+#### **Application timeline**
+
+The 2027-28 Rotary Peace Fellowship application is now closed. The 2028-29 Rotary Peace Fellowship application will be available [online](https://my.rotary.org/en/peace-fellowship-application "online") in February 2027. Learn about eligibility and qualifications and how to apply.
+
+If you know a potential candidate, use our [referral form](https://rotary.qualtrics.com/jfe/form/SV_cP8EInvsT3toZOB "referral form") so they can receive more information.
+
+#### **Our approach**
+
+We see peace not as an abstract concept but as a living, dynamic expression of human development. Peacebuilding is a cornerstone of our mission as a humanitarian service organization and is one of Rotary's areas of focus — the channels of activity through which our members make their mark on the world. Our programs, grants and fellowships focus on creating environments where peace can be built and maintained. Rotary believes that if concerned citizens work together to create peace locally, lasting change can happen globally.
+
+#### **Where Rotary Peace Center alumni work**
+
+Support peace
+
+Rotary Peace Centers are possible through the generous support of donors. Help us create the next generation of peacebuilders with a gift to the Rotary Peace Centers.
+
+[Donate](https://my.rotary.org/en/donate)
+
+Recruit candidates
+
+Advance peace and development around the world by promoting the Rotary Peace Fellowship program and recruiting candidates within your networks and communities.
+
+[Recruit](https://my.rotary.org/en/participate/support-our-foundation/peace-centers)
+
+District Designated Funds
+
+If you’re a Rotary member, your district can support the Rotary Peace Centers by allocating at least $25,000 annually in District Designated Funds.
+
+[Learn More](https://my.rotary.org/en/document/invest-peace-become-peacebuilder-district)
