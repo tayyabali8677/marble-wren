@@ -97,7 +97,6 @@ News &#038;
 Activities
 E-advising News
 Past Workshops
-E-cards to thank Advisers
 FAQ
 Search
 Menu
@@ -140,10 +139,7 @@ If you are not able to view the above images, please click here .
 AIA Scholarships 2026-27
 Planning for Study Abroad
 Apply for Scholarships
-HKU Freshers’ Starter Kit 2026
 HKU Academic Roadmap
-Meet, Play, and Ask: Chat with Senior Students
-Carousources
 Charting Voyages with Your Advisees: A Guide for Faculty Academic Advisers
 Academic Advising Forum @ Moodle
 Important Academic Dates
@@ -275,7 +271,6 @@ News &#038;
 Activities
 E-advising News
 Past Workshops
-E-cards to thank Advisers
 FAQ
 Search
 Menu
@@ -316,7 +311,7 @@ Apply for Scholarships
 Upcoming Scholarship Application Deadlines & Information Sessions
 The following is a list of scholarships that are currently accepting applications. Students and alumni are advised to visit this section from time to time for updates.
 Individual Faculties and Departments also provide scholarships. Students may contact the respective offices for information.
-(Last updated on 2026-10-21)
+(Last updated on 2026-10-26)
 Scholarship schemes administered by HKU
 Undergraduate Students
 Scholarship Name

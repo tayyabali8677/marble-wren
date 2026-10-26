@@ -270,9 +270,9 @@ Assinatura Eletrônica
 2
 Consultar Meu Imposto de Renda
 3
-Consultar dados do Cadastro Único
-4
 Consultar CPF
+4
+Consultar dados do Cadastro Único
 5
 Emitir DAS do MEI
 6
@@ -1846,7 +1846,7 @@ Obter passaporte
 Iniciar
 Avaliação:
 4.8
-(81404)
+(81280)
 Avaliação
 O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5.
 Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço.

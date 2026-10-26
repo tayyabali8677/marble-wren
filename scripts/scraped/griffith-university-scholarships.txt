@@ -4,10 +4,6 @@ Title: Scholarships
 URL Source: https://www.griffith.edu.au/scholarships
 
 Markdown Content:
-#### **The scholarship application portal is currently offline.**
-
-Griffith University is currently responding to a global cybersecurity issue.As a precautionary measure, a number of Griffith websites and web applications are currently offline.This includes our direct application portals, and credit precedent database.Our teams are working to restore services as quickly and safely as possible. We apologise for the inconvenience and expect these to be back up and running soon.
-
 ## Available scholarships
 
 Filter available scholarships

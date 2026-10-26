@@ -1,17 +1,15 @@
 ===== SOURCE PAGE: https://www.mq.edu.au/study/scholarships =====
-Title: Page not found
+Title: Just a moment...
 
 URL Source: https://www.mq.edu.au/study/scholarships
 
-Warning: Target URL returned error 404: Not Found
-Warning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
-The page you are looking for isn't available.
+![Image 1: Icon for www.mq.edu.au](https://www.mq.edu.au/favicon.ico)
 
-This might be because:
+## www.mq.edu.au
 
-*   you typed the web address incorrectly
-*   the page you were looking for has been moved or deleted
+## Performing security verification
 
-[Return to the Macquarie University homepage](https://www.mq.edu.au/home)
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

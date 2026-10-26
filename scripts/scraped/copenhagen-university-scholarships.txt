@@ -3,6 +3,8 @@ Title: Siden blev ikke fundet (404)
 
 URL Source: https://studies.ku.dk/international/scholarships/
 
+Published Time: Fri, 21 Nov 2025 12:15:39 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -13,7 +15,8 @@ Markdown Content:
 *   [Job](https://jobportal.ku.dk/)
 *   [KUnet](https://kunet.ku.dk/)
 *   [English](http://www.ku.dk/english/)
-*   [Uddannelse på KU](https://www.ku.dk/uddannelse)
+*   [Uddannelse på KU](https://www.ku.dk/uddannelse)[Toggle submenu](https://cms.ku.dk/error404#mm-0)
+
     *   [Bachelor](https://www.ku.dk/studier/bachelor)
     *   [Kandidat](https://www.ku.dk/studier/kandidat)
     *   [Ph.d.-uddannelse](https://phd.ku.dk/)
@@ -21,19 +24,22 @@ Markdown Content:
     *   [Kursuskatalog](https://kurser.ku.dk/)
     *   [For skoler og gymnasier](https://fokus.ku.dk/?utm_source=kuDomain&utm_medium=topMenu&utm_campaign=besoegOsDropdown)
 
-*   [Forskning på KU](https://forskning.ku.dk/)
+*   [Forskning på KU](https://forskning.ku.dk/)[Toggle submenu](https://cms.ku.dk/error404#mm-1)
+
     *   [Forskere og publikationer](https://forskning.ku.dk/soeg/)
     *   [Forskningscentre](https://forskning.ku.dk/omraader/centre/)
 
-*   [Nyheder](https://nyheder.ku.dk/)
-    *   ![Image 2: Nyt studie: Kræftdiagnose udløser eksistentiel krise og behov for mening ](https://nyheder.ku.dk/alle_nyheder/2025/10/nyt-studie-kraeftdiagnose-udloeser-eksistentiel-krise-og-behov-for-mening/national-cancer-institute1100x600.jpg?resize=globalmenu)[Nyt studie: Kræftdiagnose udløser eksistentiel krise og behov for mening](https://nyheder.ku.dk/alle_nyheder/2025/10/nyt-studie-kraeftdiagnose-udloeser-eksistentiel-krise-og-behov-for-mening/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)31.10.2025 
-    *   ![Image 3: Rektor: ”Vi vil ruste Danmark til en tidsalder med AI”](https://nyheder.ku.dk/alle_nyheder/2025/10/rektor-vi-vil-ruste-danmark-til-en-tidsalder-med-ai/billedinformationer/David_RED_1100x600.jpg?resize=globalmenu)[Rektor: ”Vi vil ruste Danmark til en tidsalder med AI”](https://nyheder.ku.dk/alle_nyheder/2025/10/rektor-vi-vil-ruste-danmark-til-en-tidsalder-med-ai/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)31.10.2025 
-    *   ![Image 4: 97 procent af kvinder i Danmark oplever gener i overgangsalderen](https://nyheder.ku.dk/alle_nyheder/2025/10/Overgangsalder_1100x600.png?resize=globalmenu)[97 procent af kvinder i Danmark oplever gener i overgangsalderen](https://nyheder.ku.dk/alle_nyheder/2025/10/97-procent-af-kvinder-i-danmark-oplever-gener-i-overgangsalderen/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)30.10.2025 
+*   [Nyheder](https://nyheder.ku.dk/)[Toggle submenu](https://cms.ku.dk/error404#mm-2)
+
+    *   ![Image 2: Nyt studie: Kræftdiagnose udløser eksistentiel krise og behov for mening ](https://nyheder.ku.dk/alle_nyheder/2025/10/nyt-studie-kraeftdiagnose-udloeser-eksistentiel-krise-og-behov-for-mening/national-cancer-institute1100x600.jpg?resize=globalmenu)[Nyt studie: Kræftdiagnose udløser eksistentiel krise og behov for mening](https://nyheder.ku.dk/alle_nyheder/2025/10/nyt-studie-kraeftdiagnose-udloeser-eksistentiel-krise-og-behov-for-mening/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)[Toggle submenu](https://cms.ku.dk/error404#mm-3)31.10.2025 
+    *   ![Image 3: Rektor: ”Vi vil ruste Danmark til en tidsalder med AI”](https://nyheder.ku.dk/alle_nyheder/2025/10/rektor-vi-vil-ruste-danmark-til-en-tidsalder-med-ai/billedinformationer/David_RED_1100x600.jpg?resize=globalmenu)[Rektor: ”Vi vil ruste Danmark til en tidsalder med AI”](https://nyheder.ku.dk/alle_nyheder/2025/10/rektor-vi-vil-ruste-danmark-til-en-tidsalder-med-ai/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)[Toggle submenu](https://cms.ku.dk/error404#mm-4)31.10.2025 
+    *   ![Image 4: 97 procent af kvinder i Danmark oplever gener i overgangsalderen](https://nyheder.ku.dk/alle_nyheder/2025/10/Overgangsalder_1100x600.png?resize=globalmenu)[97 procent af kvinder i Danmark oplever gener i overgangsalderen](https://nyheder.ku.dk/alle_nyheder/2025/10/97-procent-af-kvinder-i-danmark-oplever-gener-i-overgangsalderen/?utm_source=Nyheder&utm_medium=Link&utm_campaign=kudk-globalmenu)[Toggle submenu](https://cms.ku.dk/error404#mm-5)30.10.2025 
     *   [Alle nyheder](https://nyheder.ku.dk/)
     *   [Presseservice](https://nyheder.ku.dk/presseservice/)
 
 *   [Innovation](https://innovation.ku.dk/)
-*   [Om KU](https://om.ku.dk/)
+*   [Om KU](https://om.ku.dk/)[Toggle submenu](https://cms.ku.dk/error404#mm-6)
+
     *   [Strategi](https://om.ku.dk/strategi-2030/)
     *   [Tal og fakta](https://om.ku.dk/tal-og-fakta/)
     *   [Profil og historie](https://om.ku.dk/profil/)

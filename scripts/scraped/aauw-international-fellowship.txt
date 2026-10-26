@@ -3,10 +3,13 @@ Title: Just a moment...
 
 URL Source: https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
-## Checking your browser...
+![Image 1: Icon for www.aauw.org](https://www.aauw.org/favicon.ico)
 
-This may take a few seconds.
+## www.aauw.org
+
+## Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

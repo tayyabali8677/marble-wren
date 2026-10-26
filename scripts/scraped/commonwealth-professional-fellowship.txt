@@ -753,7 +753,7 @@ SAVE & ACCEPT
 Powered by
 
 ===== SOURCE PAGE: https://cscuk.fcdo.gov.uk/scholarships/commonwealth-fellowships-information-for-candidates/ =====
-Commonwealth Fellowships – information for candidates - Commonwealth Scholarship Commission in the UK
+Commonwealth Fellowships – information for candidates (non-ODA countries only) - Commonwealth Scholarship Commission in the UK
 Scholarships and Fellowships
 Current Scholars
 Regional networks
@@ -785,9 +785,9 @@ Fellowship host organisations
 Academic Advisers
 Find a scholarship
 Select Page
-Commonwealth Fellowships – information for candidates
+Commonwealth Fellowships – information for candidates (non-ODA countries only)
 by Simon Longley | Jul 24, 2026
-Commonwealth Fellowships – information for candidates
+Commonwealth Fellowships – information for candidates (non-ODA countries only)
 Overview
 Host organisation programmes
 How to apply
@@ -876,9 +876,10 @@ This Fellowship will host a researcher within the Department of Chemistry, Unive
 Eligibility
 Eligibility is restricted to applicants from Non-ODA eligible Commonwealth countries with an existing research relationship with the Department of Chemistry, University of Warwick. Priority will be given to a candidate from Monash University, Australia, working in pharmaceutical sciences, polymer chemistry or nanomaterials for drug delivery, reflecting the established collaboration between the two institutions through the Monash-Warwick Alliance. Applicants should hold a postdoctoral or equivalent research position, have a track record of relevant publications, and be able to demonstrate how a period of research at Warwick would benefit their home institution and career development.
 How to apply
-​ Application s for the 2027 Commonwealth Fellowships are now closed.
-Please submit your application through CSC Central.
-The CSC is unable to accept any applications or documentation not submitted via the above form .
+​ Application s for the 2027 Commonwealth Fellowships are now open .
+Please submit your application through the online application form .
+The closing date for applications is Thursday 5 November 2026 at 16:00 GMT.
+The CSC is unable to accept any applications or documentation not submitted via the above form.
 Details for each host organisation running a programme for the 2027 Commonwealth Fellowships programme are listed on the ‘host organisation programmes’ tab.
 Advice and selection criteria
 Applicants can find general information about applying for a Commonwealth Scholarship on our  advice for applicants page .
@@ -904,7 +905,7 @@ The CSC aims to identify talented individuals who have the potential to make cha
 Please note that personal information will be used to conduct necessary due diligence checks by the CSC. These checks will be carried out before proceeding with any type of formal agreement or contractual relationship. In most cases, the due diligence checks will be straightforward, but further information may be requested, so we ask for full cooperation from candidates to speed up the process.
 If candidates do not agree to their personal data being used for the purpose of conducting due diligence, the CSC will not be able to proceed further with the selection process.
 Eligible countries
-Non-ODA eligible countries. Please n ote that individual programmes have their own geographical eligibility requirements.
+This opportunity is for non-ODA eligible countries only. Please n ote that individual programmes have their own geographical eligibility requirements.
 Anguilla
 Antigua and Barbuda
 Australia

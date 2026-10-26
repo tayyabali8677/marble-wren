@@ -29,7 +29,7 @@ Markdown Content:
     *   [Students](https://www.dal.ca/information-current-students.html)
     *   [Faculty & Staff](https://www.dal.ca/information-faculty-staff.html)
     *   [Family & Friends](https://www.dal.ca/parents-and-families.html)
-    *   [Support Dal](https://alumniapps2.dal.ca/giving/index)
+    *   [Support Dal](https://www.givecampus.com/campaigns/74605/donations/new)
 
 ## [Dalhousie University](https://www.dal.ca/ "Back to Dalhousie University Home Page")
 
@@ -103,4 +103,4 @@ Halifax, Nova Scotia, Canada B3H 4R2
 
 ## Search Dal.ca
 
-![Image 13](https://bat.bing.com/action/0?ti=187017885&Ver=2&mid=12d3e5b7-bcc3-4f69-a0bd-69958b75ee13&bo=1&sid=65490700d0ef11f199603f45f9311c44&vid=65490040d0ef11f18ccd8378157dfd17&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Oops!%20Page%20not%20found!%20-%20Dalhousie%20University&p=https%3A%2F%2Fwww.dal.ca%2Fadmissions%2Fmoney_matters%2Fscholarships_awards.html&r=&lt=539&evt=pageLoad&sv=2&cdb=AQAQ&rn=67009)
+![Image 13](https://bat.bing.com/action/0?ti=187017885&Ver=2&mid=1aef3c7d-20e8-4277-a86f-41aaee0d6a10&bo=1&sid=1b81f7b0d16f11f1a0c04f5557ea6bdb&vid=1b821050d16f11f19e5773c341ec1c13&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Oops!%20Page%20not%20found!%20-%20Dalhousie%20University&p=https%3A%2F%2Fwww.dal.ca%2Fadmissions%2Fmoney_matters%2Fscholarships_awards.html&r=&lt=738&evt=pageLoad&sv=2&cdb=AQAQ&rn=966941)

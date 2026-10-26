@@ -122,6 +122,12 @@ https://www.worldbank.org/ext/en/careers/talent-programs/mna-fellows-program
 MNA Fellowship Program
 https://www.worldbank.org/ext/en/careers/talent-programs/donor-funded-program
 Donor Funded Staff Program
+default
+Default alt
+https://www.worldbank.org/ext/en/careers/talent-programs/global-secondment-program
+Global Secondment Program
+default
+Default alt
 style
 grid
 sec-spacing

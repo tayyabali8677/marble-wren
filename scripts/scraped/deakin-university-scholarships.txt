@@ -21,10 +21,10 @@ Menu
     *   Back[Study](https://www.deakin.edu.au/study) 
     *   [Find a course](https://www.deakin.edu.au/study/find-a-course)
         *   Back[Find a course](https://www.deakin.edu.au/study/find-a-course) 
-        *   [March intake](https://www.deakin.edu.au/trimester-one)
+        *   [Start in March](https://www.deakin.edu.au/trimester-one)
         *   [Study areas](https://www.deakin.edu.au/study/find-a-course)
         *   [Key dates](https://www.deakin.edu.au/study/key-dates)
-        *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
+        *   [Why choose Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
     *   [Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
         *   Back[Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university) 
@@ -52,8 +52,8 @@ Menu
         *   Back[Research guide](https://www.deakin.edu.au/research) 
         *   [Research degrees and PhDs](https://www.deakin.edu.au/study/research-guide/research-degrees-and-phds)
 
-    *   [Study online guide](https://www.deakin.edu.au/study/study-online)
-        *   Back[Study online guide](https://www.deakin.edu.au/study/study-online) 
+    *   [Online study guide](https://www.deakin.edu.au/study/study-online)
+        *   Back[Online study guide](https://www.deakin.edu.au/study/study-online) 
         *   [How online study works](https://www.deakin.edu.au/study/study-online/how-online-study-works)
 
     *   [Entry pathways](https://www.deakin.edu.au/study/entry-pathways)
@@ -68,8 +68,8 @@ Menu
         *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
         *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
 
-    *   [Applications guide](https://www.deakin.edu.au/study/how-to-apply)
-        *   Back[Applications guide](https://www.deakin.edu.au/study/how-to-apply) 
+    *   [How to apply](https://www.deakin.edu.au/study/how-to-apply)
+        *   Back[How to apply](https://www.deakin.edu.au/study/how-to-apply) 
         *   [Undergraduate applications](https://www.deakin.edu.au/study/how-to-apply/undergraduate-applications)
         *   [Postgraduate coursework applications](https://www.deakin.edu.au/study/how-to-apply/postgraduate-coursework-applications)
         *   [International student applications](https://www.deakin.edu.au/study/how-to-apply/international-student-applications)
@@ -259,10 +259,10 @@ Menu
 
 [Find a course](https://www.deakin.edu.au/study/find-a-course)
 
-    *   [March intake](https://www.deakin.edu.au/trimester-one)
+    *   [Start in March](https://www.deakin.edu.au/trimester-one)
     *   [Study areas](https://www.deakin.edu.au/study/find-a-course)
     *   [Key dates](https://www.deakin.edu.au/study/key-dates)
-    *   [Why Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
+    *   [Why choose Deakin](https://www.deakin.edu.au/study/find-a-course/why-deakin)
 
 [Year 12 student guide](https://www.deakin.edu.au/student-life-and-services/support-for-high-school-students/year-12-to-university)
 
@@ -290,7 +290,7 @@ Menu
 
     *   [Research degrees and PhDs](https://www.deakin.edu.au/study/research-guide/research-degrees-and-phds)
 
-[Study online guide](https://www.deakin.edu.au/study/study-online)
+[Online study guide](https://www.deakin.edu.au/study/study-online)
 
     *   [How online study works](https://www.deakin.edu.au/study/study-online/how-online-study-works)
 
@@ -306,7 +306,7 @@ Menu
     *   [Government HELP Schemes](https://www.deakin.edu.au/study/fees-and-scholarships/government-help-schemes)
     *   [Scholarships](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships)
 
-[Applications guide](https://www.deakin.edu.au/study/how-to-apply)
+[How to apply](https://www.deakin.edu.au/study/how-to-apply)
 
     *   [Undergraduate applications](https://www.deakin.edu.au/study/how-to-apply/undergraduate-applications)
     *   [Postgraduate coursework applications](https://www.deakin.edu.au/study/how-to-apply/postgraduate-coursework-applications)

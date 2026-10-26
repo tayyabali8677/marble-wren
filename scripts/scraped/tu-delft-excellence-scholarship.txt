@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -527,7 +527,7 @@ Giving from Abroad
 Trustfunds and Foundations
 Crowdfunding
 News
-Menu openen
+Menu sluiten
 News
 Agenda
 Grants
@@ -536,7 +536,7 @@ Students
 Researchers
 Alumni
 About us
-Menu sluiten
+Menu openen
 Annual Report
 Donor magazine
 Team Universiteitsfonds Delft
@@ -568,13 +568,15 @@ By contributing to the Delft University Fund, you are investing in groundbreakin
 Telemarketing campaign on Leaving a Legacy in October
 Throughout October, we are highlighting the importance of leaving a legacy through a telemarketing campaign. To find out more, please visit the Planning your Legacy page for additional information.
 News
+Thanks to 8421 donors a woman friendly alternative to the speculum is a step closer
+Read more
 In Memoriam: Ing. Maarten de Groot
+Read more
+Crowdfunding paves the way for better pain relief during gynaecological care
 Read more
 Van der Lely Foundation invests €150,000 in TU Delft’s Science Day
 Read more
 In Memoriam: Dr. Ir. Koos Visser
-Read more
-The nano-brain: a bold idea in the fight against brain diseases
 Read more
 Two winners of the Marina van Damme Scholarship 2026 award set course for healthcare and AI
 Read more
@@ -586,12 +588,6 @@ Ambitious Delft students receive €66,720 in grants via Delft University Fund
 Read more
 Graduate Ventures turns science into business
 Read more
-Recap: AI Ethics & Networking in London
-Read more
-Four impactful research projects accelerated with support from alumni
-Read more
-Delft innovation and entrepreneurship in Amsterdam
-Read more
 About us
 ANBI
 Annual Report
@@ -599,6 +595,8 @@ Item 1
 of
 3
 November
+09
+Welcoming Event for new students receiving a full scholarship
 11
 Information session on donations and bequests to TU Delft
 More events
@@ -722,7 +720,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu openen
+Menu sluiten
 Zoek medewerkers
 Contact
 Locaties
@@ -992,7 +990,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1261,7 +1259,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
