@@ -3,7 +3,7 @@ Title: Page not found | UBC | Undergraduate Programs and Admissions
 
 URL Source: https://you.ubc.ca/financial-planning/scholarships-awards/
 
-Warning: Target URL returned error 404: Not Found
+Warning: Target URL returned error 404: Not found
 
 Markdown Content:
 Search this website Search
@@ -225,5 +225,3 @@ Here are a few options to get you back on track:
 *   [Terms of Use](https://cdn.ubc.ca/clf/ref/terms "Terms of Use")|
 *   [Copyright](https://cdn.ubc.ca/clf/ref/copyright "UBC Copyright")|
 *   [Accessibility](https://cdn.ubc.ca/clf/ref/accessibility "Accessibility")
-
-![Image 2: Youvisit Pixel](https://trck.youvisit.com/page.png?embed=324111976599254130&pageSessionId=6023abe3-cce4-47ba-9d96-7f458f14c95a&source=web)

@@ -299,9 +299,9 @@ Consultar CPF
 4
 Consultar dados do Cadastro Único
 5
-Emitir DAS do MEI
-6
 Obter passaporte e outros documentos de viagem
+6
+Emitir DAS do MEI
 Serviços em destaque do govbr
 Outros
 Tela Brasil
@@ -1938,6 +1938,25 @@ Cuidados na Primeira Infância
 Habitação Popular
 Controle de Poluição e Resíduos Sólidos
 Notícias
+Saúde
+Agricultura e Pecuária
+Cidadania e Assistência Social
+Ciência e Tecnologia
+Comunicação
+Cultura e Esporte
+Economia e Gestão Pública
+Educação e Pesquisa
+Energia
+Forças Armadas e Defesa Civil
+Infraestrutura
+Justiça e Segurança
+Meio Ambiente
+Trabalho e Previdência
+FGTS
+Direitos do Trabalhador
+Turismo
+Direitos do Viajante
+Viaje o Brasil
 Galeria de Aplicativos
 Acompanhe o Planalto
 Navegação
@@ -1992,7 +2011,7 @@ Obter passaporte
 Iniciar
 Avaliação:
 4.8
-(81280)
+(81301)
 Avaliação
 O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5.
 Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço.
@@ -2264,6 +2283,25 @@ Cuidados na Primeira Infância
 Habitação Popular
 Controle de Poluição e Resíduos Sólidos
 Notícias
+Saúde
+Agricultura e Pecuária
+Cidadania e Assistência Social
+Ciência e Tecnologia
+Comunicação
+Cultura e Esporte
+Economia e Gestão Pública
+Educação e Pesquisa
+Energia
+Forças Armadas e Defesa Civil
+Infraestrutura
+Justiça e Segurança
+Meio Ambiente
+Trabalho e Previdência
+FGTS
+Direitos do Trabalhador
+Turismo
+Direitos do Viajante
+Viaje o Brasil
 Galeria de Aplicativos
 Acompanhe o Planalto
 Navegação

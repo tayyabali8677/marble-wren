@@ -3,8 +3,6 @@ Title: Page Not Found
 
 URL Source: https://www.american.edu/admissions/scholarships/
 
-Published Time: Wed, 06 May 2026 22:50:43 GMT
-
 Markdown Content:
 [Skip to main content](https://www.american.edu/admissions/scholarships/#a)
 
@@ -177,3 +175,7 @@ Consent Leg.Interest
 Reject All Confirm My Choices
 
 [![Image 4: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
+
+![Image 11](https://bat.bing.com/action/0?ti=4066691&tm=gtm002&Ver=2&mid=bbe8665d-1497-4ebe-83b9-8061a32e6282&bo=1&sid=172a7c30d23111f18e78195bc01a2d63&vid=172aa700d23111f1800e5573f46062b6&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Page%20Not%20Found&p=https%3A%2F%2Fwww.american.edu%2Fadmissions%2Fscholarships%2F&r=&lt=802&evt=pageLoad&sv=2&cdb=AQER&rn=857208)
+
+![Image 12: Youvisit Pixel](https://trck.youvisit.com/page/139567.png?embed=43443100304735871&pageSessionId=edc84e4c-d48a-42a1-9ad3-b6ecb2afe1bc&source=vhost)

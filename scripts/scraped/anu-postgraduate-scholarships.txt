@@ -179,7 +179,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/domestic-undergraduate
 
-Published Time: Tue, 27 Oct 2026 03:46:43 GMT
+Published Time: Tue, 27 Oct 2026 17:37:03 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -299,7 +299,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/domestic-postgraduate
 
-Published Time: Tue, 27 Oct 2026 03:46:49 GMT
+Published Time: Tue, 27 Oct 2026 17:37:09 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -419,7 +419,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/international-applications
 
-Published Time: Tue, 27 Oct 2026 03:46:54 GMT
+Published Time: Tue, 27 Oct 2026 17:37:16 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -539,7 +539,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/postgraduate-research
 
-Published Time: Tue, 27 Oct 2026 03:47:00 GMT
+Published Time: Tue, 27 Oct 2026 17:37:21 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -659,7 +659,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply
 
-Published Time: Tue, 27 Oct 2026 03:47:05 GMT
+Published Time: Tue, 27 Oct 2026 17:37:26 GMT
 
 Warning: Target URL returned error 404: Not Found
 

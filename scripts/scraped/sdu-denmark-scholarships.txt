@@ -24,6 +24,7 @@ Markdown Content:
             *   [Admission numbers](https://www.sdu.dk/en/uddannelse/bachelor/bachelor-admission/admission-numbers) 
 
         *   [Find your bachelor’s programme](https://www.sdu.dk/en/uddannelse/bachelor/alle-bacheloruddannelser) 
+        *   [ha](https://www.sdu.dk/en/uddannelse/bachelor/ha) 
         *   [How to apply](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse) 
             *   [Power of attorney](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse/fuldmagt) 
             *   [The Master's degree rule](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse/kandidatreglen) 
@@ -152,7 +153,7 @@ Markdown Content:
     *   [Research Units](https://www.sdu.dk/en/forskning/forskningsenheder) 
         *   [Faculty of Humanities](https://www.sdu.dk/en/forskning/forskningsenheder/hum) 
         *   [Faculty of Science](https://www.sdu.dk/en/forskning/forskningsenheder/nat) 
-        *   [Faculty of Business and Social Sciences](https://www.sdu.dk/en/forskning/forskningsenheder/samf) 
+        *   [Faculty of Social Sciences](https://www.sdu.dk/en/forskning/forskningsenheder/samf) 
             *   [COM-PRES](https://www.sdu.dk/en/forskning/forskningsenheder/samf/compres) 
             *   [JournalistiskForskningsenhed](https://www.sdu.dk/en/forskning/forskningsenheder/samf/journalistiskforskningsenhed) 
 
@@ -715,7 +716,7 @@ Find
     *   [Research Units](https://www.sdu.dk/en/forskning/forskningsenheder)
         *   [Faculty of Humanities](https://www.sdu.dk/en/forskning/forskningsenheder/hum)
         *   [Faculty of Science](https://www.sdu.dk/en/forskning/forskningsenheder/nat)
-        *   [Faculty of Business and Social Sciences](https://www.sdu.dk/en/forskning/forskningsenheder/samf)
+        *   [Faculty of Social Sciences](https://www.sdu.dk/en/forskning/forskningsenheder/samf)
         *   [Faculty of Health Sciences](https://www.sdu.dk/en/forskning/forskningsenheder/sund)
         *   [Faculty of Engineering](https://www.sdu.dk/en/forskning/forskningsenheder/tek)
 

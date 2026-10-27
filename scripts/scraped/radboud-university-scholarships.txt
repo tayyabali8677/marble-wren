@@ -15,7 +15,7 @@ Do you want to study at Radboud University as an international Master's student?
 Are you already a student at Radboud University and would you like to study abroad? Explore the options for grants .
 Search
 Clear all
-Result 1 - 14 of 14 results
+Result 1 - 16 of 16 results
 ASML Technology Scholarship
 Scholarship
 The ASML Technology Scholarship is open for students from all nationalities who are planning to pursue a technical Master’s degree.
@@ -43,6 +43,12 @@ The Jean Monnet Scholarship Programme, a project funded by the EU, aims at incre
 LPDP: Netherlands Joint Scholarship Programme
 Scholarship
 The LPDP-Netherlands Joint Scholarship Programme is a joint scholarship funded by the Dutch Ministry of Foreign Affairs and LPDP, for Indonesian citizens to pursue a Master’s degree at participating Dutch Higher Education Institutions.
+Lutfia Rabbani Travel Grant
+Scholarship
+The Lutfia Rabbani Travel Grant supports students and professionals seeking academic, cultural or professional opportunities that strengthen understanding and exchange between Europe and the Arab world.
+Mahmoud S. Rabbani Scholarship
+Scholarship
+The Mahmoud S. Rabbani Scholarship promotes academic excellence and strengthens cultural exchange and mutual understanding between Europe and the Arab world.
 NL Scholarship (for prospective students)
 Scholarship
 The NL Scholarship is a partial scholarship for non-EU/EEA students who want to do their Master’s in the Netherlands.
@@ -63,7 +69,7 @@ Type of scholarship
 Loan
 (1)
 Scholarship
-(13)
+(15)
 Eligible countries or regions
 All EU/EEA countries
 (3)
@@ -71,14 +77,32 @@ All non-EU/non-EEA countries
 (3)
 China
 (1)
+Egypt
+(2)
 Germany
 (1)
 Indonesia
 (4)
+Iraq
+(2)
+Jordan
+(2)
+Lebanon
+(2)
+Morocco
+(2)
+Netherlands
+(2)
+Palestinian Territories
+(2)
 South Africa
 (1)
+Sudan
+(2)
 Switzerland
 (1)
+Tunisia
+(2)
 Turkey
 (1)
 United Kingdom
@@ -147,7 +171,7 @@ Do you want to study at Radboud University as an international Master's student?
 Are you already a student at Radboud University and would you like to study abroad? Explore the options for grants .
 Search
 Clear all
-Result 1 - 14 of 14 results
+Result 1 - 16 of 16 results
 ASML Technology Scholarship
 Scholarship
 The ASML Technology Scholarship is open for students from all nationalities who are planning to pursue a technical Master’s degree.
@@ -175,6 +199,12 @@ The Jean Monnet Scholarship Programme, a project funded by the EU, aims at incre
 LPDP: Netherlands Joint Scholarship Programme
 Scholarship
 The LPDP-Netherlands Joint Scholarship Programme is a joint scholarship funded by the Dutch Ministry of Foreign Affairs and LPDP, for Indonesian citizens to pursue a Master’s degree at participating Dutch Higher Education Institutions.
+Lutfia Rabbani Travel Grant
+Scholarship
+The Lutfia Rabbani Travel Grant supports students and professionals seeking academic, cultural or professional opportunities that strengthen understanding and exchange between Europe and the Arab world.
+Mahmoud S. Rabbani Scholarship
+Scholarship
+The Mahmoud S. Rabbani Scholarship promotes academic excellence and strengthens cultural exchange and mutual understanding between Europe and the Arab world.
 NL Scholarship (for prospective students)
 Scholarship
 The NL Scholarship is a partial scholarship for non-EU/EEA students who want to do their Master’s in the Netherlands.
@@ -195,7 +225,7 @@ Type of scholarship
 Loan
 (1)
 Scholarship
-(13)
+(15)
 Eligible countries or regions
 All EU/EEA countries
 (3)
@@ -203,14 +233,32 @@ All non-EU/non-EEA countries
 (3)
 China
 (1)
+Egypt
+(2)
 Germany
 (1)
 Indonesia
 (4)
+Iraq
+(2)
+Jordan
+(2)
+Lebanon
+(2)
+Morocco
+(2)
+Netherlands
+(2)
+Palestinian Territories
+(2)
 South Africa
 (1)
+Sudan
+(2)
 Switzerland
 (1)
+Tunisia
+(2)
 Turkey
 (1)
 United Kingdom
@@ -288,6 +336,7 @@ NL Scholarship grant
 Individual Travel Grant
 Clinical placement grant
 Radboud Honours Academy
+Grants by the Faculty of Law
 During your studies, lenght of stay < 8 weeks
 Short Stay grants
 Conference grant

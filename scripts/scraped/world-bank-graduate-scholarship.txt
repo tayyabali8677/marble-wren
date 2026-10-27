@@ -458,7 +458,7 @@ Ask Now
 Searching...
 As with any AI, results may be inaccurate or misleading. Please explore responsibly and apply judgment before incorporating into your work.
 Ask another question
-https://webapi.worldbank.org/api/globalsearch/google/answer
+/wbg/aem/service/search/google/answer
 Searching our knowledge base...
 Something went wrong. Please try again.
 Show More

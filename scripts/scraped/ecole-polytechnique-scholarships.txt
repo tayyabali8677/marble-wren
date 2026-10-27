@@ -3,16 +3,30 @@ Title: Page not found - École polytechnique
 
 URL Source: https://www.polytechnique.edu/en/fees-and-funding/scholarships
 
-Published Time: Tue, 27 Oct 2026 04:03:31 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 [Skip to main content](https://www.polytechnique.edu/en/fees-and-funding/scholarships#main-content)
 
+Search by profile 
+*    [Student / Candidate](https://www.polytechnique.edu/en/profils/student-candidate "Click here to access \"Student / Candidate\"")
+*    [Faculty member](https://www.polytechnique.edu/en/profils/faculty-member "Click here to access \"Faculty member\"")
+*    [Entrepreneur](https://www.polytechnique.edu/en/profils/entrepreneur "Click here to access \"Entrepreneur\"")
+*    [Executive / Manager](https://www.polytechnique.edu/en/education/programs#executivemaster "Click here to access \"Executive / Manager\"")
+*    [Company](https://www.polytechnique.edu/en/profils/company "Click here to access \"Company\"")
+*    [Alumni](https://www.polytechnique.edu/en/profils/alumni "Click here to access \"Alumni\"")
+
 *   [News](https://www.polytechnique.edu/en/news)
 *   [Press room](https://www.polytechnique.edu/en/press-room)
 *   [![Image 1](https://www.polytechnique.edu/themes/project/img/header/little_x.png) Support l'X](https://don.fondationx.org/servirlascience)
+
+Search field 
+
+[Student Login](https://www.polytechnique.edu/en/student-login "Student Login")
+
+ en 
+
+*   [fr](https://www.polytechnique.edu/system/404)
 
 [](https://www.polytechnique.edu/en "Click here to return home")
 
@@ -21,7 +35,6 @@ MENU
 *   [The School](https://www.polytechnique.edu/en/school)
 
 ![Image 2](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/33550979328_690ac46783_k.jpg?itok=6QH-Zejx)
-
     *   [Presentation of Ecole Polytechnique](https://www.polytechnique.edu/en/school/presentation-ecole-polytechnique)
     *   [A military School](https://www.polytechnique.edu/en/school/military-school)
     *   [History](https://www.polytechnique.edu/en/school/history)
@@ -32,7 +45,6 @@ MENU
 *   [Education](https://www.polytechnique.edu/en/education)
 
 ![Image 3](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/46451042594_f8bb338698_c.jpg?itok=lK3JXKT4)
-
     *   [Programs](https://www.polytechnique.edu/en/education/programs)
     *   [Academic and Research Departments](https://www.polytechnique.edu/en/education/academic-and-research-departments)
     *   [Education through research](https://www.polytechnique.edu/en/education/education-through-research)
@@ -44,7 +56,6 @@ MENU
 *   [Research](https://www.polytechnique.edu/en/research)
 
 ![Image 5](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/49727804707_bcd6b35b5e_k.jpg?itok=CefEdKYs)
-
     *   [Laboratories](https://www.polytechnique.edu/en/research/laboratories)
     *   [Research collaborations](https://www.polytechnique.edu/en/research/research-collaborations)
     *   [Chairs of Ecole Polytechnique](https://www.polytechnique.edu/en/research/chairs-ecole-polytechnique)
@@ -55,7 +66,6 @@ MENU
 *   [Innovation](https://www.polytechnique.edu/en/innovation)
 
 ![Image 6](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-07/50108151272_9fe01caa14_k.jpg?h=f2a23be8&itok=l79SjP2o)
-
     *   [The Keys to entrepreneurship](https://www.polytechnique.edu/en/innovation/keys-entrepreneurship)
     *   [Innovation at Polytechnique](https://www.polytechnique.edu/en/innovation)
     *   [Drahi-X Novation Center](https://www.polytechnique.edu/en/novationcenter)
@@ -68,14 +78,131 @@ MENU
 *   [Corporate](https://www.polytechnique.edu/en/corporate)
 
 ![Image 7](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/48858852397_c0340155b5_k.jpg?itok=1A1kR5a_)
-
     *   [Recruit our talents](https://www.polytechnique.edu/en/corporate/recruit-our-talents)
     *   [Chairs of Ecole Polytechnique](https://www.polytechnique.edu/en/research/chairs-ecole-polytechnique)
     *   [Research collaborations](https://www.polytechnique.edu/en/research/research-collaborations)
     *   [Charte des relations entreprises de l'École polytechnique](https://www.polytechnique.edu/en/corporate/ecole-polytechnique-corporate-relations-charter)
 
-*   [Campus](https://www.polytechnique.edu/en/campus)![Image 8](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/49933726181_b2b0cba4fc_k.jpg?h=9d7dd413&itok=wTTHZ5rL) 
+*   [Campus](https://www.polytechnique.edu/en/campus)
+
+![Image 8](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/49933726181_b2b0cba4fc_k.jpg?h=9d7dd413&itok=wTTHZ5rL)
+    *   [Renov’X, tomorrow’s campus](https://www.polytechnique.edu/en/campus/renovx-tomorrows-campus-future-our-campus)
+    *   [Library](https://www.polytechnique.edu/bibliotheque/en)![Image 9](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/49345170588_8629f8db5c_k.jpg?itok=_zaHW-jw)
+    *   [Museum](https://portail.polytechnique.edu/musx/fr)![Image 10](https://www.polytechnique.edu/sites/default/files/styles/mega_menu/public/menu/2022-03/30609828227_b349ea7881_k.jpg?itok=VJTGG3y7)
+    *   [Housing](https://www.polytechnique.edu/en/campus/housing)
+    *   [Maps and directions](https://www.polytechnique.edu/en/campus/maps-and-directions)
+    *   [Catering and Services](https://www.polytechnique.edu/en/campus/catering-and-services)
+    *   [Sports](https://www.polytechnique.edu/en/campus/sports)
+    *   [Student associations](https://www.polytechnique.edu/en/campus/student-associations)
+    *   [Welcoming International Students and Faculty](https://www.polytechnique.edu/en/campus/welcoming-international-students-and-faculty)
+    *   [Health and Counseling Services](https://www.polytechnique.edu/en/campus/health-and-counseling-services)
+
+*   [Home](https://www.polytechnique.edu/en "Home")
+*   Page Not Found
+
+Share
+
+[](https://www.polytechnique.edu/en/fees-and-funding/scholarships# "Print / Export to PDF")
+
+ ShareThis is disabled.  Allow 
+
+# Page not found
 
 [](https://www.polytechnique.edu/en/fees-and-funding/scholarships)
 
-The requested page could not be found.
+ The requested page could not be found. 
+
+[Back to home](https://www.polytechnique.edu/en "Back to home")[Sitemap](https://www.polytechnique.edu/en/sitemap "Sitemap")
+
+![Image 11: École polytechnique](https://www.polytechnique.edu/sites/default/files/nc-project/footer/logo.png)
+École Polytechnique, is a founding member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en "Institut Polytechnique de Paris")
+
+**L’X pillars**
+*   [Education](https://www.polytechnique.edu/en/education)
+*   [Research](https://www.polytechnique.edu/en/research)
+*   [Entrepreneurship and innovation](https://www.polytechnique.edu/en/innovation)
+*   [Corporate](https://www.polytechnique.edu/en/corporate)
+
+**Quick links**
+*   [History](https://www.polytechnique.edu/en/school/history)
+*   [Responsabilité sociétale et environnementale](https://www.polytechnique.edu/ecole/responsabilite-societale-et-environnementale)
+*   [Sustainable development](https://www.polytechnique.edu/en/school/sustainable-development)
+*   [Diversity and success center](https://www.polytechnique.edu/en/school/diversity-success-center)
+*   [International](https://www.polytechnique.edu/en/school/international)
+*   [Directory](https://www.polytechnique.edu/en/directory)
+*   [Intranet](https://intranet.polytechnique.fr/)
+
+*   [](https://www.facebook.com/EcolePolytechnique/ "Join us on Facebook")
+*   [](https://www.youtube.com/user/tvpolytechnique "Join us on Youtube")
+*   [](https://www.linkedin.com/school/ecole-polytechnique/ "Join us on LinkedIn")
+*   [](https://www.instagram.com/polytechniqueparis "Join us on Instagram")
+*   [](https://www.flickr.com/photos/117994717@N06/albums "Join us on Flickr")
+
+[Contact us](https://www.polytechnique.edu/en/contact "Contact us")
+
+École polytechnique • Production [Net.Com](https://www.net-com.fr/ "Net.Com web agency") 2021
+
+## Footer menu
+
+*   [Legal notice](https://www.polytechnique.edu/en/legal-notice)
+*   [Digital accessibility](https://www.polytechnique.edu/en/digital-accessibility-partially-compliant)
+*   [Privacy Policy](https://www.polytechnique.edu/en/data-protection-policy)
+*   [Sitemap](https://www.polytechnique.edu/en/sitemap)
+*   [Cookie management](https://www.polytechnique.edu/en/fees-and-funding/scholarships#tarteaucitron)
+
+Cookies management panel
+
+ Close 
+
+Cookies management panel
+
+ By allowing these third party services, you accept their cookies and the use of tracking technologies necessary for their proper functioning. 
+
+Preference for all services
+
+ Allow all cookies  Deny all cookies 
+
+*    Mandatory cookies 
+    *   This site uses cookies necessary for its proper functioning which cannot be deactivated.    Allow  Deny  
+
+*    APIs  APIs are used to load scripts: geolocation, search engines, translations, ...  
+    *   APIs APIs are used to load scripts: geolocation, search engines, translations, ...Manage services (1)  Allow  Deny  
+
+    *   Google Tag Manager disallowed - This service can install 22 cookies. [Read more](https://tarteaucitron.io/service/googletagmanager/ "Read more : Cookie detail for Google Tag Manager on our site (new window)") - [View the official website](https://policies.google.com/privacy "View the official website Google Tag Manager (new window)")  Allow  Deny  
+
+*    Advertising network  Ad networks can generate revenue by selling advertising space on the site.  
+    *   Advertising network Ad networks can generate revenue by selling advertising space on the site.Manage services (0)  Allow  Deny  
+
+*    Audience measurement  The audience measurement services used to generate useful statistics attendance to improve the site.  
+    *   Audience measurement The audience measurement services used to generate useful statistics attendance to improve the site.Manage services (0)  Allow  Deny  
+
+*    Comments  Comments managers facilitate the filing of comments and fight against spam.  
+    *   Comments Comments managers facilitate the filing of comments and fight against spam.Manage services (0)  Allow  Deny  
+
+*    Other  Services to display web content.  
+    *   Other Services to display web content.Manage services (0)  Allow  Deny  
+
+*    Social networks  Social networks can improve the usability of the site and help to promote it via the shares.  
+    *   Social networks Social networks can improve the usability of the site and help to promote it via the shares.Manage services (1)  Allow  Deny  
+
+    *   ShareThis disallowed - This service can install 1 cookie. [Read more](https://tarteaucitron.io/service/sharethiscustom/ "Read more : Cookie detail for ShareThis on our site (new window)") - [View the official website](https://www.sharethis.com/legal/privacy/ "View the official website ShareThis (new window)")  Allow  Deny  
+
+*    Specific consent for Google services  Google may use your data for audience measurement, advertising performance, or to offer you personalized ads.  
+    *   Specific consent for Google services Google may use your data for audience measurement, advertising performance, or to offer you personalized ads.Manage services (0)  Allow  Deny  
+
+*    Support  Support services allow you to get in touch with the site team and help to improve it.  
+    *   Support Support services allow you to get in touch with the site team and help to improve it.Manage services (0)  Allow  Deny  
+
+*    Videos  Video sharing services help to add rich media on the site and increase its visibility.  
+    *   Videos Video sharing services help to add rich media on the site and increase its visibility.Manage services (4)  Allow  Deny  
+
+    *   Acast disallowed - This service can install 2 cookies. [Read more](https://tarteaucitron.io/service/acast/ "Read more : Cookie detail for Acast on our site (new window)") - [View the official website](https://www.acast.com/en/privacy "View the official website Acast (new window)")  Allow  Deny  
+    *   Dailymotion disallowed - This service can install 5 cookies. [Read more](https://tarteaucitron.io/service/dailymotion/ "Read more : Cookie detail for Dailymotion on our site (new window)") - [View the official website](https://www.dailymotion.com/legal/privacy "View the official website Dailymotion (new window)")  Allow  Deny  
+    *   Vimeo disallowed - This service can install 8 cookies. [Read more](https://tarteaucitron.io/service/vimeo/ "Read more : Cookie detail for Vimeo on our site (new window)") - [View the official website](https://vimeo.com/privacy "View the official website Vimeo (new window)")  Allow  Deny  
+    *   YouTube disallowed - This service can install 4 cookies. [Read more](https://tarteaucitron.io/service/youtube/ "Read more : Cookie detail for YouTube on our site (new window)") - [View the official website](https://policies.google.com/privacy "View the official website YouTube (new window)")  Allow  Deny  
+
+*   This website does not use any cookie requiring your consent.
+
+Save
+
+ This site uses cookies and gives you control over what you want to activate  OK, accept all  Deny all cookies  Personalize

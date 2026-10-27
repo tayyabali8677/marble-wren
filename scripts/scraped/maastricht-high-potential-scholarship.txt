@@ -1732,7 +1732,7 @@ The page you were trying to reach cannot be found. The link might be outdated, c
 *   [Bachelor's programmes](https://www.maastrichtuniversity.nl/education/bachelor/programmes)
 *   [Master's programmes](https://www.maastrichtuniversity.nl/education/master/programmes)
 
-*   [Research pages](https://www.maastrichtuniversity.nl/research)
+*   [Research pages](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research)
 *   [Support pages](https://www.maastrichtuniversity.nl/support)
 *   [Library pages](https://library.maastrichtuniversity.nl/)
 *   [Contact information](https://www.maastrichtuniversity.nl/contact)

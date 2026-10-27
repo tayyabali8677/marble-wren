@@ -325,8 +325,6 @@ Markdown Content:
 
         *   [Continuing Education and Qualification](https://www.uni-mannheim.de/en/research/doctorate/continuing-education-and-qualification/)
             *   [UMA Doc & Postdoc Days 2026](https://www.uni-mannheim.de/en/research/doctorate/continuing-education-and-qualification/uma-doc-postdoc-days-2026/)
-                *   [Anmeldung Doc & Postdoc Days](https://www.uni-mannheim.de/en/research/doctorate/continuing-education-and-qualification/uma-doc-postdoc-days-2026/anmeldung-doc-postdoc-days/)
-
             *   [Events for Doctoral Students](https://www.uni-mannheim.de/en/research/doctorate/continuing-education-and-qualification/events-for-doctoral-students/)
 
         *   [Doctoral Students' Councils](https://www.uni-mannheim.de/en/research/doctorate/doctoral-students-councils/)

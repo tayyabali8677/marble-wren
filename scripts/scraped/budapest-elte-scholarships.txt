@@ -3,6 +3,8 @@ Title: Eötvös Loránd University
 
 URL Source: https://www.elte.hu/en/scholarships
 
+Published Time: Tue, 27 Oct 2026 11:47:48 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -969,14 +971,7 @@ Markdown Content:
 *   [Education](https://www.elte.hu/en/education)
 *   [Research](https://www.elte.hu/en/research)
 *   [Innovation](https://www.elte.hu/en/innovation)
-*   [University life](https://www.elte.hu/en/university-life)
-
-1.   [V. Excellence in Higher Education Conference](https://www.elte.hu/en/node/334042)
-2.   [SemioSyS 2026 Student Conference](https://www.elte.hu/en/semiosys-2026-student-conference)
-3.   [Pioneers of Innovation](https://www.elte.hu/en/pioneers-of-innovation)
-4.   [4th Students' Letters Conference 2026](https://www.elte.hu/en/node/333199)
-5.   [CREATE 30 Conference](https://www.elte.hu/en/create-30-conference)
-[More results](https://www.elte.hu/en/search?query=)
+*   [University life](https://www.elte.hu/en/university-life "About student services and facilities and more")
 
 ## User account menu
 
@@ -1012,8 +1007,8 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Degree programs](https://www.elte.hu/en/degree-programs?m=46)
 *   [Incoming mobility](https://www.elte.hu/en/content/incoming-mobility.t.56?m=35)
 *   [Erasmus+ Traineeships at ELTE](https://www.elte.hu/Erasmus_traineeships_at_ELTE)
-*   [Summer university](https://www.elte.hu/en/summer-university)
-*   [Practical matters](https://www.elte.hu/en/practical-matters)
+*   [Summer university](https://www.elte.hu/en/summer-university "Information about summer universities organized by ELTE")
+*   [Practical matters](https://www.elte.hu/en/practical-matters "Practical information is collected here")
 
 *   [Request information](https://www.elte.hu/en/request_information)
 *   [Neptun](https://neptun.elte.hu/)
@@ -1030,11 +1025,3 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Terms of Use](https://www.elte.hu/en/terms-of-use)
 
  Powered by [Studio Present](https://www.studiopresent.hu/)
-
-## Use of personal data and cookies
-
-We use cookies to improve user experience - you can find more information in our [Privacy notice](https://www.elte.hu/en/privacy-notice-0).
-
-[Customize](https://www.elte.hu/en/scholarships# "Open consent dialog")
-
-Decline Accept

@@ -26,7 +26,7 @@ Markdown Content:
 *   [Library](https://www.rmit.edu.au/library) 
 *   [Online](https://www.rmit.edu.au/online) 
 
-[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)
 
 [](javascript:void(0);)
 
@@ -36,7 +36,7 @@ Search field
 
 [](https://www.rmit.edu.au/)
 
-[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
 
 Search [](https://www.rmit.edu.au/search)
 
@@ -375,7 +375,7 @@ RMIT University acknowledges the people of the Woi wurrung and Boon wurrung lang
 *   [Library](https://www.rmit.edu.au/library) 
 *   [Online](https://www.rmit.edu.au/online) 
 
-[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)
 
 [](javascript:void(0);)
 
@@ -385,7 +385,7 @@ Search field
 
 [](https://www.rmit.edu.au/)
 
-[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
+[](https://www.rmit.edu.au/compare)[](javascript:void(0);)[](javascript:void(0);)[](javascript:void(0);)
 
 Search [](https://www.rmit.edu.au/search)
 

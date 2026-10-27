@@ -893,11 +893,11 @@ see webpage details
 Graham and Joanna Barker Scholarship for Music
 Scholarship paid directly to recipient
 Applicants who can demonstrate an exceptional level of excellence in Music
-&pound;3,000.00 per academic year
+&pound;4,000.00 per academic year
 Open Date:
-Unavailable for 2027 entry
+Open
 Close Date:
-Unavailable for 2027 entry
+13 January 2027
 Fiona Hill Scholarships
 Scholarship paid directly to recipients termly.
 Low household income applicants from the North East of England with a preference for Bishop Auckland.
@@ -928,7 +928,7 @@ Scholarship paid directly to the recipient
 Applicants from the North East of England with a household income below &pound;42,875. Postcode regions: DH, DL, NE, SR or TS.
 &pound;5,000.00
 Open Date:
-October 2026
+Open
 Close Date:
 25 March 2027
 Keep Making History - STEM and Professional Excellence Scholarship
@@ -936,7 +936,7 @@ Scholarship paid directly to the receipient
 Applicants with a household income below &pound;42,875., undertaking an accounting or STEM undergraduate degree
 &pound;5,000.00
 Open Date:
-October 2026
+Open
 Close Date:
 31 March 2027
 Khodorkovsky Scholarships
@@ -960,6 +960,7 @@ Paid directly to recipient
 To support applicants who excel in Sport, Music and Arts
 &pound;2,000 per academic year
 Open Date:
+Open
 Close Date:
 13 January 2027
 V M Oughton Memorial Scholarship
