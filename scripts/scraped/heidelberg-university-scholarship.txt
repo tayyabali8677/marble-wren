@@ -17,7 +17,7 @@ Markdown Content:
 *   [Study](https://www.uni-heidelberg.de/en/study)
 *   [Transfer](https://www.uni-heidelberg.de/en/transfer)
 
-[![Image 1: Heidelberg University logo](https://backend.uni-heidelberg.de/sites/default/files/site_logo/icon-symbol-uh-logo-black_1_0.svg)](https://www.uni-heidelberg.de/en)
+[![Image 1: Heidelberg University logo](https://backend.uni-heidelberg.de/sites/default/files/site_logo/icon-symbol-uh-logo-black_1_0.svg)](https://www.uni-heidelberg.de/de)
 
 # Page not found
 

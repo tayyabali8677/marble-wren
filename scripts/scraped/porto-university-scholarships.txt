@@ -3,8 +3,7 @@ Title: Just a moment...
 
 URL Source: https://sigarra.up.pt/up/en/web_base.gera_pagina?p_pagina=apoios+bolseiros
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
 ![Image 1: Icon for sigarra.up.pt](https://sigarra.up.pt/favicon.ico)

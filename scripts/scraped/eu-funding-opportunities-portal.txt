@@ -6,94 +6,85 @@ URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
 Published Time: Thu, 22 Oct 2026 14:30:20 GMT
 
 Markdown Content:
-This site uses cookies. Visit our [cookies policy page](https://commission.europa.eu/cookies-policy_en) or click the link in any footer for more information and to change your preferences.
-
-[Accept all cookies](https://ec.europa.eu/info/funding-tenders/opportunities/portal/#accept)[Accept only essential cookies](https://ec.europa.eu/info/funding-tenders/opportunities/portal/#refuse)
-
-*   [Home](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home)
-*   [Funding](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-*   [Procurement](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-*   [Projects & results](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-*   [News & events](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-*   [Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
-*   [Guidance & documents](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-
-![Image 1: European Commission logo](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/ecl/ec/logo/positive/logo-ec--en.svg)
-
- EU F&T Portal 
-
-Sign in
-
-en
-
-![Image 2: A collage of diverse European scenes with the EU flag's stars overlaid. Images feature industry, technology, culture, and people.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/home-banner-bg.jpg)
-
-© Adobe Stock and Envato
-
 Discover the funding & tenders opportunities
 
 Find out how to participate by following [these key steps](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/how-to-participate/1).
 
 [Find calls for proposals](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals)
-
 Explore the available EU funding opportunities by searching for calls for proposals within your topics of interest, find partners and submit a proposal.
 
 [Find calls for tenders](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-tenders)
-
 Find business opportunities in the calls for tenders managed by EU institutions, bodies and agencies.
 
 [View projects and results](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-results)
-
 Browse through EU funded projects and learn about the results. Invest in opportunities and get inspired by the highlights and success stories.
 
 [Work as an expert](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/work-as-an-expert)
-
 Proposals and projects need evaluations, monitoring and domain-specific knowledge advice from experts.
 
-Report fraud
+Highlights
+
+[![Image 1: Are You Looking to Advance Your Research Career in the EU?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30353/v13/ChooseEurope_Attracting_researchers_1920x1080%20FINAL.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30353)
+
+Discover a world of opportunity in the European Union.
+
+[![Image 2: Download “EU funding & me” The Mobile app that Simplifies Access to EU Funding](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30392/v6/GIF%20last_small.gif)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30392)
+
+The App that offers intuitive features and seamless access to EU funding services anytime, anywhere.
+
+[![Image 3: Are You Ready to Discover EU-funded Projects in Action?](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/30468/v2/FTP-EUFAME_news_poster%20(1).jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/30468)
+
+With the new interactive Map in the EU funding & me app, you can see where EU funding is making a difference. Download the app to discover !
 
 EU programmes involved
 
-![Image 3: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
+![Image 4: European Union flags wave in front of the European Commission building in Brussels.](https://ec.europa.eu/info/funding-tenders/opportunities/portal/assets/images/flags.jpg)
 
 Discover the range of EU Programmes, a wide variety of EU funding opportunities implemented through the 2021-2027 multiannual financial framework, divided by heading and cluster. Access specific EU funding Programme's information, from reference documents to eligibility criteria and guidelines for participants or projects and results.
 
 [View all EU programmes](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes)
 
+News
+
+[![Image 5: EACEA is Looking for External Experts! ](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40096/v2/26_EACEA_CallForExperts_FTP.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40096)
+
+Published on 22 October 2026
+
+Are you an experienced professional in education, training, youth, culture, sport, citizenship or the audiovisual sector? EACEA is looking for external experts!
+
+[![Image 6: Online Info Session – Creative Europe – Circulation of European Literary Works 2027](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40093/v2/EACEA-%20Creative%20Europe_InfoSession_FTP_171126.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40093)
+
+Published on 22 October 2026
+
+Join this Info session to explore a funding opportunity to support projects that translate, publish, distribute, and promote European works of fiction, along with guidance on the application process.
+
+[![Image 7: New European Excellence Initiative projects to empower higher education institutions and widen cooperation](https://webgate.ec.europa.eu/sedia/iop/fileapi/news/40094/v2/2026_Widening_GA.jpg)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/news/40094)
+
+Published on 21 October 2026
+
+The European Commission is investing €80 million in 16 new projects funded by the European Excellence Initiative, advancing R&I collaboration and excellence in universities from across Europe.
+
 Events
 
+1793170800000
+
+* * *
+
+1794319200000
+
+* * *
+
+1794474000000
+
+* * *
+
+1794902400000
+
+[European Mission Soil Week 2026](https://mission-soil-platform.ec.europa.eu/news-events/events/european-mission-soil-week-2026)
+The fourth edition of the European Mission Soil Week will take place in Ireland, hosted by Teagasc and the Irish Presidency of the Council of the EU.
+
+ 09:00 - 18:00 
+
+* * *
+
 [See more events](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/events)
-
-©2026 European Commission
-
-|
-
-[About](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-
-|
-
-[Accessibility](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/accessibility)
-
-|
-
-[Free text search](https://ec.europa.eu/search/?query_source=FUNDTENDERS)
-
-|
-
-[IT Helpdesk](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-
-|
-
-[Cookies](https://ec.europa.eu/info/cookies_en)
-
-|
-
-[Legal notice](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-
-|
-
-[APIs](https://ec.europa.eu/info/funding-tenders/opportunities/portal/)
-
-|
-
-[Show more](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/generalLinks)

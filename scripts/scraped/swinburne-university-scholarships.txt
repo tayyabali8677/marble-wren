@@ -6,6 +6,8 @@ URL Source: https://www.swinburne.edu.au/study/scholarships/
 Markdown Content:
 [Skip to search](https://www.swinburne.edu.au/study/scholarships/#site-search)[Skip to content](https://www.swinburne.edu.au/study/scholarships/#content-area)
 
+Swinburne's website is currently experiencing intermittent outages. If you require assistance please [contact us](https://www.swinburne.edu.au/contact-us/).
+
 [![Image 10: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-small.svg)![Image 11: Home - Swinburne - Swinburne University of Technology logo](https://www.swinburne.edu.au/content/dam/media/brand/logo-long-full.svg)](https://www.swinburne.edu.au/)
 
 Close
@@ -142,7 +144,7 @@ Back to menu level 2[Living in Melbourne](https://www.swinburne.edu.au/life-at-s
 
     *   visit International students toggle International students menu
 
-Back to menu level 2[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
+Back to menu level 2[International students](https://www.swinburne.edu.au/international-students/ "Go to  International students")
         *   [Scholarships](https://www.swinburne.edu.au/courses/scholarships/international-scholarships/ "Go to  Page title")
         *   [Fees](https://www.swinburne.edu.au/courses/fees/fees-for-international-students/ "Go to  Page title")
         *   [Visas](https://www.swinburne.edu.au/courses/visas/ "Go to  Page title")
@@ -285,7 +287,7 @@ Back to menu level 2[Research ethics and integrity](https://www.swinburne.edu.au
 
 *   visit International students toggle International students menu
 
-Back to main menu[International students](https://swinburne.edu.au/international-students/ "Go to  International students")
+Back to main menu[International students](https://www.swinburne.edu.au/international-students/ "Go to  International students")
     *   [Scholarships](https://www.swinburne.edu.au/courses/scholarships/international-scholarships/ "Go to  Page title")
     *   [Fees](https://www.swinburne.edu.au/courses/fees/fees-for-international-students/ "Go to  Page title")
     *   [Visas](https://www.swinburne.edu.au/courses/visas/ "Go to  Page title")
@@ -436,7 +438,7 @@ Previous Next
 *   [Find a course](https://www.swinburne.edu.au/courses/find-a-course "Find a course")
 *   [Fees](https://www.swinburne.edu.au/courses/fees "Fees")
 *   [How to apply](https://www.swinburne.edu.au/courses/applying "How to apply")
-*   [International students](https://swinburne.edu.au/international-students/ "International students")
+*   [International students](https://www.swinburne.edu.au/international-students/ "International students")
 *   [Student visas](https://www.swinburne.edu.au/courses/visas "Student visas")
 *   [School programs](https://www.swinburne.edu.au/collaboration-partnerships/school-programs "School programs")
 *   [Resources for Career Practitioners](https://www.swinburne.edu.au/courses/planning-your-future/career-practitioners "Resources for Career Practitioners")
@@ -473,4 +475,4 @@ RTO (TOID) 3059
 
 TEQSA PRV12148 Australian University
 
-![Image 25](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_91a5b9cf-6c42-4908-8cf4-e4616d60b7fc&first_visited_at=1793041004564&stid=&ipv4=34.34.233.168&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1793041004750)
+![Image 25](https://verifi.podscribe.com/tag?action=view&user_id=30a6f746-1c4d-44d2-8996-3528316e9313&advertiser=swinburneuniversityoftechnology&referrer=_&session_referrer=_&session_landing_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&device_id=pscrb_4e53e270-2c5f-4cd9-ec96-af8e1a7abd5b&first_visited_at=1793074343489&stid=&ipv4=34.96.49.204&ipv6=&url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&event_url=https%3A%2F%2Fwww.swinburne.edu.au%2Fstudy%2Fscholarships%2F&source=js-tag+v1.2.3&cachebust=1793074343591)

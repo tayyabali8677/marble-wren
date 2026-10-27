@@ -1,101 +1,10 @@
 ===== SOURCE PAGE: https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens =====
-Title: Page not found!
+Title: Just a moment...
 
 URL Source: https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens
 
-Warning: Target URL returned error 404: Not Found
+Warning: Target URL returned error 403: Forbidden
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-[![Image 1](https://smpf.lrv.lt/static/img/logo.95ef33ec76a6.svg)](https://lrv.lt/)[Skip to main content](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#main-content)
-*   [Ministries](https://lrv.lt/en/ministries/)
-*   [E-Citizen](https://epilietis.lrv.lt/en/)
-
-*   [EN](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-lang)
-    *   [EN](https://smpf.lrv.lt/en/)
-    *   [LT](https://smpf.lrv.lt/lt/)
-
-*     
-
-[![Image 2: /en/](https://smpf.lrv.lt/static/img/logo-secondary.d8e41ea81c97.svg)Education Exchanges Support Foundation](https://smpf.lrv.lt/en/)![Image 3](https://smpf.lrv.lt/static/img/icon-search.8c45a71079b3.svg)Enter search text [](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#search)[Menu](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega)
-
-[About us](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-1)
-
-*   [Contact Information](https://smpf.lrv.lt/en/about-us/contact-information/)
-*   [Working Hours](https://smpf.lrv.lt/en/about-us/working-hours/)
-*   [Gift Practices](https://smpf.lrv.lt/en/about-us/gift-practices/)
-*   [Membership](https://smpf.lrv.lt/en/about-us/membership/)
-*   [Offers and Disputes](https://smpf.lrv.lt/en/about-us/offers-and-disputes/)
-*   [Certificates](https://smpf.lrv.lt/en/about-us/certificates/)
-*   [Social Responsibility](https://smpf.lrv.lt/en/about-us/social-responsibility/)
-
-[Organizational Structure](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-2)
-
-*   [Director](https://smpf.lrv.lt/en/organizational-structure/director/)
-*   [Deputy Directors](https://smpf.lrv.lt/en/organizational-structure/deputy-directors/)
-*   [Staff Duties](https://smpf.lrv.lt/en/organizational-structure/staff-duties/)
-*   [Structure](https://smpf.lrv.lt/en/organizational-structure/structure/)
-
-[Administrative Information](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-3)
-
-*   [Supervision of Economic Entities](https://smpf.lrv.lt/en/administrative-information/supervision-of-economic-entities/)
-*   [Sets of Financial Statements](https://smpf.lrv.lt/en/administrative-information/sets-of-financial-statements/)
-*   [Operational Reviews](https://smpf.lrv.lt/en/administrative-information/operational-reviews/)
-*   [Salary Scales](https://smpf.lrv.lt/en/administrative-information/salary-scales/)
-*   [Plans of Action](https://smpf.lrv.lt/en/administrative-information/plans-of-action/)
-*   [Service Vehicle](https://smpf.lrv.lt/en/administrative-information/service-vehicle/)
-*   [Operational Regulations](https://smpf.lrv.lt/en/administrative-information/operational-regulations/)
-*   [Public Procurement](https://smpf.lrv.lt/en/administrative-information/public-procurement/)
-
-[Career](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-4)
-
-*   [Work Placement](https://smpf.lrv.lt/en/career/work-placement/)
-
-[Committees and Commissions](https://smpf.lrv.lt/en/committees-and-commissions/)[Legal Information](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-6)
-
-*   [Draft Legislation](https://smpf.lrv.lt/en/legal-information/draft-legislation/)
-*   [Whistleblower Protection](https://smpf.lrv.lt/en/legal-information/whistleblower-protection/)
-*   [Legislation](https://smpf.lrv.lt/en/legal-information/legislation/)
-*   [Breach of Legislation](https://smpf.lrv.lt/en/legal-information/breach-of-legislation/)
-*   [Prevention of Corruption](https://smpf.lrv.lt/en/legal-information/prevention-of-corruption/)
-*   [Privacy Policy](https://smpf.lrv.lt/en/legal-information/privacy-policy/)
-*   [Research and Analysis](https://smpf.lrv.lt/en/legal-information/research-and-analysis/)
-
-[Areas of Activity](https://smpf.lrv.lt/en/areas-of-activity/)[Provision of Public Services](https://smpf.lrv.lt/en/provision-of-public-services/)[Useful Links](https://smpf.lrv.lt/en/useful-links/)[Programmes we administer](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#nav-mega-10)
-
-*   [Erasmus+](https://smpf.lrv.lt/en/programmes-we-administer/erasmus/)
-*   [State scholarships](https://smpf.lrv.lt/en/programmes-we-administer/state-scholarships/)
-*   [Nordplus](https://smpf.lrv.lt/en/programmes-we-administer/nordplus/)
-
-[Current projects](https://smpf.lrv.lt/en/current-projects/)[Implemented projects](https://smpf.lrv.lt/en/implemented-projects/)[News](https://smpf.lrv.lt/en/news/)[Contacts](https://smpf.lrv.lt/en/contacts/)
-
-# Error 404. Page not found!
-
-###### This can happen for a variety of reasons, such as an invalid URL, a removed page, or bad server configuration.  
-Try reloading the page or returning to the home page.
-
-[Back home](https://smpf.lrv.lt/)
-
-##### Education Exchanges Support Foundation
-
-*   [](https://www.linkedin.com/company/svietimo-mainu-paramos-fondas)
-
-##### Legal entity code
-
-300629875
-
-##### Address
-
-Rožių al. 2, 03106 Vilnius, Lithuania
-
-##### Email
-
-[info@smpf.lt](mailto:info@smpf.lt)
-
-##### Ph. no
-
-[+370 526 10 592](tel:+370 526 10 592)
-
-Data about the institution are collected and stored in the Register of Legal Entities.
-
-*   [Cookie settings](https://smpf.lrv.lt/en/scholarships/scholarships-for-foreign-citizens#)
-*   [Site tree](https://smpf.lrv.lt/en/site-tree/)
+Enable JavaScript and cookies to continue

@@ -292,7 +292,7 @@ We are sorry but the page you are looking for may have been moved or is no longe
 *   [Publications](https://www.adb.org/publications)
 *   [Data and Statistics](https://www.adb.org/work-with-us/careers/what-we-do/data/main)
 
-[Send us feedback](https://www.adb.org/contact?target=def5020010fe30c868f4eddbbb415ba9c3852c0e97087d0088b721fc89853f51e0641b951fb2c476b28ebe02efc81b53bbe06ec895fbd206d8123392ac7484b4d751d5c11a08c387a8396a443ba05343f9481e5f78f9f8b7140be26ed8c88b14858606&name=Webmaster&referrer=node/814461 "Webmaster")
+[Send us feedback](https://www.adb.org/contact?target=def502008e44ec7ad4e31138ddcc53a3598624d4458471c97091b0693129143dda58f95d7f189408c2405b0ea6ffdab1a0f25c85364acc1a0533f9246354c2f8d717a5b0ab6823c13506c42ea9b7f650512a64c00875f61d23669756b9a8296e133cb8&name=Webmaster&referrer=node/814461 "Webmaster")
 
 ![Image 6: ADB e-Alerts](https://www.adb.org/themes/custom/adb_theme/components/connect-with-us/adb-enewsletter.png)
 

@@ -3,18 +3,13 @@ Title: 404 | Study Australia
 
 URL Source: https://www.studyaustralia.gov.au/english/live/scholarships
 
-Published Time: Mon, 26 Oct 2026 13:24:36 GMT
-
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
-Skip to [content](https://www.studyaustralia.gov.au/english/live/scholarships#main-content) or [footer](https://www.studyaustralia.gov.au/english/live/scholarships#footer-content)
-
 [](https://www.studyaustralia.gov.au/en)
 
-Search search
+Search 
 
-[language English expand_more](https://www.studyaustralia.gov.au/english/live/scholarships)
+[English](https://www.studyaustralia.gov.au/english/live/scholarships)
+
 *   [English](https://www.studyaustralia.gov.au/en)
 *   [简体中文](https://china.studyaustralia.gov.au/)
 *   [India](https://www.studyaustralia.gov.au/en_in)
@@ -22,9 +17,6 @@ Search search
 *   [日本語](https://japan.studyaustralia.gov.au/)
 *   [한국어](https://www.studyaustralia.gov.au/ko)
 
-[search](https://www.studyaustralia.gov.au/english/live/scholarships#search-bar)
-
-[language expand_more](https://www.studyaustralia.gov.au/english/live/scholarships)
 *   [English](https://www.studyaustralia.gov.au/en)
 *   [简体中文](https://china.studyaustralia.gov.au/)
 *   [India](https://www.studyaustralia.gov.au/en_in)
@@ -32,108 +24,7 @@ Search search
 *   [日本語](https://japan.studyaustralia.gov.au/)
 *   [한국어](https://www.studyaustralia.gov.au/ko)
 
-menu
-
-Search search
-
-Why Australia expand_more
-
-[Why Australia](https://www.studyaustralia.gov.au/en/why-australia)
-
-* * *
-
-Australia is ideal for international students, with high-quality education, a welcoming culture, vibrant student cities and beautiful natural surroundings.
-
-*   [World class education](https://www.studyaustralia.gov.au/en/why-australia/world-class-education)
-*   [Australian culture and lifestyle](https://www.studyaustralia.gov.au/en/why-australia/australian-culture-and-lifestyle)
-*   [Real world learning](https://www.studyaustralia.gov.au/en/why-australia/real-world-learning)
-*   [Ask a student](https://www.studyaustralia.gov.au/en/why-australia/student-chat)
-*   [World-leading research](https://www.studyaustralia.gov.au/en/why-australia/world-leading-research)
-
-Plan your studies expand_more
-
-[Plan your studies](https://www.studyaustralia.gov.au/en/plan-your-studies)
-
-* * *
-
-Australia has a range of learning institutions, including universities, vocational education and training institutes, schools and English language colleges.
-
-*   [Find a course](https://www.studyaustralia.gov.au/en/plan-your-studies/find-a-course)
-*   [How to apply to study](https://www.studyaustralia.gov.au/en/plan-your-studies/how-to-apply-to-study)
-*   [Australia’s education system](https://www.studyaustralia.gov.au/en/plan-your-studies/australias-education-system)
-*   [Areas of study](https://www.studyaustralia.gov.au/en/plan-your-studies/areas-of-study)
-*   [English courses](https://www.studyaustralia.gov.au/en/plan-your-studies/english-courses)
-*   [Schools](https://www.studyaustralia.gov.au/en/plan-your-studies/schools)
-*   [Vocational education and training](https://www.studyaustralia.gov.au/en/plan-your-studies/vocational-education-and-training)
-*   [Universities and higher education](https://www.studyaustralia.gov.au/en/plan-your-studies/universities-and-higher-education)
-*   [Scholarships](https://www.studyaustralia.gov.au/en/plan-your-studies/scholarships)
-*   [Study abroad and exchange](https://www.studyaustralia.gov.au/en/plan-your-studies/study-abroad-and-exchange)
-*   [Other ways to study](https://www.studyaustralia.gov.au/en/plan-your-studies/other-ways-to-study)
-*   [List of Australian universities](https://www.studyaustralia.gov.au/en/plan-your-studies/list-of-australian-universities)
-*   [Changing your course or provider](https://www.studyaustralia.gov.au/en/plan-your-studies/changing-your-course-or-provider)
-
-Life in Australia expand_more
-
-[Life in Australia](https://www.studyaustralia.gov.au/en/life-in-australia)
-
-* * *
-
-Life in Australia offers international students a welcoming and diverse culture, a high standard of living, access to student support services and more.
-
-*   [Locations in Australia](https://www.studyaustralia.gov.au/en/life-in-australia/locations-in-australia)
-*   [Accomodation](https://www.studyaustralia.gov.au/en/life-in-australia/accommodation)
-*   [Living and education costs](https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs)
-*   [Safety in Australia](https://www.studyaustralia.gov.au/en/life-in-australia/safety-in-australia)
-*   [Student support services](https://www.studyaustralia.gov.au/en/life-in-australia/student-support-services)
-
-Plan your move expand_more
-
-[Plan your move](https://www.studyaustralia.gov.au/en/plan-your-move)
-
-* * *
-
-Find the information you’ll need as an international student to move to Australia and set yourself up for success.
-
-*   [What can you bring to Australia?](https://www.studyaustralia.gov.au/en/plan-your-move/what-can-i-bring-to-australia)
-*   [Your first week in Australia](https://www.studyaustralia.gov.au/en/plan-your-move/your-first-week-in-australia)
-*   [Preparing to travel](https://www.studyaustralia.gov.au/en/plan-your-move/preparing-to-travel)
-*   [Your guide to visas](https://www.studyaustralia.gov.au/en/plan-your-move/your-guide-to-visas)
-*   [Bringing your family](https://www.studyaustralia.gov.au/en/plan-your-move/bringing-your-family)
-*   [Overseas Student Health Cover (OSHC)](https://www.studyaustralia.gov.au/en/plan-your-move/overseas-student-health-cover-oshc)
-*   [How to apply for your visa](https://www.studyaustralia.gov.au/en/plan-your-move/visa-application-process)
-*   [Language testing organisations](https://www.studyaustralia.gov.au/en/plan-your-move/language-testing-organisations)
-
-Work in Australia expand_more
-
-[Work in Australia](https://www.studyaustralia.gov.au/en/work-in-australia)
-
-* * *
-
-International students in Australia can work while they study, with access to a wide range of options for building networks and gaining valuable industry experience.
-
-*   [Preparing for work](https://www.studyaustralia.gov.au/en/work-in-australia/preparing-for-work)
-*   [Finding work while you study](https://www.studyaustralia.gov.au/en/work-in-australia/finding-work-while-you-study)
-*   [Work rights and responsibilities](https://www.studyaustralia.gov.au/en/work-in-australia/work-rights-and-responsibilities)
-*   [Volunteer and industry experience](https://www.studyaustralia.gov.au/en/work-in-australia/getting-work-and-industry-experience)
-*   [Work after graduating](https://www.studyaustralia.gov.au/en/work-in-australia/work-after-graduating)
-*   [Student Employability Stories](https://www.studyaustralia.gov.au/en/work-in-australia/student-employability-stories)
-
-Tools and resources expand_more
-
-[Tools and resources](https://www.studyaustralia.gov.au/en/tools-and-resources)
-
-* * *
-
-Masterclasses, inspiring student stories and helpful tips and advice (blogs).
-
-*   [Masterclass library](https://www.studyaustralia.gov.au/en/tools-and-resources/masterclass-library)
-*   [News](https://www.studyaustralia.gov.au/en/tools-and-resources/news)
-*   [Student stories](https://www.studyaustralia.gov.au/en/tools-and-resources/student-stories)
-*   [Tips and advice for students](https://www.studyaustralia.gov.au/en/tools-and-resources/tips-and-advice-for-students)
-
-*   Why Australia chevron_right
-
-arrow_back
+Search 
 
 [Why Australia](https://www.studyaustralia.gov.au/en/why-australia)
 
@@ -146,10 +37,6 @@ Australia is ideal for international students, with high-quality education, a we
     *   [Real world learning](https://www.studyaustralia.gov.au/en/why-australia/real-world-learning)
     *   [Ask a student](https://www.studyaustralia.gov.au/en/why-australia/student-chat)
     *   [World-leading research](https://www.studyaustralia.gov.au/en/why-australia/world-leading-research)
-
-*   Plan your studies chevron_right
-
-arrow_back
 
 [Plan your studies](https://www.studyaustralia.gov.au/en/plan-your-studies)
 
@@ -171,10 +58,6 @@ Australia has a range of learning institutions, including universities, vocation
     *   [List of Australian universities](https://www.studyaustralia.gov.au/en/plan-your-studies/list-of-australian-universities)
     *   [Changing your course or provider](https://www.studyaustralia.gov.au/en/plan-your-studies/changing-your-course-or-provider)
 
-*   Life in Australia chevron_right
-
-arrow_back
-
 [Life in Australia](https://www.studyaustralia.gov.au/en/life-in-australia)
 
 Life in Australia offers international students a welcoming and diverse culture, a high standard of living, access to student support services and more.
@@ -186,10 +69,6 @@ Life in Australia offers international students a welcoming and diverse culture,
     *   [Living and education costs](https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs)
     *   [Safety in Australia](https://www.studyaustralia.gov.au/en/life-in-australia/safety-in-australia)
     *   [Student support services](https://www.studyaustralia.gov.au/en/life-in-australia/student-support-services)
-
-*   Plan your move chevron_right
-
-arrow_back
 
 [Plan your move](https://www.studyaustralia.gov.au/en/plan-your-move)
 
@@ -206,10 +85,6 @@ Find the information you’ll need as an international student to move to Austra
     *   [How to apply for your visa](https://www.studyaustralia.gov.au/en/plan-your-move/visa-application-process)
     *   [Language testing organisations](https://www.studyaustralia.gov.au/en/plan-your-move/language-testing-organisations)
 
-*   Work in Australia chevron_right
-
-arrow_back
-
 [Work in Australia](https://www.studyaustralia.gov.au/en/work-in-australia)
 
 International students in Australia can work while they study, with access to a wide range of options for building networks and gaining valuable industry experience.
@@ -223,10 +98,6 @@ International students in Australia can work while they study, with access to a 
     *   [Work after graduating](https://www.studyaustralia.gov.au/en/work-in-australia/work-after-graduating)
     *   [Student Employability Stories](https://www.studyaustralia.gov.au/en/work-in-australia/student-employability-stories)
 
-*   Tools and resources chevron_right
-
-arrow_back
-
 [Tools and resources](https://www.studyaustralia.gov.au/en/tools-and-resources)
 
 Masterclasses, inspiring student stories and helpful tips and advice (blogs).
@@ -238,59 +109,14 @@ Masterclasses, inspiring student stories and helpful tips and advice (blogs).
     *   [Student stories](https://www.studyaustralia.gov.au/en/tools-and-resources/student-stories)
     *   [Tips and advice for students](https://www.studyaustralia.gov.au/en/tools-and-resources/tips-and-advice-for-students)
 
-# 404 error
+## 404 error
 
 Sorry, this page isn't available. We're working to fix it.
 
-[](https://www.studyaustralia.gov.au/english/live/scholarships)
-
-*   [Home](https://www.studyaustralia.gov.au/en)chevron_right
-*   [keyboard_return](https://www.studyaustralia.gov.au/en/errors)[errors](https://www.studyaustralia.gov.au/en/errors)chevron_right
+*   [Home](https://www.studyaustralia.gov.au/en)
+*   [](https://www.studyaustralia.gov.au/en/errors)[errors](https://www.studyaustralia.gov.au/en/errors)
 *    404 
 
 Head back to our[homepage](https://beta.studyaustralia.gov.au/)to start over.
 
-[](https://www.studyaustralia.gov.au/english/live/scholarships)
 ## Footer content
-
-### Quick links
-
-*   [Why Australia](https://www.studyaustralia.gov.au/en/why-australia)
-*   [Visa and travel advice](https://www.studyaustralia.gov.au/en/plan-your-move/visa-application-process)
-*   [Living costs](https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs)
-*   [Australian study locations](https://www.studyaustralia.gov.au/en/life-in-australia/locations-in-australia)
-*   [Agent Hub](https://www.studyaustralia.gov.au/en/Agent-Hub)
-
-### Useful tools
-
-*   [Cost of living calculator](https://costofliving.studyaustralia.gov.au/)
-
-[Find a course search](https://www.studyaustralia.gov.au/en/plan-your-studies/find-a-course)
-
-### Follow Us
-
-*   [Facebook](https://facebook.com/studyAUofficial/ "Facebook")
-*   [Instagram](https://www.instagram.com/studyauofficial/ "Instagram")
-*   [YouTube](https://www.youtube.com/studyaustralia/ "YouTube")
-*   [X](https://x.com/studyauofficial "Twitter")
-
-### Subscribe to our newsletter
-
-Sign up to get all the latest student stories, blog posts and updates on student visas and travel to Australia straight to your inbox.
-
-[Sign Up](https://www.studyaustralia.gov.au/en/newsletter-sign-up)
-
-* * *
-
-[![Image 1: Study Australia](https://www.studyaustralia.gov.au/content/dam/austrade-assets/global/shared-assets/images/kangaroo-logo.svg)](https://www.studyaustralia.gov.au/en)
-
-In the spirit of reconciliation we acknowledge the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
-
-*   [About us](https://www.studyaustralia.gov.au/en/about-us)
-*   [Site disclaimer](https://www.austrade.gov.au/en/site-information/site-disclaimer)
-*   [Privacy policy](https://www.austrade.gov.au/en/site-information/privacy-policy)
-*   [AI transparency](https://www.austrade.gov.au/en/site-information/ai-transparency)
-
-© , Australian Trade and Investment Commission
-
-arrow_upward

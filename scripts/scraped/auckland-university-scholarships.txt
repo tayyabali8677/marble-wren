@@ -52,9 +52,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -92,11 +96,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -124,11 +131,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -148,11 +158,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -187,11 +200,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -232,11 +248,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -258,11 +277,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -276,11 +298,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -305,11 +330,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -322,10 +350,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Scholarships and awards
 Each year we award scholarships and prizes worth over $92 million to thousands of students just like you.
 Breadcrumbs List.
@@ -482,9 +509,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -522,11 +553,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -554,11 +588,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -578,11 +615,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -617,11 +657,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -662,11 +705,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -688,11 +734,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -706,11 +755,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -735,11 +787,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -752,10 +807,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Breadcrumbs List.
 Show Truncated Breadcrumbs.
 Home
@@ -896,9 +950,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -936,11 +994,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -968,11 +1029,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -992,11 +1056,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -1031,11 +1098,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -1076,11 +1146,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -1102,11 +1175,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -1120,11 +1196,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -1149,11 +1228,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -1166,10 +1248,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Breadcrumbs List.
 Show Truncated Breadcrumbs.
 Home
@@ -1325,9 +1406,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -1365,11 +1450,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -1397,11 +1485,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -1421,11 +1512,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -1460,11 +1554,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -1505,11 +1602,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -1531,11 +1631,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -1549,11 +1652,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -1578,11 +1684,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -1595,10 +1704,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Breadcrumbs List.
 Show Truncated Breadcrumbs.
 Home
@@ -1757,9 +1865,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -1797,11 +1909,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -1829,11 +1944,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -1853,11 +1971,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -1892,11 +2013,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -1937,11 +2061,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -1963,11 +2090,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -1981,11 +2111,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -2010,11 +2143,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -2027,10 +2163,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Entry requirements
 Find out about the requirements for entry into a programme of study.
 Breadcrumbs List.
@@ -2178,9 +2313,13 @@ Sign out
 Search
 Clear
 Search
-Main Menu
+Main menu
 Ngā tauira Students
-Ngā tauira Students
+Close
+Ngā tauira
+Students
+Find the tools and information you need for your studies and everyday life on campus.
+Students overview
 Tools
 Change my password
 Student Services Online
@@ -2218,11 +2357,14 @@ Health, safety and wellbeing
 Emergency information
 Report an injury, incident or observation
 Health and safety topics
-Close
 Back to Students menu item
 Close Students menu item
 Ngā kaimahi Staff
-Ngā kaimahi Staff
+Close
+Ngā kaimahi
+Staff
+Access staff resources, services and tools to support your work, teaching and professional development.
+Staff overview
 My tools
 Staff email
 Staff intranet
@@ -2250,11 +2392,14 @@ Emergency information
 Report an injury, incident or observation
 Health and safety topics
 Harassment, bullying, sexual assault and other violence
-Close
 Back to Staff menu item
 Close Staff menu item
 Raukura Alumni
-Raukura Alumni
+Close
+Raukura
+Alumni
+Whether you’re a graduate, staff member or supporter, you’re part of the University's alumni and friends community.
+Alumni overview
 Alumni and friends
 Our alumni
 Opportunities
@@ -2274,11 +2419,14 @@ Alumni benefits
 Contact the Alumni Office
 Office contact details
 Alumni and friends on social media
-Close
 Back to Alumni menu item
 Close Alumni menu item
 Ngā akoranga Study
-Ngā akoranga Study
+Close
+Ngā akoranga
+Study
+Explore our programmes and courses, find out how to apply and enrol, and learn about scholarships and fees.
+Study overview
 Study options
 Find a study option
 Course information
@@ -2313,11 +2461,14 @@ Engineering and Design
 Law
 Medical and Health Sciences
 Science
-Close
 Back to Study menu item
 Close Study menu item
 Rangahau me te auahatanga Research and innovation
-Rangahau me te auahatanga Research and innovation
+Close
+Rangahau me te auahatanga
+Research and innovation
+Explore our projects, initiatives, facilities and centres, and find opportunities to connect and collaborate.
+Research overview
 About our research
 Signature Research Areas
 Mātātaki | The Challenge
@@ -2358,11 +2509,14 @@ Research AI, software and computing
 Research data
 Research integrity and good research practice
 Induction, skills and development
-Close
 Back to Research and innovation menu item
 Close Research and innovation menu item
 Te ao ki konei On campus
-Te ao ki konei On campus
+Close
+Te ao ki konei
+On campus
+Discover life on campus, from events and clubs to facilities, accommodation and support services.
+On campus overview
 Our campuses
 Campus maps
 Emergencies and safety on campus
@@ -2384,11 +2538,14 @@ Sport and recreation
 Event and conference services
 University of Auckland Clinics
 Kate Edger Information Commons
-Close
 Back to On campus menu item
 Close On campus menu item
 Mō mātou About us
-Mō mātou About us
+Close
+Mō mātou
+About us
+Explore our history, governance, rankings and global connections, find job opportunities and get in touch.
+About us overview
 About the University
 Our faculties and institutes
 Equity, diversity, and inclusion
@@ -2402,11 +2559,14 @@ Donate to the University
 Work with us
 Staff benefits
 Career development
-Close
 Back to About us menu item
 Close About us menu item
 Pitopito kōrero News
-Pitopito kōrero News
+Close
+Pitopito kōrero
+News
+Discover the latest news, research breakthroughs and expert insights from across the University.
+News overview
 Latest news
 University news
 Sustainable impact
@@ -2431,11 +2591,14 @@ Science
 Media enquiries
 Contacts
 Find a media expert
-Close
 Back to News menu item
 Close News menu item
 Takoha Giving
-Takoha Giving
+Close
+Takoha
+Giving
+Help advance research, support students and shape the future. Every gift to the University makes a lasting difference.
+Giving overview
 Donate
 Select an area to support
 A-Z list of funds
@@ -2448,10 +2611,9 @@ Your questions
 Questions about giving
 Tax efficient giving
 Contact the Fundraising Team
-Close
 Back to Giving menu item
 Close Giving menu item
-Close Main Menu
+Close Main menu
 Applications and admissions
 To become a student at the University you must apply for admission, and accept an offer of place into a programme.
 Breadcrumbs List.
