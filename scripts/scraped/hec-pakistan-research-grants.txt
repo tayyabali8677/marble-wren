@@ -51,7 +51,7 @@ Title: Page not found
 
 URL Source: https://hec.gov.pk/english/services/faculty/Start-Up%20Research%20Grant%20Program/Pages/Introduction.aspx
 
-Published Time: Tue, 27 Oct 2026 18:11:44 GMT
+Published Time: Wed, 28 Oct 2026 04:41:22 GMT
 
 Markdown Content:
 *   [![Image 1: header-logo](https://www.hec.gov.pk/Style%20Library/HEC/images/header-logo.svg)Higher Education Commission](https://www.hec.gov.pk/)

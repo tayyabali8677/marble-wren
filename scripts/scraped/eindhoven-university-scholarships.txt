@@ -23,9 +23,14 @@ These cookies help make our website more usable by enabling basic functions such
 **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **li_gc**Stores the user's cookie consent state for the current domain
 
 **Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  
-    *   [Unibuddy 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 5: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mp_opt_in_out_#**Stores the user's cookie consent state for the current domain
+    *   [Unibuddy 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 5: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mp_opt_in_out_#**Stores the user's cookie consent state for the current domain
 
-**Maximum Storage Duration**: Session**Type**: HTTP Cookie 
+**Maximum Storage Duration**: Session**Type**: HTTP Cookie **persist:root**This cookie stores visitor credentials in an encrypted cookie in order to allow the visitor to stay logged in on reentry, if the visitor has accepted the 'stay logged in'-button.
+
+**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  
+    *   [Vimeo 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vimeo.com/privacy "Learn more about this provider Vimeo's privacy policy - opens in a new window")**cf_clearance**This cookie is used to distinguish between humans and bots.
+
+**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie 
     *   [linkedin.com vimeo.com 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)**__cf_bm[x2]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.
 
 **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie 
@@ -33,17 +38,21 @@ These cookies help make our website more usable by enabling basic functions such
 *   
 These cookies enable our website to remember information that affects its behavior and design, such as your preferred language or the region you are in.
 
-    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 6: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
+    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 7: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.
 
 **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie 
-    *   [Unibuddy 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 7: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**UB_UUID**Used by third-party student enrollment service.
+    *   [Unibuddy 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 8: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**UB_UUID**Used by third-party student enrollment service.
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage 
 
 *   
 Statistics cookies help us to understand how you, our visitor, interact with our website by collecting and reporting anonymous data.
 
-    *   [Hotjar 6](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 8: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.hotjar.com/legal/policies/privacy/ "Learn more about this provider Hotjar's privacy policy - opens in a new window")**_hjSession_#[x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
+    *   [Hotjar 8](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.hotjar.com/legal/policies/privacy/ "Learn more about this provider Hotjar's privacy policy - opens in a new window")**hjActiveViewportIds**This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+
+**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **hjViewportId**Saves the user's screen size in order to adjust the size of images on the website.
+
+**Maximum Storage Duration**: Session**Type**: HTML Local Storage **_hjSession_#[x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
 
 **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **_hjSessionUser_#[x2]**Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.
 
@@ -52,11 +61,10 @@ Statistics cookies help us to understand how you, our visitor, interact with our
 **Maximum Storage Duration**: Session**Type**: HTTP Cookie **_hjCookieTest**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.
 
 **Maximum Storage Duration**: Session**Type**: HTTP Cookie  
-    *   [Unibuddy 9](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 9: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**hjActiveViewportIds**This cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.
+    *   [Microsoft 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_cltk**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.
 
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **hjViewportId**Saves the user's screen size in order to adjust the size of images on the website.
-
-**Maximum Storage Duration**: Session**Type**: HTML Local Storage **p.gif**Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+**Maximum Storage Duration**: Session**Type**: HTML Local Storage 
+    *   [Unibuddy 7](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**p.gif**Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
 
 **Maximum Storage Duration**: Session**Type**: Pixel Tracker **invite_id**Used by third-party student enrollment service.
 
@@ -78,14 +86,14 @@ Statistics cookies help us to understand how you, our visitor, interact with our
 *   
 These cookies are used to track behavior when you visit one or more websites. The goal is to better tailor our ads to be as relevant as possible for you instead of generic ads.
 
-    *   [Meta Platforms, Inc. 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 10: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.
+    *   [Meta Platforms, Inc. 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_fbp**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
 
 **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  
-    *   [Google 12](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 11: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+    *   [Google 10](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
 
 **IDE**Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
 
@@ -99,9 +107,7 @@ These cookies are used to track behavior when you visit one or more websites. Th
 
 **Maximum Storage Duration**: Session**Type**: Pixel Tracker **ccm/conversion/866077027/**Pending
 
-**Maximum Storage Duration**: Session**Type**: Pixel Tracker **__gsas**Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
-
-**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+**Maximum Storage Duration**: Session**Type**: Pixel Tracker **_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 
 **Maximum Storage Duration**: 2 years**Type**: HTTP Cookie **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
 
@@ -109,10 +115,8 @@ These cookies are used to track behavior when you visit one or more websites. Th
 
 **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
 
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **GoogleAdServingTest**Used to register what ads have been displayed to the user.
-
-**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  
-    *   [Microsoft 8](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 12: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_uetsid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  
+    *   [Microsoft 7](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**_uetsid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_uetsid_exp**Contains the expiry-date for the cookie with corresponding name.
 
@@ -120,28 +124,31 @@ These cookies are used to track behavior when you visit one or more websites. Th
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **_uetvid_exp**Contains the expiry-date for the cookie with corresponding name.
 
-**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **MR**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
-
-**Maximum Storage Duration**: 7 days**Type**: HTTP Cookie **MUID**Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **MUID**Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.
 
 **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **_uetsid**Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
 
 **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **_uetvid**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
 
 **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  
-    *   [Spotify 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 13: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.spotify.com/uk/legal/privacy-policy/ "Learn more about this provider Spotify's privacy policy - opens in a new window")**sp_landing**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
+    *   [Spotify 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.spotify.com/uk/legal/privacy-policy/ "Learn more about this provider Spotify's privacy policy - opens in a new window")**sp_landing**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
 
 **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie **sp_t**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.
 
 **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  
-    *   [Unibuddy 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 14: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mpq_#_#**Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+    *   [Unibuddy 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**__mpq_#_#**Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage **mp_#_mixpanel**Pending
 
 **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website.
 
 **Maximum Storage Duration**: Persistent**Type**: IndexedDB  
-    *   [YouTube 16](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 15: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.
+    *   [Vimeo 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://vimeo.com/privacy "Learn more about this provider Vimeo's privacy policy - opens in a new window")**__cf_ob**Pending
+
+**Maximum Storage Duration**: Session**Type**: HTTP Cookie **_cfPre_tabId**Pending
+
+**Maximum Storage Duration**: Session**Type**: HTML Local Storage  
+    *   [YouTube 16](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.
 
 **Maximum Storage Duration**: Session**Type**: HTTP Cookie **TESTCOOKIESENABLED[x2]**Used to track user’s interaction with embedded content.
 
@@ -167,14 +174,16 @@ These cookies are used to track behavior when you visit one or more websites. Th
 
 *   Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies. 
 
-    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**li_fat_id**Pending
+    *   [LinkedIn 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 19: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**li_fat_id**Pending
 
 **Maximum Storage Duration**: 30 days**Type**: HTTP Cookie 
-    *   [Tu/e 2](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.tue.nl/en/storage/disclaimer/ "Learn more about this provider Tu/e's privacy policy - opens in a new window")**aff_93e95bd6a**Pending
+    *   [Tu/e 3](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 20: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.tue.nl/en/storage/disclaimer/ "Learn more about this provider Tu/e's privacy policy - opens in a new window")**aff_2577a2901**Pending
+
+**Maximum Storage Duration**: Session**Type**: HTTP Cookie **aff_93e95bd6a**Pending
 
 **Maximum Storage Duration**: Session**Type**: HTTP Cookie **page_view_count**Pending
 
 **Maximum Storage Duration**: Session**Type**: HTML Local Storage  
-    *   [YouTube 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**yt-player-caption-persistence**Pending
+    *   [YouTube 1](https://www.tue.nl/en/education/masters-programs/scholarships/#)[Learn more about this provider![Image 21: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**yt-player-caption-persistence**Pending
 
 **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage

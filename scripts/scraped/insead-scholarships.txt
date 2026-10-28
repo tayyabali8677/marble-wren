@@ -933,9 +933,7 @@ Partners:
 *   [Terms & Conditions](https://www.insead.edu/terms-and-conditions)
 *   [Policies & Legislation](https://www.insead.edu/about-insead/policies-and-legislations)
 
-![Image 98](https://id.rlcdn.com/464526.gif)
-
-![Image 100: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/018f143c-d72f-7409-af65-0dd1a047c635/ce94f604-78d2-464d-acf3-1cd86258f3cb/Logo.png)
+![Image 99: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/018f143c-d72f-7409-af65-0dd1a047c635/ce94f604-78d2-464d-acf3-1cd86258f3cb/Logo.png)
 
 By clicking 'Accept All Cookies', you agree to INSEAD and its partners storing cookies on your device to enhance site navigation, remember your preferences, analyse site usage, enable enhanced functionality and personalisation, understand your interests and show you relevant content, enable social media functionality, and assist in our marketing efforts. You may find more information on cookies and how to contact INSEAD, by clicking on 'Cookies Settings'.
 
@@ -943,7 +941,7 @@ Cookies Settings
 
 Accept Necessary Only Accept All Cookies
 
-![Image 101: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/bf3f04ae-ec9c-45e2-ba7e-5cc31e5f5e84/afcbddc2-f8b4-4b36-833d-e9fdce9dffff/XL_png-roundel_digital_media.png)
+![Image 100: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/bf3f04ae-ec9c-45e2-ba7e-5cc31e5f5e84/afcbddc2-f8b4-4b36-833d-e9fdce9dffff/XL_png-roundel_digital_media.png)
 
 ## Cookies Preference Center
 
@@ -1011,4 +1009,4 @@ Confirm My Choices
 
 Accept Necessary Only Allow All Cookies
 
-[![Image 102: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)
+[![Image 101: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)

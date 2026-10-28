@@ -3,8 +3,6 @@ Title: Page not found | IsDB
 
 URL Source: https://www.isdb.org/merit-scholarship-program-for-high-technology
 
-Published Time: Tue, 27 Oct 2026 18:10:59 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

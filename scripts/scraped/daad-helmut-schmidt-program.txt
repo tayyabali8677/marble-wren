@@ -304,7 +304,7 @@ Auch nach der Förderzeit möchten wir den Kontakt der Alumni untereinander und 
 
 ### Jahresbericht
 
-![Image 34: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+![Image 34: Teaser DAAD JB](https://api.daad.de/api/image/tea_sm/media/daad_de/der-daad/kommunikation-publikationen/berichte/teaser_daad_jb.png.webp)
 
 ©
 
@@ -314,7 +314,7 @@ Der Jahresbericht informiert über die wichtigsten Projekte und Zahlen sowie üb
 
 ### Newsletter
 
-![Image 35: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
+![Image 35: Ein Mann in karierten Hemd schaut nachdenklich auf den Bildschirm seines PC's.](https://api.daad.de/api/image/tea_sm/media/daad_de/der-daad/kommunikation-publikationen/newsletter/daad_alumni_newsletter_972x547.jpg.webp)
 
 ©
 
@@ -324,7 +324,7 @@ Erhalten Sie News, Infos zu Projekten, Veranstaltungen und Ausschreibungen sowie
 
 ### DAAD-Perspektiven
 
-![Image 36: Globus](blob:http://localhost/3ad977302d83340c21c3c90f5eed432a)
+![Image 36: Globus](https://api.daad.de/api/image/tea_sm/media/daad_de/der-daad/kommunikation-publikationen/presse/pressebild_awp.jpg.webp)
 
 ©
 
