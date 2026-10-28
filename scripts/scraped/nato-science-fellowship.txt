@@ -249,6 +249,9 @@ NATO Archives
 Publicly disclosed NATO documents
 Archive finding aids
 Access guidelines for NATO Archives Reading Room
+Personal Data Protection at NATO
+Error submiting form
+Success form
 What we do
 Introduction to NATO
 NATO’s purpose
@@ -1028,6 +1031,9 @@ NATO Archives
 Publicly disclosed NATO documents
 Archive finding aids
 Access guidelines for NATO Archives Reading Room
+Personal Data Protection at NATO
+Error submiting form
+Success form
 What we do
 Introduction to NATO
 NATO’s purpose
@@ -1792,6 +1798,9 @@ NATO Archives
 Publicly disclosed NATO documents
 Archive finding aids
 Access guidelines for NATO Archives Reading Room
+Personal Data Protection at NATO
+Error submiting form
+Success form
 What we do
 Introduction to NATO
 NATO’s purpose

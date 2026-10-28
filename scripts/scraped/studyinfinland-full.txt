@@ -557,17 +557,14 @@ Getting started
 Choosing what and where to study
 What kind of degree programmes can I study in English?
 Finland offers around 600 English-taught bachelor’s and master’s degree programmes in a wide range of fields. You can explore programmes and their admission details on Studyinfo.fi and on the universities’ own websites . Some fields, such as medicine, are available only in Finnish or Swedish.
-Not sure which programme to choose? Try Studyinfo.fi’s “I do not know what I want to study” feature to explore your options.
 University or University of Applied Sciences - what is the difference?
 Finland has two types of higher education institutions: universities and universities of applied sciences (UAS).
-Universities focus on academic learning and scientific research, while UAS institutions take a more practical, career-oriented approach with strong links to working life. Universities offer bachelor’s, master’s and doctoral degrees, while UAS institutions offer bachelor’s and master’s degrees.
-Your choice depends on your goals: a university may suit you if you are interested in research and academic study, while a UAS may be a better fit if you prefer practical, professionally oriented learning.
+Universities focus on academic learning and scientific research, while UAS institutions take a more practical, career-oriented approach with strong links to working life. Universities offer bachelor’s, master’s and doctoral degrees, while UAS institutions offer bachelor’s and master’s degrees. Your choice depends on your goals: a university may suit you if you are interested in research and academic study, while a UAS may be a better fit if you prefer practical, professionally oriented learning.
 What is it like to study in Finland?
-Studying in Finland is independent, practical and collaborative. Teaching encourages critical thinking, creativity and active participation, with an informal atmosphere between students and teachers. You'll have opportunities to develop your skills, explore new ideas and take responsibility for your own learning. Explore more about Life in Finland .
+Studying in Finland is independent, practical and collaborative. Teaching encourages critical thinking, creativity and active participation in an informal learning environment. You'll develop your skills, explore new ideas and take responsibility for your own learning.
+Student life combines independent study with active communities, services and extracurricular activities. Student discounts can also help with everyday costs, such as meals and transport. Campus life varies by university and city, so explore your chosen destination to learn more. Explore more about Life in Finland .
 Can I get by in English, or do I need to know Finnish?
-Yes. You can complete an English-taught degree programme in English, and English is widely used in many everyday situations in Finland. However, learning Finnish or Swedish can make everyday life easier and significantly broaden your opportunities for internships, part-time work and employment after graduation. We recommend starting to learn one of Finland’s national languages while you study.
-What is student life like in Finland?
-Student life in Finland combines independent study with active student communities and a wide range of student services. Universities and student organisations offer activities, clubs and opportunities to meet other students, while student discounts can help with everyday costs such as meals and transport. Campus life varies by university and city, so explore the university and destination you are interested in to get a better picture of daily student life.
+You can complete an English-taught degree programme in English, and English is widely used in many everyday situations in Finland. However, learning Finnish or Swedish can make everyday life easier and significantly broaden your opportunities for internships, part-time work and employment after graduation. We recommend starting to learn one of Finland’s national languages while you study.
 Applying to study
 How do I apply to study in Finland?
 You apply to Finnish universities and universities of applied sciences (UAS) online through Studyinfo.fi , Finland’s official national application portal. First find the degree programme you want to apply to, then check its application period, admission requirements and required documents. Some programmes use the national joint application, while others have separate application periods.
@@ -584,7 +581,7 @@ Doctoral studies in Finland typically take four years and are offered by univers
 Explore opportunities on Studyinfo.fi and university websites, and check each university's application requirements. Read more about Doctoral admissions and Doctoral funding .
 Tuition fees, scholarships and costs
 Do I need to pay tuition fees in Finland? Or can I study for free?
-Students from outside the EU/EEA and Switzerland generally need to pay tuition fees for English-taught bachelor’s and master’s degree programmes in Finland. Tuition fees typically range from €9,000 to €20,000 per year, depending on the university and programme. Some programmes may charge higher or lower fees, so always check the exact tuition fee on Studyinfo.fi or with the university you are applying to.
+Students from outside the EU/EEA and Switzerland generally need to pay tuition fees for English-taught bachelor’s and master’s degree programmes in Finland. Tuition fees typically range from €9,000 to €20,000 per year, depending on the university and programme. Check the exact tuition fee on Studyinfo.fi or with the university you are applying to.
 EU/EEA and Swiss students generally do not pay tuition fees. Doctoral programmes do not charge tuition fees, regardless of nationality. Exchange students also generally do not pay tuition fees to the Finnish host university.
 How much does it cost to study in Finland for one year?
 The total annual cost of studying in Finland depends on your nationality, degree programme and living expenses.
@@ -594,12 +591,9 @@ Are scholarships available in Finland?
 Yes. Finnish universities and universities of applied sciences may offer scholarships or tuition fee waivers to students who are required to pay tuition fees. Scholarship schemes, eligibility criteria and amounts vary by university, and they usually cover tuition fees partly or fully rather than living costs. There are no Finnish government scholarships available. Check the scholarship options directly with the university you are applying to, and plan to cover your living expenses independently.
 Moving to and living in Finland
 Do I need a residence permit to study in Finland?
-If you are coming to Finland from outside the EU/EEA to complete a degree, you will generally need a residence permit for studies. The application requires documentation including proof of your study place, sufficient funds and valid insurance. Residence rules differ for EU/EEA citizens and for shorter stays. Doctoral (PhD) students and researchers apply for a researcher's residence permit. Always check the current requirements with the Finnish Immigration Service (Migri) .
-What should I do when I arrive in Finland?
-Your university or UAS will provide arrival and orientation guidance. Depending on your circumstances, you may also need to complete official registration, arrange housing and banking, and take care of other practical matters. Check your institution’s instructions before travelling.
+If you are coming to Finland from outside the EU/EEA to complete a degree, you will generally need a residence permit for studies. The application requires documentation including proof of your study place, sufficient funds and valid insurance. Residence rules differ for EU/EEA citizens and for shorter stays. Doctoral (PhD) students and researchers apply for a researcher's residence permit. Check the current requirements with the Finnish Immigration Service (Migri) .
 How do I find student accommodation in Finland?
-Student housing in Finland is usually provided by local student housing organisations. Apply as soon as you receive confirmation of admission, as demand can be high, especially in autumn.
-Rooms in shared student apartments typically cost €200–€380 per month. You can find housing providers through SOA or ask your university for advice.
+Student housing in Finland is usually provided by local student housing organisations. Apply as soon as you receive confirmation of admission, as demand can be high, especially in autumn. Rooms in shared student apartments typically cost €200–€380 per month. You can find housing providers through SOA or ask your university for advice.
 Can I bring my family with me?
 Eligible family members of a student can apply for a residence permit to join them in Finland. Your family must meet the Finnish Immigration Service’s financial requirements, which depend on the size of your family and where in Finland you live. A family member who receives a residence permit on the basis of family ties has an unrestricted right to work and study in Finland. However, student family housing is limited and employment can be difficult without local-language skills. Check the eligibility criteria, financial requirements and application instructions on the Finnish Immigration Service (Migri) website before making plans.
 Can I pay for my studies by working part-time?
@@ -610,15 +604,12 @@ Yes. If you complete a degree in Finland and do not yet have a job, you may be e
 Can I find a job Finland?
 Employment opportunities vary significantly by field, location, work experience, language skills and economic conditions. Finding a job in Finland can be challenging, especially without Finnish or Swedish language skills. Learning the local language, building professional networks and gaining experience through internships can improve your prospects.
 Your university's career services can help you get started. Find more tips on our Opportunities after graduation page.
-Official information and special situations
-How can I avoid fake universities or misleading information?
-To avoid educational scams, use official sources when checking Finnish universities, degree programmes, admissions and scholarships. Studyinfinland.fi is Finland’s official guide for international students, while Studyinfo.fi is the official national service for finding degree programmes and applying to higher education. You should also verify information on the university’s own official website. Be cautious of fake universities , as well as organisations or social-media accounts promising guaranteed admission, guaranteed visas or “fully funded Finnish government scholarships”.
-Where can I find info about high school or vocational studies in Finland?
-Study in Finland focuses on higher education at Finnish universities and universities of applied sciences. For information about general upper secondary education, vocational education and training, and other study options in Finland, visit Studyinfo.fi . InfoFinland.fi also provides practical information about education and living in Finland in several languages.
 Study in Finland - your official source of information
 Study in Finland is the official guide to Finnish higher education for international students, maintained by the Finnish National Agency for Education. We provide information about studying and living in Finland, including degree programmes, applications, tuition fees and scholarships, student life and what to do after graduation.
 For detailed admission requirements, always check Studyinfo.fi and the university you are applying to.
 For residence permits and immigration matters, refer to the Finnish Immigration Service (Migri) .
+Where can I find info about high school or vocational studies in Finland?
+Study in Finland focuses on higher education at Finnish universities and universities of applied sciences. For information about general upper secondary education, vocational education and training, and other study options in Finland, visit Studyinfo.fi . InfoFinland.fi also provides practical information about education and living in Finland in several languages.
 Updated
 27.10.2026
 Home

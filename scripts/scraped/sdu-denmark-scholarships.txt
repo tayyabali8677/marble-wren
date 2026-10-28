@@ -24,7 +24,6 @@ Markdown Content:
             *   [Admission numbers](https://www.sdu.dk/en/uddannelse/bachelor/bachelor-admission/admission-numbers) 
 
         *   [Find your bachelor’s programme](https://www.sdu.dk/en/uddannelse/bachelor/alle-bacheloruddannelser) 
-        *   [ha](https://www.sdu.dk/en/uddannelse/bachelor/ha) 
         *   [How to apply](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse) 
             *   [Power of attorney](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse/fuldmagt) 
             *   [The Master's degree rule](https://www.sdu.dk/en/uddannelse/bachelor/ansoegning_om_optagelse/kandidatreglen) 
@@ -328,17 +327,6 @@ Markdown Content:
 
     *   [Public sector collaboration](https://www.sdu.dk/en/samarbejde/myndighedsbetjening) 
     *   [Research facilities](https://www.sdu.dk/en/samarbejde/faciliteter) 
-        *   [Test Facilities at TEK](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek) 
-            *   [Acoustics Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/akustiklaboratoriet) 
-            *   [Cathodoluminescence Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/cathodoluminescence_laboratory) 
-            *   [Chemical Composition Nano Lab](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/chemical-compostition-nano-lab) 
-            *   [CREATE Lab](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/create-lab) 
-            *   [Nano Optics Laboratory](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/nano-optics-lab) 
-            *   [Photonics and Imaging Lab](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/photonics-and-imaging-lab) 
-            *   [Psychoacoustics Lab](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/psychoacoustics-lab) 
-            *   [Chemical material analysis with Raman spectroscopy](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/raman-lab) 
-            *   [skabelon-til-facilitet](https://www.sdu.dk/en/samarbejde/faciliteter/testfaciliteter-paa-tek/sensor-lab) 
-
     *   [Tailored business courses](https://www.sdu.dk/en/samarbejde/skraeddersyede-virksomhedskurser) 
     *   [Strategic partnership](https://www.sdu.dk/en/samarbejde/bliverhvervspartner) 
     *   [Technologies](https://www.sdu.dk/en/samarbejde/kommercielle-teknologier) 
@@ -1229,40 +1217,3 @@ The University of Southern Denmark received its first students in Odense in Sept
 [Cookie Settings](javascript:CookieScript.instance.show())
 
 [Whistleblowing scheme at SDU](https://www.sdu.dk/en/service/kontakt/whistleblowerordning)
-
-This website uses tracking cookies
-
-We use cookies to personalize our content and to show you social media features and to analyze our traffic. We also share information about your use of our website with our social media partners and analytics partners. Our partners may combine this data with other information that you have provided to them or that they have collected from your use of their services. Select "Show details" below to see futher information.
-
-[Read more](https://www.sdu.dk/en/om_sdu/Om_dette_websted/Brug_af_cookies)
-
-Necessary
-
-- [x] 
-
- 
-
-Third-party statistics
-
-- [x] 
-
- 
-
-Marketing
-
-- [x] 
-
- 
-
-Functionality
-
-- [x] 
-
- 
-
-Accept all cookies Do not allow cookies Show details
-
-*    Danish
-*    English
-
-English

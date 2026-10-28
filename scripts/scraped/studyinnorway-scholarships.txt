@@ -3,12 +3,16 @@ Title: Page not found | Study in Norway
 
 URL Source: https://www.studyinnorway.no/study-in-norway/scholarships
 
-Published Time: Wed, 28 Oct 2026 04:17:02 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
 [Skip to main content](https://www.studyinnorway.no/study-in-norway/scholarships#main-content)
+
+## Cookies on studyinnorway.no
+
+We never share your information with others. [Read more about how we use cookies.](https://www.studyinnorway.no/privacy-policy)
+
+Accept all Necessary only
 
 [![Image 1: Home](https://www.studyinnorway.no/themes/custom/studyinnorway/logo.svg)](https://www.studyinnorway.no/)
 

@@ -30,7 +30,7 @@ Skip to Footer
 
 ENTER
 
-Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/aioa-icon-type-1.svg)
+Accessibility![Image 1](https://www.skynettechnologies.com/sites/default/files/aioa-icon-type-1.svg)
 
 [Skip to main content](https://www.elte.hu/en/scholarships#main-content)
 
@@ -42,7 +42,7 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
 *   [LinkedIn](https://hu.linkedin.com/school/eotvos-lorand-university-/)
 *   [Tiktok](https://www.tiktok.com/@elteinternational)
 
-[![Image 4: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 5: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
+[![Image 2: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 3: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
 
 *    About ELTE  
 
@@ -248,7 +248,6 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
             *   [Other useful links](https://www.elte.hu/en/other-useful-links)
 
     *   [Regulations](https://www.elte.hu/en/regulations)
-    *   [Brochures](https://www.elte.hu/en/brochures)
     *   [Administration Data](https://www.elte.hu/en/eotvos-lorand-university-administration-data)
 
 *    News  
@@ -271,6 +270,17 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
         *   [Find degree program](https://www.elte.hu/en/find-degree-program)
         *   [Request information](https://www.elte.hu/en/form/request-information)
         *   [How to apply](https://www.elte.hu/en/how-to-apply)
+        *    Funding  
+
+            *   Funding
+            *   [Stipendium Hungaricum](https://www.elte.hu/en/current-students/stipendium-hungaricum/before)
+            *   [Stipendium Hungaricum – Students at Risk](https://www.elte.hu/en/students-at-risk)
+            *   [Scholarship Programme for Christian Young People](https://www.elte.hu/en/current-students/christian-young-people/before)
+            *   [Hungarian Diaspora Scholarship](https://www.elte.hu/en/current-students/disapora/before)
+            *   [For students from the USA](https://www.elte.hu/en/funding-for-students-from-the-usa)
+            *   [For students from Canada](https://www.elte.hu/en/funding-for-students-from-canada)
+            *   [For EIT Digital master students](https://www.elte.hu/en/grant-for-EIT-Digital-master-students)
+
         *   [Meet us in your country](https://www.elte.hu/en/meet-us-in-your-country)
         *   [Official partners in your country](https://www.elte.hu/en/student-recruitment-partners)
         *    Visit us  
@@ -289,18 +299,9 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
         *   [Podcasts](https://www.elte.hu/en/podcasts)
         *   [Webinars](https://www.elte.hu/en/webinars)
         *   [Practical matters](https://www.elte.hu/en/practical-matters)
+        *   [Brochures](https://www.elte.hu/en/brochures)
         *   [About Budapest](https://www.elte.hu/en/about-budapest)
         *   [About Hungary](https://www.elte.hu/en/about-hungary)
-        *    Funding  
-
-            *   Funding
-            *   [Stipendium Hungaricum](https://www.elte.hu/en/current-students/stipendium-hungaricum/before)
-            *   [Stipendium Hungaricum – Students at Risk](https://www.elte.hu/en/students-at-risk)
-            *   [Scholarship Programme for Christian Young People](https://www.elte.hu/en/current-students/christian-young-people/before)
-            *   [Hungarian Diaspora Scholarship](https://www.elte.hu/en/current-students/disapora/before)
-            *   [For students from the USA](https://www.elte.hu/en/funding-for-students-from-the-usa)
-            *   [For students from Canada](https://www.elte.hu/en/funding-for-students-from-canada)
-            *   [For EIT Digital master students](https://www.elte.hu/en/grant-for-EIT-Digital-master-students)
 
     *    Admitted Students  
 
@@ -320,24 +321,22 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
     *    Current Students  
 
         *   Current Students[For students already studying here](https://www.elte.hu/en/current-students)
-        *   [Academic Calendar](https://www.elte.hu/en/academic-calendar)
-        *   [Visa Procedure](https://www.elte.hu/en/visa-procedure)
-        *   [Accommodation](https://www.elte.hu/en/accommodation)
-        *   [Health Insurance](https://www.elte.hu/en/health-insurance)
-        *   [Practical matters](https://www.elte.hu/en/practical-matters)
-        *   [Language courses](https://www.elte.hu/en/language-courses)
-        *   [Outgoing mobility](https://www.elte.hu/en/outgoing-mobility)
-        *   [Libraries](https://www.elte.hu/en/library)
-        *   [Life management support](https://www.elte.hu/en/life-management)
-        *   [Equal opportunities](https://www.elte.hu/en/equal)
-        *   [Career services](https://www.elte.hu/en/career-services)
-        *   [IT support](https://www.elte.hu/en/it-support)
-        *   [Neptun](https://www.elte.hu/en/neptun-administration-of-progress)
-        *   [Sports](https://www.elte.hu/en/sport)
+        *    Academic system  
+
+            *   Academic system
+            *   [ECTS credit system and grading](https://www.elte.hu/en/ects-credit-system-and-grading)
+            *   [NEPTUN - Administration of progress](https://www.elte.hu/en/neptun-administration-of-progress)
+            *   [Academic Calendar](https://www.elte.hu/en/academic-calendar)
+
         *   [Quaestura Office](https://www.elte.hu/en/quaestura-office)
+        *    Student e-administration and finance  
+
+            *   Student e-administration and finance
+            *   [E-administration for Students](https://www.elte.hu/en/e-administration-for-students)
+            *   [Student Finance](https://www.elte.hu/en/student-finance)
+
         *   [Faculty Student Administration Office](https://www.elte.hu/en/faculty-administration-offices)
         *   [International Offices](https://www.elte.hu/en/international-offices)
-        *   [Call for applications](https://www.elte.hu/en/calls-for-applications)
         *    Stipendium Hungaricum  
 
             *   Stipendium Hungaricum[Everything about the scholarship program from applying to graduation](https://www.elte.hu/en/current-students/stipendium-hungaricum)
@@ -389,31 +388,6 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
                 *   [SH 10 Video Interviews](https://www.elte.hu/en/SH10-Video-Interviews)
                 *   [SH 10 Forum Presentations and Videos (in Hungarian)](https://www.elte.hu/en/a-sh10-konferencia-eloadasai)
 
-        *    Scholarship Programme for Christian Young People  
-
-            *   Scholarship Programme for Christian Young People[Everything about the scholarship program from applying to graduation](https://www.elte.hu/en/current-students/christian-young-people)
-            *   [Before arrival](https://www.elte.hu/en/current-students/christian-young-people/before)
-            *    During your studies  
-
-                *   During your studies
-                *   [Scholarship Payment Schedule](https://www.elte.hu/en/scholarship-payment-schedule)
-                *   [Residence Requirement](https://www.elte.hu/en/residence-requirement)
-                *   [Extension request](https://www.elte.hu/en/extension)
-                *   [Minimum credit requirement](https://www.elte.hu/en/minimum-credit-requirement)
-                *   [Pastoral Services](https://www.elte.hu/en/pastoral-services)
-                *   [Faculty mentorcoordinators](https://www.elte.hu/en/faculty-mentorcoordinators)
-                *   [Learning Hungarian](https://www.elte.hu/en/learning-hungarian-as-a-foreign-language-and-culture-scyp)
-                *    Health insurance for scholarship holders  
-
-                    *   Health insurance for scholarship holders
-                    *   [General public health insurance](https://www.elte.hu/en/english-language-general-practitioner-care-in-partnership-with-semmelweis-university)
-                    *   [Private health insurance](https://www.elte.hu/en/private-insurance-for-scholarship-holders)
-
-            *    After graduation  
-
-                *   After graduation
-                *   [Diploma legalisation](https://www.elte.hu/en/legalisation-procedure-of-diplomas)
-
         *    Hungarian Diaspora Scholarship programme  
 
             *   Hungarian Diaspora Scholarship programme[Everything about the scholarship program from applying to graduation](https://www.elte.hu/en/current-students/diaspora)
@@ -439,18 +413,46 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
 
             *   [After](https://www.elte.hu/en/legalisation-procedure-of-diplomas)
 
+        *    Scholarship Programme for Christian Young People  
+
+            *   Scholarship Programme for Christian Young People[Everything about the scholarship program from applying to graduation](https://www.elte.hu/en/current-students/christian-young-people)
+            *   [Before arrival](https://www.elte.hu/en/current-students/christian-young-people/before)
+            *    During your studies  
+
+                *   During your studies
+                *   [Scholarship Payment Schedule](https://www.elte.hu/en/scholarship-payment-schedule)
+                *   [Residence Requirement](https://www.elte.hu/en/residence-requirement)
+                *   [Extension request](https://www.elte.hu/en/extension)
+                *   [Minimum credit requirement](https://www.elte.hu/en/minimum-credit-requirement)
+                *   [Pastoral Services](https://www.elte.hu/en/pastoral-services)
+                *   [Faculty mentorcoordinators](https://www.elte.hu/en/faculty-mentorcoordinators)
+                *   [Learning Hungarian](https://www.elte.hu/en/learning-hungarian-as-a-foreign-language-and-culture-scyp)
+                *    Health insurance for scholarship holders  
+
+                    *   Health insurance for scholarship holders
+                    *   [General public health insurance](https://www.elte.hu/en/english-language-general-practitioner-care-in-partnership-with-semmelweis-university)
+                    *   [Private health insurance](https://www.elte.hu/en/private-insurance-for-scholarship-holders)
+
+            *    After graduation  
+
+                *   After graduation
+                *   [Diploma legalisation](https://www.elte.hu/en/legalisation-procedure-of-diplomas)
+
+        *   [Visa Procedure](https://www.elte.hu/en/visa-procedure)
+        *   [Accommodation](https://www.elte.hu/en/accommodation)
+        *   [Health Insurance](https://www.elte.hu/en/health-insurance)
+        *   [Practical matters](https://www.elte.hu/en/practical-matters)
+        *   [Language courses](https://www.elte.hu/en/language-courses)
+        *   [Outgoing mobility](https://www.elte.hu/en/outgoing-mobility)
+        *   [Libraries](https://www.elte.hu/en/library)
+        *   [Life management support](https://www.elte.hu/en/life-management)
+        *   [Equal opportunities](https://www.elte.hu/en/equal)
+        *   [Career services](https://www.elte.hu/en/career-services)
+        *   [IT support](https://www.elte.hu/en/it-support)
+        *   [Neptun](https://www.elte.hu/en/neptun-administration-of-progress)
+        *   [Sports](https://www.elte.hu/en/sport)
+        *   [Call for applications](https://www.elte.hu/en/calls-for-applications)
         *   [Coronavirus (COVID-19) Information](https://www.elte.hu/en/coronavirus_practical_information)
-        *    Student e-administration and finance  
-
-            *   Student e-administration and finance
-            *   [E-administration for Students](https://www.elte.hu/en/e-administration-for-students)
-            *   [Student Finance](https://www.elte.hu/en/student-finance)
-
-    *    Academic system  
-
-        *   Academic system
-        *   [ECTS credit system and grading](https://www.elte.hu/en/ects-credit-system-and-grading)
-        *   [NEPTUN - Administration of progress](https://www.elte.hu/en/neptun-administration-of-progress)
 
     *    Outgoing mobility  
 
@@ -1021,7 +1023,7 @@ Accessibility![Image 3](https://www.skynettechnologies.com/sites/default/files/a
 
  The requested page could not be found. 
 
-[![Image 6: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 7: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
+[![Image 4: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_3.svg)](https://www.elte.hu/en)[![Image 5: Home](https://www.elte.hu/sites/default/files/ELTE/logo/elte_logo_en_4.svg)](https://www.elte.hu/en)
 
 H-1053 Budapest, Egyetem tér 1-3  
 +36 1 411 6500
@@ -1046,7 +1048,7 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Apply Now](https://apply.elte.hu/)
 *   [Visit us](https://www.elte.hu/en/content/visit-us.t.250?m=119)
 
-[![Image 8](https://www.elte.hu/sites/default/files/ELTE/icons/2026-09/ELTE.elte_zaszloshajo_weboldal_angol_logo_lablec.svg)](https://www.elte.hu/en/flagship-programmes)
+[![Image 6](https://www.elte.hu/sites/default/files/ELTE/icons/2026-09/ELTE.elte_zaszloshajo_weboldal_angol_logo_lablec.svg)](https://www.elte.hu/en/flagship-programmes)
 
  © 2026 Eötvös Loránd University. All rights reserved. 
 
@@ -1059,7 +1061,7 @@ H-1053 Budapest, Egyetem tér 1-3
 
 ## Use of personal data and cookies
 
-We use cookies to improve user experience - you can find more information in our [Privacy notice](https://www.elte.hu/en/privacy-notice-0).
+We use cookies and process personal data for the following purposes: **Functional, Analytics, Advertising and Marketing, Embedded external content & Security**.
 
 [Customize](https://www.elte.hu/en/scholarships# "Open consent dialog")
 

@@ -222,7 +222,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -297,8 +301,6 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/domestic-postgraduate
 
-Published Time: Wed, 28 Oct 2026 04:03:24 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -342,7 +344,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -460,7 +466,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -535,6 +545,8 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/postgraduate-research
 
+Published Time: Wed, 28 Oct 2026 18:07:05 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -578,11 +590,93 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
 [Back to top](https://www.anu.edu.au/apply/postgraduate-research#main-content)
+
+## Acknowledgement of Country
+
+The Australian National University acknowledges, celebrates and pays our respects to the Ngunnawal and Ngambri people of the Canberra region and to all First Nations Australians on whose traditional lands we meet and work, and whose cultures are among the oldest continuing cultures in human history.
+
+*   [Contact ANU](https://www.anu.edu.au/contact)
+*   [Copyright](https://www.anu.edu.au/copyright)
+*   [Disclaimer](https://www.anu.edu.au/disclaimer)
+*   [Privacy](https://www.anu.edu.au/privacy)
+*   [Freedom of Information](https://www.anu.edu.au/freedom-of-information)
+*   [Accessibility](https://www.anu.edu.au/accessibility)
+
+*   TEQSA Provider ID: PRV12002 (Australian University) 
+*   CRICOS Provider Code: 00120C 
+*   ABN: 52 234 063 906
+
+MEMBER OF
+
+*   [![Image 3: APRU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-APRU.svg)](https://www.anu.edu.au/association-of-pacific-rim-universities)
+*   [![Image 4: IARU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-IARU.svg)](https://www.anu.edu.au/international-alliance-of-research-universities)
+*   [![Image 5: Group of Eight Member](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-GroupOfEight.svg)](https://www.anu.edu.au/group-of-eight)
+
+
+===== SOURCE PAGE: https://www.anu.edu.au/apply =====
+Title: Page not found | Australian National University
+
+URL Source: https://www.anu.edu.au/apply
+
+Warning: Target URL returned error 404: Not Found
+
+Markdown Content:
+[Skip to main content](https://www.anu.edu.au/apply#main-content)
+
+[![Image 1: The Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU-black.svg)](https://www.anu.edu.au/)
+
+[](https://www.anu.edu.au/)
+
+[The Australian National University](https://www.anu.edu.au/)
+
+*   [Newsroom](https://www.anu.edu.au/news)
+*   [Events](https://www.anu.edu.au/events)
+*   [Safety](https://services.anu.edu.au/campus-environment/safety-security)
+*   [Maps](https://www.anu.edu.au/maps)
+*   [Services](https://services.anu.edu.au/)
+*   [Library](https://anulib.anu.edu.au/)
+*   [Jobs](https://www.anu.edu.au/jobs)
+*   [Directories](https://www.anu.edu.au/directories)
+
+ The Australian National University
+
+## Main navigation
+
+*   [](https://www.anu.edu.au/)
+*   [About](https://www.anu.edu.au/about)
+*   [Study](https://study.anu.edu.au/)
+*   [Research](https://research.anu.edu.au/)
+*   [Giving](https://www.anu.edu.au/giving)
+*   [Alumni](https://www.anu.edu.au/alumni)
+*   [Current Students](https://www.anu.edu.au/students)
+*   [First Nations](https://www.anu.edu.au/first-nations)
+
+Search
+
+## Breadcrumb
+
+[Home](https://www.anu.edu.au/)Page not found
+
+ The requested page could not be found. 
+
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+
+![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
+
+[Back to top](https://www.anu.edu.au/apply#main-content)
 
 ## Acknowledgement of Country
 
@@ -646,79 +740,3 @@ Consent Leg.Interest
 Confirm my choices
 
 [![Image 8: Powered by Onetrust](https://cdn-au.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
-
-
-===== SOURCE PAGE: https://www.anu.edu.au/apply =====
-Title: Page not found | Australian National University
-
-URL Source: https://www.anu.edu.au/apply
-
-Published Time: Wed, 28 Oct 2026 04:03:45 GMT
-
-Warning: Target URL returned error 404: Not Found
-
-Markdown Content:
-[Skip to main content](https://www.anu.edu.au/apply#main-content)
-
-[![Image 1: The Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU-black.svg)](https://www.anu.edu.au/)
-
-[](https://www.anu.edu.au/)
-
-[The Australian National University](https://www.anu.edu.au/)
-
-*   [Newsroom](https://www.anu.edu.au/news)
-*   [Events](https://www.anu.edu.au/events)
-*   [Safety](https://services.anu.edu.au/campus-environment/safety-security)
-*   [Maps](https://www.anu.edu.au/maps)
-*   [Services](https://services.anu.edu.au/)
-*   [Library](https://anulib.anu.edu.au/)
-*   [Jobs](https://www.anu.edu.au/jobs)
-*   [Directories](https://www.anu.edu.au/directories)
-
- The Australian National University
-
-## Main navigation
-
-*   [](https://www.anu.edu.au/)
-*   [About](https://www.anu.edu.au/about)
-*   [Study](https://study.anu.edu.au/)
-*   [Research](https://research.anu.edu.au/)
-*   [Giving](https://www.anu.edu.au/giving)
-*   [Alumni](https://www.anu.edu.au/alumni)
-*   [Current Students](https://www.anu.edu.au/students)
-*   [First Nations](https://www.anu.edu.au/first-nations)
-
-Search
-
-## Breadcrumb
-
-[Home](https://www.anu.edu.au/)Page not found
-
- The requested page could not be found. 
-
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
-
-![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
-
-[Back to top](https://www.anu.edu.au/apply#main-content)
-
-## Acknowledgement of Country
-
-The Australian National University acknowledges, celebrates and pays our respects to the Ngunnawal and Ngambri people of the Canberra region and to all First Nations Australians on whose traditional lands we meet and work, and whose cultures are among the oldest continuing cultures in human history.
-
-*   [Contact ANU](https://www.anu.edu.au/contact)
-*   [Copyright](https://www.anu.edu.au/copyright)
-*   [Disclaimer](https://www.anu.edu.au/disclaimer)
-*   [Privacy](https://www.anu.edu.au/privacy)
-*   [Freedom of Information](https://www.anu.edu.au/freedom-of-information)
-*   [Accessibility](https://www.anu.edu.au/accessibility)
-
-*   TEQSA Provider ID: PRV12002 (Australian University) 
-*   CRICOS Provider Code: 00120C 
-*   ABN: 52 234 063 906
-
-MEMBER OF
-
-*   [![Image 3: APRU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-APRU.svg)](https://www.anu.edu.au/association-of-pacific-rim-universities)
-*   [![Image 4: IARU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-IARU.svg)](https://www.anu.edu.au/international-alliance-of-research-universities)
-*   [![Image 5: Group of Eight Member](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-GroupOfEight.svg)](https://www.anu.edu.au/group-of-eight)

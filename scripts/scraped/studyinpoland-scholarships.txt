@@ -81,21 +81,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-China
-USA
-EHEF
-scholarship
+university
+engineering
+Erasmus
+coronavirus
+Ukraine
 Science without Borders
 RSG!P
-Ukraine
-Erasmus
-university
-internationalisation
-coronavirus
-grant
-Brazil
-engineering
+USA
+EHEF
 research
+Brazil
+internationalisation
+China
+grant
+scholarship
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/how-to-apply =====
@@ -217,21 +217,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-Science without Borders
-internationalisation
-China
-Erasmus
-Ukraine
-grant
 university
+Science without Borders
+Brazil
+EHEF
+China
 research
 RSG!P
-EHEF
-coronavirus
 USA
-Brazil
-scholarship
 engineering
+grant
+Erasmus
+coronavirus
+scholarship
+internationalisation
+Ukraine
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/scholarships =====
@@ -317,21 +317,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-university
-grant
-EHEF
-Ukraine
-engineering
-China
-internationalisation
-Brazil
-coronavirus
-scholarship
-RSG!P
-Science without Borders
 research
-USA
+Ukraine
+Science without Borders
+China
+coronavirus
+Brazil
 Erasmus
+engineering
+scholarship
+USA
+grant
+internationalisation
+university
+EHEF
+RSG!P
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/lane-kirkland-scholarship-program =====
@@ -493,20 +493,20 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-RSG!P
-Erasmus
-USA
-Brazil
-engineering
-EHEF
-research
-scholarship
-coronavirus
-grant
 China
+EHEF
+Erasmus
 Ukraine
+grant
+Brazil
 university
 Science without Borders
+research
+RSG!P
+engineering
+scholarship
+coronavirus
+USA
 internationalisation
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
@@ -565,7 +565,9 @@ POLISH HEIs
 SCHOLARSHIPS
 Publications
 Visegrad Scholarship Programme
-The International Visegrad Fund offers Master and Post-Master schol­ar­ships awarded to selected students for 1 or 2 semes­ters (for MA scholar­ships within the In-Coming scheme 1- to 4-semester schol­ar­ships can be awarded). Citizens of the fol­low­ing coun­tries and ter­ri­to­ries can apply: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, Serbia, and Ukraine. On applying all appli­cants must have completed at least 4 semes­ters of university studies. There are various scholarship schemes available. Further information is accessible on the Visegrad Fund website:  http://visegradfund.org/scholarships/
+The International Visegrad Fund offers scholarships for Master’s and post-Master’s students and researchers for study or research periods of up to two semesters. Citizens of Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo, Moldova, Montenegro, North Macedonia, Serbia and Ukraine may apply for scholarships at eligible institutions in the Visegrad countries: Czechia, Hungary, Poland and Slovakia.
+Applicants for Master’s-level scholarships must hold a bachelor’s degree or have completed at least six semesters of higher education by the start of the scholarship period. Applicants for post-Master’s scholarships must hold at least a Master’s degree or equivalent. Additional eligibility conditions apply, including requirements concerning the applicant’s country of citizenship, previous studies and the location of the host institution.
+Further information on eligibility, application procedures and current calls is available on the International Visegrad Fund website:  http://visegradfund.org/scholarships/
 STUDYFINDER
 Area
 - Any - Agricultural, forestry and veterinary sciences Arts Biological sciences Humanities Medical, health and sport sciences Science Social sciences Technological sciences
@@ -581,21 +583,21 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
-university
-coronavirus
-scholarship
-Ukraine
-RSG!P
-internationalisation
-Science without Borders
-research
-grant
-Erasmus
-China
-Brazil
 engineering
-USA
+coronavirus
+Ukraine
+grant
+internationalisation
+research
+RSG!P
+university
 EHEF
+Erasmus
+Science without Borders
+Brazil
+scholarship
+China
+USA
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.
 
 ===== SOURCE PAGE: https://www.study.gov.pl/banach-nawa-programme =====
@@ -681,19 +683,19 @@ Polna 40
 Poland
 Tel. +48 22 390 35 00
 News tag cloud
+engineering
+university
+grant
+Ukraine
+Erasmus
+internationalisation
+coronavirus
+RSG!P
+scholarship
 research
 EHEF
+Science without Borders
+Brazil
 China
 USA
-Brazil
-internationalisation
-Science without Borders
-scholarship
-Ukraine
-engineering
-Erasmus
-grant
-RSG!P
-coronavirus
-university
 Copyright © 2014 - 2026 NAWA &bull; MNISW . All rights reserved.

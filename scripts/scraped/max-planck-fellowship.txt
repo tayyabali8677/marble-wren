@@ -224,4 +224,6 @@ Max-Planck-Gesellschaft
 
 [Im neuen Fenster öffnen](https://www.mpg.de/de?print=yes)
 
- Geschätzte DIN-A4 Seiten-Breite
+ Geschätzte DIN-A4 Seiten-Breite 
+
+Esc

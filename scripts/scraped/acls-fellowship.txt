@@ -116,11 +116,10 @@ Close
         *   [Notable Awardees](https://www.acls.org/notable-fellows-and-grantees/)
 
 *   [News & Events](https://www.acls.org/news-events/)Toggle SubNav
+    *   [2027 ACLS Annual Meeting](https://www.acls.org/annual-meetings/)
+    *   [News](https://www.acls.org/acls-news/)
     *   [Events](https://www.acls.org/acls-events/)Toggle SubNav
         *   [Past Event Videos](https://www.acls.org/acls-resources/?_resource=past-event)
-
-    *   [News](https://www.acls.org/acls-news/)
-    *   [ACLS Annual Meetings](https://www.acls.org/annual-meetings/)
 
 *   [Support ACLS](https://www.acls.org/support/)Toggle SubNav
     *   [Impact of Giving](https://www.acls.org/impact-of-giving/)
@@ -188,11 +187,10 @@ Search Search[Apply](https://www.acls.org/online-fellowship-and-grant-administra
         *   [Notable Awardees](https://www.acls.org/notable-fellows-and-grantees/)
 
 *   [News & Events](https://www.acls.org/news-events/)
+    *   [2027 ACLS Annual Meeting](https://www.acls.org/annual-meetings/)
+    *   [News](https://www.acls.org/acls-news/)
     *   [Events](https://www.acls.org/acls-events/)
         *   [Past Event Videos](https://www.acls.org/acls-resources/?_resource=past-event)
-
-    *   [News](https://www.acls.org/acls-news/)
-    *   [ACLS Annual Meetings](https://www.acls.org/annual-meetings/)
 
 *   [Support ACLS](https://www.acls.org/support/)
     *   [Impact of Giving](https://www.acls.org/impact-of-giving/)

@@ -3,6 +3,8 @@ Title: Home
 
 URL Source: https://www.undp.org/
 
+Published Time: Wed, 28 Oct 2026 18:40:06 GMT
+
 Markdown Content:
 [Skip to main content](https://www.undp.org/#main-content)
 
@@ -516,7 +518,7 @@ news**
 
 [![Image 57: Worker wearing a hat tending rows of young plants in nursery bags outdoors.](https://www.undp.org/sites/g/files/zskgke326/files/styles/featured_content_card_mobile_343_x_150_/public/2026-10/undp-colombia-sembremos-confianza-initiative-crops.jpg?h=56d0ca2e&itok=zYPXhWq8) ###### Stories ##### Protecting nature, sustaining peace How biodiversity conservation strengthens climate resilience, supports livelihoods and brings communities together Read more](https://www.undp.org/stories/protecting-nature-sustaining-peace)
 
-###### [Stories ##### From farm to table Innovating at every step of the food supply chain Read more](https://www.undp.org/stories/farm-table)
+[![Image 58: Five smiling women in colorful hijabs hold a large round pizza outdoors beside a brick wall.](https://www.undp.org/sites/g/files/zskgke326/files/styles/featured_content_card_mobile_343_x_150_/public/2026-10/undp-chad-livelihood-abeche-34.jpg?h=fd0a8c92&itok=t-zO5cfL) ###### Stories ##### From farm to table Innovating at every step of the food supply chain Read more](https://www.undp.org/stories/farm-table)
 
 [×](javascript:void(0) "Clear search box")
 
@@ -528,7 +530,7 @@ Relevance
 
 Date
 
-[![Image 58: back](https://www.undp.org/libraries/undp--design-system-assets/images/back.svg) Back](https://www.undp.org/#)
+[![Image 59: back](https://www.undp.org/libraries/undp--design-system-assets/images/back.svg) Back](https://www.undp.org/#)
 
 current selection
 
@@ -542,7 +544,7 @@ current selection
 
 ### UNDP GLOBAL
 
-![Image 59](https://www.undp.org/themes/custom/undpglobal/images/icon-search.svg)
+![Image 60](https://www.undp.org/themes/custom/undpglobal/images/icon-search.svg)
 
 Search offices [](https://www.undp.org/)
 
@@ -1157,7 +1159,7 @@ Zimbabwe
 
  Filter 
 
-[![Image 60: back](https://www.undp.org/libraries/undp--design-system-assets/images/back.svg) Back](https://www.undp.org/#)
+[![Image 61: back](https://www.undp.org/libraries/undp--design-system-assets/images/back.svg) Back](https://www.undp.org/#)
 
 ## Filters
 
@@ -1173,9 +1175,9 @@ Office Type
 
 Show results
 
-![Image 61](https://www.undp.org/libraries/undp--design-system-assets/images/external-default.svg)
+![Image 62](https://www.undp.org/libraries/undp--design-system-assets/images/external-default.svg)
 
-[![Image 62: UNDP logo](https://www.undp.org/sites/g/files/zskgke326/files/2022-04/undp-logo-white.svg)](https://www.undp.org/)
+[![Image 63: UNDP logo](https://www.undp.org/sites/g/files/zskgke326/files/2022-04/undp-logo-white.svg)](https://www.undp.org/)
 ##### United Nations
 
 Development Programme
@@ -1196,7 +1198,7 @@ Development Programme
 
 [Careers](https://www.undp.org/es/uruguay/empleo)[Procurement](https://www.undp.org/es/uruguay/adquisiciones)[UNDP Shop](https://shop.undp.org/)[UNDP Giving](https://www.undp.org/impact-giving)
 
-![Image 63: icon-global](https://www.undp.org/libraries/undp--design-system-assets/images/globe-white.svg)[![Image 64: icon-search](https://www.undp.org/libraries/undp--design-system-assets/images/search-white.svg)](https://www.undp.org/)
+![Image 64: icon-global](https://www.undp.org/libraries/undp--design-system-assets/images/globe-white.svg)[![Image 65: icon-search](https://www.undp.org/libraries/undp--design-system-assets/images/search-white.svg)](https://www.undp.org/)
 
 *   [Report fraud, abuse, misconduct](https://www.undp.org/accountability/audit/investigations)
 *   [Submit social or environmental complaint](https://www.undp.org/accountability/audit/social-and-environmental-compliance-review-and-stakeholder-response-mechanism)
@@ -1211,4 +1213,4 @@ Development Programme
 
 © United Nations Development Programme
 
-![Image 65:  ](https://analytics.twitter.com/i/adsct?02txn_id=nxcph&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0)
+![Image 66:  ](https://analytics.twitter.com/i/adsct?02txn_id=nxcph&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0)

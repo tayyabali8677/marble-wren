@@ -702,6 +702,7 @@ Filter
 Suchbegriff
 Geförderte Studienabschlüsse
 Alle Abschlüsse
+Auszubildende
 Bachelor-Studenten
 Diplom/Magister-Studenten
 Executive Education
@@ -792,11 +793,13 @@ Wirtschaftswissenschaften
 Zahnmedizin
 Regionen
 Afrika
+Asien
 Australien, Neuseeland
 Belgien
 China
 Deutschland
 Dieses Stipendium ist in allen Regionen verfügbar
+Europa
 Frankreich
 Großbritannien / Irland
 GUS
@@ -859,8 +862,8 @@ Merken
 e&#8209;fellows.net : Wiwi-Stipendium
 600 Euro in zehn Minuten - so schnell wirst du Wiwi-Stipendiat:in! Und das nicht nur mit Bestnoten. Während der sechs Monate Förderung bekommst du außerdem eine:n berufstätige:n Mentor:in an die Se...
 Merken
-ASA-Programm : Entwicklungspolitisches Lern- und Qualifizierungsprogramm
-Bist du zwischen 21 und 30 Jahren alt und aktuell immatrikuliert? Oder bringst du eine abgeschlossene Berufsausbildung mit? Dann ist das ASA-Programm vielleicht der nächste Schritt für dich! Auch w...
+ASA-Programm : Entwicklungspolitisches Austausch- und Stipendienprogramm
+Du bist zwischen 21 und 30 Jahre alt und willst in internationalen Projekten mitarbeiten? Ob Studium oder Ausbildung – beim ASA-Programm kannst du aus mehr als 100 nachhaltigen Projekten in rund 4...
 Merken
 CHECK24 : GenDev IT Stipendium
 Mit dem Generation Developer (GenDev) IT Stipendium möchte CHECK24 ambitionierte, junge Talente im Bereich der Informatik fachlich und finanziell fördern. Ziel des Stipendiums ist, passionierte IT-...

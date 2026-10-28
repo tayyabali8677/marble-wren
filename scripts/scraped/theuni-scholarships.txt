@@ -3,8 +3,6 @@ Title: The Uni Guide
 
 URL Source: https://www.theuniguide.co.uk/advice/student-finance/scholarships-uk
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [![Image 1: The Student Room Group](https://public.thestudentroom.co.uk/theme/tug/images/logos/logo-block-colour-400.webp)![Image 2: The Student Room Group](https://public.thestudentroom.co.uk/theme/tsr/images/logos/colour-logo-only.svg)](https://www.theuniguide.co.uk/)
 

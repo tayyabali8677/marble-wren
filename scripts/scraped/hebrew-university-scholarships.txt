@@ -3,6 +3,10 @@ Title: 404 - Page not found
 
 URL Source: https://info.huji.ac.il/en/financial-aid
 
+Published Time: Wed, 28 Oct 2026 18:40:44 GMT
+
+Warning: Target URL returned error 404: Not Found
+
 Markdown Content:
 [Skip to main content](https://info.huji.ac.il/en/financial-aid#main-content)
 

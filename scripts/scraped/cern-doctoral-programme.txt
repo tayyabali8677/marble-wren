@@ -146,7 +146,7 @@ Technology Transfer & Innovation
 Experience level
 Entry level
 0 - 2 year(s)
-12
+10
 Experienced
 > 6 years
 10
@@ -159,9 +159,9 @@ Profile
 Administrative
 8
 Engineering
-18
+17
 Research
-9
+8
 Technical
 10
 More filters
@@ -190,6 +190,7 @@ CIO - Office of the Chief Information Officer
 DG – Director General’s Unit
 EN - Engineering
 EP – Experimental Physics
+FAP – Finance and Administrative Processes
 FCC
 HR – Human Resources
 IPT – Industry, Procurement and Knowledge Transfer

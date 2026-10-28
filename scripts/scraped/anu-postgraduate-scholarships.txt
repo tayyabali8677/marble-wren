@@ -179,7 +179,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/domestic-undergraduate
 
-Published Time: Wed, 28 Oct 2026 04:03:19 GMT
+Published Time: Wed, 28 Oct 2026 18:06:50 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -224,7 +224,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -299,7 +303,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/domestic-postgraduate
 
-Published Time: Wed, 28 Oct 2026 04:03:24 GMT
+Published Time: Wed, 28 Oct 2026 18:06:56 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -344,7 +348,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -419,7 +427,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/international-applications
 
-Published Time: Wed, 28 Oct 2026 04:03:30 GMT
+Published Time: Wed, 28 Oct 2026 18:07:01 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -464,7 +472,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -539,7 +551,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply/postgraduate-research
 
-Published Time: Wed, 28 Oct 2026 04:03:40 GMT
+Published Time: Wed, 28 Oct 2026 18:07:05 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -584,7 +596,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 
@@ -659,7 +675,7 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply
 
-Published Time: Wed, 28 Oct 2026 04:03:45 GMT
+Published Time: Wed, 28 Oct 2026 18:07:09 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -702,7 +718,11 @@ Search
 
  The requested page could not be found. 
 
-[](https://www.facebook.com/TheAustralianNationalUniversity)[](https://twitter.com/anumedia)[](https://www.linkedin.com/school/162587/)[](https://www.youtube.com/user/ANUchannel)[](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
+*   [](https://www.facebook.com/TheAustralianNationalUniversity)
+*   [](https://twitter.com/anumedia)
+*   [](https://www.linkedin.com/school/162587/)
+*   [](https://www.youtube.com/user/ANUchannel)
+*   [](http://www.anu.edu.au/news/publications-social-media/anu-wechat)
 
 ![Image 2: Celebrating 80 years of the Australian National University](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-ANU80th.png)
 

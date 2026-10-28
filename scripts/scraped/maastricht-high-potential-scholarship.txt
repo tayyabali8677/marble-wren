@@ -1306,6 +1306,7 @@ Past events
                         *   [2022 Highlights](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-brussels/activities/past-events/2022-highlights)
                         *   [2021 Highlights](https://www.maastrichtuniversity.nl/about-um/other-offices/campus-brussels/activities/past-events/2021-highlights)
 
+                *   [Where are they now?](https://www.maastrichtuniversity.nl/where-are-they-now)
                 *   [News](https://www.maastrichtuniversity.nl/brusselshub/news)
                 *   [Education](https://www.maastrichtuniversity.nl/about-um/other-offices/brussels-hub/education)Open Education
 
@@ -1732,7 +1733,7 @@ The page you were trying to reach cannot be found. The link might be outdated, c
 *   [Bachelor's programmes](https://www.maastrichtuniversity.nl/education/bachelor/programmes)
 *   [Master's programmes](https://www.maastrichtuniversity.nl/education/master/programmes)
 
-*   [Research pages](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research)
+*   [Research pages](https://www.maastrichtuniversity.nl/research)
 *   [Support pages](https://www.maastrichtuniversity.nl/support)
 *   [Library pages](https://library.maastrichtuniversity.nl/)
 *   [Contact information](https://www.maastrichtuniversity.nl/contact)

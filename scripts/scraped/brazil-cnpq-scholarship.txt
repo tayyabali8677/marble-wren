@@ -302,11 +302,11 @@ Assinatura Eletrônica
 2
 Consultar Meu Imposto de Renda
 3
-Consultar CPF
+Obter passaporte e outros documentos de viagem
 4
 Consultar dados do Cadastro Único
 5
-Obter passaporte e outros documentos de viagem
+Consultar CPF
 6
 Emitir DAS do MEI
 Serviços em destaque do govbr
@@ -677,7 +677,7 @@ Desenrola Brasil
 assinatura
 mei
 imposto de renda
-cnh
+enem
 Termos mais buscados
 Desenrola Brasil
 assinatura
@@ -1181,7 +1181,7 @@ Desenrola Brasil
 assinatura
 mei
 imposto de renda
-cnh
+enem
 Termos mais buscados
 Desenrola Brasil
 assinatura
@@ -1950,7 +1950,7 @@ Desenrola Brasil
 assinatura
 mei
 imposto de renda
-cnh
+enem
 Termos mais buscados
 Desenrola Brasil
 assinatura
@@ -2057,7 +2057,7 @@ Obter passaporte
 Iniciar
 Avaliação:
 4.8
-(81301)
+(81313)
 Avaliação
 O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5.
 Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço.
@@ -2419,7 +2419,7 @@ Desenrola Brasil
 assinatura
 mei
 imposto de renda
-cnh
+enem
 Termos mais buscados
 Desenrola Brasil
 assinatura

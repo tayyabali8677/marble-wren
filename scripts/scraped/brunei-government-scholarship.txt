@@ -46,7 +46,7 @@ Markdown Content:
     *   [Teachers’ Lounge](https://lounge.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Flounge.moe.gov.bn%2F)
     *   [School Leaders’ Lounge](https://leaders.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Fleaders.moe.gov.bn%2F)
     *   [Student Lounge](https://students.moe.gov.bn/)
-    *   [PISA](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
+    *   [PISA (Southeast Asia PISA Education Consortium)](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
         *   [PISA for Students and Parents](https://www.moe.gov.bn/pisa-for-students-and-parents/)
         *   [PISA for Teachers](https://www.moe.gov.bn/pisa-for-teachers/)
 
@@ -109,7 +109,7 @@ Markdown Content:
     *   [Teachers’ Lounge](https://lounge.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Flounge.moe.gov.bn%2F)
     *   [School Leaders’ Lounge](https://leaders.moe.gov.bn/wp-login.php?redirect_to=https%3A%2F%2Fleaders.moe.gov.bn%2F)
     *   [Student Lounge](https://students.moe.gov.bn/)
-    *   [PISA](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
+    *   [PISA (Southeast Asia PISA Education Consortium)](https://www.moe.gov.bn/Pages/BruneiDarussalamGovernmentScholarship.aspx#)
         *   [PISA for Students and Parents](https://www.moe.gov.bn/pisa-for-students-and-parents/)
         *   [PISA for Teachers](https://www.moe.gov.bn/pisa-for-teachers/)
 
