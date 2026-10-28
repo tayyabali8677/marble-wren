@@ -3861,5 +3861,33 @@
     "country": "European Union",
     "url": "https://www.educanada.ca/scholarships-bourses/index.aspx?lang=eng",
     "note": "Mentioned on the EduCanada portal for international and Canadian mobility."
+  },
+  {
+    "slug": "un-young-professionals-program",
+    "name": "UN Young Professionals Program",
+    "country": "United Nations",
+    "url": "https://careers.un.org/",
+    "note": "Extracted from UN Young Professionals Program 2026 UN YPP Careers listing."
+  },
+  {
+    "slug": "mext-scholarship-tokyo-tech",
+    "name": "Tokyo Institute of Technology MEXT Scholarship",
+    "country": "Japan",
+    "url": "https://www.titech.ac.jp/english/",
+    "note": "MEXT scholarship via Tokyo Institute of Technology."
+  },
+  {
+    "slug": "mext-scholarship-university-of-tokyo",
+    "name": "University of Tokyo MEXT Scholarship",
+    "country": "Japan",
+    "url": "https://www.u-tokyo.ac.jp/en/",
+    "note": "MEXT scholarship via University of Tokyo."
+  },
+  {
+    "slug": "mext-scholarship-grips",
+    "name": "YLP MEXT Scholarship at GRIPS",
+    "country": "Japan",
+    "url": "https://www.grips.ac.jp/en/",
+    "note": "Young Leaders Program MEXT Scholarship at National Graduate Institute for Policy Studies."
   }
 ]
