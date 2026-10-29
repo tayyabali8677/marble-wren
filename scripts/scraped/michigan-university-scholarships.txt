@@ -89,6 +89,6 @@ You may find these frequently visited LSA and university web resources helpful:
 *   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
 *   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
 *   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://ii.umich.edu/content/ii-directory/armenian/en/news-events/all-events/workshops/teaching-about-genocide-approaches-and-challenges.lsa-image-servlet.jpg)
+*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://prod.lsa.umich.edu/content/michigan-lsa/computingfor/en/news-events/all-news/search-news/For%20more%20the%20conference%20and%20the%20award%20see%20here.html)
 
  © [2026 Regents of the University of Michigan](http://regents.umich.edu/)

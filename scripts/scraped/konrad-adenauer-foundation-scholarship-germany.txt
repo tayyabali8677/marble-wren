@@ -365,7 +365,7 @@ Home
 
 ## Asset-Herausgeber
 
-[![Image 4: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/hd-resolution/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
+[![Image 4: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/teaser/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
 Historische Aufholjagd in Brasilien
 
@@ -374,7 +374,7 @@ Historische Aufholjagd in Brasilien
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
-[![Image 5: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/hd-resolution/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
+[![Image 5: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/teaser/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
 Monitor
 
@@ -383,7 +383,7 @@ Monitor
 
 [Mehr erfahren](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
-[![Image 6: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/hd-resolution/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
+[![Image 6: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/teaser/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
 Think Tank Report
 
@@ -392,7 +392,7 @@ Think Tank Report
 
 [Mehr erfahren](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
-[![Image 7: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/hd-resolution/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
+[![Image 7: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/teaser/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
 
 US-Midterms 2026
 
@@ -401,7 +401,7 @@ US-Midterms 2026
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
 
-[![Image 8: Grundgesetzt](https://www.kas.de/o/adaptive-media/image/49627698/hd-resolution/Coverbild+Grundgesetz.jpg?t=1791186562394) IMAGO / IlluPics](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
+[![Image 8: Grundgesetzt](https://www.kas.de/o/adaptive-media/image/49627698/teaser/Coverbild+Grundgesetz.jpg?t=1791186562394) IMAGO / IlluPics](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
 
 Monitor
 
@@ -644,7 +644,7 @@ YouTube
 
 onlinekas
 
-8 Std.
+18 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -916,7 +916,7 @@ Konrad-Adenauer-Stiftung
 
 onlinekas
 
-8 Std.
+18 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -1262,23 +1262,3 @@ Weitere Angebote der Stiftung
 *   [Sitemap](https://www.kas.de/de/sitemap)
 
 © Konrad-Adenauer-Stiftung e.V. 2026
-
-Diese Webseite verwendet Cookies, die für den Betrieb und die Sicherheit der Seite notwendig sind. Darüber hinaus sammelt die Webseite anonyme Nutzerdaten für statistische Analysen und um eingebundene Inhalte externer Seiten anzuzeigen. Die Cookie-Einstellungen können Sie jederzeit ändern. [Erfahren Sie mehr](https://www.kas.de/web/guest/datenschutz)
-
-- [x]  
-
-Notwendige technische Cookies
-
-- [x]  
-
-Cookies für statistische Analysen
-
-- [x]  
-
-Cookies zur Anzeige eingebundener Inhalte
-
-Hinweis: Zur Aktivierung Ihrer Änderung wird die Seite neu geladen
-
-[Speichern](https://www.kas.de/)[Alle Akzeptieren](https://www.kas.de/)
-
-[](https://www.kas.de/)

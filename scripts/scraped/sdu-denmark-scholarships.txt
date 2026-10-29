@@ -636,7 +636,7 @@ Markdown Content:
     *   [Directory Finding your way at the University of Southern Denmark](https://www.sdu.dk/en/service/vejviser)
 
 *   [Start page](https://www.sdu.dk/en/uddannelse/international/studietilbud/scholarships)
-    *   [Login](https://www.sdu.dk/identity/login/website/SitecoreIdentityServer/IdS4-AzureAd-Frontend?returnUrl=https://www.sdu.dk/en/pagenotfound?fromlogin=1)
+    *   [Login](https://www.sdu.dk/identity/login/website/SitecoreIdentityServer/IdS4-AzureAd-Frontend?returnUrl=https://www.sdu.dk/en/pagenotfound?postSignIn=1)
     *   [Reset default page](javascript:localStorage.setItem('defaultPage', 'none');alert('The default page has been reset.');location.reload();)
     *   [Set as default page](javascript:localStorage.removeItem('none');localStorage.setItem('defaultPage', window.location.href);localStorage.setItem('defaultPageExpiry', '0');location.reload();)
 
@@ -1217,3 +1217,40 @@ The University of Southern Denmark received its first students in Odense in Sept
 [Cookie Settings](javascript:CookieScript.instance.show())
 
 [Whistleblowing scheme at SDU](https://www.sdu.dk/en/service/kontakt/whistleblowerordning)
+
+This website uses tracking cookies
+
+We use cookies to personalize our content and to show you social media features and to analyze our traffic. We also share information about your use of our website with our social media partners and analytics partners. Our partners may combine this data with other information that you have provided to them or that they have collected from your use of their services. Select "Show details" below to see futher information.
+
+[Read more](https://www.sdu.dk/en/om_sdu/Om_dette_websted/Brug_af_cookies)
+
+Necessary
+
+- [x] 
+
+ 
+
+Third-party statistics
+
+- [x] 
+
+ 
+
+Marketing
+
+- [x] 
+
+ 
+
+Functionality
+
+- [x] 
+
+ 
+
+Accept all cookies Do not allow cookies Show details
+
+*    Danish
+*    English
+
+English

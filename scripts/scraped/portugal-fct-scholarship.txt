@@ -1,163 +1,1298 @@
 ===== SOURCE PAGE: https://www.fct.pt/en/support/bolsas-de-investigacao/ =====
-Title: Studentships for Doctoral Studies - FCT
-
-URL Source: https://www.fct.pt/en/support/bolsas-de-investigacao/
-
-Warning: Target URL returned error 500: Internal Server Error
-
-Markdown Content:
-[Skip to main content](https://www.fct.pt/en/support/bolsas-de-investigacao/#main "Skip to main content")
-
-[](https://www.fct.pt/en/ "Homepage")
-*   [Financing](javascript:void(0); "Access Financing") 
-
-Financing 
-
-    *   [Financing Programs](https://www.fct.pt/en/financiamento/programas-de-financiamento/ "Access Financing Programs in Financing")
-    *   [International](https://www.fct.pt/en/internacional/ "Access International Financing")
-    *   [Awards](https://www.fct.pt/en/financiamento/premios/ "Access Financing Awards")
-
+Studentships for Doctoral Studies - FCT
+Skip to main content
+Financing
+Financing
+Financing Programs
+International
+Awards
 Quick Links
-
-    *   [Studentships](https://www.fct.pt/en/financiamento/programas-de-financiamento/bolsas/ "Access the Quick Links menu link")
-    *   [Computing](https://www.fct.pt/en/financiamento/programas-de-financiamento/computacao/ "Access the Quick Links menu link")
-    *   [Scientific Employment](https://www.fct.pt/en/financiamento/programas-de-financiamento/emprego-cientifico/ "Access the Quick Links menu link")
-    *   [R&D projects](https://www.fct.pt/en/financiamento/programas-de-financiamento/projetos-id/ "Access the Quick Links menu link")
-    *   [R&D institutions](https://www.fct.pt/en/financiamento/programas-de-financiamento/instituicoes-de-id/ "Access the Quick Links menu link")
-    *   [Infrastructure](https://www.fct.pt/en/financiamento/programas-de-financiamento/infraestruturas-de-investigacao/ "Access the Quick Links menu link")
-    *   [Other Support](https://www.fct.pt/en/financiamento/programas-de-financiamento/outros-apoios/ "Access the Quick Links menu link")
-
-*   [Calls](javascript:void(0); "Access Calls") 
-
-Calls 
-
-    *   [Open Calls](https://www.fct.pt/en/concursos/?tab=open&paged=1 "Access Calls in Calls")
-    *   [Upcoming Calls](https://www.fct.pt/en/concursos/?tab=scheduled&paged=1 "Access Calls in Calls")
-    *   [Closed Calls](https://www.fct.pt/en/concursos/?tab=closed&paged=1 "Access Calls in Calls")
-    *   [2026 Calls Schedule](https://www.fct.pt/en/wp-content/uploads/2026/03/CalendarioConcursosFCT_2026.pdf "Access the Calls 2026 Calls Schedule under \" Calls\"")
-
+Studentships
+Computing
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Other Support
+Calls
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+2026 Calls Schedule
 Quick Links
-
-    *   [Studentships](https://www.fct.pt/en/concursos/?tab=open&paged=1&type=6 "Access the Quick Links menu link")
-    *   [Scientific Employment](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=4 "Access the Quick Links menu link")
-    *   [R&D projects](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=2 "Access the Quick Links menu link")
-    *   [R&D institutions](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=5 "Access the Quick Links menu link")
-    *   [Infrastructure](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=1 "Access the Quick Links menu link")
-    *   [Awards](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=5 "Access the Quick Links menu link")
-    *   [Other Support](https://www.fct.pt/en/concursos/?tab=closed&paged=1&type=7 "Access the Quick Links menu link")
-
-*   [Services](javascript:void(0); "Access Services") 
-
-Services 
-
-    *   [Digital services: Technology for Knowledge](https://www.fct.pt/en/servicos-de-ct/unidade-fccn-tecnologia-para-o-conhecimento/ "Accessing Digital Services: Technology for Knowledge in Services")
-    *   [Archives, Documentation, and Information](https://www.fct.pt/en/servicos-de-ct/arquivo-documentacao-e-informacao/ "Access Archives, Documentation, and Information in Services")
-    *   [Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol](https://www.fct.pt/en/servicos-de-ct/acesso-a-dados-estatisticos-para-fins-cientificos-protocolo-ine-dgeec-fct/ "Access Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol in Services")
-    *   [Science Desk](https://www.fct.pt/en/servicos-de-ct/balcao-da-ciencia/ "Access Science Counter in Services")
-
-*   [Media](javascript:void(0); "Access Media") 
-
-Media 
-
-    *   [News](https://www.fct.pt/en/media/noticias/ "Access News in Media")
-    *   [Press Releases](https://www.fct.pt/en/media/notas-de-imprensa/ "Access Press Releases in Media")
-    *   [Newsletter](https://t.e2ma.net/webview/no688i/685aec513349e742538430e58e47fa39 "Access the Newsletter in Media")
-    *   [Schedule](https://www.fct.pt/en/media/agenda/ "Access the Agenda in Media")
-    *   [Publications](https://www.fct.pt/en/media/publicacoes/ "Access Publications in Media")
-
+Studentships
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Awards
+Other Support
+Services
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+Media
+Media
+News
+Press Releases
+Newsletter
+Schedule
+Publications
 Quick Links
-
-    *   [Media and Brand Identity](https://www.fct.pt/en/media/media-e-identidade-de-marca/ "Access the Quick Links menu link")
-    *   [Subscribe to Newsletter](https://signup.e2ma.net/signup/1826429/1781381/ "Access the Quick Links menu link")
-    *   [Subscribe to Direct Mail from Calls](https://forms.office.com/e/Sq7GvAdvFC "Access the Quick Links menu link")
-    *   [90 Seconds of Science](https://www.fct.pt/en/media/90-segundos-de-ciencia/ "Access the Quick Links menu link")
-    *   [Subscribe to Direct Mail from Calls](https://forms.office.com/pages/responsepage.aspx?id=0aBHeQvToEyYmDfUhhxlnF2q_mAMig1Jk4YBMQwuPNhURUo0V1dFQkZKWUtVTjhHQ0VFNFg5RlZEUy4u&route=shorturl "Access the Quick Links menu link")
-    *   [Press releases](https://www.fct.pt/en/media/comunicados/ "Access the Quick Links menu link")
-
-*   [About](javascript:void(0); "Access About") 
-
-About 
-
-    *   [The FCT](https://www.fct.pt/en/sobre/a-fct/ "Access FCT in About")
-    *   [Transparency](https://www.fct.pt/en/sobre/politicas-de-transparencia/ "Access Transparency in About")
-    *   [Studies and Strategic Planning](https://www.fct.pt/en/sobre/estudos-e-planeamento-estrategico/ "Access Studies and Strategic Planning in About")
-    *   [Management Documents](https://www.fct.pt/en/sobre/documentos-de-gestao/ "Access Management Documents in About")
-    *   [Community Support](https://www.fct.pt/en/sobre/apoios-comunitarios/ "Access Community Support in About")
-    *   [Contacts](https://www.fct.pt/en/sobre/contactos/ "Access Contacts in About")
-
+Media and Brand Identity
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+90 Seconds of Science
+Subscribe to Direct Mail from Calls
+Press releases
+About
+About
+The FCT
+Transparency
+Studies and Strategic Planning
+Management Documents
+Community Support
+Contacts
 Quick Links
-
-    *   [FCT in Numbers](https://www.fct.pt/en/sobre/a-fct-em-numeros/ "Access the Quick Links menu link")
-    *   [Accreditation, Certification, and Tax Benefits](https://www.fct.pt/en/sobre/acreditacao-certificacao-e-beneficios-fiscais/ "Access the Quick Links menu link")
-    *   [Recruitment, Service Procurement, and Partnerships](https://www.fct.pt/en/sobre/recrutamento-aquisicao-de-servicos-e-parcerias/ "Access the Quick Links menu link")
-    *   [Public consultations](https://www.fct.pt/en/sobre/consultas-publicas/ "Access the Quick Links menu link")
-    *   [Expressions of Interest](https://www.fct.pt/en/sobre/manifestacao-de-interesse/ "Access the Quick Links menu link")
-    *   [FCCN, FCT digital services](https://www.fccn.pt/ "Access the Quick Links menu link")
-    *   [Reporting Channels](https://www.fct.pt/en/sobre/politicas-de-transparencia/canais-de-denuncias/ "Access the Quick Links menu link")
-    *   [PRR Support – “Science + Digital” and “Science + Training”](https://www.fct.pt/en/apoios-prr-ciencia-digital-e-ciencia-capacitacao/ "Access the Quick Links menu link")
-
-- [x] English 
-*   [Português](https://www.fct.pt/financiamento/bolsas-de-investigacao-para-doutoramento/ "Language switcher : Portuguese")
-
-*   [myFCT](https://myfct.fct.pt/ "Go to myFCT")
-*   [Science Vitae](https://www.cienciavitae.pt/ "Go to Vitae Science")
-*   [FCT SIG](https://sig.fct.pt/fctsig/ "Go to FCT SIG")
-*   [PCT](https://pct.fct.pt/ "Go to PCT")
-*   [Virtual assistant](https://www.fct.pt/en/support/bolsas-de-investigacao/#popmake-66881 "Go to Virtual Assistant")
-*   [See all](https://www.fct.pt/en/portais-fct/ "Go to See all")
-
-![Image 3: search](https://www.fct.pt/wp-content/themes/fct/assets/search_white.svg)Search for: ![Image 4: close](https://www.fct.pt/wp-content/themes/fct/assets/close_white.svg)
-
-1.   [Home](https://www.fct.pt/en/ "Go to home page")
-2.   [Financing](https://www.fct.pt/en/financiamento/ "Access Financing")
-3.   [Studentships for Doctoral Studies](https://www.fct.pt/en/financiamento/bolsas-de-investigacao-para-doutoramento/ "Access Studentships for Doctorates")
-
-# Studentships for Doctoral Studies
-
-WordPress › Error
-
-There has been a critical error on this website.
-
-[Learn more about troubleshooting WordPress.](https://wordpress.org/documentation/article/faq-troubleshooting/)
-
-![Image 5: Portuguese](blob:http://localhost/8b5f025ec6a2d84324d8cd8f56a3ea3d)
-
-Portuguese
-
-![Image 6: English](blob:http://localhost/eb4b1fac5aa59698c9c65e8912312ff6)
-
+FCT in Numbers
+Accreditation, Certification, and Tax Benefits
+Recruitment, Service Procurement, and Partnerships
+Public consultations
+Expressions of Interest
+FCCN, FCT digital services
+Reporting Channels
+PRR Support – “Science + Digital” and “Science + Training”
 English
+Português
+myFCT
+Science Vitae
+FCT SIG
+PCT
+Virtual assistant
+See all
+Search for:
+Home
+Financing
+Studentships for Doctoral Studies
+Studentships for Doctoral Studies
+Doctoral Studentships are intended for candidates enrolled in a program leading to a doctoral degree, or candidates who meet the necessary conditions to enroll, and who wish to conduct research leading to the award of such a degree in all areas of knowledge.
+Calls
+Studentships all scientific fields
+The Call Studentships for doctoral studies in all scientific fields is held annually and is part of the FCT's major Calls
+Studentships Maria de Sousa
+The Call Maria de Sousa PhD Studentships is aimed at acquiring new knowledge in the field of virology.
+Calls
+Closed on
+March 2026
+2026 Call for PhD Studentships – Regular Application Process
+PhD studentships aim to fund research activities leading to the award of the PhD degree.
+Closed on
+March 2026
+2026 Call for PhD Studentships – Specific Line of Application in a Non-academic Environment
+PhD studentships, to be awarded in the Specific Line of Application, aim to fund research activities carried out in close articulation with non-academic institutions, leading to the award of the PhD degree.
+Closed on
+Apr 2025
+2025 Call for PhD Studentships – Regular Application Process
+PhD studentships aim to finance research activities that lead to obtaining the academic degree of doctor.
+See More
+Updated on March 1, 2023
+101 Av. do Brasil
+1700-066 Lisbon, Portugal
+&#43;&#x33;&#x35;&#49;&#x20;&#x32;&#49;&#x33;&#x20;&#57;&#x32;&#x34;&#32;&#x33;&#x30;&#48;
+Financing
+Financing Programs
+International
+Awards
+Media
+News
+Press Releases
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+Schedule
+Publications
+Media and Brand Identity
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+FCT 2026 Schedule
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+About
+The FCT
+Studies and Strategic Planning
+Management Documents
+FCT in Numbers
+Community Support
+Recruitment, Service Procurement, and Partnerships
+FCCN, FCT Digital Services
+FCT Portals
+Reporting Channels
+Contacts
+©2022 · Foundation for Science and Technology
+Privacy and Data Protection Policy
+Cookie Policy
+Frequently Asked Questions
+Accessibility
 
-×
+===== SOURCE PAGE: https://www.fct.pt/en/servicos-de-ct/arquivo-documentacao-e-informacao/ =====
+Archives, Documentation, and Information - FCT
+Skip to main content
+Financing
+Financing
+Financing Programs
+International
+Awards
+Quick Links
+Studentships
+Computing
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Other Support
+Calls
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+2026 Calls Schedule
+Quick Links
+Studentships
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Awards
+Other Support
+Services
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+Media
+Media
+News
+Press Releases
+Newsletter
+Schedule
+Publications
+Quick Links
+Media and Brand Identity
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+90 Seconds of Science
+Subscribe to Direct Mail from Calls
+Press releases
+About
+About
+The FCT
+Transparency
+Studies and Strategic Planning
+Management Documents
+Community Support
+Contacts
+Quick Links
+FCT in Numbers
+Accreditation, Certification, and Tax Benefits
+Recruitment, Service Procurement, and Partnerships
+Public consultations
+Expressions of Interest
+FCCN, FCT digital services
+Reporting Channels
+PRR Support – “Science + Digital” and “Science + Training”
+English
+Português
+myFCT
+Science Vitae
+FCT SIG
+PCT
+Virtual assistant
+See all
+Search for:
+Home
+Science and Technology Services
+Archives, Documentation, and Information
+Archives, Documentation, and Information
+The Archives, Documentation, and Information (ADI) service is part of the Executive Board Support Division. It is responsible for the management, development, and implementation of document and archive management resources and mechanisms—including the Filing Service—and for the operation of the Science and Technology Archive, particularly in terms of the management, inventory, preservation, and availability of the documentary and bibliographic heritage of the Foundation for Science and Technology. It is also responsible for managing three services related to the management of access to scientific information, namely scientific journals, directories, and repositories.
+Learn about the services available:
+Science and Technology Archive (ACT)
+ACT's mission is to process, preserve, and disseminate the archival heritage held by FCT, as well as other material of scientific and historical interest, thereby contributing to the preservation of the history and memory of science and technology in Portugal. It reserves and manages documentation of undeniable interest and historical quality, reflecting Portuguese cultural and scientific activity, mainly from the second half of the 20th century, largely in the form of thousands of files supporting Studentships, institutions, research projects, among others. A documentary collection representative of the history of institutions, scientific policies, and the organization of science, with interest for all areas of knowledge. Due to the activity that the FCT develops and its responsibility for ensuring the preservation of scientific documentary heritage, the archive has also been integrating some personal collections of renowned personalities linked to scientific activity.
+Science and Technology Library
+The FCT Library collects and provides access to an important set of information resources, including national and international monographs and journals specializing in science and technology management and policy, institutional history, and subjects such as the history of science and technology. In addition to the collection built up by FCT itself, it includes editions of the now defunct INIC and JNICT, as well as collections from personal estates.
+INDEXAR – Directory of Digital Repositories
+INDEXAR was created in response to the need for a platform capable of identifying and providing an integrated online reference for accessing digital scientific repositories and journals in the field of science and culture. A directory that allows for comprehensive, credible information search and identification, enhancing the visibility and dissemination of the information recorded.
+SciELO – Online digital library
+FCT is the SciELO National Unit, responsible for coordinating and operating SciELO Portugal, a service that provides information from different scientific fields, with the aim of promoting Portuguese scientific journals and disseminating high-quality national scientific output worldwide.
+Latindex – Network for the dissemination of scientific publications
+Since 1999, FCT has been the Portuguese institution coordinating national participation in Latindex, a network for the dissemination of scientific publications. The aim is to disseminate, make accessible, and improve the quality of scientific research, technical-professional, and scientific and cultural journals published in Latin America, the Caribbean, Spain, and Portugal.
+Updated on September 25, 2024
+101 Av. do Brasil
+1700-066 Lisbon, Portugal
++351 213 924 300
+Financing
+Financing Programs
+International
+Awards
+Media
+News
+Press Releases
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+Schedule
+Publications
+Media and Brand Identity
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+FCT 2026 Schedule
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+About
+The FCT
+Studies and Strategic Planning
+Management Documents
+FCT in Numbers
+Community Support
+Recruitment, Service Procurement, and Partnerships
+FCCN, FCT Digital Services
+FCT Portals
+Reporting Channels
+Contacts
+©2022 · Foundation for Science and Technology
+Privacy and Data Protection Policy
+Cookie Policy
+Frequently Asked Questions
+Accessibility
+X
 
-This website uses cookies
+===== SOURCE PAGE: https://www.fct.pt/en/sobre/documentos-de-gestao/ =====
+Management Documents - FCT
+Skip to main content
+Financing
+Financing
+Financing Programs
+International
+Awards
+Quick Links
+Studentships
+Computing
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Other Support
+Calls
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+2026 Calls Schedule
+Quick Links
+Studentships
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Awards
+Other Support
+Services
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+Media
+Media
+News
+Press Releases
+Newsletter
+Schedule
+Publications
+Quick Links
+Media and Brand Identity
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+90 Seconds of Science
+Subscribe to Direct Mail from Calls
+Press releases
+About
+About
+The FCT
+Transparency
+Studies and Strategic Planning
+Management Documents
+Community Support
+Contacts
+Quick Links
+FCT in Numbers
+Accreditation, Certification, and Tax Benefits
+Recruitment, Service Procurement, and Partnerships
+Public consultations
+Expressions of Interest
+FCCN, FCT digital services
+Reporting Channels
+PRR Support – “Science + Digital” and “Science + Training”
+English
+Português
+myFCT
+Science Vitae
+FCT SIG
+PCT
+Virtual assistant
+See all
+Search for:
+Home
+About
+Management Documents
+Management Documents
+Social Balance Sheet
+Social Report 2025
+(PDF, 874 KB)
+Social Balance Sheet 2024
+(PDF, 794 KB)
+Social Balance Sheet 2023
+(PDF, 734 KB)
+Social Balance Sheet 2022
+(PDF, 531 KB)
+Social Balance Sheet 2021
+(PDF, 496 KB)
+2020 Social Balance Sheet
+(PDF, 241 KB)
+2019 Social Balance Sheet
+(PDF, 241 KB)
+2018 Social Balance Sheet
+(PDF, 234 KB)
+2017 Social Balance Sheet
+(PDF, 234 KB)
+2016 Social Balance Sheet
+(PDF, 1 MB)
+2015 Social Balance Sheet
+(PDF, 1 MB)
+Activity Plan
+2026 Activity Plan
+(PDF, 1 MB)
+2025 Activity Plan
+(PDF, 1 MB)
+2024 Activity Plan
+(PDF, 3 MB)
+2023 Activity Plan
+(PDF, 885 KB)
+2022 Activity Plan
+(PDF, 3 MB)
+2021 Activity Plan
+(PDF, 2 MB)
+2020 Activity Plan
+(PDF, 4 MB)
+2019 Activity Plan
+(PDF, 2 MB)
+2018 Activity Plan
+(PDF, 2 MB)
+2017 Activity Plan
+(PDF, 1 MB)
+2016 Activity Plan
+(PDF, 2 MB)
+2015 Activity Plan
+(PDF, 1 MB)
+2014 Activity Plan
+(PDF, 1 MB)
+2013 Activity Plan
+(PDF, 2 MB)
+2012 Activity Plan
+(PDF, 1 MB)
+2011 Activity Plan
+(PDF, 3 MB)
+2010 Activity Plan
+(PDF, 3 MB)
+2009 Activity Plan
+(PDF, 1 MB)
+2008 Activity Plan
+(PDF, 492 KB)
+Activity Reports
+Activity Report 2024
+(PDF, 3 MB)
+Activity Report 2023
+(PDF, 3 MB)
+Activity Report 2022
+(PDF, 3 MB)
+2021 Activity Report
+(PDF, 2 MB)
+2020 Activity Report
+(PDF, 3 MB)
+2019 Activity Report
+(PDF, 3 MB)
+2018 Activity Report
+(PDF, 4 MB)
+2017 Activity Report
+(PDF, 6 MB)
+2016 Activity Report
+(PDF, 5 MB)
+2015 Activity Report
+(PDF, 5 MB)
+2014 Activity Report
+(PDF, 5 MB)
+2013 Activity Report
+(PDF, 5 MB)
+2012 Activity Report
+(PDF, 5 MB)
+2011 Activity Report
+(PDF, 6 MB)
+2010 Activity Report
+(PDF, 6 MB)
+2009 Activity Report
+(PDF, 5 MB)
+2008 Activity Report
+(zip, 3 MB)
+2007 Activity Report
+(zip, 2 MB)
+2005 Activity Report
+(PDF, 1 MB)
+2004 Activity Report
+(PDF, 557 KB)
+2002 Activity Report
+(PDF, 1 MB)
+Activity Report 1997 to 2001
+(PDF, 3 MB)
+Assessment and Accountability Framework
+Q4 2026
+(PDF, 724 KB)
+WED 2025
+(pdf, 365 KB)
+WED 2024
+(pdf, 278 KB)
+WED 2023
+(PDF, 663 KB)
+WED 2022
+(PDF, 274 KB)
+QUAR 2021
+(PDF, 453 KB)
+QUAR 2020
+(PDF, 448 KB)
+QUAR 2019
+(PDF, 457 KB)
+QUAR 2018
+(PDF, 70 KB)
+QUAR 2017
+(PDF, 70 KB)
+QUAR 2016
+(PDF, 2 MB)
+QUAR 2015
+(PDF, 70 KB)
+QUAR 2014
+(PDF, 434 KB)
+QUAR 2013
+(PDF, 89 KB)
+QUAR 2012
+(PDF, 213 KB)
+QUAR 2011
+(PDF, 77 KB)
+QUAR 2010
+(PDF, 66 KB)
+QUAR 2009
+(PDF, 60 KB)
+QUAR 2008
+(pdf, 54 KB)
+Self-Assessment Report
+FCT Self-Assessment Report 2024
+(PDF, 888 KB)
+FCT Self-Assessment Report 2023
+(PDF, 877 KB)
+FCT Self-Assessment Report 2022
+(PDF, 2 MB)
+FCT Self-Assessment Report 2021
+(PDF, 646 KB)
+FCT Self-Assessment Report 2020
+(PDF, 339 KB)
+FCT Self-Assessment Report 2019
+(PDF, 311 KB)
+FCT Self-Assessment Report 2018
+(PDF, 399 KB)
+FCT Self-Assessment Report 2017
+(PDF, 400 KB)
+Staff Map
+2026 Staffing Plan
+(PDF, 1 MB)
+Staffing Plan 2025
+(PDF, 1 MB)
+Staffing Plan 2024
+(PDF, 4 MB)
+Staffing Plan 2023
+(PDF, 215 KB)
+Staff Map 2022
+(PDF, 404 KB)
+Staff Map 2021
+(PDF, 160 KB)
+2020 Staff Map
+(pdf, 165 KB)
+2019 Staff Map
+(PDF, 62 KB)
+2018 Staff Map
+(PDF, 62 KB)
+2017 Staff Map
+(PDF, 62 KB)
+2016 Staff Map
+(PDF, 370 KB)
+2015 Staff Map
+(pdf, 96 KB)
+2014 Staff Map
+(PDF, 122 KB)
+2013 Staff Map
+(PDF, 119 KB)
+SIADAP
+Establishment of the Joint Committee (Order No. DES/1/CD/2023)
+(PDF, 2 MB)
+Election of the Joint Committee (Order No. DES/21/CD/2022)
+(PDF, 70 KB)
+Grants Awarded
+Grants Awarded 2025
+(PDF, 16 MB)
+Grants Awarded 2024
+(PDF, 13 MB)
+Grants Awarded 2023
+(PDF, 4 MB)
+Grants Awarded 2022
+(PDF, 3 MB)
+Grants Awarded in 2021
+(PDF, 3 MB)
+Grants Awarded in 2020
+(PDF, 19 MB)
+Grants Awarded in 2019
+(PDF, 12 MB)
+Grants Awarded in 2018
+(PDF, 12 MB)
+PRR measures
+Project sheet M6 Science Plus Training
+(PDF, 1 MB)
+Project-Sheet-M5-Science-More-Digital.pdf
+(PDF, 1 MB)
+Project sheet M5 Scientific Research Units
+(PDF, 1 MB)
+About
+The FCT
+Organization
+Associated and Affiliated Entities
+Transparency Policies
+Meetings with the Governing Board
+Reporting Channels
+Equality and Non-Discrimination
+Plan for the prevention of corruption risks and related offenses
+Balancing work, personal, and family life
+FCT in Numbers
+Studentships
+Scientific Employment
+Institutions
+R&D projects
+Financial Execution of the FCT
+International
+PRR: Implementation data
+SCIENCEVITAE
+Studies and Strategic Planning
+Open Science Policies
+R&I strategy for smart specialization
+Thematic Agendas
+Prospects in R&D and Innovation
+Impact of FCT funding on research careers
+Science for Public Policy
+Inclusion and gender equality in research careers
+OECD working groups
+Monitoring of national programs and policies and other institutional collaborations
+Management Documents
+Accreditation, Certification, and Tax Benefits
+Scientific patronage
+Approval of Studentships Regulations
+Community Support
+IC&DT co-promoted projects: Sustainable Development Goals
+Recruitment, Service Procurement, and Partnerships
+Recruitment
+Procurement of services
+Partnerships
+Digital employability
+Public consultations
+Expressions of Interest
+25 Years of FCT
+Contacts
+Updated on July 21, 2026
+101 Av. do Brasil
+1700-066 Lisbon, Portugal
+&#x2b;&#x33;&#53;&#49; &#x32;&#x31;&#x33;&#32;&#57;2&#x34;&#x20;&#x33;&#48;&#48;
+Financing
+Financing Programs
+International
+Awards
+Media
+News
+Press Releases
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+Schedule
+Publications
+Media and Brand Identity
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+FCT 2026 Schedule
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+About
+The FCT
+Studies and Strategic Planning
+Management Documents
+FCT in Numbers
+Community Support
+Recruitment, Service Procurement, and Partnerships
+FCCN, FCT Digital Services
+FCT Portals
+Reporting Channels
+Contacts
+©2022 · Foundation for Science and Technology
+Privacy and Data Protection Policy
+Cookie Policy
+Frequently Asked Questions
+Accessibility
+X
 
-This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy.[Read more](https://www.fct.pt/politica-de-cookies/)
+===== SOURCE PAGE: https://www.fct.pt/en/sobre/acreditacao-certificacao-e-beneficios-fiscais/ =====
+Accreditation, Certification, and Tax Benefits - FCT
+Skip to main content
+Financing
+Financing
+Financing Programs
+International
+Awards
+Quick Links
+Studentships
+Computing
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Other Support
+Calls
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+2026 Calls Schedule
+Quick Links
+Studentships
+Scientific Employment
+R&D projects
+R&D institutions
+Infrastructure
+Awards
+Other Support
+Services
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+Media
+Media
+News
+Press Releases
+Newsletter
+Schedule
+Publications
+Quick Links
+Media and Brand Identity
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+90 Seconds of Science
+Subscribe to Direct Mail from Calls
+Press releases
+About
+About
+The FCT
+Transparency
+Studies and Strategic Planning
+Management Documents
+Community Support
+Contacts
+Quick Links
+FCT in Numbers
+Accreditation, Certification, and Tax Benefits
+Recruitment, Service Procurement, and Partnerships
+Public consultations
+Expressions of Interest
+FCCN, FCT digital services
+Reporting Channels
+PRR Support – “Science + Digital” and “Science + Training”
+English
+Português
+myFCT
+Science Vitae
+FCT SIG
+PCT
+Virtual assistant
+See all
+Search for:
+Home
+About
+Accreditation, Certification, and Tax Benefits
+Accreditation, Certification, and Tax Benefits
+Scientific patronage
+Approval of Studentships Regulations
+About
+The FCT
+Organization
+Associated and Affiliated Entities
+Transparency Policies
+Meetings with the Governing Board
+Reporting Channels
+Equality and Non-Discrimination
+Plan for the prevention of corruption risks and related offenses
+Balancing work, personal, and family life
+FCT in Numbers
+Studentships
+Scientific Employment
+Institutions
+R&D projects
+Financial Execution of the FCT
+International
+PRR: Implementation data
+SCIENCEVITAE
+Studies and Strategic Planning
+Open Science Policies
+R&I strategy for smart specialization
+Thematic Agendas
+Prospects in R&D and Innovation
+Impact of FCT funding on research careers
+Science for Public Policy
+Inclusion and gender equality in research careers
+OECD working groups
+Monitoring of national programs and policies and other institutional collaborations
+Management Documents
+Accreditation, Certification, and Tax Benefits
+Scientific patronage
+Approval of Studentships Regulations
+Community Support
+IC&DT co-promoted projects: Sustainable Development Goals
+Recruitment, Service Procurement, and Partnerships
+Recruitment
+Procurement of services
+Partnerships
+Digital employability
+Public consultations
+Expressions of Interest
+25 Years of FCT
+Contacts
+Updated on December 20, 2022
+101 Av. do Brasil
+1700-066 Lisbon, Portugal
+&#x2b;&#51;&#x35;&#x31; &#x32;&#49;3&#x20;&#57;2&#x34;&#32;&#x33;&#x30;0
+Financing
+Financing Programs
+International
+Awards
+Media
+News
+Press Releases
+Subscribe to Newsletter
+Subscribe to Direct Mail from Calls
+Schedule
+Publications
+Media and Brand Identity
+Calls
+Open Calls
+Upcoming Calls
+Closed Calls
+FCT 2026 Schedule
+Services
+Digital services: Technology for Knowledge
+Archives, Documentation, and Information
+Access to statistical data for scientific purposes – INE/DGEEC/FCT Protocol
+Science Desk
+About
+The FCT
+Studies and Strategic Planning
+Management Documents
+FCT in Numbers
+Community Support
+Recruitment, Service Procurement, and Partnerships
+FCCN, FCT Digital Services
+FCT Portals
+Reporting Channels
+Contacts
+©2022 · Foundation for Science and Technology
+Privacy and Data Protection Policy
+Cookie Policy
+Frequently Asked Questions
+Accessibility
+X
 
-- [x] 
+===== SOURCE PAGE: https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-geral/ =====
+2026 Call for PhD Studentships – Regular Line of Application - FCT
+Saltar para o conteúdo principal
+Financiamento
+Financiamento
+Programas de Financiamento
+Internacional
+Prémios
+Links Rápidos
+Bolsas
+Computação
+Emprego Científico
+Projetos I&D
+Instituições de I&D
+Infraestruturas
+Outros Apoios
+Concursos
+Concursos
+Concursos Abertos
+Concursos Previstos
+Concursos Fechados
+Calendário de Concursos FCT 2026
+Links Rápidos
+Bolsas
+Emprego Científico
+Projetos I&D
+Instituições I&D
+Infraestruturas
+Prémios
+Outros Apoios
+Serviços
+Serviços
+Serviços digitais: Tecnologia para o Conhecimento
+Arquivo, Documentação e Informação
+Acesso a dados estatísticos para fins científicos – Protocolo INE/DGEEC/FCT
+Balcão da Ciência
+Media
+Media
+Notícias
+Notas de Imprensa
+Newsletter
+Agenda
+Publicações
+Links Rápidos
+Media e Identidade de Marca
+Subscrever Newsletter
+Subscrever Direct Mail de Concursos FCT
+90 Segundos de Ciência
+Subscrever Direct Mail de Concursos
+Comunicados
+Sobre
+Sobre
+A FCT
+Transparência
+Estudos e Planeamento Estratégico
+Documentos de Gestão
+Apoios Comunitários
+Contactos
+Links Rápidos
+A FCT em Números
+Acreditação, Certificação e Benefícios Fiscais
+Recrutamento, Aquisição de Serviços e Parcerias
+Consultas públicas
+Manifestações de Interesse
+FCCN, serviços digitais da FCT
+Canais de Denúncias
+Apoios PRR – “Ciência + Digital” e “Ciência + Capacitação”
+English
+Português
+myFCT
+Ciência Vitae
+FCT SIG
+PCT
+Assistente virtual
+Ver todos
+Search for:
+Home
+Concursos
+2026 Call for PhD Studentships – Regular Line of Application
+2026 Call for PhD Studentships – Regular Line of Application
+Call
+Results
+31.07.2026
+FCT announced the provisional results of the Call for PhD Studentships 2026, which foresees the allocation of 1,600 studentships, 600 of which in a non-academic environment.
+Applicants may use their right to dispute the decision during the preliminary hearing phase, via the myFCT portal, until 11:59 pm of august 14, 2026.
+23.07.2026
+Since it was published with inaccuracies, the list with the composition of the 33 Evaluation Panels for the Regular Line of the 2026 Call for PhD Studentships, originally published on June 16, is republished. The constitution of the evaluation panels may be consulted on this page under Call Documents.
+21.04.2026
+As applicants are aware, the national platform for the recognition of higher education degrees awarded by foreign institutions was unavailable for around 15 days during this call. In response to this situation, and to ensure equal treatment for all applicants and consistency in the rules, FCT and DGES undertook joint efforts to reduce its impact. For this purpose, and after the deadline for candidates to submit all necessary documentation, FCT shared with DGES the list of all those who had applied for this call, so that, based on the requests registered on the platform managed by DGES, it could be determined which applicants, having submitted their request by the 30th of March 2026, had not, by that same date, obtained the relevant degree recognition, so that DGES could return any recognitions that had been issued, even if after the 30th of March 2026 (one day before the final deadline for submitting applications). This approach ensures that candidates should not be held responsible for submitting a document issued late, provided that they, themselves, had also acted diligently in requesting the degree recognition they might require. In this regard, it is worth noting that, under the applicable law, DGES has at least 30 days to process recognition requests; although, it is common knowledge that, in recognitions dependent on DGES only, this period is usually shorter.
+For candidates who submitted their recognition degree request to DGES on time, the relevant information will be added automatically by FCT to their application in the coming days, as soon as it is made available by DGES (now Institute for Higher Education). No action is required from applicants.
+Finally, it should be emphasised that this approach has been taken to address situations requiring support, given the expectations created by the diligent efforts of all relevant bodies and the candidates themselves. The deadlines for recognising foreign degrees are set by law and are widely known. The requirements applied by FCT in this call have remained the same for several years, as have, in general, the usual timing of the call, which takes place each year in March or, occasionally, between March and April.
+13.04.2026
+Please note that the 10-working-day deadline for Contracting Institutions to validate the applications ends on 17 April 2026.
+09.03.2026
+The DGES platform for the recognition of foreign degrees is operational again since the afternoon of 06/03/2026. Accordingly, and considering that the impediment ceased 25 days before the deadline for the submission of applications, it is hereby informed that all rules regarding the submission of proof of recognition of the conversion of degrees or diplomas awarded by foreign institutions, as stated in the Notice of the Call and in the Evaluation Guide, remain applicable.
+04.03.2026
+FCT is aware of the constraints of the DGES platform for requesting the recognition of foreign degrees. We are monitoring the situation as it develops.
+Please note that these constraints do not prevent the submission of applications. We suggest to keep in touch with DGES.
+More headlines
+Less headlines
+PhD studentships aim to fund research activities leading to the award of the PhD degree.
+Open All
+Overview and objectives
+To fulfil its aim of promoting a national public policy for advanced training with social relevance and impact, the Foundation for Science and Technology (FCT) opens a Call for granting PhD studentships complying with the provisions of the Regulamento de Bolsas de Investiga&ccedil;&atilde;o da FCT / FCT Regulation for Studentships and Fellowships (RBI) and the Estatuto do Bolseiro de Investiga&ccedil;&atilde;o /Research Fellowship Holder Statute (EBI), according to their current versions.
+The regular line of application includes all scientific areas and is aimed at research to be carried out in scientific and academic institutions . A specific line of application targeted at research work plans for the most part carried out in one or more non-academic institutions is also available in this call ( for further details, please go to its specific page ).
+Who can apply
+PhD studentships in the regular line of application are aimed at applicants that are enrolled or that comply with the requirements to enrol in a PhD program to obtain a doctoral degree. They are suitable for candidates who want to develop PhD research activities in any academic institution, national or international, including public and private higher education institutions, R&D units, Associated Laboratories, as well as other private non-profit institutions whose main purpose is R&D activities.
+How to apply
+The Call is open from March 2nd to 5:00 pm (Lisbon time) March 31st, 2026 .
+Applications, and the supporting documents listed in the RBI and in this Notice of the Call, must be submitted online using exclusively the available application form at https://myfct.fct.pt , selecting the regular line of application and clicking on &ldquo;start application&rdquo;. Applications or any additional information submitted by any other means will not be accepted.
+Portuguese citizens, citizens of EU member states, citizens from third-party states, stateless citizens and citizens beneficiaries of political refugee status are eligible to apply.
+To apply for a PhD studentship, it is mandatory:
+Not to have benefited from any PhD studentship or PhD in Industry studentship directly funded by FCT, regardless of its duration.
+Not to hold a doctoral degree.
+To live in Portugal on a permanent and habitual basis, if applying to a both in Portugal and abroad or entirely abroad studentship. This requirement applies to both applicants with Portuguese and foreign citizenship.
+The remaining admissibility requirements are available in section 4 of the Notice of the Call.
+Evaluation
+Evaluation of applications is performed by evaluation panels composed by experts with recognized experience and scientific merit. All admissible applications must be graded from zero (0.000, minimum) to five (5.000, maximum) in each of the three evaluation criteria:
+Criterion A &ndash; Merit of the Applicant
+Criterion B &ndash; Merit of the Work Plan
+Criterion C &ndash; Merit of the Hosting Conditions
+The relative weights of three criteria are 30%, 40%, 30%, respectively.
+The merit of the applicant assessment is based on two sub-criteria: academic career, with a weighting of 50%, and personal CV, also with a weighting of 50%.
+The evaluation of the candidate's personal CV is carried out in an integrated way, based on a global view of the merit of their scientific and professional career.
+The evaluation of the work plan and hosting conditions is based on the panel's qualitative assessment, duly substantiated.
+Applications will be ranked according to the weighted average classification of the three criteria, and in the following order of precedence, for tiebreaker purposes: criterion B (Merit of the Work Plan), criterion A (Merit of the Applicant) and criterion C (Merit of the Hosting Conditions).
+Applications evaluated with a final classification lower than three values (3,000) are not eligible for granting a studentship.
+The procedures concerning the evaluation process are available in the Evaluation Guide. Other supporting documents for the application, namely the Application Guide, FAQ and Ethics Guide, will be made available by the opening day of the call.
+Funding
+Selected applicants will receive a monthly allowance, as well as other complementary support in accordance with the amounts set out by the RBI, such as tuition fees, support for additional training activities, presentation of work at scientific meetings, personal accident insurance and, when applicable, travel and relocation costs.
+The studentships granted in this call will be financed by FCT using funds from the State Budget and, when eligible, funds from the European Social Fund (ESF), under the Program PESSOAS 2030 , in accordance with the established regulatory provisions.
+Contracting Institutions
+The contracting institution indicated by the candidate in the application form is responsible for contracting and managing the PhD studentship to be granted. Contracting institutions have a period of 10 working days to validate, through the myFCT platform, the applications that selected them, which will take place after the period for application submission and before the start of the evaluation. This deadline will be announced on this page, so regular checks are recommended.
+Applications that are not validated by the Contracting Institution designated in the application will be excluded from this call; therefore, this step is crucial.
+Applications for studentships fully Abroad continue to be contracted and managed by FCT.
+On this page you will find the Guide for Contracting Institutions that aims to clarify the procedure for validating studentship applications.
+Results Disclosure
+Provisional results will be published up to 90 working days after the applications&rsquo; submission deadline and are expected to be available in the first week of August.
+After the provisional results have been communicated to the applicants, those who have an unfavourable provisional decision may use their right to dispute it during the preliminary hearing phase, which takes place within 10 working days.
+The final decision will be disclosed after the analysis of applicants&rsquo; arguments presented in the preliminary hearing. A claim may be filed against the final decision within 15 working days, or, alternatively, an appeal may be filed within 30 working days, both counting from the date of the respective notification.
+Contacts
+Information about the call should be requested via e-mail at info.bolsas@fct.pt . The email is available from the date the call opens and up to 72 hours before the end of the application deadline.
+For questions related to the creation and management of CVs, please use CI&Ecirc;NCIAVITAE&acute;s helpdesk .
+The communication channel dedicated exclusively to the interaction between contracting institutions and FCT, in the context of PhD studentship contracts, is the following email address bolsas.instituicoescontratantes@fct.pt .
+February 25th 2026
+Announcement of the call
+02 march 2026 (12h)
+Opening of applications
+31 march 2026 (17h)
+Closing of applications
+April 6th, 2026 (10 AM)
+Opening for acceptance of the application by the principal contractor
+April 17th, 2026 (23:59)
+Closing for acceptance of application by the principal contractor
+July 31st, 2026
+Preliminary results
+beginning of November 2026
+Final results
+Call Documents:
+Notice of the Call
+Evaluation Guide
+Application Guide
+Ethics Guide
+Guide for Contracting Institutions
+Highlights
+FAQ
+CIÊNCIAVITAE Guide
+FCT Regulation for Studentships and Fellowships
+Research Fellowship Holder Statute
+2030 UN Agenda
+ENEI 2030
+Evaluation Panels
+Download all
+Start application
+Call Documents
+Total number of applications
+3628
+Number of approved applications
+1000
+Total funding value
+90.625.000€
+Approval rate
+28%
+Call Documents:
+Preliminary results of the call
+Download all
+Atualizado em 31 Julho 2026
+Av. do Brasil, 101
+1700-066 Lisboa, Portugal
++35&#49;&#32;&#50;&#x31;&#x33;&#x20;&#x39;&#x32;&#x34; 30&#48;
+Financiamento
+Programas de Financiamento
+Internacional
+Prémios
+Media
+Notícias
+Notas de Imprensa
+Subscrever Newsletter
+Subscrever Direct Mail de Concursos
+Agenda
+Publicações
+Media e Identidade de Marca
+Concursos
+Concursos Abertos
+Concursos Previstos
+Concursos Fechados
+Calendarização FCT 2026
+Serviços
+Serviços digitais: Tecnologia para o Conhecimento
+Arquivo, Documentação e Informação
+Acesso a dados estatísticos para fins científicos – Protocolo INE/DGEEC/FCT
+Balcão da Ciência
+Sobre
+A FCT
+Estudos e Planeamento Estratégico
+Documentos de Gestão
+A FCT em Números
+Apoios Comunitários
+Recrutamento, Aquisição de Serviços e Parcerias
+FCCN, Serviços Digitais da FCT
+Portais FCT
+Canais de Denúncias
+Contactos
+©2022 · Fundação para a Ciência e a Tecnologia
+Política de Privacidade e Protecção de Dados
+Política de Cookies
+Perguntas Frequentes
+Acessibilidade
 
-Strictly necessary 
-
-- [x] 
-
-Performance 
-
-- [x] 
-
-Targeting 
-
-- [x] 
-
-Functionality 
-
-- [x] 
-
-Unclassified 
-
-Save & Close
-
-Accept all
-
-Decline all
-
-Show details Hide details
+===== SOURCE PAGE: https://www.fct.pt/en/concursos/concurso-bolsas-de-doutoramento-2026-linha-de-candidatura-especifica-em-ambiente-nao-academico/ =====
+2026 Call for PhD Studentships – Specific Line of Application in a Non-academic Environment - FCT
+Saltar para o conteúdo principal
+Financiamento
+Financiamento
+Programas de Financiamento
+Internacional
+Prémios
+Links Rápidos
+Bolsas
+Computação
+Emprego Científico
+Projetos I&D
+Instituições de I&D
+Infraestruturas
+Outros Apoios
+Concursos
+Concursos
+Concursos Abertos
+Concursos Previstos
+Concursos Fechados
+Calendário de Concursos FCT 2026
+Links Rápidos
+Bolsas
+Emprego Científico
+Projetos I&D
+Instituições I&D
+Infraestruturas
+Prémios
+Outros Apoios
+Serviços
+Serviços
+Serviços digitais: Tecnologia para o Conhecimento
+Arquivo, Documentação e Informação
+Acesso a dados estatísticos para fins científicos – Protocolo INE/DGEEC/FCT
+Balcão da Ciência
+Media
+Media
+Notícias
+Notas de Imprensa
+Newsletter
+Agenda
+Publicações
+Links Rápidos
+Media e Identidade de Marca
+Subscrever Newsletter
+Subscrever Direct Mail de Concursos FCT
+90 Segundos de Ciência
+Subscrever Direct Mail de Concursos
+Comunicados
+Sobre
+Sobre
+A FCT
+Transparência
+Estudos e Planeamento Estratégico
+Documentos de Gestão
+Apoios Comunitários
+Contactos
+Links Rápidos
+A FCT em Números
+Acreditação, Certificação e Benefícios Fiscais
+Recrutamento, Aquisição de Serviços e Parcerias
+Consultas públicas
+Manifestações de Interesse
+FCCN, serviços digitais da FCT
+Canais de Denúncias
+Apoios PRR – “Ciência + Digital” e “Ciência + Capacitação”
+English
+Português
+myFCT
+Ciência Vitae
+FCT SIG
+PCT
+Assistente virtual
+Ver todos
+Search for:
+Home
+Concursos
+2026 Call for PhD Studentships – Specific Line of Application in a Non-academic Environment
+2026 Call for PhD Studentships – Specific Line of Application in a Non-academic Environment
+Call
+Results
+31.07.2026
+FCT announced the provisional results of the Call for PhD Studentships 2026, which foresees the allocation of 1,600 studentships, 600 of which in a non-academic environment.
+Applicants may use their right to dispute the decision during the preliminary hearing phase, via the myFCT portal, until 11:59 pm of august 14, 2026.
+23.07.2026
+Since it was published with inaccuracies, the list with the composition of the 5 Evaluation Panels for the Specific Line of Application in a Non-academic Environment of the 2026 Call for PhD Studentships, originally published on June 16, is republished. The constitution of the evaluation panels may be consulted on this page under Call Documents.
+21.04.2026
+As applicants are aware, the national platform for the recognition of higher education degrees awarded by foreign institutions was unavailable for around 15 days during this call. In response to this situation, and to ensure equal treatment for all applicants and consistency in the rules, FCT and DGES undertook joint efforts to reduce its impact. For this purpose, and after the deadline for candidates to submit all necessary documentation, FCT shared with DGES the list of all those who had applied for this call, so that, based on the requests registered on the platform managed by DGES, it could be determined which applicants, having submitted their request by the 30th of March 2026, had not, by that same date, obtained the relevant degree recognition, so that DGES could return any recognitions that had been issued, even if after the 30th of March 2026 (one day before the final deadline for submitting applications). This approach ensures that candidates should not be held responsible for submitting a document issued late, provided that they, themselves, had also acted diligently in requesting the degree recognition they might require. In this regard, it is worth noting that, under the applicable law, DGES has at least 30 days to process recognition requests; although, it is common knowledge that, in recognitions dependent on DGES only, this period is usually shorter.
+For candidates who submitted their recognition degree request to DGES on time, the relevant information will be added automatically by FCT to their application in the coming days, as soon as it is made available by DGES (now Institute for Higher Education). No action is required from applicants.
+Finally, it should be emphasised that this approach has been taken to address situations requiring support, given the expectations created by the diligent efforts of all relevant bodies and the candidates themselves. The deadlines for recognising foreign degrees are set by law and are widely known. The requirements applied by FCT in this call have remained the same for several years, as have, in general, the usual timing of the call, which takes place each year in March or, occasionally, between March and April.
+13.04.2026
+Please note that the 10-working-day deadline for Contracting Institutions to validate the applications ends on 17 April 2026.
+09.03.2026
+The DGES platform for the recognition of foreign degrees is operational again since the afternoon of 06/03/2026. Accordingly, and considering that the impediment ceased 25 days before the deadline for the submission of applications, it is hereby informed that all rules regarding the submission of proof of recognition of the conversion of degrees or diplomas awarded by foreign institutions, as stated in the Notice of the Call and in the Evaluation Guide, remain applicable.
+04.03.2026
+FCT is aware of the constraints of the DGES platform for requesting the recognition of foreign degrees. We are monitoring the situation as it develops.
+Please note that these constraints do not prevent the submission of applications. We suggest to keep in touch with DGES.
+More headlines
+Less headlines
+PhD studentships, to be awarded in the Specific Line of Application, aim to fund research activities carried out in close articulation with non-academic institutions, leading to the award of the PhD degree.
+Open All
+Overview and objectives
+To fulfil its aim of promoting a national public policy for advanced training with social relevance and impact, the Foundation for Science and Technology (FCT) opens a Call for granting PhD studentships complying with the provisions of the Regulamento de Bolsas de Investiga&ccedil;&atilde;o da FCT / FCT Regulation for Studentships and Fellowships (RBI) and the Estatuto do Bolseiro de Investiga&ccedil;&atilde;o /Research Fellowship Holder Statute (EBI), according to their current versions.
+In addition to the regular line of application ( for further details, please go to its specific page) , this call opens a specific line of application for PhD studentship in which work plans are partially carried out in one or more non-academic entities . FCT will thus continue to reinforce a closer relationship between doctoral research in academic and non-academic environments such as business companies, public, social, health, cultural institutions and organizations.
+Candidates who wish to apply in the specific line in a non-academic environment can look for potential hosting opportunities for their research plans in the list of non-academic institutions available here , and interact directly with the contact point of each institution in order to prepare a work plan that can support their application. This list is not exhaustive, is in continuous updating, and the information provided is the sole responsibility of the respective entities. Therefore, the eligibility of each institutional context in the non-academic line of application should be verified. Applications that include other eligible entities that are not listed may also be submitted in this line.
+Who can apply
+PhD studentships in the specific line of application in a non-academic environment are aimed at applicants that are enrolled or that comply with the requirements to enrol in a PhD program to obtain a doctoral degree. They are suitable for candidates who want to develop PhD research activities mostly in a non-academic environment, ensuring at least 12 months (consecutive or interpolated) of the studentship in the same non-academic host institution with activity in Portugal. In addition to the research in a non-academic environment, it is mandatory that applicants have a national or foreign academic host institution, thus ensuring the desirable connection between the academic and non-academic environments.
+In addition, PhD studentships in a non-academic environment will also be awarded within the scope of Non-Academic Chairs funded under the FCT-Tenure program, to all eligible candidates covered by this program, whose application is evaluated with a final grade equal to or higher than three points (3.000), as provided for in point 5.2 of the Call for Applications of the FCT Tenure &ndash; 1st Edition .
+How to apply
+The Call is open from March 2nd to 5:00 pm (Lisbon time) March 31st, 2026 .
+Applications, and the supporting documents listed in the RBI and in this Notice of the Call, must be submitted online using exclusively the available application form at https://myfct.fct.pt , selecting the specific line of application in a non-academic environment and clicking on &ldquo;start application&rdquo;. Applications or any additional information submitted by any other means will not be accepted.
+Portuguese citizens, citizens of EU member states, citizens from third-party states, stateless citizens and citizens beneficiaries of political refugee status are eligible to apply.
+To apply for a PhD studentship, it is mandatory:
+Not to have benefited from any PhD studentship or PhD in Industry studentship directly funded by FCT, regardless of its duration.
+Not to hold a doctoral degree.
+To live in Portugal on a permanent and habitual basis, if applying to a both in Portugal and abroad studentship. This requirement applies to both applicants with Portuguese and foreign citizenship.
+The remaining admissibility requirements are available in section 4 of the Notice of the Call and particularly in point 4.3 that refers to additional application&rsquo;s admissibility requirements in this specific line in a non-academic environment, as well as the additional requirements to be met in the case of studentships within the scope of the FCT-Tenure Non-Academic Chairs.
+Evaluation
+Applications submitted in the specific line in a non-academic environment are evaluated by five evaluation panels, corresponding to the thematic areas of Engineering Sciences and Exact Sciences, Natural and Agricultural Sciences, Health and Life Sciences, Social Sciences and Humanities, which are composed by experts with recognized experience and scientific merit .
+All admissible applications must be graded from zero (0.000, minimum) to five (5.000, maximum) in each of the three evaluation criteria:
+Criterion A &ndash; Merit of the Applicant
+Criterion B &ndash; Merit of the Work Plan
+Criterion C &ndash; Merit of the Hosting Conditions
+The relative weights of three criteria are 30%, 40%, 30%, respectively.
+The merit of the applicant assessment is based on two sub-criteria: academic career, with a weighting of 50%, and personal CV, also with a weighting of 50%.
+The evaluation of the candidate's personal CV is carried out in an integrated way, based on a global view of the merit of their scientific and professional career.
+The evaluation of the work plan and hosting conditions is based on the panel's qualitative assessment, duly substantiated. In this line of application, the expected contribution of non-academic institutions to the successful execution of the work plan, as well as the relevance of the plan to the objectives and areas of activity of these institutions, is evaluated in sub-criterion C3 - Framing of the non-academic institution(s) in the context of the work plan, weighting 50% within the scope of criterion C - Merit of the Hosting Conditions.
+Applications will be ranked according to the weighted average classification of the three criteria, and in the following order of precedence, for tiebreaker purposes: C (Merit of the Hosting Conditions), criterion B (Merit of the Work Plan), and criterion A (Merit of the Applicant).
+Applications evaluated with a final classification lower than three values (3,000) are not eligible for granting a studentship.
+The procedures concerning the evaluation process are available in the Evaluation Guide. Other supporting documents for the application, namely the Application Guide, FAQ and Ethics Guide, will be made available by the opening day of the call.
+Funding
+Selected applicants will receive a monthly allowance, as well as other complementary support in accordance with the amounts set out by the RBI, such as tuition fees, support for additional training activities, presentation of work at scientific meetings, personal accident insurance and, when applicable, travel and relocation costs.
+The studentships granted in this call will be financed by FCT using funds from the State Budget and, when eligible, funds from the European Social Fund (ESF), under the Program PESSOAS 2030 , in accordance with the established regulatory provisions.
+Contracting Institutions
+The contracting institution indicated by the candidate in the application form is responsible for contracting and managing the PhD studentship to be granted. Contracting institutions have a period of 10 working days to validate, through the myFCT platform, the applications that selected them, which will take place after the period for application submission and before the start of the evaluation. This deadline will be announced on this page, so regular checks are recommended.
+Applications that are not validated by the Contracting Institution designated in the application will be excluded from this call; therefore, this step is crucial.
+Applications for studentships within the scope of the FCT-Tenure Non-Academic Chairs continue to be contracted and managed by FCT.
+On this page you will find the Guide for Contracting Institutions that aims to clarify the procedure for validating studentship applications.
+Results Disclosure
+Provisional results will be published up to 90 working days after the applications&rsquo; submission deadline and are expected to be available in the first week of August.
+After the provisional results have been communicated to the applicants, those who have an unfavourable provisional decision may use their right to dispute it during the preliminary hearing phase, which takes place within 10 working days.
+The final decision will be disclosed after the analysis of applicants&rsquo; arguments presented in the preliminary hearing. A claim may be filed against the final decision within 15 working days, or, alternatively, an appeal may be filed within 30 working days, both counting from the date of the respective notification.
+Contacts
+Information about the call should be requested via e-mail at info.bolsas@fct.pt . The email is available from the date the call opens and up to 72 hours before the end of the application deadline.
+For questions related to the creation and management of CVs, please use CI&Ecirc;NCIAVITAE&acute;s For questions related to the creation and management of CVs, please use CI&Ecirc;NCIAVITAE&acute;s helpdesk .
+The communication channel dedicated exclusively to the interaction between contracting institutions and FCT, in the context of PhD studentship contracts, is the following email address bolsas.instituicoescontratantes@fct.pt .
+February 25th 2026
+Announcement of the call
+02 march 2026 (12h)
+Opening of applications
+31 march 2026 (17h)
+Closing of applications
+April 6th, 2026 (10 AM)
+Opening for acceptance of the application by the principal contractor
+April 17th, 2026 (23:59)
+Closing for acceptance of application by the principal contractor
+July 31st, 2026
+Preliminary results
+beginning of November 2026
+Final results
+Call Documents:
+Notice of the Call
+Evaluation Guide
+Application Guide
+Ethics Guide
+Guide for Contracting Institutions
+Highlights
+FAQ
+CIÊNCIAVITAE Guide
+FCT Regulation for Studentships and Fellowships
+Research Fellowship Holder Statute
+2030 UN Agenda
+ENEI 2030
+Evaluation Panels
+Download all
+Start application
+Call Documents
+Total number of applications
+833
+Number of approved applications
+600
+Total funding value
+54.375.000€
+Approval rate
+72%
+Call Documents:
+Preliminary results of the call
+Download all
+Atualizado em 31 Julho 2026
+Av. do Brasil, 101
+1700-066 Lisboa, Portugal
++&#51;&#x35;&#x31; &#50;&#49;&#x33;&#x20;9&#50;&#52;&#x20;&#x33;0&#48;
+Financiamento
+Programas de Financiamento
+Internacional
+Prémios
+Media
+Notícias
+Notas de Imprensa
+Subscrever Newsletter
+Subscrever Direct Mail de Concursos
+Agenda
+Publicações
+Media e Identidade de Marca
+Concursos
+Concursos Abertos
+Concursos Previstos
+Concursos Fechados
+Calendarização FCT 2026
+Serviços
+Serviços digitais: Tecnologia para o Conhecimento
+Arquivo, Documentação e Informação
+Acesso a dados estatísticos para fins científicos – Protocolo INE/DGEEC/FCT
+Balcão da Ciência
+Sobre
+A FCT
+Estudos e Planeamento Estratégico
+Documentos de Gestão
+A FCT em Números
+Apoios Comunitários
+Recrutamento, Aquisição de Serviços e Parcerias
+FCCN, Serviços Digitais da FCT
+Portais FCT
+Canais de Denúncias
+Contactos
+©2022 · Fundação para a Ciência e a Tecnologia
+Política de Privacidade e Protecção de Dados
+Política de Cookies
+Perguntas Frequentes
+Acessibilidade

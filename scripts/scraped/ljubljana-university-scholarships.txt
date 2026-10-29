@@ -6,7 +6,7 @@ URL Source: https://www.uni-lj.si/study/for_prospective_students/scholarships/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Spletna stran Univerze v Ljubljani uporablja piškotke v skladu z našo [politiko varovanja zasebnosti](https://www.uni-lj.si/study/for_prospective_students/scholarships/politika-varstva-zasebnosti-in-piskotkov). Nujne, ki so potrebni za nemoteno delovanje spletne strani, smo že naložili. Veseli bomo če nam dovolite, da naložimo tudi analitične.
+Spletna stran Univerze v Ljubljani uporablja piškotke v skladu z našo [politiko varovanja zasebnosti](https://www.uni-lj.si/politika-varstva-zasebnosti-in-piskotkov). Nujne, ki so potrebni za nemoteno delovanje spletne strani, smo že naložili. Veseli bomo če nam dovolite, da naložimo tudi analitične.
 
 *    Nastavitve 
 *    Naloži samo nujne 
