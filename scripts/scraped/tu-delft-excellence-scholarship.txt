@@ -39,7 +39,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -65,7 +65,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -308,7 +308,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -334,7 +334,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -720,7 +720,7 @@ Evenementen
 Sociale veiligheid
 Science Centre
 Over TU Delft
-Menu sluiten
+Menu openen
 Zoek medewerkers
 Contact
 Locaties
@@ -964,7 +964,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -990,7 +990,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations
@@ -1233,7 +1233,7 @@ Strategy
 University Fund
 Search
 Students & Education
-Menu openen
+Menu sluiten
 Programmes
 Admission and Application
 Study Programme Orientation
@@ -1259,7 +1259,7 @@ Events
 Social safety
 Science Centre
 About TU Delft
-Menu sluiten
+Menu openen
 Find employees
 Contact
 Locations

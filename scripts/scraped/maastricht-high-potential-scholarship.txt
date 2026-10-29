@@ -530,7 +530,7 @@ Tuition fees
 Financing your studies
             *   [Dutch student finance (DUO)](https://www.maastrichtuniversity.nl/study/admission-enrolment/je-studie-financieren/dutch-student-finance)
             *   [Scholarships for international students](https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships)
-            *   [International financial aid](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies/country-based-financial-aid-international-students)
+            *   [International financial aid](https://www.maastrichtuniversity.nl/study/admission-enrolment/je-studie-financieren/country-based-financial-aid-international-students)
             *   [Cost of living & financial assistance](https://www.maastrichtuniversity.nl/studeren/studentenleven/cost-studying-financial-assistance)
             *   [Financial support for study delays: UM Student Support Fund](https://www.maastrichtuniversity.nl/study/admission-enrolment/financing-your-studies/financial-support-study-delays-um-student-support)
 
@@ -951,6 +951,8 @@ Flow cytometry
                             *   [Equipment](https://www.maastrichtuniversity.nl/flowcytometrie/equipment)
                             *   [Flow Cytometry Course](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-facilities/flow-cytometry-0)
                             *   [Contact](https://www.maastrichtuniversity.nl/over-de-um/faculteiten/health-medicine-and-life-sciences/onderzoek/onderzoeksfaciliteiten-0/contact)
+
+                        *   [Overview](https://www.maastrichtuniversity.nl/over-de-um/faculteiten/health-medicine-and-life-sciences/onderzoek/onderzoeksfaciliteiten/overview)
 
                     *   [Services](https://www.maastrichtuniversity.nl/about-um/faculties/health-medicine-and-life-sciences/research/research-services)Open Services
 
@@ -1485,9 +1487,9 @@ Elections
             *   [University Council](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/welcome-university-council)Open University Council
 
 University Council
-                *   [Get involved!](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/welcome-university-council/get-involved)
-                *   [About the University Council](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/welcome-university-council/about-university)
-                *   [Members of the University Council](https://www.maastrichtuniversity.nl/about-um/organisation/participation-representation/welcome-university-council/members-university)
+                *   [Get involved!](https://www.maastrichtuniversity.nl/over-de-um/organisatie/medezeggenschap/welcome-university-council/get-involved)
+                *   [About the University Council](https://www.maastrichtuniversity.nl/over-de-um/organisatie/medezeggenschap/welcome-university-council/about-university-council)
+                *   [Members of the University Council](https://www.maastrichtuniversity.nl/over-de-um/organisatie/medezeggenschap/welcome-university-council/members-university-council)
 
             *   [Faculty Councils](https://www.maastrichtuniversity.nl/faculty-councils)
 

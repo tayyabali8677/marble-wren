@@ -101,16 +101,16 @@ Mostrando artículos publicados por: amexcid
 Publicado en la categoría: Documentos
 Año de publicación
 Año
-Nacional
+Areas
 Comunicados
 Conferencias de prensa
-Areas
-Infield
-Estatal
-Pabellones
+Discursos
 Discursos del Presidente
 Entrevistas
-Discursos
+Estatal
+Infield
+Nacional
+Pabellones
 Categoría
 Seleccione Seccion Anuncios
 Consultas

@@ -18,4 +18,4 @@ That page seems to have disappeared in cyberspace. The information is probably s
 
 Back to [Startpage](https://www.umu.se/en/education/)
 
-Server: 97d5e253ca40 IP: 130.239.9.70
+Server: 94408e1ac3c9 IP: 130.239.9.70

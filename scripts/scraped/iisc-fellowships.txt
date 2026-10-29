@@ -41,6 +41,9 @@ Instructions for Online Admissions Portal
 Online Admissions Portal
 Announcements
 Welcome to the Admissions Website for IISc! This website has information related to the admissions process for various admissions cycle. The key pages are listed below. You can also access these links and other details from the menus.
+Cut-off Report used for shortlisting candidates for interviews in Mid-year admissions 2026-27:
+Cutoff Report &#8211; Research Programme (PhD)
+Note: In case an applicant has scored a cutoff higher than the one indicated and has not received a call letter/ email communication/ communication on the applicant&#8217;s interface of the admission portal for offline interview/ written test (as applicable), may send an email to the admissions office at admission.acad@iisc.ac.in on or before 4th November 2026. (Updated on 29/10/2026)
 Corrigendum-1 to the Mid-year Admission Notice for Ph.D. Programmes for the Academic Year 2026-27 (Updated on 29.09.2026).
 Mid-year Admission Notice for Ph.D. Programmes for the Academic Year 2026-27 (Updated on 16.09.2026).
 Previous Admissions Cycles
@@ -58,10 +61,10 @@ Accolades
 IISc in the News
 more&#8230;
 Arting Science
-Mendel’s first law of inheritance in madhubani
 Campus Life
+Winter @ IISc
 Did You know?
-IISc is built on land that was donated by the Maharajah of Mysore.
+Morse code signalling was first introduced in Electrical laboratory course  in 1926 and  taught by Mr.Locke.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -250,15 +253,17 @@ Other Central Institutions
 121 Ghani Khan Choudhury Institute of Engineering & Technology(GKCIET), Malda, West Bengal
 122 Central Institute of Technology (CIT), Kokrajhar, Assam
 General Information
-Giving to IISc
-Give to IISc
-Major benefactors
-Development & Alumni Affairs
+Research
+Research Highlights
+Accolades
+IISc in the News
+more&#8230;
 Arting Science
+Twin Paradox in Phad
 Campus Life
-Orange Delight : Taken at IISc&#8217;s Horticultural Nursery
+Cattle Egret
 Did You know?
-Mysore sandal oil factory was the first industry to be set up with research from IISc in 1916.
+IISc is built on land that was donated by the Maharajah of Mysore.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -721,17 +726,15 @@ TOTAL (1st year)
 20,800
 * to be paid in the first year only
 General Information
-Research
-Research Highlights
-Accolades
-IISc in the News
-more&#8230;
+Giving to IISc
+Give to IISc
+Major benefactors
+Development & Alumni Affairs
 Arting Science
-Phagocytosis in Cheriyal
 Campus Life
-Winter @ IISc
+Indian Paradise Flycatcher (Rufous)
 Did You know?
-IISc became a deemed University in 1958.
+May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -890,14 +893,15 @@ OCI/PIO (I) candidates are treated as Indian nationals but can only apply under 
 Can an OCI/PIO candidate apply in both categories (OCI/PIO (F) and OCI/PIO (I))?
 No. Candidates must choose only one category while applying. If an OCI/PIO candidate is found to have applied under both OCI/PIO (F) and OCI/PIO (I), their application will be cancelled due to the use of unfair means.
 General Information
-Giving to IISc
-Give to IISc
-Major benefactors
-Development & Alumni Affairs
+Faculty, Staff &#038; Students
+Faculty
+Students
+Staff
 Arting Science
+Mendel’s first law of inheritance in madhubani
 Campus Life
 Did You know?
-IISc became a deemed University in 1958.
+IISc was established in 1909, but its Foundation Stone was laid only in 1911.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1032,15 +1036,15 @@ Updating National Entrance Test Results after Application Submission
 The results of certain National Entrance Tests (e.g., GATE, JAM, etc.) may not be available at the time of application submission. Applicants are required to provide the available details, such as roll number/ paper, while the score/rank/result fields may be left blank.
 After submitting the application, applicants will be permitted to update only their National Entrance Test results through the Applicant Dashboard. The update must be completed within three days of the declaration of results for consideration during evaluation. Failure to update the details within the stipulated time will render the application ineligible under the respective mode of entry. No requests or representations for updates will be entertained after the deadline.
 General Information
-International Relations
-Collaborative Research
-Exchange Programmes
+Giving to IISc
+Give to IISc
+Major benefactors
+Development & Alumni Affairs
 Arting Science
-Commercial ventures that originated in IISc
 Campus Life
-Nature&#8217;s Diamonds
+Brown-breasted Flycatcher
 Did You know?
-The first J N Tata lecture was delivered by J.Bhabha in 29-03-1952 and endowed by the Dorab Tata Trust.
+Sir C V Raman was appointed as the Director of IISc in 1933, the first Indian to hold this position.
 Artsy Research
 © Indian Institute of Science, Bengaluru
 Contact
@@ -1283,15 +1287,15 @@ Students from Colleges & Universities are welcome to visit the Institute on a wo
 The Authorities of Colleges/Universities may please write to the Public Relations Officer of the Institute at his email-id: pro@iisc.ac.in ( Fax No.080 – 23600853 ) identifying a Friday of the month, the specific Department which they wish to visit and ascertain the convenience of the Institute at least 15 days prior to the proposed date of visit. For any queries, they may approach the PRO office no. 080-22932770 / 22932680.
 Permission for visit will be communicated through email only and therefore Colleges/Universities are requested to clearly give their correct email-id in their correspondence with the Public Relations Officer.&#8221;
 General Information
-Outreach
-IIScPress
-Centre for Continuing Education
-KVPY
-Social Events
+Alumni
+Development & Alumni Affairs
+IISc&#8217;s Alumni Portal
 Arting Science
+Phagocytosis in Cheriyal
 Campus Life
+Winter @ IISc
 Did You know?
-May 1902 &#8211; Mysore  govt. gave  an undertaking to cede  justification over the site of civil and military station of Bangalore.
+The billiards table was acquired in May 1925 for the club house and the students Gymkhana Club.
 Artsy Research
 Resources
 Campus Life

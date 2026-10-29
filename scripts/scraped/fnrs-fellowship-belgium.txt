@@ -274,7 +274,7 @@ Calls
 SELECT YOUR LANGUAGE
 French
 English
-Homepage EN
+Homepage
 Featured News
 Call
 SEN

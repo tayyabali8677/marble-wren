@@ -3,7 +3,7 @@ Title: African Development Bank Group
 
 URL Source: https://www.afdb.org/en/about/careers
 
-Published Time: Thu, 29 Oct 2026 05:01:04 GMT
+Published Time: Thu, 29 Oct 2026 18:51:08 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -261,15 +261,15 @@ no body
 *   [Education](https://www.afdb.org/en/topics-and-sectors/sectors/education)
 *   [Energy](https://www.afdb.org/en/topics-and-sectors/sectors/energy-power)
 
-## Topics
-
-no body
-
 *   [Integrity and Anti-Corruption](https://www.afdb.org/en/about-us/organisational-structure/integrity-and-anti-corruption)
 *   [Civil Society](https://www.afdb.org/en/topics-and-sectors/topics/civil-society)
 *   [Independent Development Evaluation](https://idev.afdb.org/)
 *   [Independent Recourse Mechanism](https://www.afdb.org/en/about-us/organisational-structure/independent-review-mechanism-irm)
 *   [Fragility & Resilience](https://www.afdb.org/en/topics-and-sectors/topics/fragility-resilience)
+
+## Topics
+
+no body
 
 ## Our microsites
 

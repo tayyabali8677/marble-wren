@@ -182,10 +182,9 @@ UTokyo Outline
 Term Dates and University Calendar
 UTokyo MEDIA
 Featured Book
-Private Higher Educ...
-Daniel C. Levy, Quang Chau,
-Akiyoshi Yonezawa (eds.)
-The public role of higher education is a hot topic. But what about private higher education? Is the distinction between public and private higher education clear, or is it becoming blurred? Fundamenta...[Read more]
+Shiranakatta de wa ...
+TAKAHASHI Nobuo
+This book is published by Takahashi Shoten, the publisher of &ldquo;Takahashi&rsquo;s Planners,&rdquo; which I myself use. To be honest, I had no idea that Takahashi Shoten published general-interest ...[Read more]
 Message from President Fujii
 Introducing UTokyo Compass
 Participation in "Race to Zero"
@@ -210,14 +209,14 @@ List of Overseas Offices
 Responses to date concerning the Coronavirus Disease
 Great East Japan Earthquake Response
 PAGE UPDATES
+October 29, 2026
+Scholarships Offered by Private Organizations
 October 28, 2026
 Social media directory
 October 22, 2026
 UTokyo President’s Log
 October 22, 2026
 UTokyo President’s Log
-October 22, 2026
-Scholarships Offered by Private Organizations
 University Facilities
 The University of Tokyo Hospital
 IMSUT Hospital
@@ -256,463 +255,475 @@ Access and Campus Maps
 Close
 
 ===== SOURCE PAGE: https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html =====
-Services and Benefits | The University of Tokyo
-JavaScript is required to display the University of Tokyo website correctly. Please enable JavaScript in your browser settings and refresh the page.
-Skip to content
-Contact
-日本語
+Title: The University of Tokyo
+
+URL Source: https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html
+
+Markdown Content:
+[![Image 1: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+
+*   [Skip to content](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#container)
+*   [Contact](https://www.u-tokyo.ac.jp/en/general/contact.html)
+
+[日本語](https://www.u-tokyo.ac.jp/ja/index.html)
+
+[![Image 2: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+
+![Image 3: Search](https://www.u-tokyo.ac.jp/content/400244321.svg)
+
 People
-Giving to UTokyo
-HOME
-Education
-About UTokyo
-Office of the President
-Mission and Vision
-History
-Facts and Figures
-Offices & Administration
-Publications & PR
-Visit UTokyo
-Access and Campus Maps
-Facilities
-Rules and Regulations
-Job Information
-Academics
-Faculties
-Graduate Schools
-Institutes and Other University Organizations
-Special Educational Activities
-Research Activities
-International Activities
-Why UTokyo?
-Explore Our Campuses
-Learn
-Discover Our People
-In Depth
-Why Tokyo?
-Why Japan?
-Research
-UTokyo FOCUS
-Research from Graduate Schools, Institutes and Other Organizations
-University-wide Research Activities
-Research Cooperation with Industries
-Research at UTokyo
-Alumni
-News & Topics
-UTokyo Alumni Association
-Connect
-Learn
-Support for Students
-Contribute
-Publications Including Online Media
-Bulletin Board
-Services and Benefits
-Obtaining Certificates of Student Status, Certificates of Graduation, and Transcripts
-Term Dates and University Calendar
-Prospective Students
-Why UTokyo?
-Undergraduate Students
-Graduate Students
-Student Exchange Programs
-Special and Short-term Programs
-Housing
-Tuition and Scholarships
-Student Support
-Guide for International Students UTokyo
-Current Students
-News/Notices & Events
-Procedures for Entering and Residing in Japan
-Housing
-Health and Safety
-Tuition and Scholarships
-Career Support for Students
-Studying Japanese
-Studying Abroad
-On-campus Services for International Students and Researchers
-University-wide Student Exchange Program (USTEP) Type U
-Support for Family Members in Japan
-Rules and Regulations
-Term Dates and University Calendar
-Ceremonies
+
+[Giving to UTokyo ![Image 4: Open a new window](https://www.u-tokyo.ac.jp/content/400244317.svg)](https://utf.u-tokyo.ac.jp/en/)
+
+[HOME](https://www.u-tokyo.ac.jp/en/index.html)
+
+[Education](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+[![Image 5: UTokyo FOCUS](https://www.u-tokyo.ac.jp/content/400244330.png)](https://www.u-tokyo.ac.jp/focus/en/index.html)
+
+*   [About UTokyo](https://www.u-tokyo.ac.jp/en/about/about.html)
+
+    *   [Office of the President](https://www.u-tokyo.ac.jp/en/about/office_president.html)
+    *   [Mission and Vision](https://www.u-tokyo.ac.jp/en/about/mission.html)
+    *   [History](https://www.u-tokyo.ac.jp/en/about/history.html)
+    *   [Facts and Figures](https://www.u-tokyo.ac.jp/en/about/facts_figures.html)
+    *   [Offices & Administration](https://www.u-tokyo.ac.jp/en/about/offices_admin.html)
+
+    *   [Publications & PR](https://www.u-tokyo.ac.jp/en/about/publications.html)
+    *   [Visit UTokyo](https://www.u-tokyo.ac.jp/en/general/visit.html)
+    *   [Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+    *   [Facilities](https://www.u-tokyo.ac.jp/en/about/facilities.html)
+    *   [Rules and Regulations](https://www.u-tokyo.ac.jp/en/about/rules.html)
+    *   [Job Information](https://www.u-tokyo.ac.jp/en/about/jobs.html)
+
+![Image 6: An arched passageway with people walking through it](https://www.u-tokyo.ac.jp/content/100116088.png)
+
+*   [Academics](https://www.u-tokyo.ac.jp/en/academics/academics.html)
+
+    *   [Faculties](https://www.u-tokyo.ac.jp/en/academics/faculties.html)
+    *   [Graduate Schools](https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html)
+    *   [Institutes and Other University Organizations](https://www.u-tokyo.ac.jp/en/academics/institutes_centers.html)
+
+    *   [Special Educational Activities](https://www.u-tokyo.ac.jp/en/academics/educational_activities.html)
+    *   [Research Activities](https://www.u-tokyo.ac.jp/en/research/research.html)
+    *   [International Activities](https://www.u-tokyo.ac.jp/en/academics/international_activities.html)
+
+![Image 7: Room with several windows and rows of long tables and chairs](https://www.u-tokyo.ac.jp/content/100116087.png)
+
+*   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+
+    *   [Explore Our Campuses](https://www.u-tokyo.ac.jp/en/whyutokyo/cam_index.html)
+    *   [Learn](https://www.u-tokyo.ac.jp/en/whyutokyo/learn_index.html)
+    *   [Discover Our People](https://www.u-tokyo.ac.jp/en/whyutokyo/people_index.html)
+
+    *   [In Depth](https://www.u-tokyo.ac.jp/en/whyutokyo/indpt_index.html)
+    *   [Why Tokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/whytky_index.html)
+    *   [Why Japan?](https://www.u-tokyo.ac.jp/en/whyutokyo/whyjpn_index.html)
+
+![Image 8: Clock tower building against a blue sky background](https://www.u-tokyo.ac.jp/content/100116086.png)
+
+*   [Research](https://www.u-tokyo.ac.jp/en/research/research.html)
+
+    *   [UTokyo FOCUS](https://www.u-tokyo.ac.jp/focus/en/index.html)
+    *   [Research from Graduate Schools, Institutes and Other Organizations](https://www.u-tokyo.ac.jp/en/research/research_publications.html)
+
+    *   [University-wide Research Activities](https://www.u-tokyo.ac.jp/en/research/universitywide_research.html)
+    *   [Research Cooperation with Industries](https://www.u-tokyo.ac.jp/en/research/research_cooperation.html)
+    *   [Research at UTokyo](https://www.u-tokyo.ac.jp/en/research/research_at_utokyo.html)
+
+![Image 9: Several people gathered together in a large indoor space](https://www.u-tokyo.ac.jp/content/100116085.png)
+
+*   [Alumni](https://www.u-tokyo.ac.jp/en/alumni/alumni.html)
+
+    *   [News & Topics](https://www.u-tokyo.ac.jp/en/alumni/news_events.html)
+    *   [UTokyo Alumni Association](https://www.u-tokyo.ac.jp/en/alumni/utaa.html)
+    *   [Connect](https://www.u-tokyo.ac.jp/en/alumni/connect.html)
+    *   [Learn](https://www.u-tokyo.ac.jp/en/alumni/learn.html)
+    *   [Support for Students](https://www.u-tokyo.ac.jp/en/alumni/supportstudent.html)
+    *   [Contribute](https://www.u-tokyo.ac.jp/en/alumni/volunteer.html)
+    *   [Publications Including Online Media](https://www.u-tokyo.ac.jp/en/alumni/media.html)
+
+    *   [Bulletin Board](https://www.u-tokyo.ac.jp/en/alumni/bulletin_board.html)
+    *   [Services and Benefits](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+    *   [Obtaining Certificates of Student Status, Certificates of Graduation, and Transcripts](https://www.u-tokyo.ac.jp/en/current-students/obtain_certificates.html)
+    *   [Term Dates and University Calendar](https://www.u-tokyo.ac.jp/en/current-students/university_calendar.html)
+
+![Image 10: Several people gathered together in a room](https://www.u-tokyo.ac.jp/content/100116203.png)
+
+*   [Prospective Students](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+    *   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+    *   [Undergraduate Students](https://www.u-tokyo.ac.jp/en/prospective-students/undergraduate.html)
+    *   [Graduate Students](https://www.u-tokyo.ac.jp/en/prospective-students/grad_students.html)
+    *   [Student Exchange Programs](https://www.u-tokyo.ac.jp/en/academics/student_exchange.html)
+    *   [Special and Short-term Programs](https://www.u-tokyo.ac.jp/en/prospective-students/special_programs.html)
+
+    *   [Housing](https://www.u-tokyo.ac.jp/en/prospective-students/housing.html)
+    *   [Tuition and Scholarships](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+    *   [Student Support](https://www.u-tokyo.ac.jp/en/prospective-students/student_support.html)
+    *   [Guide for International Students UTokyo](https://www.u-tokyo.ac.jp/en/about/intl_students_guide.html)
+
+![Image 11: International students standing and talking with each other](https://www.u-tokyo.ac.jp/content/100116201.jpeg)
+
+*   [Current Students](https://www.u-tokyo.ac.jp/en/current-students/current_students.html)
+
+    *   [News/Notices & Events](https://www.u-tokyo.ac.jp/adm/inbound/en/index.html)
+    *   [Procedures for Entering and Residing in Japan](https://www.u-tokyo.ac.jp/en/prospective-students/procedures_students.html)
+    *   [Housing](https://www.u-tokyo.ac.jp/en/prospective-students/housing.html)
+    *   [Health and Safety](https://www.u-tokyo.ac.jp/en/current-students/health_safety.html)
+    *   [Tuition and Scholarships](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+    *   [Career Support for Students](https://www.u-tokyo.ac.jp/en/prospective-students/career_support.html)
+    *   [Studying Japanese](https://www.u-tokyo.ac.jp/adm/jle/en/index.html)
+
+    *   [Studying Abroad](https://www.u-tokyo.ac.jp/en/current-students/go_global.html)
+    *   [On-campus Services for International Students and Researchers](https://www.u-tokyo.ac.jp/en/current-students/services_students.html)
+    *   [University-wide Student Exchange Program (USTEP) Type U](https://www.u-tokyo.ac.jp/en/current-students/ustep-typeu.html)
+    *   [Support for Family Members in Japan](https://www.u-tokyo.ac.jp/en/prospective-students/family_support.html)
+    *   [Rules and Regulations](https://www.u-tokyo.ac.jp/en/about/rules.html)
+    *   [Term Dates and University Calendar](https://www.u-tokyo.ac.jp/en/current-students/university_calendar.html)
+    *   [Ceremonies](https://www.u-tokyo.ac.jp/en/current-students/ceremonies.html)
+
+![Image 12: People sitting at a table outside a building](https://www.u-tokyo.ac.jp/content/100116202.png)
+
+![Image 13: Search](https://www.u-tokyo.ac.jp/content/400244321.svg)
+
 People
-HOME
-About UTokyo
-Academics
-Why UTokyo?
-Research
+
+*   [HOME](https://www.u-tokyo.ac.jp/en/index.html)
+*   [About UTokyo](https://www.u-tokyo.ac.jp/en/about/about.html)
+*   [Academics](https://www.u-tokyo.ac.jp/en/academics/academics.html)
+*   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+*   [Research](https://www.u-tokyo.ac.jp/en/research/research.html)
+*   [Alumni](https://www.u-tokyo.ac.jp/en/alumni/alumni.html)
+
+[Education](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+*   [Prospective Students](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+*   [Current Students](https://www.u-tokyo.ac.jp/en/current-students/current_students.html)
+
+[UTokyo FOCUS](https://www.u-tokyo.ac.jp/focus/en/index.html)
+
+*   [Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+*   [Contact](https://www.u-tokyo.ac.jp/en/general/contact.html)
+*   [Make a donation![Image 14: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](http://utf.u-tokyo.ac.jp/english/index.html)
+
 Alumni
-Education
-Prospective Students
-Current Students
-UTokyo FOCUS
-Access and Campus Maps
-Contact
-Make a donation
-Alumni
-Home > Alumni > Services and Benefits
-Services and Benefits
+
+![Image 15](https://www.u-tokyo.ac.jp/content/400036422.jpg)
+
+[Home](https://www.u-tokyo.ac.jp/en/index.html)>[Alumni](https://www.u-tokyo.ac.jp/en/alumni/alumni.html)>_Services and Benefits_
+
+# _Services and Benefits_
+
 A lot of services and benefits available for those registered with UTokyo Online Community (TFT) as well as for all alumni.
-For TFT Members
-For All Alumni
-Inquiries about the content of this page: Alumni Affairs (Development Office) Send inquiry
-Social media directory
-Site map
-Site policy
-Privacy policy
-Jobs
-UTokyo Portal
-utelecon
-Frequently asked questions
-Access and campus maps
-Disseminating information for UTokyo during disasters
-This website is managed by the Public Relations Office.
-For inquiries regarding the content of individual pages, please use the contact information listed on each page.
-&copy; The University of Tokyo
-Kashiwa Campus
-Hongo Campus
-Komaba Campus
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
+
+*   [For TFT Members](https://alumni.adm.u-tokyo.ac.jp/en/services/tft-members/)
+*   [For All Alumni](https://alumni.adm.u-tokyo.ac.jp/en/services/all-alumni/)
+
+Inquiries about the content of this page: Alumni Affairs (Development Office)[Send inquiry](https://www.u-tokyo.ac.jp/contact/news_mail_e.php?dir=h-0303 "Open a new window")
+
+*   [![Image 16: Facebook (Open a new window)](https://www.u-tokyo.ac.jp/content/100074629.png)](https://www.facebook.com/UTokyo.News.en)
+*   [![Image 17: Twitter (Open a new window)](https://www.u-tokyo.ac.jp/content/100074651.png)](https://twitter.com/UTokyo_News_en)
+*   [![Image 18: YouTube (Open a new window)](https://www.u-tokyo.ac.jp/content/100074655.jpg)](https://www.youtube.com/user/UTokyoPR/)
+*   [![Image 19: Instagram (Open a new window)](https://www.u-tokyo.ac.jp/content/400194255.png)](https://www.instagram.com/utokyo_pr/)
+*   [![Image 20: LinkedIn (Open a new window)](https://www.u-tokyo.ac.jp/content/400194256.gif)](https://jp.linkedin.com/school/university-of-tokyo/)
+*   [Social media directory](https://www.u-tokyo.ac.jp/sns_en.html)
+
+[![Image 21: Go back to page TOP](https://www.u-tokyo.ac.jp/content/100074660.jpg)](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#content)
+
+[![Image 22: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+*   [Site map](https://www.u-tokyo.ac.jp/en/site_map.html)
+*   [Site policy](https://www.u-tokyo.ac.jp/en/general/site_policy.html)
+*   [Privacy policy](https://www.u-tokyo.ac.jp/en/general/privacy_policy.html)
+*   [Jobs](https://www.u-tokyo.ac.jp/en/about/jobs.html)
+*   [UTokyo Portal![Image 23: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](https://login.adm.u-tokyo.ac.jp/utokyoportal)
+*   [utelecon![Image 24: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](https://utelecon.adm.u-tokyo.ac.jp/en/)
+*   [Frequently asked questions](https://www.u-tokyo.ac.jp/en/general/qa.html)
+*   [Access and campus maps](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map)
+
+[Disseminating information for UTokyo during disasters](https://www.u-tokyo.ac.jp/en/general/utokyo_emerg.html)
+This website is managed by the Public Relations Office.  
+ For inquiries regarding the content of individual pages, please use the contact information listed on each page.
+
+© The University of Tokyo
+
+![Image 25](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+
+[](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)[](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+
+[](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+
+[](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+
+![Image 26: Access Map](https://www.u-tokyo.ac.jp/content/100097993.jpg)
+[Kashiwa Campus](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map1)
+
+[Hongo Campus](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map2)
+
+[Komaba Campus](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map3)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#)
+
+![Image 27: Kashiwa Campus](https://www.u-tokyo.ac.jp/content/100099002.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#)
+
+![Image 28: Hongo Campus](https://www.u-tokyo.ac.jp/content/100099000.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#)
+
+![Image 29: Komaba Campus](https://www.u-tokyo.ac.jp/content/100099001.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html#)
+
 
 ===== SOURCE PAGE: https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html =====
-Tuition and Scholarships | The University of Tokyo
-JavaScript is required to display the University of Tokyo website correctly. Please enable JavaScript in your browser settings and refresh the page.
-Skip to content
-Contact
-日本語
-People
-Giving to UTokyo
-HOME
-Education
-About UTokyo
-Office of the President
-Mission and Vision
-History
-Facts and Figures
-Offices & Administration
-Publications & PR
-Visit UTokyo
-Access and Campus Maps
-Facilities
-Rules and Regulations
-Job Information
-Academics
-Faculties
-Graduate Schools
-Institutes and Other University Organizations
-Special Educational Activities
-Research Activities
-International Activities
-Why UTokyo?
-Explore Our Campuses
-Learn
-Discover Our People
-In Depth
-Why Tokyo?
-Why Japan?
-Research
-UTokyo FOCUS
-Research from Graduate Schools, Institutes and Other Organizations
-University-wide Research Activities
-Research Cooperation with Industries
-Research at UTokyo
-Alumni
-News & Topics
-UTokyo Alumni Association
-Connect
-Learn
-Support for Students
-Contribute
-Publications Including Online Media
-Bulletin Board
-Services and Benefits
-Obtaining Certificates of Student Status, Certificates of Graduation, and Transcripts
-Term Dates and University Calendar
-Prospective Students
-Why UTokyo?
-Undergraduate Students
-Graduate Students
-Student Exchange Programs
-Special and Short-term Programs
-Housing
-Tuition and Scholarships
-Student Support
-Guide for International Students UTokyo
-Current Students
-News/Notices & Events
-Procedures for Entering and Residing in Japan
-Housing
-Health and Safety
-Tuition and Scholarships
-Career Support for Students
-Studying Japanese
-Studying Abroad
-On-campus Services for International Students and Researchers
-University-wide Student Exchange Program (USTEP) Type U
-Support for Family Members in Japan
-Rules and Regulations
-Term Dates and University Calendar
-Ceremonies
-People
-HOME
-About UTokyo
-Academics
-Why UTokyo?
-Research
-Alumni
-Education
-Prospective Students
-Current Students
-UTokyo FOCUS
-Access and Campus Maps
-Contact
-Make a donation
-Prospective Students
-Home
->
-Prospective Students
->
-Tuition and Scholarships
-Tuition and Scholarships
-The University of Tokyo hopes that every University student will enjoy successful learning, a fruitful campus life and ideal career paths after graduation. For these purposes, the University provides full support for students, including scholarships and tuition exemptions. For more information, please visit the pages below.
-Admission Fee and Tuition
-Exemptions of Admission Fee & Tuition Fee
-Scholarships
-Student Discounts (Commuting, Travel and Selected Museums)
-The University of Tokyo Foundation's Support Fund for International Students (Condolence Money and Emergency Loans)
-Social media directory
-Site map
-Site policy
-Privacy policy
-Jobs
-UTokyo Portal
-utelecon
-Frequently asked questions
-Access and campus maps
-Disseminating information for UTokyo during disasters
-This website is managed by the Public Relations Office.
-For inquiries regarding the content of individual pages, please use the contact information listed on each page.
-&copy; The University of Tokyo
-Kashiwa Campus
-Hongo Campus
-Komaba Campus
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
-Back
-Access and Campus Maps
-Close
+Title: The University of Tokyo
 
-===== SOURCE PAGE: https://www.u-tokyo.ac.jp/biblioplaza/en/L_00238.html =====
-UTokyo BiblioPlaza - Private Higher Education in Asia
-This website uses JavaScript. Please note that if you disable JavaScript, the function will be restricted.
-Japanese
-English
-About UTokyo BiblioPlaza
-Latest News
-Contact Us
-About Us
-Latest News
-Contact Us
-Japanese
-Find a book
-Further refine the search
-See all Categories
-General Works
-Philosophy
-History
-Social Sciences
-Natural Sciences
-Technology
-Industry
-The arts
-Language
-Literature
-Browse All
-Law and Politics
-School of Engineering
-Humanities and Sociology
-School of Science
-Agricultural and Life Sciences
-Economics
-Arts and Sciences
-Education
-Pharmaceutical Sciences
-Mathematical Sciences
-Frontier Sciences
-Information Science and Technology
-Information Studies
-Public Policy
-Institute of Medical Science
-Earthquake Research
-Advanced Studies on Asia
-Social Science
-Industrial Science
-Historiographical
-Quantitative Biosciences
-Atmosphere and Ocean Research
-Advanced Science and Technology
-Library
-Higher Education
-Counseling and Support
-Secondary to Higher Education
-Global Education
-Inclusion, Diversity and Equity
-Tokyo College
-Kavli Institute
-Future Initiatives
-The University Museum
-Information Technology
-Spatial Information Science
-Education and Research on Asia
-Environment, Health and Safety
-Disability Services
-University Corporate Relations
-Global Leadership Program
-Print this page
-Title
-Global Realities of Private Higher Education
-Private Higher Education in Asia
-Changing the Dynamics of Privateness and Publicness
-Author
-Daniel C. Levy, Quang Chau,
-Akiyoshi Yonezawa (eds.)
-Size
-224 pages, hardcover
-Language
-English
-Released
-September 30, 2025
-ISBN
-9781032301242
-Published by
-Routledge
-Book Info
-Visit Publisher's Website
-See Book Availability at Library
-Private Higher Education in Asia
-Japanese Page
-view japanese page
-eBook
-Click here to see the table of contents below
-The public role of higher education is a hot topic. But what about private higher education? Is the distinction between public and private higher education clear, or is it becoming blurred? Fundamentally, can private higher education institutions be treated as single characteristics or as highly diverse entities that require an adequate typology?
-Private higher education in Asia, including Japan, has the largest student population in the world&mdash;actually, over half. Japan, in particular, has a highly developed and diverse private higher education sector ranging from world-class and semi-elite universities to demand-absorbing and product-oriented universities and colleges. Research on private higher education has a long history in Japan but has mainly targeted domestic audiences, including policymakers, private university leaders, staff, students, and alumni. The same is true in other countries in the region. Private higher education is occasionally treated as a minor or peripheral part of national higher education systems.
-This book is the first comprehensive international study of private higher education in Asia. Seven country case studies&mdash;Japan, South Korea, China, Malaysia, Thailand, Indonesia, and Vietnam&mdash;are analyzed based on a common research framework that covers typology, governance, and funding. The book is edited by three researchers: Daniel Levy, who led the Program for Research on Private Higher Education (PROPHE) as a professor at the State University of New York at Albany for a quarter of a century. The other editors are Quang Chau, a doctoral student at SUNY Albany and a faculty member at Vietnam National University Hanoi, and Akiyoshi Yonezawa, a professor at Tohoku University who is also serving as a visiting professor at the University of Tokyo from April 2024 to March 2026. Contributors from around the world contributed to the book through extensive online communication.
-Universities in Japan and Asia are now deeply involved in global and regional academic networks, engaging in research dialogues through joint projects and publications. This also applies to the social sciences, including comparative higher education research. Through this book project, we discovered diverse perceptions of private higher education in this region. In Japan and South Korea, private higher education institutions are basically understood as nonprofit agencies, though many of them exhibit market-oriented behaviors through their demand-absorption and product-oriented characteristics. In socialist states such as China and Vietnam, private higher education institutions are legally recognized as &ldquo;non-governmental&rdquo; and privately funded. In Malaysia, Thailand, and Indonesia, private higher education institutions are occasionally for-profit and engaged in the education service trade.
-We stress that Asian private higher education and social science research on the topic are highly dynamic and promising areas of study. We hope that this book stimulates your academic interest and leads you to the next stage of social science studies in Asia, especially private higher education.
-(Written by YONEZAWA Akiyoshi, Visiting Professor, Graduate School of Education / 2025)
-Table of Contents
-chapter 1
-Analyzing Private Higher Education in Asia
-Daniel C. Levy
-chapter 2
-Japan's Private Higher Education
-Long-standing and Diverse Prominence under Demographic Pressure
-Akiyoshi Yonezawa
-chapter 3
-South Korean Higher Education's Striking Private Sector and Private-Public Blends
-Sunwoong Kim
-chapter 4
-Profiling Chinese Private Higher Education
-Liu Xu, Wuyin Yan
-chapter 5
-Sector Differentiation in Thai Higher Education
-Private-Public and Private-Private Comparisons
-Prachayani Praphamontripong Kanwar
-chapter 6
-Shifting Sectoral Distinctiveness Patterns in Malaysian Higher Education
-Private versus Public Alongside Private versus Private
-Chang Da Wan, Molly N.N. Lee
-chapter 7
-Indonesia's Private Higher Education
-Massive and Diverse
-Mohamad Fahmi, Harumi Nimas
-chapter 8
-Dynamics of Distinctiveness and Diversity in Vietnam's Private Higher Education
-Quang Chau, Loc Nguyen
-chapter 9
-Conclusion
-Typological Framework and Expanded Empirical Findings of Private Higher Education in Asia
-Quang Chau, Akiyoshi Yonezawa
-Related Info
-PROPHE &ndash; The Program for Research on Private Higher Education
-https://prophe.org/
-Try these read-alike books:
-@UTokyoBiblioPlaza
-on X
-Find a book
-Books by Category
-General Works
-Philosophy
-History
-Social Sciences
-Natural Sciences
-Technology
-Industry
-The arts
-Language
-Literature
-See all Categories
-Books by Graduate Schools and Faculties
-Browse All
-Law and Politics
-School of Engineering
-Humanities and Sociology
-School of Science
-Agricultural and Life Sciences
-Economics
-Arts and Sciences
-Education
-Pharmaceutical Sciences
-Mathematical Sciences
-Frontier Sciences
-Information Science and Technology
-Information Studies
-Public Policy
-Institute of Medical Science
-Earthquake Research
-Advanced Studies on Asia
-Social Science
-Industrial Science
-Historiographical
-Quantitative Biosciences
-Atmosphere and Ocean Research
-Advanced Science and Technology
-Library
-Higher Education
-Counseling and Support
-Secondary to Higher Education
-Global Education
-Inclusion, Diversity and Equity
-Tokyo College
-Kavli Institute
-Future Initiatives
-The University Museum
-Information Technology
-Spatial Information Science
-Education and Research on Asia
-Environment, Health and Safety
-Disability Services
-University Corporate Relations
-Global Leadership Program
-Introduced here are works by outstanding young researchers who have completed their doctoral courses at The University of Tokyo. These writings include doctoral dissertations, assistant professors’ dissertations, and works created on the basis of these, together with commentary by the authors.
-About Us
-Site Policy
-&copy; The University of Tokyo UTokyo BiblioPlaza is a registered trademark of The University of Tokyo
+URL Source: https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html
+
+Published Time: Wed, 06 May 2026 22:50:43 GMT
+
+Markdown Content:
+[![Image 1: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+
+*   [Skip to content](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#container)
+*   [Contact](https://www.u-tokyo.ac.jp/en/general/contact.html)
+
+[日本語](https://www.u-tokyo.ac.jp/ja/index.html)
+
+[![Image 2: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+
+![Image 3: Search](https://www.u-tokyo.ac.jp/content/400244321.svg)
+
+People
+
+[Giving to UTokyo ![Image 4: Open a new window](https://www.u-tokyo.ac.jp/content/400244317.svg)](https://utf.u-tokyo.ac.jp/en/)
+
+[HOME](https://www.u-tokyo.ac.jp/en/index.html)
+
+[Education](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+[![Image 5: UTokyo FOCUS](https://www.u-tokyo.ac.jp/content/400244330.png)](https://www.u-tokyo.ac.jp/focus/en/index.html)
+
+*   [About UTokyo](https://www.u-tokyo.ac.jp/en/about/about.html)
+
+    *   [Office of the President](https://www.u-tokyo.ac.jp/en/about/office_president.html)
+    *   [Mission and Vision](https://www.u-tokyo.ac.jp/en/about/mission.html)
+    *   [History](https://www.u-tokyo.ac.jp/en/about/history.html)
+    *   [Facts and Figures](https://www.u-tokyo.ac.jp/en/about/facts_figures.html)
+    *   [Offices & Administration](https://www.u-tokyo.ac.jp/en/about/offices_admin.html)
+
+    *   [Publications & PR](https://www.u-tokyo.ac.jp/en/about/publications.html)
+    *   [Visit UTokyo](https://www.u-tokyo.ac.jp/en/general/visit.html)
+    *   [Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+    *   [Facilities](https://www.u-tokyo.ac.jp/en/about/facilities.html)
+    *   [Rules and Regulations](https://www.u-tokyo.ac.jp/en/about/rules.html)
+    *   [Job Information](https://www.u-tokyo.ac.jp/en/about/jobs.html)
+
+![Image 6: An arched passageway with people walking through it](https://www.u-tokyo.ac.jp/content/100116088.png)
+
+*   [Academics](https://www.u-tokyo.ac.jp/en/academics/academics.html)
+
+    *   [Faculties](https://www.u-tokyo.ac.jp/en/academics/faculties.html)
+    *   [Graduate Schools](https://www.u-tokyo.ac.jp/en/academics/graduate_schools.html)
+    *   [Institutes and Other University Organizations](https://www.u-tokyo.ac.jp/en/academics/institutes_centers.html)
+
+    *   [Special Educational Activities](https://www.u-tokyo.ac.jp/en/academics/educational_activities.html)
+    *   [Research Activities](https://www.u-tokyo.ac.jp/en/research/research.html)
+    *   [International Activities](https://www.u-tokyo.ac.jp/en/academics/international_activities.html)
+
+![Image 7: Room with several windows and rows of long tables and chairs](https://www.u-tokyo.ac.jp/content/100116087.png)
+
+*   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+
+    *   [Explore Our Campuses](https://www.u-tokyo.ac.jp/en/whyutokyo/cam_index.html)
+    *   [Learn](https://www.u-tokyo.ac.jp/en/whyutokyo/learn_index.html)
+    *   [Discover Our People](https://www.u-tokyo.ac.jp/en/whyutokyo/people_index.html)
+
+    *   [In Depth](https://www.u-tokyo.ac.jp/en/whyutokyo/indpt_index.html)
+    *   [Why Tokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/whytky_index.html)
+    *   [Why Japan?](https://www.u-tokyo.ac.jp/en/whyutokyo/whyjpn_index.html)
+
+![Image 8: Clock tower building against a blue sky background](https://www.u-tokyo.ac.jp/content/100116086.png)
+
+*   [Research](https://www.u-tokyo.ac.jp/en/research/research.html)
+
+    *   [UTokyo FOCUS](https://www.u-tokyo.ac.jp/focus/en/index.html)
+    *   [Research from Graduate Schools, Institutes and Other Organizations](https://www.u-tokyo.ac.jp/en/research/research_publications.html)
+
+    *   [University-wide Research Activities](https://www.u-tokyo.ac.jp/en/research/universitywide_research.html)
+    *   [Research Cooperation with Industries](https://www.u-tokyo.ac.jp/en/research/research_cooperation.html)
+    *   [Research at UTokyo](https://www.u-tokyo.ac.jp/en/research/research_at_utokyo.html)
+
+![Image 9: Several people gathered together in a large indoor space](https://www.u-tokyo.ac.jp/content/100116085.png)
+
+*   [Alumni](https://www.u-tokyo.ac.jp/en/alumni/alumni.html)
+
+    *   [News & Topics](https://www.u-tokyo.ac.jp/en/alumni/news_events.html)
+    *   [UTokyo Alumni Association](https://www.u-tokyo.ac.jp/en/alumni/utaa.html)
+    *   [Connect](https://www.u-tokyo.ac.jp/en/alumni/connect.html)
+    *   [Learn](https://www.u-tokyo.ac.jp/en/alumni/learn.html)
+    *   [Support for Students](https://www.u-tokyo.ac.jp/en/alumni/supportstudent.html)
+    *   [Contribute](https://www.u-tokyo.ac.jp/en/alumni/volunteer.html)
+    *   [Publications Including Online Media](https://www.u-tokyo.ac.jp/en/alumni/media.html)
+
+    *   [Bulletin Board](https://www.u-tokyo.ac.jp/en/alumni/bulletin_board.html)
+    *   [Services and Benefits](https://www.u-tokyo.ac.jp/en/alumni/services_benefits.html)
+    *   [Obtaining Certificates of Student Status, Certificates of Graduation, and Transcripts](https://www.u-tokyo.ac.jp/en/current-students/obtain_certificates.html)
+    *   [Term Dates and University Calendar](https://www.u-tokyo.ac.jp/en/current-students/university_calendar.html)
+
+![Image 10: Several people gathered together in a room](https://www.u-tokyo.ac.jp/content/100116203.png)
+
+*   [Prospective Students](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+    *   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+    *   [Undergraduate Students](https://www.u-tokyo.ac.jp/en/prospective-students/undergraduate.html)
+    *   [Graduate Students](https://www.u-tokyo.ac.jp/en/prospective-students/grad_students.html)
+    *   [Student Exchange Programs](https://www.u-tokyo.ac.jp/en/academics/student_exchange.html)
+    *   [Special and Short-term Programs](https://www.u-tokyo.ac.jp/en/prospective-students/special_programs.html)
+
+    *   [Housing](https://www.u-tokyo.ac.jp/en/prospective-students/housing.html)
+    *   [Tuition and Scholarships](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+    *   [Student Support](https://www.u-tokyo.ac.jp/en/prospective-students/student_support.html)
+    *   [Guide for International Students UTokyo](https://www.u-tokyo.ac.jp/en/about/intl_students_guide.html)
+
+![Image 11: International students standing and talking with each other](https://www.u-tokyo.ac.jp/content/100116201.jpeg)
+
+*   [Current Students](https://www.u-tokyo.ac.jp/en/current-students/current_students.html)
+
+    *   [News/Notices & Events](https://www.u-tokyo.ac.jp/adm/inbound/en/index.html)
+    *   [Procedures for Entering and Residing in Japan](https://www.u-tokyo.ac.jp/en/prospective-students/procedures_students.html)
+    *   [Housing](https://www.u-tokyo.ac.jp/en/prospective-students/housing.html)
+    *   [Health and Safety](https://www.u-tokyo.ac.jp/en/current-students/health_safety.html)
+    *   [Tuition and Scholarships](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+    *   [Career Support for Students](https://www.u-tokyo.ac.jp/en/prospective-students/career_support.html)
+    *   [Studying Japanese](https://www.u-tokyo.ac.jp/adm/jle/en/index.html)
+
+    *   [Studying Abroad](https://www.u-tokyo.ac.jp/en/current-students/go_global.html)
+    *   [On-campus Services for International Students and Researchers](https://www.u-tokyo.ac.jp/en/current-students/services_students.html)
+    *   [University-wide Student Exchange Program (USTEP) Type U](https://www.u-tokyo.ac.jp/en/current-students/ustep-typeu.html)
+    *   [Support for Family Members in Japan](https://www.u-tokyo.ac.jp/en/prospective-students/family_support.html)
+    *   [Rules and Regulations](https://www.u-tokyo.ac.jp/en/about/rules.html)
+    *   [Term Dates and University Calendar](https://www.u-tokyo.ac.jp/en/current-students/university_calendar.html)
+    *   [Ceremonies](https://www.u-tokyo.ac.jp/en/current-students/ceremonies.html)
+
+![Image 12: People sitting at a table outside a building](https://www.u-tokyo.ac.jp/content/100116202.png)
+
+![Image 13: Search](https://www.u-tokyo.ac.jp/content/400244321.svg)
+
+People
+
+*   [HOME](https://www.u-tokyo.ac.jp/en/index.html)
+*   [About UTokyo](https://www.u-tokyo.ac.jp/en/about/about.html)
+*   [Academics](https://www.u-tokyo.ac.jp/en/academics/academics.html)
+*   [Why UTokyo?](https://www.u-tokyo.ac.jp/en/whyutokyo/index.html)
+*   [Research](https://www.u-tokyo.ac.jp/en/research/research.html)
+*   [Alumni](https://www.u-tokyo.ac.jp/en/alumni/alumni.html)
+
+[Education](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+
+*   [Prospective Students](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)
+*   [Current Students](https://www.u-tokyo.ac.jp/en/current-students/current_students.html)
+
+[UTokyo FOCUS](https://www.u-tokyo.ac.jp/focus/en/index.html)
+
+*   [Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+*   [Contact](https://www.u-tokyo.ac.jp/en/general/contact.html)
+*   [Make a donation![Image 14: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](http://utf.u-tokyo.ac.jp/english/index.html)
+
+# Prospective Students
+
+![Image 15](https://www.u-tokyo.ac.jp/content/400019155.jpg)![Image 16](https://www.u-tokyo.ac.jp/content/400019155.jpg)
+
+[Home](https://www.u-tokyo.ac.jp/en/index.html)>[Prospective Students](https://www.u-tokyo.ac.jp/en/prospective-students/prospective_students.html)>_Tuition and Scholarships_
+
+## _Tuition and Scholarships_
+
+The University of Tokyo hopes that every University student will enjoy successful learning, a fruitful campus life and ideal career paths after graduation. For these purposes, the University provides full support for students, including scholarships and tuition exemptions. For more information, please visit the pages below.
+
+*   [Admission Fee and Tuition](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_fees.html)
+*   [Exemptions of Admission Fee & Tuition Fee](https://www.u-tokyo.ac.jp/en/prospective-students/exemptions.html)
+*   [Scholarships](https://www.u-tokyo.ac.jp/en/prospective-students/scholarships.html)
+*   [Student Discounts (Commuting, Travel and Selected Museums)](https://www.u-tokyo.ac.jp/en/prospective-students/discounts.html)
+*   [The University of Tokyo Foundation's Support Fund for International Students (Condolence Money and Emergency Loans)](https://www.u-tokyo.ac.jp/en/prospective-students/utokyo_foundation_for_supporting.html)
+
+*   [![Image 17: Facebook (Open a new window)](https://www.u-tokyo.ac.jp/content/100074629.png)](https://www.facebook.com/UTokyo.News.en)
+*   [![Image 18: Twitter (Open a new window)](https://www.u-tokyo.ac.jp/content/100074651.png)](https://twitter.com/UTokyo_News_en)
+*   [![Image 19: YouTube (Open a new window)](https://www.u-tokyo.ac.jp/content/100074655.jpg)](https://www.youtube.com/user/UTokyoPR/)
+*   [![Image 20: Instagram (Open a new window)](https://www.u-tokyo.ac.jp/content/400194255.png)](https://www.instagram.com/utokyo_pr/)
+*   [![Image 21: LinkedIn (Open a new window)](https://www.u-tokyo.ac.jp/content/400194256.gif)](https://jp.linkedin.com/school/university-of-tokyo/)
+*   [Social media directory](https://www.u-tokyo.ac.jp/sns_en.html)
+
+[![Image 22: Go back to page TOP](https://www.u-tokyo.ac.jp/content/100074660.jpg)](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#content)
+
+[![Image 23: The University of Tokyo](https://www.u-tokyo.ac.jp/content/400244322.svg)](https://www.u-tokyo.ac.jp/en/index.html)
+*   [Site map](https://www.u-tokyo.ac.jp/en/site_map.html)
+*   [Site policy](https://www.u-tokyo.ac.jp/en/general/site_policy.html)
+*   [Privacy policy](https://www.u-tokyo.ac.jp/en/general/privacy_policy.html)
+*   [Jobs](https://www.u-tokyo.ac.jp/en/about/jobs.html)
+*   [UTokyo Portal![Image 24: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](https://login.adm.u-tokyo.ac.jp/utokyoportal)
+*   [utelecon![Image 25: Open a new window](https://www.u-tokyo.ac.jp/content/100074653.png)](https://utelecon.adm.u-tokyo.ac.jp/en/)
+*   [Frequently asked questions](https://www.u-tokyo.ac.jp/en/general/qa.html)
+*   [Access and campus maps](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map)
+
+[Disseminating information for UTokyo during disasters](https://www.u-tokyo.ac.jp/en/general/utokyo_emerg.html)
+This website is managed by the Public Relations Office.  
+ For inquiries regarding the content of individual pages, please use the contact information listed on each page.
+
+© The University of Tokyo
+
+![Image 26](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+
+[](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)[](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+
+[](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+
+[](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html)
+
+![Image 27: Access Map](https://www.u-tokyo.ac.jp/content/100097993.jpg)
+[Kashiwa Campus](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map1)
+
+[Hongo Campus](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map2)
+
+[Komaba Campus](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map3)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#)
+
+![Image 28: Kashiwa Campus](https://www.u-tokyo.ac.jp/content/100099002.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#)
+
+![Image 29: Hongo Campus](https://www.u-tokyo.ac.jp/content/100099000.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#)
+
+![Image 30: Komaba Campus](https://www.u-tokyo.ac.jp/content/100099001.jpg)
+[Back](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#map)
+
+[Access and Campus Maps](https://www.u-tokyo.ac.jp/en/about/access.html)
+
+[Close](https://www.u-tokyo.ac.jp/en/prospective-students/tuition_scholarships.html#)
+
 
 ===== SOURCE PAGE: https://www.u-tokyo.ac.jp/en/prospective-students/privateorg.html =====
 Scholarships Offered by Private Organizations | The University of Tokyo
@@ -827,6 +838,8 @@ You can check the latest information on scholarships from the following list. Pl
 Latest list of scholarships for which you can apply (PDF)
 You need to check the detailed requirements for each scholarship: Some scholarships test the applicants&rsquo; Japanese language skills by requiring an essay or an interview and some foundations prohibit the scholars to receive any other scholarships. You can check the detailed requirements from the following list.
 (1) University Recommendation
+・ Japan Material International Scholarship Foundation
+・ Tonen International Scholarship Foundation
 ・ Seiho Scholarship
 ・ Hasegawa International Scholarship Foundation
 ・ Otsuka Toshimi Scholarship Foundation

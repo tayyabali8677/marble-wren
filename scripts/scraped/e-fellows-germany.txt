@@ -537,6 +537,7 @@ Lernapp : Prüfungsvorbereitung in Rekordzeit mit Retain
 Lern-Plattform : Alice.tech - Uni-Inhalte verstehen mit der KI-basierten Plattform
 Jura Rechercheplattform : Kostenlose KI-gestützte Rechtsrecherche mit Anita
 Jura-Rechercheplattform : my legal AI: Kostenlose KI-Recherche im gesamten deutschen Recht
+KI-Lernbegleitung : Prüfungsvorbereitung mit adaptiver KI aus deinen Skripten
 e&#8209;fellows.net community : Gehirnzellen unter sich
 Zertifikat : Stipendiumsbescheinigung für deinen Lebenslauf
 Mitgliedschaften : Freunde der ZEIT: Programm für alle ZEIT-Abonnent:innen
@@ -576,6 +577,9 @@ Filter anwenden
 Filter entfernen
 Seite 1 von 7
 Merken
+KI-Lernbegleitung : Prüfungsvorbereitung mit adaptiver KI aus deinen Skripten
+acemate ist dein persönlicher KI-Lernbegleiter für Studium und Prüfungsvorbereitung. Lade deine Vorlesungsfolien, Skripte und Mitschriften hoch und acemate erstellt daraus einen Lernpfad, der sich...
+Merken
 E-Learning : Jura-Crashkurs deiner Wahl kostenlos mit JURA SPRINT
 JURA SPRINT ist eine E-Learning-Plattform und spezialisiert auf Jura-Crashkurse für das Studium sowie für das erste und zweite Staatsexamen. Stipendiaten von e-fellows.net erhalten einen Crashkurs...
 Merken
@@ -603,9 +607,6 @@ E-fellows.net und EF schenken dir 12% Rabatt auf flexible EF Sprachreisen (2-11 
 Merken
 Steuererklärung - 13 Euro Rabatt : Hol dir dein Geld zurück – mit WISO Steuer
 Für Studierende und Berufseinsteiger lohnt es sich besonders, eine Steuererklärung abzugeben. Mit e-fellows sicherst du dir einen exklusiven Rabatt auf die App des Marktführers WISO Steuer.
-Merken
-Lernapp : Prüfungsvorbereitung in Rekordzeit mit der Retain-App
-Retain ist eine Lern-App, die durch die Anwendung neuester Erkenntnisse aus der Lernwissenschaft und der Künstlichen Intelligenz die Prüfungsvorbereitungszeit halbiert.
 Seite 1 von 7
 Spring zu Seite
 Los »

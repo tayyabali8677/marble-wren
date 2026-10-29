@@ -1,15 +1,13 @@
 ===== SOURCE PAGE: https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition =====
-Title: 
+Title: This page does not seem to exist…
 
 URL Source: https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[Skip to main content](https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition#view)[Skip to navigation](https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition#navigation)[Skip to footer](https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition#footer)
+We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.
 
-You are here:
+If you are certain you have the correct web address but are encountering an error, please contact the [Site Administration](https://studyindenmark.dk/contact-form).
 
-[Home](https://www.studyindenmark.dk/ "Home")
-
-![Image 1: Ministry of Science, Higher Education and Digital Affairs](https://www.studyindenmark.dk/static/media/ministry-logo.9d8d6e22.png)
+Thank you.
