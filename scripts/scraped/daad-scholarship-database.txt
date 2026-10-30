@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.daad.de/en/study-and-research-in-germany/scholarships/ =====
 Title: Scholarship Database - DAAD - Deutscher Akademischer Austauschdienst
 
-URL Source: https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/
+URL Source: https://www.daad.de/en/study-and-research-in-germany/scholarships/
+
+Final URL: https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/
 
 Markdown Content:
 *   ## [ALECOSTA: Alemania-Costa Rica• DAAD](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=&subjectGrps=&daad=&intention=&q=&page=1&lang=en&sd=1&detail=50015276&page=1)

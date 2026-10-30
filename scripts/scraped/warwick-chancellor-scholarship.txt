@@ -141,10 +141,12 @@ Title: We're sorry, but the page you requested could not be found
 
 URL Source: https://warwick.ac.uk/study/international/admissions/finance/scholarships/mai
 
+Final URL: https://warwick.ac.uk/study/scholarships-and-bursaries/scholarships/mai/
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[Skip to main content](https://warwick.ac.uk/study/international/admissions/finance/scholarships/mai#main)[Skip to navigation](https://warwick.ac.uk/study/international/admissions/finance/scholarships/mai#primary-nav)
+[Skip to main content](https://warwick.ac.uk/study/scholarships-and-bursaries/scholarships/mai/#main)[Skip to navigation](https://warwick.ac.uk/study/scholarships-and-bursaries/scholarships/mai/#primary-nav)
 
 [![Image 1: University of Warwick homepage](https://d36jn9qou1tztq.cloudfront.net/static_war/render/id7/images/wordmark.svg.136055278947)](https://warwick.ac.uk/ "University of Warwick homepage")
 

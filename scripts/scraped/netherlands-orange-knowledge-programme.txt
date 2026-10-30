@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.nuffic.nl/en/subjects/orange-knowledge-programme =====
 Title: Discover the power of internationalisation
 
-URL Source: https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme
+URL Source: https://www.nuffic.nl/en/subjects/orange-knowledge-programme
+
+Final URL: https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme
 
 Warning: Target URL returned error 403: Forbidden
 

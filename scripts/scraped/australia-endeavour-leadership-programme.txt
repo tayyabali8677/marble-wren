@@ -1,9 +1,11 @@
 ===== SOURCE PAGE: https://internationaleducation.gov.au/Endeavour%20program/ =====
 Title: Page not found
 
-URL Source: https://internationaleducation.gov.au/Pages/PageNotFoundError.aspx?requestUrl=https://internationaleducation.gov.au/Endeavour%20program/
+URL Source: https://internationaleducation.gov.au/Endeavour%20program/
 
-Published Time: Fri, 30 Oct 2026 04:30:57 GMT
+Final URL: https://internationaleducation.gov.au/Pages/PageNotFoundError.aspx?requestUrl=https://internationaleducation.gov.au/Endeavour%20program/
+
+Published Time: Fri, 30 Oct 2026 17:57:20 GMT
 
 Markdown Content:
 [Turn on more accessible mode](https://internationaleducation.gov.au/Pages/PageNotFoundError.aspx?requestUrl=https://internationaleducation.gov.au/Endeavour%20program/# "Turn on more accessible mode")

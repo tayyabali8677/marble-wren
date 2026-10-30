@@ -3,8 +3,6 @@ Title: Home
 
 URL Source: https://www.undp.org/
 
-Published Time: Fri, 23 Oct 2026 01:48:49 GMT
-
 Markdown Content:
 [Skip to main content](https://www.undp.org/#main-content)
 
@@ -109,9 +107,9 @@ Global Search
 
 ###### Get involved
 
-*   [Careers](https://www.undp.org/es/uruguay/empleo)
+*   [Careers](https://www.undp.org/careers)
 
-*   [Procurement](https://www.undp.org/es/uruguay/adquisiciones)
+*   [Procurement](https://www.undp.org/procurement)
 
 *   [UNDP Shop](https://shop.undp.org/)
 
@@ -276,18 +274,18 @@ UNDP’s asset library is available at assets.undp.org, which features a great s
 
  Close mega menu
 
-*   [Careers](https://www.undp.org/es/uruguay/empleo)
-*   [Procurement](https://www.undp.org/es/uruguay/adquisiciones)
+*   [Careers](https://www.undp.org/careers)
+*   [Procurement](https://www.undp.org/procurement)
 *   [UNDP Shop](https://shop.undp.org/)
 *   [UNDP Giving](https://www.undp.org/impact-giving)
 
-### [Careers](https://www.undp.org/es/uruguay/empleo)
+### [Careers](https://www.undp.org/careers)
 
 UNDP works in more than 170 countries and territories, helping to achieve the eradication of poverty and the reduction of inequalities and exclusion. We help countries develop policies, leadership skills, partnering abilities, institutional capabilities and build resilience in order to sustain development results.
 
 ![Image 19](https://www.undp.org/sites/g/files/zskgke326/files/styles/menu_image_387_588/public/2021-04/UNDP-IQ-Al-Hod-WTP-9782-1_0.jpg.webp?h=0b41bb2e&itok=zDTYhD2s)
 
-### [Procurement](https://www.undp.org/es/uruguay/adquisiciones)
+### [Procurement](https://www.undp.org/procurement)
 
 As a public organization entrusted with donor funds and committed to supporting developing economies, UNDP works to improve access to quality assured supplies in a cost effective and reliable way.
 
@@ -1197,7 +1195,7 @@ Development Programme
 
 [Get involved](https://www.undp.org/)
 
-[Careers](https://www.undp.org/es/uruguay/empleo)[Procurement](https://www.undp.org/es/uruguay/adquisiciones)[UNDP Shop](https://shop.undp.org/)[UNDP Giving](https://www.undp.org/impact-giving)
+[Careers](https://www.undp.org/careers)[Procurement](https://www.undp.org/procurement)[UNDP Shop](https://shop.undp.org/)[UNDP Giving](https://www.undp.org/impact-giving)
 
 ![Image 64: icon-global](https://www.undp.org/libraries/undp--design-system-assets/images/globe-white.svg)[![Image 65: icon-search](https://www.undp.org/libraries/undp--design-system-assets/images/search-white.svg)](https://www.undp.org/)
 

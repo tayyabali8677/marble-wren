@@ -3,6 +3,8 @@ Title: 404 - Page not found | HK-dir
 
 URL Source: https://www.hkdir.no/en/students/scholarships-and-financial-aid/scholarships-for-international-students
 
+Final URL: https://hkdir.no/en/students/scholarships-and-financial-aid/scholarships-for-international-students
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

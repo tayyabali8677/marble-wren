@@ -3,6 +3,8 @@ Title: Sign In
 
 URL Source: https://www.ed.ac.uk/student-funding/postgraduate/international/global
 
+Final URL: https://edadfed.ed.ac.uk/adfs/ls/?client-request-id=65549165-e02e-4555-90a1-aa9682c66033&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQQIABABBAABBgIAAAADAOz_BQD0_0V2b1N0c0FydGlmYWN0cxgAAAAAAF_AA9d-g6ZnTfnXes3sUs5uDe4tDAmbC26HQmkdiSMs2LGF818TiETpVWnNr8kBltRS8bp4_Pj69OIgpS1FGDINg5raHwRlgHMz6MFst7PlEGraGCOP-rEaqv8Pc_ReoWUWq_l1sYd610Y8fHXJr8zOvKRv_XcFCpeIUhtK2eumqWWz_DZ58mzgTrH_BWRIpj4LweDa-FY_pNzfs9xqeKMmSQCT8yG5IW6HUETOcJGy7bcCUHCgCblW7Tw0I5mgTVvG7_Q7mmwVgKdfZMC43D7UuB1Ii-nAyBLb8wY6Av3ydJsZt7Ajd1KZJNOSJvixBxfsheLEWlWT4rkmjskzgQRU6b6cfLTU5BnHvASb08UrbuJQP_cSxu45chMlNiIq0owSk7kiT0chyG4-xjuvlf0pi5nJbKk9jIW0m6QuIJOh3edHDmw21TwW74sUqidXx47AO8c9bOBiKqEAii-fgm0dTgph7ch9NupPA4bkr4STN7ke0#
+
 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:

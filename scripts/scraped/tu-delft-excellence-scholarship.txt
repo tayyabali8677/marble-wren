@@ -1,1397 +1,546 @@
 ===== SOURCE PAGE: https://www.tudelft.nl/en/education/practical-matters/scholarships/ =====
-Scholarships
-Activate high contrast
-To main content
-TU Delft homepage
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
+Title: Scholarships
+
+URL Source: https://www.tudelft.nl/en/education/practical-matters/scholarships/
+
+Final URL: https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships
+
+Markdown Content:
+![Image 15: logo](blob:http://localhost/82594d45a5c397ed1be4a26a61957e5a)
+
+[](https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2)
+
+*   [Consent](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Details](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [[#IABV2SETTINGS#]](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [About](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
+This website uses cookies
+
+TU Delft uses cookies to ensure the proper functioning of external content, such as social media feeds, videos or other interactive media, as well as analyzing traffic. The third parties (18 partners) may place cookies to enable or measure the use of their content. As they may collect personal data through their cookies, we request your consent for this. If you do not consent, such content will not be displayed. You may alter your preferences at any time via the cookie button in the lower left corner of the screen. [Read more about our cookie policy](https://www.tudelft.nl/en/cookie-policy "TU Delft Cookiebeleid")
+
+[#GPC_BANNER_ICON#]
+
+[#GPC_TOAST_TEXT#]
+
+Consent Selection
+
+**Necessary** 
+
+- [x] 
+
+**Preferences** 
+
+- [x] 
+
+**Statistics** 
+
+- [x] 
+
+**Marketing cookies** 
+
+- [x] 
+
+[Show details](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
+Details
+
+*   
+Necessary 102- [x]    Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website or its embedded features cannot function properly without these cookies. 
+
+    *   [Airtable 11](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 16: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://airtable.com/privacy "Learn more about this provider Airtable's privacy policy - opens in a new window")**__Host-airtable-session**Contains a specific ID for the current session. This is necessary for running the website correctly. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__Host-airtable-session.sig**Contains a specific ID for the current session. This is necessary for running the website correctly. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **acq**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **acq.sig**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **AWSALBTG**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **AWSALBTGCORS**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 7 days**Type**: HTTP Cookie  **brw**Detects and logs potential errors on third-party provided functions on the website.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **login-status-p**This cookie is necessary for the login function on the website. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **_ab**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **_mf**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **id**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Faqtory 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 17: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.faqtory.nl/ "Learn more about this provider Faqtory's privacy policy - opens in a new window")**JSESSIONID[x2]**Preserves users states across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Github 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 18: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.github.com/en/articles/github-privacy-statement "Learn more about this provider Github's privacy policy - opens in a new window")**logged_in**Registers whether the user is logged in. This allows the website owner to make parts of the website inaccessible, based on the user's log-in status. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **_gh_sess**Preserves users states across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Google 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 19: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+
+**test_cookie**Used to check if the user's browser supports cookies.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Instagram 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 20: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.instagram.com/519522125107875 "Learn more about this provider Instagram's privacy policy - opens in a new window")**csrftoken**Helps prevent Cross-Site Request Forgery (CSRF) attacks.**Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+    *   [Issuu 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 21: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://issuu.com/legal/privacy "Learn more about this provider Issuu's privacy policy - opens in a new window")**SESSION_STORAGE_ID_pico_lsid**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [LinkedIn 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 22: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**bcookie**Used in order to detect spam and improve the website's security. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **li_gc**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie   
+    *   [Microsoft 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 23: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://privacy.microsoft.com/en-US/privacystatement "Learn more about this provider Microsoft's privacy policy - opens in a new window")**ClientId**Determines the device used to access the website. This allows the website to be formatted accordingly. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Siteimprove 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 24: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://siteimprove.com/en/privacy/ "Learn more about this provider Siteimprove's privacy policy - opens in a new window")**heat.aspx**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **image.aspx**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: Pixel Tracker  **surveyview.aspx**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Stripe 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 25: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://stripe.com/privacy "Learn more about this provider Stripe's privacy policy - opens in a new window")**__stripe_mid**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie  **__stripe_sid**This cookie is necessary for making credit card transactions on the website. The service is provided by Stripe.com which allows online transactions without storing any credit card information.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **m**Determines the device used to access the website. This allows the website to be formatted accordingly. **Maximum Storage Duration**: 400 days**Type**: HTTP Cookie   
+    *   [app.springcast.fm tableau.tudelft.nl 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**XSRF-TOKEN[x2]**Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [avrotros.nl podbean.com snapwidget.com 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**cf_clearance[x3]**This cookie is used to distinguish between humans and bots. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [cdn.commoninja.com 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**cn_uc__**Used for the proper functionality of the FAQ page on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [filelist.tudelft.nl nmc360.tudelft.nl purexml.ewi.tudelft.nl tableau.tudelft.nl teaching-support.tudelft.nl consent.cookiebot.eu 6](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**CookieConsent[x6]**Stores the user's cookie consent state for the current domain**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [linkedin.com twitter.com 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**__cf_bm[x2]**This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [nmc360.tudelft.nl 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**tdvp_https://#_#_#_#_#_#.png?v=#**Used in context with the 3D-view-function on the website.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **test**Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [public.tableau.com tableau.tudelft.nl 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**tab.viz.session.management.roots[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [strawpoll.com 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**SESS#**Preserves users states across page requests.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [tableau.tudelft.nl 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**tab.viz./views/FactsandFiguresTUDelft/Index#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [teaching-support.tudelft.nl 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**wpEmojiSettingsSupports**This cookie is part of a bundle of cookies which serve the purpose of content delivery and presentation. The cookies keep the correct state of font, blog/picture sliders, color themes and other website settings.**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [widget.onlineafspraken.nl www.x.tudelft.nl 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**PHPSESSID[x2]**Preserves user session state across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [www.tudelft.nl 10](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**aff_de7c812cb**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **fe_typo_user**Preserves users states across page requests.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **oa-dao-AppTypeGroup-21830**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Bookable-#_#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-108670**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-322238**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-401333**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-409349**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Date**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Date-#_#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [www.tudelft.nl widget.onlineafspraken.nl 42](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**oa-application-widget-booking-consumerwidget-state[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-configHash[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Apptype[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Apptype-#[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Bookable[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-Apptype[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-AppTypeGroup[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-Booking-Capacity-Group[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-ConsumerForm-Field[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-ConsumerForm-Form[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-Date[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-Mailing-MailingList[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-cacher-requests-Resource[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Field[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Field-#[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Mailing-MailingList[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Mailing-MailingList-#[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Resource[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-Resource-#[x2]**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   
+Preferences 27- [x]    Preference cookies allow a website to remember information that influences the way the website behaves or looks, such as your preferred language or the region you live in. Apart from storing your cookie preferences, the TU Delft website does not use these cookies, but they may be offered through embedded content. 
+
+    *   [Airtable 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 26: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://airtable.com/privacy "Learn more about this provider Airtable's privacy policy - opens in a new window")**brwConsent**Pending**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **internal/page_view**Stores data entered with a form so that when you return to the website you don't have to fill in the data again.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **1**This cookie is used in conjunction with the payment window - The cookie is necessary for making secure transactions on the website. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [LinkedIn 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 27: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.linkedin.com/legal/privacy-policy "Learn more about this provider LinkedIn's privacy policy - opens in a new window")**lidc**Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [Onlineafspraken.nl 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 28: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://onlineafspraken.nl/nl_NL/privacy "Learn more about this provider Onlineafspraken.nl's privacy policy - opens in a new window")**__Secure-OANL-CSRF-TOKEN**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Sketchfab 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 29: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://sketchfab.com/privacy "Learn more about this provider Sketchfab's privacy policy - opens in a new window")**userEvents**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Tableau 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 30: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.tableau.com/privacy "Learn more about this provider Tableau's privacy policy - opens in a new window")**tableau_public_negotiated_locale**Used in context with the language setting on the website. Facilitates the translation into the preferred language of the visitor.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Unibuddy 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 31: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**invite_id**Used by third-party student enrollment service. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **UB_UUID**Used by third-party student enrollment service. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [YouTube 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 32: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**yt-player-caption-persistence**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [cdn.commoninja.com 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**cn-session-id**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **cn-sv-id**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **widget_storage_9259f64f-b669-4fc1-b098-7ca3de99a9ab**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [cdn.strawpoll.com 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**strawpoll:session_token**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [public.tableau.com tableau.tudelft.nl 4](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE[x2]**Determines the preferred language of the visitor. Allows the website to set the preferred language upon the visitor's re-entry. **Maximum Storage Duration**: Session**Type**: HTTP Cookie  **tableau_locale[x2]**The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [tableau.tudelft.nl 7](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**omnibox-microviewVersion**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz./views/ConceptdashboardZieso/ZieSO1#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz./views/ConceptdashboardZieso/ZieSO2#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz./views/FactsandFigures-Faculties/Index/bde0d9f7-439a-4b4f-938e-845aa5879b81/a6b8cb8b-8109-4a64-81d7-0baf3e9b2e09#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz./views/TUDcareerpaths/CareerpathsII#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **vizportal#pkce**Pending**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **workgroup_session_id**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [www.tudelft.nl 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**oa-dao-AppTypeGroup-140327**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-7978**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   
+Statistics 16- [x]    Statistical cookies help owners of embedded (external) content understand how visitors use their content by collecting and reporting data.  
+The TU Delft website uses an alternative privacy-friendly and cookie-free method. In this approach, personal data is immediately anonymised and stored in encrypted form. As a result, the collected data cannot be traced back to individual persons. For this technique, it is therefore not necessary to request consent.  
+However, for embedded content, providers may include their own analytical cookies. 
+
+    *   [Amazon 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 33: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496 "Learn more about this provider Amazon's privacy policy - opens in a new window")**mapbox.eventData.uuid:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **mapbox.eventData:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Issuu 10](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 34: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://issuu.com/legal/privacy "Learn more about this provider Issuu's privacy policy - opens in a new window")**firstSessionTimestamp**Sets a timestamp for when the visitor entered the website. This is used for analytical purposes on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **isFirstSession**Sets a timestamp for when the visitor entered the website. This is used for analytical purposes on the website. **Maximum Storage Duration**: Session**Type**: HTML Local Storage  **LOCAL_STORAGE_ID_pico_lsid**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **orionV3#identity**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **PICOX_PING**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **SESSION_STORAGE_ID_PICOX_SESSION_ID**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **spidersense#event**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **spidersense#setup_response**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **spidersense:user_id:v1_issuu_web**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **COOKIE_ID_pico_lsid**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Siteimprove 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 35: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://siteimprove.com/en/privacy/ "Learn more about this provider Siteimprove's privacy policy - opens in a new window")**struggle.aspx**Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [Unibuddy 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 36: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**ld:#:$diagnostics**Used to monitor website performance for statistical purposes.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [app.springcast.fm 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**springcast_session**Necessary for implementation from third-party Podcast feature.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie   
+    *   [tableau.tudelft.nl 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**search-microviewVersion**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+*   
+Marketing cookies 115- [x]    
+
+We use third-party services to display TU Delft advertisements. By using these cookies, we can measure and optimize the performance of our advertisements on these platforms, allowing us to better tailor our content and campaigns to our visitors.
+
+The data involved includes: advertisements viewed, conversions, device data, and pages visited on the TU Delft domain. TU Delft actively uses the following platforms for marketing purposes:
+
+    *   LinkedIn (Insight Tag)
+    *   Meta (Facebook & Instagram – pixel and Conversions API): In addition to optimization, we also use remarketing; this means that you may see advertisements after you have visited our website.
+    *   Reddit (pixel)
+    *   Google (Ads & YouTube – Google Tag / Google Tag Manager): For embedded YouTube videos on our website, we use YouTube’s privacy-enhanced mode. This means that no tracking cookies are placed until you choose to interact with the video.
+
+In addition, you may find ‘embedded content’ on the TU Delft website. This is third-party content that is displayed on a TU Delft page. These parties may also use marketing cookies and collect information through the embedded content. For more information about how these social media and advertising platforms process your (personal) data, please refer to their own privacy policies.
+
+    *   [Meta Platforms, Inc.3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 37: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.facebook.com/policy.php/ "Learn more about this provider  Meta Platforms, Inc.'s privacy policy - opens in a new window")**lastExternalReferrer**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **lastExternalReferrerTime**Detects how the user reached the website by registering their last URL-address.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **_fbp**Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie   
+    *   [Airtable 4](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 38: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://airtable.com/privacy "Learn more about this provider Airtable's privacy policy - opens in a new window")**__Host-airtable-target-cell**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Host-airtable-target-cell.sig**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **AirtableLocalPersister.leftNavigationWidthByAppId.appuL8senGqZgjRyF**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **AirtableLocalPersister.pageDefaultURLSettings.appuL8senGqZgjRyF.pagIbsYitqTANAZF1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Avrotros 4](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 39: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.avrotros.nl/privacy/privacy/ "Learn more about this provider Avrotros's privacy policy - opens in a new window")**#_#**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage  **npotag__dvs**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **npotag_1:#:#**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **npotag_cs_fpid**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Cloudflare 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 40: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.cloudflare.com/privacypolicy/ "Learn more about this provider Cloudflare's privacy policy - opens in a new window")**announcement_show**Pending**Maximum Storage Duration**: 30 days**Type**: HTTP Cookie  **announcement_shown_days**Pending**Maximum Storage Duration**: 30 days**Type**: HTTP Cookie   
+    *   [Github 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 41: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://help.github.com/en/articles/github-privacy-statement "Learn more about this provider Github's privacy policy - opens in a new window")**_octo**Pending**Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Google 6](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 42: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider Google's privacy policy - opens in a new window")Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness. The provider may use the IP Addresses for ads measurement and ads personalization.
+
+**NID**Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.**Maximum Storage Duration**: 6 months**Type**: HTTP Cookie  **pagead/1p-user-list/#**Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **_ga**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_ga_#**Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.**Maximum Storage Duration**: 2 years**Type**: HTTP Cookie  **_gcl_au**Used to measure the efficiency of the website’s advertisement efforts, by collecting data on the conversion rate of the website’s ads across multiple websites.**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **_gcl_ls**Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Issuu 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 43: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://issuu.com/legal/privacy "Learn more about this provider Issuu's privacy policy - opens in a new window")**picox#events**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **spidersense#user_info**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB   
+    *   [Onlineafspraken.nl 6](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 44: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://onlineafspraken.nl/nl_NL/privacy "Learn more about this provider Onlineafspraken.nl's privacy policy - opens in a new window")**oa-dao-AppTypeGroup-5277**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-77896**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-107434**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-404684**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-409976**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-7434**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Reddit 8](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 45: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.redditinc.com/policies/privacy-policy "Learn more about this provider Reddit's privacy policy - opens in a new window")**rp.gif**Necessary for the implementation of the Reddit.com's share-button function.**Maximum Storage Duration**: Session**Type**: Pixel Tracker  **_rdt_em[x2]**Pending**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **_rdt_pn[x2]**Pending**Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **_rdt_uuid[x2]**Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. **Maximum Storage Duration**: 3 months**Type**: HTTP Cookie  **_rdt_cfg**Pending**Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [Sketchfab 1](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 46: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://sketchfab.com/privacy "Learn more about this provider Sketchfab's privacy policy - opens in a new window")**browser_support**Used in context with the 3D-view-function on the website. Collects data on user interaction with the service for statistical purposes. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [Spotify 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 47: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.spotify.com/uk/legal/privacy-policy/ "Learn more about this provider Spotify's privacy policy - opens in a new window")**sp_landing**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. **Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **sp_t**Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. **Maximum Storage Duration**: 1 year**Type**: HTTP Cookie   
+    *   [Spotler 3](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 48: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://spotler.com/privacy-statement "Learn more about this provider Spotler's privacy policy - opens in a new window")**mp_4_blocked**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **mp_4_pageviews**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **mp_4_timerstart**Pending**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [Unibuddy 5](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 49: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://unibuddy.com/privacy-policy/ "Learn more about this provider Unibuddy's privacy policy - opens in a new window")**p.gif**Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data. **Maximum Storage Duration**: Session**Type**: Pixel Tracker  **ub_campaign**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ub_content**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ub_medium**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ub_source**Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [YouTube 18](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 50: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://business.safety.google/privacy/ "Learn more about this provider YouTube's privacy policy - opens in a new window")**LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **TESTCOOKIESENABLED[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 1 day**Type**: HTTP Cookie  **yt-icons-last-purged[x2]**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ytidb::LAST_RESULT_ENTRY_KEY[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **YtIdbMeta#databases[x2]**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **__Secure-BUCKET**Pending**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-ROLLOUT_TOKEN**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **__Secure-YEC**Stores the user's video player preferences using embedded YouTube video**Maximum Storage Duration**: Session**Type**: HTTP Cookie  **__Secure-YNID**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **LogsDatabaseV2:V#||LogsRequestsStore**Used to track user’s interaction with embedded content.**Maximum Storage Duration**: Persistent**Type**: IndexedDB  **ServiceWorkerLogsDatabase#SWHealthLog**Necessary for the implementation and functionality of YouTube video-content on the website. **Maximum Storage Duration**: Persistent**Type**: IndexedDB  **VISITOR_INFO1_LIVE**Tries to estimate the users' bandwidth on pages with integrated YouTube videos.**Maximum Storage Duration**: 180 days**Type**: HTTP Cookie  **YSC**Registers a unique ID to keep statistics of what videos from YouTube the user has seen.**Maximum Storage Duration**: Session**Type**: HTTP Cookie   
+    *   [embed-cdn.spotifycdn.com cdn.unibuddy.co 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**sentryReplaySession[x2]**Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. **Maximum Storage Duration**: Session**Type**: HTML Local Storage   
+    *   [www.tudelft.nl 48](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**oa-dao-AppTypeGroup-100818**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-107586**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-107589**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-12324**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-12325**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-12334**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-140858**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-38371**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-42802**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-54935**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-5540**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-72715**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-74951**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-77407**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-79234**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-80038**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-82722**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-8371**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-8372**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-8373**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-8374**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-8563**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-91854**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-94476**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-94479**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-94482**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-AppTypeGroup-94485**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-107903**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-107978**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-310050**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-310054**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-310898**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-328178**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-328447**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-379224**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-394364**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-400088**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-400109**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-403112**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-403355**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-404447**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-404477**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-408968**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-409739**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-409769**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-ConsumerForm-Form-7903**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-DailyTimes**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **ts_update_shown_c1647192-2026-08-05**Pending**Maximum Storage Duration**: 10 years**Type**: HTTP Cookie   
+
+*   Unclassified 44 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+
+    *   [Avrotros 2](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)[Learn more about this provider![Image 51: opens in a new window](blob:http://localhost/7c37f61654102a88a9be209f9569ef78)](https://www.avrotros.nl/privacy/privacy/ "Learn more about this provider Avrotros's privacy policy - opens in a new window")**npo-player-settings**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **npotag__dvb**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+    *   [tableau.tudelft.nl 38](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**tab.viz./views/GenderDiversityatTUDelft/GenderDiversityTUDelft#0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.1E3D9DA5A5C1454CBDC2BAB6B9637B76-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.3A55C09EC8F34E75A93DBF216D34362F-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.403ADB905FAD47D9BCD57FDBCA942ADB-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.6A230B5E1D5B4609B04D6EB887A8BC5F-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.7AD5B680FE904F4E8B1923979DB71956-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.80CF8188EF094E7885A2B64D558DFC13-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.8D1354BC9AEC4B49B6A90FCFB0F6CB22-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.B72499A5E9294A2DBACB3BFD8D068B2D-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.B8004E51E2A14943B86D157199892550-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.BC4B5C1C872D4B0E95E65B1BBE43D145-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.C17BA6FF89F446C1BAEFB14DB09FBC49-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.E83D2889F0EC4F5AAD49BB9DC627D00F-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.0656D7626F584156B73FBA741B91D757-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.14ABCF805CB74A4A839CE17A121E2CA9-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.1E3D9DA5A5C1454CBDC2BAB6B9637B76-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.3A55C09EC8F34E75A93DBF216D34362F-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.403ADB905FAD47D9BCD57FDBCA942ADB-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.553D8D274D0E442DBB52013C56394C44-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.5CDBA0C061634E10B5B76EA013542CD2-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.6A230B5E1D5B4609B04D6EB887A8BC5F-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.7370295297544CD8B56EB59B1C1F4ADF-1:2**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.7AD5B680FE904F4E8B1923979DB71956-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.80CF8188EF094E7885A2B64D558DFC13-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.8D1354BC9AEC4B49B6A90FCFB0F6CB22-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.A3452BA489BD48BD80367D9EF3C447EB-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.AEB7C53833C944A89FE3F7573F26E0CC-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.B72499A5E9294A2DBACB3BFD8D068B2D-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.B8004E51E2A14943B86D157199892550-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.BC4B5C1C872D4B0E95E65B1BBE43D145-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.C17BA6FF89F446C1BAEFB14DB09FBC49-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.DB62BAFDB245485B9A613E658BE6A90E-1:0**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.E83D2889F0EC4F5AAD49BB9DC627D00F-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.FE4058DCA5FB4C4484944AAB63860854-1:3**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **tab.viz.session.routes.FEF3AD36484C4BC1A5EB6F4F70303658-1:1**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **TableauLog10**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **TableauLog11**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **vizql/w/FactsandFiguresTUDelft/v/Index/tempfile/sessions/AEB7C53833C944A89FE3F7573F26E0CC-1:3/layouts/15598970981005992763/**Pending**Maximum Storage Duration**: Session**Type**: Pixel Tracker   
+    *   [www.tudelft.nl 4](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)**oa-dao-DailyTimes-20261026R211988A553356**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-DailyTimes-20261027R218561A553356**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-DailyTimes-20270118R211988A553356**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage  **oa-dao-DailyTimes-20270119R218561A553356**Pending**Maximum Storage Duration**: Persistent**Type**: HTML Local Storage   
+
+[Cross-domain consent[#BULK_CONSENT_DOMAINS_COUNT#]](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
+[#BULK_CONSENT_TITLE#]
+
+List of domains your consent applies to: [#BULK_CONSENT_DOMAINS#]
+
+Cookie declaration last updated on 10/3/26 by [Cookiebot](https://www.cookiebot.com/)
+
+[#IABV2_TITLE#]
+
+[#IABV2_BODY_INTRO#]
+
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+
+[#IABV2_BODY_PREFERENCE_INTRO#]
+
+[#IABV2_LABEL_PURPOSES#]
+
+[#IABV2_BODY_PURPOSES_INTRO#]
+
+[#IABV2_BODY_PURPOSES#]
+
+[#IABV2_LABEL_FEATURES#]
+
+[#IABV2_BODY_FEATURES_INTRO#]
+
+[#IABV2_BODY_FEATURES#]
+
+[#IABV2_LABEL_PARTNERS#]
+
+[#IABV2_BODY_PARTNERS_INTRO#]
+
+[#IABV2_BODY_PARTNERS#]
+
+About
+
+****About cookies****
+
+A cookie is a small text file that is downloaded by the browser and then stored on your computer or mobile device. The stored information is only accessible by the website that generated the cookie, and the cookie can only store the information you have provided on the website. Additionally, we use other ways to store information, such as session storage. We use the term 'cookies' for all of these methods.
+
+This website uses different types of cookies. We use our cookies solely to collect information about the use of our services, in order to improve and tailor them to the needs of our visitors. These are necessary and functional cookies. Some cookies are placed by third-party services displayed on our pages, such as YouTube's video player. When you watch a video, YouTube places a cookie that it can later use when you visit the social media platform's website. For these third-party cookies, we need your consent. Additionally, marketing cookies are implemented to measure and improve our campaigns across social media platforms
+
+The operation of tudelft.nl will not change if you do not give consent for third-party cookies to be placed.
+
+You can withdraw your consent at any time by clicking on the cookie icon at the bottom left of any webpage.
+
+You can also configure your browser not to accept cookies.
+
+- [x] 
+
+**Do not sell or share my personal information** 
+
+Allow all Customize Allow selection Deny
+
+*   Activate high contrast
+*   [To main content](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#main)
+
+[](https://www.tudelft.nl/en/)
+
+*   [Students & Education](https://www.tudelft.nl/en/education)
+    *   [Programmes](https://www.tudelft.nl/en/education/programmes)
+    *   [Admission and Application](https://www.tudelft.nl/en/education/admission-and-application)
+    *   [Study Programme Orientation](https://www.tudelft.nl/en/education/study-programme-orientation)
+    *   [Student portal](https://www.tudelft.nl/en/student)
+    *   [Lifelong Learning](https://www.tudelft.nl/en/learningforlife)
+
+*   [Research](https://www.tudelft.nl/en/research)
+    *   [Societal challenges](https://www.tudelft.nl/en/research/societal-challenges)
+    *   [Faculties and institutes](https://www.tudelft.nl/en/research/faculties-and-institutes)
+    *   [Research facilities](https://www.tudelft.nl/en/research/research-facilities)
+    *   [Stories](https://www.tudelft.nl/en/stories)
+
+*   [Innovation & Impact](https://www.tudelft.nl/en/innovation-impact)
+    *   [Business collaboration](https://www.tudelft.nl/en/innovation-impact/business-collaboration)
+    *   [Pioneering Tech](https://www.tudelft.nl/en/innovation-impact/pioneering-tech)
+    *   [Entrepreneurship](https://www.tudelft.nl/en/innovation-impact/entrepreneurship)
+    *   [Project Cases](https://www.tudelft.nl/en/innovation-impact/project-cases)
+
+*   [Community](https://www.tudelft.nl/en/community)
+    *   [Alumni](https://www.tudelft.nl/en/community/alumni)
+    *   [Campus Life](https://www.tudelft.nl/en/community/campus-life)
+    *   [Events](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Social safety](https://www.tudelft.nl/en/community/social-safety)
+    *   [Science Centre](https://www.tudelft.nl/en/tu-delft-science-centre)
+
+*   [About TU Delft](https://www.tudelft.nl/en/about-tu-delft)
+    *   [Find employees](https://www.tudelft.nl/en/about-tu-delft/find-employees)
+    *   [Contact](https://www.tudelft.nl/en/about-tu-delft/contact)
+    *   [Locations](https://www.tudelft.nl/en/about-tu-delft/locations)
+    *   [Press room](https://www.tudelft.nl/en/about-tu-delft/press-room)
+    *   [Current](https://www.tudelft.nl/en/about-tu-delft/current)
+    *   [Calendar](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Library](https://www.tudelft.nl/en/library)
+    *   [Jobs](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft)
+    *   [Organisation](https://www.tudelft.nl/en/about-tu-delft/organisation)
+    *   [Strategy](https://www.tudelft.nl/en/about-tu-delft/strategy)
+    *   [University Fund](https://www.tudelft.nl/en/delft-university-fund)
+
+Menu[](https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships "Schakel over naar de Nederlandse taal")Search
+
+*   [Students & Education](https://www.tudelft.nl/en/education)[Menu openen](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)  
+    *   [Programmes](https://www.tudelft.nl/en/education/programmes)
+    *   [Admission and Application](https://www.tudelft.nl/en/education/admission-and-application)
+    *   [Study Programme Orientation](https://www.tudelft.nl/en/education/study-programme-orientation)
+    *   [Student portal](https://www.tudelft.nl/en/student)
+    *   [Lifelong Learning](https://www.tudelft.nl/en/learningforlife)
+
+*   [Research](https://www.tudelft.nl/en/research)[Menu openen](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)  
+    *   [Societal challenges](https://www.tudelft.nl/en/research/societal-challenges)
+    *   [Faculties and institutes](https://www.tudelft.nl/en/research/faculties-and-institutes)
+    *   [Research facilities](https://www.tudelft.nl/en/research/research-facilities)
+    *   [Stories](https://www.tudelft.nl/en/stories)
+
+*   [Innovation & Impact](https://www.tudelft.nl/en/innovation-impact)[Menu openen](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)  
+    *   [Business collaboration](https://www.tudelft.nl/en/innovation-impact/business-collaboration)
+    *   [Pioneering Tech](https://www.tudelft.nl/en/innovation-impact/pioneering-tech)
+    *   [Entrepreneurship](https://www.tudelft.nl/en/innovation-impact/entrepreneurship)
+    *   [Project Cases](https://www.tudelft.nl/en/innovation-impact/project-cases)
+
+*   [Community](https://www.tudelft.nl/en/community)[Menu openen](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)  
+    *   [Alumni](https://www.tudelft.nl/en/community/alumni)
+    *   [Campus Life](https://www.tudelft.nl/en/community/campus-life)
+    *   [Events](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Social safety](https://www.tudelft.nl/en/community/social-safety)
+    *   [Science Centre](https://www.tudelft.nl/en/tu-delft-science-centre)
+
+*   [About TU Delft](https://www.tudelft.nl/en/about-tu-delft)[Menu openen](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)  
+    *   [Find employees](https://www.tudelft.nl/en/about-tu-delft/find-employees)
+    *   [Contact](https://www.tudelft.nl/en/about-tu-delft/contact)
+    *   [Locations](https://www.tudelft.nl/en/about-tu-delft/locations)
+    *   [Press room](https://www.tudelft.nl/en/about-tu-delft/press-room)
+    *   [Current](https://www.tudelft.nl/en/about-tu-delft/current)
+    *   [Calendar](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Library](https://www.tudelft.nl/en/library)
+    *   [Jobs](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft)
+    *   [Organisation](https://www.tudelft.nl/en/about-tu-delft/organisation)
+    *   [Strategy](https://www.tudelft.nl/en/about-tu-delft/strategy)
+    *   [University Fund](https://www.tudelft.nl/en/delft-university-fund)
+
+*   
+    *   [facebook](https://www.facebook.com/tudelft)
+    *   [instagram](https://www.instagram.com/tudelft/?hl=en)
+    *   [youtube](https://www.youtube.com/user/tudelft)
+    *   [linkedin](https://www.linkedin.com/edu/delft-university-of-technology-15445)
+    *   [whatsapp](https://api.whatsapp.com/send?phone=3197010256278)[whatsapp](https://wa.me/+3197010256278 "Start Whatsapp Conversation")
+
+[Nederlands](https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships "Nederlands")
+
+*   Activate high contrast
+
+ Close menu 
+
 Search
-Students & Education
-Menu sluiten
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Menu openen
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Menu openen
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Menu openen
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Nederlands
-Activate high contrast
-Close menu
-Search
+
 Close search
-Delft University of Technology
-Students & Education
-Study Programme Orientation
-Practical matters
-Scholarships
-Open menu
-Preparing for a bachelor
-Preparing for a minor
-Preparing for a master
-Practical matters
-Admission Letter received: What’s next?
-Tuition Fee & Finances
-Scholarships
-Scholarships from other providers
-FAQ
-Housing
-Visa & Residence Permit
-Insurance and healthcare
-Guidance
-Introduction period
-Associations
-Preparation: Courses and Summer School
-City of Delft
-Elite sports and study
-Student Stories
-Scholarships
-Come to TU Delft with a Scholarship!
-At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
+
+*   [Delft University of Technology](https://www.tudelft.nl/en/ "Delft University of Technology")
+*   [Students & Education](https://www.tudelft.nl/en/education "Students & Education")
+*   [Study Programme Orientation](https://www.tudelft.nl/en/education/study-programme-orientation "Study Programme Orientation")
+*   [Practical matters](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters "Practical matters")
+*   [Scholarships](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships "Scholarships")
+
+ Open menu 
+*   [Preparing for a bachelor](https://www.tudelft.nl/en/education/study-programme-orientation/preparing-for-a-bachelor)
+*   [Preparing for a minor](https://www.tudelft.nl/en/education/study-programme-orientation/preparing-for-a-minor)
+*   [Preparing for a master](https://www.tudelft.nl/en/education/study-programme-orientation/preparing-for-a-master)
+*   [Practical matters](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters)
+    *   [Admission Letter received: What’s next?](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/admission-letter-received-whats-next)
+    *   [Tuition Fee & Finances](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/tuition-fee-finances)
+    *   [Scholarships](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships)
+        *   [Scholarships from other providers](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/scholarships-from-other-providers)
+        *   [FAQ](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/faq)
+
+    *   [Housing](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/housing)
+    *   [Visa & Residence Permit](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/visa-residence-permit)
+    *   [Insurance and healthcare](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/insurance-and-healthcare)
+    *   [Guidance](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/guidance)
+    *   [Introduction period](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/introduction-period)
+    *   [Associations](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/associations)
+    *   [Preparation: Courses and Summer School](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/preparation-courses-and-summer-school)
+    *   [City of Delft](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/city-of-delft)
+    *   [Elite sports and study](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/elite-sports-and-study)
+
+*   [Student Stories](https://www.tudelft.nl/en/education/study-programme-orientation/student-stories)
+
+# Scholarships
+
+### Come to TU Delft with a Scholarship!
+
+At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer **16 full scholarships** for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme **2 partial Scholarships**.
+
 The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
-Heads up!
+
+Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the [Tuition Fees & Finances](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/tuition-fee-finances) page to avoid unexpected financial challenges later in the process.
+
+### Heads up!
+
 Missing the scholarship deadline means your scholarship application won’t be reviewed.
-FAQ
-FREQUENTLY ASKED QUESTIONS
-Scholarship application form
-From Application to Award: The Scholarship Timeline
-Justus & Louise van Effen Excellence Scholarship?
+
+### [FAQ FREQUENTLY ASKED QUESTIONS](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/faq)
+
+### [Scholarship application form](https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%202027-2029.pdf)
+
+### From Application to Award: The Scholarship Timeline
+
+[![Image 52](https://t.e7096c671.entry.domains/BL-ROcg_zOdwzci-Tnz-Fre2CnU=/3433x467/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FTUDelft%2FOnderwijs%2FPraktische_zaken%2FScholarships%2FPicture%2520web%2520scholarship.png%3Fhash%3D1d3c60aa00)](https://t.e7096c671.entry.domains/BL-ROcg_zOdwzci-Tnz-Fre2CnU=/3433x467/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FTUDelft%2FOnderwijs%2FPraktische_zaken%2FScholarships%2FPicture%2520web%2520scholarship.png%3Fhash%3D1d3c60aa00)
+
+### Justus & Louise van Effen Excellence Scholarship?
+
 Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
+
+### Take the next step: Explore this scholarship
+
+*   [Number of scholarships](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Eligibility](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Application deadline](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Application procedure](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Scholarship coverage](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Awarding the scholarship](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Terms and conditions](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
 2 per faculty
-You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
-Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
-You have submitted a complete MSc application before the scholarship deadline.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload one reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
-Contribution for the living expenses.
-To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
-Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
-Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+
+*   You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes **(not an International Joint Education Programme).**
+*   Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
+*   You have submitted a complete MSc application before the scholarship deadline.
+
+**1 December 2026 (23:59 CET)**
+
+*   Complete your [MSc application](https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/application-procedure) (check the admission requirements)
+*   Upload the [Scholarship Application Form](https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%202027-2029.pdf)
+*   Upload one reference letter (if you have two references, upload as 1 pdf.)
+*   Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).  
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information [here](https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements")).
+
+*   Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
+*   Contribution for the living expenses.
+*   To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
+*   Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
+*   Working part-time is not recommended as it may affect your study. For more information, For more information [FAQ](https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/faq-1#/faq/274).
+
+Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.  
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Financial extensions beyond the 2-year period are not supported by the scholarship.
-The student must remain enrolled at TU Delft during the scholarship period
-Full details will disclosed in the award letter.
-Electrical Engineering Scholarship
+
+*   Financial extensions beyond the 2-year period are not supported by the scholarship.
+*   The student must remain enrolled at TU Delft during the scholarship period
+*   Full details will disclosed in the award letter.
+
+### Electrical Engineering Scholarship
+
 The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
+
+### Take the next step: Explore this scholarship
+
+*   [Number of scholarships](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Eligibility](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Application deadline](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Application procedure](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Scholarship coverage](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Awarding the scholarship](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Terms and conditions](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
 Up to two faculty scholarships offered by the Microelectronics research department
-You are a promising excellent international student
-Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload 1 reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Partial scholarship for up to two students
-Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
-Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
+
+*   You are a promising excellent international student
+*   Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
+*   You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
+
+**1 December 2026 (23:59 CET)**
+
+*   Complete your [MSc application](https://www.tudelft.nl/en/education/admission-and-application/msc-international-diploma/application-procedure) (check the admission requirements)
+*   Upload the [Scholarship Application Form](https://filelist.tudelft.nl/TUDelft/Onderwijs/Praktische_zaken/Scholarships/Scholarship%20Application%20Form%202027-2029.pdf)
+*   Upload 1 reference letter (if you have two references, upload as 1 pdf.)
+*   Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).  
+Are you exempt? If yes, the English language certificate is not needed. Check the requirement information [here](https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements "https://www.tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements")).
+
+*   Partial scholarship for up to two students
+*   Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
+*   Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
+
+Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.  
 Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
-The student must remain enrolled at TU Delft during the scholarship period.
-Full details will disclosed in the award letter.
-Student Experiences
-Kanza Zafar, ME, graduated 2026
-Sarah Sultana, CEG, graduated 2026
-Sejal Budholiya, IDE, graduated 2025
-Eden Pfanner, AE, graduated 2025
-Swetha Krishnan, IDE, graduated 2024
-I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey.
-Kanza Zafar, ME, graduated 2026
-Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.
-Sarah Sultana, CEG, graduated 2026
-This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I&#039;d never studied before. Looking back, it&#039;s not just that it supported my studies. It changed how brave I was willing to be.
-Sejal Budholiya, IDE, graduated 2025
-The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.
-Eden Pfanner, AE, graduated 2025
-The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people&#039;s everyday lives.
-Swetha Krishnan, IDE, graduated 2024
-Scholarships from other providers
-Find here more info about scholarships from other providors
-Not yet found a scholarship to fund your future MSc programme?
+
+*   Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
+*   Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
+*   The student must remain enrolled at TU Delft during the scholarship period.
+*   Full details will disclosed in the award letter.
+
+### Student Experiences
+
+*   [Kanza Zafar, ME, graduated 2026](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Sarah Sultana, CEG, graduated 2026](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Sejal Budholiya, IDE, graduated 2025](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Eden Pfanner, AE, graduated 2025](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+*   [Swetha Krishnan, IDE, graduated 2024](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
+
+> I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey.
+> 
+> Kanza Zafar, ME, graduated 2026
+
+> Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.
+> 
+> Sarah Sultana, CEG, graduated 2026
+
+> This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I'd never studied before. Looking back, it's not just that it supported my studies. It changed how brave I was willing to be.
+> 
+> Sejal Budholiya, IDE, graduated 2025
+
+> The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.
+> 
+> Eden Pfanner, AE, graduated 2025
+
+> The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people's everyday lives.
+> 
+> Swetha Krishnan, IDE, graduated 2024
+
+### Scholarships from other providers
+
+### [Find here more info about scholarships from other providors](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/scholarships-from-other-providers)
+
+### Not yet found a scholarship to fund your future MSc programme?
+
 Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
-Share this page:
-Facebook
-Linkedin
-Twitter
-Email
-WhatsApp
-Share this page
-Delft University of Technology
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-The Netherlands
-Contact and accessibility
-Disclaimer
-Privacy & Security
-Reading assistant BrowseAloud
-Vacancies
-Intranet
-Student portal
-Donate
-Press room
-TU Delft homepage
-Activate high contrast
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
 
-===== SOURCE PAGE: https://www.tudelft.nl/en/education/admission-and-application =====
-Admission and Application
-Activate high contrast
-To main content
-TU Delft homepage
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
-Students & Education
-Menu sluiten
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Menu openen
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Menu openen
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Menu openen
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Nederlands
-Activate high contrast
-Close menu
-Search
-Close search
-Delft University of Technology
-Students & Education
-Admission and Application
-Open menu
-Students & Education
-Programmes
-Admission and Application
-BSc - Dutch diploma
-BSc - International diploma
-MSc – Dutch bachelor’s degree
-MSc - International diploma
-Elective course
-Minors
-Exchange students
-PhD
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Innovation & Impact
-Community
-About TU Delft
-Admission and Application
-BSc - Dutch diploma
-Do you have a vwo, hbo or other Dutch diploma? Check how you can apply for a BSc programme (in Dutch)
-MSc - Dutch bachelor’s degree
-How to apply for a MSc programme with a Dutch hbo or wo BSc diploma
-Elective course
-Information about taking elective courses for students who are enrolled in a BSc or MSc programme
-Exchange
-How to apply for an exchange period at TU Delft.
-BSc - International diploma
-Apply for a BSc programme with an international secondary school diploma.
-MSc - International diploma
-Apply for a MSc programme with your international BSc diploma.
-Minor
-Apply for a minor at TU Delft, go to Rotterdam, Leiden as a TU Delft student. Or maybe study abroad or do an internship?
-PhD
-Find out how to apply for a PhD position at TU Delft.
-Share this page:
-Facebook
-Linkedin
-Twitter
-Email
-WhatsApp
-Share this page
-Delft University of Technology
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-The Netherlands
-Contact and accessibility
-Disclaimer
-Privacy & Security
-Reading assistant BrowseAloud
-Vacancies
-Intranet
-Student portal
-Donate
-Press room
-TU Delft homepage
-Activate high contrast
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
+## Share this page:
 
-===== SOURCE PAGE: https://www.tudelft.nl/en/delft-university-fund =====
-Delft University Fund
-Activate high contrast
-To main content
-TU Delft homepage
-Home
-We support
-Support pioneering research
-Support innovative Education
-Entrepreneurship
-Talent
-Support us
-Become a donor
-Donations via notarial deed
-Become a Good Friend
-Delft Female Impact Fund
-TU Delft Excellence Fund
-Graduate Ventures Pre-Seed Fund
-Student Friend
-Become a Business Friend
-Your Named Fund
-TU Delft France Initiative
-Planning your legacy
-Giving from Abroad
-Trustfunds and Foundations
-Crowdfunding
-News
-News
-Agenda
-Grants
-Students
-Researchers
-Alumni
-About us
-Annual Report
-Donor magazine
-Team Universiteitsfonds Delft
-Executive Board Delft University Fund
-Executive Grant Committee
-Acceptance of donations
-ANBI status
-Contact
-Search
-Home
-We support
-Menu openen
-Support pioneering research
-Support innovative Education
-Entrepreneurship
-Talent
-Support us
-Menu openen
-Become a donor
-Donations via notarial deed
-Become a Good Friend
-Delft Female Impact Fund
-TU Delft Excellence Fund
-Graduate Ventures Pre-Seed Fund
-Student Friend
-Become a Business Friend
-Your Named Fund
-TU Delft France Initiative
-Planning your legacy
-Giving from Abroad
-Trustfunds and Foundations
-Crowdfunding
-News
-Menu sluiten
-News
-Agenda
-Grants
-Menu openen
-Students
-Researchers
-Alumni
-About us
-Menu openen
-Annual Report
-Donor magazine
-Team Universiteitsfonds Delft
-Executive Board Delft University Fund
-Executive Grant Committee
-Acceptance of donations
-ANBI status
-Contact
-linkedin
-Nederlands
-Activate high contrast
-Close menu
-Search
-Close search
-Creating impact together for a better society
-Directly to
-Become a donor
-Donations via notarial deed
-Planning your legacy
-Item 1
-of
-1
-Delft University Fund
-Giving to TU Delft is an investment in the future
-The challenges of today demand solutions for tomorrow. How do we tackle climate change? How do we ensure a future powered by clean energy? How do we keep our digital world secure? The answers to these questions start with technological innovation, and TU Delft is at the forefront of these developments worldwide.
-The Delft University Fund supports TU Delft by contributing to research, education, talent development, and entrepreneurship. With donations from alumni, students, foundations, and companies, we do everything we can to help talented students and researchers achieve their ambitions and make a societal impact.
-Yes, I want to participate and donate.
-By contributing to the Delft University Fund, you are investing in groundbreaking research, innovative education, and top talent at TU Delft, ensuring that Delft technology continues to play a key role in addressing the major challenges of our time.
-Telemarketing campaign on Leaving a Legacy in October
-Throughout October, we are highlighting the importance of leaving a legacy through a telemarketing campaign. To find out more, please visit the Planning your Legacy page for additional information.
-News
-Thanks to 8421 donors a woman friendly alternative to the speculum is a step closer
-Read more
-In Memoriam: Ing. Maarten de Groot
-Read more
-Crowdfunding paves the way for better pain relief during gynaecological care
-Read more
-Van der Lely Foundation invests €150,000 in TU Delft’s Science Day
-Read more
-In Memoriam: Dr. Ir. Koos Visser
-Read more
-Two winners of the Marina van Damme Scholarship 2026 award set course for healthcare and AI
-Read more
-Annual Report 2025
-Read more
-Looking back: An inspiring Thank You Event at The Green Village
-Read more
-Ambitious Delft students receive €66,720 in grants via Delft University Fund
-Read more
-Graduate Ventures turns science into business
-Read more
-About us
-ANBI
-Annual Report
-Item 1
-of
-3
-November
-09
-Welcoming Event for new students receiving a full scholarship
-11
-Information session on donations and bequests to TU Delft
-More events
-Delft University Fund
-linkedin
-T: +31 (0)15 278 6409
-E: ufonds@tudelft.nl
-Library TU Delft
-Building 21, room 2.58
-Prometheusplein 1
-2628 ZC Delft
-TU Delft homepage
-Activate high contrast
-Home
-We support
-Support pioneering research
-Support innovative Education
-Entrepreneurship
-Talent
-Support us
-Become a donor
-Donations via notarial deed
-Become a Good Friend
-Delft Female Impact Fund
-TU Delft Excellence Fund
-Graduate Ventures Pre-Seed Fund
-Student Friend
-Become a Business Friend
-Your Named Fund
-TU Delft France Initiative
-Planning your legacy
-Giving from Abroad
-Trustfunds and Foundations
-Crowdfunding
-News
-News
-Agenda
-Grants
-Students
-Researchers
-Alumni
-About us
-Annual Report
-Donor magazine
-Team Universiteitsfonds Delft
-Executive Board Delft University Fund
-Executive Grant Committee
-Acceptance of donations
-ANBI status
-Contact
-Search
+*   [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships)
+*   [Linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships&title=Scholarships&summary=&source=tudelft.nl;)
+*   [Twitter](https://twitter.com/share?url=https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships&text=Scholarships)
+*   [Email](mailto:?subject=I%20would%20like%20to%20share%20this%20page%20with%20you&body=I%20would%20like%20to%20show%20you%20this%20page%20https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships)
+*   [WhatsApp](whatsapp://send?text=Scholarships%20https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships)
 
-===== SOURCE PAGE: https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships =====
-Scholarships
-Activeer hoog contrast
-Ga naar hoofdcontent
-TU Delft homepage
-Studenten & Onderwijs
-Opleidingen
-Toelating en aanmelding
-Studievoorlichting
-Studentenportal
-Lifelong Learning
-Voor scholen
-Onderzoek
-Maatschappelijke uitdagingen
-Faculteiten en instituten
-Onderzoeksfaciliteiten
-PhDs
-Stories
-Innovatie & Impact
-Zakelijk samenwerken
-Pioneering Tech
-Ondernemerschap
-Project Cases
-Community
-Alumni
-Campus Life
-Evenementen
-Sociale veiligheid
-Science Centre
-Over TU Delft
-Zoek medewerkers
-Contact
-Locaties
-Voor pers
-Actueel
-Agenda
-Library
-Vacatures
-Organisatie
-Strategie
-Universiteitsfonds
-Zoeken
-Studenten & Onderwijs
-Menu openen
-Opleidingen
-Toelating en aanmelding
-Studievoorlichting
-Studentenportal
-Lifelong Learning
-Voor scholen
-Onderzoek
-Menu openen
-Maatschappelijke uitdagingen
-Faculteiten en instituten
-Onderzoeksfaciliteiten
-PhDs
-Stories
-Innovatie & Impact
-Menu openen
-Zakelijk samenwerken
-Pioneering Tech
-Ondernemerschap
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Evenementen
-Sociale veiligheid
-Science Centre
-Over TU Delft
-Menu openen
-Zoek medewerkers
-Contact
-Locaties
-Voor pers
-Actueel
-Agenda
-Library
-Vacatures
-Organisatie
-Strategie
-Universiteitsfonds
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-English
-Activeer hoog contrast
-Sluit menu
-Zoeken
-Sluit zoek
-Technische Universiteit Delft
-Studenten & Onderwijs
-Studievoorlichting
-Praktische zaken
-Scholarships
-Menu openen
-Voorlichting Bachelor
-Voorlichting Minor
-Voorlichting Master
-Praktische zaken
-Admission Letter received: What’s next?
-Collegegeld en Financiën
-Scholarships
-Scholarships from other providers
-FAQ
-Huisvesting / Op kamers
-Visum & Verblijfsvergunning
-Zorg en Zorgverzekering
-Begeleiding
-Introductieperiode
-Verenigingen
-Voorbereiden: Courses en Summer School
-Stad Delft
-Topsport en Studie
-Student Stories
-Scholarships
-Come to TU Delft with a Scholarship!
-At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
-The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
-Heads up!
-Missing the scholarship deadline means your scholarship application won’t be reviewed.
-FAQ
-FREQUENTLY ASKED QUESTIONS
-Scholarship application form
-From Application to Award: The Scholarship Timeline
-Justus & Louise van Effen Excellence Scholarship?
-Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
-2 per faculty
-You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
-Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
-You have submitted a complete MSc application before the scholarship deadline.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload one reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
-Contribution for the living expenses.
-To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
-Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
-Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Financial extensions beyond the 2-year period are not supported by the scholarship.
-The student must remain enrolled at TU Delft during the scholarship period
-Full details will disclosed in the award letter.
-Electrical Engineering Scholarship
-The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
-Up to two faculty scholarships offered by the Microelectronics research department
-You are a promising excellent international student
-Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload 1 reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Partial scholarship for up to two students
-Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
-Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
-The student must remain enrolled at TU Delft during the scholarship period.
-Full details will disclosed in the award letter.
-Student Experiences
-Kanza Zafar, ME, graduated 2026
-Sarah Sultana, CEG, graduated 2026
-Sejal Budholiya, IDE, graduated 2025
-Eden Pfanner, AE, graduated 2025
-Swetha Krishnan, IDE, graduated 2024
-I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey.
-Kanza Zafar, ME, graduated 2026
-Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.
-Sarah Sultana, CEG, graduated 2026
-This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I&#039;d never studied before. Looking back, it&#039;s not just that it supported my studies. It changed how brave I was willing to be.
-Sejal Budholiya, IDE, graduated 2025
-The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.
-Eden Pfanner, AE, graduated 2025
-The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people&#039;s everyday lives.
-Swetha Krishnan, IDE, graduated 2024
-Scholarships from other providers
-Find here more info about scholarships from other providors
-Not yet found a scholarship to fund your future MSc programme?
-Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
-Deel deze pagina:
-Facebook
-Linkedin
-Twitter
-Email
-WhatsApp
-Deel deze pagina
-Technische Universiteit Delft
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-Contact en bereikbaarheid
-Disclaimer
-Privacy & Security
-Voorleeshulp: BrowseAloud
-Vacatures
-Intranet
-Studentenportal
-Doneer
-Voor pers
-TU Delft homepage
-Activeer hoog contrast
-Studenten & Onderwijs
-Opleidingen
-Toelating en aanmelding
-Studievoorlichting
-Studentenportal
-Lifelong Learning
-Voor scholen
-Onderzoek
-Maatschappelijke uitdagingen
-Faculteiten en instituten
-Onderzoeksfaciliteiten
-PhDs
-Stories
-Innovatie & Impact
-Zakelijk samenwerken
-Pioneering Tech
-Ondernemerschap
-Project Cases
-Community
-Alumni
-Campus Life
-Evenementen
-Sociale veiligheid
-Science Centre
-Over TU Delft
-Zoek medewerkers
-Contact
-Locaties
-Voor pers
-Actueel
-Agenda
-Library
-Vacatures
-Organisatie
-Strategie
-Universiteitsfonds
-Zoeken
+[Share this page](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships#)
 
-===== SOURCE PAGE: https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships =====
-Scholarships
-Activate high contrast
-To main content
-TU Delft homepage
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
-Students & Education
-Menu sluiten
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Menu openen
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Menu openen
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Menu openen
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Nederlands
-Activate high contrast
-Close menu
-Search
-Close search
-Delft University of Technology
-Students & Education
-Study Programme Orientation
-Practical matters
-Scholarships
-Open menu
-Preparing for a bachelor
-Preparing for a minor
-Preparing for a master
-Practical matters
-Admission Letter received: What’s next?
-Tuition Fee & Finances
-Scholarships
-Scholarships from other providers
-FAQ
-Housing
-Visa & Residence Permit
-Insurance and healthcare
-Guidance
-Introduction period
-Associations
-Preparation: Courses and Summer School
-City of Delft
-Elite sports and study
-Student Stories
-Scholarships
-Come to TU Delft with a Scholarship!
-At TU Delft, we embody the principal of creating impact for a better society and aim to attract the brightest, most talented, and highly motivated students worldwide to our MSc programmes. We offer 16 full scholarships for our regular MSc programmes from the Justus & Louise van Effen Excellence foundation and from the MSc Electrical Engineering Programme 2 partial Scholarships .
-The scholarships enable students to study in the Netherlands, contribute to a diverse and innovative academic community, and grow into future-proof engineers with a strong commitment to sustainability.
-Every year, TU Delft receives far more applications for its scholarships than it can fund, leaving many students disappointed. Carefully evaluate your MSc application, ensure you meet all eligibility criteria, and consider the financial costs of a two-year programme if you do not receive a scholarship. Scholarships are extremely limited and highly competitive, with only the strongest candidates selected. For transparency, we recommend checking the Tuition Fees & Finances page to avoid unexpected financial challenges later in the process.
-Heads up!
-Missing the scholarship deadline means your scholarship application won’t be reviewed.
-FAQ
-FREQUENTLY ASKED QUESTIONS
-Scholarship application form
-From Application to Award: The Scholarship Timeline
-Justus & Louise van Effen Excellence Scholarship?
-Justus & Louise van Effen Excellence Scholarships are financed by the legacy of Justus and Louise van Effen. Mr. van Effen studied at TU Delft in the 1940’s and strongly believed technological developments will contribute to solving societal issues. Awarded students will receive full tuition fees per year for a TU Delft MSc programme based on the Statutory or Institutional rate, according to the registered nationality, AND contribution for the living expenses.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
-2 per faculty
-You are an excellent international applicant (conditionally) admitted to one of the 2-year regular TU Delft MSc programmes (not an International Joint Education Programme).
-Students must have achieved excellent academic results in their previous study programme(s), which must be relevant to the Master's programme for which they are applying. As an indication, the student is amongst the top 10% of graduates in his/her previous study programme. Note that proof of ranking is not required – this information is purely to indicate the level of competitiveness.
-You have submitted a complete MSc application before the scholarship deadline.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload one reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Full tuition fees for the first year for a TU Delft MSc programme (based on the statutory fee or institutional rate, according to the registered nationality).
-Contribution for the living expenses.
-To be eligible for the scholarship allowances in the second year you are required to have made sufficient study progress. At the end of the first academic year, you must have completed at least 48 ECTS out of 60.
-Scholarship holders are not allowed to receive any other form of partial or full scholarship funding in addition to the Justus & Louise van Effen Excellence Scholarship.
-Working part-time is not recommended as it may affect your study. For more information, For more information FAQ .
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Financial extensions beyond the 2-year period are not supported by the scholarship.
-The student must remain enrolled at TU Delft during the scholarship period
-Full details will disclosed in the award letter.
-Electrical Engineering Scholarship
-The Microelectronics Scholarship is financed through the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS). The goal of the scholarship is to help financially challenged students with proven potential to study at the TU Delft. Awarded students will receive a partial scholarship towards the cost of their MSc studies at TU Delft.
-Take the next step: Explore this scholarship
-Number of scholarships
-Eligibility
-Application deadline
-Application procedure
-Scholarship coverage
-Awarding the scholarship
-Terms and conditions
-Up to two faculty scholarships offered by the Microelectronics research department
-You are a promising excellent international student
-Admitted (conditionally) to the 2-year Regular TU Delft’s MSc programme in Electrical Engineering (track Microelectronics).
-You have a cumulative grade point average (GPA) of 80 percent or higher of the scale maximum in the bachelor’s degree from an internationally renowned university outside The Netherlands.
-1 December 2026 (23:59 CET)
-Complete your MSc application (check the admission requirements)
-Upload the Scholarship Application Form
-Upload 1 reference letter (if you have two references, upload as 1 pdf.)
-Upload the English language certificate. (All applicants who wish to be considered for a scholarship are required to include their English test with their MSc application before the Scholarship deadline application).
-Are you exempt? If yes, the English language certificate is not needed. Check the requirement information here ).
-Partial scholarship for up to two students
-Partially covering tuition fees for a TU Delft MSc programme (based on the statutory or institutional tuition fee applicable to the student's nationality).
-Extension of the scholarship to the second year is subject to the student maintaining an average grade of 8.0 (80%) during the first year.
-Students who have been granted a scholarship will be informed by TU Delft via email by the end of March 2027.
-Receiving the scholarship is conditional on the student fulfilling all admission criteria.
-Extension of the scholarship to the second year is subject to maintaining an average grade of 8 (80%) during the first year.
-Students must choose an MSc thesis project in the Microelectronics Dept, and if they receive a 9 (90%) or higher for the project, they will be offered a PhD position in the Microelectronics Dept.
-The student must remain enrolled at TU Delft during the scholarship period.
-Full details will disclosed in the award letter.
-Student Experiences
-Kanza Zafar, ME, graduated 2026
-Sarah Sultana, CEG, graduated 2026
-Sejal Budholiya, IDE, graduated 2025
-Eden Pfanner, AE, graduated 2025
-Swetha Krishnan, IDE, graduated 2024
-I will always be deeply grateful to the Justus & Louise van Effen Foundation and TU Delft for believing in me and making my dream a reality. I hope to carry the confidence, knowledge, and values I have gained through this experience throughout my career and to contribute, in my own way, to the community that has invested so generously in my future. To the future recipients of the Justus & Louise van Effen Scholarship, I wish you the very best. I hope you make the most of this extraordinary opportunity, challenge yourself, explore beyond what you think is possible, and enjoy every part of the journey.
-Kanza Zafar, ME, graduated 2026
-Before coming to TU Delft, I had already heard about its excellent research and beautiful campus from people around me. After two years of studying here, I can say that those impressions were absolutely right. TU Delft gave me the opportunity to learn from knowledgeable and approachable teachers and make use of excellent academic resources. I met classmates and researchers from around the world and heard different perspectives through discussions and collaborations. Being part of such an inspiring academic environment has further strengthened my interest in research. The Justus & Louise van Effen Scholarship made all of this possible. It was much more than financial support. It gave me the freedom to focus fully on my studies, choose the courses that genuinely interested me, and complete my Master’s in two years.
-Sarah Sultana, CEG, graduated 2026
-This scholarship gave me more than just financial support. It gave me confidence to just say yes to opportunities as they came up. Being chosen for it made me feel like it was okay to leap into a field I&#039;d never studied before. Looking back, it&#039;s not just that it supported my studies. It changed how brave I was willing to be.
-Sejal Budholiya, IDE, graduated 2025
-The Justus & Louise van Effen Scholarship gave me the chance to move abroad and pursue my master’s degree in aerospace engineering at TU Delft, which was an opportunity that ended up being about so much more than academics. Living in the Netherlands, meeting people from around the world, and challenging myself in a new environment helped me grow tremendously, both as an engineer and as a person. I’m incredibly grateful for the scholarship and for the experiences, friendships, and memories that came from my time at TU Delft.
-Eden Pfanner, AE, graduated 2025
-The scholarship gave me the confidence and space to believe that I could build expertise in a field I truly cared about. Today, that freedom has helped me start my own play design studio, Sticks & Stones, and I continue exploring how play can make a meaningful difference in education, mental health and people&#039;s everyday lives.
-Swetha Krishnan, IDE, graduated 2024
-Scholarships from other providers
-Find here more info about scholarships from other providors
-Not yet found a scholarship to fund your future MSc programme?
-Check with your local embassy or local education ministry, country specific study abroad scholarships or search using a global Scholarship search tool.
-Share this page:
-Facebook
-Linkedin
-Twitter
-Email
-WhatsApp
-Share this page
-Delft University of Technology
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-The Netherlands
-Contact and accessibility
-Disclaimer
-Privacy & Security
-Reading assistant BrowseAloud
-Vacancies
-Intranet
-Student portal
-Donate
-Press room
-TU Delft homepage
-Activate high contrast
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
+[](https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships# "back_to_top")
 
-===== SOURCE PAGE: https://www.tudelft.nl/en/education/study-programme-orientation/practical-matters/scholarships/scholarships-from-other-providers =====
-Scholarships from other providers
+## Delft University of Technology
+
+*   [facebook](https://www.facebook.com/tudelft)
+*   [instagram](https://www.instagram.com/tudelft/?hl=en)
+*   [youtube](https://www.youtube.com/user/tudelft)
+*   [linkedin](https://www.linkedin.com/edu/delft-university-of-technology-15445)
+*   [whatsapp](https://api.whatsapp.com/send?phone=3197010256278)[whatsapp](https://wa.me/+3197010256278 "Start Whatsapp Conversation")
+
+Postbus 5  
+2600 AA Delft  
+The Netherlands  
+[Contact and accessibility](https://www.tudelft.nl/en/about-tu-delft/contact "Opens internal link in current window")
+
+[Disclaimer](https://www.tudelft.nl/en/disclaimer)  
+[Privacy & Security](https://www.tudelft.nl/en/privacy-and-security)  
+[Reading assistant BrowseAloud](https://www.tudelft.nl/en/about-tu-delft/browsealoud)
+
+[Vacancies](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft)  
+[Intranet](http://intranet.tudelft.nl/)  
+[Student portal](https://www.tudelft.nl/en/student)  
+[Donate](https://www.tudelft.nl/en/delft-university-fund/support-us)  
+[Press room](https://www.tudelft.nl/en/about-tu-delft/press-room)
+
+[](https://www.tudelft.nl/en/)
+
 Activate high contrast
-To main content
-TU Delft homepage
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
-Students & Education
-Menu sluiten
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Menu openen
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Menu openen
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Menu openen
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Menu openen
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Nederlands
-Activate high contrast
-Close menu
-Search
-Close search
-Delft University of Technology
-Students & Education
-Study Programme Orientation
-Practical matters
-Scholarships
-Scholarships from other providers
-Open menu
-Admission Letter received: What’s next?
-Tuition Fee & Finances
-Scholarships
-Scholarships from other providers
-FAQ
-Housing
-Visa & Residence Permit
-Insurance and healthcare
-Guidance
-Introduction period
-Associations
-Preparation: Courses and Summer School
-City of Delft
-Elite sports and study
-Scholarships from other providers
-Have you been awarded a scholarship from an external provider/organisation? Follow the steps below if you have been admitted to TU Delft.
-If you have been admitted to TU Delft and have received a (full) scholarship from an external provider, follow these steps to submit it for TU Delft approval. Without an approval from TU Delft, you will need to transfer the amount in your financial letter before the payment deadline.
-Requirements
-Approval deadline
-Additional Conditions
-Requirements
-Submit your scholarship letter before 1 June to contactcentre-esa@tudelft.nl , including your student number.
-The letter must contain the following details:
-Name of the scholarship provider
-Date of issue
-Student’s name (as shown on passport)
-Date of birth
-Start and end date of the scholarship (duration)
-Programme of study at TU Delft
-Amount of the scholarship
-Email address for TU Delft to send the tuition fee invoice
-Approval deadline
-TU Delft must approve the scholarship letter by 15 June .
-If the letter does not meet the IND’s requirements, the scholarship will be rejected, and you must transfer the fees and costs before 1 July :
-Tuition fees
-Living costs (as stated in the Financial Letter)
-Additional Conditions
-If the scholarship does not cover the full first-year living costs , you must transfer the remaining amount before 1 July .
-All students must pay the required service fees (housing and residence permit/visa) before 1 July .
-Tuition fees must be fully covered for the entire duration of the master’s programme which is 2 years . Scholarship providers should account for an annual tuition fee increase of 2–3% .
-Additional External Scholarship Providers
-CLIP Scholarship
-ASML Technology Scholarship
-Share this page:
-Facebook
-Linkedin
-Twitter
-Email
-WhatsApp
-Share this page
-Delft University of Technology
-facebook
-instagram
-youtube
-linkedin
-whatsapp
-whatsapp
-Postbus 5
-2600 AA Delft
-The Netherlands
-Contact and accessibility
-Disclaimer
-Privacy & Security
-Reading assistant BrowseAloud
-Vacancies
-Intranet
-Student portal
-Donate
-Press room
-TU Delft homepage
-Activate high contrast
-Students & Education
-Programmes
-Admission and Application
-Study Programme Orientation
-Student portal
-Lifelong Learning
-Research
-Societal challenges
-Faculties and institutes
-Research facilities
-Stories
-Innovation & Impact
-Business collaboration
-Pioneering Tech
-Entrepreneurship
-Project Cases
-Community
-Alumni
-Campus Life
-Events
-Social safety
-Science Centre
-About TU Delft
-Find employees
-Contact
-Locations
-Press room
-Current
-Calendar
-Library
-Jobs
-Organisation
-Strategy
-University Fund
-Search
+
+*   [Students & Education](https://www.tudelft.nl/en/education)
+    *   [Programmes](https://www.tudelft.nl/en/education/programmes)
+    *   [Admission and Application](https://www.tudelft.nl/en/education/admission-and-application)
+    *   [Study Programme Orientation](https://www.tudelft.nl/en/education/study-programme-orientation)
+    *   [Student portal](https://www.tudelft.nl/en/student)
+    *   [Lifelong Learning](https://www.tudelft.nl/en/learningforlife)
+
+*   [Research](https://www.tudelft.nl/en/research)
+    *   [Societal challenges](https://www.tudelft.nl/en/research/societal-challenges)
+    *   [Faculties and institutes](https://www.tudelft.nl/en/research/faculties-and-institutes)
+    *   [Research facilities](https://www.tudelft.nl/en/research/research-facilities)
+    *   [Stories](https://www.tudelft.nl/en/stories)
+
+*   [Innovation & Impact](https://www.tudelft.nl/en/innovation-impact)
+    *   [Business collaboration](https://www.tudelft.nl/en/innovation-impact/business-collaboration)
+    *   [Pioneering Tech](https://www.tudelft.nl/en/innovation-impact/pioneering-tech)
+    *   [Entrepreneurship](https://www.tudelft.nl/en/innovation-impact/entrepreneurship)
+    *   [Project Cases](https://www.tudelft.nl/en/innovation-impact/project-cases)
+
+*   [Community](https://www.tudelft.nl/en/community)
+    *   [Alumni](https://www.tudelft.nl/en/community/alumni)
+    *   [Campus Life](https://www.tudelft.nl/en/community/campus-life)
+    *   [Events](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Social safety](https://www.tudelft.nl/en/community/social-safety)
+    *   [Science Centre](https://www.tudelft.nl/en/tu-delft-science-centre)
+
+*   [About TU Delft](https://www.tudelft.nl/en/about-tu-delft)
+    *   [Find employees](https://www.tudelft.nl/en/about-tu-delft/find-employees)
+    *   [Contact](https://www.tudelft.nl/en/about-tu-delft/contact)
+    *   [Locations](https://www.tudelft.nl/en/about-tu-delft/locations)
+    *   [Press room](https://www.tudelft.nl/en/about-tu-delft/press-room)
+    *   [Current](https://www.tudelft.nl/en/about-tu-delft/current)
+    *   [Calendar](https://www.tudelft.nl/en/about-tu-delft/calendar)
+    *   [Library](https://www.tudelft.nl/en/library)
+    *   [Jobs](https://www.tudelft.nl/en/about-tu-delft/working-at-tu-delft)
+    *   [Organisation](https://www.tudelft.nl/en/about-tu-delft/organisation)
+    *   [Strategy](https://www.tudelft.nl/en/about-tu-delft/strategy)
+    *   [University Fund](https://www.tudelft.nl/en/delft-university-fund)
+
+Menu[](https://www.tudelft.nl/onderwijs/studievoorlichting/praktische-zaken/scholarships "Schakel over naar de Nederlandse taal")Search

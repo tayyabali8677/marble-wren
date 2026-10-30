@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.uni-freiburg.de/en/study/scholarships =====
 Title: Page not found – University of Freiburg
 
-URL Source: https://uni-freiburg.de/en/study/scholarships
+URL Source: https://www.uni-freiburg.de/en/study/scholarships
+
+Final URL: https://uni-freiburg.de/en/study/scholarships
 
 Warning: Target URL returned error 404: Not Found
 

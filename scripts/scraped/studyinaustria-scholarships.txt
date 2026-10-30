@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.studyinaustria.at/funding-scholarships =====
 Title: Error 404 - Document not found
 
-URL Source: https://studyinaustria.at/en/funding-scholarships/
+URL Source: https://www.studyinaustria.at/funding-scholarships
+
+Final URL: https://studyinaustria.at/en/funding-scholarships/
 
 Warning: Target URL returned error 404: Not Found
 

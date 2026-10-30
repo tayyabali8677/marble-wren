@@ -667,6 +667,8 @@ Title: Page not found | Australian National University
 
 URL Source: https://www.anu.edu.au/apply
 
+Published Time: Fri, 30 Oct 2026 17:53:57 GMT
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -738,45 +740,3 @@ MEMBER OF
 *   [![Image 3: APRU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-APRU.svg)](https://www.anu.edu.au/association-of-pacific-rim-universities)
 *   [![Image 4: IARU](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-IARU.svg)](https://www.anu.edu.au/international-alliance-of-research-universities)
 *   [![Image 5: Group of Eight Member](https://d1blp3aor2iuhp.cloudfront.net/images/logos/logo-GroupOfEight.svg)](https://www.anu.edu.au/group-of-eight)
-
-We use cookies to improve your experience with ANU. For an optimal experience, we recommend enabling all cookies. The ANU Privacy Policy outlines how we handle your personal information - [Read more](https://policies.anu.edu.au/ppl/document/ANUP_010007)
-
-Cookie settings Accept all
-
-![Image 7: Company Logo](https://cdn-au.onetrust.com/logos/static/ot_company_logo.png)
-
-## Cookie Settings
-
-We recommend enabling all cookies to provide you with the optimal experience while visiting our website.
-
-#### Essential Cookies
-
-Always Active
-
-These cookies are required for basic site functionality and are always enabled. Analytics cookies are used to record anonymous site usage data. No personally identifiable data is collected.
-
-#### Marketing Cookies
-
-- [x] Marketing Cookies 
-
-These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.
-
-### Cookie List
-
-Clear
-
-- [x] checkbox label label
-
-Apply Cancel
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Confirm my choices
-
-[![Image 8: Powered by Onetrust](https://cdn-au.onetrust.com/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)

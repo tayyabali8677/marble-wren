@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.msmt.cz/eu-and-international-affairs/government-scholarships-developing-countries =====
 Title: Ministerstvo školství, mládeže a tělovýchovy | MŠMT
 
-URL Source: https://msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries
+URL Source: https://www.msmt.cz/eu-and-international-affairs/government-scholarships-developing-countries
+
+Final URL: https://msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries
 
 Markdown Content:
 [![Image 1: Ministerstvo školství, mládeže a tělovýchovy](https://msmt.gov.cz/_next/static/media/logo-cs.1qdm9b5a7bra9.svg)](https://msmt.gov.cz/)

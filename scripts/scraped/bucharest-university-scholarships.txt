@@ -3,8 +3,6 @@ Title: Page not found - UniBuc - Universitatea din București
 
 URL Source: https://unibuc.ro/en/international/scholarships/
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 ![Image 1](https://unibuc.ro/wp-content/plugins/sitepress-multilingual-cms/res/flags/ro.png)
 *   [![Image 2](https://unibuc.ro/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png)Engleză](https://unibuc.ro/?lang=en)
@@ -562,3 +560,71 @@ We aim to support the widest array of browsers and assistive technologies as pos
 ### Notes, comments, and feedback
 
 Despite our very best efforts to allow anybody to adjust the website to their needs, there may still be pages or sections that are not fully accessible, are in the process of becoming accessible, or are lacking an adequate technological solution to make them accessible. Still, we are continually improving our accessibility, adding, updating and improving its options and features, and developing and adopting new technologies. All this is meant to reach the optimal level of accessibility, following technological advancements. For any assistance, please reach out to
+
+![Image 12](https://pixel.wp.com/g.gif?v=ext&blog=161859428&post=0&tz=2&srv=unibuc.ro&arch_err=%2Fen%2Finternational%2Fscholarships%2F&j=1%3A16.3.1&host=unibuc.ro&ref=&fcp=2092&rand=0.9952762806312039)
+
+Recunoaștere vocală Wait... 
+
+![Image 13: Ajutor](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/help.svg)**Ajutor**–Afișează o listă a comenzilor vocale disponibile
+
+Ajutor Ajută-mă Arată comenzile
+
+![Image 14: Ascunde ajutorul](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/hide-help.svg)**Ascunde ajutorul**–Ascunde lista comenzilor vocale disponibile
+
+Ascunde ajutorul Ascunde comenzile Ascunde lista comenzilor
+
+![Image 15: Derulează în jos](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/scroll-down.svg)**Derulează în jos**–Derulează pagina în jos 200 px
+
+Derulează în jos Jos Pagină jos
+
+![Image 16: Derulează în sus](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/scroll-up.svg)**Derulează în sus**–Derulează pagina în jos 200 px
+
+Derulează în sus Sus Pagină sus
+
+![Image 17: Du-te sus](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/go-to-top.svg)**Du-te sus**–Derulează pagina până sus
+
+Du-te sus Sus Partea de sus a paginii
+
+![Image 18: Du-te la final](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/go-to-bottom.svg)**Du-te la final**–Derulează pagina până jos
+
+Du-te la final Jos Partea de jos a paginii
+
+![Image 19: Tab](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/tab.svg)**Tab**–Treci la următorul element interactiv
+
+Tab Următorul Următorul tab
+
+![Image 20: Tab înapoi](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/tab-back.svg)**Tab înapoi**–Treci la elementul interactiv anterior
+
+Tab înapoi Anterior Tab anterior
+
+![Image 21: Arată numerele](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/show-numbers.svg)**Arată numerele**–Arată numere pentru elementele interactive
+
+Arată numerele Afișează numerele Activează numerele
+
+![Image 22: Numărul ... ](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/number.svg)**Numărul ...**–Fă click pe elementul număr...
+
+Click zero Apasă patru Deschide unu
+
+![Image 23: Ascunde numerele](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/hide-numbers.svg)**Ascunde numerele**–Ascunde numerele pentru elementele interactive
+
+Ascunde numerele Dezactivează numerele Elimină numerele
+
+![Image 24: Șterge introducerea](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/clear-input.svg)**Șterge introducerea**–Șterge câmpul text selectat
+
+Șterge introducerea Șterge Elimină
+
+![Image 25: Enter](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/enter.svg)**Enter**–Fă click pe elementul selectat
+
+Enter Trimite Ok
+
+![Image 26: Reîncarcă](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/reload.svg)**Reîncarcă**–Reîncarcă pagina
+
+Reîncarcă Reîmprospătare Actualizare
+
+![Image 27: Stop](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/stop.svg)**Stop**–Oprește recunoașterea vocală
+
+Stop Anulează Oprește ascultarea
+
+![Image 28: Ieșire](https://unibuc.ro/wp-content/plugins/readabler/images/voice-navigation/exit.svg)**Ieșire**–Dezactivează modul de navigare vocală
+
+Ieșire Ieșire Închide

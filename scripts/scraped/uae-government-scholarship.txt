@@ -3,81 +3,85 @@ Title: Page not found | Ministry of Higher Education and Scientific Research
 
 URL Source: https://mohesr.gov.ae/en-us/Pages/scholarships.aspx
 
+Final URL: https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx
+
+Published Time: Thu, 26 Feb 2026 00:46:36 GMT
+
 Markdown Content:
-[Turn on more accessible mode](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx#)
+[Turn on more accessible mode](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#)
 
-[Turn off more accessible mode](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx#)
+[Turn off more accessible mode](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#)
 
-[Skip to main content](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx#main-content)
+[Skip to main content](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#main-content)
 
-[![Image 1: United Arab Emirates Ministry of Higher Education and Scientific Research logo](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/mohesr-logo.svg)](https://mohesr.gov.ae/en)
+[![Image 1: United Arab Emirates Ministry of Higher Education and Scientific Research logo](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/mohesr-logo.svg)](https://www.mohesr.gov.ae/en)
 
 Results will be displayed automatically after typing your search.Search
 
 *   ![Image 2: Language Icon](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/languageIcon-db469b67125eec582606.svg)تغيير لغة الصفحة Change Language    
 
-*   [Home](https://mohesr.gov.ae/en)
-*   [Services](https://mohesr.gov.ae/EN/EServices)show submenu for "Services"
+*   [Home](https://www.mohesr.gov.ae/en)
+*   [Services](https://www.mohesr.gov.ae/EN/EServices)show submenu for "Services"
 
-    *   [Registration and Scholarships](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=6)
-    *   [Recognition](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=1)
-    *   [Higher education institutions](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=5)
-    *   [Academic programmes](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=9)
-    *   [Technical and Vocational Education and Training (TVET)](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=3)
-    *   [Training centres](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=12)
-    *   [Educational services and consultancy offices](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=11)
-    *   [Inquiries and Feedback](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=10)
+    *   [Registration and Scholarships](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=6)
+    *   [Recognition](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=1)
+    *   [Higher education institutions](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=5)
+    *   [Academic programmes](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=9)
+    *   [Technical and Vocational Education and Training (TVET)](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=3)
+    *   [Training centres](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=12)
+    *   [Educational services and consultancy offices](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=11)
+    *   [Inquiries and Feedback](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=10)
 
-*   [Open Data](https://mohesr.gov.ae/EN/OpenData)show submenu for "Open Data"
+*   [Open Data](https://www.mohesr.gov.ae/EN/OpenData)show submenu for "Open Data"
 
-    *   [Open data](https://mohesr.gov.ae/EN/OpenData/Pages/home.aspx)
-    *   [Data visualization](https://mohesr.gov.ae/EN/OpenData/Pages/Data-Visualization.aspx)
-    *   [Geospatial dashboard](https://mohesr.gov.ae/EN/OpenData/Pages/Geospatial-Dashboard.aspx)
+    *   [Open data](https://www.mohesr.gov.ae/EN/OpenData/Pages/home.aspx)
+    *   [Data visualization](https://www.mohesr.gov.ae/EN/OpenData/Pages/Data-Visualization.aspx)
+    *   [Geospatial dashboard](https://www.mohesr.gov.ae/EN/OpenData/Pages/Geospatial-Dashboard.aspx)
     *   [Bayanat.ae](https://bayanat.ae/en)
-    *   [New open data request](https://mohesr.gov.ae/EN/OpenData/Pages/newrequest.aspx)
-    *   [Open data guide](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Guide.aspx)
-    *   [Open data policy](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Policy.aspx)
-    *   [Open data plan](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Plan.aspx)
+    *   [New open data request](https://www.mohesr.gov.ae/EN/OpenData/Pages/newrequest.aspx)
+    *   [Open data guide](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Guide.aspx)
+    *   [Open data policy](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Policy.aspx)
+    *   [Open data plan](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Plan.aspx)
 
-*   [Digital Participation](https://mohesr.gov.ae/EN/MediaCenter)show submenu for "Digital Participation"
+*   [Digital Participation](https://www.mohesr.gov.ae/EN/MediaCenter)show submenu for "Digital Participation"
 
-    *   [News](https://mohesr.gov.ae/EN/MediaCenter/Pages/News.aspx)
-    *   [Higher education pulse](https://mohesr.gov.ae/EN/MediaCenter/Pages/Vision-Magazine.aspx)
-    *   [Photo gallery](https://mohesr.gov.ae/EN/MediaCenter/Pages/Photos.aspx)
-    *   [Videos gallery](https://mohesr.gov.ae/EN/MediaCenter/Pages/Videos.aspx)
-    *   [Events and occasions](https://mohesr.gov.ae/EN/MediaCenter/Pages/Events.aspx)
-    *   [Download center](https://mohesr.gov.ae/EN/MediaCenter/Pages/DownloadCenter.aspx)
-    *   [Digital participation policy](https://mohesr.gov.ae/EN/MediaCenter/Pages/eParticipationsPolicy.aspx)
-    *   [Digital consultations](https://mohesr.gov.ae/EN/MediaCenter/Pages/econsultation.aspx)
-    *   [Blogs](https://mohesr.gov.ae/EN/MediaCenter/Pages/eBlogs.aspx)
-    *   [Publications](https://mohesr.gov.ae/EN/MediaCenter/Pages/Publications.aspx)
+    *   [News](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/News.aspx)
+    *   [Higher education pulse](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Vision-Magazine.aspx)
+    *   [Photo gallery](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Photos.aspx)
+    *   [Videos gallery](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Videos.aspx)
+    *   [Events and occasions](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Events.aspx)
+    *   [Download center](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/DownloadCenter.aspx)
+    *   [Digital participation policy](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/eParticipationsPolicy.aspx)
+    *   [Digital consultations](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/econsultation.aspx)
+    *   [Blogs](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/eBlogs.aspx)
+    *   [Publications](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Publications.aspx)
 
-*   [Legislation](https://mohesr.gov.ae/EN/Legislation)show submenu for "Legislation"
+*   [Legislation](https://www.mohesr.gov.ae/EN/Legislation)show submenu for "Legislation"
 
-    *   [Laws](https://mohesr.gov.ae/EN/Legislation/Pages/Laws.aspx)
-    *   [Cabinet resolutions](https://mohesr.gov.ae/EN/Legislation/Pages/PoliciesAndRegulations.aspx)
-    *   [Ministerial decrees](https://mohesr.gov.ae/EN/Legislation/Pages/institutional-policies.aspx)
+    *   [Laws](https://www.mohesr.gov.ae/EN/Legislation/Pages/Laws.aspx)
+    *   [Cabinet resolutions](https://www.mohesr.gov.ae/EN/Legislation/Pages/PoliciesAndRegulations.aspx)
+    *   [Ministerial decrees](https://www.mohesr.gov.ae/EN/Legislation/Pages/institutional-policies.aspx)
 
-*   [About](https://mohesr.gov.ae/EN/AboutTheMinistry)show submenu for "About"
+*   [About](https://www.mohesr.gov.ae/EN/AboutTheMinistry)show submenu for "About"
 
-    *   [About the ministry](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/About.aspx)
-    *   [About the minister](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/About-the-Ministers.aspx)
-    *   [Ministry’s strategy](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/VisionMission.aspx)
-    *   [Organization chart](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Organization-Chart.aspx)
-    *   [Leaders of the ministry](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Leaders-of-the-Ministry.aspx)
-    *   [Partners](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Partners.aspx)
-    *   [Procurement and tenders](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Procurement.aspx)
+    *   [About the ministry](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/About.aspx)
+    *   [About the minister](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/About-the-Ministers.aspx)
+    *   [Ministry’s strategy](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/VisionMission.aspx)
+    *   [Organization chart](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Organization-Chart.aspx)
+    *   [Leaders of the ministry](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Leaders-of-the-Ministry.aspx)
+    *   [Partners](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Partners.aspx)
+    *   [Procurement and tenders](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Procurement.aspx)
 
-*   [More](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx)show submenu for "More"
+*   [More](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx)show submenu for "More"
 
-    *   [Contact](https://mohesr.gov.ae/En/Pages/contactus.aspx)
-    *   [Important links](https://mohesr.gov.ae/EN/ImportantLinks/Pages/Important-Links.aspx)
-    *   [Education and technology sciences attaché](https://mohesr.gov.ae/En/Pages/EducationAndTechnologySciencesAttache.aspx)
-    *   [Licensed Educational Institutions](https://mohesr.gov.ae/En/Pages/institutions.aspx)
-    *   [National qualifications centre (NQC)](https://mohesr.gov.ae/EN/NQC/Pages/default.aspx)
+    *   [Contact](https://www.mohesr.gov.ae/En/Pages/contactus.aspx)
+    *   [Important links](https://www.mohesr.gov.ae/EN/ImportantLinks/Pages/Important-Links.aspx)
+    *   [Education and technology sciences attaché](https://www.mohesr.gov.ae/En/Pages/EducationAndTechnologySciencesAttache.aspx)
+    *   [Licensed Educational Institutions](https://www.mohesr.gov.ae/En/Pages/institutions.aspx)
+    *   [National qualifications centre (NQC)](https://www.mohesr.gov.ae/EN/NQC/Pages/default.aspx)
     *   [Commission for academic accreditation](https://caa.ae/)
-    *   [UAE Award for Higher Education](https://mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
-    *   [UAE Skills](https://mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
+    *   [UAE Award for Higher Education](https://www.mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
+    *   [UAE Skills](https://www.mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
 
 My Applications
 
@@ -117,72 +121,72 @@ Results will be displayed automatically after typing your search.Search
 
 ## Services
 
-*   [Registration and Scholarships](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=6)
-*   [Recognition](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=1)
-*   [Higher education institutions](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=5)
-*   [Academic programmes](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=9)
-*   [Technical and Vocational Education and Training (TVET)](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=3)
-*   [Training centres](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=12)
-*   [Educational services and consultancy offices](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=11)
-*   [Inquiries and Feedback](https://mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=10)
+*   [Registration and Scholarships](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=6)
+*   [Recognition](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=1)
+*   [Higher education institutions](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=5)
+*   [Academic programmes](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=9)
+*   [Technical and Vocational Education and Training (TVET)](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=3)
+*   [Training centres](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=12)
+*   [Educational services and consultancy offices](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=11)
+*   [Inquiries and Feedback](https://www.mohesr.gov.ae/EN/EServices/Pages/ServiceCatalog.aspx?categoryId=10)
 
 ## Open Data
 
-*   [Open data](https://mohesr.gov.ae/EN/OpenData/Pages/home.aspx)
-*   [Data visualization](https://mohesr.gov.ae/EN/OpenData/Pages/Data-Visualization.aspx)
-*   [Geospatial dashboard](https://mohesr.gov.ae/EN/OpenData/Pages/Geospatial-Dashboard.aspx)
+*   [Open data](https://www.mohesr.gov.ae/EN/OpenData/Pages/home.aspx)
+*   [Data visualization](https://www.mohesr.gov.ae/EN/OpenData/Pages/Data-Visualization.aspx)
+*   [Geospatial dashboard](https://www.mohesr.gov.ae/EN/OpenData/Pages/Geospatial-Dashboard.aspx)
 *   [Bayanat.ae](https://bayanat.ae/en)
-*   [New open data request](https://mohesr.gov.ae/EN/OpenData/Pages/newrequest.aspx)
-*   [Open data guide](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Guide.aspx)
-*   [Open data policy](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Policy.aspx)
-*   [Open data plan](https://mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Plan.aspx)
+*   [New open data request](https://www.mohesr.gov.ae/EN/OpenData/Pages/newrequest.aspx)
+*   [Open data guide](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Guide.aspx)
+*   [Open data policy](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Policy.aspx)
+*   [Open data plan](https://www.mohesr.gov.ae/EN/OpenData/Pages/Open-Data-Plan.aspx)
 
 ## Digital Participation
 
-*   [News](https://mohesr.gov.ae/EN/MediaCenter/Pages/News.aspx)
-*   [Higher education pulse](https://mohesr.gov.ae/EN/MediaCenter/Pages/Vision-Magazine.aspx)
-*   [Photo gallery](https://mohesr.gov.ae/EN/MediaCenter/Pages/Photos.aspx)
-*   [Videos gallery](https://mohesr.gov.ae/EN/MediaCenter/Pages/Videos.aspx)
-*   [Events and occasions](https://mohesr.gov.ae/EN/MediaCenter/Pages/Events.aspx)
-*   [Download center](https://mohesr.gov.ae/EN/MediaCenter/Pages/DownloadCenter.aspx)
-*   [Digital participation policy](https://mohesr.gov.ae/EN/MediaCenter/Pages/eParticipationsPolicy.aspx)
-*   [Digital consultations](https://mohesr.gov.ae/EN/MediaCenter/Pages/econsultation.aspx)
-*   [Blogs](https://mohesr.gov.ae/EN/MediaCenter/Pages/eBlogs.aspx)
-*   [Publications](https://mohesr.gov.ae/EN/MediaCenter/Pages/Publications.aspx)
+*   [News](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/News.aspx)
+*   [Higher education pulse](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Vision-Magazine.aspx)
+*   [Photo gallery](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Photos.aspx)
+*   [Videos gallery](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Videos.aspx)
+*   [Events and occasions](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Events.aspx)
+*   [Download center](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/DownloadCenter.aspx)
+*   [Digital participation policy](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/eParticipationsPolicy.aspx)
+*   [Digital consultations](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/econsultation.aspx)
+*   [Blogs](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/eBlogs.aspx)
+*   [Publications](https://www.mohesr.gov.ae/EN/MediaCenter/Pages/Publications.aspx)
 
 ## Legislation
 
-*   [Laws](https://mohesr.gov.ae/EN/Legislation/Pages/Laws.aspx)
-*   [Cabinet resolutions](https://mohesr.gov.ae/EN/Legislation/Pages/PoliciesAndRegulations.aspx)
-*   [Ministerial decrees](https://mohesr.gov.ae/EN/Legislation/Pages/institutional-policies.aspx)
+*   [Laws](https://www.mohesr.gov.ae/EN/Legislation/Pages/Laws.aspx)
+*   [Cabinet resolutions](https://www.mohesr.gov.ae/EN/Legislation/Pages/PoliciesAndRegulations.aspx)
+*   [Ministerial decrees](https://www.mohesr.gov.ae/EN/Legislation/Pages/institutional-policies.aspx)
 
 ## About
 
-*   [About the ministry](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/About.aspx)
-*   [About the minister](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/About-the-Ministers.aspx)
-*   [Ministry’s strategy](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/VisionMission.aspx)
-*   [Organization chart](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Organization-Chart.aspx)
-*   [Leaders of the ministry](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Leaders-of-the-Ministry.aspx)
-*   [Partners](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Partners.aspx)
-*   [Procurement and tenders](https://mohesr.gov.ae/EN/AboutTheMinistry/Pages/Procurement.aspx)
+*   [About the ministry](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/About.aspx)
+*   [About the minister](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/About-the-Ministers.aspx)
+*   [Ministry’s strategy](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/VisionMission.aspx)
+*   [Organization chart](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Organization-Chart.aspx)
+*   [Leaders of the ministry](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Leaders-of-the-Ministry.aspx)
+*   [Partners](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Partners.aspx)
+*   [Procurement and tenders](https://www.mohesr.gov.ae/EN/AboutTheMinistry/Pages/Procurement.aspx)
 
 ## Important Links
 
-*   [Contact](https://mohesr.gov.ae/En/Pages/contactus.aspx)
-*   [Important links](https://mohesr.gov.ae/EN/ImportantLinks/Pages/Important-Links.aspx)
-*   [Education and technology sciences attaché](https://mohesr.gov.ae/En/Pages/EducationAndTechnologySciencesAttache.aspx)
-*   [Licensed Educational Institutions](https://mohesr.gov.ae/En/Pages/institutions.aspx)
-*   [National qualifications centre (NQC)](https://mohesr.gov.ae/EN/NQC/Pages/default.aspx)
+*   [Contact](https://www.mohesr.gov.ae/En/Pages/contactus.aspx)
+*   [Important links](https://www.mohesr.gov.ae/EN/ImportantLinks/Pages/Important-Links.aspx)
+*   [Education and technology sciences attaché](https://www.mohesr.gov.ae/En/Pages/EducationAndTechnologySciencesAttache.aspx)
+*   [Licensed Educational Institutions](https://www.mohesr.gov.ae/En/Pages/institutions.aspx)
+*   [National qualifications centre (NQC)](https://www.mohesr.gov.ae/EN/NQC/Pages/default.aspx)
 *   [Commission for academic accreditation](https://caa.ae/)
-*   [UAE Award for Higher Education](https://mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
-*   [UAE Skills](https://mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
+*   [UAE Award for Higher Education](https://www.mohesr.gov.ae/EN/ImportantLinks/SiteAssets/HEA/index.aspx)
+*   [UAE Skills](https://www.mohesr.gov.ae/EN/ImportantLinks/Pages/UAE-Skills.aspx)
 
 ![Image 4: Error 404](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/error-404-0d242c6a118e643c7450.svg)
 #### Page not found
 
 The page is not found or not available
 
-[Go Home](https://mohesr.gov.ae/ "Go Home")
+[Go Home](https://www.mohesr.gov.ae/ "Go Home")
 
 Did you find this content useful?
 You can help us improve by providing your feedback about your experience.
@@ -191,33 +195,33 @@ Yes No
 
 *   The Ministry The Ministry 
 
-    *   [About the ministry](https://mohesr.gov.ae/en//AboutTheMinistry/Pages/About.aspx)
-    *   [About the minister](https://mohesr.gov.ae/en//AboutTheMinistry/Pages/About-the-Ministers.aspx)
-    *   [Customer happiness charter](https://mohesr.gov.ae/en//Pages/CitizenCharter.aspx)
-    *   [Procurement](https://mohesr.gov.ae/en/abouttheministry/pages/procurement.aspx)
-    *   [Careers](https://mohesr.gov.ae/en/Pages/Careers.aspx)
+    *   [About the ministry](https://www.mohesr.gov.ae/en//AboutTheMinistry/Pages/About.aspx)
+    *   [About the minister](https://www.mohesr.gov.ae/en//AboutTheMinistry/Pages/About-the-Ministers.aspx)
+    *   [Customer happiness charter](https://www.mohesr.gov.ae/en//Pages/CitizenCharter.aspx)
+    *   [Procurement](https://www.mohesr.gov.ae/en/abouttheministry/pages/procurement.aspx)
+    *   [Careers](https://www.mohesr.gov.ae/en/Pages/Careers.aspx)
 
 *   Using the website Using the website 
 
-    *   [Sitemap](https://mohesr.gov.ae/en/Pages/Sitemap.aspx)
-    *   [Disclaimer](https://mohesr.gov.ae/en/Pages/Disclaimer.aspx)
-    *   [Privacy policy](https://mohesr.gov.ae/en/Pages/PrivacyPolicy.aspx)
-    *   [Terms and conditions](https://mohesr.gov.ae/en/Pages/TermsConditions.aspx)
-    *   [Accessibility](https://mohesr.gov.ae/en/Pages/Accessibility.aspx)
-    *   [Digital participation policy](https://mohesr.gov.ae/en/mediacenter/pages/eparticipationspolicy.aspx)
+    *   [Sitemap](https://www.mohesr.gov.ae/en/Pages/Sitemap.aspx)
+    *   [Disclaimer](https://www.mohesr.gov.ae/en/Pages/Disclaimer.aspx)
+    *   [Privacy policy](https://www.mohesr.gov.ae/en/Pages/PrivacyPolicy.aspx)
+    *   [Terms and conditions](https://www.mohesr.gov.ae/en/Pages/TermsConditions.aspx)
+    *   [Accessibility](https://www.mohesr.gov.ae/en/Pages/Accessibility.aspx)
+    *   [Digital participation policy](https://www.mohesr.gov.ae/en/mediacenter/pages/eparticipationspolicy.aspx)
 
 *   Information and Help Information and Help 
 
-    *   [Service catalogue](https://mohesr.gov.ae/en/EServices/Pages/ServiceCatalog.aspx)
-    *   [Frequently asked questions](https://mohesr.gov.ae/en/Pages/FAQs.aspx)
-    *   [Contact](https://mohesr.gov.ae/en/Pages/Contactus.aspx)
-    *   [Digital participation](https://mohesr.gov.ae/en/MediaCenter/Pages/default.aspx)
+    *   [Service catalogue](https://www.mohesr.gov.ae/en/EServices/Pages/ServiceCatalog.aspx)
+    *   [Frequently asked questions](https://www.mohesr.gov.ae/en/Pages/FAQs.aspx)
+    *   [Contact](https://www.mohesr.gov.ae/en/Pages/Contactus.aspx)
+    *   [Digital participation](https://www.mohesr.gov.ae/en/MediaCenter/Pages/default.aspx)
 
 *   References References 
 
-    *   [Legislation](https://mohesr.gov.ae/en/legislation/pages/default.aspx)
-    *   [Download center](https://mohesr.gov.ae/en/mediacenter/pages/downloadcenter.aspx)
-    *   [Abbreviations and glossary](https://mohesr.gov.ae/en/Pages/Terminologies.aspx)
+    *   [Legislation](https://www.mohesr.gov.ae/en/legislation/pages/default.aspx)
+    *   [Download center](https://www.mohesr.gov.ae/en/mediacenter/pages/downloadcenter.aspx)
+    *   [Abbreviations and glossary](https://www.mohesr.gov.ae/en/Pages/Terminologies.aspx)
 
 *   [![Image 5: Tawasul Logo](https://www.mohesr.gov.ae/SiteAssets/face%20lift/assets/images/tawasul-logo-dark-66c5ae3e0e37ee726f89.png)](https://171.ae/en "171 Tawasul Website")
 *   [171](tel:171)
@@ -234,7 +238,7 @@ Follow us on:
 
 This is an external link and you will navigate outside the Ministry's web site. Do you wish to continue?
 
-[Yes!](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx#!)No
+[Yes!](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#!)No
 
 © 2026 Ministry of Higher Education and Scientific Research. All rights reserved.
 
@@ -247,7 +251,7 @@ Follow us on:
 
 This is an external link and you will navigate outside the Ministry's web site. Do you wish to continue?
 
-[Yes!](https://mohesr.gov.ae/en-us/Pages/scholarships.aspx#!)No
+[Yes!](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#!)No
 
 This website uses cookies:
 We use cookies to personalize content and services , to provide social media features and to analyze our traffic...[learn more](https://www.mohesr.gov.ae/En/Pages/privacyPolicy.aspx)

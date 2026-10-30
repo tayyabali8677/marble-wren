@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://portal.uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships =====
 Title: 404 - Seite nicht gefunden
 
-URL Source: https://uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships
+URL Source: https://portal.uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships
+
+Final URL: https://uni-koeln.de/en/studying/studying-at-cologne/funding-scholarships
 
 Warning: Target URL returned error 404: Not Found
 

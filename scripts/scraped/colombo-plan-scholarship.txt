@@ -3,6 +3,8 @@ Title: Your connection is not private
 
 URL Source: https://www.colombo-plan.org/programs-and-projects/capacity-development-programmes/colombo-plan-scholarship-programme/
 
+Final URL: chrome-error://chromewebdata/
+
 Markdown Content:
 Subject: *.azurewebsites.net
 

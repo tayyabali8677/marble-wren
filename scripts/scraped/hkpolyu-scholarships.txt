@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.polyu.edu.hk/en/sao/scholarships-and-prizes/ =====
 Title: Page Not Found | The Hong Kong Polytechnic University
 
-URL Source: https://www.polyu.edu.hk/notfound.html?item=%2fscholarships-and-prizes%2f&user=extranet%5cAnonymous&site=sao
+URL Source: https://www.polyu.edu.hk/en/sao/scholarships-and-prizes/
+
+Final URL: https://www.polyu.edu.hk/notfound.html?item=%2fscholarships-and-prizes%2f&user=extranet%5cAnonymous&site=sao
 
 Warning: Target URL returned error 404: Not Found
 

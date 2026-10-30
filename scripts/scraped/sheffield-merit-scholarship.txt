@@ -3,6 +3,8 @@ Title: 404 Error | University of Sheffield
 
 URL Source: https://www.sheffield.ac.uk/international/fees-and-funding/scholarships/international-merit
 
+Final URL: https://sheffield.ac.uk/international/fees-and-funding/scholarships/international-merit
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:

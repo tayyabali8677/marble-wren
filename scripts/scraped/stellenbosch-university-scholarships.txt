@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships =====
 Title: Home
 
-URL Source: https://www.su.ac.za/en
+URL Source: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships
+
+Final URL: https://www.su.ac.za/en
 
 Markdown Content:
 Skip to Content
@@ -104,7 +106,7 @@ Search
 
 *   [A-Z](https://www.su.ac.za/en/a-z)
 
-## Gewilde soek terme
+## Popular searches
 
 *   [Graduation](https://www.su.ac.za/en/search?search_api_fulltext=graduation)
 *   [Programmes](https://www.su.ac.za/en/programmes)
@@ -131,7 +133,7 @@ Search
 
 *   [A-Z](https://www.su.ac.za/en/a-z)
 
-## Gewilde soek terme
+## Popular searches
 
 *   [Graduation](https://www.su.ac.za/en/search?search_api_fulltext=graduation)
 *   [Programmes](https://www.su.ac.za/en/programmes)

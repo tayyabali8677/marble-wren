@@ -3,6 +3,8 @@ Title: Erreur 404
 
 URL Source: https://cedies.public.lu/en/etudes/bourses-etudes/boursiers-etrangers.html
 
+Final URL: https://mengstudien.public.lu/en/etudes/bourses-etudes/boursiers-etrangers.html
+
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -24,8 +26,8 @@ Veuillez vérifier l'adresse si vous l'avez saisie vous-même. Pour localiser l'
 
  Rechercher dans le site   Rechercher 
 
-*   [Accueil](https://cedies.public.lu/fr.html)
-*   [Contact](https://cedies.public.lu/fr/support/contact.html)
-*   [Plan du site](https://cedies.public.lu/fr/support/plan.html)
+*   [Accueil](https://mengstudien.public.lu/fr.html)
+*   [Contact](https://mengstudien.public.lu/fr/support/contact.html)
+*   [Plan du site](https://mengstudien.public.lu/fr/support/plan.html)
 
 [![Image 3: Renow](https://cdn.public.lu/pictures/logos/renow.png)](https://renow.public.lu/ "Renow, votre guide en matière de qualité web gouvernemental luxembourgeois - Nouvelle fenêtre")

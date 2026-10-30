@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://ec.europa.eu/info/funding-tenders/opportunities/portal/ =====
 Title: EU Funding & Tenders Portal
 
-URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
+URL Source: https://ec.europa.eu/info/funding-tenders/opportunities/portal/
+
+Final URL: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home
 
 Markdown Content:
 Discover the funding & tenders opportunities

@@ -34,6 +34,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -57,6 +58,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -76,6 +78,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -98,6 +101,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -119,6 +123,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -130,6 +135,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -164,6 +170,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -190,6 +197,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -218,6 +226,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -229,6 +238,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -261,6 +271,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -284,6 +295,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -304,6 +316,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -330,6 +343,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -341,6 +355,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -377,6 +392,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -401,6 +417,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -421,6 +438,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -433,6 +451,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -465,6 +484,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -486,6 +506,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -507,6 +528,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -518,6 +540,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -529,6 +552,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -543,6 +567,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -852,6 +877,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -875,6 +901,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -894,6 +921,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -916,6 +944,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -937,6 +966,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -948,6 +978,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -982,6 +1013,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1008,6 +1040,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1036,6 +1069,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1047,6 +1081,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1079,6 +1114,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1102,6 +1138,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1122,6 +1159,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1148,6 +1186,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1159,6 +1198,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1195,6 +1235,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1219,6 +1260,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1239,6 +1281,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1251,6 +1294,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1283,6 +1327,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1304,6 +1349,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1325,6 +1371,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1336,6 +1383,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1347,6 +1395,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1361,6 +1410,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1646,6 +1696,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1669,6 +1720,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1688,6 +1740,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1710,6 +1763,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1731,6 +1785,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1742,6 +1797,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1776,6 +1832,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1802,6 +1859,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1830,6 +1888,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1841,6 +1900,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1873,6 +1933,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1896,6 +1957,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1916,6 +1978,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1942,6 +2005,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1953,6 +2017,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -1989,6 +2054,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2013,6 +2079,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2033,6 +2100,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2045,6 +2113,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2077,6 +2146,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2098,6 +2168,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2119,6 +2190,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2130,6 +2202,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2141,6 +2214,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2155,6 +2229,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2402,6 +2477,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2425,6 +2501,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2444,6 +2521,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2466,6 +2544,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2487,6 +2566,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2498,6 +2578,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2532,6 +2613,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2558,6 +2640,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2586,6 +2669,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2597,6 +2681,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2629,6 +2714,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2652,6 +2738,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2672,6 +2759,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2698,6 +2786,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2709,6 +2798,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2745,6 +2835,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2769,6 +2860,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2789,6 +2881,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2801,6 +2894,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2833,6 +2927,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2854,6 +2949,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2875,6 +2971,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2886,6 +2983,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2897,6 +2995,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -2911,6 +3010,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3150,6 +3250,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3173,6 +3274,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3192,6 +3294,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3214,6 +3317,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3235,6 +3339,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3246,6 +3351,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3280,6 +3386,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3306,6 +3413,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3334,6 +3442,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3345,6 +3454,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3377,6 +3487,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3400,6 +3511,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3420,6 +3532,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3446,6 +3559,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3457,6 +3571,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3493,6 +3608,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3517,6 +3633,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3537,6 +3654,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3549,6 +3667,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3581,6 +3700,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3602,6 +3722,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3623,6 +3744,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3634,6 +3756,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3645,6 +3768,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -3659,6 +3783,7 @@ GERiT
 RIsources
 Elan
 Press
+Contact
 DE
 bluesky
 mastodon
@@ -4081,760 +4206,6 @@ F orms and Guidelines
 Structure of Funding Portfolio
 The DFG funding portfolio includes a wide range of funding instruments for research projects and research infrastructures. A distinction is made between funding for individual researchers and funding for institutions, according to the requirements and objectives of the research to be conducted. Individuals can also be nominated for research prizes.
 Most of the DFG’s funding instruments are designed to support research projects. These instruments are grouped into seven funding focuses (an eighth funding focus encompasses prizes). Grants centre on either research career development, or the research theme and the way in which it is addressed or the infrastructures required to address it. As far as possible, funding opportunities are aligned with the needs of researchers and are designed to reflect the research approaches used in the various academic research disciplines and communities. They also enable or facilitate diverse forms of cooperation between institutions, locations and disciplines. Funding awarded to research institutions also helps to enhance their core areas and structures from an academic and infrastructural standpoint.
-Information Systems and Websites
-Portal Research Integrity
-GEPRIS
-GERiT
-RIsources
-Service
-Press Contact
-FAQ
-Career
-Informant Portal
-Logo und Corporate Design
-RSS Feeds
-Accessibility
-Services and Information for Persons with Disabilities
-Accessibility Statement
-Report a Barrier
-DFG Newsletter
-Receive news from the DFG directly in your mailbox.
-Subscribe
-© 2026 DFG
-Imprint
-Privacy Policy
-Cookie Settings
-Contact
-Service
-Cookie-Settings
-Our website uses cookies that are strictly necessary for its technical functionality and cookies for the collection of statistical information (analytical cookies).
-We use the Matomo analytics service on our websites to analyse the use of our online services. Matomo generally operates without cookies (Anc . Analytical cookies help us gain a better understanding of how our websites are used, enabling us to improve and optimise our online services for users. If you consent to the use of Matomo cookies in the cookie banner or here on this page, these cookies can be stored on your device. We analyse how visitors use our website anonymously by collecting their IP addresses only in truncated form. For this reason, it is not possible for us to identify you as a user. Your data is not disclosed to third parties.
-For a detailed overview of the cookies that may be used, see the  section entitled “Web analytics using Matomo” in our Data Protection Notic e (Anchor Link) .
-You can use the Cookie setting s (externer Link) to revoke your consent to the processing of your data at any time. You can also remove the cookies from your browser at any time before they expire.
-Accept statistical cookies
-Continue without statistical cookies
-{ showButton = false; }, 3000)
-">
-Go to the top of the page
-Share
-
-===== SOURCE PAGE: https://www.dfg.de/en/research-funding/funding-opportunities/prizes =====
-Scientific Prizes | DFG
-Open menu
-Close menu
-1}">
-Search
-Close search
-Search text
-Search
-FAQ - Frequently asked questions &#xFEFF;
-1"
-@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
-:aria-controls="$id('main-menu')"
-class="main-nav__link main-nav__link--first">
-About Us
-2}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
-Close menu
-Back
-About Us
-About the DFG &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-About the DFG
-What is the DFG?
-Statutes
-History
-Annual Report
-Key Figures Portal
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Alliance of Science Organisations in Germany
-Statutory Bodies &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Statutory Bodies
-General Assembly
-Executive Committee
-Senate
-Joint Committee
-Review Boards
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Contact Persons at Higher Education Institutions &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Contact Persons at Higher Education Institutions
-Liaison Officers
-Liaisons at Non-Member Organisations
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Head Office &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Head Office
-Contacts A-Z
-Programme Contacts
-Berlin Office
-Career
-Executive Board
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-International Cooperation &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-International Cooperation
-International Activities
-European Research Policy
-News from the Offices Abroad
-Representation Abroad
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-1"
-@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
-:aria-controls="$id('main-menu')"
-class="main-nav__link ">
-Funding
-2}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
-Close menu
-Back
-Funding
-Funding Opportunities &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Funding Opportunities
-All Funding Programmes
-Scientific Prizes
-How the DFG Supports Research Careers
-Calls for Proposals
-Research Vessels
-Funding in an International Context
-Cooperation with Individual Countries and Regions
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Special Funding Initiatives &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Special Funding Initiatives
-Global Minds Initiative Germany
-Excellence Strategy
-National Research Data Infrastructure
-Funding for UAS
-Knowledge Transfer
-Refugee Researchers
-Clinician Scientist Programmes
-Funding Related to AI
-Secure Data Repositories and Data Resilience
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Things to Know about the Proposal and Funding Process &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Things to Know about the Proposal and Funding Process
-Forms and Guidelines
-Funding Acknowledgements
-Principles of Eligibility
-Individual Grants Programmes - How-To
-Decision Making Process
-Information for Reviewers
-Subject Area Structure and Interdisciplinarity
-Final reports
-Programme Contacts
-FAQ
-The elan Portal
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-1"
-@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
-:aria-controls="$id('main-menu')"
-class="main-nav__link ">
-Basics and Topics
-2}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
-Close menu
-Back
-Basics and Topics
-Basics and Principles of Funding &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Basics and Principles of Funding
-Good Research Practice
-Equity and Diversity
-Security-Relevant Research
-Sustainability Guide for Research Processes
-Diversity Dimensions in Research
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Resilience of Research
-Digital Topics &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Digital Topics
-Artificial Intelligence
-Open Access
-Handling of Research Data
-Handling of research software
-Dialogue Process on Digital Research Practice
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Publication and Communication &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Publication and Communication
-Academic Publishing
-Citizen Participation
-DFG Funding of Science Communication
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Scientific Commissions &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Scientific Commissions
-Food Safety
-Health Hazards
-Animal Research
-Genetic Research
-Clinical Research
-Biological Diversity
-Transformation of Agricultural and Food Systems
-Pandemic Research
-German Committee for Sustainability Research
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-1"
-@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
-:aria-controls="$id('main-menu')"
-class="main-nav__link ">
-Funded Projects
-2}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
-Close menu
-Back
-Funded Projects
-Prizewinners &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Prizewinners
-Gottfried Wilhelm Leibniz Prize
-Heinz Maier-Leibnitz Prize
-Communicator Award
-von Kaven Award
-Bernd Rendel Prize
-Ursula M. Händel Prize
-Copernicus Award
-Albert Maucher Prize in Geoscience
-Europa Prize
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Current Projects and Programmes in GEPRIS &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Current Projects and Programmes in GEPRIS
-Collaborative Research Centres
-Research Training Groups
-Priority Programmes
-Research Units
-Clinical Research Units
-Centres for Advanced Studies in Humanities and Social Sciences
-Clusters of Excellence
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Research Information Systems &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Research Information Systems
-GEPRIS
-GERiT
-RIsources
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Portal Research Integrity
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-1"
-@keyup.space="$store.menu.increaseNavLevel($id('main-menu'))"
-:aria-controls="$id('main-menu')"
-class="main-nav__link ">
-News
-2}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 2">
-Close menu
-Back
-News
-News and Current Topics &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-News and Current Topics
-Press Releases
-Information for Researchers
-News from the Offices Abroad
-Press Contact
-Newsletter
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Facts and Figures &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Facts and Figures
-Annual Report
-Funding Atlas
-Evaluation, Studies and Monitoring
-Key Figures Portal
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Publications &#xFEFF;
-3}"
-x-trap="$store.menu.openMenuId === $id('main-menu') && $store.menu.alpineNavLevel === 3">
-Close menu
-Back
-Publications
-Magazine „german research"
-Statements and Position Papers
-Speeches
-Information Material
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Go to Main Navigation
-Go to Search
-Go to Main Area
-GEPRIS
-GERiT
-RIsources
-Elan
-Press
-DE
-bluesky
-mastodon
-instagram
-linkedIn
-youtube
-Open search
-Search
-Close search
-Search text
-Search
-FAQ - Frequently asked questions &#xFEFF;
-About Us
-See overview &#xFEFF;
-Close menu
-About the DFG
-What is the DFG?
-Statutes
-History
-Annual Report
-Key Figures Portal
-Alliance of Science Organisations in Germany
-Statutory Bodies
-General Assembly
-Executive Committee
-Senate
-Joint Committee
-Review Boards
-Contact Persons at Higher Education Institutions
-Liaison Officers
-Liaisons at Non-Member Organisations
-Head Office
-Contacts A-Z
-Programme Contacts
-Berlin Office
-Career
-Executive Board
-International Cooperation
-International Activities
-European Research Policy
-News from the Offices Abroad
-Representation Abroad
-Funding
-See overview &#xFEFF;
-Close menu
-Funding Opportunities
-All Funding Programmes
-Scientific Prizes
-How the DFG Supports Research Careers
-Calls for Proposals
-Research Vessels
-Funding in an International Context
-Cooperation with Individual Countries and Regions
-Special Funding Initiatives
-Global Minds Initiative Germany
-Excellence Strategy
-National Research Data Infrastructure
-Funding for UAS
-Knowledge Transfer
-Refugee Researchers
-Clinician Scientist Programmes
-Funding Related to AI
-Secure Data Repositories and Data Resilience
-Things to Know about the Proposal and Funding Process
-Forms and Guidelines
-Funding Acknowledgements
-Principles of Eligibility
-Individual Grants Programmes - How-To
-Decision Making Process
-Information for Reviewers
-Subject Area Structure and Interdisciplinarity
-Final reports
-Programme Contacts
-FAQ
-The elan Portal
-Basics and Topics
-See overview &#xFEFF;
-Close menu
-Basics and Principles of Funding
-Good Research Practice
-Equity and Diversity
-Security-Relevant Research
-Sustainability Guide for Research Processes
-Diversity Dimensions in Research
-Resilience of Research
-Digital Topics
-Artificial Intelligence
-Open Access
-Handling of Research Data
-Handling of research software
-Dialogue Process on Digital Research Practice
-Publication and Communication
-Academic Publishing
-Citizen Participation
-DFG Funding of Science Communication
-Scientific Commissions
-Food Safety
-Health Hazards
-Animal Research
-Genetic Research
-Clinical Research
-Biological Diversity
-Transformation of Agricultural and Food Systems
-Pandemic Research
-German Committee for Sustainability Research
-Funded Projects
-See overview &#xFEFF;
-Close menu
-Prizewinners
-Gottfried Wilhelm Leibniz Prize
-Heinz Maier-Leibnitz Prize
-Communicator Award
-von Kaven Award
-Bernd Rendel Prize
-Ursula M. Händel Prize
-Copernicus Award
-Albert Maucher Prize in Geoscience
-Europa Prize
-Current Projects and Programmes in GEPRIS
-Collaborative Research Centres
-Research Training Groups
-Priority Programmes
-Research Units
-Clinical Research Units
-Centres for Advanced Studies in Humanities and Social Sciences
-Clusters of Excellence
-Research Information Systems
-GEPRIS
-GERiT
-RIsources
-Portal Research Integrity
-News
-See overview &#xFEFF;
-Close menu
-News and Current Topics
-Press Releases
-Information for Researchers
-News from the Offices Abroad
-Press Contact
-Newsletter
-Facts and Figures
-Annual Report
-Funding Atlas
-Evaluation, Studies and Monitoring
-Key Figures Portal
-Publications
-Magazine „german research"
-Statements and Position Papers
-Speeches
-Information Material
-DFG
-Funding
-Funding Opportunities
-Scientific Prizes
-Scientific Prizes
-The DFG awards prizes to scientists and academics in recognition of their outstanding research achievements.
-Gottfried Wilhelm Leibniz Priz e (interner Link)
-The Gottfried Wilhelm Leibniz Programme awards prizes to scientists and academics for their outstanding achievements in the field of research.
-Heinz Maier-Leibnitz Priz e (interner Link)
-The Heinz Maier-Leibnitz Prize is a distinction for early career researchers and provides further incentive for excellent achievements in their research work.
-Communicator Awar d (interner Link)
-The “Communicator Award – Science Award of the Donors' Association" is awarded by the DFG. This personal award, worth €50,000, is given to researchers who have communicated their scientific findings to the public with exceptional success.
-von Kaven Awar d (interner Link)
-The von Kaven Award is presented each year to an outstanding EU-based mathematician.
-Bernd Rendel Priz e (interner Link)
-The Bernd Rendel Prize is awarded annually by the DFG to qualified early career geoscientists who do not yet hold a doctorate. Criteria for the selection of awardees are quality and originality of the research as well as the scientific potential of the candidates.
-Ursula M. Händel Priz e (interner Link)
-The Ursula M. Händel-Prize recognises scientists who have made exemplary and sustained efforts to improve the welfare of animals in research.
-Copernicus Awar d (interner Link)
-The Copernicus Award is conferred every two years to two researchers, one in Germany and one in Poland, for outstanding achievements in German-Polish research cooperation. It is conferred jointly by the DFG and the Foundation for Polish Science (Fundacja na rzecz Nauki Polskiej, FNP).
-Albert Maucher Prize in Geoscienc e (interner Link)
-The Albert Maucher Prize in Geoscience is awarded once every three years to early career researchers in recognition of outstanding research findings and original approaches. Researchers who already have a full professorship cannot be nominated.
 Information Systems and Websites
 Portal Research Integrity
 GEPRIS

@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.uni-tuebingen.de/en/internationales/scholarships =====
 Title: 404 Error
 
-URL Source: https://uni-tuebingen.de/en/internationales/scholarships
+URL Source: https://www.uni-tuebingen.de/en/internationales/scholarships
+
+Final URL: https://uni-tuebingen.de/en/internationales/scholarships
 
 Warning: Target URL returned error 404: Not Found
 

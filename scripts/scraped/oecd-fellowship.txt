@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.oecd.org/careers/ =====
 Title: Careers
 
-URL Source: https://www.oecd.org/en/about/careers.html
+URL Source: https://www.oecd.org/careers/
+
+Final URL: https://www.oecd.org/en/about/careers.html
 
 Markdown Content:
 Skip to main content

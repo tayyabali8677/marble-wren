@@ -6,7 +6,7 @@ URL Source: https://www.qmul.ac.uk/international/international-students/fees-and
 Markdown Content:
 We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy. You can change your cookie settings at any time by clicking “Preferences.” 
 
-Preferences Decline Accept
+Accept
 
 [honeypot link](https://4xvmpmomo3.execute-api.us-east-1.amazonaws.com/ProdStage)[Skip to main content](https://www.qmul.ac.uk/international/international-students/fees-and-funding/#main-content)
 
@@ -293,4 +293,4 @@ Queen Mary University of London
 
 [Back to top](https://www.qmul.ac.uk/international/international-students/fees-and-funding/#top)
 
-![Image 5](https://bat.bing.com/action/0?ti=85083482&tm=gtm002&Ver=2&mid=5d384336-7f1f-4776-b943-d69c97950011&bo=1&sid=692758c0d41c11f181ab934a1ec56336&vid=6928eaa0d41c11f19536752edfb82b50&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Sorry,%20the%20page%20you%20requested%20could%20not%20be%20found%20-%20Queen%20Mary%20University%20of%20London&p=https%3A%2F%2Fwww.qmul.ac.uk%2Finternational%2Finternational-students%2Ffees-and-funding%2F&r=&lt=343&evt=pageLoad&sv=2&cdb=AQAS&rn=423630)
+![Image 5](https://bat.bing.com/action/0?ti=85083482&tm=gtm002&Ver=2&mid=bc60e4f3-1c76-4f8e-b9b5-df5b75ff24cd&bo=1&sid=eb47e8a0d48c11f1a959e7e69acacd6c&vid=eb483970d48c11f19588dbd60bd7a562&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=1280&sh=1280&sc=24&tl=Sorry,%20the%20page%20you%20requested%20could%20not%20be%20found%20-%20Queen%20Mary%20University%20of%20London&p=https%3A%2F%2Fwww.qmul.ac.uk%2Finternational%2Finternational-students%2Ffees-and-funding%2F&r=&lt=361&evt=pageLoad&sv=2&cdb=AQAS&rn=859408)

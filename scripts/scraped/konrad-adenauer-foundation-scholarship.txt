@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.kas.de/ =====
 Title: Konrad-Adenauer-Stiftung e.V.
 
-URL Source: https://www.kas.de/de/
+URL Source: https://www.kas.de/
+
+Final URL: https://www.kas.de/de/
 
 Markdown Content:
 [Zum Hauptinhalt springen](https://www.kas.de/de/#main-content)
@@ -29,7 +31,7 @@ Markdown Content:
 *   [](https://www.kas.de/web/leichte-sprache "Leichte Sprache")
 *   [](https://www.kas.de/de/gebaerdensprache "Gebärdensprache")
 
-[![Image 1: Logo der Konrad Adenauer Stiftung](https://www.kas.de/o/kas-de-theme/images/header/logo_2026.svg)![Image 2: Logo der Konrad Adenauer Stiftung](https://www.kas.de/o/kas-de-theme/images/header/logo_weiss_2026.svg)![Image 3: Logo des Adenauer Campus](https://www.kas.de/o/kas-de-theme/images/header/ac__logo.png)](https://www.kas.de/home "www.kas.de")
+[![Image 2: Logo der Konrad Adenauer Stiftung](https://www.kas.de/o/kas-de-theme/images/header/logo_2026.svg)![Image 3: Logo der Konrad Adenauer Stiftung](https://www.kas.de/o/kas-de-theme/images/header/logo_weiss_2026.svg)![Image 4: Logo des Adenauer Campus](https://www.kas.de/o/kas-de-theme/images/header/ac__logo.png)](https://www.kas.de/home "www.kas.de")
 
 ## Search Portlet
 
@@ -365,7 +367,16 @@ Home
 
 ## Asset-Herausgeber
 
-[![Image 4: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/hd-resolution/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
+[![Image 5: Wahlen in Israel - mehrere Fernseher mit den Neuigkeiten](https://www.kas.de/o/adaptive-media/image/50193982/teaser/L%C3%A4nderbericht_Copyright+KAS+Israel-Chen+Galili.jpg?t=1793361375313) KAS](https://www.kas.de/de/laenderberichte/detail/-/content/bilanz-der-ergebnisse-der-knessetwahl-1 "Bilanz der Ergebnisse der Knessetwahl")
+
+Ein Gewinner, viele Verlierer
+
+## [Bilanz der Ergebnisse der Knessetwahl](https://www.kas.de/de/laenderberichte/detail/-/content/bilanz-der-ergebnisse-der-knessetwahl-1 "Bilanz der Ergebnisse der Knessetwahl")
+### Israel hat gewählt: Rekordbeteiligung, harte Debatten und ein überraschendes Ergebnis.
+
+[Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/bilanz-der-ergebnisse-der-knessetwahl-1 "Bilanz der Ergebnisse der Knessetwahl")
+
+[![Image 6: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/teaser/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
 Historische Aufholjagd in Brasilien
 
@@ -374,7 +385,7 @@ Historische Aufholjagd in Brasilien
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
-[![Image 5: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/hd-resolution/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
+[![Image 7: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/teaser/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
 Monitor
 
@@ -383,7 +394,7 @@ Monitor
 
 [Mehr erfahren](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
-[![Image 6: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/hd-resolution/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
+[![Image 8: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/teaser/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
 Think Tank Report
 
@@ -392,7 +403,7 @@ Think Tank Report
 
 [Mehr erfahren](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
-[![Image 7: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/hd-resolution/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
+[![Image 9: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/teaser/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
 
 US-Midterms 2026
 
@@ -400,15 +411,6 @@ US-Midterms 2026
 ### Wahlkampfgelder und politische Prioritäten bei den US-Midterms 2026.
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
-
-[![Image 8: Grundgesetzt](https://www.kas.de/o/adaptive-media/image/49627698/hd-resolution/Coverbild+Grundgesetz.jpg?t=1791186562394) IMAGO / IlluPics](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
-
-Monitor
-
-## [Das Demokratieverständnis der Extremisten](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
-### Am Beispiel der AfD untersucht die Studie, wo die Grenze zwischen legitimer politischer Kritik und verfassungsfeindlichen Bestrebungen verläuft.
-
-[Mehr erfahren](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
 
 ## Asset-Herausgeber
 
@@ -422,9 +424,41 @@ Monitor
 
 ## Aktuelle Publikationen
 
+[](https://www.kas.de/de/laenderberichte/detail/-/content/amerika-vor-der-wahl-die-letzten-stimmen-entscheiden "Amerika vor der Wahl: Die letzten Stimmen entscheiden")
+
+![Image 10: Ein Plakat mit der Aufschrift ](https://www.kas.de/o/adaptive-media/image/50199530/teaser/Plakat-Vote.jpg?t=1793370816959) IMAGO / ZUMA Press Wire 
+
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
+
+### Amerika vor der Wahl: Die letzten Stimmen entscheiden
+
+#### Battlegrounds, Frühwahl und Mobilisierung im Endspurt um die Kongressmehrheiten
+
+*   Dr. Hardy Ostry, Chiara Stäbler
+
+*   30. Oktober 2026
+
+*   Länderberichte
+
+[](https://www.kas.de/de/laenderberichte/detail/-/content/bilanz-der-ergebnisse-der-knessetwahl-1 "Bilanz der Ergebnisse der Knessetwahl")
+
+![Image 11: Wahlen in Israel - mehrere Fernseher mit den Neuigkeiten](https://www.kas.de/o/adaptive-media/image/50193982/teaser/L%C3%A4nderbericht_Copyright+KAS+Israel-Chen+Galili.jpg?t=1793361375313) KAS 
+
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
+
+### Bilanz der Ergebnisse der Knessetwahl
+
+#### Ein Gewinner, viele Verlierer
+
+*   Dr. Michael Rimmel, Pascal Franz
+
+*   30. Oktober 2026
+
+*   Länderberichte
+
 [](https://www.kas.de/de/laenderberichte/detail/-/content/us-midterms-2026-von-der-botschaft-zur-stimmabgabe "US-Midterms 2026: Von der Botschaft zur Stimmabgabe")
 
-![Image 9: Wahlurnen](https://www.kas.de/o/adaptive-media/image/50157762/teaser/Wahlurnen-USA.jpg?t=1793265015075) IMAGO / Xinhua 
+![Image 12: Wahlurnen](https://www.kas.de/o/adaptive-media/image/50157762/teaser/Wahlurnen-USA.jpg?t=1793265015075) IMAGO / Xinhua 
 
 [](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
@@ -440,7 +474,7 @@ Monitor
 
 [](https://www.kas.de/de/kurzum/detail/-/content/reform-des-sexualstrafrechts-dringende-einfuehrung-des-ja-heisst-ja-modells "Reform des Sexualstrafrechts: Dringende Einführung des „Ja heißt Ja-Modells“")
 
-![Image 10: Verärgerte Frau zeigt Stoppschild mit Handfläche.](https://www.kas.de/o/adaptive-media/image/50156759/teaser/Frau+zeigt+Stoppschild+mit+Handfla%CC%88che.jpg?t=1793260971647) IMAGO / imagebroker 
+![Image 13: Verärgerte Frau zeigt Stoppschild mit Handfläche.](https://www.kas.de/o/adaptive-media/image/50156759/teaser/Frau+zeigt+Stoppschild+mit+Handfla%CC%88che.jpg?t=1793260971647) IMAGO / imagebroker 
 
 [](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
@@ -453,38 +487,6 @@ Monitor
 *   29. Oktober 2026
 
 *   kurzum
-
-[](https://www.kas.de/de/laenderberichte/detail/-/content/opposition-als-chance-nicht-nur-fuer-die-pnl "Opposition als Chance – nicht nur für die PNL")
-
-![Image 11: Rumänisches Parlament](https://www.kas.de/o/adaptive-media/image/50115391/teaser/Rum%C3%A4nien+Abstimmung+Parlament+OKT26+.jpg?t=1793104305305) KAS/Stefan Hofmann 
-
-[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
-
-### Opposition als Chance – nicht nur für die PNL
-
-#### Luca Niculescu wird mit Stimmen von PSD, PNL und UDMR neuer Premierminister Rumäniens. Die PNL geht nach Votum in die Opposition – eine Chance für Partei und politisches System
-
-*   Dr. Stefan Hofmann, Mihai Marc
-
-*   27. Oktober 2026
-
-*   Länderberichte
-
-[](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Historische Aufholjagd in Brasilien: Lula wird zum vierten Mal Präsident")
-
-![Image 12: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/teaser/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2 
-
-[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
-
-### Historische Aufholjagd in Brasilien: Lula wird zum vierten Mal Präsident
-
-#### Mobilisierung auf der Straße und in den sozialen Netzwerken machen den Unterschied. Doch ein chaotischer Wahltag, Polarisierung und ein Rechtsruck des Landes bleiben.
-
-*   Vanessa Pinilla Fernandes
-
-*   27. Oktober 2026
-
-*   Länderberichte
 
 [Alle Publikationen](https://www.kas.de/publikationen)
 
@@ -628,7 +630,7 @@ Nov
 
 ## Mediennachrichten
 
-[In der Presse ### "Für viele Israelis ist das eine Schicksalswahl" Michael Rimmel, Leiter unseres Büros in Jerusalem, erklärt im Gespräch mit WELT TV die Bedeutung der Parlamentswahlen in Israel. Die außergewöhnlich hohe Wahlbeteiligung zeige, wie wichtig der erste Urnengang seit dem Hamas-Angriff vom 7. Oktober 2023 sei. 28. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/fuer-viele-israelis-ist-das-eine-schicksalswahl "\"Für viele Israelis ist das eine Schicksalswahl\"")[In der Presse ### "Die verschiedenen Regierungen wollen ihre eigenen Interessen verfolgen" Unser Afrika- und Sicherheitsexperte Tobias Rüttershoff ordnet im Gespräch mit dem WDR 5 Morgenecho ein, was vom Russland-Afrika-Gipfel in Moskau zu erwarten ist. Russland habe den Ländern im Unterschied zu China wirtschaftlich nicht viel anzubieten, spiele aber bei der militärischen Unterstützung – insbesondere im Sahel – eine wichtige Rolle. 28. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/die-verschiedenen-regierungen-wollen-ihre-eigenen-interessen-verfolgen "\"Die verschiedenen Regierungen wollen ihre eigenen Interessen verfolgen\"")[Im TV ### "Die Palästinenser erwarten keine große Veränderung des Status Quo" Marian Wendt, unser Büroleiter in Ramallah, erklärt im phoenix-Interview, wie die Menschen in den Palästinensischen Gebieten auf den Ausgang der israelischen Parlamentswahlen blicken. 27. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/die-palaestinenser-erwarten-keine-grosse-veraenderung-des-status-quo "\"Die Palästinenser erwarten keine große Veränderung des Status Quo\"")[Im Radio ### "Die Chance, dass Netanjahu diese Wahl gewinnt, ist nicht sehr groß" Michael Rimmel, Leiter unseres Büros in Jerusalem, erklärt im WDR 5-Morgenecho, wie sich das Ergebnis der heutigen Parlamentswahl politisch und gesellschaftlich auswirken könnte. Auch bei einem Regierungswechsel würde sich die Politik Israels nicht komplett ändern. 27. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/die-chance-dass-netanjahu-diese-wahl-gewinnt-ist-nicht-sehr-gross "\"Die Chance, dass Netanjahu diese Wahl gewinnt, ist nicht sehr groß\"")
+[In der Presse ### "Russland muss unter verstärktem Druck stehen, um echte Verhandlungen aufzunehmen" Gemeinsamer Appell an die EU: 210 Milliarden Euro eingefrorenes russisches Staatsvermögen sollen für die Verteidigung der Ukraine genutzt werden, fordern im Handelsblatt vier Politikerinnen aus G7-Ländern - darunter unsere Vorsitzende Annegret Kramp-Karrenbauer. Das Ziel: der Ukraine helfen und zugleich den Druck auf Russland erhöhen. 30. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/russland-muss-unter-verstaerktem-druck-stehen-um-echte-verhandlungen-aufzunehmen "\"Russland muss unter verstärktem Druck stehen, um echte Verhandlungen aufzunehmen\"")[In der Presse ### "Für viele Israelis ist das eine Schicksalswahl" Michael Rimmel, Leiter unseres Büros in Jerusalem, erklärt im Gespräch mit WELT TV die Bedeutung der Parlamentswahlen in Israel. Die außergewöhnlich hohe Wahlbeteiligung zeige, wie wichtig der erste Urnengang seit dem Hamas-Angriff vom 7. Oktober 2023 sei. 28. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/fuer-viele-israelis-ist-das-eine-schicksalswahl "\"Für viele Israelis ist das eine Schicksalswahl\"")[In der Presse ### "Die verschiedenen Regierungen wollen ihre eigenen Interessen verfolgen" Unser Afrika- und Sicherheitsexperte Tobias Rüttershoff ordnet im Gespräch mit dem WDR 5 Morgenecho ein, was vom Russland-Afrika-Gipfel in Moskau zu erwarten ist. Russland habe den Ländern im Unterschied zu China wirtschaftlich nicht viel anzubieten, spiele aber bei der militärischen Unterstützung – insbesondere im Sahel – eine wichtige Rolle. 28. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/die-verschiedenen-regierungen-wollen-ihre-eigenen-interessen-verfolgen "\"Die verschiedenen Regierungen wollen ihre eigenen Interessen verfolgen\"")[Im TV ### "Die Palästinenser erwarten keine große Veränderung des Status Quo" Marian Wendt, unser Büroleiter in Ramallah, erklärt im phoenix-Interview, wie die Menschen in den Palästinensischen Gebieten auf den Ausgang der israelischen Parlamentswahlen blicken. 27. Oktober 2026](https://www.kas.de/de/snippet-detail/-/content/die-palaestinenser-erwarten-keine-grosse-veraenderung-des-status-quo "\"Die Palästinenser erwarten keine große Veränderung des Status Quo\"")
 
 ## SocialMediaFrontend
 
@@ -644,7 +646,19 @@ YouTube
 
 onlinekas
 
-21 Std.
+7 Std.
+
+ Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
+
+ Oder passen Sie Ihre Cookie-Einstellungen unter Datenschutz an. 
+
+ Was machte einen Ort am Comer See zu Adenauers zweitem Arbeitszimmer? 🇮🇹 Teil 4 von „Auf Konrads Spuren“ führt uns nach Cadenabbia. Hier verbrachte Konrad Adenauer seit 1957 regelmäßig seinen Urlaub. Doch die Verbindu... 
+
+[Auf Instagram öffnen](https://www.instagram.com/p/DfHY7LPDb6K/)
+
+onlinekas
+
+29.10.2026
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -656,7 +670,7 @@ onlinekas
 
 onlinekas
 
-21 Std.
+29.10.2026
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -754,7 +768,7 @@ Konrad-Adenauer-Stiftung
 
 23.10.2026
 
-![Image 13](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
+![Image 14](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
 
 onlinekas
 
@@ -770,21 +784,9 @@ onlinekas
 
 Konrad-Adenauer-Stiftung
 
-22.10.2026
-
- Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
-
- Oder passen Sie Ihre Cookie-Einstellungen unter Datenschutz an. 
-
- Heute treffen sich die Staats- und Regierungschefs des Berlin-Prozesses in Montenegro, darunter Bundeskanzler Friedrich Merz. Im Mittelpunkt stehen die EU-Beitrittsperspektiven der Länder des Westbalkans. Seit Kroatie... 
-
-[Auf Facebook öffnen](https://www.facebook.com/reel/2611059802665411/)
-
-Konrad-Adenauer-Stiftung
-
 23.10.2026
 
-![Image 14](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
+![Image 15](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
 
 Konrad-Adenauer-Stiftung
 
@@ -802,7 +804,7 @@ Konrad-Adenauer-Stiftung
 
 21.10.2026
 
-![Image 15](https://www.kas.de/de/)
+![Image 16](https://www.kas.de/de/)
 
  Die Bedrohung durch #Russland ist längst nicht mehr nur eine Frage von Cyberangriffen. Unser Generalsekretär Mark Speich spricht von einem kognitiven Krieg. Der Drohnenvorfall in Leipzig zeigt für ihn aber auch, dass die... 
 
@@ -918,7 +920,19 @@ Konrad-Adenauer-Stiftung
 
 onlinekas
 
-21 Std.
+7 Std.
+
+ Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
+
+ Oder passen Sie Ihre Cookie-Einstellungen unter Datenschutz an. 
+
+ Was machte einen Ort am Comer See zu Adenauers zweitem Arbeitszimmer? 🇮🇹 Teil 4 von „Auf Konrads Spuren“ führt uns nach Cadenabbia. Hier verbrachte Konrad Adenauer seit 1957 regelmäßig seinen Urlaub. Doch die Verbindu... 
+
+[Auf Instagram öffnen](https://www.instagram.com/p/DfHY7LPDb6K/)
+
+onlinekas
+
+29.10.2026
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -1050,19 +1064,7 @@ onlinekas
 
 onlinekas
 
-16.10.2026
-
- Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
-
- Oder passen Sie Ihre Cookie-Einstellungen unter Datenschutz an. 
-
- Eine Freundschaft, die Deutschland und Israel näherbrachte. 🇮🇱🇩🇪 Heute, am 16. Oktober, erinnern wir an den 140. Geburtstag von David Ben-Gurion, dem ersten Ministerpräsidenten Israels. Zwischen ihm und Konrad Aden... 
-
-[Auf Instagram öffnen](https://www.instagram.com/p/DejP6sXDTQb/)
-
-onlinekas
-
-21 Std.
+29.10.2026
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -1206,6 +1208,16 @@ onlinekas
 
 ## Asset-Herausgeber
 
+- [x] 
+
+![Image 17: Titelfigur der Ausstellung: Adenauer in seinem Wolkenflieger „Freiheit“](https://www.kas.de/o/adaptive-media/image/46378504/hd-resolution/Adenauer-Wolkenflieger-Karikatur_KAS_Heiko+Sakurai.jpg?t=1780906421850)KAS/Heiko Sakurai
+
+### Adenauer auf der Wolke - Himmlische Karikaturen zum 150. Geburtstag
+
+Noch bis zum 6. November 2026 ist „Adenauer auf der Wolke“ in der Akademie der Konrad-Adenauer-Stiftung in Berlin zu sehen.
+
+[Zur Ausstellung](https://www.kas.de/de/veranstaltungen/detail/-/content/sonderausstellung-berlin-adenauer-auf-der-wolke-himmlische-karikaturen-zum-150-geburtstag "Zur Ausstellung")
+
 Verborgen
 
 *   [Drucken](https://www.kas.de/de/# "Drucken")
@@ -1215,7 +1227,7 @@ Verborgen
 
 Teilen
 
-[](mailto:?subject=Linkempfehlung&body=Publikation+der+Konrad+Adenauer+Stiftung%3A%0Ahttps%3A%2F%2Fwww.kas.de%2Fde_DE%2Fde%2F)[![Image 16: Teilen auf Facebook](https://www.kas.de/o/kas-de-theme/images/icons/facebook_icon.png)](http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 17: Teilen auf Twitter](https://www.kas.de/o/kas-de-theme/images/icons/twitter_icon_new.png)](http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 18: Teilen auf Xing](https://www.kas.de/o/kas-de-theme/images/icons/xing_icon.png)](https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 19: Teilen auf LinkedIn](https://www.kas.de/o/kas-de-theme/images/icons/linkedin_icon.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kas.de%2Fde%2F)
+[](mailto:?subject=Linkempfehlung&body=Publikation+der+Konrad+Adenauer+Stiftung%3A%0Ahttps%3A%2F%2Fwww.kas.de%2Fde_DE%2Fde%2F)[![Image 18: Teilen auf Facebook](https://www.kas.de/o/kas-de-theme/images/icons/facebook_icon.png)](http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 19: Teilen auf Twitter](https://www.kas.de/o/kas-de-theme/images/icons/twitter_icon_new.png)](http://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 20: Teilen auf Xing](https://www.kas.de/o/kas-de-theme/images/icons/xing_icon.png)](https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.kas.de%2Fde%2F)[![Image 21: Teilen auf LinkedIn](https://www.kas.de/o/kas-de-theme/images/icons/linkedin_icon.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.kas.de%2Fde%2F)
 
 ## Asset-Herausgeber
 
@@ -1264,23 +1276,3 @@ Weitere Angebote der Stiftung
 *   [Sitemap](https://www.kas.de/de/sitemap)
 
 © Konrad-Adenauer-Stiftung e.V. 2026
-
-Diese Webseite verwendet Cookies, die für den Betrieb und die Sicherheit der Seite notwendig sind. Darüber hinaus sammelt die Webseite anonyme Nutzerdaten für statistische Analysen und um eingebundene Inhalte externer Seiten anzuzeigen. Die Cookie-Einstellungen können Sie jederzeit ändern. [Erfahren Sie mehr](https://www.kas.de/web/guest/datenschutz)
-
-- [x]  
-
-Notwendige technische Cookies
-
-- [x]  
-
-Cookies für statistische Analysen
-
-- [x]  
-
-Cookies zur Anzeige eingebundener Inhalte
-
-Hinweis: Zur Aktivierung Ihrer Änderung wird die Seite neu geladen
-
-[Speichern](https://www.kas.de/de/)[Alle Akzeptieren](https://www.kas.de/de/)
-
-[](https://www.kas.de/de/)

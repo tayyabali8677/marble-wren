@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://mcp.gov.ba/o-ministarstvu/dokumenti/stipendije/?lang=en =====
 Title: Ministarstvo civilnih poslova Bosne i Hercegovine
 
-URL Source: https://mcp.gov.ba/bs/o-ministarstvu/dokumenti/stipendije?lang=en
+URL Source: https://mcp.gov.ba/o-ministarstvu/dokumenti/stipendije/?lang=en
+
+Final URL: https://mcp.gov.ba/bs/o-ministarstvu/dokumenti/stipendije?lang=en
 
 Warning: Target URL returned error 404: Not Found
 

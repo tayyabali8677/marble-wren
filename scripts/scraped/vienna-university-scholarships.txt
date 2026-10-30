@@ -44,7 +44,7 @@ Back to "Studies"
 
             
                 *   [Bachelor / Diploma programmes](https://studieren.univie.ac.at/en/degree-programmes/bachelordiploma-programmes/)
-                *   [Master programmes](https://studieren.univie.ac.at/studienangebot/masterstudien/)
+                *   [Master programmes](https://studieren.univie.ac.at/en/find-your-degree-programme/masters-programmes)
                 *   [Doctoral / PhD programmes](https://doktorat.univie.ac.at/en/doctoralphd-programmes/)
                 *   [Admission to a degree programme](https://studieren.univie.ac.at/en/admission-procedure/)
                 *   [Programmes with entrance exam procedure](https://studieren.univie.ac.at/en/admission-procedure/)

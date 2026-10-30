@@ -551,7 +551,6 @@ Markdown Content:
         *   [Teaching Award](https://www.sdu.dk/en/om-sdu/begivenheder-priser/undervisningsprisen) 
         *   [Annual University Celebration at SDU](https://www.sdu.dk/en/om-sdu/begivenheder-priser/aarsfest) 
             *   [Annual University Celebration](https://www.sdu.dk/en/om-sdu/begivenheder-priser/aarsfest) 
-            *   [Tickets](https://www.sdu.dk/en/om-sdu/begivenheder-priser/aarsfest/billetter) 
             *   [Programme](https://www.sdu.dk/en/om-sdu/begivenheder-priser/aarsfest/program) 
             *   [Practical Information – FAQ](https://www.sdu.dk/en/om-sdu/begivenheder-priser/aarsfest/information) 
 

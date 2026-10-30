@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.worldwildlife.org/initiatives/the-russell-e-train-education-for-nature-program =====
 Title: Sorry, we couldn’t find the page you’re looking for.
 
-URL Source: https://www.worldwildlife.org/initiatives/the-russell-e-train-education-for-nature-program/
+URL Source: https://www.worldwildlife.org/initiatives/the-russell-e-train-education-for-nature-program
+
+Final URL: https://www.worldwildlife.org/initiatives/the-russell-e-train-education-for-nature-program/
 
 Warning: Target URL returned error 404: Not Found
 

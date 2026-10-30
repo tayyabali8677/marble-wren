@@ -405,7 +405,7 @@ Prospective students
 Continuing students
 Only open scholarships
 Clear filters
-Showing 311 results
+Showing 312 results
 Postgraduate doctoral
 A PhD Studentship in Wireless Communications and Signal Processing
 Award value
@@ -980,6 +980,15 @@ Home, Overseas, Full time, Part time
 Academic year
 2026/2027
 Application deadline
+Master's research
+Dean&rsquo;s Impact Scholarship
+Award value
+Full-Time MBA: Up to 50% of the tuition fee, Selected MSc Courses: &pound;25,000
+Available to
+Home, Overseas, Full time
+Academic year
+2027/2028
+Application deadline
 Postgraduate taught
 Department of Aeronautics MSc Scholarship
 Award value
@@ -1244,7 +1253,7 @@ Engineering Access Grant
 Award value
 One-off cash bursary of &pound;1,000 paid in 2026/27 only
 Available to
-, Full time
+Home, Full time
 Academic year
 2026/2027
 Application deadline
@@ -1377,12 +1386,12 @@ Academic year
 2025/2026
 Application deadline
 31/07/2025 Closed
-Postgraduate taught, Master's research
-Female Leaders Scholarship
+Master's research
+Female Future Leaders Scholarship
 Award value
-EMBA: Up to 30% of tuition fees, WMBA: Up to 30% of tuition fees, GMBA (Sept 27): Up to 30% of tuition fees
+&pound;20,000
 Available to
-Home, Overseas, Full time
+Home, Overseas, Full time, Part time
 Academic year
 2027/2028
 Application deadline
@@ -1466,6 +1475,15 @@ Application deadline
 Master's research
 FUNED Mexico Scholarship
 Award value
+FUNED Mexico Scholarship: &pound;20.000,
+Available to
+Overseas, Full time
+Academic year
+2027/2028
+Application deadline
+Master's research
+FUNED Mexico Scholarship
+Award value
 &pound;20,000 towards tuition fees
 Available to
 Overseas, Full time
@@ -1508,15 +1526,6 @@ Award value
 &pound;20,000
 Available to
 Overseas, Full time
-Academic year
-2027/2028
-Application deadline
-Postgraduate taught
-Grantham Institute Scholarship
-Award value
-&pound;25,000
-Available to
-Home, Full time
 Academic year
 2027/2028
 Application deadline
@@ -1643,6 +1652,15 @@ Application deadline
 Master's research
 Imperial Alumni Scholarship
 Award value
+Full-Time MBA: 20% of the tuition fee, Selected MSc courses: 10% of the tuition fee
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+Master's research
+Imperial Alumni Scholarship
+Award value
 15% of the tuition fee
 Available to
 Home, Overseas, Full time, Part time
@@ -1722,6 +1740,15 @@ Application deadline
 Postgraduate taught, Master's research
 Imperial Excellence Scholarship
 Award value
+Up to &pound;15,000
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+Postgraduate taught, Master's research
+Imperial Excellence Scholarship
+Award value
 Up to &pound;25,000
 Available to
 Home, Overseas, Full time
@@ -1733,6 +1760,15 @@ Master's research
 Imperial Founders Scholarship
 Award value
 Up to &pound;20,000
+Available to
+Home, Overseas, Full time, Part time
+Academic year
+2027/2028
+Application deadline
+Master's research
+Imperial Horizons Scholarship
+Award value
+MBA: Up to 30% of the tuition fee
 Available to
 Home, Overseas, Full time, Part time
 Academic year
@@ -1798,11 +1834,11 @@ Academic year
 Application deadline
 19/05/2026 Closed
 Master's research
-Inclusive Leaders Scholarship
+Inclusive Future Leaders Scholarship
 Award value
-EMBA: Up to 30% of tuition fees, WMBA: Up to 30% of tuition fees, GMBA (Sept 27): Up to 40% of tuition fees
+&pound;20,000
 Available to
-Home, Overseas, Full time, Part time
+Home, Overseas, Full time
 Academic year
 2027/2028
 Application deadline
@@ -2143,12 +2179,12 @@ Home, Overseas, Part time
 Academic year
 2026/2027
 Application deadline
-Postgraduate taught
-MiM Future Leaders Scholarship
+Postgraduate taught, Master's research
+Military & Public Service Scholarship
 Award value
-&pound;20,000
+MBA: Up to 30% of the tuition fee
 Available to
-Home, Overseas, Full time
+Home, Overseas, Full time, Part time
 Academic year
 2027/2028
 Application deadline
@@ -2761,7 +2797,7 @@ Overseas, Full time
 Academic year
 2027/2028
 Application deadline
-30/10/2026
+30/10/2026 Closed
 Postgraduate taught, Master's research
 Said Foundation Scholarship
 Award value
@@ -2778,15 +2814,6 @@ Award value
 &pound;50,000
 Available to
 Home, Overseas, Full time
-Academic year
-2027/2028
-Application deadline
-Master's research
-Sainsbury Science Management Fellows Scholarship
-Award value
-&pound;50,000
-Available to
-Home, Full time
 Academic year
 2027/2028
 Application deadline
@@ -2960,15 +2987,6 @@ Academic year
 2026/2027
 Application deadline
 19/05/2026 Closed
-Postgraduate taught, Master's research
-Sir Andrew Witty Scholarship for Leaders in Healthcare
-Award value
-MSc: &pound;15,000, FTMBA: &pound;20,000
-Available to
-Home, Overseas, Full time, Part time
-Academic year
-2027/2028
-Application deadline
 Postgraduate doctoral
 Skempton Scholarship
 Award value
@@ -2999,15 +3017,6 @@ Academic year
 2026/2027
 Application deadline
 13/03/2026 Closed
-Postgraduate taught
-Tarapada & Basu Scholarship for Innovation in Global Healthcare
-Award value
-&pound;10,000
-Available to
-Home, Overseas, Full time
-Academic year
-2027/2028
-Application deadline
 Postgraduate taught, Master's research
 TEV UK-Imperial-Scholarship
 Award value
@@ -3138,6 +3147,15 @@ Academic year
 2025/2026
 Application deadline
 29/01/2025 Closed
+Postgraduate doctoral
+The Egyptian Bureau for Cultural & Educational Affairs PhD Scholarships
+Award value
+full tuition fees
+Available to
+Overseas, Full time
+Academic year
+2027/2028
+Application deadline
 Postgraduate doctoral
 The Egyptian Bureau for Cultural & Educational Affairs PhD Scholarships
 Award value
@@ -3367,15 +3385,6 @@ Academic year
 2025/2026
 Application deadline
 03/02/2025 Closed
-Postgraduate taught
-W L &ldquo;Bill&rdquo; Byrnes Global Scholarship
-Award value
-&pound;30,000
-Available to
-Home, Overseas, Full time
-Academic year
-2027/2028
-Application deadline
 Postgraduate taught
 W L &ldquo;Bill&rdquo; Byrnes Global Scholarship
 Award value

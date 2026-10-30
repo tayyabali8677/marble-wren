@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://www.ie.edu/business-school/admissions/financial-aid/ =====
 Title: Page not found
 
-URL Source: https://www.ie.edu/business-school/page-not-found/?error_404&uri=https://www.ie.edu/business-school/admissions/financial-aid/
+URL Source: https://www.ie.edu/business-school/admissions/financial-aid/
+
+Final URL: https://www.ie.edu/business-school/page-not-found/?error_404&uri=https://www.ie.edu/business-school/admissions/financial-aid/
 
 Markdown Content:
 [Skip to main content](https://www.ie.edu/business-school/page-not-found/?error_404&uri=https://www.ie.edu/business-school/admissions/financial-aid/#main-content)

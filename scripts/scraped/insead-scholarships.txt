@@ -111,7 +111,7 @@ Back
 *   [Career Impact](https://www.insead.edu/master-programmes/master-finance/career-development)
 *   [FAQs](https://www.insead.edu/master-programmes/master-finance/faqs)
 *   [Upcoming Events(opens in new tab)](https://www.insead.edu/events/listing?field_categories%5B0%5D=master_programmes&field_event_programme%5B0%5D=mif&end_value_1_1=1&utm_source=google&utm_medium=direct&)
-*   [Explore In The Know(opens in new tab)](https://intheknow.insead.edu/?utm_medium=direct&)
+*   [Explore In The Know(opens in new tab)](https://intheknow.insead.edu/?utm_medium=direct)
 
 *   [Overview](https://www.insead.edu/master-programmes/global-executive-mba)
 *   [Curriculum](https://www.insead.edu/master-programmes/global-executive-mba/curriculum)
@@ -177,10 +177,10 @@ Back
 *   [INSEAD Affiliate Status](https://www.insead.edu/executive-education/insead-affiliate-status)
 
 *   [![Image 18: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/text-search.png) Programme Finder](https://www.insead.edu/programme-finder?field_experience_range=All&field_programme_type%5B0%5D=161&field_session_date=&end_value=&search_api_fulltext=&sort_by=field_upcoming_session_date& "Programme Finder")
-*   [![Image 19: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/monitor-dot.png) Application Online](https://apply.insead.edu/apply/auth/authentication?utm_medium=direct& "Application Online")Enrol in in-person and hybrid Executive Education programmes
+*   [![Image 19: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/monitor-dot.png) Application Online](https://apply.insead.edu/apply/auth/authentication?utm_medium=direct "Application Online")Enrol in in-person and hybrid Executive Education programmes
 
 × 
-*   [![Image 20: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/computer.png) E-Portal](https://eportal.insead.edu/EDP_CommunityLoginPage?utm_medium=direct& "E-Portal")Enrol in fully online Executive Education programmes
+*   [![Image 20: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/computer.png) E-Portal](https://eportal.insead.edu/EDP_CommunityLoginPage?utm_medium=direct "E-Portal")Enrol in fully online Executive Education programmes
 
 × 
 
@@ -189,10 +189,10 @@ Back
 *   [![Image 23: cal](https://www.insead.edu/sites/insead/files/2023-05/icon32-calendar-green.png) Events](https://www.insead.edu/events "Events")
 
 *   [![Image 24: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/text-search.png) Programme Finder](https://www.insead.edu/programme-finder?field_experience_range=All&field_programme_type%5B0%5D=161&field_session_date=&end_value=&search_api_fulltext=&sort_by=field_upcoming_session_date& "Programme Finder")
-*   [![Image 25: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/monitor-dot.png) Application Online](https://apply.insead.edu/apply/auth/authentication?utm_medium=direct& "Application Online")Enrol in in-person and hybrid Executive Education programmes
+*   [![Image 25: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/monitor-dot.png) Application Online](https://apply.insead.edu/apply/auth/authentication?utm_medium=direct "Application Online")Enrol in in-person and hybrid Executive Education programmes
 
 × 
-*   [![Image 26: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/computer.png) E-Portal](https://eportal.insead.edu/EDP_CommunityLoginPage?utm_medium=direct& "E-Portal")Enrol in fully online Executive Education programmes
+*   [![Image 26: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/computer.png) E-Portal](https://eportal.insead.edu/EDP_CommunityLoginPage?utm_medium=direct "E-Portal")Enrol in fully online Executive Education programmes
 
 × 
 
@@ -518,8 +518,8 @@ Back
 *   Learning Innovation
 *   [Research & Learning Hub](https://www.insead.edu/library)
 *   [Publications](https://www.insead.edu/faculty-research/publications)
-*   [Knowledge(opens in new tab)](https://knowledge.insead.edu/?utm_medium=direct&)
-*   [INSEAD Publishing(opens in new tab)](https://publishing.insead.edu/?utm_medium=direct&)
+*   [Knowledge(opens in new tab)](https://knowledge.insead.edu/?utm_medium=direct)
+*   [INSEAD Publishing(opens in new tab)](https://publishing.insead.edu/?utm_medium=direct)
 
 *   [![Image 60: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/newspaper.png) Faculty & Research Newsroom](https://www.insead.edu/newsroom/research-news "Faculty & Research Newsroom")
 *   [![Image 61: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/calendar-heart.png) Faculty & Research Events](https://www.insead.edu/faculty-research/events "Faculty & Research Events")
@@ -575,7 +575,7 @@ Back
 
 *   [Databases](https://www.insead.edu/library/databases)
 *   [Journals(opens in new tab)](https://publications.ebsco.com/?custId=s8362180&groupId=main&profileId=pfui&utm_medium=direct&)
-*   [Library Catalogue(opens in new tab)](https://librarycatalogue.insead.edu/?utm_medium=direct&)
+*   [Library Catalogue(opens in new tab)](https://librarycatalogue.insead.edu/?utm_medium=direct)
 *   [Access & Services](https://www.insead.edu/library/access-services)
 *   [Guides & Tutorials](https://www.insead.edu/library/guides-and-tutorials)
 *   [Collections](https://www.insead.edu/library/collections)
@@ -620,13 +620,13 @@ Back
 *   [Policies](https://www.insead.edu/library/policies)
 *   [Subject Coverage & Collections](https://www.insead.edu/library/subject-coverage-and-collections)
 
-[![Image 72: Cactus illustrating INSEAD Knowledge article: "The Perils of Defensive Organising" ](https://www.insead.edu/sites/insead/files/styles/mega_menu_card/public/2026-10/defensive-organising.jpg.webp?itok=8ZgQh3B_) ### The Perils of Defensive Organising How leaders use change to deflect their own fears and try to retain a sense of control.](https://knowledge.insead.edu/leadership-organisations/perils-defensive-organising?utm_medium=direct&)
+[![Image 72: Cactus illustrating INSEAD Knowledge article: "The Perils of Defensive Organising" ](https://www.insead.edu/sites/insead/files/styles/mega_menu_card/public/2026-10/defensive-organising.jpg.webp?itok=8ZgQh3B_) ### The Perils of Defensive Organising How leaders use change to deflect their own fears and try to retain a sense of control.](https://knowledge.insead.edu/leadership-organisations/perils-defensive-organising?utm_medium=direct)
 
 ###### INSEAD Knowledge
 
 ## Impactful research and thought leadership from INSEAD, The Business School for the World.
 
-[Visit INSEAD Knowledge](https://knowledge.insead.edu/?utm_medium=direct&)
+[Visit INSEAD Knowledge](https://knowledge.insead.edu/?utm_medium=direct)
 
 ## Alumni
 
@@ -647,7 +647,7 @@ Back
 *   Donor Recognition
 *   Support INSEAD
 
-*   [![Image 73: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/file-lock.png) Alumni Directory](https://my.insead.edu/?utm_medium=direct& "Alumni Directory")
+*   [![Image 73: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/file-lock.png) Alumni Directory](https://my.insead.edu/?utm_medium=direct "Alumni Directory")
 *   [![Image 74: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/calendar-heart.png) Alumni Events](https://www.insead.edu/alumni/events "Alumni Events")
 *   [![Image 75: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/gift.png) Make a Gift](https://www.insead.edu/give "Make a Gift")
 
@@ -655,7 +655,7 @@ Back
 *   [![Image 77: school](https://www.insead.edu/sites/insead/files/2023-05/icon32-school-green.png) About Us](https://www.insead.edu/about-insead/the-insead-advantage "About Us")
 *   [![Image 78: cal](https://www.insead.edu/sites/insead/files/2023-05/icon32-calendar-green.png) Events](https://www.insead.edu/events "Events")
 
-*   [![Image 79: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/file-lock.png) Alumni Directory](https://my.insead.edu/?utm_medium=direct& "Alumni Directory")
+*   [![Image 79: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/file-lock.png) Alumni Directory](https://my.insead.edu/?utm_medium=direct "Alumni Directory")
 *   [![Image 80: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/calendar-heart.png) Alumni Events](https://www.insead.edu/alumni/events "Alumni Events")
 *   [![Image 81: INSEAD](https://www.insead.edu/sites/insead/files/2026-06/gift.png) Make a Gift](https://www.insead.edu/give "Make a Gift")
 
@@ -667,9 +667,9 @@ Back
 
 *   [Alumni Association and Clubs](https://www.insead.edu/alumni/associations-and-clubs)
 *   [Volunteering](https://www.insead.edu/alumni/get-involved)
-*   [Alumni Directory | MyINSEAD(opens in new tab)](https://my.insead.edu/?utm_medium=direct&)
+*   [Alumni Directory | MyINSEAD(opens in new tab)](https://my.insead.edu/?utm_medium=direct)
 *   [Alumni Awards](https://www.insead.edu/alumni/awards)
-*   [Join our LinkedIn Community(opens in new tab)](https://www.linkedin.com/showcase/insead-alumni?utm_medium=direct&)
+*   [Join our LinkedIn Community(opens in new tab)](https://www.linkedin.com/showcase/insead-alumni?utm_medium=direct)
 *   [Alumni FAQs](https://www.insead.edu/alumni/faqs)
 
 *   [Impact Stories](https://www.insead.edu/alumni/insead-stories)
@@ -677,16 +677,16 @@ Back
 *   [Alumni Magazine](https://www.insead.edu/alumni/magazine)
 
 *   [Lifelong Learning Programmes](https://www.insead.edu/alumni/lifelong-learning)
-*   [Video Library(opens in new tab)](https://video.insead.edu/channel/Lifelong%20Learning%20Webinar%20Recordings/122053032?utm_medium=direct&)
+*   [Video Library(opens in new tab)](https://video.insead.edu/channel/Lifelong%20Learning%20Webinar%20Recordings/122053032?utm_medium=direct)
 *   [INSEAD Learning Hub(opens in new tab)](https://www.insead.edu/learning-hub)
-*   [Knowledge(opens in new tab)](https://knowledge.insead.edu/?utm_medium=direct&)
+*   [Knowledge(opens in new tab)](https://knowledge.insead.edu/?utm_medium=direct)
 
 *   [Alumni Career Development Benefits](https://www.insead.edu/alumni/career-development)
 *   [Career Resources](https://www.insead.edu/career-development-alumni)
 *   [Career Coaching Programme](https://www.insead.edu/career-development-alumni/career-coaching-programme)
 *   [Career Learning Hub](https://www.insead.edu/career-development-alumni/career-learning-hub)
 *   [Career Management Kit](https://www.insead.edu/career-development-alumni/career-management-kit)
-*   [Job Search Tools | CareerGlobe(opens in new tab)](https://my.insead.edu/?utm_medium=direct&)
+*   [Job Search Tools | CareerGlobe(opens in new tab)](https://my.insead.edu/?utm_medium=direct)
 
 *   [Class Giving](https://www.insead.edu/alumni/classes-and-reunions/classes)
 *   [Upcoming Reunions](https://www.insead.edu/alumni/classes-and-reunions/reunions)
@@ -696,7 +696,7 @@ Back
 *   [Upcoming Reunions](https://www.insead.edu/alumni/classes-and-reunions/reunions)
 *   [Webinars](https://www.insead.edu/events/listing?field_categories%5B0%5D=alumni&end_value_1_1=1&field_advancement%5B0%5D=alumni_lifelong_learning&)
 *   [Alumni Forum](https://www.insead.edu/events/alumni-forum-2026)
-*   [NAA and Clubs Events(opens in new tab)](https://my.insead.edu/event/calendar?utm_medium=direct&)
+*   [NAA and Clubs Events(opens in new tab)](https://my.insead.edu/event/calendar?utm_medium=direct)
 
 *   [Recognising our Donors](https://www.insead.edu/alumni/recognising-our-donors/recognition-giving-societies)
 *   [Donors Report](https://www.insead.edu/alumni/donors-report)
@@ -746,7 +746,7 @@ Back
 *   [Alliances and Partnerships](https://www.insead.edu/about-insead-alliance-and-partnership)
 *   Reports
 *   [Working at INSEAD](https://www.insead.edu/working-at-insead)
-*   [School Merchandise(opens in new tab)](https://insead.shop/?utm_medium=direct&)
+*   [School Merchandise(opens in new tab)](https://insead.shop/?utm_medium=direct)
 *   [Contact](https://www.insead.edu/about-insead/get-touch)
 
 *   [![Image 86: news](https://www.insead.edu/sites/insead/files/2023-01/newspaper-dark-green.png) Newsroom](https://www.insead.edu/newsroom "Newsroom")
@@ -796,7 +796,7 @@ Back
 *   [Tsinghua SEM](https://www.insead.edu/master-programmes/tsinghua-insead-executive-mba)
 
 *   [Donors Report](https://www.insead.edu/alumni/donors-report)
-*   [Sustainability Report(opens in new tab)](http://inse.ad/sustainability-report?utm_medium=direct&)
+*   [Sustainability Report(opens in new tab)](http://inse.ad/sustainability-report?utm_medium=direct)
 
 [View Page](https://www.insead.edu/admissions/financial-aid/scholarships#)
 
@@ -836,7 +836,7 @@ All
 *   [Faculty and Research](https://www.insead.edu/faculty-research)
 *   [Who We Are](https://www.insead.edu/about-insead/the-insead-advantage)
 *   [Corporate Recruiters](https://www.insead.edu/corporate-recruiters)
-*   [Support INSEAD](https://forceforgood.insead.edu/give?utm_medium=direct&)
+*   [Support INSEAD](https://forceforgood.insead.edu/give?utm_medium=direct)
 
 Additional links
 
@@ -858,7 +858,7 @@ Additional links
 
 *   [Overview](https://www.insead.edu/faculty-research)
 *   [Faculty Profiles](https://www.insead.edu/faculty-research/faculty-profiles)
-*   [INSEAD Publishing](https://publishing.insead.edu/?utm_medium=direct&)
+*   [INSEAD Publishing](https://publishing.insead.edu/?utm_medium=direct)
 *   [Academic Areas](https://www.insead.edu/faculty-research/academic-areas)
 *   [Centres of Excellence](https://www.insead.edu/faculty-research/centres-initiatives)
 *   [Research & Learning Hub](https://www.insead.edu/library)
@@ -872,7 +872,7 @@ Additional links
 *   [Classes & Reunions](https://www.insead.edu/alumni/classes-and-reunions)
 *   [Get Involved](https://www.insead.edu/alumni/get-involved)
 *   [Lifelong Learning](https://www.insead.edu/alumni/lifelong-learning)
-*   [MyINSEAD](https://my.insead.edu/?utm_medium=direct&)
+*   [MyINSEAD](https://my.insead.edu/?utm_medium=direct)
 
 ###### Who We Are
 
@@ -888,17 +888,17 @@ Additional links
 ###### Corporate Opportunities
 
 *   [Corporate Recruiters](https://www.insead.edu/corporate-recruiters)
-*   [Career Globe Recruitment Portal](https://insead-csm.symplicity.com/employers/index.php?utm_medium=direct&)
-*   [MBA Employment Stats](https://intheknow.insead.edu/employment-statistics?utm_medium=direct&)
+*   [Career Globe Recruitment Portal](https://insead-csm.symplicity.com/employers/index.php?utm_medium=direct)
+*   [MBA Employment Stats](https://intheknow.insead.edu/employment-statistics?utm_medium=direct)
 *   [Recruitment Calendar](https://www.insead.edu/mba-recruitment-calendar)
 *   [Recruitment Policies](https://www.insead.edu/system/files?file=2023-12/cdc-recruiting-policies.pdf&)
 
 *   [INSEAD Learning Hub](https://www.insead.edu/learning-hub)
-*   [INSEAD Knowledge](https://knowledge.insead.edu/?utm_medium=direct&)
+*   [INSEAD Knowledge](https://knowledge.insead.edu/?utm_medium=direct)
 *   [Newsroom](https://www.insead.edu/newsroom)
 *   [Events](https://www.insead.edu/events)
 *   [Get in Touch](https://www.insead.edu/about-insead/get-touch)
-*   [MyINSEAD](https://my.insead.edu/?utm_medium=direct&)
+*   [MyINSEAD](https://my.insead.edu/?utm_medium=direct)
 
 Make your gift to INSEAD
 
@@ -908,12 +908,12 @@ Make your gift to INSEAD
 
 ###### Stay connected with INSEAD
 
-*   [](https://www.facebook.com/insead?utm_medium=direct& "Facebook")
-*   [](https://www.instagram.com/insead?utm_medium=direct& "Instagram")
-*   [](https://www.linkedin.com/school/insead/?utm_medium=direct& "LinkedIn")
-*   [](https://x.com/insead?utm_medium=direct& "Twitter")
-*   [](https://www.youtube.com/insead?utm_medium=direct& "Youtube")
-*   [](https://www.tiktok.com/@insead?utm_medium=direct& "TikTok")
+*   [](https://www.facebook.com/insead?utm_medium=direct "Facebook")
+*   [](https://www.instagram.com/insead?utm_medium=direct "Instagram")
+*   [](https://www.linkedin.com/school/insead/?utm_medium=direct "LinkedIn")
+*   [](https://x.com/insead?utm_medium=direct "Twitter")
+*   [](https://www.youtube.com/insead?utm_medium=direct "Youtube")
+*   [](https://www.tiktok.com/@insead?utm_medium=direct "TikTok")
 
 © 2026 INSEAD Institut privé d'enseignement supérieur
 
@@ -933,7 +933,9 @@ Partners:
 *   [Terms & Conditions](https://www.insead.edu/terms-and-conditions)
 *   [Policies & Legislation](https://www.insead.edu/about-insead/policies-and-legislations)
 
-![Image 99: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/018f143c-d72f-7409-af65-0dd1a047c635/ce94f604-78d2-464d-acf3-1cd86258f3cb/Logo.png)
+![Image 98](https://id.rlcdn.com/464526.gif)
+
+![Image 100: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/018f143c-d72f-7409-af65-0dd1a047c635/ce94f604-78d2-464d-acf3-1cd86258f3cb/Logo.png)
 
 By clicking 'Accept All Cookies', you agree to INSEAD and its partners storing cookies on your device to enhance site navigation, remember your preferences, analyse site usage, enable enhanced functionality and personalisation, understand your interests and show you relevant content, enable social media functionality, and assist in our marketing efforts. You may find more information on cookies and how to contact INSEAD, by clicking on 'Cookies Settings'.
 
@@ -941,7 +943,7 @@ Cookies Settings
 
 Accept Necessary Only Accept All Cookies
 
-![Image 100: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/bf3f04ae-ec9c-45e2-ba7e-5cc31e5f5e84/afcbddc2-f8b4-4b36-833d-e9fdce9dffff/XL_png-roundel_digital_media.png)
+![Image 101: Company Logo](https://cdn.cookielaw.org/logos/7a9845b8-77d7-439f-b3cb-96870b6d948b/bf3f04ae-ec9c-45e2-ba7e-5cc31e5f5e84/afcbddc2-f8b4-4b36-833d-e9fdce9dffff/XL_png-roundel_digital_media.png)
 
 ## Cookies Preference Center
 
@@ -1009,6 +1011,4 @@ Confirm My Choices
 
 Accept Necessary Only Allow All Cookies
 
-[![Image 101: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)
-
-![Image 102](https://id.rlcdn.com/464526.gif)
+[![Image 102: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)

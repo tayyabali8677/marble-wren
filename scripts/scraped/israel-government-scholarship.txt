@@ -1,7 +1,9 @@
 ===== SOURCE PAGE: https://mfa.gov.il/MFA/AboutIsrael/State/Education/Pages/Scholarships.aspx =====
 Title: Ministry of Foreign Affairs
 
-URL Source: https://www.gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page
+URL Source: https://mfa.gov.il/MFA/AboutIsrael/State/Education/Pages/Scholarships.aspx
+
+Final URL: https://www.gov.il/en/departments/ministry_of_foreign_affairs/govil-landing-page
 
 Published Time: Wed, 21 Oct 2026 11:50:49 GMT
 

@@ -258,7 +258,7 @@ Site policy
 Web accessibility
 Sitemap
 THERS
-Copyright ©2010-2025 Nagoya University All Rights Reserved.
+©2026 Nagoya University
 
 ===== SOURCE PAGE: https://en.nagoya-u.ac.jp/admissions/faq/ =====
 FAQ | Admissions | Nagoya University
@@ -475,4 +475,4 @@ Site policy
 Web accessibility
 Sitemap
 THERS
-Copyright ©2010-2025 Nagoya University All Rights Reserved.
+©2026 Nagoya University
