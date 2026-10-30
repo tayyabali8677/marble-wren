@@ -1,11 +1,11 @@
 ===== SOURCE PAGE: https://www.fudan.edu.cn/en/channels/view/268/ =====
 Title: 提示信息
 
-URL Source: https://www.fudan.edu.cn/en/channels/view/268/
+URL Source: https://www.fudan.edu.cn/en/channels/view/268/main.psp
 
 Markdown Content:
 ![Image 1](https://www.fudan.edu.cn/_images/error/error.gif)
 
 提示：访问地址无效，channels/view/268找不到对应的栏目！
 
-[首页](https://www.fudan.edu.cn/en/channels/view/268/#)[关闭此页](https://www.fudan.edu.cn/en/channels/view/268/#)
+[首页](https://www.fudan.edu.cn/en/channels/view/268/main.psp#)[关闭此页](https://www.fudan.edu.cn/en/channels/view/268/main.psp#)

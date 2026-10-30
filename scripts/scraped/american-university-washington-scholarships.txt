@@ -1,10 +1,121 @@
 ===== SOURCE PAGE: https://www.american.edu/admissions/scholarships/ =====
-Title: Just a moment...
+Title: Page Not Found
 
 URL Source: https://www.american.edu/admissions/scholarships/
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-Enable JavaScript and cookies to continue
+[Skip to main content](https://www.american.edu/admissions/scholarships/#a)
+
+[![Image 1: American University Homepage](https://www.american.edu/customcf/assets/crest-logotype-blue.svg)](https://www.american.edu/)
+
+Show Menu
+
+[Search](https://www.american.edu/admissions/scholarships/#new-search)
+
+Search Website: Go
+
+Find People: Go
+
+[Browse Departments & Services](https://www.american.edu/directory/?d=departments)
+
+*   [Log in](https://www.american.edu/admissions/scholarships/#login-detail-new)
+    *   [myAU Portal](https://myau.american.edu/)
+    *   [Email](https://mail.american.edu/)
+    *   [Canvas](https://canvas.american.edu/)
+
+*   [Admissions & Aid](https://www.american.edu/admissions/scholarships/#mainmenu-1)
+    *   [Undergraduate Admissions](https://www.american.edu/admissions/index.cfm)
+    *   [Graduate Admissions](https://www.american.edu/admissions/graduate-admissions/index.cfm)
+    *   [Tuition & Fees](https://www.american.edu/finance/studentaccounts/Tuition-and-Fees-Information.cfm)
+    *   [Financial Aid](https://www.american.edu/financialaid/index.cfm)
+
+*   [Academics](https://www.american.edu/admissions/scholarships/#mainmenu-8)
+    *   [Academics Home](https://www.american.edu/academics/index.cfm)
+    *   [Degrees](https://www.american.edu/programs/)
+    *   [Registration](https://www.american.edu/provost/registrar/studentservices/registration.cfm)
+    *   [Schedule of Classes](https://www.american.edu/provost/registrar/schedule/)
+    *   [Study Abroad](http://auabroad.american.edu/)
+    *   [Summer Programs](https://www.american.edu/summer/index.cfm)
+    *   [Online Programs](https://www.american.edu/onlinelearning/index.cfm)
+    *   [Honors & Learning Communities](https://www.american.edu/learning-communities/index.cfm)
+    *   [Professional & Lifelong Learning](https://www.american.edu/professional-and-lifelong-learning/)
+
+*   [Schools & Colleges](https://www.american.edu/admissions/scholarships/#mainmenu-9)
+    *   [College of Arts & Sciences](https://www.american.edu/cas/)
+    *   [Kogod School of Business](https://www.american.edu/kogod/)
+    *   [School of Communication](https://www.american.edu/soc/)
+    *   [Baker School of Education](https://www.american.edu/soe/)
+    *   [School of International Service](https://www.american.edu/sis/)
+    *   [Professional Studies and Executive Education](https://www.american.edu/provost/ogps/)
+    *   [School of Public Affairs](https://www.american.edu/spa/)
+    *   [Washington College of Law](https://www.wcl.american.edu/)
+
+*   [Student Services](https://www.american.edu/admissions/scholarships/#mainmenu-26)
+    *   [Student Affairs](https://www.american.edu/student-affairs/index.cfm)
+    *   [Athletics](http://www.aueagles.com/)
+    *   [Housing](https://www.american.edu/student-affairs/housing/index.cfm)
+    *   [Dining & Retail](https://www.american.edu/student-affairs/onecarddining/index.cfm)
+    *   [New Students](https://www.american.edu/student-affairs/orientation/index.cfm)
+    *   [Career Services](https://www.american.edu/careercenter/index.cfm)
+    *   [Student Organizations](https://www.american.edu/student-affairs/get-involved.cfm)
+    *   [AU Arts](https://www.american.edu/arts/index.cfm)
+
+*   [Library](https://www.american.edu/library/)
+*   [Calendars](https://www.american.edu/calendar/)
+*   [Community Relations](https://www.american.edu/communityrelations/)
+*   [Alumni](https://www.american.edu/alumni/)
+*   [Give to AU](https://giving.american.edu/page/21176/donate/1?supporter.appealCode=21AC03W)
+*   [Research](https://www.american.edu/research/)
+*   [About](https://www.american.edu/about/)
+
+Show navigation
+## Page Not Found
+
+You are here: [American University](https://www.american.edu/)Page Not Found
+
+[Back to top](https://www.american.edu/admissions/scholarships/#main-container)
+
+# Uh-oh! We don't have a page on our site matching your request.
+
+It is possible you typed the address incorrectly or that the page no longer exists.
+
+The closest page we could find is: [Admissions](https://www.american.edu/admissions/index.cfm)
+
+Try to find the page you were looking for:
+
+Search Wesbite: 
+
+Go
+
+or the person you were looking for:
+
+Find People: 
+
+Go
+
+4400 Massachusetts Avenue, NW  
+Washington, DC 20016
+*   [(202) 885-1000](tel:2028851000)
+*   [Contact Us](https://www.american.edu/contact-au.cfm)
+*   [Visit AU](https://www.american.edu/about/visiting-campus.cfm)
+*   [Work at AU](https://www.american.edu/hr/)
+*   [Cookie Preferences](javascript:void(0);)
+
+Copyright © 2026 American University.
+
+*   [Emergency Preparedness](https://www.american.edu/emergency/)
+*   [Policies](https://www.american.edu/policies/)
+*   [Privacy](https://www.american.edu/privacy/)
+*   [Disclosure](https://www.american.edu/disclosure/)
+*   [EEO](https://www.american.edu/eeo/)
+*   [Title IX](https://www.american.edu/policies/au-community/title-ix-sexual-harassment-policy.cfm)
+
+*   [Facebook](https://www.facebook.com/AmericanUniversity)
+*   [Twitter](https://www.twitter.com/AmericanU)
+*   [Youtube](https://www.youtube.com/americanuniversity)
+*   [LinkedIn](https://www.linkedin.com/school/american-university/)
+*   [Instagram](https://instagram.com/americanuniversity)
+
+[![Image 2: American University in Washington, DC](https://www.american.edu/customcf/2016-redesign/images/logos/crest-logotype-blue.svg) Homepage](https://www.american.edu/)

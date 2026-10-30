@@ -1,7 +1,7 @@
 ===== SOURCE PAGE: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships =====
 Title: Home
 
-URL Source: https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships
+URL Source: https://www.su.ac.za/en
 
 Markdown Content:
 Skip to Content
@@ -80,48 +80,21 @@ Reset
 
 [Report a Problem](https://www.skynettechnologies.com/report-accessibility-problem)
 
-[Skip to main content](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships#main-content)
+[Skip to main content](https://www.su.ac.za/en#main-content)
 
-[![Image 5: Logo](https://www.sun.ac.za/themes/custom/su2023/images/logo.svg)](https://www.sun.ac.za/)
+[![Image 5: Logo](https://www.su.ac.za/themes/custom/su2023/images/logo.svg)](https://www.su.ac.za/)
 
-*   [Students](https://www.sun.ac.za/en/students)
-*   [Staff](https://www.sun.ac.za/en/staff)
-*   [Alumni](https://www.sun.ac.za/en/alumni)
-*   [Giving](https://www.sun.ac.za/en/giving)
-*   [Visitors](https://www.sun.ac.za/en/visitors)
+*   [Students](https://www.su.ac.za/en/students)
+*   [Staff](https://www.su.ac.za/en/staff)
+*   [Alumni](https://www.su.ac.za/en/alumni)
+*   [Giving](https://www.su.ac.za/en/giving)
+*   [Visitors](https://www.su.ac.za/en/visitors)
 
-*   [About us](https://www.sun.ac.za/en/about)
-*   [Our impact](https://www.sun.ac.za/en/our-impact)
-*   [Study at SU](https://www.sun.ac.za/en/apply)
-*   [Faculties and Schools](https://www.sun.ac.za/en/faculties)
-*   [Research and innovation](https://www.sun.ac.za/en/research-innovation)
-
-- [x] Limit to this site 
-
-Search
-
-## A-Z list
-
-*   [A-Z](https://www.sun.ac.za/en/a-z)
-
-## Gewilde soek terme
-
-*   [Graduation](https://www.sun.ac.za/en/search?search_api_fulltext=graduation)
-*   [Programmes](https://www.sun.ac.za/en/programmes)
-*   [Yearbooks](https://www.sun.ac.za/en/about/governance/registrar/yearbooks)
-
-*   [A-Z](https://www.sun.ac.za/en/a-z)
-
-*   [Students](https://www.sun.ac.za/en/students)
-*   [Staff](https://www.sun.ac.za/en/staff)
-*   [Alumni](https://www.sun.ac.za/en/alumni)
-*   [Giving](https://www.sun.ac.za/en/giving)
-*   [Visitors](https://www.sun.ac.za/en/visitors)
-
-*   [A-Z](https://www.sun.ac.za/en/a-z)
-
-*   [English](https://www.sun.ac.za/en)
-*   [Afrikaans](https://www.sun.ac.za/af)
+*   [About us](https://www.su.ac.za/en/about)
+*   [Our impact](https://www.su.ac.za/en/our-impact)
+*   [Study at SU](https://www.su.ac.za/en/apply)
+*   [Faculties and Schools](https://www.su.ac.za/en/faculties)
+*   [Research and innovation](https://www.su.ac.za/en/research-innovation)
 
 - [x] Limit to this site 
 
@@ -129,23 +102,50 @@ Search
 
 ## A-Z list
 
-*   [A-Z](https://www.sun.ac.za/en/a-z)
+*   [A-Z](https://www.su.ac.za/en/a-z)
 
 ## Gewilde soek terme
 
-*   [Graduation](https://www.sun.ac.za/en/search?search_api_fulltext=graduation)
-*   [Programmes](https://www.sun.ac.za/en/programmes)
-*   [Yearbooks](https://www.sun.ac.za/en/about/governance/registrar/yearbooks)
+*   [Graduation](https://www.su.ac.za/en/search?search_api_fulltext=graduation)
+*   [Programmes](https://www.su.ac.za/en/programmes)
+*   [Yearbooks](https://www.su.ac.za/en/about/governance/registrar/yearbooks)
 
-[Main Menu Close](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships#)
+*   [A-Z](https://www.su.ac.za/en/a-z)
 
-[](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships)
+*   [Students](https://www.su.ac.za/en/students)
+*   [Staff](https://www.su.ac.za/en/staff)
+*   [Alumni](https://www.su.ac.za/en/alumni)
+*   [Giving](https://www.su.ac.za/en/giving)
+*   [Visitors](https://www.su.ac.za/en/visitors)
+
+*   [A-Z](https://www.su.ac.za/en/a-z)
+
+*   [English](https://www.su.ac.za/en)
+*   [Afrikaans](https://www.su.ac.za/af)
+
+- [x] Limit to this site 
+
+Search
+
+## A-Z list
+
+*   [A-Z](https://www.su.ac.za/en/a-z)
+
+## Gewilde soek terme
+
+*   [Graduation](https://www.su.ac.za/en/search?search_api_fulltext=graduation)
+*   [Programmes](https://www.su.ac.za/en/programmes)
+*   [Yearbooks](https://www.su.ac.za/en/about/governance/registrar/yearbooks)
+
+[Main Menu Close](https://www.su.ac.za/en#)
+
+[](https://www.su.ac.za/en)
 
 [Video 2](https://files.su.ac.za/public/stellenbosch-university/videos/2026-09/web-background-video.mp4)
 
 # Welcome to Stellenbosch University
 
-[Students](https://www.sun.ac.za/students)[Staff](https://www.su.ac.za/en/staff)[Alumni](https://www.sun.ac.za/alumni)[Giving](https://www.su.ac.za/en/giving)
+[Students](https://www.su.ac.za/students)[Staff](https://www.su.ac.za/en/staff)[Alumni](https://www.su.ac.za/alumni)[Giving](https://www.su.ac.za/en/giving)
 
 * * *
 
@@ -185,7 +185,7 @@ Image by: Photo by Stefan Els
 
 [![Image 8: Watch Investing in future talent: MMI Holdings Limited on YouTube.](https://i.ytimg.com/vi/_6DaKklD31Y/sddefault.jpg)](https://www.youtube.com/watch?v=_6DaKklD31Y&embeds_referring_euri=https%3A%2F%2Fdev.su.ac.za%2F&embeds_referring_origin=https%3A%2F%2Fdev.su.ac.za&source_ve_path=MjM4NTE&themeRefresh=1 "Watch Investing in future talent: MMI Holdings Limited on YouTube.")
 
-[![Image 9: Graduation ](https://www.sun.ac.za/english/learning-teaching/student-affairs/undefined) Image by: Photo by Stefan Els ### Celebrate your success View the graduation programme, get tickets, and hire attire](https://www.su.ac.za/en/students/graduation)
+[![Image 9: Registration banner](https://www.su.ac.za/undefined) Image by: Photo by Stefan Els ### Celebrate your success View the graduation programme, get tickets, and hire attire](https://www.su.ac.za/en/students/graduation)
 
 [](https://www.su.ac.za/en/students/graduation)
 
@@ -197,15 +197,15 @@ Image by: Photo by Stefan Els
 
 ### Coetzenburg Centre
 
-![Image 11: Registration banner](https://www.sun.ac.za/english/learning-teaching/student-affairs/undefined)
+![Image 11: Registration banner](https://www.su.ac.za/undefined)
 
 Image by: Photo by Stefan Els
 
-[Registration and fees](https://www.sun.ac.za/en/students/registration-and-fees)
+[Registration and fees](https://www.su.ac.za/en/students/registration-and-fees)
 
 ## Registration and fees 2026
 
-[Registration and fees](https://www.sun.ac.za/en/students/registration-and-fees)[Registration dates](https://www.sun.ac.za/en/students/registration-and-fees/registration-schedule)[Register online](https://student.sun.ac.za/)[Stellenbosch campus registration](https://www.sun.ac.za/en/students/stellenbosch-campus-registration-schedule)[Tygerberg campus registration](https://www.sun.ac.za/en/students/tygerberg-campus-registration-procedures)[Bellville Park campus registration](https://www.sun.ac.za/en/students/bellville-park-campus-registration-schedule)[International students registration](https://www.sun.ac.za/en/students/international-students-registration)
+[Registration and fees](https://www.su.ac.za/en/students/registration-and-fees)[Registration dates](https://www.su.ac.za/en/students/registration-and-fees/registration-schedule)[Register online](https://student.sun.ac.za/)[Stellenbosch campus registration](https://www.su.ac.za/en/students/stellenbosch-campus-registration-schedule)[Tygerberg campus registration](https://www.su.ac.za/en/students/tygerberg-campus-registration-procedures)[Bellville Park campus registration](https://www.su.ac.za/en/students/bellville-park-campus-registration-schedule)[International students registration](https://www.su.ac.za/en/students/international-students-registration)
 
 * * *
 
@@ -217,69 +217,69 @@ Discover stories of our pursuit of impactful solutions, building learning commun
 
 #### Media release
 
-### [Nobel laureate takes SU audience on a fascinating journey through the quantum universe](https://www.sun.ac.za/en/news/nobel-laureate-takes-su-audience-fascinating-journey-through-quantum-universe)
+### [Nobel laureate takes SU audience on a fascinating journey through the quantum universe](https://www.su.ac.za/en/news/nobel-laureate-takes-su-audience-fascinating-journey-through-quantum-universe)
 
 Quantum physics is strange, Nobel laureate Prof Alain Aspect readily conceded at the start of his lecture. Yet, as he reminded an audience at Stellenbosch...
 
-[Read more](https://www.sun.ac.za/en/news/nobel-laureate-takes-su-audience-fascinating-journey-through-quantum-universe)
+[Read more](https://www.su.ac.za/en/news/nobel-laureate-takes-su-audience-fascinating-journey-through-quantum-universe)
 
 ![Image 13: A photo of the Down syndrome ribbon in a person’s hand.](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/national-down-syndrome-day-ribbon-2026png.png?itok=j_SbNJUg)
 
 #### Opinion and features
 
-### [We know a lot about Down syndrome, but does that translate into better healthcare?](https://www.sun.ac.za/en/news/we-know-lot-about-down-syndrome-does-translate-better-healthcare)
+### [We know a lot about Down syndrome, but does that translate into better healthcare?](https://www.su.ac.za/en/news/we-know-lot-about-down-syndrome-does-translate-better-healthcare)
 
 National Down Syndrome Day was commemorated on 20 October. In an opinion piece for the _Cape Times_, Prof Tracey Smythe of the [Division of Physiotherapy](https://www.su.ac.za/en/faculties/medicine/departments/health-and-rehabilitation-sciences/physiotherapy) highlight...
 
-[Read more](https://www.sun.ac.za/en/news/we-know-lot-about-down-syndrome-does-translate-better-healthcare)
+[Read more](https://www.su.ac.za/en/news/we-know-lot-about-down-syndrome-does-translate-better-healthcare)
 
 ![Image 14: 2026 Annual Intellectual Property Law Public Lecture](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/ip-law-banner-2026png.png?itok=dxd3XYFL)
 
 #### Media release
 
-### [China’s intellectual property revolution takes centre stage at SU](https://www.sun.ac.za/en/news/chinas-intellectual-property-revolution-takes-centre-stage-su)
+### [China’s intellectual property revolution takes centre stage at SU](https://www.su.ac.za/en/news/chinas-intellectual-property-revolution-takes-centre-stage-su)
 
 China’s remarkable transformation from a country once widely associated with counterfeiting and cheap imitations into a global technological powerhouse offers...
 
-[Read more](https://www.sun.ac.za/en/news/chinas-intellectual-property-revolution-takes-centre-stage-su)
+[Read more](https://www.su.ac.za/en/news/chinas-intellectual-property-revolution-takes-centre-stage-su)
 
 ![Image 15: Ellen Tise, Chief Director of Library and Information Service, Stellenbosch University ](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/library-simposium-website-2026png.png?itok=hiHwYcGe)
 
 #### Events
 
-### [As Ellen Tise prepares to bow out, SU’s Library Symposium charts bold future for academic libraries](https://www.sun.ac.za/en/news/ellen-tise-prepares-bow-out-sus-library-symposium-charts-bold-future-academic-libraries)
+### [As Ellen Tise prepares to bow out, SU’s Library Symposium charts bold future for academic libraries](https://www.su.ac.za/en/news/ellen-tise-prepares-bow-out-sus-library-symposium-charts-bold-future-academic-libraries)
 
 As artificial intelligence transforms the way knowledge is created, accessed and shared, some of the world’s leading voices in academic librarianship have...
 
-[Read more](https://www.sun.ac.za/en/news/ellen-tise-prepares-bow-out-sus-library-symposium-charts-bold-future-academic-libraries)
+[Read more](https://www.su.ac.za/en/news/ellen-tise-prepares-bow-out-sus-library-symposium-charts-bold-future-academic-libraries)
 
 ![Image 16: A group of women of different ethnicities photographed wearing pink shirts with is Breast Cancer Awareness ribbons.](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/breast-cancer2026png.png?itok=XwmqgFsv)
 
 #### Opinion and features
 
-### [Dare to imagine what breast cancer treatment could become](https://www.sun.ac.za/en/news/dare-imagine-what-breast-cancer-treatment-could-become)
+### [Dare to imagine what breast cancer treatment could become](https://www.su.ac.za/en/news/dare-imagine-what-breast-cancer-treatment-could-become)
 
 Breast Cancer Awareness Month ends on 31 October. In an opinion piece for the _Weekend Argus_, Prof Anna-Mart Engelbrecht, leader of the cancer research group in...
 
-[Read more](https://www.sun.ac.za/en/news/dare-imagine-what-breast-cancer-treatment-could-become)
+[Read more](https://www.su.ac.za/en/news/dare-imagine-what-breast-cancer-treatment-could-become)
 
 ![Image 17: Kyrah Adams playing the marimba](https://files.su.ac.za/public/styles/responsive_1.59_1_500w/public/stellenbosch-university/images/2026-10/kyrah-adams-web-bannerpng.png?itok=Y-4sU2Db)
 
 #### Media release
 
-### [Triple triumph for SU’s rising marimba star Kyrah Adams](https://www.sun.ac.za/en/news/triple-triumph-sus-rising-marimba-star-kyrah-adams)
+### [Triple triumph for SU’s rising marimba star Kyrah Adams](https://www.su.ac.za/en/news/triple-triumph-sus-rising-marimba-star-kyrah-adams)
 
 Stellenbosch University (SU) music student Kyrah Adams has cemented her reputation as one of South Africa’s most promising young classical musicians after...
 
-[Read more](https://www.sun.ac.za/en/news/triple-triumph-sus-rising-marimba-star-kyrah-adams)
+[Read more](https://www.su.ac.za/en/news/triple-triumph-sus-rising-marimba-star-kyrah-adams)
 
-[More stories](https://www.sun.ac.za/en/stories)
+[More stories](https://www.su.ac.za/en/stories)
 
 ## Research and Innovation
 
 Stellenbosch University will be Africa's leading research-intensive university, globally recognised as excellent, inclusive and innovative, where we advance knowledge in service of society.
 
-[Read more](https://www.sun.ac.za/en/research-innovation)
+[Read more](https://www.su.ac.za/en/research-innovation)
 
 ![Image 18: Researcher](https://files.su.ac.za/public/styles/responsive_600w/public/stellenbosch-university/images/2025-09/home-researchjpg.jpg?itok=IKh-UHUD)
 
@@ -297,33 +297,33 @@ Image by: Photo by Stefan Els
 
 Attend our events for the opportunity to discover, grow, learn and engage with our community.
 
-![Image 19: Events](https://www.sun.ac.za/english/learning-teaching/student-affairs/bursaries-loans-and-scholarships)
+![Image 19: Events](https://www.su.ac.za/en)
 
-#### [NITheCS Colloquium: Quantum Complexity and Entanglement in Neutrino Oscillations](https://www.sun.ac.za/en/events/nithecs-colloquium-quantum-complexity-and-entanglement-neutrino-oscillations)
+#### [NITheCS Colloquium: Quantum Complexity and Entanglement in Neutrino Oscillations](https://www.su.ac.za/en/events/nithecs-colloquium-quantum-complexity-and-entanglement-neutrino-oscillations)
 
 Monday 2 November 2026, 16:00 – Colloquium hosted in the Neelsie Road House Cinema, Stellenbosch University.
 
  02 Nov 
 
-[More info](https://www.sun.ac.za/en/events/nithecs-colloquium-quantum-complexity-and-entanglement-neutrino-oscillations)
+[More info](https://www.su.ac.za/en/events/nithecs-colloquium-quantum-complexity-and-entanglement-neutrino-oscillations)
 
-#### [Public lecture: The science behind the 2026 Nobel Prizes in Physics, Chemistry, and Physiology or Medicine](https://www.sun.ac.za/en/faculties/science/department/physics/events/public-lecture-science-behind-2026-nobel-prizes-physics-chemistry-and-physiology-or-medicine)
+#### [Public lecture: The science behind the 2026 Nobel Prizes in Physics, Chemistry, and Physiology or Medicine](https://www.su.ac.za/en/faculties/science/department/physics/events/public-lecture-science-behind-2026-nobel-prizes-physics-chemistry-and-physiology-or-medicine)
 
 The Departments of Physics, Physiological Sciences, and Chemistry and Polymer Science cordially invites you to their annual "Science behind the 2026 Nobel Prizes" public talk.
 
  02 Nov 
 
-[More info](https://www.sun.ac.za/en/faculties/science/department/physics/events/public-lecture-science-behind-2026-nobel-prizes-physics-chemistry-and-physiology-or-medicine)
+[More info](https://www.su.ac.za/en/faculties/science/department/physics/events/public-lecture-science-behind-2026-nobel-prizes-physics-chemistry-and-physiology-or-medicine)
 
-#### [Stellenbosch Number Theory Conference 2027](https://www.sun.ac.za/en/faculties/science/departments/mathematics/events/stellenbosch-number-theory-conference-2027)
+#### [Stellenbosch Number Theory Conference 2027](https://www.su.ac.za/en/faculties/science/departments/mathematics/events/stellenbosch-number-theory-conference-2027)
 
 The Stellenbosch Number Theory conference is held every two years to attract international experts to South Africa to enrich our research and postgraduate experiences.
 
  18 Jan 2027 
 
-[More info](https://www.sun.ac.za/en/faculties/science/departments/mathematics/events/stellenbosch-number-theory-conference-2027)
+[More info](https://www.su.ac.za/en/faculties/science/departments/mathematics/events/stellenbosch-number-theory-conference-2027)
 
-[More events](https://www.sun.ac.za/en/events)
+[More events](https://www.su.ac.za/en/events)
 
 ## Stay connected, make an impact
 
@@ -369,26 +369,26 @@ Join a community of global citizens, connected through curiosity, within learnin
 
 *   Column 1
     *   [My.SUN](https://my.sun.ac.za/)
-    *   [Library](https://www.sun.ac.za/en/library)
-    *   [Dates](https://www.sun.ac.za/en/dates)
-    *   [Careers at SU](https://www.sun.ac.za/en/careers-su)
+    *   [Library](https://www.su.ac.za/en/library)
+    *   [Dates](https://www.su.ac.za/en/dates)
+    *   [Careers at SU](https://www.su.ac.za/en/careers-su)
 
 *   Column 2
-    *   [A-Z](https://www.sun.ac.za/en/a-z)
-    *   [Stories](https://www.sun.ac.za/en/stories)
-    *   [Events](https://www.sun.ac.za/en/events)
-    *   [Lodge a complaint](https://www.sun.ac.za/en/about/contact-us/complaint)
+    *   [A-Z](https://www.su.ac.za/en/a-z)
+    *   [Stories](https://www.su.ac.za/en/stories)
+    *   [Events](https://www.su.ac.za/en/events)
+    *   [Lodge a complaint](https://www.su.ac.za/en/about/contact-us/complaint)
 
 *   [Tel: +27 21 808 9111](tel:27218089111)
 *   [Email: info@sun.ac.za](mailto:info@sun.ac.za)
-*   [Contact us](https://www.sun.ac.za/en/contact-us)
+*   [Contact us](https://www.su.ac.za/en/contact-us)
 
 [](https://www.facebook.com/stellenboschuniversity/ "Facebook")[](https://twitter.com/StellenboschUni "Twitter")[](https://www.instagram.com/stellenboschuni/ "Instagram")[](https://www.linkedin.com/school/stellenbosch-university "Linkedin")[](https://www.youtube.com/user/StellenboschUni "Youtube")[](https://www.tiktok.com/@stellenbosch_university "Tiktok")
 
 *   © 2025 Stellenbosch University
 *   All rights reserved
-*   [Terms of use](https://www.sun.ac.za/en/terms-use)
+*   [Terms of use](https://www.su.ac.za/en/terms-use)
 *   [Access to information](https://files.su.ac.za/public/students/documents/2025-10/paia-manual.pdf)
-*   [Privacy notice](https://www.sun.ac.za/en/privacy-notice)
+*   [Privacy notice](https://www.su.ac.za/en/privacy-notice)
 
-*   [Log in](https://www.sun.ac.za/en/user/login)
+*   [Log in](https://www.su.ac.za/en/user/login)

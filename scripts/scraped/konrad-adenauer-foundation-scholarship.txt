@@ -1,10 +1,10 @@
 ===== SOURCE PAGE: https://www.kas.de/ =====
 Title: Konrad-Adenauer-Stiftung e.V.
 
-URL Source: https://www.kas.de/
+URL Source: https://www.kas.de/de/
 
 Markdown Content:
-[Zum Hauptinhalt springen](https://www.kas.de/#main-content)
+[Zum Hauptinhalt springen](https://www.kas.de/de/#main-content)
 
 # Home - Konrad-Adenauer-Stiftung
 
@@ -47,7 +47,7 @@ Meine KAS
 
 [0](https://www.kas.de/de/meine-merkliste)
 
-[](https://www.kas.de/#mobile-search)
+[](https://www.kas.de/de/#mobile-search)
 
 ## Search Portlet
 
@@ -91,7 +91,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Home](https://www.kas.de/de/home)
 
@@ -118,7 +118,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Themen](https://www.kas.de/de/themen)
 
@@ -154,7 +154,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Mediathek](https://www.kas.de/de/mediathek)
 
@@ -181,7 +181,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Publikationen](https://www.kas.de/de/publikationen)
 
@@ -222,7 +222,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Veranstaltungen](https://www.kas.de/de/veranstaltungen)
 
@@ -268,7 +268,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Standorte](https://www.kas.de/de/standorte)
 
@@ -295,7 +295,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Presse](https://www.kas.de/de/presse)
 
@@ -324,7 +324,7 @@ Besuchen Sie uns auch auf
 *   [](https://www.tiktok.com/@onlinekas)
 *   [](https://www.twitch.tv/konradadenauerstiftung)
 
-[zurück zum Hauptmenü](https://www.kas.de/#)
+[zurück zum Hauptmenü](https://www.kas.de/de/#)
 
 [Über uns](https://www.kas.de/de/ueber-uns)
 
@@ -365,7 +365,7 @@ Home
 
 ## Asset-Herausgeber
 
-[![Image 4: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/teaser/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
+[![Image 4: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/hd-resolution/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
 Historische Aufholjagd in Brasilien
 
@@ -374,7 +374,7 @@ Historische Aufholjagd in Brasilien
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/historische-aufholjagd-in-brasilien-lula-wird-zum-vierten-mal-praesident "Lula wird zum vierten Mal Präsident")
 
-[![Image 5: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/teaser/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
+[![Image 5: Server Center](https://www.kas.de/o/adaptive-media/image/49847330/hd-resolution/Wettlauf+um+physische+Grundlagen+der+KI.jpg?t=1791987165847)](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
 Monitor
 
@@ -383,7 +383,7 @@ Monitor
 
 [Mehr erfahren](https://www.kas.de/de/monitor/detail/-/content/der-wettlauf-um-physische-grundlagen-der-ki "Der Wettlauf um physische Grundlagen der KI")
 
-[![Image 6: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/teaser/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
+[![Image 6: Illustration einer Person, die mit einem Schild Boxhandschuhe abwehrt](https://www.kas.de/o/adaptive-media/image/49818393/hd-resolution/Think-Tank-Report-2026-KAS.jpg?t=1791888975433) KAS](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
 Think Tank Report
 
@@ -392,7 +392,7 @@ Think Tank Report
 
 [Mehr erfahren](https://thinktankreport.kas.de/de/2026-1-sicherheit/index.html "Sicherheit und Resilienz: Internationale Analysen zu den Herausforderungen unserer Zeit")
 
-[![Image 7: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/teaser/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
+[![Image 7: Ueber dem Kongress weht die Flagge der USA](https://www.kas.de/o/adaptive-media/image/50090567/hd-resolution/Ueber+dem+Kongress+weht+die+Flagge+der+USA.jpg?t=1793010943947) IMAGO / ZUMA Press Wire](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
 
 US-Midterms 2026
 
@@ -401,7 +401,7 @@ US-Midterms 2026
 
 [Mehr erfahren](https://www.kas.de/de/laenderberichte/detail/-/content/wer-finanziert-den-kampf-um-den-kongress-1 "Wer finanziert den Kampf um den Kongress?")
 
-[![Image 8: Grundgesetzt](https://www.kas.de/o/adaptive-media/image/49627698/teaser/Coverbild+Grundgesetz.jpg?t=1791186562394) IMAGO / IlluPics](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
+[![Image 8: Grundgesetzt](https://www.kas.de/o/adaptive-media/image/49627698/hd-resolution/Coverbild+Grundgesetz.jpg?t=1791186562394) IMAGO / IlluPics](https://www.kas.de/de/monitor/detail/-/content/das-demokratieverstaendnis-der-extremisten "Das Demokratieverständnis der Extremisten")
 
 Monitor
 
@@ -426,7 +426,7 @@ Monitor
 
 ![Image 9: Wahlurnen](https://www.kas.de/o/adaptive-media/image/50157762/teaser/Wahlurnen-USA.jpg?t=1793265015075) IMAGO / Xinhua 
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 ### US-Midterms 2026: Von der Botschaft zur Stimmabgabe
 
@@ -442,7 +442,7 @@ Monitor
 
 ![Image 10: Verärgerte Frau zeigt Stoppschild mit Handfläche.](https://www.kas.de/o/adaptive-media/image/50156759/teaser/Frau+zeigt+Stoppschild+mit+Handfla%CC%88che.jpg?t=1793260971647) IMAGO / imagebroker 
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 ### Reform des Sexualstrafrechts: Dringende Einführung des „Ja heißt Ja-Modells“
 
@@ -458,7 +458,7 @@ Monitor
 
 ![Image 11: Rumänisches Parlament](https://www.kas.de/o/adaptive-media/image/50115391/teaser/Rum%C3%A4nien+Abstimmung+Parlament+OKT26+.jpg?t=1793104305305) KAS/Stefan Hofmann 
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 ### Opposition als Chance – nicht nur für die PNL
 
@@ -474,7 +474,7 @@ Monitor
 
 ![Image 12: Luiz Inacio Lula da Silva Präsidentschaftswahlen](https://www.kas.de/o/adaptive-media/image/50109902/teaser/Luiz+Inacio+Lula+da+Silva+Pra%CC%88sidentschaftswahlen.jpg?t=1793083989609) IMAGO / TheNews2 
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 ### Historische Aufholjagd in Brasilien: Lula wird zum vierten Mal Präsident
 
@@ -564,7 +564,7 @@ Nov
 
 #### Himmlische Karikaturen zum 150. Geburtstag
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 [](https://www.kas.de/de/veranstaltungen/detail/-/content/von-adenauer-lernen-heisst-staerke-lernen-was-abschreckung-glaubhaft-macht "Von Adenauer lernen, heißt Stärke lernen. Was Abschreckung glaubhaft macht.")
 
@@ -580,7 +580,7 @@ Nov
 
 #### Teil IV: „Wir wählen die Freiheit“ – Eine Live-Podcast-Tour in Kooperation mit „Der Sicherheitsrat"
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 [](https://www.kas.de/de/veranstaltungen/detail/-/content/jung-alt-gemeinsam-was-uns-verbindet-und-wie-wir-einsamkeit-ueberwinden-1 "Jung. Alt. Gemeinsam. Was uns verbindet und wie wir Einsamkeit überwinden")
 
@@ -594,7 +594,7 @@ Nov
 
 #### Reden wir über Familie – Der Feierabendtalk
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 [](https://www.kas.de/de/veranstaltungen/detail/-/content/was-kinder-stark-macht "Was Kinder stark macht")
 
@@ -610,7 +610,7 @@ Nov
 
 #### Selbstregulation als Schlüssel für Gesundheit und Bildung
 
-[](https://www.kas.de/ "Zur Merkliste hinzufügen")
+[](https://www.kas.de/de/ "Zur Merkliste hinzufügen")
 
 [Alle Veranstaltungen](https://www.kas.de/veranstaltungen "Alle Veranstaltungen")
 
@@ -644,7 +644,7 @@ YouTube
 
 onlinekas
 
-11 Std.
+21 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -656,7 +656,7 @@ onlinekas
 
 onlinekas
 
-11 Std.
+21 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -754,7 +754,7 @@ Konrad-Adenauer-Stiftung
 
 23.10.2026
 
-![Image 13](https://www.kas.de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
+![Image 13](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
 
 onlinekas
 
@@ -784,7 +784,7 @@ Konrad-Adenauer-Stiftung
 
 23.10.2026
 
-![Image 14](https://www.kas.de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
+![Image 14](https://www.kas.de/de/)[Auf Facebook öffnen](https://www.facebook.com/638539111639771/posts/1567311672095839)
 
 Konrad-Adenauer-Stiftung
 
@@ -802,7 +802,7 @@ Konrad-Adenauer-Stiftung
 
 21.10.2026
 
-![Image 15](https://www.kas.de/)
+![Image 15](https://www.kas.de/de/)
 
  Die Bedrohung durch #Russland ist längst nicht mehr nur eine Frage von Cyberangriffen. Unser Generalsekretär Mark Speich spricht von einem kognitiven Krieg. Der Drohnenvorfall in Leipzig zeigt für ihn aber auch, dass die... 
 
@@ -918,7 +918,7 @@ Konrad-Adenauer-Stiftung
 
 onlinekas
 
-11 Std.
+21 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -1062,7 +1062,7 @@ onlinekas
 
 onlinekas
 
-11 Std.
+21 Std.
 
  Bitte klicken Sie hier, um die Inhalte anzuzeigen. 
 
@@ -1208,10 +1208,10 @@ onlinekas
 
 Verborgen
 
-*   [Drucken](https://www.kas.de/# "Drucken")
+*   [Drucken](https://www.kas.de/de/# "Drucken")
 *   [Per E-Mail senden](mailto:?subject=Linkempfehlung&body=Publikation+der+Konrad+Adenauer+Stiftung%3A%0Ahttps%3A%2F%2Fwww.kas.de%2Fde_DE%2Fde%2F "Per E-Mail senden")
-*   [Teilen](https://www.kas.de/#smp-share "Teilen")
-*   [Zum Seitenanfang](https://www.kas.de/#top)
+*   [Teilen](https://www.kas.de/de/#smp-share "Teilen")
+*   [Zum Seitenanfang](https://www.kas.de/de/#top)
 
 Teilen
 
@@ -1264,3 +1264,23 @@ Weitere Angebote der Stiftung
 *   [Sitemap](https://www.kas.de/de/sitemap)
 
 © Konrad-Adenauer-Stiftung e.V. 2026
+
+Diese Webseite verwendet Cookies, die für den Betrieb und die Sicherheit der Seite notwendig sind. Darüber hinaus sammelt die Webseite anonyme Nutzerdaten für statistische Analysen und um eingebundene Inhalte externer Seiten anzuzeigen. Die Cookie-Einstellungen können Sie jederzeit ändern. [Erfahren Sie mehr](https://www.kas.de/web/guest/datenschutz)
+
+- [x]  
+
+Notwendige technische Cookies
+
+- [x]  
+
+Cookies für statistische Analysen
+
+- [x]  
+
+Cookies zur Anzeige eingebundener Inhalte
+
+Hinweis: Zur Aktivierung Ihrer Änderung wird die Seite neu geladen
+
+[Speichern](https://www.kas.de/de/)[Alle Akzeptieren](https://www.kas.de/de/)
+
+[](https://www.kas.de/de/)

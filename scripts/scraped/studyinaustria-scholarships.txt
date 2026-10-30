@@ -1,43 +1,43 @@
 ===== SOURCE PAGE: https://www.studyinaustria.at/funding-scholarships =====
 Title: Error 404 - Document not found
 
-URL Source: https://www.studyinaustria.at/funding-scholarships
+URL Source: https://studyinaustria.at/en/funding-scholarships/
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-*   [Publications](https://www.studyinaustria.at/en/publications)
+*   [Publications](https://studyinaustria.at/en/publications)
 *   [Contact (Opens in new window)](https://oead-bis.freshdesk.com/en/support/tickets/new)
-*   [Events](https://www.studyinaustria.at/en/events)
+*   [Events](https://studyinaustria.at/en/events)
 *   [Press](https://presse.oead.at/en/)
 
-[Jump to main content](https://www.studyinaustria.at/funding-scholarships#content)[Jump to footer](https://www.studyinaustria.at/funding-scholarships#footer)
+[Jump to main content](https://studyinaustria.at/en/funding-scholarships/#content)[Jump to footer](https://studyinaustria.at/en/funding-scholarships/#footer)
 
-[![Image 2: Der Alternativtext wird in Kürze eingefügt](https://www.studyinaustria.at/fileadmin/Medien/studyinaustria.at/00_site_config/logo.svg)](https://www.studyinaustria.at/en/)
+[![Image 2: Der Alternativtext wird in Kürze eingefügt](https://studyinaustria.at/fileadmin/Medien/studyinaustria.at/00_site_config/logo.svg)](https://studyinaustria.at/en/)
 
-[EN](https://www.studyinaustria.at/funding-scholarships#language-switcher-1)
-
-*   [DE](https://studyinaustria.at/de/fehler-404)
-
-[![Image 3: Der Alternativtext wird in Kürze eingefügt](https://www.studyinaustria.at/fileadmin/Medien/studyinaustria.at/00_site_config/logo.svg)](https://www.studyinaustria.at/en/)
-
-[EN](https://www.studyinaustria.at/funding-scholarships#language-switcher-2)
+[EN](https://studyinaustria.at/en/funding-scholarships/#language-switcher-1)
 
 *   [DE](https://studyinaustria.at/de/fehler-404)
 
-[Skip navigation](https://www.studyinaustria.at/funding-scholarships#after-nav)
+[![Image 3: Der Alternativtext wird in Kürze eingefügt](https://studyinaustria.at/fileadmin/Medien/studyinaustria.at/00_site_config/logo.svg)](https://studyinaustria.at/en/)
+
+[EN](https://studyinaustria.at/en/funding-scholarships/#language-switcher-2)
+
+*   [DE](https://studyinaustria.at/de/fehler-404)
+
+[Skip navigation](https://studyinaustria.at/en/funding-scholarships/#after-nav)
 
 *   [Plan your studies](https://studyinaustria.at/en/plan-your-studies)
 *   [Higher education institutions](https://studyinaustria.at/en/study/institutions)
 *   [Live and work](https://studyinaustria.at/en/live-and-work)
 *   [Why Austria?](https://studyinaustria.at/en/why-austria/ten-reasons-for-austria-1)
 
-[Jump to navigation start](https://www.studyinaustria.at/funding-scholarships#before-nav)
+[Jump to navigation start](https://studyinaustria.at/en/funding-scholarships/#before-nav)
 
-1.   [Home](https://www.studyinaustria.at/en/) / 
+1.   [Home](https://studyinaustria.at/en/) / 
 2.   Error 404
 
-1.   [Home](https://www.studyinaustria.at/en/) / 
+1.   [Home](https://studyinaustria.at/en/) / 
 2.   Error 404
 
 # Error 404 - Document not found
@@ -48,11 +48,11 @@ You may have used an outdated link or an old bookmark.
 
 Please try to find the content you want from the [home page](https://oead.at/en/) or use the [search function](https://oead.at/en/search).
 
-[![Image 4: Das Logo des Bundesministerium für Frauen, Wissenschaft und Forschung auf Englisch](https://www.studyinaustria.at/fileadmin/Public/_processed_/0/d/csm_BMFWF_Logo_srgb_EN_5e25b725e9.png)](https://www.bmfwf.gv.at/en.html)
+[![Image 4: Das Logo des Bundesministerium für Frauen, Wissenschaft und Forschung auf Englisch](https://studyinaustria.at/fileadmin/Public/_processed_/0/d/csm_BMFWF_Logo_srgb_EN_5e25b725e9.png)](https://www.bmfwf.gv.at/en.html)
 
 The OeAD, Austria's Agency for education and internationalisation, is a non-profit limited liability company owned by the Republic of Austria. The ownership rights are exercised by the Austrian Federal Ministry of Women, Science and Research. The OeAD's programmes and activities are financed primarily by the BMFWF, BMB, BKA, BMWKMS, the ADA, and the European Commission.
 
-[Video 2](https://www.studyinaustria.at/static/app/build/assets/footer-video-BkyY9Vdp.mp4)
+[Video 2](https://studyinaustria.at/static/app/build/assets/footer-video-BkyY9Vdp.mp4)
 
  Study in Austria 
 
@@ -72,7 +72,7 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
  Get to know us! 
 
-[About us](https://www.studyinaustria.at/en/about-us)
+[About us](https://studyinaustria.at/en/about-us)
 
  Find out who we are! 
 
@@ -114,7 +114,7 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
 *   [Plan your studies](https://studyinaustria.at/en/plan-your-studies)
 
- [Plan your studies](https://www.studyinaustria.at/en/plan-your-studies)
+ [Plan your studies](https://studyinaustria.at/en/plan-your-studies)
     *   [Find your programme](https://studyinaustria.at/en/plan-your-studies/find-your-programme)
     *   [Study programmes in English](https://studyinaustria.at/en/study/find-your-programme-1-1)
     *   [Application and admission](https://studyinaustria.at/en/plan-your-studies/application-and-admission)
@@ -122,25 +122,25 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
     *   [Scholarships & funding](https://studyinaustria.at/en/plan-your-studies/scholarships-funding)
     *   [Learning German](https://studyinaustria.at/en/plan-your-studies/learning-german)
 
- [Learning German](https://www.studyinaustria.at/en/plan-your-studies/learning-german)
+ [Learning German](https://studyinaustria.at/en/plan-your-studies/learning-german)
         *   [Preparation courses](https://studyinaustria.at/en/plan-your-studies/learning-german/preparation-courses)
 
     *   [Information for Students and Researchers from Ukraine](https://studyinaustria.at/en/study/information-for-students-and-researchers-from-ukraine)
 
- [Information for Students and Researchers from Ukraine](https://www.studyinaustria.at/en/study/information-for-students-and-researchers-from-ukraine)
+ [Information for Students and Researchers from Ukraine](https://studyinaustria.at/en/study/information-for-students-and-researchers-from-ukraine)
         *   [Інформація для студентів та дослідників з України](https://studyinaustria.at/en/studium/oead4refugees/informacija-dlja-studentiv-ta-doslidnikiv-z-ukrajini)
 
- [Інформація для студентів та дослідників з України](https://www.studyinaustria.at/en/studium/oead4refugees/informacija-dlja-studentiv-ta-doslidnikiv-z-ukrajini)
+ [Інформація для студентів та дослідників з України](https://studyinaustria.at/en/studium/oead4refugees/informacija-dlja-studentiv-ta-doslidnikiv-z-ukrajini)
             *   [Часті запитання](https://studyinaustria.at/en/studium/informationen-fuer-studierende-und-forscher/innen-aus-der-ukraine/chasti-zapitannja)
 
         *   [FAQ](https://studyinaustria.at/en/studium/oead4refugees/faq)
 
 *   [Higher education institutions](https://studyinaustria.at/en/study/institutions)
 
- [Higher education institutions](https://www.studyinaustria.at/en/study/institutions)
+ [Higher education institutions](https://studyinaustria.at/en/study/institutions)
     *   [Universities](https://studyinaustria.at/en/study/institutions/universities)
 
- [Universities](https://www.studyinaustria.at/en/study/institutions/universities)
+ [Universities](https://studyinaustria.at/en/study/institutions/universities)
         *   [University of Vienna](https://studyinaustria.at/en/study/institutions/universities/university-of-vienna)
         *   [Medical University of Vienna](https://studyinaustria.at/en/study/institutions/universities/medical-university-of-vienna)
         *   [TU Wien](https://studyinaustria.at/en/study/institutions/universities/vienna-university-of-technology)
@@ -167,7 +167,7 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
     *   [Private Universities](https://studyinaustria.at/en/study/institutions/private-universities)
 
- [Private Universities](https://www.studyinaustria.at/en/study/institutions/private-universities)
+ [Private Universities](https://studyinaustria.at/en/study/institutions/private-universities)
         *   [Music and Arts University of the City of Vienna](https://studyinaustria.at/en/study/institutions/private-universities/music-and-arts-university-of-the-city-of-vienna)
         *   [Modul University Vienna](https://studyinaustria.at/en/study/institutions/private-universities/modul-university-vienna)
         *   [Sigmund Freud University](https://studyinaustria.at/en/study/institutions/private-universities/sigmund-freud-university)
@@ -190,7 +190,7 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
     *   [University of Applied Sciences](https://studyinaustria.at/en/study/institutions/university-of-applied-sciences)
 
- [University of Applied Sciences](https://www.studyinaustria.at/en/study/institutions/university-of-applied-sciences)
+ [University of Applied Sciences](https://studyinaustria.at/en/study/institutions/university-of-applied-sciences)
         *   [FHWien der WKW](https://studyinaustria.at/en/study/institutions/university-of-applied-sciences/fhwien-der-wkw-university-of-applied-sciences-for-management-communication)
         *   [UAS Technikum Wien](https://studyinaustria.at/en/study/institutions/university-of-applied-sciences/uas-technikum-wien-vienna)
         *   [University of Applied Sciences for Business & Society BFI Vienna](https://studyinaustria.at/en/study/institutions/university-of-applied-sciences/university-of-applied-sciences-for-business-society-bfi-vienna)
@@ -215,7 +215,7 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
     *   [University Colleges of Teacher Education](https://studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education)
 
- [University Colleges of Teacher Education](https://www.studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education)
+ [University Colleges of Teacher Education](https://studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education)
         *   [University College of Teacher Education Vienna](https://studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education/university-college-of-teacher-education-vienna)
         *   [University College of Agricultural and Environmental Education](https://studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education/university-college-for-agrarian-and-environmental-pedagogy)
         *   [KPH Vienna/Lower Austria](https://studyinaustria.at/en/study/institutions/university-colleges-of-teacher-education/university-college-of-teacher-education-viennakrems)
@@ -233,13 +233,13 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
     *   [Other Institutions of Post-Secondary Education](https://studyinaustria.at/en/study/institutions/other-institutions-of-post-secondary-education)
 
- [Other Institutions of Post-Secondary Education](https://www.studyinaustria.at/en/study/institutions/other-institutions-of-post-secondary-education)
+ [Other Institutions of Post-Secondary Education](https://studyinaustria.at/en/study/institutions/other-institutions-of-post-secondary-education)
         *   [Institute of Science and Technology Austria](https://studyinaustria.at/en/study/institutions/other-institutions-of-post-secondary-education/institute-of-science-and-technology-austria)
         *   [Diplomatische Akademie Wien – Vienna School of International Studies](https://studyinaustria.at/en/study/institutions/other-institutions-of-post-secondary-education/diplomatic-academy-of-vienna-vienna-school-of-international-studies)
 
 *   [Live and work](https://studyinaustria.at/en/live-and-work)
 
- [Live and work](https://www.studyinaustria.at/en/live-and-work)
+ [Live and work](https://studyinaustria.at/en/live-and-work)
     *   [Entry and Visa](https://studyinaustria.at/en/live-and-work/entry-and-visa)
     *   [Stay](https://studyinaustria.at/en/live-and-work/stay)
     *   [Living costs](https://studyinaustria.at/en/live-and-work/living-costs)
@@ -249,9 +249,9 @@ The OeAD, Austria's Agency for education and internationalisation, is a non-prof
 
 *   [Why Austria?](https://studyinaustria.at/en/why-austria/ten-reasons-for-austria-1)
 
-*   [Publications](https://www.studyinaustria.at/en/publications)
+*   [Publications](https://studyinaustria.at/en/publications)
 *   [Contact (Opens in new window)](https://oead-bis.freshdesk.com/en/support/tickets/new)
-*   [Events](https://www.studyinaustria.at/en/events)
+*   [Events](https://studyinaustria.at/en/events)
 *   [Press](https://presse.oead.at/en/)
 
 YouTube is deactivated

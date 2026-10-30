@@ -1,27 +1,27 @@
 ===== SOURCE PAGE: https://www.uni-freiburg.de/en/study/scholarships =====
 Title: Page not found – University of Freiburg
 
-URL Source: https://www.uni-freiburg.de/en/study/scholarships
+URL Source: https://uni-freiburg.de/en/study/scholarships
 
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
-[](https://www.uni-freiburg.de/en "University of Freiburg homepage")
+[](https://uni-freiburg.de/en "University of Freiburg homepage")
 
  Menu 
 
-[](https://www.uni-freiburg.de/en "University of Freiburg homepage")
+[](https://uni-freiburg.de/en "University of Freiburg homepage")
 
  Menu 
 
 1.   [University of Freiburg](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
+2.   [Error 404](https://uni-freiburg.de/en/study/scholarships)
 
 1.   [](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
+2.   [Error 404](https://uni-freiburg.de/en/study/scholarships)
 
 1.   [University of Freiburg](https://uni-freiburg.de/en)
-2.   [Error 404](https://www.uni-freiburg.de/en/study/scholarships)
+2.   [Error 404](https://uni-freiburg.de/en/study/scholarships)
 
 *    Menu 
 *   [Search](https://uni-freiburg.de/en/?q=)
@@ -123,7 +123,7 @@ Universität Freiburg
 6.   [Directions and opening hours](https://uni-freiburg.de/en/maps/)
 7.   [Service disruptions](https://uni-freiburg.info/)
 
-[](https://www.uni-freiburg.de/en)
+[](https://uni-freiburg.de/en)
 Visitor address: Friedrichstraße 39, 79098 Freiburg   
  Postal address: Postfach, 79085 Freiburg
 
@@ -157,16 +157,16 @@ Visitor address: Friedrichstraße 39, 79098 Freiburg
 *   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
 *   [Accessibility](https://uni-freiburg.de/en/accessibility/)
 
-*   [Deutsch](https://www.uni-freiburg.de/en/study/scholarships)
-*   [English](https://www.uni-freiburg.de/en/study/scholarships)
+*   [Deutsch](https://uni-freiburg.de/en/study/scholarships)
+*   [English](https://uni-freiburg.de/en/study/scholarships)
 
 *   [Imprint](https://uni-freiburg.de/en/imprint/)
 *   [Privacy policy](https://uni-freiburg.de/en/privacy-policy/)
 *   [Accessibility](https://uni-freiburg.de/en/accessibility/)
 
 Language
-*   [Deutsch](https://www.uni-freiburg.de/en/study/scholarships)
-*   [English](https://www.uni-freiburg.de/en/study/scholarships)
+*   [Deutsch](https://uni-freiburg.de/en/study/scholarships)
+*   [English](https://uni-freiburg.de/en/study/scholarships)
 
 Search
 

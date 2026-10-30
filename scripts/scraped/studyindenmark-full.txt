@@ -1,7 +1,7 @@
 ===== SOURCE PAGE: https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition =====
 Title: This page does not seem to exist…
 
-URL Source: https://www.studyindenmark.dk/study-in-denmark/scholarships-and-tuition
+URL Source: https://studyindenmark.dk/study-in-denmark/scholarships-and-tuition
 
 Warning: Target URL returned error 404: Not Found
 

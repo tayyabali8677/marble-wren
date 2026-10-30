@@ -8,6 +8,14 @@ Warning: Target URL returned error 404: Not Found
 Markdown Content:
 [Skip to main content](https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs#main-content)
 
+Home[Home](https://www.helsinki.fi/en)
+
+Close
+
+[Support us](https://www.helsinki.fi/en/innovations-and-cooperation/support-us)
+
+[University of Helsinki](https://www.helsinki.fi/en)
+
 *   News
 
 ## [News](https://www.helsinki.fi/en/news) 
@@ -109,22 +117,79 @@ Close menu
 
 Close menu
 
-Home[Home](https://www.helsinki.fi/en)
-
-Close
-
 [Support us](https://www.helsinki.fi/en/innovations-and-cooperation/support-us)
 
 [](https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs)
+
+1.   [Home](https://www.helsinki.fi/en)
+2.   [Page not found (404)](https://www.helsinki.fi/en/admissions-and-education/international-students/scholarships-and-costs)
 
 # Page not found (404)
 
 Sorry, but the page cannot be found. The page may have been moved or deleted.
 
-You can try looking for the page with our search function or go to the  of the University of Helsinki website. You can also try our  or .
+You can try looking for the page with our search function or go to the [front page](https://www.helsinki.fi/en) of the University of Helsinki website. You can also try our [degree and course finder](https://www.helsinki.fi/en/admissions-and-education/search-programmes-and-courses) or [people finder](https://www.helsinki.fi/en/about-us/people/people-finder).
 
 #### Maybe these links could help you?
 
-If you want, you can also give us.
+[News](https://www.helsinki.fi/en/news)
 
- P.O. Box 3 (Fabianinkatu 33) 00014 University of Helsinki Switchboard: +358 (0) 2941 911 (mobile call charge / local network charge)
+[Admissions and education](https://www.helsinki.fi/en/admissions-and-education)
+
+[Research](https://www.helsinki.fi/en/research)
+
+[Innovations and cooperation](https://www.helsinki.fi/en/innovations-and-cooperation)
+
+[About us](https://www.helsinki.fi/en/about-us)
+
+[Faculties and units](https://www.helsinki.fi/en/faculties-and-units)
+
+If you want, you can also give us[feedback](https://www.helsinki.fi/en/give-feedback).
+
+![Image 1](https://www.helsinki.fi/assets/drupal/styles/16_10_fallback/s3/media-image/404hy.jpg.jpeg?itok=2yFB-fQ7)
+
+Up 
+
+## Campuses
+
+The University operates on four campuses in Helsinki and in ten other locations.
+
+[See all](https://www.helsinki.fi/en/faculties-and-units)
+
+### [City Centre Campus](https://www.helsinki.fi/en/about-us/visit-us/campuses/city-centre-campus)
+
+[Faculty of Humanities](https://www.helsinki.fi/en/faculty-humanities)[Faculty of Educational Sciences](https://www.helsinki.fi/en/faculty-educational-sciences)[Faculty of Law](https://www.helsinki.fi/en/faculty-law)[Faculty of Theology](https://www.helsinki.fi/en/faculty-theology)[Faculty of Social Sciences](https://www.helsinki.fi/en/faculty-social-sciences)[Swedish School of Social Sciences](https://www.helsinki.fi/en/swedish-school-social-science)
+
+### [Kumpula Campus](https://www.helsinki.fi/en/about-us/visit-us/campuses/kumpula-campus)
+
+[Faculty of Science](https://www.helsinki.fi/en/faculty-science)
+
+### [Viikki Campus](https://www.helsinki.fi/en/about-us/visit-us/campuses/viikki-campus)
+
+[Faculty of Agriculture and Forestry](https://www.helsinki.fi/en/faculty-agriculture-and-forestry)[Faculty of Biological and Environmental Sciences](https://www.helsinki.fi/en/faculty-biological-and-environmental-sciences)[Faculty of Pharmacy](https://www.helsinki.fi/en/faculty-pharmacy)[Faculty of Veterinary Medicine](https://www.helsinki.fi/en/faculty-veterinary-medicine)
+
+### [Meilahti Campus](https://www.helsinki.fi/en/about-us/visit-us/campuses/meilahti-campus)
+
+[Faculty of Medicine](https://www.helsinki.fi/en/faculty-medicine)
+
+[University of Helsinki](https://www.helsinki.fi/)
+
+ P.O. Box 3 (Fabianinkatu 33) 00014 University of Helsinki Switchboard: +358 (0) 2941 911 (mobile call charge / local network charge) 
+
+[](https://www.facebook.com/HelsinkiUniversity "Follow us on Facebook")[](https://www.youtube.com/user/universityofhelsinki "Follow us on Youtube")[](https://fi.linkedin.com/school/university-of-helsinki/ "Follow us on LinkedIn")[](https://www.instagram.com/universityofhelsinki/ "Follow us on Instagram")[](https://www.tiktok.com/@helsinginyliopisto "Follow us on Tiktok")
+
+### Quick links
+
+[Library](https://www.helsinki.fi/en/helsinki-university-library)[Careers and open positions](https://www.helsinki.fi/en/about-us/careers)[Webshop](https://go.innoflame.fi/goshop/unihelsinki/en/)
+
+### Contact information
+
+[People finder](https://www.helsinki.fi/en/about-us/people/people-finder)[Contact details and building opening hours](https://www.helsinki.fi/en/about-us/university-helsinki/contact-details)[Invoicing details](https://www.helsinki.fi/en/about-us/university-helsinki/contact-details/university-helsinki-invoicing-details)[Press and Media](https://www.helsinki.fi/en/news/press-and-media-services)[Give feedback](https://www.helsinki.fi/en/give-feedback)
+
+### For the university community
+
+[Studies service for current students](https://studies.helsinki.fi/frontpage)[Flamma-intranet](https://flamma.helsinki.fi/)
+
+Cookie management[About the website](https://www.helsinki.fi/en/about-website)[Accessibility statement](https://www.helsinki.fi/en/accessibility-statement)[Data protection](https://www.helsinki.fi/en/about-us/processing-data-university/data-protection)
+
+© University of Helsinki 2026

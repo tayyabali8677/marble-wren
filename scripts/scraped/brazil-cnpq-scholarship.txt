@@ -328,6 +328,9 @@ Fechar
 Fechar
 Fechar
 Info
+Chamada PIBPG aprova concessão de mais de 4.700 bolsas de mestrado e doutorado; confira o resultado final
+Foram contempladas propostas de 202 instituições de todo o país, com oferta de 3.134 bolsas de mestrado e 1.583 de doutorado; serão investidos R$ 430,9 milhões em 4 anos, em recursos do orçamento próprio do CNPq.
+Saiba mais sobre Chamada PIBPG aprova concessão de mais de 4.700 bolsas de mestrado e doutorado; confira o resultado final
 Projeto InspirAção: CNPq e Petrobras oferecem 1.500 bolsas para alunas negras do ensino médio; inscrições até 08/12
 Investimento de R$ 30 milhões, em recursos da Petrobras, irá apoiar instituições interessadas em conceder bolsas nas áreas de petróleo, energia, tecnologias sociais e sustentabilidade.
 Saiba mais sobre Projeto InspirAção: CNPq e Petrobras oferecem 1.500 bolsas para alunas negras do ensino médio; inscrições até 08/12
@@ -349,21 +352,15 @@ Saiba mais sobre Importações para pesquisas das universidades federais podem c
 Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado final
 Todas as 27 unidades federativas tiveram projetos aprovados; propostas contemplam iniciativas estruturantes e/ou inovadoras em popularização da ciência; projetos de educação e ciência; centros e museus de ciências; e comunicação pública da ciência.
 Saiba mais sobre Programa de Apoio à Popularização Científica nos Estados e no DF: confira o resultado final
-Chamada Pepe Mujica: resultado preliminar indica aprovação de 378 projetos de cooperação científica na América Latina e Caribe
-Alta demanda qualificada levou à suplementação da chamada pelo FNDCT; entre os aprovados, 98 projetos que envolvem Inteligência Artificial.
-Saiba mais sobre Chamada Pepe Mujica: resultado preliminar indica aprovação de 378 projetos de cooperação científica na América Latina e Caribe
 Asas para o Futuro: CNPq divulga resultado preliminar, que indica aprovação de 3.320 bolsas para jovens negras, indígenas e quilombolas
 Foram contempladas 28 propostas institucionais, com oferta de 3.320 bolsas de Apoio à Difusão do Conhecimento (ADC-2B); prazo para interposição de recursos vai até 26/10
 Saiba mais sobre Asas para o Futuro: CNPq divulga resultado preliminar, que indica aprovação de 3.320 bolsas para jovens negras, indígenas e quilombolas
-Pop Ciência: chamada de apoio a feiras e mostras científicas divulga resultado final
-Planos de ação preveem duas edições do evento, em 2026 e 2027.
-Saiba mais sobre Pop Ciência: chamada de apoio a feiras e mostras científicas divulga resultado final
 Ver esse post no Instagram
 Um post compartilhado por CNPq (@cnpq_oficial)
-Ciência e Tecnologia
-Prêmio Mulheres e Ciência: CNPq divulga resultado preliminar da análise de elegibilidade da 3ª edição
-Candidatas poderão interpor recurso administrativo ao resultado preliminar da análise de elegibilidade de 22 a 26 de outubro.
-21/10/2026 17h12
+Educação e Pesquisa
+Pop Ciência: chamada de apoio a feiras e mostras científicas divulga resultado final
+Planos de ação preveem duas edições do evento, em 2026 e 2027.
+18/10/2020 08h24
 Ciência e Tecnologia
 2º Prêmio de Incentivo à Pesquisa em Direitos Humanos: CNPq e MDHC divulgam resultado final
 Iniciativa reconhece e valoriza pesquisas, práticas e projetos voltados à produção e ao uso de evidências em direitos humanos no Brasil.
@@ -374,15 +371,18 @@ Ciência e Tecnologia
 CNPq e Agência Nacional de Pesquisas da França selecionam projetos conjuntos de pesquisa sobre saúde e computação; inscrições até 31/03
 Propostas devem estar inseridas dentro das áreas de imunologia, doenças infecciosas, computação de alto desempenho, inteligência artificial e computação quântica.
 03/09/2026 15h25
-Educação e Pesquisa
-Chamada PIBPG: CNPq divulga resultado preliminar, que indica aprovação de mais de 4.500 bolsas de mestrado e doutorado
-Foram contempladas 200 propostas institucionais, com oferta de 3.021 bolsas de mestrado e 1.572 de doutorado; prazo para interposição de recursos vai até 13/10.
-29/09/2026 15h11
+Ciência e Tecnologia
+Chamada Pepe Mujica: resultado preliminar indica aprovação de 378 projetos de cooperação científica na América Latina e Caribe
+Alta demanda qualificada levou à suplementação da chamada pelo FNDCT; entre os aprovados, 98 projetos que envolvem Inteligência Artificial.
+20/10/2026 16h32
 Ver esse post no Instagram
 Um post compartilhado por CNPq | Defeso Eleitoral (@cnpq_oficial_2)
 Educação e Pesquisa
 CNPq adere à Rede de Parcerias para o desenvolvimento de ações compartilhadas de interesse público e recíproco do MGI
-05/10/2026 11h48
+29/10/2026 13h41
+Ciência e Tecnologia
+Prêmio Mulheres e Ciência: CNPq divulga resultado preliminar da análise de elegibilidade da 3ª edição
+21/10/2026 17h12
 Ciência e Tecnologia
 CNPq divulga inscrições elegíveis ao 19º Prêmio Mercosul de Ciência, Tecnologia e Inovação
 09/10/2026 15h16
@@ -2054,7 +2054,7 @@ Obter passaporte
 Iniciar
 Avaliação:
 4.8
-(81313)
+(81196)
 Avaliação
 O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5.
 Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço.

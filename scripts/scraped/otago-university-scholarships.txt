@@ -1,10 +1,18 @@
 ===== SOURCE PAGE: https://www.otago.ac.nz/scholarships/ =====
 Title: Scholarships Database
 
-URL Source: https://www.otago.ac.nz/scholarships/
+URL Source: https://www.otago.ac.nz/study/postgraduate-study/scholarships
 
 Markdown Content:
-[Skip to main content](https://www.otago.ac.nz/scholarships/#main)[Skip to side navigation](https://www.otago.ac.nz/scholarships/#aside-nav)
+Skip to main content Enable accessibility for low vision Open the accessibility menu
+
+![Image 1: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
+![Image 2](https://cdn.userway.org/widgetapp/images/body_wh.svg)
+
+![Image 3: Spinner: White decorative](https://cdn.userway.org/widgetapp/images/spin_wh.svg)
+
+[Skip to main content](https://www.otago.ac.nz/study/postgraduate-study/scholarships#main)[Skip to side navigation](https://www.otago.ac.nz/study/postgraduate-study/scholarships#aside-nav)
 
 *   [Current students](https://aonui.otago.ac.nz/)
 *   [Staff](https://www.otago.ac.nz/staff)
@@ -12,7 +20,7 @@ Markdown Content:
 *   [Library](https://www.otago.ac.nz/library)
 *   [Contact](https://www.otago.ac.nz/contacts)
 
-[![Image 1](https://www.otago.ac.nz/__data/assets/file/0034/568366/UoO_Logo_RGB_Horz_Gold-REV.svg) Home](https://www.otago.ac.nz/)
+[![Image 4](https://www.otago.ac.nz/__data/assets/file/0034/568366/UoO_Logo_RGB_Horz_Gold-REV.svg) Home](https://www.otago.ac.nz/)
 
 *    Toggle submenu  Ngā tauira o āpōpō  Future Students 
     *    Return to previous menu  Ngā tauira o āpōpō  Future Students 
@@ -223,7 +231,7 @@ Markdown Content:
         *   [Insurance claims](https://www.otago.ac.nz/international/healthcare#claim)
         *   [Student health](https://www.otago.ac.nz/studenthealth)
         *   [Semester exchange for Otago students](https://www.otago.ac.nz/international/current-students/otago-global-student-exchange-information-for-otago-students)
-        *   [For all current students](https://www.otago.ac.nz/scholarships/)
+        *   [For all current students](https://www.otago.ac.nz/study/postgraduate-study/scholarships)
 
     *    Toggle submenu  Are you looking for... 
         *    Return to previous menu  Are you looking for... 
@@ -256,7 +264,7 @@ Markdown Content:
         *   [Service divisions](https://www.otago.ac.nz/administration/service_divisions)
         *   [Policy database](https://www.otago.ac.nz/staff/policies)
         *   [Otago's commitment to social responsibility](https://www.otago.ac.nz/about/social-responsibility)
-        *   [Visitors' Centre](https://www.otago.ac.nz/scholarships/)
+        *   [Visitors' Centre](https://www.otago.ac.nz/study/postgraduate-study/scholarships)
 
     *    Toggle submenu  Departments and Schools 
         *    Return to previous menu  Departments and Schools 
@@ -338,7 +346,7 @@ Markdown Content:
         *   [PhD](https://www.otago.ac.nz/graduate-research/study/phddoctoral/programme)
         *   [Coursework postgraduate](https://www.otago.ac.nz/postgraduate-study/coursework)
 
-    *   [Information for current students](https://www.otago.ac.nz/scholarships/)
+    *   [Information for current students](https://www.otago.ac.nz/study/postgraduate-study/scholarships)
         *   [Exams](https://www.otago.ac.nz/study/examinations)
         *   [Graduation](https://www.otago.ac.nz/study/graduation)
         *   [Student Learning Development](https://www.otago.ac.nz/educational-design-innovation/students)
@@ -468,7 +476,7 @@ Markdown Content:
         *   [Insurance claims](https://www.otago.ac.nz/international/healthcare#claim)
         *   [Student health](https://www.otago.ac.nz/studenthealth)
         *   [Semester exchange for Otago students](https://www.otago.ac.nz/international/current-students/otago-global-student-exchange-information-for-otago-students)
-        *   [For all current students](https://www.otago.ac.nz/scholarships/)
+        *   [For all current students](https://www.otago.ac.nz/study/postgraduate-study/scholarships)
 
 ### Are you looking for...
 
@@ -497,7 +505,7 @@ Markdown Content:
         *   [Service divisions](https://www.otago.ac.nz/administration/service_divisions)
         *   [Policy database](https://www.otago.ac.nz/staff/policies)
         *   [Otago's commitment to social responsibility](https://www.otago.ac.nz/about/social-responsibility)
-        *   [Visitors' Centre](https://www.otago.ac.nz/scholarships/)
+        *   [Visitors' Centre](https://www.otago.ac.nz/study/postgraduate-study/scholarships)
 
     *   [Departments and Schools](https://www.otago.ac.nz/study/departments)
         *   [Otago Business School](https://www.otago.ac.nz/business)
@@ -618,7 +626,7 @@ Thanks, we appreciate your feedback
 
 [AskOtago](https://ask.otago.ac.nz/)
 
-![Image 2: %globals_asset_attribute_alt:568108](https://www.otago.ac.nz/__data/assets/image/0028/568108/1869-emblem.png)
+![Image 5: %globals_asset_attribute_alt:568108](https://www.otago.ac.nz/__data/assets/image/0028/568108/1869-emblem.png)
 *   [Future Students](https://www.otago.ac.nz/future-students)
     *   [Subjects](https://www.otago.ac.nz/subjects)
     *   [Fees and scholarships](https://www.otago.ac.nz/future-students/fees-and-scholarships)
@@ -670,7 +678,7 @@ Thanks, we appreciate your feedback
     *   [Phonebook search](https://www.otago.ac.nz/contacts/search)
     *   [Expertise database](https://www.otago.ac.nz/research/expertise)
 
-[![Image 3: Matariki Network logo](https://www.otago.ac.nz/__data/assets/image/0029/568136/matariki-logo-white.png)Link for Matariki Network logo](https://www.matarikinetwork.org/)[![Image 4: QS Overall 5 Stars Plus Rated Outstanding](https://www.otago.ac.nz/__data/assets/image/0015/2814/QS-Overall-5-Stars-Plus.png)Link for QS Overall 5 Stars Plus Rated Outstanding](https://www.topuniversities.com/universities/university-otago)[LinkedIn](https://www.linkedin.com/school/university-of-otago/ "LinkedIn")[Facebook](https://www.facebook.com/otagouniversity "Facebook")[Instagram](https://instagram.com/universityofotago "Instagram")[YouTube](https://www.youtube.com/OtagoUniversity "YouTube")
+[![Image 6: Matariki Network logo](https://www.otago.ac.nz/__data/assets/image/0029/568136/matariki-logo-white.png)Link for Matariki Network logo](https://www.matarikinetwork.org/)[![Image 7: QS Overall 5 Stars Plus Rated Outstanding](https://www.otago.ac.nz/__data/assets/image/0015/2814/QS-Overall-5-Stars-Plus.png)Link for QS Overall 5 Stars Plus Rated Outstanding](https://www.topuniversities.com/universities/university-otago)[LinkedIn](https://www.linkedin.com/school/university-of-otago/ "LinkedIn")[Facebook](https://www.facebook.com/otagouniversity "Facebook")[Instagram](https://instagram.com/universityofotago "Instagram")[YouTube](https://www.youtube.com/OtagoUniversity "YouTube")
 
 *   [Contact Otago](https://www.otago.ac.nz/contacts)
 *   [Search](https://search.otago.ac.nz/s/search.html?query=&collection=uoot-prod%7Esp-otago-search)
@@ -682,6 +690,6 @@ Thanks, we appreciate your feedback
 
 © 2026 University of Otago
 
-[Back to top](https://www.otago.ac.nz/scholarships/#topOfPage)
+[Back to top](https://www.otago.ac.nz/study/postgraduate-study/scholarships#topOfPage)
 
-[](https://www.otago.ac.nz/scholarships/)
+[](https://www.otago.ac.nz/study/postgraduate-study/scholarships)

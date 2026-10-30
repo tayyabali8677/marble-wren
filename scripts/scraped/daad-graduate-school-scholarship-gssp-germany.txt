@@ -1,10 +1,10 @@
 ===== SOURCE PAGE: https://www.daad.de =====
 Title: Deutscher Akademischer Austauschdienst
 
-URL Source: https://www.daad.de/
+URL Source: https://www.daad.de/de/
 
 Markdown Content:
-[Direkt zum Inhalt](https://www.daad.de/#content)
+[Direkt zum Inhalt](https://www.daad.de/de/#content)
 
 # Einwilligung zur Nutzung von Cookies
 
@@ -401,7 +401,7 @@ Anmelden
 *   [Karriere](https://www.daad.de/de/der-daad/wer-wir-sind/karriere-im-daad/)
 *   [Presse](https://www.daad.de/de/der-daad/kommunikation-publikationen/presse/)
 
-[](https://www.daad.de/#header-navs)
+[](https://www.daad.de/de/#header-navs)
 
 ![Image 41: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service](blob:http://localhost/6706830898309ae146843ee2c7e29748)
 

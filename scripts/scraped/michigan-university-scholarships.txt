@@ -89,6 +89,6 @@ You may find these frequently visited LSA and university web resources helpful:
 *   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
 *   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
 *   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/german/en/germanday/about-german-day/pictures/german-day-2025-photos.lsa-image-servlet.jpg)
+*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/orgstudies/en/current-students/current-os-pathways/Technology/jcr:content/par/responsive_columns_593892481/col1/textimage_copy_copy__609929339/image.transform/none/image.jpg)
 
  © [2026 Regents of the University of Michigan](http://regents.umich.edu/)

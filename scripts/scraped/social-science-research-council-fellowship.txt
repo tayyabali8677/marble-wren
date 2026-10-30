@@ -1,16 +1,14 @@
 ===== SOURCE PAGE: https://www.ssrc.org/fellowships/ =====
 Title: Fellowship and Grants Administration
 
-URL Source: https://www.ssrc.org/fellowships/
-
-Published Time: Thu, 29 Oct 2026 18:12:03 GMT
+URL Source: https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/
 
 Markdown Content:
-[Skip to content](https://www.ssrc.org/fellowships/#content)
+[Skip to content](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/#content)
 
 [![Image 1: Social Science Research Council (SSRC)](https://www.ssrc.org/wp-content/themes/ssrcorg-child/assets/images/cuf-logo.svg)](https://www.ssrc.org/)
 
-[Menu](https://www.ssrc.org/fellowships/)
+[Menu](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 *   [Our Work](https://www.ssrc.org/our-work/)
 *   Current Opportunities
     *   Current Opportunities
@@ -45,7 +43,7 @@ Markdown Content:
 
 *   [Support the SSRC](https://www.ssrc.org/donate)
 
-[Search](https://www.ssrc.org/fellowships/#)Search for: 
+[Search](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/#)Search for: 
 
 # **Fellowship and Grants Administration:**  
 Supporting necessary knowledge
@@ -165,7 +163,7 @@ Social Science Research Council
 
 We use cookies on our site to improve your browsing experience. By clicking “Accept All”, you consent to the use of cookies on our site. Please see our [Privacy Policy](https://www.ssrc.org/about-us/privacy-policy/) for more information.
 
-[Accept All](https://www.ssrc.org/fellowships/)
+[Accept All](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 Manage consent
 
@@ -175,9 +173,9 @@ Close
 
 This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
 
-[](https://www.ssrc.org/fellowships/)
+[](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
-[Necessary](https://www.ssrc.org/fellowships/)
+[Necessary](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 - [x] Necessary 
 
@@ -193,31 +191,31 @@ Always Enabled
 | cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
 | viewed_cookie_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
 
-[Functional](https://www.ssrc.org/fellowships/)
+[Functional](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 - [x] Functional 
 
  Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features. 
 
-[Performance](https://www.ssrc.org/fellowships/)
+[Performance](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 - [x] Performance 
 
  Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors. 
 
-[Analytics](https://www.ssrc.org/fellowships/)
+[Analytics](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 - [x] Analytics 
 
  Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc. 
 
-[Others](https://www.ssrc.org/fellowships/)
+[Others](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 - [x] Others 
 
  Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet. 
 
-[SAVE & ACCEPT](https://www.ssrc.org/fellowships/)
+[SAVE & ACCEPT](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 Menu
 
@@ -226,15 +224,15 @@ Menu
     *           *   [African Peacebuilding and Developmental Dynamics (APDD) Fellowships](https://www.ssrc.org/programs/african-peacebuilding-and-developmental-dynamics-apdd/)
         *   [SSRC-JF Next Generation Japan Studies Development Grants](https://www.ssrc.org/programs/ssrc-jf-next-generation-japan-studies-development-program/)
         *   [The Rachel Tanur Memorial Prize for Visual Sociology](https://racheltanurmemorialprize.ssrc.org/)
-        *   [Back](https://www.ssrc.org/fellowships/)
+        *   [Back](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
-    *   [Back](https://www.ssrc.org/fellowships/)
+    *   [Back](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 *   [Our Network](https://www.ssrc.org/our-network/)
     *   [College and University Fund for the Social Sciences](https://www.ssrc.org/college-and-university-fund-for-the-social-sciences/)
     *   [Frontiers in Social Science](https://www.ssrc.org/frontiers/)
     *   [Social Science Research Council Funders](https://www.ssrc.org/funders/)
-    *   [Back](https://www.ssrc.org/fellowships/)
+    *   [Back](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 *   [News & Events](https://www.ssrc.org/news-events/)
 *   About
@@ -244,9 +242,9 @@ Menu
         *   [Employment](https://www.ssrc.org/employment/)
         *   [Organizational Information](https://www.ssrc.org/organizational-information/)
         *   [Contact Us](https://www.ssrc.org/organizational-information/#contact-us)
-        *   [Back](https://www.ssrc.org/fellowships/)
+        *   [Back](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
-    *   [Back](https://www.ssrc.org/fellowships/)
+    *   [Back](https://www.ssrc.org/how-we-work/fellowship-and-grants-administration/)
 
 *   [Support the SSRC](https://www.ssrc.org/donate)
 

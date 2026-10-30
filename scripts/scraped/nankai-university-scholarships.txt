@@ -1,7 +1,7 @@
 ===== SOURCE PAGE: https://en.nankai.edu.cn/admissions/scholarships.htm =====
 Title: 提示信息
 
-URL Source: https://en.nankai.edu.cn/admissions/scholarships.htm
+URL Source: https://en.nankai.edu.cn/admissions/scholarships.psp
 
 Warning: Target URL returned error 410: Gone
 
@@ -10,4 +10,4 @@ Markdown Content:
 
 提示：访问地址无效，错误的栏目参数！
 
-[首页](https://en.nankai.edu.cn/admissions/scholarships.htm#)[关闭此页](https://en.nankai.edu.cn/admissions/scholarships.htm#)
+[首页](https://en.nankai.edu.cn/admissions/scholarships.psp#)[关闭此页](https://en.nankai.edu.cn/admissions/scholarships.psp#)

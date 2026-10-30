@@ -60,6 +60,6 @@ Main content start
 *   [Copyright](https://uit.stanford.edu/security/copyright-infringement "Report alleged copyright infringement")
 *   [Trademarks](https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4 "Ownership and use of Stanford trademarks and images")
 *   [Non-Discrimination](https://non-discrimination.stanford.edu/ "Non-discrimination policy")
-*   [Accessibility](https://www.stanford.edu/site/accessibility "Report web accessibility issues")
+*   [Accessibility](https://www.stanford.edu/accessibility "Report web accessibility issues")
 
 © Stanford University. Stanford, California 94305.

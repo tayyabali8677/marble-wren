@@ -1,12 +1,12 @@
 ===== SOURCE PAGE: https://www.nuffic.nl/en/subjects/orange-knowledge-programme =====
 Title: Discover the power of internationalisation
 
-URL Source: https://www.nuffic.nl/en/subjects/orange-knowledge-programme
+URL Source: https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme
 
 Warning: Target URL returned error 403: Forbidden
 
 Markdown Content:
-[Direct naar de zoekfunctie](https://www.nuffic.nl/en/subjects/orange-knowledge-programme#search-button)[Direct naar de hoofdnavigatie](https://www.nuffic.nl/en/subjects/orange-knowledge-programme#menu-button)[Direct naar de inhoud](https://www.nuffic.nl/en/subjects/orange-knowledge-programme#main-content)
+[Direct naar de zoekfunctie](https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme#search-button)[Direct naar de hoofdnavigatie](https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme#menu-button)[Direct naar de inhoud](https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme#main-content)
 
 [](https://www.nuffic.nl/en "Nuffic homepage")
 
@@ -317,7 +317,7 @@ An overview of all our websites.
 
  Cancel 
 
-[](https://www.nuffic.nl/en/subjects/orange-knowledge-programme)
+[](https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme)
 
 ![Image 42: Foto opening Winner 2024 ](https://www.nuffic.nl/sites/default/files/styles/wide/public/2025-06/Foto%20Nuffic%20website%20-%20home%20EN.jpg.webp?h=01c7bf64&itok=V9Cbt0_9)
 
@@ -436,6 +436,6 @@ The Dutch organisation for internationalisation in education. From primary and s
 
 We use cookies and process personal data for the following purposes: **Functioneel & Embedded external content**.
 
-[Customize](https://www.nuffic.nl/en/subjects/orange-knowledge-programme# "Open consent dialog")
+[Customize](https://www.nuffic.nl/en/international/international-programmes/individual-scholarships-orange-knowledge-programme# "Open consent dialog")
 
 Decline Accept
