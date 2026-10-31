@@ -3,7 +3,7 @@ Title: Error 404
 
 URL Source: https://www.hec.edu/en/mba-programs/hec-mba/financing-your-mba/scholarships
 
-Published Time: Sat, 31 Oct 2026 04:26:06 GMT
+Published Time: Sat, 31 Oct 2026 17:19:15 GMT
 
 Warning: Target URL returned error 404: Not Found
 

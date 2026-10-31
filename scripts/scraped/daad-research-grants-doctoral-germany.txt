@@ -6,420 +6,152 @@ URL Source: https://www.daad.de/
 Final URL: https://www.daad.de/de/
 
 Markdown Content:
-[Direkt zum Inhalt](https://www.daad.de/de/#content)
-
-# Einwilligung zur Nutzung von Cookies
-
-Zur Verbesserung der Website werden durch den DAAD und Dritte Cookies gesetzt und Nutzungsdaten verarbeitet. Hierbei werden durch den DAAD und Dritte Nutzungsdaten in Drittländer übermittelt, in denen kein mit dem EU-Recht vergleichbares Datenschutzniveau besteht. Durch das Klicken des Buttons „Alle akzeptieren“ stimmen Sie dieser Verarbeitung zu. Auswahlmöglichkeiten und Erläuterungen zu diesen Cookies und Verarbeitungen finden Sie auch am Ende dieser Seite unter „Cookies“. Dort können Sie Einwilligungen jederzeit mit Wirkung für die Zukunft widerrufen.
-
-Einstellungen Ablehnen
-
-Akzeptieren
-
-*   [Impressum](https://www.daad.de/de/impressum/ "Seite öffnet sich in neuem Fenster")
-*   [Datenschutzerklärung](https://www.daad.de/de/datenschutzerklaerung/ "Seite öffnet sich in neuem Fenster")
-
-![Image 1: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service](https://www.daad.de/_nuxt/logo-small-light.BeMXrHNY.svg)![Image 2: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service](https://www.daad.de/_nuxt/logo-small-dark.BjXioAOO.svg)
-
-*   Deutsch
-*   [English](https://www.daad.de/en/ "English version of this website")
-*   [](https://www.daad.de/de/gebaerdensprache/)
-*   [](https://www.daad.de/de/leichte-sprache/)
-
-[Kontakt](https://www.daad.de/de/der-daad/kontakt/)
-
-- [x] Farbumschalter 
-
-Suche
-
-Suchbegriff* 
-
-Suchen
-
-- [x] Farbumschalter 
-
-Suche
-
-Suchbegriff* 
-
-Suchen
-
-*   In Deutschland  
-studieren & forschen 
-*   Im Ausland  
-studieren, forschen & lehren 
-*   Infos & Services  
-für Hochschulen 
-*   Der DAAD 
-
-*   [In Deutschland studieren & forschen](https://www.daad.de/de/in-deutschland-studieren/)
-*   [Im Ausland studieren, forschen & lehren](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/)
-*   [Infos & Services für Hochschulen](https://www.daad.de/de/infos-services-fuer-hochschulen/)
-*   [Der DAAD](https://www.daad.de/de/der-daad/)
-
-[Kontakt](https://www.daad.de/de/der-daad/kontakt/)
-
-![Image 3: Studierende arbeiten zusammen](https://api.daad.de/api/image/stgbgsm/media/daad_de/startseite/b%C3%BChne_lektorpenprogramm.jpg.webp)
-
-©
-
-# Startseite des Deutschen Akademischen Austauschdienstes
-
-![Image 4: Studierende arbeiten zusammen](https://api.daad.de/api/image/stgbgsm/media/daad_de/startseite/b%C3%BChne_lektorpenprogramm.jpg.webp)
-
-©
-
-## DAAD-Lektorenprogramm
-
-Kultur und Sprache leben, lernen, lehren - mit dem DAAD-Lektorenprogramm. Jetzt bewerben!
-
-[Zur Ausschreibung](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/lehren-im-ausland/freie-lektorate-und-dozenturen/)
-
-## USA - Information und Beratung
-
-Hier finden Sie Informationen und Beratung zu akademischen Aufenthalten in den USA.
-
-[Mehr Mehr über USA - Information und Beratung](https://www.daad.de/de/in-deutschland-studieren/hilfe-beratung/beratung-usa/)
-
-## Eine Auswahl unserer Bewerbungsfristen
-
-[Stipendien - nach Deutschland](https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/)
-
-[Stipendien - ins Ausland](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/)
-
-[Förderprogramme für Hochschulen](https://www2.daad.de/hochschulen/ausschreibungen/projekte/de/11342-foerderprogramme-finden/)
-
-[International Programmes](https://www2.daad.de/deutschland/studienangebote/international-programmes/en/)
-
-[Alumni](https://www.daad.de/de/alumni/)
-
-[Länder­informationen](https://www.daad.de/de/laenderinformationen/)
-
-![Image 5: Wandel durch Austausch](blob:http://localhost/02e923e134b28c062c03e575b89597a5)
-
-©
+![Image 1: Wandel durch Austausch](blob:http://localhost/02e923e134b28c062c03e575b89597a5)
 
 ## Wandel durch Austausch
 
 Seit über 100 Jahren fördert der DAAD internationalen akademischen Austausch und trägt damit substanziell zum Wandel in Gesellschaft, Politik, Wirtschaft, Wissenschaft, Technik, Kunst und Kultur bei. Historische Einblicke und inspirierende Portraits von DAAD-Alumni und -Alumnae zeigen, wie Austausch die Welt gestern, heute und morgen prägt.
 
-[Mehr erfahren](https://www.daad.de/de/der-daad/wer-wir-sind/wandel-durch-austausch/)
-
 ## DAAD Neuigkeiten
 
-*   Alles
-*   DAAD Journal
-*   Presse
-*   Social Media
-
-*   ![Image 6: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©  ### Grimm-Förderpreis: „Literatur eröffnet einen tiefgehenden Blick auf eine Gesellschaft“
+*   ![Image 2: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6) ### Grimm-Förderpreis: „Literatur eröffnet einen tiefgehenden Blick auf eine Gesellschaft“
 
 29.10.2026 | DAAD Journal 
-Die Germanistin Dr. Hanna Henryson untersucht, wie Romane gesellschaftlichen Wandel zeigen. Sie erhält den Jacob- und Wilhelm-Grimm-Förderpreis 2026 des DAAD.
+Die Germanistin Dr. Hanna Henryson untersucht, wie Romane gesellschaftlichen Wandel zeigen. Sie erhält den Jacob- und Wilhelm-Grimm-Förderpreis 2026 des DAAD.  
+*   ![Image 3: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82) ### Hilfe beim Ankommen: Willkommen in der DAAD-Familie!
 
-[Mehr Mehr über Grimm-Förderpreis: „Literatur eröffnet einen tiefgehenden Blick auf eine Gesellschaft“](https://www.daad.de/de/der-daad/daad-journal/themen/2026/grimm-foerderpreis-2026-fuer-schwedische-germanistin-hanna-henryson/)   
-*   ![Image 7: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82)
+28.10.2026 | DAAD Journal  
+*   ![Image 4: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82) ### Grimm-Preis für polnische Germanistin: „Übersetzen ist ein intellektuelles Abenteuer“
 
-©  ### Hilfe beim Ankommen: Willkommen in der DAAD-Familie!
+27.10.2026 | DAAD Journal  
+*   ![Image 5: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82) ### DAAD fördert neues Zentrum für Deutschland- und Europastudien in Polen
 
-28.10.2026 | DAAD Journal [Mehr Mehr über Hilfe beim Ankommen: Willkommen in der DAAD-Familie!](https://www.daad.de/de/der-daad/daad-journal/themen/2026/daad-freundeskreis-hilfe-beim-ankommen-fuer-internationale-gefoerderte/)   
-*   ![Image 8: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82)
+20.10.2026 | Presse  
+*   ![Image 6: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82) ### DAAD fördert Internationalisierung der Hochschulen für Angewandte Wissenschaften
 
-©  ### Grimm-Preis für polnische Germanistin: „Übersetzen ist ein intellektuelles Abenteuer“
+15.10.2026 | Presse  
+*   ![Image 7: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82) ### Deutschland bleibt weltweit gefragter Standort für Studium und Promotion
 
-27.10.2026 | DAAD Journal [Mehr Mehr über Grimm-Preis für polnische Germanistin: „Übersetzen ist ein intellektuelles Abenteuer“](https://www.daad.de/de/der-daad/daad-journal/themen/2026/grimm-preis-2026-fuer-polnische-germanistin-jadwiga-kita-huber/)   
-*   ![Image 9: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82)
-
-©  ### DAAD fördert neues Zentrum für Deutschland- und Europastudien in Polen
-
-20.10.2026 | Presse [zur Pressemitteilung Zur Pressemitteilung DAAD fördert neues Zentrum für Deutschland- und Europastudien in Polen](https://www.daad.de/de/der-daad/kommunikation-publikationen/presse/pressemitteilungen/2026/daad-foerdert-neues-zentrum-fuer-deutschland-und-europastudien-in-polen/)   
-*   ![Image 10: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82)
-
-©  ### DAAD fördert Internationalisierung der Hochschulen für Angewandte Wissenschaften
-
-15.10.2026 | Presse [zur Pressemitteilung Zur Pressemitteilung DAAD fördert Internationalisierung der Hochschulen für Angewandte Wissenschaften](https://www.daad.de/de/der-daad/kommunikation-publikationen/presse/pressemitteilungen/2026/daad-foerdert-internationalisierung-der-hochschulen-fuer-angewandte-wissenschaften/)   
-*   ![Image 11: Internationale Studierende beim DAAD-Stipendiatentreffen an der Universität Heidelberg](blob:http://localhost/790b469b6fb505cb6c15a94a2ef16a82)
-
-©  ### Deutschland bleibt weltweit gefragter Standort für Studium und Promotion
-
-14.10.2026 | Presse [zur Pressemitteilung Zur Pressemitteilung Deutschland bleibt weltweit gefragter Standort für Studium und Promotion](https://www.daad.de/de/der-daad/kommunikation-publikationen/presse/pressemitteilungen/2026/deutschland-bleibt-weltweit-gefragter-standort-fuer-studium-und-promotion/)   
-*   [![Image 12: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://www.instagram.com/reel/DfFR4jCn5P2/ "Seite öffnet sich in neuem Fenster")
-
-© ![Image 13](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7)
-
-© Autor DAAD Worldwide Datum 29.10.2026  
+14.10.2026 | Presse  
+*   [![Image 8: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://www.instagram.com/reel/DfFR4jCn5P2/ "Seite öffnet sich in neuem Fenster") ![Image 9](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7) Autor DAAD Worldwide Datum 29.10.2026  
 🛰️🌍 Targeted environmental protection with satellite data Devastating wildfires destroyed Canada’s forests in 2018; their plumes of smoke were even visible from space. But atmospheric physicist and D ...
 
-[Zum Beitrag Zum Beitrag von daad_worldwide auf instagram](https://www.instagram.com/reel/DfFR4jCn5P2/ "Seite öffnet sich in neuem Fenster") 
-*   [![Image 14: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://bsky.app/profile/daadworldwide.bsky.social/post/3myyzqylw2s2m "Seite öffnet sich in neuem Fenster")
-
-© ![Image 15](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7)
-
-© Autor DAAD Worldwide Datum 29.10.2026  
+[Zum Beitrag von daad_worldwide auf instagram](https://www.instagram.com/reel/DfFR4jCn5P2/ "Seite öffnet sich in neuem Fenster") 
+*   [![Image 10: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://bsky.app/profile/daadworldwide.bsky.social/post/3myyzqylw2s2m "Seite öffnet sich in neuem Fenster") ![Image 11](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7) Autor DAAD Worldwide Datum 29.10.2026  
 Making the invisible visible: Atmospheric physicist Leonardo Alvarado uses satellite data to analyse harmful trace gases in the air. In the video, he explains what makes his research unique: ➡ www.daa ...
 
-[Zum Beitrag Zum Beitrag von daadworldwide.bsky.social auf bluesky](https://bsky.app/profile/daadworldwide.bsky.social/post/3myyzqylw2s2m "Seite öffnet sich in neuem Fenster") 
-*   [![Image 16: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://bsky.app/profile/daadworldwide.bsky.social/post/3mym7yhizly2v "Seite öffnet sich in neuem Fenster")
-
-© ![Image 17](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7)
-
-© Autor DAAD Worldwide Datum 24.10.2026  
+[Zum Beitrag von daadworldwide.bsky.social auf bluesky](https://bsky.app/profile/daadworldwide.bsky.social/post/3myyzqylw2s2m "Seite öffnet sich in neuem Fenster") 
+*   [![Image 12: - Zum Beitrag von daadworldwide.bsky.social auf bluesky](blob:http://localhost/dfff4c305bf19bb357468efe67e2de2f)](https://bsky.app/profile/daadworldwide.bsky.social/post/3mym7yhizly2v "Seite öffnet sich in neuem Fenster") ![Image 13](blob:http://localhost/305d1a12019bc8c915cf45f4c5cce6c7) Autor DAAD Worldwide Datum 24.10.2026  
 Glückwunsch an die Preisträger:innen des Fundamental Academic Values Award 2026! Mehr dazu: ➡️ https://www.daad.de/de/pressemitteilungen/2026/daad-zeichnet-einsatz-fuer-akademische-grundwerte-aus_fund ...
 
-[Zum Beitrag Zum Beitrag von daadworldwide.bsky.social auf bluesky](https://bsky.app/profile/daadworldwide.bsky.social/post/3mym7yhizly2v "Seite öffnet sich in neuem Fenster") 
+[Zum Beitrag von daadworldwide.bsky.social auf bluesky](https://bsky.app/profile/daadworldwide.bsky.social/post/3mym7yhizly2v "Seite öffnet sich in neuem Fenster") 
 
 ## Eine Auswahl unserer Bewerbungsfristen
-
-*   Stipendien ins Ausland
-*   Projekte
 
 *   ### Deutschlehren.International - Lehrassistenz-Stipendien für Deutsch an Hochschulen im Ausland Bewerbungen jetzt möglich
 
 Als Hochschulabsolventin oder Hochschulabsolvent der Geistes- und Sozialwissenschaften können Sie sich durch eine Lehrtätigkeit an einer Hochschule im Ausland im Bereich Deutsch als Fremdsprache oder Germanistik weiterqualifizieren.
 
 Fristenende:24.11.2026 Programm für:Graduierte 
-[zur Bewerbung zur Bewerbung Deutschlehren.International - Lehrassistenz-Stipendien für Deutsch an Hochschulen im Ausland](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/?status=&target=&subjectGrps=&intention=&daad=&q=deutschlehren&page=1&detail=56391741)
-
 *   ### DAAD-Lektorate Frist endet bald
 
 Sie arbeiten gern im internationalen Umfeld? Sie lehren gern an einer Hochschule und interessieren sich für die Förderung der deutschen Sprache und Kultur im Ausland? Dann werden Sie Teil des Netzwerks der DAAD-Lektorinnen und -Lektoren weltweit!
 
 Fristenende:10.11.2026 Programm für:Graduierte, Promovierte, Hochschullehrer 
-[zur Bewerbung zur Bewerbung DAAD-Lektorate](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/lehren-im-ausland/freie-lektorate-und-dozenturen/)
-
 *   ### DAAD-Fachlektorate Frist endet bald
 
 Sie arbeiten gern im internationalen Umfeld? Dann werden Sie Teil des Netzwerks der DAAD-Lektorinnen und -Lektoren weltweit! Fachlektorinnen und Fachlektoren unterrichten vorrangig in den Fächern Rechtswissenschaften, Geschichte, Wirtschafts-, Politik-, Sozialwissenschaften und Ingenieurwissenschaften mit deutschlandbezogenem Schwerpunkt.
 
 Fristenende:10.11.2026 Programm für:Graduierte, Promovierte, Hochschullehrer 
-[zur Bewerbung zur Bewerbung DAAD-Fachlektorate](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/lehren-im-ausland/freie-lektorate-und-dozenturen/detail/daad-lektorenprogramm-202728-fachlektorate-hauptausschreibung/?lr-id=11&lr-position=&lr-country=&lr-page=1&lr-offset=1)
 
 [Alle Bewerbungsfristen](https://www2.daad.de/ausland/studieren/stipendium/de/70-stipendien-finden-und-bewerben/)
-
-## Studieren, Forschen & Lehren
-
-*   Im Ausland
-*   In Deutschland
-
-*   ![Image 18: Eine Unterrrichtsklasse sitzt an Tischen in mehreren Reihen und ließt.](blob:http://localhost/0cd3557f37fb5791711e874596bff581)
-
-©  ### [Studieren](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/studieren-im-ausland/)   
-*   ![Image 19: Ein Mann gibt etwas auf seinem Laptop ein](blob:http://localhost/6b4f4eb308fdbc7b248f54c98541a062)
-
-©  ### [Praktika](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/praktika-im-ausland/)   
-*   ![Image 20: Eine Unterrrichtsklasse sitzt an Tischen in mehreren Reihen und ließt.](blob:http://localhost/0cd3557f37fb5791711e874596bff581)
-
-©  ### [Sprachen lernen & Sommerkurse](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/sprachen-lernen-sommerkurse-im-ausland/)   
-*   ![Image 21: Eine Unterrrichtsklasse sitzt an Tischen in mehreren Reihen und ließt.](blob:http://localhost/0cd3557f37fb5791711e874596bff581)
-
-©  ### [Forschen](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/forschen-im-ausland/)   
-*   ![Image 22: Eine Unterrrichtsklasse sitzt an Tischen in mehreren Reihen und ließt.](blob:http://localhost/0cd3557f37fb5791711e874596bff581)
-
-©  ### [Lehren](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/lehren-im-ausland/)   
-*   ![Image 23: Ein Mann gibt etwas auf seinem Laptop ein](blob:http://localhost/6b4f4eb308fdbc7b248f54c98541a062)
-
-©  ### [Stipendien & Finanzierung](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/stipendien-finanzierung/)   
-*   ![Image 24: Ein Mann gibt etwas auf seinem Laptop ein](blob:http://localhost/6b4f4eb308fdbc7b248f54c98541a062)
-
-©  ![Image 25: Logo: Studieren weltweit](blob:http://localhost/2e7b52c398f3032aae5e57749754bf30)### [studieren weltweit - Erlebe es!](https://www.studieren-weltweit.de/ "Seite öffnet sich in neuem Fenster")   
-*   ![Image 26: Ein Mann gibt etwas auf seinem Laptop ein](blob:http://localhost/6b4f4eb308fdbc7b248f54c98541a062)
-
-©  ### [Versicherung im Ausland](https://www.daad.de/de/im-ausland-studieren-forschen-lehren/stipendien-finanzierung/daad-versicherungen/versicherung-im-ausland/)   
 
 ## Was wir tun
 
 ### Entwicklungszusammenarbeit
 
-![Image 27: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 14: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Auf vielfältige Weise und mit einem differenzierten Angebot an Stipendien engagiert sich der DAAD als ein anerkannter Akteur in der Entwicklungszusammenarbeit.
 
-[Mehr Mehr über Entwicklungszusammenarbeit](https://www.daad.de/de/der-daad/was-wir-tun/entwicklungszusammenarbeit/)
-
-### Die deutsche Sprache fördern
-
-![Image 28: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
-
-Es gibt viele Gründe, die deutsche Sprache zu lernen und zu studieren. Der DAAD unterstützt dies weltweit.
-
-[Mehr Mehr über Die deutsche Sprache fördern](https://www.daad.de/de/der-daad/was-wir-tun/die-deutsche-sprache-foerdern/)
-
-### Marketing: Beratung & Service
-
-![Image 29: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
-
-Nutzen Sie die Angebote des DAAD, um mehr internationale Studierende für Ihre Hochschule zu gewinnen.
-
-[Mehr Mehr über Marketing: Beratung & Service](https://www.daad.de/de/infos-services-fuer-hochschulen/marketing-beratung-service/)
+[Mehr über Entwicklungszusammenarbeit](https://www.daad.de/de/der-daad/was-wir-tun/entwicklungszusammenarbeit/)
 
 ### DAAD KIWi
 
-![Image 30: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 15: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Das DAAD-Kompetenzzentrum Internationale Wissenschaftskooperationen (KIWi) unterstützt deutsche Hochschulen bei der Anbahnung und Durchführung ihrer internationalen Aktivitäten.
 
-[Mehr Mehr über DAAD KIWi](https://www.daad.de/de/infos-services-fuer-hochschulen/kompetenzzentrum/)
-
-### Internationale DAAD-Akademie
-
-![Image 31: iDA Logo](blob:http://localhost/4e883ae858577eb43df84e8546d42cfe)
-
-©
-
-Die iDA vermittelt Wissen, Kenntnisse und Kompetenzen zur Internationalisierung der deutschen Hochschulen.
-
-[Mehr Mehr über Internationale DAAD-Akademie](https://www.daad-akademie.de/de/ "Seite öffnet sich in neuem Fenster")
+[Mehr über DAAD KIWi](https://www.daad.de/de/infos-services-fuer-hochschulen/kompetenzzentrum/)
 
 ### Der DAAD in Europa
 
-![Image 32: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 16: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Im Auftrag des BMBF übernimmt der DAAD die Rolle als Nationale Agentur für EU-Hochschulzusammenarbeit.
 
-[Mehr Mehr über Der DAAD in Europa](https://eu.daad.de/de/ "Seite öffnet sich in neuem Fenster")
+[Mehr über Der DAAD in Europa](https://eu.daad.de/de/ "Seite öffnet sich in neuem Fenster")
 
 ### Alumniarbeit
 
-![Image 33: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 17: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Auch nach der Förderzeit möchten wir den Kontakt der Alumni untereinander und mit dem DAAD stärken.
 
-[Mehr Mehr über Alumniarbeit](https://www.daad.de/de/alumni/)
+[Mehr über Alumniarbeit](https://www.daad.de/de/alumni/)
 
 [Was wir tun](https://www.daad.de/de/der-daad/was-wir-tun/)
 
-![Image 34](blob:http://localhost/6cf7eabf3ff137d45f30e01d05abee30)
+![Image 18](blob:http://localhost/6cf7eabf3ff137d45f30e01d05abee30)
 
 ## Der DAAD
 
 ### Jahresbericht
 
-![Image 35: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 19: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Der Jahresbericht informiert über die wichtigsten Projekte und Zahlen sowie über die vielfältigen Aufgaben des DAAD.
 
-[Mehr Mehr über Jahresbericht](https://www.daad.de/de/der-daad/kommunikation-publikationen/berichte/jahresbericht/)
+[Mehr über Jahresbericht](https://www.daad.de/de/der-daad/kommunikation-publikationen/berichte/jahresbericht/)
 
 ### Newsletter
 
-![Image 36: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 20: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Erhalten Sie News, Infos zu Projekten, Veranstaltungen und Ausschreibungen sowie Reportagen aus aller Welt.
 
-[Mehr Mehr über Newsletter](https://www.daad.de/de/der-daad/kommunikation-publikationen/newsletter/)
+[Mehr über Newsletter](https://www.daad.de/de/der-daad/kommunikation-publikationen/newsletter/)
 
 ### DAAD-Perspektiven
 
-![Image 37: Globus](blob:http://localhost/3ad977302d83340c21c3c90f5eed432a)
-
-©
+![Image 21: Globus](blob:http://localhost/3ad977302d83340c21c3c90f5eed432a)
 
 Hochschulpolitische Stellungnahmen, Expertisen zur Internationalisierung oder Konzeptpapiere werden in der Reihe „DAAD-Perspektiven“ veröffentlicht.
 
-[Mehr Mehr über DAAD-Perspektiven](https://www.daad.de/de/der-daad/kommunikation-publikationen/standpunkte/)
+[Mehr über DAAD-Perspektiven](https://www.daad.de/de/der-daad/kommunikation-publikationen/standpunkte/)
 
 ### Zahlen & Fakten
 
-![Image 38: Studenten strömen aus einem Hörsaal](blob:http://localhost/2acfad83998890315c616dd2842dd5e2)
-
-©
+![Image 22: Studenten strömen aus einem Hörsaal](blob:http://localhost/2acfad83998890315c616dd2842dd5e2)
 
 Die wichtigsten Zahlen zum DAAD, über die Aktivitäten, seine Mitgliedshochschulen und die internationalen Partner.
 
-[Mehr Mehr über Zahlen & Fakten](https://www.daad.de/de/der-daad/was-wir-tun/zahlen-fakten/)
-
-### Vergabe & Ausschreibungen
-
-![Image 39: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
-
-Hier finden Sie eine Übersicht über unsere aktuellen öffentlichen Ausschreibungen und Vergabeverfahren.
-
-[Mehr Mehr über Vergabe & Ausschreibungen](https://www.daad.de/de/der-daad/vergabe-ausschreibungen/)
+[Mehr über Zahlen & Fakten](https://www.daad.de/de/der-daad/was-wir-tun/zahlen-fakten/)
 
 ### Karriere im DAAD
 
-![Image 40: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 23: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Im DAAD die internationale Zusammenarbeit und den weltweiten akademischen Austausch voranbringen.
 
-[Mehr Mehr über Karriere im DAAD](https://www.daad.de/de/der-daad/wer-wir-sind/karriere-im-daad/)
+[Mehr über Karriere im DAAD](https://www.daad.de/de/der-daad/wer-wir-sind/karriere-im-daad/)
 
 ### DAAD-Stiftung
 
-![Image 41: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
-
-©
+![Image 24: Teaserbild DAAD Stiftung](blob:http://localhost/34cdd6aa691e93e7cbc345f147d37eb6)
 
 Tragen Sie persönlich zur akademischen Ausbildung begabter junger Menschen bei. Die DAAD-Stiftung freut sich über Ihre Spende oder unterstützt Sie dabei, Stipendien-Pate zu werden.
 
-[Mehr Mehr über DAAD-Stiftung](https://www.daad-stiftung.de/de/ "Seite öffnet sich in neuem Fenster")
+[Mehr über DAAD-Stiftung](https://www.daad-stiftung.de/de/ "Seite öffnet sich in neuem Fenster")
 
 [Der DAAD](https://www.daad.de/de/der-daad/)
-
-## Anschrift
-
-Deutscher Akademischer Austauschdienst e.V.  
- Kennedyallee 50
-
-D-53175 Bonn
-
-[Alle Adressen im DAAD-Netzwerk](https://www.daad.de/de/der-daad/kontakt/anschriften-telefonnummern/)
-
-## DAAD Newsletter
-
-E-Mail-Adresse* 
-
-Ich möchte vom DAAD regelmäßig über aktuelle Neuigkeiten informiert werden. Meine Einwilligung kann ich über die Abmeldefunktion im Newsletter jederzeit widerrufen.
-
- E-Mail-Text (bitte nicht ausfüllen)  
-
-Anmelden
-
-## Nützliche Links
-
-*   [Offene Stipendien](https://www.daad.de/de/in-deutschland-studieren/stipendien/)
-*   [DAAD Büros weltweit](https://www.daad.de/de/der-daad/karte/daad-netzwerk/)
-*   [Strategie 2030](https://www.daad.de/de/der-daad/wer-wir-sind/strategie-2030/)
-*   [Karriere](https://www.daad.de/de/der-daad/wer-wir-sind/karriere-im-daad/)
-*   [Presse](https://www.daad.de/de/der-daad/kommunikation-publikationen/presse/)
-
-[](https://www.daad.de/de/#header-navs)
-
-![Image 42: DAAD - Deutscher Akademischer Austauschdienst - German Academic Exchange Service](blob:http://localhost/6706830898309ae146843ee2c7e29748)
-
-*   [Impressum](https://www.daad.de/de/impressum/)
-*   [Datenschutzerklärung](https://www.daad.de/de/datenschutzerklaerung/)
-*   Cookies
-*   [Erklärung Barrierefreiheit](https://www.daad.de/de/erklaerung-barrierefreiheit/)
-*   [Barriere melden](https://www.daad.de/de/barriere-melden/?barrierUrl=https://www.daad.de/de/)
-*   [](https://www.daad.de/de/gebaerdensprache/)
-*   [](https://www.daad.de/de/leichte-sprache/)
-
-*   [](https://www.facebook.com/DAAD.Worldwide/ "Seite öffnet sich in neuem Fenster")
-*   [](https://www.threads.net/@daad_worldwide "Seite öffnet sich in neuem Fenster")
-*   [](https://www.youtube.com/channel/UC2OducLYmtJGJ0zTCNr7NrA "Seite öffnet sich in neuem Fenster")
-*   [](https://www.instagram.com/daad_worldwide/ "Seite öffnet sich in neuem Fenster")
-*   [](https://www.linkedin.com/school/daad-worldwide "Seite öffnet sich in neuem Fenster")
-*   [](https://bsky.app/profile/daadworldwide.bsky.social "Seite öffnet sich in neuem Fenster")

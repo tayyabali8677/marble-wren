@@ -1,94 +1,15 @@
 ===== SOURCE PAGE: https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html =====
-Title: Page not found | U-M LSA
+Title: Just a moment...
 
 URL Source: https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html
 
-Warning: Target URL returned error 404: Not Found
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
-*   [U-M](https://umich.edu/)
-*   //
-*   [LSA](https://lsa.umich.edu/)
-*   //
-*   [Departments and Units](https://lsa.umich.edu/lsa/academics/departments-and-units.html)
-*   //
-*   [Majors and Minors](https://lsa.umich.edu/lsa/academics/majors-minors.html)
-*   //
-*   [Look To Michigan](https://lsa.umich.edu/lsa/look-to-michigan.html)
-*   //
-*   [LSA Course Guide](http://www.lsa.umich.edu/cg/)
-*   //
-*   [LSA Gateway](https://gateway.lsa.umich.edu/)
+![Image 1: Icon for lsa.umich.edu](https://lsa.umich.edu/favicon.ico)
 
-[![Image 1: LSA - College of Literature, Science, and The Arts - University of Michigan](https://lsa.umich.edu/content/dam/michigan-lsa/admin/logos/lsa-logo.png)](http://lsa.umich.edu/)
+## lsa.umich.edu
 
-### [](https://lsa.umich.edu/content/michigan-lsa/admin/errors/404.html)
+## Performing security verification
 
-### for
-
-*   [U-M](https://umich.edu/)
-*   [LSA](https://lsa.umich.edu/)
-*   [Departments and Units](https://lsa.umich.edu/lsa/academics/departments-and-units.html)
-*   [Majors and Minors](https://lsa.umich.edu/lsa/academics/majors-minors.html)
-*   [Look To Michigan](https://lsa.umich.edu/lsa/look-to-michigan.html)
-*   [LSA Course Guide](http://www.lsa.umich.edu/cg/)
-*   [LSA Gateway](https://gateway.lsa.umich.edu/)
-
-# Page not found
-
-We're sorry. The page you have requested could not be found.
-
-**https://lsa.umich.edu/studentacademicaffairs/undergraduate-students/scholarships.html**
-
-* * *
-
-### Some Helpful Resources
-
-Keyword Search of en 
-
-You may find these frequently visited LSA and university web resources helpful:
-
-[LSA Homepage](http://lsa.umich.edu/)
-
-[Majors and Minors](http://lsa.umich.edu/lsa/academics/majors-minors.html)
-
-[Departments and Units](http://lsa.umich.edu/lsa/academics/departments-and-units.html)
-
-[Support LSA](http://lsa.umich.edu/lsa/support-lsa.html)
-
-[U-M Gateway](http://umich.edu/)
-
-[Course Guide](http://www.lsa.umich.edu/cg/)
-
-[![Image 2: LSA - College of Literature, Science, and The Arts - University of Michigan](https://lsa.umich.edu/content/dam/michigan-lsa/admin/logos/lsa-logo.png)](https://lsa.umich.edu/)
-
-*   Information For 
-*   [Prospective Students](https://lsa.umich.edu/lsa/prospective-students.html)
-*   [Current Students](https://lsa.umich.edu/lsa/current-students.html)
-*   [Faculty and Staff](https://lsa.umich.edu/lsa/faculty-staff.html)
-*   [Alumni and Friends](https://lsa.umich.edu/lsa/alumni-friends.html)
-
-*   More about LSA 
-*   [About LSA](https://lsa.umich.edu/lsa/about.html)
-*   [How Do I Apply?](https://lsa.umich.edu/lsa/prospective-students/undergraduate/admissions.html)
-*   [News](https://lsa.umich.edu/lsa/news-events/all-news.html)
-*   [LSA Magazine](https://lsa.umich.edu/lsa/news-events/lsa-magazine.html)
-*   [Give](https://lsa.umich.edu/lsa/support-lsa/give-to-the-college.html)
-*   [Maps](https://lsa.umich.edu/lsa/about/maps.html)
-
-*   Student Resources 
-*   [Courses](https://lsa.umich.edu/lsa/academics/courses.html)
-*   [Academic Advising](https://lsa.umich.edu/lsa/current-students/undergraduate-students/academic-advising.html)
-*   [Majors and Minors](https://lsa.umich.edu/lsa/academics/majors-minors.html)
-*   [Departments and Units](https://lsa.umich.edu/lsa/academics/departments-and-units.html)
-*   [Global Studies](https://lsa.umich.edu/lsa/academics/engaged-learning/global-studies.html)
-*   [LSA Opportunity Hub](https://lsa.umich.edu/opportunityhub)
-
-*   Connect
-*   [Social Media](http://lsa.umich.edu/lsa/about/contact-us/social-media.html)
-*   [Update Contact Info](https://lsa.umich.edu/lsa/alumni-friends/get-informed/contact-info-update.html)
-*   [Contact Us](https://lsa.umich.edu/lsa/about/contact-us.html)
-*   [Privacy Statement](https://umich.edu/about/privacy)
-*   [Report Feedback](mailto:lsa.web.support@umich.edu?Subject=Report%20Bug%20/content/michigan-lsa/admin/errors/404&body=requestURL%20http://lsa.umich.edu/content/michigan-lsa/english/en/people/graduate-students/dbalvin.html)
-
- © [2026 Regents of the University of Michigan](http://regents.umich.edu/)
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

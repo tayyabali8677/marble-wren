@@ -127,17 +127,3 @@ Close
 [](https://www.wits.ac.za/postgraduate-hub/postgraduate-funding/)
 
 ShareThis Copy and Paste
-
-Chat with me
-
-# Kudubot
-
- Reply in 10 seconds. 
-
-My name is Kudubot. Start a conversation with me below. 
-
-##### Start Conversation
-
-Send us a message
-
-![Image 8: Start Conversation](https://widget.botsify.com/dist/images/Menu/start.png)

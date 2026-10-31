@@ -53,7 +53,7 @@ URL Source: https://hec.gov.pk/english/services/faculty/Start-Up%20Research%20Gr
 
 Final URL: https://www.hec.gov.pk/Pages/PageNotFoundError.aspx?requestUrl=https://www.hec.gov.pk/english/services/faculty/Start-Up%20Research%20Grant%20Program/Pages/Introduction.aspx
 
-Published Time: Sat, 31 Oct 2026 04:41:56 GMT
+Published Time: Sat, 31 Oct 2026 17:36:07 GMT
 
 Markdown Content:
 *   [![Image 1: header-logo](https://www.hec.gov.pk/Style%20Library/HEC/images/header-logo.svg)Higher Education Commission](https://www.hec.gov.pk/)

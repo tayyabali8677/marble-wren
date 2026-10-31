@@ -1,9 +1,15 @@
 ===== SOURCE PAGE: https://www.american.edu/admissions/scholarships/ =====
-Title: https://match.adsrvr.org/track/cmf/google
+Title: Just a moment...
 
 URL Source: https://www.american.edu/admissions/scholarships/
 
-Final URL: https://match.adsrvr.org/track/cmf/google?g_uuid=&gdpr=0&gdpr_consent=&ttd_tdid=eb6fefb1-5576-4a69-9110-4e99df38659e&google_gid=CAESELlGIwb1Z1aaMDkGORqf2gg&google_cver=1
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
-A 1x1 image, likely be a tacker probe
+![Image 1: Icon for www.american.edu](https://www.american.edu/favicon.ico)
+
+## www.american.edu
+
+## Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.

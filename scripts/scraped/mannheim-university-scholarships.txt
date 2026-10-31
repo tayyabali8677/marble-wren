@@ -6,13 +6,20 @@ URL Source: https://www.uni-mannheim.de/en/students/scholarships/
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
+[Skip to main navigation](https://www.uni-mannheim.de/en/students/scholarships/#main-navigation)[Skip to page content](https://www.uni-mannheim.de/en/students/scholarships/#page-content)[Skip to footer](https://www.uni-mannheim.de/en/students/scholarships/#page-footer)
+
+[![Image 1: Logo of the University of Mannheim](https://www.uni-mannheim.de/typo3conf/ext/uma_site/Resources/Public/Images/Icons/logo-universitaet-mannheim-en.svg)](https://www.uni-mannheim.de/en/)
+
+*   Schools 
+    *   [Department of Law](https://www.jura.uni-mannheim.de/en/)
+    *   [Department of Economics](https://www.vwl.uni-mannheim.de/en/)
+    *   [Business School](https://www.bwl.uni-mannheim.de/en/)
+    *   [School of Social Sciences](https://www.sowi.uni-mannheim.de/en/)
+    *   [School of Humanities](https://www.phil.uni-mannheim.de/en/)
+    *   [School of Business Informatics and Mathematics](https://www.wim.uni-mannheim.de/en/)
+
 [](https://www.uni-mannheim.de/en/)
 
-*   [Academics](https://www.uni-mannheim.de/en/academics/)
-*   [Research](https://www.uni-mannheim.de/en/research/)
-*   [Campus](https://www.uni-mannheim.de/en/campus/)
-*   [About](https://www.uni-mannheim.de/en/about/profile/)
-*   [Schools](https://www.uni-mannheim.de/en/students/scholarships/)
 *   [Intranet](https://intranet.uni-mannheim.de/en/)
 
  Information hotline: [+49 621 181-2222](tel:+496211812222)  
@@ -488,7 +495,7 @@ Markdown Content:
                 *   [E-learning course Mannheim Data Literacy (MaDaLi²)](https://www.uni-mannheim.de/en/about/teaching/teaching-projects/data-literacy/e-learning-course-mannheim-data-literacy-madali2/)
 
             *   [Service Learning](https://www.uni-mannheim.de/en/zlbi/educational-innovation/theory-and-background/service-learning/)
-            *   [Lehre@ENGAGE.EU](https://www.uni-mannheim.de/en/about/teaching/funds-and-awards/lehreengageeu-fund/)
+            *   [Lehre ENGAGE.EU](https://www.uni-mannheim.de/en/about/teaching/funds-and-awards/lehreengageeu-fund/)
 
     *   [Getting Involved](https://www.uni-mannheim.de/en/about/getting-involved/)
         *   [University of Mannheim Foundation](https://www.uni-mannheim.de/en/foundation/)
@@ -498,29 +505,7 @@ Markdown Content:
 
     *   [Counseling and Services](https://www.uni-mannheim.de/en/about/counseling-and-services/)
 
-*   [Schools](https://www.uni-mannheim.de/en/students/scholarships/)
-    *   [Department of Law](https://www.jura.uni-mannheim.de/en/)
-    *   [Department of Economics](https://www.vwl.uni-mannheim.de/en/)
-    *   [Business School](https://www.bwl.uni-mannheim.de/en/)
-    *   [School of Social Sciences](https://www.sowi.uni-mannheim.de/en/)
-    *   [School of Humanities](https://www.phil.uni-mannheim.de/en/)
-    *   [School of Business Informatics and Mathematics](https://www.wim.uni-mannheim.de/en/)
-
-*   [Intranet](https://intranet.uni-mannheim.de/en/)
-
 +
-
-[Skip to main navigation](https://www.uni-mannheim.de/en/students/scholarships/#main-navigation)[Skip to page content](https://www.uni-mannheim.de/en/students/scholarships/#page-content)[Skip to footer](https://www.uni-mannheim.de/en/students/scholarships/#page-footer)
-
-[![Image 1: Logo of the University of Mannheim](https://www.uni-mannheim.de/typo3conf/ext/uma_site/Resources/Public/Images/Icons/logo-universitaet-mannheim-en.svg)](https://www.uni-mannheim.de/en/)
-
-*   Schools 
-    *   [Department of Law](https://www.jura.uni-mannheim.de/en/)
-    *   [Department of Economics](https://www.vwl.uni-mannheim.de/en/)
-    *   [Business School](https://www.bwl.uni-mannheim.de/en/)
-    *   [School of Social Sciences](https://www.sowi.uni-mannheim.de/en/)
-    *   [School of Humanities](https://www.phil.uni-mannheim.de/en/)
-    *   [School of Business Informatics and Mathematics](https://www.wim.uni-mannheim.de/en/)
 
 [](https://www.uni-mannheim.de/barrierefreiheit/)
 
@@ -624,9 +609,3 @@ Do not allow tracking cookies
 Tracking cookies are currently not allowed.
 
 Allow tracking cookies
-
-×
-**How would you like to open the file?**
-
-- [x]  Remember for next time
-[View PDF document](https://www.uni-mannheim.de/en/students/scholarships/#)[Download PDF document](https://www.uni-mannheim.de/en/students/scholarships/#)

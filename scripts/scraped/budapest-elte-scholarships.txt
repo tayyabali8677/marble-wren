@@ -3,8 +3,6 @@ Title: Eötvös Loránd University
 
 URL Source: https://www.elte.hu/en/scholarships
 
-Published Time: Sat, 31 Oct 2026 04:30:01 GMT
-
 Warning: Target URL returned error 404: Not Found
 
 Markdown Content:
@@ -974,6 +972,13 @@ Markdown Content:
 *   [Research](https://www.elte.hu/en/research)
 *   [Innovation](https://www.elte.hu/en/innovation)
 *   [University life](https://www.elte.hu/en/university-life)
+
+1.   [V. Excellence in Higher Education Conference](https://www.elte.hu/en/node/334042)
+2.   [SemioSyS 2026 Student Conference](https://www.elte.hu/en/semiosys-2026-student-conference)
+3.   [Pioneers of Innovation](https://www.elte.hu/en/pioneers-of-innovation)
+4.   [4th Students' Letters Conference 2026](https://www.elte.hu/en/node/333199)
+5.   [CREATE 30 Conference](https://www.elte.hu/en/create-30-conference)
+[More results](https://www.elte.hu/en/search?query=)
 
 ## User account menu
 

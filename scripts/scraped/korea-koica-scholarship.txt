@@ -1,12 +1,11 @@
 ===== SOURCE PAGE: https://www.koica.go.kr/sites/koica_en/main.do =====
-Title: 404 Not Found
+Title: K2WebWizard
 
 URL Source: https://www.koica.go.kr/sites/koica_en/main.do
 
-Warning: Target URL returned error 404: Not Found
 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 
 Markdown Content:
-# Not Found
+## Inform.
 
-The requested URL was not found on this server.
+I can not find the page you want.

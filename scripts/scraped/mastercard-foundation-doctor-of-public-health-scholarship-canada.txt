@@ -75,7 +75,6 @@ Netherlands
 New Zealand
 Nigeria
 Online
-Pakistan
 Peru
 Philippines
 Poland
@@ -109,10 +108,10 @@ Miscellaneous
 Deadline Approaching
 Conferences
 One Young World Leading Scholarship 2026 in South Africa (Fully Funded)
-Africa| 13 Hours
+Africa| 20 Minutes
 Fellowships
 TWAS-SISSA-Lincei Research Visits Programme 2026
-| 19 Hours
+| 6 Hours
 Fellowships
 Gloria’s Foundation Fellowship 2027
 | 1 Day
@@ -124,7 +123,7 @@ Join Now: International Physics Competition 2026
 Online| 1 Day
 Awards
 Bennington Young Scientists Awards 2026–2027
-Online| 2 Days
+Online| 1 Day
 Grants
 The CGP Opportunity and Innovation Grants 2026
 Online| 2 Days
@@ -137,7 +136,7 @@ Anzisha Fellowship for Young African Entrepreneurs 2027
 Africa| 10 Days
 Competitions
 Carnegie Challenge for Civic Leadership 2027
-| 93 Days
+| 92 Days
 Awards
 EQUALS in Tech Awards 2027
 Online| 7 Days
@@ -152,13 +151,13 @@ United Diplomats Global Assembly Bangkok 2027 (UDGA) Fully Funded MUN
 Thailand| 30 Days
 Fellowships
 TWAS-SISSA-Lincei Research Visits Programme 2026
-| 19 Hours
+| 6 Hours
 Fellowships
 The World Bank Government Analytics Fellowship 2027
 | 16 Days
 Fellowships
 Harvard LEAD Fellowship for Global Health Leaders 2027–2028
-| 16 Days
+| 15 Days
 Competitions
 Join Now: International Physics Competition 2026
 Online| 1 Day
@@ -284,7 +283,6 @@ Netherlands
 New Zealand
 Nigeria
 Online
-Pakistan
 Peru
 Philippines
 Poland
@@ -318,10 +316,10 @@ Miscellaneous
 Deadline Approaching
 Conferences
 One Young World Leading Scholarship 2026 in South Africa (Fully Funded)
-Africa| 13 Hours
+Africa| 20 Minutes
 Fellowships
 TWAS-SISSA-Lincei Research Visits Programme 2026
-| 19 Hours
+| 6 Hours
 Fellowships
 Gloria’s Foundation Fellowship 2027
 | 1 Day
@@ -333,7 +331,7 @@ Join Now: International Physics Competition 2026
 Online| 1 Day
 Awards
 Bennington Young Scientists Awards 2026–2027
-Online| 2 Days
+Online| 1 Day
 Grants
 The CGP Opportunity and Innovation Grants 2026
 Online| 2 Days
@@ -346,7 +344,7 @@ Anzisha Fellowship for Young African Entrepreneurs 2027
 Africa| 10 Days
 Competitions
 Carnegie Challenge for Civic Leadership 2027
-| 93 Days
+| 92 Days
 Awards
 EQUALS in Tech Awards 2027
 Online| 7 Days
@@ -361,13 +359,13 @@ United Diplomats Global Assembly Bangkok 2027 (UDGA) Fully Funded MUN
 Thailand| 30 Days
 Fellowships
 TWAS-SISSA-Lincei Research Visits Programme 2026
-| 19 Hours
+| 6 Hours
 Fellowships
 The World Bank Government Analytics Fellowship 2027
 | 16 Days
 Fellowships
 Harvard LEAD Fellowship for Global Health Leaders 2027–2028
-| 16 Days
+| 15 Days
 Competitions
 Join Now: International Physics Competition 2026
 Online| 1 Day
