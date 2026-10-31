@@ -42,7 +42,7 @@ Preferences Decline Accept
 *   [News](https://www.bristol.ac.uk/news/)
 *   [People](https://www.bristol.ac.uk/people/)
 
-[![Image 1: University of Bristol logo](https://www.bristol.ac.uk/assets/responsive-web-project/2.7.5/images/logos/uob-logo.svg)](https://www.bristol.ac.uk/ "Return to homepage")
+[![Image 1: University of Bristol logo](https://www.bristol.ac.uk/assets/responsive-web-project/2.7.8/images/logos/uob-logo.svg)](https://www.bristol.ac.uk/ "Return to homepage")
 
 *   [Current students](https://www.bristol.ac.uk/students/)
 *   [Current staff](https://www.bristol.ac.uk/staff/)

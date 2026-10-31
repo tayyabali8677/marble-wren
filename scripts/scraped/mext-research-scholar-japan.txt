@@ -3,6 +3,8 @@ Title: 404 File not found
 
 URL Source: https://www.studyinjapan.go.jp/en/smap_stopj-applications_researcher.html
 
+Published Time: Fri, 23 Oct 2026 01:48:49 GMT
+
 Markdown Content:
 [![Image 1: STUDY in JAPAN](https://www.studyinjapan.go.jp/ja/assets/images/common/study_in_Japan_logo.svg)](https://www.studyinjapan.go.jp/en/)Government-approved information site
 

@@ -3,7 +3,7 @@ Title: Eötvös Loránd University
 
 URL Source: https://www.elte.hu/en/scholarships
 
-Published Time: Fri, 30 Oct 2026 12:20:07 GMT
+Published Time: Sat, 31 Oct 2026 04:30:01 GMT
 
 Warning: Target URL returned error 404: Not Found
 
@@ -973,7 +973,7 @@ Markdown Content:
 *   [Education](https://www.elte.hu/en/education)
 *   [Research](https://www.elte.hu/en/research)
 *   [Innovation](https://www.elte.hu/en/innovation)
-*   [University life](https://www.elte.hu/en/university-life "About student services and facilities and more")
+*   [University life](https://www.elte.hu/en/university-life)
 
 ## User account menu
 
@@ -1009,8 +1009,8 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Degree programs](https://www.elte.hu/en/degree-programs?m=46)
 *   [Incoming mobility](https://www.elte.hu/en/content/incoming-mobility.t.56?m=35)
 *   [Erasmus+ Traineeships at ELTE](https://www.elte.hu/Erasmus_traineeships_at_ELTE)
-*   [Summer university](https://www.elte.hu/en/summer-university "Information about summer universities organized by ELTE")
-*   [Practical matters](https://www.elte.hu/en/practical-matters "Practical information is collected here")
+*   [Summer university](https://www.elte.hu/en/summer-university)
+*   [Practical matters](https://www.elte.hu/en/practical-matters)
 
 *   [Request information](https://www.elte.hu/en/request_information)
 *   [Neptun](https://neptun.elte.hu/)
@@ -1027,3 +1027,11 @@ H-1053 Budapest, Egyetem tér 1-3
 *   [Terms of Use](https://www.elte.hu/en/terms-of-use)
 
  Powered by [Studio Present](https://www.studiopresent.hu/)
+
+## Use of personal data and cookies
+
+We use cookies to improve user experience - you can find more information in our [Privacy notice](https://www.elte.hu/en/privacy-notice-0).
+
+[Customize](https://www.elte.hu/en/scholarships# "Open consent dialog")
+
+Decline Accept

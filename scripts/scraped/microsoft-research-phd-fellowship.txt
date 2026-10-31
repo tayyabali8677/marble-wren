@@ -186,7 +186,7 @@ About our ads
 
 ===== SOURCE PAGE: https://www.microsoft.com/education/how-to-buy =====
 How to Buy Microsoft for Education | Microsoft Education
-This is the Trace Id: 60aad5d9f1743ae37c2403dca80da8c2
+This is the Trace Id: ae310e6fdceaf202cb42b85ecc401baf
 Skip to main content
 Education
 Azure for education
@@ -399,9 +399,9 @@ Markdown Content:
 
 Build AI-powered solutions, monetize through Microsoft Marketplace, and scale revenue through Microsoft expertise, skilling, and investments.
 
-*   #### [Trusted expertise](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabfdbd3a90-f156-4445-993f-18078672394a-1)
-*   #### [Savings & investments](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabfdbd3a90-f156-4445-993f-18078672394a-2)
-*   #### [Skilled teams](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTabfdbd3a90-f156-4445-993f-18078672394a-3)
+*   #### [Trusted expertise](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab3f107858-71df-4b01-9377-991ddfff0d88-1)
+*   #### [Savings & investments](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab3f107858-71df-4b01-9377-991ddfff0d88-2)
+*   #### [Skilled teams](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexTab3f107858-71df-4b01-9377-991ddfff0d88-3)
 
 ![Image 3: Person working on a laptop.](https://partner.microsoft.com/-/media/b5cd9da3a86441468a8a61d4b016bb9c.png)
 
@@ -457,13 +457,13 @@ Turn Marketplace presence into transactions through workshops, the [Marketplace 
 
 Scale Marketplace Billed Sales (MBS) and co-sell engagement by building your capabilities through [Partner Skilling Hub](https://skilling-hub.com/ "Partner Skilling Hub") resources, including AI certification vouchers, to advance team credentials.
 
-*   ##### [Build & Publish](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-1)
-*   ##### [Grow](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-2)
-*   ##### [Differentiate](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-3)
+*   ##### [Build & Publish](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-1)
+*   ##### [Grow](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-2)
+*   ##### [Differentiate](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-3)
 
-*   ##### [Build & Publish](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-1)
-*   ##### [Grow](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-2)
-*   ##### [Differentiate](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitchera06d8af1-4cc4-4b22-aed4-a7ce23e01c1d-3)
+*   ##### [Build & Publish](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-1)
+*   ##### [Grow](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-2)
+*   ##### [Differentiate](https://partner.microsoft.com/en-us/partnership/frontier-accelerate-for-marketplace?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98#FlexContentSwitcher4efde6e7-f672-44aa-8518-aa6c56b5d8de-3)
 
 ## Build & Publish
 

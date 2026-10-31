@@ -642,7 +642,7 @@ Sat., Sun.: Closed
 
 ## Footer Menu
 
-Manage Cookies
+ Manage Cookies 
 
 *   [Contact Us](https://srfs.upenn.edu/contact)
 *   [University of Pennsylvania](https://www.upenn.edu/)
@@ -650,64 +650,3 @@ Manage Cookies
 *   [Report Accessibility Issues and Get Help](https://accessibility.web-resources.upenn.edu/get-help)
 
 ©2026 University of Pennsylvania, Philadelphia, PA 19104
-
-The University of Pennsylvania may work with third parties to deliver this website, to understand how it is used, and to provide services to you. These third parties may have access to information about your interactions with this website for these purposes. They may do so by use of cookies and other technologies. Your continued use of this website expresses your agreement. [Privacy Policy](https://www.upenn.edu/about/privacy-policy)
-
-Manage Cookies Accept Cookies
-
-![Image 7: University of Pennsylvania](https://cdn.cookielaw.org/logos/f1bcf7cc-5894-4cf9-a8a2-ab00ead7029e/019f6637-3c57-7356-b25c-0ef88c6f5f7e/dff7c71e-8f9f-47e6-90f4-3b6114f3f746/UniversityofPennsylvania_FullLogo_RGB.png)
-
-## Manage Your Cookie Settings
-
-## Manage Your Cookie Settings
-
-*   ### Your Privacy 
-*   ### Strictly Necessary Cookies 
-*   ### Performance Cookies 
-*   ### Targeting Cookies 
-
-#### Your Privacy
-
-University of Pennsylvania websites use cookies and other tracking technologies to collect data and improve your experience. If you continue to use our websites, please note that you are agreeing to our using these cookies and tracking technologies. Click on the cookie category headings to find out more about the types of cookies we use and to change the default cookie settings. Note that blocking some types of cookies may impact your experience of the site and services we are able to offer.   
-[University of Pennsylvania Privacy Policy](https://www.upenn.edu/about/privacy-policy)
-
-**User ID:** 1274cefb-387e-4349-88aa-9b9d8edea073
-
-#### Strictly Necessary Cookies
-
-Always Active
-
-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
-
-#### Performance Cookies
-
-- [x] Performance Cookies Inactive
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-#### Targeting Cookies
-
-- [x] Targeting Cookies Inactive
-
-These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-### Cookie List
-
-Consent Leg.Interest
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-- [x] checkbox label label
-
-Clear
-*   - [x] checkbox label label 
-
-Apply Cancel
-
-Confirm My Choices
-
-Allow All
-
-[![Image 8: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)

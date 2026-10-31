@@ -1,43 +1,10 @@
 ===== SOURCE PAGE: https://www.ias.edu/ =====
-Title: Home | Institute for Advanced Study
+Title: Just a moment...
 
 URL Source: https://www.ias.edu/
 
+Warning: Target URL returned error 403: Forbidden
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+
 Markdown Content:
-## [IAS Co-Founds Advanced Research Consortium](https://www.ias.edu/news/ias-co-founds-advanced-research-consortium)
-
-October 26, 2026
-
-The Institute for Advanced Study has joined with the Max Planck Society for the Advancement of Science and the Weizmann Institute of Science to [establish the Advanced Research Consortium](https://advancedresearchconsortium.org/press-release) (ARC), a new institution dedicated to fundamental, curiosity-driven research and scholarly collaboration across geographic and disciplinary boundaries.
-
-## [Faculty and Members Book 2026–27](https://www.ias.edu/faculty-and-members-book-2026-27)
-
-The Faculty and Members Book illustrates the breadth, depth, and excellence of the Institute’s academic community—featuring, in 2026–27, over 250 visiting scholars representing 43 nations around the world, along with the Institute’s permanent Faculty and Emeriti.
-
-[download the PDF](https://www.ias.edu/sites/default/files/IAS_Faculty%20and%20Members_2026%E2%80%9327_10-29-26.pdf)
-
-## [Sabine Schmidtke Receives Honorary Doctorate from the Hebrew University of Jerusalem](https://www.ias.edu/news/sabine-schmidtke-receives-honorary-doctorate-hebrew-university-jerusalem)
-
-October 19, 2026
-
-In recognition of her "extraordinarily wide-ranging, original, and dynamic scholarship" that demonstrates "the multifaceted cultural contexts in which theology developed in the Islamicate world," the [Hebrew University of Jerusalem](https://bog.huji.ac.il/honorees) has presented[Sabine Schmidtke](https://www.ias.edu/scholars/schmidtke), Professor in the[School of Historical Studies](https://www.ias.edu/hs), with an honorary doctorate.
-
-## [Hunting Down Guidance Laws](https://www.ias.edu/ideas/hunting-down-guidance-laws)
-
-How do lions control their steering and speed during the split-second, high-stakes final moments of a hunt? In an unexpected collaboration with a Princeton University ethologist, [Hadleigh Frost](https://www.ias.edu/scholars/hadleigh-frost), Member (2024–27) in the [School of Natural Sciences](https://www.ias.edu/sns), turned his skills, honed in theoretical physics, to providing an answer.
-
-## [Biblical Scholar Martti Nissinen Named Academician of Science](https://www.ias.edu/news/biblical-scholar-martti-nissinen-named-academician-science)
-
-October 20, 2026
-
-[Martti Nissinen](https://www.ias.edu/scholars/martti-nissinen), Member (2008–09, 2016) and Visitor (2011) in the [School of Historical Studies](https://www.ias.edu/hs), has received the honorary title of [Academician of Science](https://www.aka.fi/en/about-the-rcf/about-us/academicians-of-science/), the highest honor that can be bestowed on any individual scholar in Finland. His work has "significantly enhanced our understanding of how biblical texts were formed," placing them within the broader context of the ancient Near East.
-
-## [Charles Simonyi Awarded John von Neumann Professorship](https://www.ias.edu/news/charles-simonyi-awarded-john-von-neumann-professorship)
-
-October 15, 2026
-
-Charles Simonyi, Chair Emeritus of the Institute’s [Board of Trustees](https://www.ias.edu/about/trustees), has been awarded a [John von Neumann Professorship](https://www.bme.hu/en/john-von-neumann-professors) by the Budapest University of Technology and Economics (BME). Simonyi's receipt of this honor carries special resonance at IAS, where [John von Neumann](https://www.ias.edu/scholars/von-neumann) served as one of the founding Professors in the [School of Mathematics](https://www.ias.edu/math).
-
-## [Crossing Disciplines, Crossing Borders](https://www.ias.edu/ideas/crossing-disciplines-crossing-borders)
-
-[E. Tendayi Achiume](https://www.ias.edu/scholars/e-tendayi-achiume), Ashvin B. Chhabra and Daniela Bonafede-Chhabra Member in the [School of Social Science](https://www.ias.edu/sss) (2024–25), describes how cross-disciplinary exchanges at the Institute for Advanced Study, including a flute performance by Shabaka Hutchings, inspired new perspectives on her research.
+Enable JavaScript and cookies to continue

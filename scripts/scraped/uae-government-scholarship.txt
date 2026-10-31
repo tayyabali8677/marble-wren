@@ -5,7 +5,7 @@ URL Source: https://mohesr.gov.ae/en-us/Pages/scholarships.aspx
 
 Final URL: https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx
 
-Published Time: Thu, 26 Feb 2026 00:46:36 GMT
+Published Time: Thu, 26 Feb 2026 00:18:23 GMT
 
 Markdown Content:
 [Turn on more accessible mode](https://www.mohesr.gov.ae/Pages/PageNotFoundError.aspx?requestUrl=https://www.mohesr.gov.ae/en-us/Pages/scholarships.aspx#)

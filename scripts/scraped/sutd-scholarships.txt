@@ -3,8 +3,6 @@ Title: Page not found - Singapore University of Technology and Design (SUTD)
 
 URL Source: https://www.sutd.edu.sg/Admissions/Financial-Aid-Scholarships
 
-Warning: Target URL returned error 404: Not Found
-
 Markdown Content:
 [](https://www.sutd.edu.sg/Admissions/Financial-Aid-Scholarships#)![Image 1: Modal image](https://www.sutd.edu.sg/wp-content/themes/SUTD-main/assets/images/placeholder/cards-listing-placeholder.png)
 
@@ -36,150 +34,151 @@ Description
 *   [Partner with SUTD](https://www.sutd.edu.sg/about/partnering-with-sutd)
 *   [Resources](https://www.sutd.edu.sg/resources)
 
-*   [Design·AI Education](https://www.sutd.edu.sg/education)
-
-[Design·AI Education](https://www.sutd.edu.sg/education) 
-
- STUDY  
-    *   [Undergraduate](https://www.sutd.edu.sg/education/undergraduate)
-    *   [Graduate](https://www.sutd.edu.sg/admissions/graduate/masters/)
-    *   [Continuing education (SUTD Academy)](https://www.sutd.edu.sg/admissions/academy/)
-    *   [42 Singapore](https://www.42singapore.sg/)
-
- MORE 
-
-    *   [Library](https://mylibrary.sutd.edu.sg/)
-    *   [Accreditation](https://www.sutd.edu.sg/education/accreditation)
-    *   [Undergraduate courses](https://www.sutd.edu.sg/education/undergraduate/courses)
-
-* * *
-
- PILLARS, CLUSTERS & PROGRAMMES 
-
-    *    ASD  [Architecture and Sustainable Design](https://www.sutd.edu.sg/asd)
-    *    DAI  [Design and Artificial Intelligence](https://www.sutd.edu.sg/dai)
-    *    EPD  [Engineering Product Development](https://www.sutd.edu.sg/epd)
-    *    ESD  [Engineering Systems and Design](https://www.sutd.edu.sg/esd)
-    *    HASS  [Humanities, Arts and Social Sciences](https://www.sutd.edu.sg/hass)
-    *    ISTD  [Information Systems Technology and Design](https://www.sutd.edu.sg/istd)
-    *    SMT  [Science, Mathematics and Technology](https://www.sutd.edu.sg/smt)
-
-*   [Design·AI Research](https://www.sutd.edu.sg/research)
-
-[Design·AI Research](https://www.sutd.edu.sg/research) 
-
- OVERVIEW  
-    *   [Research news](https://www.sutd.edu.sg/research/research-news/)
-    *   [Research centres](https://www.sutd.edu.sg/research/research-centres)
-    *   [Research programmes and fellowship](https://www.sutd.edu.sg/research/research-programmes-fellowships)
-
- RESEARCH ADMINISTRATION 
-
-    *   [Research integrity](https://www.sutd.edu.sg/research/research-integrity)
-    *   [Institutional Review Board (IRB)](https://www.sutd.edu.sg/research/institutional-review-board/)
-
- MORE 
-
-    *   [Faculty](https://www.sutd.edu.sg/about/people/faculty)
-    *   [Library](https://mylibrary.sutd.edu.sg/)
-
-*   [Design·AI Innovation](https://www.sutd.edu.sg/innovation)
-
-[Design·AI Innovation](https://www.sutd.edu.sg/innovation) 
-
- INNOVATION ECOSYSTEM  
-    *   [Design·AI Innovation and Venture Exploration (DIVE)](https://www.sutd.edu.sg/dive/)
-    *   [Future of Innovation](https://www.sutd.edu.sg/future-of-innovation/)
-    *   [Educational technology](https://www.sutd.edu.sg/innovation/educational-technology)
-    *   [Fabrication lab](https://www.sutd.edu.sg/innovation/fabrication-lab)
-
- INNOVATION SHOWCASE 
-
-    *   [Book of Innovations](https://www.sutd.edu.sg/book-of-innovations)
-
- INNOVATION FOR COMMUNITY 
-
-    *   [Design Innovation (Consultancy & Training)](https://www.sutd.edu.sg/innovation/design-innovation/)
-
- INNOVATION IN EDUCATION 
-
-    *   [daVinci@SUTD Experience](https://www.sutd.edu.sg/innovation/davincisutd/)
-    *   [STEAMxD Immersion Programme](https://www.sutd.edu.sg/innovation/davincisutd/steamxd-immersion-programme/)
-    *   [Digital Learning Capability Centre (DLCC)](https://dlcc.sutd.edu.sg/)
-
-*   [Design·AI Enterprise](https://www.sutd.edu.sg/enterprise)
-
-[Design·AI Enterprise](https://www.sutd.edu.sg/enterprise) 
-
- PARTNERING CORPORATES  
-    *   [Research collaborations](https://www.sutd.edu.sg/enterprise/research-collaborations)
-    *   [Technology licensing](https://www.sutd.edu.sg/enterprise/technology-licensing)
-    *   [Translational Research Lab (DesignZ)](https://www.sutd.edu.sg/research/research-centres/designz/)
-
- SUPPORTING ENTREPRENEURS 
-
-    *   [Venture and incubation experience](https://www.sutd.edu.sg/enterprise/venture-innovation-entrepreneurship)
-
-*   [Admissions](https://www.sutd.edu.sg/admissions)
-
-[Admissions](https://www.sutd.edu.sg/admissions) 
-
- PROGRAMMES  
-    *   [Undergraduate](https://www.sutd.edu.sg/admissions/undergraduate)
-    *   [Graduate](https://www.sutd.edu.sg/admissions/graduate/masters/)
-    *   [Continuing Education (SUTD Academy)](https://www.sutd.edu.sg/admissions/academy)
-    *   [42 Singapore](https://www.42singapore.sg/admissions/)
-
-*   [Campus life](https://www.sutd.edu.sg/campus-life)
-
-[Campus life](https://www.sutd.edu.sg/campus-life) 
-
- STUDENT EXPERIENCE  
-    *   [Students Opportunities Programme](https://www.sutd.edu.sg/campus-life/students-opportunities-programme/)
-    *   [Student life](https://www.sutd.edu.sg/campus-life/student-life)
-    *   [Global experience and exchange](https://www.sutd.edu.sg/campus-life/global-experience-and-exchange/)
-    *   [Career development](https://www.sutd.edu.sg/campus-life/career-development/)
-    *   [Student well-being](https://www.sutd.edu.sg/campus-life/wellbeing-services/)
-
- CAMPUS 
-
-    *   [Academic facilities](https://www.sutd.edu.sg/campus-life/academic-facilities/)
-    *   [Housing](https://www.sutd.edu.sg/campus-life/housing/)
-    *   [Sports and recreation centre](https://www.sutd.edu.sg/campus-life/sports-and-recreation-centre/)
-    *   [F&B and services](https://www.sutd.edu.sg/campus-life/fnb-and-services/dining)
-    *   [Library](https://mylibrary.sutd.edu.sg/)
-
-*   [About](https://www.sutd.edu.sg/about)
-
-[About](https://www.sutd.edu.sg/about) 
-
- OVERVIEW  
-    *   [Design·AI](https://www.sutd.edu.sg/about/design-ai/)
-    *   [At a glance](https://www.sutd.edu.sg/about/at-a-glance)
-    *   [Diversity and inclusion](https://www.sutd.edu.sg/about/diversity-inclusion)
-    *   [Sustainability](https://www.sutd.edu.sg/about/sustainability)
-
- PEOPLE 
-
-    *   [Leadership](https://www.sutd.edu.sg/about/people/leadership)
-    *   [Board of Trustees](https://www.sutd.edu.sg/about/people/board-of-trustees)
-    *   [President Emeritus](https://www.sutd.edu.sg/about/people/president-emeritus)
-    *   [Professorships](https://www.sutd.edu.sg/about/people/professorships/)
-    *   [Faculty](https://www.sutd.edu.sg/about/people/faculty)
-
- MORE 
-
-    *   [Thought leadership](https://www.sutd.edu.sg/about/thought-leadership/)
-    *   [News and happenings](https://www.sutd.edu.sg/about/happenings)
-    *   [Pressroom and publications](https://www.sutd.edu.sg/about/publications)
-    *   [Careers at SUTD](https://www.sutd.edu.sg/about/careers)
-    *   [Partnering with SUTD](https://www.sutd.edu.sg/about/partnering-with-sutd)
+*   [Design·AI Education](https://www.sutd.edu.sg/education) 
+*   [Design·AI Research](https://www.sutd.edu.sg/research) 
+*   [Design·AI Innovation](https://www.sutd.edu.sg/innovation) 
+*   [Design·AI Enterprise](https://www.sutd.edu.sg/enterprise) 
+*   [Admissions](https://www.sutd.edu.sg/admissions) 
+*   [Campus life](https://www.sutd.edu.sg/campus-life) 
+*   [About](https://www.sutd.edu.sg/about) 
 
 [](https://www.sutd.edu.sg/Admissions/Financial-Aid-Scholarships#)
 
  On this page
 
  Popular searches
+
+[Design·AI Education](https://www.sutd.edu.sg/education)
+
+ STUDY 
+
+*   [Undergraduate](https://www.sutd.edu.sg/education/undergraduate)
+*   [Graduate](https://www.sutd.edu.sg/admissions/graduate/masters/)
+*   [Continuing education (SUTD Academy)](https://www.sutd.edu.sg/admissions/academy/)
+*   [42 Singapore](https://www.42singapore.sg/)
+
+ MORE 
+
+*   [Library](https://mylibrary.sutd.edu.sg/)
+*   [Accreditation](https://www.sutd.edu.sg/education/accreditation)
+*   [Undergraduate courses](https://www.sutd.edu.sg/education/undergraduate/courses)
+
+* * *
+
+ PILLARS, CLUSTERS & PROGRAMMES 
+
+*    ASD  [Architecture and Sustainable Design](https://www.sutd.edu.sg/asd)
+*    DAI  [Design and Artificial Intelligence](https://www.sutd.edu.sg/dai)
+*    EPD  [Engineering Product Development](https://www.sutd.edu.sg/epd)
+*    ESD  [Engineering Systems and Design](https://www.sutd.edu.sg/esd)
+*    HASS  [Humanities, Arts and Social Sciences](https://www.sutd.edu.sg/hass)
+*    ISTD  [Information Systems Technology and Design](https://www.sutd.edu.sg/istd)
+*    SMT  [Science, Mathematics and Technology](https://www.sutd.edu.sg/smt)
+
+[Design·AI Research](https://www.sutd.edu.sg/research)
+
+ OVERVIEW 
+
+*   [Research news](https://www.sutd.edu.sg/research/research-news/)
+*   [Research centres](https://www.sutd.edu.sg/research/research-centres)
+*   [Research programmes and fellowship](https://www.sutd.edu.sg/research/research-programmes-fellowships)
+
+ RESEARCH ADMINISTRATION 
+
+*   [Research integrity](https://www.sutd.edu.sg/research/research-integrity)
+*   [Institutional Review Board (IRB)](https://www.sutd.edu.sg/research/institutional-review-board/)
+
+ MORE 
+
+*   [Faculty](https://www.sutd.edu.sg/about/people/faculty)
+*   [Library](https://mylibrary.sutd.edu.sg/)
+
+[Design·AI Innovation](https://www.sutd.edu.sg/innovation)
+
+ INNOVATION ECOSYSTEM 
+
+*   [Design·AI Innovation and Venture Exploration (DIVE)](https://www.sutd.edu.sg/dive/)
+*   [Future of Innovation](https://www.sutd.edu.sg/future-of-innovation/)
+*   [Educational technology](https://www.sutd.edu.sg/innovation/educational-technology)
+*   [Fabrication lab](https://www.sutd.edu.sg/innovation/fabrication-lab)
+
+ INNOVATION SHOWCASE 
+
+*   [Book of Innovations](https://www.sutd.edu.sg/book-of-innovations)
+
+ INNOVATION FOR COMMUNITY 
+
+*   [Design Innovation (Consultancy & Training)](https://www.sutd.edu.sg/innovation/design-innovation/)
+
+ INNOVATION IN EDUCATION 
+
+*   [daVinci@SUTD Experience](https://www.sutd.edu.sg/innovation/davincisutd/)
+*   [STEAMxD Immersion Programme](https://www.sutd.edu.sg/innovation/davincisutd/steamxd-immersion-programme/)
+*   [Digital Learning Capability Centre (DLCC)](https://dlcc.sutd.edu.sg/)
+
+[Design·AI Enterprise](https://www.sutd.edu.sg/enterprise)
+
+ PARTNERING CORPORATES 
+
+*   [Research collaborations](https://www.sutd.edu.sg/enterprise/research-collaborations)
+*   [Technology licensing](https://www.sutd.edu.sg/enterprise/technology-licensing)
+*   [Translational Research Lab (DesignZ)](https://www.sutd.edu.sg/research/research-centres/designz/)
+
+ SUPPORTING ENTREPRENEURS 
+
+*   [Venture and incubation experience](https://www.sutd.edu.sg/enterprise/venture-innovation-entrepreneurship)
+
+[Admissions](https://www.sutd.edu.sg/admissions)
+
+ PROGRAMMES 
+
+*   [Undergraduate](https://www.sutd.edu.sg/admissions/undergraduate)
+*   [Graduate](https://www.sutd.edu.sg/admissions/graduate/masters/)
+*   [Continuing Education (SUTD Academy)](https://www.sutd.edu.sg/admissions/academy)
+*   [42 Singapore](https://www.42singapore.sg/admissions/)
+
+[Campus life](https://www.sutd.edu.sg/campus-life)
+
+ STUDENT EXPERIENCE 
+
+*   [Students Opportunities Programme](https://www.sutd.edu.sg/campus-life/students-opportunities-programme/)
+*   [Student life](https://www.sutd.edu.sg/campus-life/student-life)
+*   [Global experience and exchange](https://www.sutd.edu.sg/campus-life/global-experience-and-exchange/)
+*   [Career development](https://www.sutd.edu.sg/campus-life/career-development/)
+*   [Student well-being](https://www.sutd.edu.sg/campus-life/wellbeing-services/)
+
+ CAMPUS 
+
+*   [Academic facilities](https://www.sutd.edu.sg/campus-life/academic-facilities/)
+*   [Housing](https://www.sutd.edu.sg/campus-life/housing/)
+*   [Sports and recreation centre](https://www.sutd.edu.sg/campus-life/sports-and-recreation-centre/)
+*   [F&B and services](https://www.sutd.edu.sg/campus-life/fnb-and-services/dining)
+*   [Library](https://mylibrary.sutd.edu.sg/)
+
+[About](https://www.sutd.edu.sg/about)
+
+ OVERVIEW 
+
+*   [Design·AI](https://www.sutd.edu.sg/about/design-ai/)
+*   [At a glance](https://www.sutd.edu.sg/about/at-a-glance)
+*   [Diversity and inclusion](https://www.sutd.edu.sg/about/diversity-inclusion)
+*   [Sustainability](https://www.sutd.edu.sg/about/sustainability)
+
+ PEOPLE 
+
+*   [Leadership](https://www.sutd.edu.sg/about/people/leadership)
+*   [Board of Trustees](https://www.sutd.edu.sg/about/people/board-of-trustees)
+*   [President Emeritus](https://www.sutd.edu.sg/about/people/president-emeritus)
+*   [Professorships](https://www.sutd.edu.sg/about/people/professorships/)
+*   [Faculty](https://www.sutd.edu.sg/about/people/faculty)
+
+ MORE 
+
+*   [Thought leadership](https://www.sutd.edu.sg/about/thought-leadership/)
+*   [News and happenings](https://www.sutd.edu.sg/about/happenings)
+*   [Pressroom and publications](https://www.sutd.edu.sg/about/publications)
+*   [Careers at SUTD](https://www.sutd.edu.sg/about/careers)
+*   [Partnering with SUTD](https://www.sutd.edu.sg/about/partnering-with-sutd)
 
 [](https://www.sutd.edu.sg/Admissions/Financial-Aid-Scholarships#)
 
@@ -252,3 +251,5 @@ Social Media
 Copyright © 2011 – 2026
 
 We use cookies to ensure you get the best experience on our website. By selecting “I agree”, you consent to our use of cookies.I agree I decline
+
+![Image 7](https://pixel.wp.com/g.gif?v=ext&blog=232639631&post=0&tz=8&srv=www.sutd.edu.sg&arch_err=%2FAdmissions%2FFinancial-Aid-Scholarships&hp=vip&j=1%3A16.3.1&host=www.sutd.edu.sg&ref=&fcp=500&rand=0.5876824897251844)

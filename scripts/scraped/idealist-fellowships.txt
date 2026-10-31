@@ -58,25 +58,33 @@ Log In
 
 Sign Up
 
-Search
+## Explore
 
-Search by keyword, skill, or interest 
+*   [Get Involved](https://www.idealist.org/en/days/get-involved)
+*   [Find a Job](https://www.idealist.org/en/jobs)
+*   [Find Volunteer Opportunities](https://www.idealist.org/en/volunteer)
+*   [Find an Internship](https://www.idealist.org/en/internships)
+*   [Search Organizations](https://www.idealist.org/en/organizations)
+*    Resources 
+    *   [![Image 17](https://www.idealist.org/static/images/illustrations/article-illustration.svg)Career Advice](https://www.idealist.org/en/careers)
+    *   [![Image 18](https://www.idealist.org/static/images/illustrations/article-illustration.svg)Volunteer Resources](https://www.idealist.org/en/volunteering-resources?pq=)
+    *   [![Image 19](https://www.idealist.org/static/images/illustrations/salary-illustration.svg)Nonprofit Salary Explorer](https://www.idealist.org/nonprofit-salary-explorer)
+    *   [![Image 20](https://www.idealist.org/static/images/illustrations/star-illustration.svg)Recipes for Action](https://www.idealist.org/en/recipes-for-action?pq=)
+    *   [![Image 21](https://www.idealist.org/static/images/illustrations/gear-illustration.svg)Employer Resources](https://www.idealist.org/en/orgs/resources)
+    *   [![Image 22](https://www.idealist.org/static/images/illustrations/gear-illustration.svg)Volunteer Engagement Resources](https://www.idealist.org/en/orgs/volunteer-engagement-resources)
 
-Popular searches
+*    Business Solutions 
+    *   [API](https://www.idealist.org/en/open-network-api)
+    *   [Search Module](https://www.idealist.org/volunteer-search-widget)
+    *   [Volunteer Engagement Pages](https://www.idealist.org/en/volunteer-engagement-pages)
+    *   [CSR Partners](https://www.idealist.org/csr-services)
 
-[Communications](https://www.idealist.org/en/jobs?q=Communications)
+## Create
 
-[Education](https://www.idealist.org/en/jobs?q=Education)
+*   [Post a Listing](https://www.idealist.org/sign-up-to-post)
+*   [Create an Organization](https://www.idealist.org/sign-up-to-post)
 
-[Marketing](https://www.idealist.org/en/jobs?q=Marketing)
-
-[Executive Director](https://www.idealist.org/en/jobs?q=Executive+Director)
-
-[Attorney](https://www.idealist.org/en/jobs?q=Attorney)
-
-Clear Search
-
-Search
+Volunteer or find a job
 
 ##### 404: Page Not Found
 
@@ -84,17 +92,17 @@ Search
 
 Sorry, we couldn't find the page you were looking for. The link you followed may be broken, or the page may have been removed. Try the following options:
 
-[![Image 17: magnifying glass](https://www.idealist.org/static/images/magifying-glass.png) Search jobs](https://www.idealist.org/jobs)
+[![Image 23: magnifying glass](https://www.idealist.org/static/images/magifying-glass.png) Search jobs](https://www.idealist.org/jobs)
 
 * * *
 
-[![Image 18: Idealist logo](https://www.idealist.org/static/images/logos/logo-mark.webp) Go to the homepage](https://www.idealist.org/)
+[![Image 24: Idealist logo](https://www.idealist.org/static/images/logos/logo-mark.webp) Go to the homepage](https://www.idealist.org/)
 
 * * *
 
-[![Image 19: phone](https://www.idealist.org/static/images/phone.png) Contact Support](https://www.idealist.org/en/about/contact)
+[![Image 25: phone](https://www.idealist.org/static/images/phone.png) Contact Support](https://www.idealist.org/en/about/contact)
 
-![Image 20: Illustration](https://www.idealist.org/static/images/not-found.svg)
+![Image 26: Illustration](https://www.idealist.org/static/images/not-found.svg)
 
 Volunteer
 
@@ -112,7 +120,7 @@ About Us
 
 [Our Story](https://www.idealist.org/en/about)[Our Team](https://www.idealist.org/en/about/our-team)[Contact Us](https://www.idealist.org/en/about/contact)[Help Desk](https://www.idealist.org/en/help)[Donate to Idealist](https://giving.classy.org/campaign/673245/donate?utm_medium=referral&utm_source=idealist)
 
-[![Image 21: Idealist logo](https://www.idealist.org/static/images/logos/logo-mark.webp)![Image 22: idealist](https://www.idealist.org/static/images/logos/logo-idealist.svg)](https://www.idealist.org/en)
+[![Image 27: Idealist logo](https://www.idealist.org/static/images/logos/logo-mark.webp)![Image 28: idealist](https://www.idealist.org/static/images/logos/logo-idealist.svg)](https://www.idealist.org/en)
 Connecting more than 200,000 organizations with millions of people looking for social-impact jobs and volunteer opportunities.
 
 [](https://www.tiktok.com/@joinidealist?utm_medium=referral&utm_source=idealist)[](https://www.linkedin.com/company/idealist.org?utm_medium=referral&utm_source=idealist)[](https://instagram.com/joinidealist?utm_medium=referral&utm_source=idealist)[](https://www.facebook.com/Idealist?utm_medium=referral&utm_source=idealist)

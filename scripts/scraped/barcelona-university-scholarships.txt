@@ -5,8 +5,7 @@ URL Source: https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_univers
 
 Final URL: https://web.ub.edu/web/ub/
 
-Warning: Target URL returned error 403: Forbidden
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
 ![Image 1: Icon for web.ub.edu](https://web.ub.edu/favicon.ico)
